@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104128_Fr1_3</idno>
+           <idno type="DLPS">A03388</idno>
+           <idno type="STC">13509</idno>
+           <idno type="ESTC">S104128</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Eliosto libidinoso : described in two bookes: vvherein their imminent dangers are declared, who guiding the course of their life by the compasse of affection, either dash their ship against most dangerous shelues, or else attaine the hauen with extreame preiudice. Written b Iohn Hynd</title>
+                 <author>Hind, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Butter, Nathaniel.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                        </imprint>
+                 <extent>4, 95, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>Ad Lectorem.</head>
+   <lg>
+      <l>NOn hic Thesauros divitis ingêni,</l>
+      <l>F<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>cundae linguae ne<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> varios sonos,</l>
+      <l>Sed fortè insulsos accipies iocos,</l>
+      <l>Quos dum compon<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>, nescio quatenùs</l>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>rimen▪ parce precor m<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>hi</l>
+      <l>Err<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>nti, (Lector Candide) tu p<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>tes.</l>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="2 words">
+            <desc>〈◊◊〉</desc>
+         </gap> f<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> ti<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>iùs seg<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>▪</l>
+   </lg>
+   <p>Ioha<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>nes Hind.</p>
+</div>
+        </body>
+  </text>
+</TEI>

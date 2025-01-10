@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105404_Fr1_4</idno>
+           <idno type="DLPS">A06268</idno>
+           <idno type="STC">16753</idno>
+           <idno type="ESTC">S105404</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lachrymæ Londinenses. Or, Londons teares and lamentations : for Gods heauie visitation of the plague of pestilence. With, a map of the cities miserie: wherein may be seene, a iournall of the deplorable estate of the citie, from the beginning of the visitation vnto this present. A Christian expostulation and admonition to such as fled out of the citie</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas.</publisher>
+                            <publisher>Gibbs, George.</publisher>
+                            <publisher>Holland, Henry</publisher>
+                        </imprint>
+                 <extent>12, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="4"/>
+   <p>THe Reader may take knowledge that this Treatise
+was penned about the mids and heat of this <hi>Great
+Sicknesse,</hi> now through Gods mercy so much asswa<g ref="char:EOLhyphen"/>ged:
+and it should haue beene published aboue sixe
+Weekes since, but could not till now, by occasion of
+some accidents. Read all, or read none: and in rea<g ref="char:EOLhyphen"/>ding,
+rectifie these few <hi>Errata</hi> that haue passed the
+Presse:</p>
+   <p>Page 3. line 32. for <hi>presence,</hi> read, <hi>person.</hi> pag. 5. l. 13. for
+<hi>Debrees,</hi> r. <hi>Decrees.</hi> p. 11. l. 24. for <hi>of a,</hi> r. <hi>of the.</hi> pag. 12. l. 9.
+r. <hi>reduce to.</hi> p. 14. l. 19. r. <hi>Rab<gap reason="illegible: blotted" extent="2+ letters">
+            <desc>••…</desc>
+         </gap>akeh.</hi> p. 29. l. 25. r. <hi>about.</hi> pag.
+30. l. 30. for <hi>our,</hi> r. <hi>their.</hi> In marg. p. 25. for <hi>Deut.</hi> 1. r. <hi>Exod.</hi>
+18.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Fisher, Ambrosius</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102480_Fr1_4_2</idno>
+           <idno type="DLPS">A14003</idno>
+           <idno type="STC">24313</idno>
+           <idno type="ESTC">S102480</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Fisher, Ambrosius</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The pictvre of a true protestant: or, Gods house and husbandry : wherein is declared the duty and dignitie of all Gods children, both minister and people. Written by Thomas Tuke</title>
+                 <author>Tuke, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Archer, Thomas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>22, 232 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <lg>
+      <l>
+         <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>allere narramus <note n="a" place="margin">2. Cor. 11.2.</note> Colubris, <note n="b" place="margin">
+            <hi>Chedia.</hi> 1<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>.</note> seruare Ministrum:</l>
+      <l>Autorum la<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>inus n<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>mpe minister agit.</l>
+      <l>Findicat Aegypto Moses, dat clara <note n="c" place="margin">2. <gap reason="illegible" resp="#pdcc" extent="2 letters">
+               <desc>••</desc>
+            </gap>g. 18.</note> Mehushtan</l>
+      <l>Iumina, sic anima<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> Iordanis vnda lauat.</l>
+      <l>
+         <note n="d" place="margin">2. Paulus</note>
+         <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>nsif<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>r ipse serit, rigat &amp; facundus Apollo,</l>
+      <l>Quemlibet imbri-<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>oten sruge maritet agrum.</l>
+      <l>Ne<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> vult ang<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>licis molem sibi surgere templi</l>
+      <l>Malleolis: vafer hanc condit <note n="e" place="margin">
+            <hi>Iesse.</hi> 1. Salamo.</note> Iesse satus.</l>
+      <signed>Ambrosius Fisher.</signed>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

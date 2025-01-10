@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Dedication.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122349_Fr1_3</idno>
+           <idno type="DLPS">A03058</idno>
+           <idno type="STC">13183</idno>
+           <idno type="ESTC">S122349</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Dedication.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The temple : Sacred poems and private ejaculations. By Mr. George Herbert</title>
+                 <author>Herbert, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1633</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>8, 192, 4 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>¶ The Dedication.</head>
+   <l>LOrd, my first fruits present themselves to thee;</l>
+   <l>Yet not mine neither: for from thee they came,</l>
+   <l>And must return. Accept of them and me,</l>
+   <l>And make us strive, who shall sing best thy name.</l>
+   <l>Turn their eyes hither, who shall make a gain:</l>
+   <l>Theirs, who shall hurt themselves or me, refrain.</l>
+</div>
+        </body>
+  </text>
+</TEI>

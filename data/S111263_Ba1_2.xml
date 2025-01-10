@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Books to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111263_Ba1_2</idno>
+           <idno type="DLPS">A19521</idno>
+           <idno type="STC">595.8</idno>
+           <idno type="ESTC">S111263</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Books to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A subpæna from the high imperiall court of heauen : to bee serued vpon all men: vpon an information preferred by iustice against man-kinde. With the answer, and reply from Mercie, and her directions how to come to heauen, if we auoyd sinne. Shrinke not from this subpæna, which is pend; esteeme it well, for sure thou must appeare ... oh sinner, learne to seeke for thy saluation, if thou in heauen wouldst haue eternall ioyes</title>
+                 <author>Andrewes, John</author>
+                 <imprint>
+                    <publisher>White, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>24 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>The Books to the Reader.</head>
+   <lg>
+      <l>THis debt is due vpon Doomes day,</l>
+      <l>which you are summoned to pay:</l>
+      <l>Wherefore my Author well content,</l>
+      <l>because he warnes you to repent:</l>
+      <l>Repentance true God doth require,</l>
+      <l>it keepes you from eternall fire.</l>
+   </lg>
+   <trailer>FINIS.</trailer>
+   <closer>Ʋi veneranda Sones.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

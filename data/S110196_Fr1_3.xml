@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Pank, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110196_Fr1_3</idno>
+           <idno type="DLPS">A08893</idno>
+           <idno type="STC">19172.3</idno>
+           <idno type="ESTC">S110196</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Pank, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A most breefe, easie and plaine receite for faire writing : Wherin the author being well acquainted with the causes, which in these daies hinders it, hath for the good of his cuntrie, so distinguished and broken euery perticular letter for the true making thereof, and so perfectly and plainely shewed the ready way of true ioyning the same. Both for the roman and secretary handes, as any one of ordinarye yeres and capacity, not hindring any other busines, may at his idle times by his own priuate practise, in short time attaine to write, to serue very good vses either in office or otherwise</title>
+                 <author>Panke, William</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Perrin (Perin), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, in respect that many would willinglye attayne the perfection of writing, and cannot, either for that their a<g ref="char:EOLhyphen"/>biding is too farre off, or helde backe by occasion of busines or otherwise (which is most like,<note place="margin">Such as teach by great.</note>) that some newlye sprong in that knowledge, haue rated it so high as the greater sort that would, cannot, by reason of the price, and other better able for the same cause will not. This Author hath deuised such plain, easie, &amp; exact, rules for faire writing,<note place="margin">Though they ne<g ref="char:EOLhyphen"/>uer hand<g ref="char:EOLunhyphen"/>led pen.</note> as any one of ordinary yeeres and capa<g ref="char:EOLhyphen"/>citie, (much more they of greater iudgement) not subiect to impediment, may in a short space, at idle times not hin<g ref="char:EOLhyphen"/>dring their other busines, and by their owne priuate prac<g ref="char:EOLhyphen"/>tice attain, to write both the secretary, and roman hand, to serue very good vses either in office or otherwise.</p>
+   <p>And to the end, that he would auoide all occasions that might hinder his honest meaning in this his profita<g ref="char:EOLhyphen"/>ble woorke: he promiseth to such as shall buye his booke, that whatsoeuer either in the same, or otherwise be<g ref="char:EOLhyphen"/>longing to writing shall seeme hard, that he will gra<g ref="char:EOLhyphen"/>tis shew it them by woord of mouth, if they repaire vnto him. <hi>Vltimo Septembris. 1591.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>Quod ignoras, ne doceas.</hi> W. Panke.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

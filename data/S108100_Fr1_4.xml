@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108100_Fr1_4</idno>
+           <idno type="DLPS">A04907</idno>
+           <idno type="STC">15048</idno>
+           <idno type="ESTC">S108100</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A relation of seaven yeares slaverie under the Turkes of Argeire, suffered by an English captive merchant : Wherein is also conteined all memorable passages, fights, and accidents, which happined in that citie, and at sea with their shippes and gallies during that time. Together with a description of the sufferings of the miserable captives under that mercilesse tyrannie. Whereunto is added a second booke conteining a discription of Argeire, with its originall, manner of government, increase, and present flourishing estate. By Francis Knight</title>
+                 <author>Knight, Francis</author>
+                 <imprint>
+                    <distributor>Sparke, Michael 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Sparke (Sparkes, Wreichionen), Michael 1</publisher>
+                        </imprint>
+                 <extent>8, 56 pages, illustrations, map, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He Subject of this following discourse,
+neede no Apologie to make way for its en<g ref="char:EOLhyphen"/>tertainement;
+seeing none, to my know<g ref="char:EOLhyphen"/>ledge,
+hath ever devulged in Print, the
+estate and condition of Captives in that place of <hi>Ar<g ref="char:EOLhyphen"/>geire.</hi>
+I have undertaken thus meanely to present
+them to your sight, let the Curteous Reader pardon the
+faults, both of the Authour and the Presse, some where<g ref="char:EOLhyphen"/>of
+are observed in the <hi>Errata</hi> following, Farwell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

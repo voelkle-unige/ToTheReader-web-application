@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Jnvestigatio ingentis invictique solatii quod ex DOMINI NOSTRI IESV CHRISTI sessione ad dex∣tram DEI, ubertim &amp; con∣stanter percipiebat, PATRICIUS FORBESIUS à CORSE,  Episcopus Aberdoniensis, Consiliarius Regius, Studii generalis Aberdoniensis Instaurator &amp; Cancellarius, Baro de Oneil, &amp;c.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102430_Bo1_11</idno>
+           <idno type="DLPS">A01045</idno>
+           <idno type="STC">11151</idno>
+           <idno type="ESTC">S102430</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Jnvestigatio ingentis invictique solatii quod ex DOMINI NOSTRI IESV CHRISTI sessione ad dex∣tram DEI, ubertim &amp; con∣stanter percipiebat, PATRICIUS FORBESIUS à CORSE,  Episcopus Aberdoniensis, Consiliarius Regius, Studii generalis Aberdoniensis Instaurator &amp; Cancellarius, Baro de Oneil, &amp;c.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Funerals of a right reuerend father in God Patrick Forbes of Corse, Bishop of Aberdfne [sic] : Tou en hagiois reuerendissimi in Christo patris, Patricii Forbesii a Corse, episcopi Abredoniensis, tumulus. A multis omnium ordinum collachrymantibus variegato opere exornatus</title>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>20, 216, 201-216, 233-429, 3 pages, 1 leaf of plates, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="235" facs="148"/>
+   <head>Jnvestigatio ingentis invictique solatii quod ex DOMINI NOSTRI IESV CHRISTI sessione ad dex<g ref="char:EOLhyphen"/>tram DEI, ubertim &amp; con<g ref="char:EOLhyphen"/>stanter percipiebat, PATRICIUS FORBESIUS à CORSE, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> Episcopus Aberdoniensis, Consiliarius Regius, Studii generalis Aberdoniensis Instaurator &amp; Cancellarius, Baro de Oneil, &amp;c.</head>
+   <head type="sub">Quam ad <hi>DEI</hi> gloriam, &amp; audientium aedificatio<g ref="char:EOLhyphen"/>nem, &amp; proprii doloris levamen, pro Con<g ref="char:EOLhyphen"/>cione proposuit IOANNES FORBESIVS <hi>Filius.</hi>
+   </head>
+   <opener>
+      <salute>CHRISTIANE LECTOR,</salute>
+   </opener>
+   <p>NOn ipsum exhibemus Sermonem lingua nostra vernacula in coetu publico habitum, sed summa rerum fastigia Latinè de<g ref="char:EOLhyphen"/>lineata, quibus insistens viator adversa omnia contemnas, ac fa<g ref="char:EOLhyphen"/>cilè exsuperes, per CHRISTUM in corde tuo habitantem,
+<pb n="236" facs="149"/>
+qui te corroborat, tibiq́ue donat ut
+<q>
+         <l>Celsio<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> astrorum flummis, &amp; Numine plenus,</l>
+         <l>Hostica despicias agmina, tela, minas.</l>
+      </q>
+Conspicies enim Coelos apertos, &amp; videbis gloriam DEI, &amp; IE<g ref="char:EOLhyphen"/>SVM stantem ad dextram DEI,<note place="margin">
+         <hi>Act.</hi> 7.55.56 <hi>Esai.</hi> 33.16.17. <hi>Psal.</hi> 11<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>.7.</note> habitabis in excelsis, munitiones rupium sublimitas tua, panis tuus dabitur tibi, aquae tuae stabiles. Regem in decore suo videbunt oculi tui. Ab auditione mala, non timebis, quia paratum cor tuum fidens DOMINO.</p>
+</div>
+        </body>
+  </text>
+</TEI>

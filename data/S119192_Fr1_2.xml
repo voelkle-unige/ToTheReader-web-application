@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Queenes most excellent Maiestie.</title>
+           <author>Rowlands, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119192_Fr1_2</idno>
+           <idno type="DLPS">A09758</idno>
+           <idno type="STC">20025</idno>
+           <idno type="ESTC">S119192</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Queenes most excellent Maiestie.</title>
+                 <author>Rowlands, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The power of praier : A sermon preached in the Cathedrall Church of Exeter in August. 1596. By Thomas Playfere Professour of Diuinitie for the Ladie Margaret in Cambridge</title>
+                 <author>Playfere, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1603</date>
+                 <publisher>Legat (Legate, Legatt), John 1.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>4, 44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Queenes most excellent Maiestie.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eligion,<note place="margin">
+         <hi>Gloriosa in deum pietas honoribus re<g ref="char:EOLhyphen"/>giis immobile est fundamen<g ref="char:EOLhyphen"/>tum. Cyrillus ad Theodos. de recta fide.</hi>
+      </note> dread and deare Soueraigne, is an vnmoueable foū<g ref="char:EOLhyphen"/>dation of highest au<g ref="char:EOLhyphen"/>thoritie and honour. O then howe blessed are all we? how sure and vnmooueable is our peace and ioy? God hauing blessed vs with a king, who in religion and learning excelleth all aliue, and his Maiestie with a Queene in due proportion answerable to himselfe. Wherefore as it is our dutie to ioyne both in our daily praiers: so neither would I separate you in my humble endeauours. For the present felicitie and glory of this realme resteth wholly in his Maiestie,
+<pb facs="3"/>
+but the future hope to haue these infinite blessings continued vpon vs and all our posteritie, euen vnto the worlds end, ari<g ref="char:EOLhyphen"/>seth from you both, in respect of that most happie royall issue you haue had al<g ref="char:EOLhyphen"/>readie, and which if it please God you may haue hereafter. Which as it will be our greatest securitie and comfort: so that it may be no danger to your Maiesties health, especially that which your High<g ref="char:EOLhyphen"/>nesse now goeth withall, we shall continu<g ref="char:EOLhyphen"/>ally and importunately pray and beseech at Gods hands. And what <hi>the power of praier</hi> is, this short sermō which I pre<g ref="char:EOLhyphen"/>sume to offer vnto your sacred Maiestie, doeth in some sort shewe.</p>
+   <closer>
+      <signed>Your Maiesties most deuoted and obedient subiect, Thomas Playfere.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

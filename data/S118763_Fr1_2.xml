@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118763_Fr1_2</idno>
+           <idno type="DLPS">A20710</idno>
+           <idno type="STC">71.40</idno>
+           <idno type="ESTC">S118763</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Theses philosophicae : quas auspice &amp; propitio D.O.M. adolescentes, magisterii candidati, in Academia Mareschallana, die 21 Iulii, Anno 1637. In publico clarissimorum philosophorum confessu propugnabunt, ab aurora ad meridiem</title>
+                 <author>Seton, John</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>Nobilissimo Adolescenti, pietate, virtute, &amp; eruditione Clarissimo, Do<g ref="char:EOLhyphen"/>mino GVLIELMO KETHO, Illu<g ref="char:EOLhyphen"/>strissimi Comitis <hi>MARESCHALLI, KETHAEAE</hi> Familiae Principis, D. a <hi>KETH, ALTRE,</hi> &amp;c. Filio natu Maximo, unicis nostrarum Musarum deliciis, Maecenati nostro ter Munificentissi<g ref="char:EOLhyphen"/>mo &amp; Maximo,</p>
+   <closer>
+      <signed>S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

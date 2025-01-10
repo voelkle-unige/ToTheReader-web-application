@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS most excellent Maiestie, my most gracious Soue∣raigne Lord.</title>
+           <author>V., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111516_Fr1_3</idno>
+           <idno type="DLPS">A14324</idno>
+           <idno type="STC">24639</idno>
+           <idno type="ESTC">S111516</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS most excellent Maiestie, my most gracious Soue∣raigne Lord.</title>
+                 <author>V., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true testimonie of a faithfull subiect : containing seuerall exhortations to all estates, to continue them in their due obedience: together with the reward of a faithfull subiect to his prince. Also a thanksgiuing to God for the happie deliuery of the house of Parliament from the late horrible treason</title>
+                 <author>R. V. (Richard Vennard)</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>40 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>TO THE KINGS most excellent Maiestie, my most gracious Soue<g ref="char:EOLhyphen"/>raigne Lord.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Ost renowned Soueraigne, as before your Maiesties co<g ref="char:EOLhyphen"/>ming to this Crowne, I did in your Realme of Scotland make apparant my vnfained loue to your Highnesse: so do I now on bended knees most humbly beseech your royall Maiestie to accept this little hand<g ref="char:EOLhyphen"/>full of my hearts most faithfull affection; wherein my feeling of Gods mercies, my knowledge of your gracious goodnesse, and my care of my countries well-doing, hath made me take such paines. As if it may be pleasing in your sight, shall breed no little glory to my soule: who kneeling
+<pb facs="3"/>
+at your royall feete, do beseech the God of all glorie to endue your Highnesse with his infinite blessings, and long to preserue your royall Maiestie in all ioyfull health, and prosperous life. <hi>Amen.</hi>
+   </p>
+   <closer>
+      <signed>Your Maiesties most faithfull and loyall subiect in the hu<g ref="char:EOLhyphen"/>militie of all loyaltie, <hi>R. V.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

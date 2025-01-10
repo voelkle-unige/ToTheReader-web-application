@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Loth, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101091_Fr1_3</idno>
+           <idno type="DLPS">A05738</idno>
+           <idno type="STC">1591</idno>
+           <idno type="ESTC">S101091</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Loth, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Christian mans closet : Wherein is conteined a large discourse of the godly training vp of children: as also of those duties that children owe vnto their parents, made dialogue wise, very pleasant to reade, and most profitable to practise, collected in Latin by Bartholomew Batty of Alostensis. And nowe Englished by William Lowth</title>
+                 <author>Batt, Barthélemy</author>
+                 <imprint>
+                    <distributor>Seton, Gregory</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 <publisher>Dawson, Thomas.</publisher>
+                            <publisher>French, Peter</publisher>
+                        </imprint>
+                 <extent>4, 101 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Fter that I had finished this small trea<g ref="char:EOLhyphen"/>tise (gentle and louing Reader) being mooued thereunto partely for mine owne pleasure and increase of know<g ref="char:EOLhyphen"/>ledge, and then againe vrged by the earnest instigation of some friendes, for our countries cause (which stādeth in great need of the godly and whole<g ref="char:EOLhyphen"/>some documents, with the graue coun<g ref="char:EOLunhyphen"/>sels &amp; pithie preceptes in this litle vo<g ref="char:EOLhyphen"/>lume contayned.) And herewithal calling to mind that worthy &amp; notable saying of the Diuine Philosopher <hi>Plato,</hi> cyted by <hi>Cicero</hi> in his first booke of Offices. <hi>Non nobis solum nati sumus: ortus e<g ref="char:EOLhyphen"/>nim nostri, partem patria vendicat, partem parentes, partem amici.</hi> I was heereby incited, stirred, and procured, to make this more fa<g ref="char:EOLhyphen"/>miliar and openly knowne vnto thee, beeyng a matter so profita<g ref="char:EOLhyphen"/>ble and necessary for all parents, maisters, children, and seruants, Wherein as in a most cleere glasse they may plainly see, what doth appertayne to their seuerall dueties.</p>
+   <p>And albeit I haue vsed a playne and simple stile in this my trās<g ref="char:EOLhyphen"/>lation: yet well beseeming the matter (I trust) though perhaps not to eche mans lyking. For it is truely saide of <hi>Terence, Quot homines tot sententiae.</hi> Or: <hi>Quot capita, tot sensus.</hi> So many men, so many mindes. <hi>Or:</hi> So many heades, so many wittes. So that I thinke it an impossible thing to please euery mans iudgement, neither is it my purpose and meaning. But I haue offered this vn<g ref="char:EOLhyphen"/>to thy viewe, aswell for the discharge of my conscience, as also for the entire loue I beare vnto my natiue countriemen, let the cu<g ref="char:EOLhyphen"/>rious cauiller say what hee will.
+<pb facs="5"/>
+Praying the (gentle Reader) to take in good parte the simplenesse of my gift, and let it not greeue thee to bestowe thy paines and diligence in the reading ouer this fruitfull <hi>Dialogue,</hi> for thine own profite and commoditie. Haue not so great regard vnto the au<g ref="char:EOLhyphen"/>thoritie of the writer: as to note diligently what it is, that is writ<g ref="char:EOLhyphen"/>ten. I dare warrant thee, that the oftener thou readest it with due consideration and aduisement, the greater shalbee thy profite, and as for my paynes and trauaile taken here<g ref="char:EOLhyphen"/>in, if I may reape thy good will, I aske no more.</p>
+   <closer>
+      <signed>W. Lo<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>th.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In laudem Authoris</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114628_Fr1_8</idno>
+           <idno type="DLPS">A00551</idno>
+           <idno type="STC">10688</idno>
+           <idno type="ESTC">S114628</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In laudem Authoris</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The complaint of Paules, to all Christian soules: or an humble supplication, to our good King and nation, for her newe reparation. Written by Henrie Farley. Amore, veritate, &amp; reuerentia</title>
+                 <author>Farley, Henry</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="12"/>
+   <head>In laudem Authoris</head>
+   <head type="sub">Carmen <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <lg>
+      <l>SEmiruta aspiciens Paulini culmina templi</l>
+      <l>Farleius, queritur tale perire decus.</l>
+      <l>Mox piaspirantem componit vota libellum,</l>
+      <l>Et quia non poter at magna, minora facit.</l>
+      <l>Qui si tàm nosset templum, quàm condere versum,</l>
+      <l>Efficeret propria, quod vouet, ipse manu.</l>
+      <l>Fortunet laetis deus hoc successibus ausum,</l>
+      <l>Gloria &amp; ingenuum certa sequatur opus.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

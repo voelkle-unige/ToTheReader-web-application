@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Postscript]</title>
+           <author>Iansenius, Cornelius</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1567</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116558_Ba1_2</idno>
+           <idno type="DLPS">A03769</idno>
+           <idno type="STC">13889</idno>
+           <idno type="ESTC">S116558</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Postscript]</title>
+                 <author>Iansenius, Cornelius</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Of the expresse vvorde of God : A shorte, but a most excellent treatyse and very necessary for this tyme. Written in Latin, by the right reuerend, lerned, and vertuous father Stanislaus Hosius, Bishop of VVarmia, Cardinal of the Holy Apostolyke See of Rome, and one of the presidents in the late general councel holden at Trent. Newly translated in to English</title>
+                 <author>Hozjusz, Stanisław</author>
+                 <imprint>
+                    <publisher>Bogard (Bogardus), Jean</publisher>
+                    <pubPlace>Belgium--Louvain</pubPlace>
+                    <date>1567</date>
+                 </imprint>
+                 <extent>4, 113, 3 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <p>Ego Cornelius Tansenius testor me certo intellexisse a doctis viris, fide dignis &amp; Anglice peritis, hunc D. Cardi<g ref="char:EOLhyphen"/>nalis Hosij librum, De Expresso Verbo Dei, hic fideliter versum esse in linguam Anglicam, ac proinde ad Anglo<g ref="char:EOLhyphen"/>rum vtilitatem iudico eum typis excudendum.</p>
+   <closer>
+      <signed>Ita esse testor Cornelius Iansenius
+Sacrae Theolog. Prosessor.</signed>
+   </closer>
+   <pb facs="121"/>
+</div>
+        </body>
+  </text>
+</TEI>

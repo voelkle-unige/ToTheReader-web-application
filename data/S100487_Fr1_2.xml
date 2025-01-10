@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>My Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100487_Fr1_2</idno>
+           <idno type="DLPS">A68968</idno>
+           <idno type="STC">3474.5</idno>
+           <idno type="ESTC">S100487</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>My Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The tragedie of Alceste and Eliza : As it is found in Italian, in La Croce racquistata. Collected, and translated into English, in the same verse, and number, by Fr. Br. Gent. At the request of the right vertuous lady, the Lady Anne Wingfield</title>
+                 <author>Bracciolini, Francesco</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Waterson, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>76 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>My Booke.</head>
+   <lg>
+      <l>THinkst thou to scape, when no booke scapes, that passes</l>
+      <l>The Presse, but it is prest to under-go</l>
+      <l>The censure, both of wise-men and of asses,</l>
+      <l>That can, and cannot judge of what we do?</l>
+   </lg>
+   <lg>
+      <l>No, looke not for't: an Eagles eye will spy</l>
+      <l>Spots in the Sunne, no other bird can see;</l>
+      <l>And yet the Owle that hath the weakest eye</l>
+      <l>Will see by owle-light, twice as much as she.</l>
+      <l>Why then prevent them both, and first confesse</l>
+      <l>Thy fault, and mine that sent thee to the Presse.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117491_Fr1_2</idno>
+           <idno type="DLPS">A12399</idno>
+           <idno type="STC">22713</idno>
+           <idno type="ESTC">S117491</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The vvedding garment</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <distributor>Wright, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>46, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb n="3" facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O controll those false coppies of this Ser<g ref="char:EOLhyphen"/>mon, whiche were printed without my knowledge (pat<g ref="char:EOLhyphen"/>ched as it seemeth) out of some borrowed notes, and to stoppe the Printing of it againe without my corrections, as it was intented, be<g ref="char:EOLhyphen"/>cause they had gotte it licensed be<g ref="char:EOLhyphen"/>fore, although vtterly vnwilling for some respects to haue it publi<g ref="char:EOLhyphen"/>shed, which made mee withstand their importunity so long, yet see<g ref="char:EOLhyphen"/>ing more inconuenience then I
+<pb facs="3"/>
+thought of, I suffered that which I could not hinder. And nowe hoping that it is Gods will to profit some by it, as <hi>Iaakob</hi> parted from <note place="margin">Gen. 43. 11.</note>
+      <hi>Beniamin,</hi> so that which must be let hee, and the Lorde geue thee a blessing with it.</p>
+</div>
+        </body>
+  </text>
+</TEI>

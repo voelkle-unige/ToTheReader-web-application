@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1528_Fr2_2</idno>
+           <idno type="DLPS">A16910</idno>
+           <idno type="STC">3801.5</idno>
+           <idno type="ESTC">S1528</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Demands to be propounded of Catholickes to the heretikes by Richard Bristow ... ; taken partly out of his late English booke of Motiues to the Catholicke faith, partely out of his printed Latin booke of the same matter</title>
+                 <author>Bristow, Richard</author>
+                 <imprint>
+                    <publisher>Boscard, Charles</publisher>
+                    <distributor>Heigham, John (Roger)</distributor>
+                    <pubPlace/>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>168, 20 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <pb n="128" facs="65"/>
+   <q>
+      <p>
+         <hi>Stand yee vpon the wayes, and see and aske of the old pathes, which is the good way, and walke yee in it, and you shall find refreshing for your sou<g ref="char:EOLhyphen"/>les.</hi>
+         <bibl>Ieremy 6.16.</bibl>
+      </p>
+      <p>
+         <hi>There must be heresyes, that they who are approued, may be knowne a<g ref="char:EOLhyphen"/>mong you.</hi>
+         <bibl>Cor.</bibl>
+      </p>
+      <p>
+         <hi>And I desire you brethrē, to mark them that make dissentions and scan<g ref="char:EOLhyphen"/>dals, contrary to the doctrine which you haue learned, and auoyd them: for such do not serue Christ our Lord, but their owne belly, and by sweet speaches and benedictions, seduce the harts of innocents.</hi>
+         <bibl>Rom. 16.17.</bibl>
+      </p>
+      <p>
+         <hi>I know that after my departure, there will rauening wolues enter in among you, not sparing the flocke: and out of your owne selues shall arise men speaking peruerse thinges, to draw a<g ref="char:EOLhyphen"/>way disciples after themselues.</hi>
+         <bibl>Acts 20.29.</bibl>
+      </p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

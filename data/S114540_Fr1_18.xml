@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Vowel, Pet.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114540_Fr1_18</idno>
+           <idno type="DLPS">A07439</idno>
+           <idno type="STC">17824</idno>
+           <idno type="ESTC">S114540</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Vowel, Pet.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Historia mundi: or Mercator's atlas : Containing his cosmographicall description of the fabricke and figure of the world. Lately rectified in divers places, as also beautified and enlarged with new mappes and tables; by the studious industry of Iudocus Hondy. Englished by W S. generosus, &amp; Coll. Regin. Oxoniæ</title>
+                 <author>Mercator, Gerhard</author>
+                 <imprint>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Cartwright, Samuel.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 922, that is 932, 32 pages, 1 folded plates, maps, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <lg>
+      <l>NIli diluvium steriles faecundat agellos.</l>
+      <l>Floscula sparsa iuvant: stercora lucra ferunt;</l>
+      <l>Inde decus Solis, late quia lumina spargit.</l>
+      <l>Rivi fama patet, flumina longa trahens.</l>
+      <l>Sic linguis varijs, doctum lucrantur opellae</l>
+      <l>Laudem, diffusae: nos tamen omne bonum.</l>
+      <l>Hebrae<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>, Graeci exonerant: gens undique docta</l>
+      <l>Alueum in Brittanicum, qui scatet arte nova,</l>
+      <l>Olim non notus, noto divisus ab orbe</l>
+      <l>Huc tendi petijt navita nullus iter.</l>
+      <l>Olim tendebat cla<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>us mercator ad Indos,</l>
+      <l>Iam oras Angligenúm, curva carina petit.</l>
+      <l>Ast hic <hi>Mercator</hi> non est omninò viator</l>
+      <l>Musaeo merces; littus &amp; aequor eme.</l>
+   </lg>
+   <closer>
+      <signed>Pet. Vowel.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           <author>O., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106808_Fr2_3</idno>
+           <idno type="DLPS">A19014</idno>
+           <idno type="STC">543</idno>
+           <idno type="ESTC">S106808</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 <author>O., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third booke of Amadis de Gaule : Containing the discords and warres which befell in Great Brittaine, and there about, occasioned by the bad counsell, which King Lisuart receiued from Gandandell and Brocadan, against Amadis and his followers: whereby many good knights (afterward on either side) cruelly concluded their liues. VVritten in French by the Lord of Essars, Nicholas de Herberay ... Translated into English by A.M</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Islip, Adam.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>4, 187, 1, 4, 195, 5 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="318"/>
+   <head>The Printer to the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Auing finished these two Bookes of <hi>Amadis de Gaule</hi> (the third and fourth, somewhat longer delayed, then was at the first intended) I am to intreate thy gentle fauour (courteous Rea<g ref="char:EOLhyphen"/>der) for such slips and errors, as haue escaped mee in the Printing, and where Sence shall seeme lame or defectiue in any place, to helpe it with thy bet<g ref="char:EOLhyphen"/>ter vnderstanding; as considering, that not wilfully: but ra<g ref="char:EOLhyphen"/>ther vnwillingly, those faults haue escaped the Presse. By <hi>Mi<g ref="char:EOLhyphen"/>chaelmasse Tearme</hi> next ensuing, I haue made promise, of the first and second Bookes of <hi>Amadis</hi> and so consequently the follow<g ref="char:EOLhyphen"/>ing parts, as God and thy kinde fauour shall therein further me. Till when, accept these; a speedie spurre to hasten on the o<g ref="char:EOLhyphen"/>ther.</p>
+   <closer>
+      <signed>Thine to be commanded, N. O.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

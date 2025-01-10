@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112957_Fr1_1</idno>
+           <idno type="DLPS">A10295</idno>
+           <idno type="STC">20579.5</idno>
+           <idno type="ESTC">S112957</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The perfect pathway to salvation</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 <publisher>Judson, John.</publisher>
+                            <publisher>Judson, John.</publisher>
+                            <publisher>Orwin, Thomas</publisher>
+                        </imprint>
+                 <extent>348 pages, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hrough two fieldes, Christian Reader, the way is directed: the one full of Briers, hath the perfest Path to Saluation, the other (more pleasant to the vi<g ref="char:EOLhyphen"/>cious minde) leades to endlesse misorie: church with aduice, and shun with discretion. And to me thy vnknown frtend, lend (I pray thee) us friendly iudg<g ref="char:EOLhyphen"/>ment, as I shall wish for thy prosporous estate: farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

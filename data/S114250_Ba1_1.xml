@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114250_Ba1_1</idno>
+           <idno type="DLPS">A68850</idno>
+           <idno type="STC">24903.5</idno>
+           <idno type="ESTC">S114250</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A mothers teares ouer hir seduced sonne: or A dissuasiue from idolatry : penned in way of a dialogue, by occasion of a late letter from the sonne now at Doway, to his mother: which is also printed vvith the letter, and is fully set downe in the sonnes part, for the substance, though with some addition in forme</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>25, 167 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>I know Reader, you have found many faults; sometimes words misplaced, sometimes letters, most times stopps. I wish it better, but it would not be, for want of d<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>e attendance as the Presse: and for that the Copy was part printed, part written, the Composer was mistaken, putting i<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> six lines (pag. 136. lin. 6. From Hearken to the end of the period) which should have beene out▪ A word or two also there is which corruptes the sense. Pag. 54. lin. 29. read subsistances. Pag. 103. lin. 6. read understanding. Pag. 140 lin 3. read befitts. Other literall faults there are many: a<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> pag. 118. i for y in a Greek word. Pag. 130. t for s in a Latine. <hi>Sed quid exempta juvat spinis de pluribus una.</hi> Let mee have thy love, and greater faults then these will be covered.</p>
+</div>
+        </body>
+  </text>
+</TEI>

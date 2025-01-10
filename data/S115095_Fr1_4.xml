@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115095_Fr1_4</idno>
+           <idno type="DLPS">A07799</idno>
+           <idno type="STC">18176</idno>
+           <idno type="ESTC">S115095</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A catholike appeale for Protestants, out of the confessions of the Romane doctors : particularly answering the mis-named Catholike apologie for the Romane faith, out of the Protestants: manifesting the antiquitie of our religion, and satisfying all scrupulous obiections which haue bene vrged against it. Written by Th. Morton Doctor of Diuinitie</title>
+                 <author>Morton, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Bishop, George.</publisher>
+                            <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Norton, John 1</publisher>
+                        </imprint>
+                 <extent>24, 680, 20 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>Some things in this <hi>Appeale,</hi> (good Reader) which neede to be corrected, expla<g ref="char:EOLhyphen"/>ned, or added, for thy better direction and satisfaction, are in the end of this Booke plainly and plentifully set downe. Yet one escape hath bene omitted, pag. <hi>88.</hi> num. <hi>6.</hi> lin. <hi>4.</hi> wherefor, <hi>vowes,</hi> reade, <hi>vowing vnto Saints:</hi> and ibid. lin. <hi>5.</hi> reade, <hi>of such vowing.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

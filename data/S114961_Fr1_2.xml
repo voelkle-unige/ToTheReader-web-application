@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114961_Fr1_2</idno>
+           <idno type="DLPS">A09868</idno>
+           <idno type="STC">20134</idno>
+           <idno type="ESTC">S114961</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at the consecration of the right Reverend Father in God Barnaby Potter DD. and L. Bishop of Carlisle, at Ely house in Holbourne March 15. 1628. By Christopher Potter D.D. provost of Queenes Colledge in Oxford. Hereunto is added an advertisement touching th history of the quarrels of Pope Paul 5 with the Venetians; penned in Italian by F. Paul, and done into English by the former author</title>
+                 <author>Potter, Christopher</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <publisher>Clarke, John 1.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>4, 127, 5 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>REVERENDO IN Christo Patri Ac Domino D. Barnabae Potter S. Th. D. Episcopo Carleo<g ref="char:EOLhyphen"/>lensi, Praesvli Sanctitatis Et Ervditionis Fama Clarissimo, Cha<g ref="char:EOLhyphen"/>rissimo Pa<g ref="char:EOLhyphen"/>trveli,</p>
+   <p>Christophorvs Potter Hanc Concionem Svm<g ref="char:EOLhyphen"/>mi Amoris Et Ob<g ref="char:EOLhyphen"/>servantiae Tenve Pignvs Et Tes<g ref="char:EOLhyphen"/>seram <hi>L. M. Q. D. D.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

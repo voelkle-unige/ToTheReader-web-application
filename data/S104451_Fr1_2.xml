@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Sq, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104451_Fr1_2</idno>
+           <idno type="DLPS">A06793</idno>
+           <idno type="STC">17229</idno>
+           <idno type="ESTC">S104451</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Sq, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Newes from Mamora, or, A summary relation sent to the king of Spaine of the good successe of a voyage : which it hath pleased God to giue in taking, and suprising, of Mamora, a port in Barbary. By the armado and hoast royall, of the ocean sea, whereof was captaine generall Don Luis Faxardo: assisted with three galleis [sic] of Portingall, vnder the command of the Conde de Elda, and fiue gallies of Spaine, vnder the Duke of Fernandina</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Archer, Thomas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Ordinances, edicts, proclamations</term>
+                    <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Political tracts</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   
+   <pb facs="2"/>
+   
+   <head>To the Reader.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">G</seg>ENTLE Reader,</salute>
+   </opener>
+   <p>of late there came vn<g ref="char:EOLhyphen"/>to my hands a Relation, written in Spa<g ref="char:EOLhyphen"/>nish, of the surprising of <hi>Mamora,</hi> a Port in Barbary, by the Army of the King of Spaine, as by that which ensueth more at large appeareth, which at the request of some friends I Translated, and with all thought it necessary to aduertise thee, that heerein I respected not so much exactnesse in Translating word for word out of the Originall, (whereby the matter must perforce loose its garb and graine) as I haue en<g ref="char:EOLhyphen"/>deuored to declare the precise truth of each passage, according to the authors methode and intention.</p>
+   <p>I was the rather induced to giue thee notice, for that, happily, some that are curious, and intel<g ref="char:EOLhyphen"/>ligent, in that language, comparing this with some Copies, or Manuscripts of this businesse, might taxe my fidelity, or vnderstanding: which to preuent, I inserted this briefe aduertisment, which with the discourse it selfe, I referre to thy perusall, thy selfe to GOD, and my selfe to thy good opinion:</p>
+   <closer>
+      <dateline>London <date>the 28. of September: 1614.</date>
+      </dateline>
+      <signed>W. Squ.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

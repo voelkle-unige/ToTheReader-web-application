@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100487_Fr1_3</idno>
+           <idno type="DLPS">A68968</idno>
+           <idno type="STC">3474.5</idno>
+           <idno type="ESTC">S100487</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The tragedie of Alceste and Eliza : As it is found in Italian, in La Croce racquistata. Collected, and translated into English, in the same verse, and number, by Fr. Br. Gent. At the request of the right vertuous lady, the Lady Anne Wingfield</title>
+                 <author>Bracciolini, Francesco</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Waterson, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>76 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>Reader.</head>
+   <lg>
+      <l>IF I were by thee when thou read'st my Booke,</l>
+      <l>I should observe thy curtesie and skill.</l>
+      <l>And happily conjecture by thy looke</l>
+      <l>How I might mend some faults that scap't my quill:</l>
+      <l>For I must tell thee, I was never yet</l>
+      <l>Asham'd to borrow of a better wit.</l>
+   </lg>
+   <lg>
+      <l>But if I should perceive thee winke or scowle</l>
+      <l>At any trifle, with thy pur-blind eyes,</l>
+      <l>I should accompt thee but an idle Owle,</l>
+      <l>That (so unlike an Eagle) catchest flies.</l>
+      <l>For though my stock of wit be nere so little,</l>
+      <l>I scorn to have it said, I rob the Spittle.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

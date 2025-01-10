@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT VVORshipfull, Sir Thomas Smith of Hough, in the Countie of Chester, Knight; Francis Pilkington Batchelor of Musicke, and Lutenist, wisheth all happines in this life, and eternall felicity in the life to come.</title>
+           <author>Pilkington, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110423_Fr5_2</idno>
+           <idno type="DLPS">A09654</idno>
+           <idno type="STC">19923</idno>
+           <idno type="ESTC">S110423</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT VVORshipfull, Sir Thomas Smith of Hough, in the Countie of Chester, Knight; Francis Pilkington Batchelor of Musicke, and Lutenist, wisheth all happines in this life, and eternall felicity in the life to come.</title>
+                 <author>Pilkington, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first set of madrigals and pastorals of 3. 4 and 5. parts. Newly composed by Francis Pilkington, Batchelor of Musicke and lutenist, and one of the Cathedrall Church of Christ and blessed Mary the Virgin in Chester</title>
+                 <author>Pilkington, Francis</author>
+                 <imprint>
+                    <publisher>Browne, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <distributor>Barley, William, Assignee(s etc.) of</distributor>
+                            <distributor>Lownes, Matthew</distributor>
+                            <distributor>Snodham, alias East, Thomas</distributor>
+                        </imprint>
+                 <extent>118 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="47"/>
+   <pb facs="47"/>
+   <head>TO THE RIGHT VVOR<seg rend="sup">shipfull,</seg> Sir <hi>Thomas Smith</hi> of Hough, in the Countie of Chester, Knight; <hi>Francis Pilkington</hi> Batchelor of Musicke, and Lutenist, wisheth all happines in this life, and eternall felicity in the life to come.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Worshipfull, there is held an infallible opinion, that the sacred Art of <hi>Musicke</hi> (being chiefly illustrated by Voyces) not<g ref="char:EOLhyphen"/>withstanding all Artists, in respect of the compasse and quality of voyces and instruments, doe limit it within scales and other certaine dimensions, is in it owne nature INFINITE; reach<g ref="char:EOLhyphen"/>ing from the base Earth (being as it were the GAM-VT or ground) to the highest E. LA. of the incomprehensible hea<g ref="char:EOLhyphen"/>uens: For demonstration whereof, GOD to his great Glory, doth diuersly and wonderfully enable his creatures thereunto, teaching man vpon earth, not onely in mellifluous Notes to chant; but also vpon variety of Instruments sweetly to expresse the hidden secrets of that sacred Science, &amp; not leauing the vast Ayre empty of his glory; he instructeth the early Larke to warble forth his prayse; who, (as some hould) learneth his layes from the musicall motions of the heauen<g ref="char:EOLhyphen"/>ly Spheares, and from thence to transcend vp to the seate of the most highest, the elected Saints and Angels doe in heauenly Himmes, sing perpetually <hi>Te deum</hi> to the holy Trinitie, sitting on the Throne of most Maiesticke glorie.</p>
+   <p>In which quality of Musicke (Right worshipfull) hauing spent a great part of my time, I haue now (after some others) of late produced this small peece of worke; which albeit for the insufficiency thereof, I doe hold to be too vnworthie to be presented to your Worship, yet in regarde of the many and manifold fauors, which I haue receiued at your hands, and your exquisit skill, both in the Theorique and Practique of that excellent Art; I doe presume to tender it to your Patronage and protection, chusing rather to be censured for ouer-boldnesse, then to be taxed with ingratitude or forgetfulnesse. And so humbly desiring your Worship to ac<g ref="char:EOLhyphen"/>cept of this, and to shield it from all pragmaticall and stigmaticall detractors; vn<g ref="char:EOLhyphen"/>till my best skill and endeauour, shall incite my weake Muse to performe some worke of better worth I craue pardon for my bouldnesse, and commit your Wor<g ref="char:EOLhyphen"/>ship and the good Lady your wife, to the blessed tuition of the GOD of Israell.</p>
+   <closer>
+      <dateline>
+         <hi>From my mansion in the Monastery of Chester</hi>
+         <date>
+            <hi>the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of</hi>
+            <gap reason="blank" extent="1 word">
+               <desc> _____ </desc>
+            </gap> 1612.</date>
+      </dateline>
+      <signed>Your worships in all obseruancy <hi>Francis Pilkington.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

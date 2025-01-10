@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad excellentissimum Principem Palatinum: Illius in Lectis∣simae
+Elizabethae (iam sibi conigatae) electione, Iudicium,
+approbat, admiratur.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105653_Fr1_3_6</idno>
+           <idno type="DLPS">A01256</idno>
+           <idno type="STC">11370</idno>
+           <idno type="ESTC">S105653</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad excellentissimum Principem Palatinum: Illius in Lectis∣simae
+Elizabethae (iam sibi conigatae) electione, Iudicium,
+approbat, admiratur.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rubbe, and a great cast : Epigrams. By Thomas Freeman, Gent</title>
+                 <author>Freeman, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Lisle (L’isle, Lyle), Laurence.</publisher>
+                            <publisher>Mountford, Thomas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>Ad excellentissimum Principem Palatinum: Illius in Lectis<g ref="char:EOLhyphen"/>simae
+Elizabethae (iam sibi coni<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>gatae) electione, Iudicium,
+approbat, admiratur.</head>
+   <l>IF as in this thrice Royall <hi>Fredaricke,</hi>
+   </l>
+   <l>Thy iudgement in electing still be like;</l>
+   <l>What neede the other Six or stand on seuen?</l>
+   <l>Why not the whole to whom the <hi>Chiefe</hi> is giuen?<note place="margin">Quia principa<g ref="char:EOLhyphen"/>lis Elector.</note>
+   </l>
+   <l>Indeed, what needed any other Voice?</l>
+   <l>The World might put his life vpon thy <hi>Choyce.</hi>
+   </l>
+</div>
+        </body>
+  </text>
+</TEI>

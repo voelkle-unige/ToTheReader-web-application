@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the vnderstanding Reader.</title>
+           <author>B., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106127_Fr1_3</idno>
+           <idno type="DLPS">A16676</idno>
+           <idno type="STC">3583</idno>
+           <idno type="ESTC">S106127</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the vnderstanding Reader.</title>
+                 <author>B., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The schollers medley, or, an intermixt discourse vpon historicall and poeticall relations : A subiect of it selfe well meriting the approbation of the iudicious, who best know how to confirme their knowledge, by this briefe suruey, or generall table of mixed discourses. ... By Richard Brathvvayte Oxon</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Norton, George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>8, 118, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the vnderstanding Reader.</head>
+   <p>
+      <seg rend="decorInit">S</seg>O many idle Pamphleters write to Thee now a daeies, as thy vnder<g ref="char:EOLhyphen"/>standing (in my iudgement) seemes much disparaged: I haue euer resolued to haue this Motto: <hi>Catoni solus dormio:</hi> But where that <hi>Cato</hi> is, there's the difficulty. Hee is too heauy for the Court, too wise for the Citty, and too pre<g ref="char:EOLhyphen"/>cise for the Countrey. If my booke chance to finde him, I know my Subiect shall bee entertained, and my Petition shall bee heard, for <hi>Auriculas Asini non habet</hi>—to giue my labour but impartiall cen<g ref="char:EOLhyphen"/>sure. Vnderstand thy selfe Reader and thou vnder<g ref="char:EOLhyphen"/>derstands me: if thou battle at Ordinaries thou art not for me, thou hast thy wit in the platter: For <gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> neuer knew him wise that onely delighted to</p>
+   <closer>Fare-well.
+<signed>R. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De ijsdem EPIGRAMMA.</title>
+           <author>B., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119103_Fr1_12</idno>
+           <idno type="DLPS">A03459</idno>
+           <idno type="STC">13582</idno>
+           <idno type="ESTC">S119103</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De ijsdem EPIGRAMMA.</title>
+                 <author>B., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Herōologia Anglica : hoc est clarissimorum et doctissimorum. aliqout [sic] Anglorum, qui floruerunt ab anno Cristi. M.D. vsq [ue] ad presentem annum M.D.C.XX viuæ effigies vitæ et esogia [sic] : duobus tomis. Authore. H.H. Anglo-Britanno: impensis Crispini Passæi calcograph [sic], et Iansonij bibliopolæ Arnhemiensis</title>
+                 <author>Holland, Henry</author>
+                 <imprint>
+                    <distributor>Holland, Henry</distributor>
+                    <pubPlace>Germany--Arnhem</pubPlace>
+                    <date>1620</date>
+                 <publisher>Jansson (Janssonius, Jansz), Jan 1.</publisher>
+                            <publisher>Passe (Paas), Crispin 1 van de</publisher>
+                        </imprint>
+                 <extent>20, 240, 2 pages, 5 plates, portraits (metal cuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Art and architecture</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>De ijsdem EPIGRAMMA.</head>
+   <lg>
+      <l>HOLLANDVS proceres describens rite BRITANNOS.</l>
+      <l>Exhibet hic Genij dexterioris opus.</l>
+      <l>Jnteriorem hominem pingens, virtutis alumnos</l>
+      <l>Protrahit at caecis providus è tenebris,</l>
+      <l>ZFLANDVS veros fingens in imagine vultus.</l>
+      <l>Externam monstrat corporis effigiem:</l>
+      <l>Haecce typis BATAVA tandem excudentur in urbe.</l>
+      <l>Acceptum hinc lihrum anne feres BATAVIS?</l>
+      <l>Falleris, HOLLANDVM genuit tibi BRITTONA tellus,</l>
+      <l>Heroum hanc messem quae quoque terra dedit.</l>
+   </lg>
+   <closer>
+      <signed>A.B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1567</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112487_Fr1_3</idno>
+           <idno type="DLPS">A02656</idno>
+           <idno type="STC">12787</idno>
+           <idno type="ESTC">S112487</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A caueat for commen cursetors vvlgarely called vagabones, set forth by Thomas Harman, esquier, for the vtilite and proffyt of hys naturall countrey. Newly agmented and imprinted Anno Domini. M.D.LXUII. Vewed, examined and allowed, according vnto the Queenes Maiestyes iniunctions</title>
+                 <author>Harman, Thomas</author>
+                 <imprint>
+                    <publisher>Griffith (Gryffyth), William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1567</date>
+                 </imprint>
+                 <extent>60 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <p>
+      <figure>
+         <figDesc>depiction of a besom or bunch of twigs, a stick or staff, and some rope or string, all separate</figDesc>
+      </figure>
+   </p>
+   <lg>
+      <l>Thre thinges to be noted </l>
+      <l>all in their kynde,</l>
+      <l>A staff, a beesom, and </l>
+      <l>with, that wyll wynde.</l>
+   </lg>
+   <lg>
+      <l>¶ A beesome of byrche, for babes verye fyt,</l>
+      <l>A longe lastinge iybbet for loubbers as meete,</l>
+      <l>A wyth to wynde vp, that these wyll not keepe,</l>
+      <l>Bynde all vp in one, and vse it to sweepe.</l>
+   </lg>
+   <p>
+      <figure>
+         <figDesc>depiction of a broom, composed of a besom or bunch of twigs, a stick or staff, and some rope or string, bound together</figDesc>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104799_Fr1_3</idno>
+           <idno type="DLPS">A16751</idno>
+           <idno type="STC">3659</idno>
+           <idno type="ESTC">S104799</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Honest counsaile : A merrie fitte of a poeticall furie: good to read, better to follow</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <distributor>Jones, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE READER.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">A</seg>Ll good Fathers that loue</hi>
+their Children, and all good
+Children that would be loued
+of their Fathers, reade and fol<g ref="char:EOLhyphen"/>low,
+if you can, and will, this
+<hi>Honest Counsaile;</hi> fetcht out
+of an odde Furie: no matter
+for the Rime, so the Reason
+serue turne: hee meant well that wrote it; and you may
+take it well that read it: It is a Kalender of good Notes;
+and hee that studies it well, may happe be as wise as a
+Walnut: Yet, as there is somewhat to laugh at, so there
+is somewhat to looke at; which well perused, may yeelde
+profite: Such as it is, I commende it to your witte, and
+leysure, to make vse of, as you haue Reason: How soeuer it
+like your humour, shew no Imperfection; but if you finde
+it to your minde, much good do it you: if not, let it not
+trouble you: So wishing you to do as you list, I rest as I
+finde cause.</p>
+   <closer>
+      <signed>Your Friende,
+<hi>N. B.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

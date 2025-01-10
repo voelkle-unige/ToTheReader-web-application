@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Momum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117063_Fr1_5</idno>
+           <idno type="DLPS">A11899</idno>
+           <idno type="STC">22213</idno>
+           <idno type="ESTC">S117063</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Momum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The workes of Lucius Annæus Seneca, both morrall and naturall : Containing, 1. His bookes of benefites. 2. His epistles. 3. His booke of prouidence. 4. Three bookes of anger. 5. Two bookes of clemencie. 6. His booke of a blessed life. 7. His booke of the tranquilitie of the minde. 8. His booke of the constancie of a wiseman. 9. His booke of the shortnesse of life. 10. Two bookes of consolation to Martia. 11. Three bookes of consolation to Heluia. 12. His booke of consolation to Polibius. 13. His seuen bookes of naturall questions. Translated by Tho. Lodge, D. in Physicke</title>
+                 <author>Seneca, Lucius Annaeus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Blount (Blunt), Edward.</publisher>
+                            <publisher>Stansby, William.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>48, 324, 335-915, 914-917, 23 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="10"/>
+   <pb facs="10"/>
+   <head>In Momum.</head>
+   <l>
+      <seg rend="decorInit">S</seg>I tamen vs{que} iuuat quae sunt bona carpere, Mome,</l>
+   <l>Carpe haec, vt morsu sint meliora tuo.</l>
+   <l>Quae liber iste tenet forte ignorare videris,</l>
+   <l>Quin lege, mox fies forsitam ipse bonus.</l>
+   <l>Non in bicipiti quae vidit somnia narrat,</l>
+   <l>Parnasso, ant vanis ludit imaginibus:</l>
+   <l>Nec prius vs{que}, nouem nisi quae docuere sorores</l>
+   <l>Castalis vnda tuae, nil docet iste liber</l>
+   <l>Vera sed hic rectae promit dictamina vitae,</l>
+   <l>Et sapiens narrat quae bene dixit anus.</l>
+   <l>Si malus ista leges, pote<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>int non ista placere</l>
+   <l>Nec non ista probes, qui legis, ipse bonus:</l>
+   <l>Vel non ergo legas quae sunt benedicta, pudendis</l>
+   <l>Nec lacer a verbis, quae minus ipse capis,</l>
+   <l>Vel lege, nec carpas; vt non male prodita: dentes</l>
+   <l>Iam{que} tibi gratulor Mome perire tuos.</l>
+</div>
+        </body>
+  </text>
+</TEI>

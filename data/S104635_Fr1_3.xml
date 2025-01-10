@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>All' autore.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104635_Fr1_3</idno>
+           <idno type="DLPS">A16636</idno>
+           <idno type="STC">3544</idno>
+           <idno type="ESTC">S104635</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>All' autore.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The tragicomoedi of the vertuous Octauia : Done by Samuel Brandon. 1598</title>
+                 <author>Brandon, Samuel</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Ponsonby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>128 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>All' autore.</head>
+   <lg>
+      <l>THe <hi>Thracian</hi> Poet, that reuiu'd his wife,</l>
+      <l>Breeding in <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>urtes, pitty, and delight;</l>
+      <l>Whose fame do<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>th yet sur<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>iue his shortned life,</l>
+      <l>Must honor yeeld to what thou doost indite.</l>
+      <l>For he, who oftentime<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> by Musickes force,</l>
+      <l>Did serpents charme, streames stay, and trees remoue:</l>
+      <l>In womens mindes, could neuer mooue remorse,</l>
+      <l>As his vnhappy end doth plainly prooue.</l>
+      <l>Wherefore most praisd be thy praise worthy muse,</l>
+      <l>Which farre surmounts the might of antique age:</l>
+      <l>Winning that sexes grace, which did refuse</l>
+      <l>By hearing <hi>Orpheus,</hi> to relent their rage.</l>
+      <l>Because no musick with their minde accordes:</l>
+      <l>But that which vertues harmonie affordes.</l>
+   </lg>
+   <closer>
+      <signed>MIA.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

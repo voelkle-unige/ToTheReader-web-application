@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105409_Fr1_4</idno>
+           <idno type="DLPS">A20920</idno>
+           <idno type="STC">7298</idno>
+           <idno type="ESTC">S105409</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certayne letters, translated into English, being first written in Latine. Two, by the reverend and learned Mr. Francis Iunius, divinitie reader at Leyden in Holland. The other, by the exiled English Church, abiding for the present at Amsterdam in Holland. Together with the confession of faith prefixed: where vpon the said letters were first written</title>
+                 <author>Junius, Franciscus</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>2, 57, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb n="4" facs="4"/>
+   <head>To the Reader.</head>
+   <p>By the Printers default there are (good Reader) a few faults escaped in the printing some whereof are here noted. Which with the rest thou observest thy self / we pray thee amend / thus.</p>
+   <list>
+      <item>Pag. 11. lin. 13. then to make. Pag. 12. l. 8. all that.</item>
+      <item>Pag. 15. l. 20.21.22.32.33.34. blot out these marcks: * ‡ (( * " ‡.</item>
+      <item>Pag. 16. l. 1. also * of old. And lin. 7. Iob. 1.6.</item>
+      <item>Pag. 17. l. 3. vnwritten. And blot out / of men.</item>
+      <item>Pag. 18. l. 13. Act. 3.22. Pag. 24. l. 34. Eph. 4.11.</item>
+      <item>Pag. 25. l. 20. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>iev. 2.1. 1. King. 12. Pag. 27. l. 28. Gal. 3.28.29</item>
+      <item>Pag. 29. l. 1. no whit. L. 18.1. Tim. 2.2. L. 49. Exod. 18.12. and 10.1<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</item>
+      <item>Pag. 39. l. 7. Churches of this city / that etc. and then be delivered. L. 27. contend.</item>
+      <item>Pag. 40. l. 26. publish. Pag. 41. l. 1. their private Confessions of faith their apol. L. 7.8. prevaile.</item>
+      <item>Pag. 42. l. 22. let vs. Pag. 45. l. 13. ingenuously.</item>
+      <item>Pag. 47. in the margent. l. 10. <hi>licet vobis.</hi> And l. 13. <hi>discindere.</hi>
+      </item>
+      <item>P. 48. l. 10 / cōsent. P. 50. li. 9. evē to strive earnestly. P. 51. l. 32. taunting.</item>
+      <item>Pag. 53. l. 3. yea so. L. 13. many weak ones / before so many deadly.</item>
+      <item>Pa. 54. l. 1. Amst. is such / as being but one / yet it meeteth in three seve<g ref="char:EOLhyphen"/>rall places: wherevpon it is so confus. etc. And li. 32. Gal. 4.10.11.</item>
+   </list>
+   <p>Note besides / where <hi>Mr. Iunius</hi> in his second letter (Pag. 47.) pretendeth / as if there had ben some fault in the Messenger or vs that he knew not <hi>to whom or whither he should have written his first</hi>: that in the book it self which was delivered vnto him there was particular mention both of the place and of the partyes from whō it came: as may be seen in the Epistle prefired before it / which is of the dedication to the vniversityes. And els how knew he <hi>at the moneths end</hi> more then before / to whom and whi<g ref="char:EOLhyphen"/>ther to send as he did? Which poynt is so very playne / as to himself we thought there needed not then so much as any mention of it. Yet thought we here to note it / least some others not observing so much / might thinck <hi>the fault</hi> wherof he speaketh to ly on vs or the messēger / which (what soe<g ref="char:EOLhyphen"/>ver it were) is still to rest vpon himself / for ought we know.</p>
+</div>
+        </body>
+  </text>
+</TEI>

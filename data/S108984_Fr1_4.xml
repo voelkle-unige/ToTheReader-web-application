@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTORI &amp; AVTHORI.</title>
+           <author>Sandaeus, Patricius</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108984_Fr1_4</idno>
+           <idno type="DLPS">A03128</idno>
+           <idno type="STC">13258</idno>
+           <idno type="ESTC">S108984</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTORI &amp; AVTHORI.</title>
+                 <author>Sandaeus, Patricius</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Three excellent points of Christian doctrine : I. The nativity of our Lord Iesus Christ. II. His bitter sufferings for the sinnes of his people. III. The fruites flowing therefrom, to those that by faith apprehend him. All prophecied by Zachariah in the 8. 9. and 10. verses of the third chapter of his prophecie, and explained in three sermons, preached at Edinburgh by Master Peter Hewat being minister there</title>
+                 <author>Hewat, Peter</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>104 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="6"/>
+   <head>LECTORI &amp; AVTHORI.</head>
+   <lg>
+      <l>DVlce novum veteri tibi si componere foedus,</l>
+      <l>Cernere &amp; eventis sit rata dicta suis;</l>
+      <l>Mesiae ortum, obitum, fructum tibi &amp; inde fluentem</l>
+      <l>Hîc lege: sunt tria te judice, digna legi.</l>
+      <l>Lectaque digna feres: mea ni sententia fallat,</l>
+      <l>Lecta feres fidei non malèfida tuae.</l>
+      <l>Perge, <hi>HEWETE,</hi> Sacri sic mystica pandere Verbi;</l>
+      <l>Linguaque si sileat, sic tua penna sonet.</l>
+   </lg>
+   <closer>
+      <signed>PATRICIVS SANDAEVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

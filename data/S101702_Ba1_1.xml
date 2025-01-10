@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Postscript]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101702_Ba1_1</idno>
+           <idno type="DLPS">A00400</idno>
+           <idno type="STC">10529</idno>
+           <idno type="ESTC">S101702</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Postscript]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse of the nauigation which the Portugales doe make to the realmes and prouinces of the east partes of the worlde : and of the knowledge that growes by them of the great thinges, which are in the dominions of China. Written by Barnardine of Escalanta, of the realm of Galisia priest. Translated out of Spanish into English, by Iohn Frampton</title>
+                 <author>Escalante, Bernardino de</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 </imprint>
+                 <extent>46, that is 47, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <pb n="40" facs="46"/>
+   <p>AL that is written of the great lord<g ref="char:EOLhyphen"/>ship of China in this woorke, I haue gathered my selfe with great diligence and care of men worthie of faith; Por<g ref="char:EOLhyphen"/>tingals, that haue bene there with mer<g ref="char:EOLhyphen"/>chaūdise, &amp; of other buzines; as also of the saide people of China, which haue come too Spayne: of whome I tooke that which I thought to be certaine, &amp; most meete for this shorte discourse▪</p>
+</div>
+        </body>
+  </text>
+</TEI>

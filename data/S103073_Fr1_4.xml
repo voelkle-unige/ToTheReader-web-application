@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Worshipfull my most munificent friend and benefactour, Sr JOHN HANBURIE Lord of Kelmash in Northamptonshire.</title>
+           <author>Winterton, Ralph</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103073_Fr1_4</idno>
+           <idno type="DLPS">A01645</idno>
+           <idno type="STC">11778</idno>
+           <idno type="ESTC">S103073</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Worshipfull my most munificent friend and benefactour, Sr JOHN HANBURIE Lord of Kelmash in Northamptonshire.</title>
+                 <author>Winterton, Ralph</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Gerards meditations : written originally in the Latine tongue by Iohn Gerard Doctour in Divinitie, and superintendant of Heidelberg. Translated and revised by Ralph Winterton fellow of Kings Colledge in Cambridge</title>
+                 <author>Gerhard, Johann</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1638</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>26, 323, 13, 155, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="6"/>
+   <head>To the Right Worshipfull my most munificent friend and benefactour, S<seg rend="sup">r</seg> JOHN HANBURIE Lord of <hi>Kelmash</hi> in Northamptonshire.</head>
+   <p>
+      <seg rend="decorInit">A</seg> Generous benefactour writes what he gives in running water; so doth S<seg rend="sup">r</seg>
+      <hi>John Hanburie:</hi> A thankfull receiver writes what he receives in a pillar of marble; so would <hi>Ralph Winterton.</hi> The one professeth the art of forget<g ref="char:EOLhyphen"/>fulnesse; so do you: The other practi<g ref="char:EOLhyphen"/>seth the art of remembrance; so will I. Six yeares are passed since the golden streams of your bountie flowed down upon me: But the water of Lethe hath not yet washed them out of my me<g ref="char:EOLhyphen"/>morie. I hope I shall never be sick of a lethargie: But it is good to use a help for memorie. A benefit once re<g ref="char:EOLhyphen"/>ceived ought alwayes to be remem<g ref="char:EOLhyphen"/>bred: Mans <hi>alwayes</hi> is not alwayes: Come death, farewell memorie. Let<g ref="char:EOLhyphen"/>ters
+<pb facs="7"/>
+after the death of them to whom they are sent, are usually burnt for waste papers. Therefore I durst neither trust the one nor the other with keep<g ref="char:EOLhyphen"/>ing the record of your bountie, and my thankfulnesse: knowing that death for certain will blot out memory, and fire may burn up the Registers office. It may be your bountie would have been well pleased with a private ac<g ref="char:EOLhyphen"/>knowledgement: But my dutie could not be satisfied without a publick mo<g ref="char:EOLhyphen"/>nument. None more publick then that which hath passed through the presse: For that of one can make a thousand; so it did formerly. But now I have made fifteen hundred witnesses of my thankfull remembrance: and more may hereafter. <hi>Gerard</hi> where he is known is in favour every where: But he is no where without S<seg rend="sup">r</seg> JOHN HANBURIE,</p>
+   <closer>
+      <signed>
+         <hi>At whose service</hi> GERARD <hi>is and his Translatour</hi> RALPH WINTERTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1546</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S94784_Ba1_1</idno>
+           <idno type="DLPS">B00578</idno>
+           <idno type="STC">20310</idno>
+           <idno type="ESTC">S94784</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Yny lhyvyr hwnn y traethir : Gwy [dd] or kymraeg. Kalandyr. Y gredo, ney vynkeu yr ffy [dd] gatholig. Y pader, ney we [dd] i yr arglwy [dd] . Y deng air de [dd] yf. Saith Kiniwe [dd] yr egglwys. Y kampey arveradwy ar Gwy [dd] ieu gochbladwy ae keingeu</title>
+                 <author>Price, John, Sir</author>
+                 <imprint>
+                    <publisher>Whitchurch (Whytchurch), Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1546</date>
+                 </imprint>
+                 <extent>34 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="cy">Welsh</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="17"/>
+   <p>Beieu y diskynnoð o walh y pryntiwr wrth daro, ac e<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap> gwybod o honad y ðalen, yr wy<g ref="char:EOLhyphen"/>neb ar lain y mae yr beieu yndynt, mi a ðode<g ref="char:EOLhyphen"/>is Rhif y rheyni yn gyntaf ar geireu val y dylyon vod yn issa, ar gair nessaf yn ol gyd ar gair oeð veiys.</p>
+   <p>
+      <table>
+         <row>
+            <cell cols="4">y ðalen, yr wyneb, y lain, y geireu at ymadroðion yn iawn</cell>
+         </row>
+         <row>
+            <cell>ii</cell>
+            <cell>i</cell>
+            <cell>ðiwethaf</cell>
+            <cell>vod yn ða.</cell>
+         </row>
+         <row>
+            <cell>iiii</cell>
+            <cell>i</cell>
+            <cell>xiiii</cell>
+            <cell>uchod yw gylið</cell>
+         </row>
+         <row>
+            <cell>iiii</cell>
+            <cell>i</cell>
+            <cell>xxiii</cell>
+            <cell>gynt gan athrawon</cell>
+         </row>
+         <row>
+            <cell>v</cell>
+            <cell>ii</cell>
+            <cell>i</cell>
+            <cell>xxviii o ðyðieu.</cell>
+         </row>
+         <row>
+            <cell>vi</cell>
+            <cell>i</cell>
+            <cell>i</cell>
+            <cell>xxxi o ðyðieu.</cell>
+         </row>
+         <row>
+            <cell>ix</cell>
+            <cell>i</cell>
+            <cell>xvii</cell>
+            <cell>G. lambert.</cell>
+         </row>
+         <row>
+            <cell>ix</cell>
+            <cell>ii</cell>
+            <cell>i</cell>
+            <cell>xxx o ðyðieu.</cell>
+         </row>
+         <row>
+            <cell>x</cell>
+            <cell>ii</cell>
+            <cell>i</cell>
+            <cell>xxxi o dyðieu</cell>
+         </row>
+         <row>
+            <cell>xiii</cell>
+            <cell>ii.</cell>
+            <cell cols="2">rhwug. xxvi. ar, xxvii. lam, dod: Na wna ledrad</cell>
+         </row>
+         <row>
+            <cell>xv</cell>
+            <cell>i</cell>
+            <cell>xix</cell>
+            <cell>ymserthu ar eireu.</cell>
+         </row>
+         <row>
+            <cell cols="4">o <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pð. d. yn lhe yr. ð. o eiseu lhythyteu or vath hynny y vy.</cell>
+         </row>
+      </table>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

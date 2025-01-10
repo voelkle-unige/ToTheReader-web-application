@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right VVorshipfull Sir Henry Goodere of Powlesworth Knight.</title>
+           <author>Drayton, Michael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109891_Bo2_26</idno>
+           <idno type="DLPS">A20836</idno>
+           <idno type="STC">7216</idno>
+           <idno type="ESTC">S109891</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right VVorshipfull Sir Henry Goodere of Powlesworth Knight.</title>
+                 <author>Drayton, Michael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems: by Michaell Draiton Esquire</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Ling (Lyng), Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>8, 144, 149-159, 5 pages, 104 leaves, 124 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="77" facs="161"/>
+   <head>To the right VVorshipfull Sir Henry Goodere of Powlesworth Knight.</head>
+   <p>
+      <hi>SIR, this Poeme of mine, which I imparted to you, at my being with you at your lodging at London in Maie last, brought at length to perfection, (emboldned by your wonted fauours) I aduenture to make you Patron of. Thus Sir you see I haue aduentured to the world, with what like or dis<g ref="char:EOLhyphen"/>like, I know not, <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>if it please, (which I much doubt of) I pray you then be partaker of that which I shall esteeme not my least good; if dislike, it shall lessen some part of my griefe; if it please you to allow but of my loue: howsoeuer, I pray you accept it as kindely as I offer it, which though without many protestations, yet (I assure you) with much desire of your ho<g ref="char:EOLhyphen"/>nour. Thus vntill such time as I may in some more larger measure, make knowne my loue to the happy and generous familie of the</hi> Gooderes, <hi>(to which I confesse my selfe to be beholding to, for the most part of my education) I wish you all happinesse.</hi>
+   </p>
+   <closer>
+      <signed>Michaell Drayton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

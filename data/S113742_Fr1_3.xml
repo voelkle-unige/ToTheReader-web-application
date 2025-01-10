@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Worshipfull Sir Iohn Suckling Knight.</title>
+           <author>Saltonstall, Wye</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113742_Fr1_3</idno>
+           <idno type="DLPS">A08628</idno>
+           <idno type="STC">18939</idno>
+           <idno type="ESTC">S113742</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Worshipfull Sir Iohn Suckling Knight.</title>
+                 <author>Saltonstall, Wye</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ovid de Ponto : Containing foure books of elegies. Written by him in Tomos, a citie of Pontus, in the foure last yeares of his life, and so dyed there in the seaventh yeare of his banishment from Rome. Translated by W.S</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Sparke, Michael 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>136 pages, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>To the Right Worshipfull Sir Iohn Suckling Knight.</head>
+   <opener>
+      <salute>Sir,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">O</seg>Vids</hi> youngest daughter drest
+in blacke, and like a mourner
+drownd all in teares, doth
+come to desire your favour,
+that since you have honoured the Muses
+with a famous Poeme, you would expresse
+your noble mind in defending her from the
+censure of the world. She doth not mourne
+like some dissembling heire in formall
+blacke, but doth shew unfained griefe for
+<hi>Ovids</hi> sorrow: And though vertue doth
+not alwayes runne in a blood, yet I hope
+<pb facs="3"/>
+shee will not d sgrace him from whom she
+did derive her birth, but rather merit tha<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+my service in wayting on her to so noble a
+Patron may be accepted, that while she is
+entertained, I for her sake may be ac<g ref="char:EOLhyphen"/>knowledged,</p>
+   <closer>
+      <signed>The servant of your worthy vertues, Wye Saltonstall.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD AVTHOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115269_Fr1_2</idno>
+           <idno type="DLPS">A19744</idno>
+           <idno type="STC">617</idno>
+           <idno type="ESTC">S115269</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD AVTHOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Concio habita coram serenissimo, Iacobo, Angliæ, Scotiæ, Franciæ et Hyberniæ Rege, fidei Defensore, &amp;c. Apud curiam Hamptoniensem. De Iure ac potestate conuocandorum cotuum : Die Dominico 28. Septemb. Anno 1606. per D. Doctorem Andrews, Episcopum Chichestrensem Latinitate donata</title>
+                 <author>Andrewes, Lancelot</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>55, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>AD AVTHOREM.</head>
+   <lg>
+      <l>En, Bellarminus, mira qui disputat arte,<note place="margin">Bellarm. 2. Par. Tom. 1. De Conc. lib. 1. cap. 13. col. 1296. lin. 22.</note>
+      </l>
+      <l>Atque in Scripturis denegat esse locum,</l>
+      <l>Quo Regum iussu Conuentus iure vocentur;</l>
+      <l>
+         <hi>Te Duce,</hi> perspicuum perspicit esse locum.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

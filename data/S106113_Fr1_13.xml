@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author to his Booke.</title>
+           <author>Heywood, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106113_Fr1_13</idno>
+           <idno type="DLPS">A03185</idno>
+           <idno type="STC">13309</idno>
+           <idno type="ESTC">S106113</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author to his Booke.</title>
+                 <author>Heywood, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An apology for actors : Containing three briefe treatises. 1 Their antiquity. 2 Their ancient dignity. 3 The true vse of their quality. Written by Thomas Heywood</title>
+                 <author>Heywood, Thomas</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_book">
+   <head>The Author to his Booke.</head>
+   <l>THe world's a Theater,<note place="margin">So compared by the Fa<g ref="char:EOLhyphen"/>thers.</note> the earth a Stage,</l>
+   <l>Which God, and nature doth with Actors fill,</l>
+   <l>Kings haue their entrance in due equipage,</l>
+   <l>And some there parts play well and others ill.</l>
+   <l>The best no better are (in this Theater,)</l>
+   <l>Where euery humor's fitted in his kinde,</l>
+   <l>This a true subiects acts, and that a Traytor,</l>
+   <l>The first applauded, and the last confin'd</l>
+   <l>This plaies an honest man, and that a knaue</l>
+   <l>
+      <pb facs="9"/>
+A gentle person this, and he a clowne</l>
+   <l>One man is ragged, and another braue.</l>
+   <l>All men haue parts, and each man acts his owne.</l>
+   <l>She a chaste Lady acteth all her life,</l>
+   <l>A wanton Curtezan another playes.</l>
+   <l>This, couets marriage loue, that, nuptial strife,</l>
+   <l>Both in continuall action spend their dayes.</l>
+   <l>Some Citizens, some Soldiers, borne to aduenter,</l>
+   <l>Sheepheards and Sea-men; then our play's begun,</l>
+   <l>When we are borne, and to the world first enter,</l>
+   <l>And all finde <hi>Exits</hi> when their parts are done.</l>
+   <l>If then the world a Theater present,</l>
+   <l>As by the roundnesse it appeares most fit,</l>
+   <l>Built with starre-galleries of hye ascent,</l>
+   <l>In which <hi>Ieho<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>e</hi> doth as spectator sit.</l>
+   <l>And chiefe determiner to applaud the best,</l>
+   <l>And their indeuours crowne with more then merit.</l>
+   <l>But by their euill actions doomes the rest,</l>
+   <l>To end disgrac't whilst others praise inherit.</l>
+   <l>He that denyes then Theaters should be,<note place="margin">No Theater, <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>o world.</note>
+   </l>
+   <l>He may as well deny a world to me.</l>
+   <signed>Thomas Heywood.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

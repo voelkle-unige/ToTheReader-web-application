@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119961_Fr1_3</idno>
+           <idno type="DLPS">A15330</idno>
+           <idno type="STC">25617</idno>
+           <idno type="ESTC">S119961</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The meteors : A sermon preached at a visitation. By Michael VVigmore, Rector of Thorseway in Lincolneshire, and sometimes Fellow of Oriel Colledge in Oxford</title>
+                 <author>Wigmore, Michael</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Butter, Nathaniel.</publisher>
+                            <publisher>Harper, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 15, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>Ad Lectorem.</head>
+   <p>CVm carpuntur vitia, &amp; inde scandalum oritur, ipse sibi scandali causa est, qui fecit quod argui debet, non ille qui arguit. Bernard. Epist. 78.</p>
+</div>
+        </body>
+  </text>
+</TEI>

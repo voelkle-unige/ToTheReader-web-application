@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115482_Fr1_2</idno>
+           <idno type="DLPS">A10264</idno>
+           <idno type="STC">20549</idno>
+           <idno type="ESTC">S115482</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of Samson: written by Fra: Quarles</title>
+                 <author>Quarles, Francis</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Marriot, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>8, 142, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <p>
+      <gap reason="missing" extent="1 page">
+         <desc>〈1 page missing〉</desc>
+      </gap>
+      <pb facs="2"/>
+for the time, but quickly leaves us to our former darknesse: The overtaken Lan<g ref="char:EOLhyphen"/>thorne is the true Friend; which, though it promise but a faint light, yet it goes a<g ref="char:EOLhyphen"/>long with us, as farre as it can, towards our Journies end: The offered Linke is the mercenary Friend; which, though it be ready enough to doe us service, yet that service hath a servile relation to our bountie. Sir; in the middle ranke I finde you, hating the first, and scorning the last; to whom, in the height of my undissem<g ref="char:EOLhyphen"/>bled assection, and unfained thankfulnes, I commend my selfe, and this booke, to re<g ref="char:EOLhyphen"/>ceive an equall censure, from your uncor<g ref="char:EOLhyphen"/>rupted judgement: In the Bud, it was yours; it blossomd, yours; and now, your favour able acceptance confirmes the fruit yours: All I crave, is, that you would be pleased to interpret these my intenti<g ref="char:EOLhyphen"/>ons
+<pb facs="2"/>
+to proceed from an ardent desire, that hath long beene in labour to expresse the true affections of him</p>
+   <p>That holds it an honor</p>
+   <p>to honor you</p>
+   <p>FRA: QVARLES.</p>
+</div>
+        </body>
+  </text>
+</TEI>

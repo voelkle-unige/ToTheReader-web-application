@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Liber ad Lectorem de Authorosuo.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105653_Fr1_3_9</idno>
+           <idno type="DLPS">A01256</idno>
+           <idno type="STC">11370</idno>
+           <idno type="ESTC">S105653</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Liber ad Lectorem de Authorosuo.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rubbe, and a great cast : Epigrams. By Thomas Freeman, Gent</title>
+                 <author>Freeman, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Lisle (L’isle, Lyle), Laurence.</publisher>
+                            <publisher>Mountford, Thomas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>Liber ad Lectorem de Authorosuo.</head>
+   <l>
+      <hi>EXeo:</hi> sed quidsi, quamvis Liber exeoparvus,</l>
+   <l>Parvus in hac magna plurimus vrbe ferar.</l>
+   <l>
+      <hi>Paule,</hi> meum Titulum tua Ianua qua{que} tenebit,</l>
+   <l>Haerebit multis pagina prima locis.</l>
+   <l>
+      <hi>Lector</hi> &amp; exurgens leget, atque inquiret eund<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>E<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>quis habet talem Ribliopola librum:</l>
+   <l>Inventi{que} petens pretium, persolvit, abit{que},</l>
+   <l>Et modo mercato: perlegit vsque Iocos.</l>
+   <l>Quisquis, &amp; O quisquis, <gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>pidissimus (inquit) et autor</l>
+   <l>Post mult<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>s multis anteferende venis:</l>
+   <l>Laudibus ad Coelum vehimur, <hi>Dominus{que}, Liber{que},</hi>
+   </l>
+   <l>Sedulus hunc laudae, Me sine fine legit.</l>
+   <l>Ne cu<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> fit mirum? Cui nonplacuere lepores?</l>
+   <l>Rarus amat Lector seria, quis{que} Iocos.</l>
+</div>
+        </body>
+  </text>
+</TEI>

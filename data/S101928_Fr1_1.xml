@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IH̄S</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101928_Fr1_1</idno>
+           <idno type="DLPS">A14319</idno>
+           <idno type="STC">24636.3</idno>
+           <idno type="ESTC">S101928</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IH̄S</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Englands ioy</title>
+                 <author>R. V. (Richard Vennard)</author>
+                 <imprint>
+                    <publisher>Short, Peter</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>10 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="introductory_poem">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <p>
+      <figure>
+         <figDesc>historiated border</figDesc>
+         <p>
+            <list>
+               <item>
+                  <figure>
+                     <head>IH̄S</head>
+                  </figure>
+               </item>
+               <item>
+                  <figure>
+                     <p>Praie</p>
+                  </figure>
+               </item>
+               <item>
+                  <figure>
+                     <p>faithfully,</p>
+                  </figure>
+               </item>
+               <item>
+                  <figure>
+                     <p>R</p>
+                     <figDesc>decorative cartouche containing part of author's initial (Richard Vennard)</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <figure>
+                     <p>V</p>
+                     <figDesc>decorative cartouche containing part of author's initial (Richard Vennard)</figDesc>
+                  </figure>
+               </item>
+               <item>
+                  <figure>
+                     <p>and neuer</p>
+                  </figure>
+               </item>
+               <item>
+                  <figure>
+                     <p>cease.</p>
+                  </figure>
+               </item>
+            </list>
+         </p>
+         <head>Englands Ioy.</head>
+         <lg>
+            <head>E</head>
+            <l>
+               <hi>E</hi>
+               <seg rend="decorInit">E</seg>Nglands blisse, &amp; blessed <hi>Queene,</hi>
+            </l>
+            <l>
+               <hi>L</hi> Liue your praises in perfection,</l>
+            <l>
+               <hi>I</hi> In your Subiects hearts be seene</l>
+            <l>
+               <hi>Z</hi> Zeale in humble loues subiection:</l>
+            <l>
+               <hi>A</hi> Angels in your loue attend you,</l>
+            <l>
+               <hi>B</hi> Blessed IESVS euer blesse you,</l>
+            <l>
+               <hi>E</hi> Euer so his hand defend you:</l>
+            <l>
+               <hi>T</hi> That no harmfull thought distresse you:</l>
+            <l>
+               <hi>H</hi> Holy powers of Heau'n preserue you:</l>
+            <l>
+               <hi>A</hi> And, all faithfull subiects serue you.</l>
+         </lg>
+         <lg>
+            <head>R</head>
+            <l>
+               <hi>R</hi> Royall Graces euer grace you,</l>
+            <l>
+               <hi>E</hi> Euer true Loue liue about you,</l>
+            <l>
+               <hi>G</hi> Glorious Angels armes imbrace you:</l>
+            <l>
+               <hi>I</hi> Ioy in England none without you,</l>
+            <l>
+               <hi>N</hi> None but Grace, and Vertue note you,</l>
+            <l>
+               <hi>A</hi> And the world for wonder Cote you.</l>
+         </lg>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

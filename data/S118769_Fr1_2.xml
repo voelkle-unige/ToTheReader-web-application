@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118769_Fr1_2</idno>
+           <idno type="DLPS">A03032</idno>
+           <idno type="STC">13174</idno>
+           <idno type="ESTC">S118769</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The riddles of Heraclitus and Democritus</title>
+                 <imprint>
+                    <publisher>Hatfield, Arnold</publisher>
+                    <distributor>Norton, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <l>PRophesies, predictions,</l>
+   <l>Stories and fictions,</l>
+   <l>Allegories, rimes,</l>
+   <l>And serious pastimes</l>
+   <l>For all manner men,</l>
+   <l>Without regarde when,</l>
+   <l>Or where they abide,</l>
+   <l>On this or that side,</l>
+   <l>Or vnder the mid line</l>
+   <l>Of the Holland sheetes fine,</l>
+   <l>Or in the Tropicks faire</l>
+   <l>Of sunshine and cleere aire,</l>
+   <l>Or vnder the pole</l>
+   <l>Of chimney and seacole:</l>
+   <l>Reade they that list, vnderstand they that can,</l>
+   <l>
+      <hi>Verbum satis est</hi> to a wise man.</l>
+</div>
+        </body>
+  </text>
+</TEI>

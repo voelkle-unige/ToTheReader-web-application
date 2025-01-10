@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AVTHOR ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107156_Fr1_4</idno>
+           <idno type="DLPS">A17012</idno>
+           <idno type="STC">3894</idno>
+           <idno type="ESTC">S107156</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AVTHOR ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The ecclesiasticall historie of Great Britaine : deduced by ages, or centenaries from the natiuitie of our Sauiour, vnto the happie conuersion of the Saxons, in the seuenth hundred yeare; whereby is manifestly declared a continuall succession of the true Catholike religion which at this day is professed &amp; taught in, and by the Roman Church. Written. by Richard Broughton. The first tome containing the fower hundred first yeares. To which are annected for the greater benefite of the reader ample indexes after the preface, both of the authors out of which this historie hath bene collected, and of the chapters; and at the end of this tome a copious index of the speciall, and particular matters contained in these fower hundred of yeares</title>
+                 <author>Broughton, Richard</author>
+                 <imprint>
+                    <publisher>Wyon, Marc, Widow of</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>32, 611, 45 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="5"/>
+   <head>AVTHOR ad Lectorem.</head>
+   <lg>
+      <l>STEWKLIA, me paruum genuisti magna: parentes</l>
+      <l>Quâm faelix, antiqua magis, BROVGHTONIA Turris.</l>
+      <l>Hunc LANCASTRA locum tenet, HVNTINGTONA priorem,</l>
+      <l>Quo cum Matre Pater sub saxo conditurvno.</l>
+      <l>Quos sociat Tumulus, socient &amp; caelica Regna,</l>
+      <l>RICHARDVMQVE, sua reliqua cum prole perennes.</l>
+   </lg>
+   <l>Qui legis haec, relegens (te supplex oro) preceris.</l>
+</div>
+        </body>
+  </text>
+</TEI>

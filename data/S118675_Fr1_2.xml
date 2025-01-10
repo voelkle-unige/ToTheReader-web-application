@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118675_Fr1_2</idno>
+           <idno type="DLPS">B14976</idno>
+           <idno type="STC">18507.343</idno>
+           <idno type="ESTC">S118675</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Cent. 3. Numb. 48. The continuation of the forraine occurents for 5. weekes last past, containing many very remarkable passages of Germanie, France, Spaine, Italy, Sweden, the Low-Countries, and other parts of the world : Amongst which are these following particulars. 1. Th rebellion and falling away of Catalonia confirmed, with their conjunction with the French. 2. The revolt and crowning of a new King of Portugall (the Duke of Briganza) by the name of Iohn the Fourth. 3. The proceedings of Bannier and the Swedish armies in Germany. 4. The taking of Carthagena and the plate fleet in the harbour there by the Hollanders. 5. What hath lately passed at the Dyet at Ratisbone. Examined and licenced by a better and more impartiall hand then heretofore</title>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>2, 419-464 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">C</seg>Ourteous Reader: </salute>
+   </opener>
+   <p>Wee had thought to have given over printing our Forraigne avisoes, for that the Licencer (out of a partiall affec<g ref="char:EOLhyphen"/>tion) would not oftentimes let passe apparant truth, and in other things (oftentimes) so crosse and alter which made vs almost weary of Printing, but he being vanished (and that Office fallen vpon another, more vnderstanding in these Forraine affaires, and as you will finde more candid.) We are againe (by the favour of his Majestie and the State) resolved to goe on in Printing if we shall finde the World to give a better acceptation of them, (then of late) by their Weekly buying them. It is well knowne these Novels are well esteemed in all parts of the World (but heere) by the more Iudicious, which wee can impute to no other but the discontinuance of them, and the vncertaine dayes of publishing them, which if the Post faile vs not wee shall keepe a constant Day every weeke therein, whereby every man may certainly expect them, and so wee take leave,</p>
+   <closer>
+      <dateline>
+         <date>
+            <hi>Ianuary</hi> the <hi>9<seg rend="sup">th</seg>. 1640.</hi>
+         </date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

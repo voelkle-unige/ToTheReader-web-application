@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Afterword]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1583</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120245_Ba1_1</idno>
+           <idno type="DLPS">A00924</idno>
+           <idno type="STC">1103</idno>
+           <idno type="ESTC">S120245</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Afterword]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse of that which happened in the battell fought betweene the two navies of Spaine and Portugall, at the Ilands of the Azores. Anno Dom. 1582</title>
+                 <author>Bazan, Álvaro de, marquês de Santa Cruz</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1583</date>
+                 </imprint>
+                 <extent>24 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="afterword">
+   <pb facs="13"/>
+   <p>This relation was sent by the Lord Marquis <hi>de Sainta-cruse</hi> vnto his Maiestie, by <hi>Syr Peter Poncei</hi> of <hi>Lyon,</hi> his nephew: who departed from <hi>Ʋilla Franca</hi> which is in the Ile of <hi>Saint Michael,</hi> the fourth day of the moneth of August, and ariued at <hi>Lishborne</hi> the 24. day of the same, being <hi>S. Barthol<g ref="char:EOLhyphen"/>mews</hi> day, in the morning.</p>
+   <pb facs="13"/>
+</div>
+        </body>
+  </text>
+</TEI>

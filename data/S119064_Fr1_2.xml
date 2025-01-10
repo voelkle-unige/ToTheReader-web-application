@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>A., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119064_Fr1_2</idno>
+           <idno type="DLPS">A02351</idno>
+           <idno type="STC">12480</idno>
+           <idno type="ESTC">S119064</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>A., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The humble addresse both of church and poore, to the sacred maiestie of Great Britaines monarch : For a just redresse of the uniting of churches, and the ruine of hospitalls. By William Guild, minister of Aberdene</title>
+                 <author>Guild, William</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>To the most Reverend Fathers in GOD▪ IOHN, By the Mercie of GOD, L. Arch-bishop of Sainct-Andrewes, Primate, and Metro<g ref="char:EOLhyphen"/>politane of SCOTLAND: And PATRICK, By the same Mercie of GOD, L. Arch-<hi>Bishop of Glasgow, &amp;c.</hi> the maine opponer to these Vnions.</p>
+   <closer>
+      <signed>D. D. A.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

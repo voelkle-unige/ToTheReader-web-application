@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE CHRISTIAN READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1566</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107012_Fr1_4</idno>
+           <idno type="DLPS">A07092</idno>
+           <idno type="STC">17497</idno>
+           <idno type="ESTC">S107012</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE CHRISTIAN READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A replie to M. Calfhills blasphemous answer made against the Treatise of the crosse, by Iohn Martiall, Bachiler of Lawe, and studient in diuinitie. Reade and regarde</title>
+                 <author>Martiall, John</author>
+                 <imprint>
+                    <publisher>Bogard (Bogardus), Jean</publisher>
+                    <pubPlace>Belgium--Louvain</pubPlace>
+                    <date>1566</date>
+                 </imprint>
+                 <extent>24, 1-8, 8-227 leaves, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>TO THE CHRISTIAN READER.</head>
+   <p>
+      <hi>Contradicunt linguae multae: diuersae hereses, diuersa schismata sonant: Multa linguae contradicunt veraci doctrinae <gap reason="illegible" resp="#pdcc" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> curre ad tabernaculū Dei: Ecclesiā Catholicam tene, &amp; protegeris<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap> tabernaculo a contradictione linguarum: August. in Psalm.</hi> 30.</p>
+   <p>Many tongues do gayne say: diuerse heresies, diuerse schismes do sounde euery where. Many tongues speake against the true doctrine. Runne thou to the tabernacle of God. Keepe the Catholique church, and thou shalt be defended in the tabernacle from contradiction of tongues.</p>
+</div>
+        </body>
+  </text>
+</TEI>

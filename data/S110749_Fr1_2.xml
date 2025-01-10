@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement to the wise and discreete</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110749_Fr1_2</idno>
+           <idno type="DLPS">A11118</idno>
+           <idno type="STC">21385</idno>
+           <idno type="ESTC">S110749</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement to the wise and discreete</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Hell's broke loose</title>
+                 <author>Rowlands, Samuel</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Loftus (Loftis), George.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="apology">
+   <pb facs="3"/>
+   <head>An Aduertisement to the wise and discreete</head>
+   <p>REader; hee that in discription of a wic<g ref="char:EOLhyphen"/>ked man, doth personate him, is to speake as that wicked man, no<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap> besee<g ref="char:EOLhyphen"/>ming a good man; or else he cannot aptly deliuer him in his kinde, so odious as hee is: In respect whereof, let not any speach herein be misconstrued, which is onely set downe as spoken by the rebellious Heretiques, the more truely to explaine them as notorious as they were. <hi>Vale.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

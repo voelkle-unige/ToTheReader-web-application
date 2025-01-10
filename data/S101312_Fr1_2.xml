@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Ely, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101312_Fr1_2</idno>
+           <idno type="DLPS">A15388</idno>
+           <idno type="STC">25665</idno>
+           <idno type="ESTC">S101312</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Ely, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A confutation of certaine articles deliuered vnto the Familye of Loue : with the exposition of Theophilus, a supposed elder in the sayd Familye vpon the same articles. By William Wilkinson Maister of Artes and student of diuinitye. Hereunto are prefixed by the right reuerend Father in God I.Y. Byshop of Rochester, certaine notes collected out of their Gospell, and aunswered by the Fam. By the author, a description of the tyme, places, authors, and manner of spreading the same: of their liues, and wrestyng of Scriptures: with notes in the end how to know an heretique</title>
+                 <author>Wilkinson, William</author>
+                 <imprint>
+                    <publisher>Day, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 </imprint>
+                 <extent>18, 100, that is 80 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">P</seg>Erusing ouer this little treatise of M. Wilkinsons, I could not but alowe his diligence and painefull trauell in this he<g ref="char:EOLhyphen"/>reticall, and schismaticall world, and I would hartely wishe of God, that our Church of England might be well weeded from to to grosse errors, for it is high tyme.</p>
+   <closer>
+      <signed>Richard Ely.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

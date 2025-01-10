@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To Don Diego Puede-Ser, and his Translation of GVZMAN.</title>
+           <author>Digges, Leonard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106804_Fr1_13</idno>
+           <idno type="DLPS">A16053</idno>
+           <idno type="STC">289</idno>
+           <idno type="ESTC">S106804</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To Don Diego Puede-Ser, and his Translation of GVZMAN.</title>
+                 <author>Digges, Leonard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The rogue: or The life of Guzman de Alfarache : VVritten in Spanish by Matheo Aleman, seruant to his Catholike Maiestie, and borne in Sevill</title>
+                 <author>Alemán, Mateo</author>
+                 <imprint>
+                    <distributor>Blount (Blunt), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Eliot’s Court Press</publisher>
+                        </imprint>
+                 <extent>24, 267, 17, 357, 3 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="11"/>
+   <head>To <hi>Don Diego Puede-Ser,</hi> and his Translation <hi>of</hi> GVZMAN.</head>
+   <lg>
+      <l>AS, few, French <hi>Rablais</hi> vnderstand; and none</l>
+      <l>Dare in our Vulgar Tongue once make him knowne,</l>
+      <l>No more; our Plodding Linguists could attaine</l>
+      <l>(By turning <hi>Minshewe)</hi> to this <hi>Rogue</hi> of <hi>Spaine,</hi>
+      </l>
+      <l>So crabbed Canting was his Authors Pen</l>
+      <l>And phrase, eu'n darke to his owne Country-men;</l>
+      <l>Till, thankes and praise to this Translators paine,</l>
+      <l>His Margent, now makes him speake English plaine.</l>
+      <closer>
+         <signed>Leo: Diggs.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115797_Fr1_4</idno>
+           <idno type="DLPS">A02186</idno>
+           <idno type="STC">12329</idno>
+           <idno type="ESTC">S115797</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Greenvvoods vvorkes : contayned in fiue seueral tractates. 1. 2. 3. 4. 5. of the Day of iudgement. Lords Prayer. Race to saluation. Torment of Tophet. Baptisme of Christ</title>
+                 <author>Greenwood, Henry</author>
+                 <imprint>
+                    <distributor>Bell, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Clarke, John 1.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>10, 117, 1, 6, 92, 12, 8, 82, 6, 10, 43, 11 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <p>GEntle Reader, if in these fol<g ref="char:EOLhyphen"/>lowing Tractates, the Quotati<g ref="char:EOLhyphen"/>ons of Latine &amp; other tongues, do offend thee; let them bee vnto thee as Country Stiles, stepping ouer them, thou losest not thy way by them, for their Expositions follow them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

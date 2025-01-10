@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Honoratissimo viro Domi∣no Gerardo, omnibus sapientiae, et virtutis luminibus clarissimo.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115877_Fr1_3</idno>
+           <idno type="DLPS">A01475</idno>
+           <idno type="STC">11600</idno>
+           <idno type="ESTC">S115877</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Honoratissimo viro Domi∣no Gerardo, omnibus sapientiae, et virtutis luminibus clarissimo.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two treatises : the first, entituled, The foode of the faithfull. The second Deaths welcome</title>
+                 <author>Garey, Samuel</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>14, 29, 3, 80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="4"/>
+   <head>Honoratissimo viro Domi<g ref="char:EOLhyphen"/>no <hi>Gerardo,</hi> omnibus sapientiae, et virtutis luminibus clarissimo.</head>
+   <lg>
+      <l>TE mea si tantum anderet sperare patronum</l>
+      <l>
+         <hi>Gera<gap reason="illegible" resp="#keyers" extent="1 letter">
+               <desc>•</desc>
+            </gap>dum</hi> optaret (rustica Musa) sibi.</l>
+      <l>
+         <hi>Gerardū?</hi> (at quē, phoebe virū) qui lumine mētis</l>
+      <l>excellit Phoebum, Phoebigenumque chorum.</l>
+      <l>O quem te memorem? Phoebum? tu doctior illo.</l>
+      <l>Mercurium? linguae laurea danda tibi.</l>
+      <l>Catonem? longe superas consultus agendo.</l>
+      <l>an Maecenatem? laudat Apollo magis:</l>
+      <l>Ergo <hi>Gerardus</hi> eris, quo dicinomine gandent,</l>
+      <l>Macenas, Phoebus, Mercuriusque, Cato.</l>
+   </lg>
+   <lg>
+      <l>MIte supercilij iubar, iubarque sororum,</l>
+      <l>Et decus Auglorum, presentis gloria saecli,</l>
+      <l>Spe maguus, fama melior, virtutibus amplus,</l>
+      <l>Gratus ades, nostris falix allabere captis,</l>
+      <l>Ʋine meis, sed nec curabis vivere mecum,</l>
+      <l>Aeternum victure tuis <hi>(Gerarde)</hi> trophais.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

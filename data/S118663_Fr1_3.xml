@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>C., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118663_Fr1_3</idno>
+           <idno type="DLPS">A00049</idno>
+           <idno type="STC">1004</idno>
+           <idno type="ESTC">S118663</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>C., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Thrifts equipage : Viz. fiue diuine and morall meditations, of 1. Frugalitie. 2. Prouidence. 3. Diligence. 4. Labour and care. 5. Death</title>
+                 <author>Aylett, Robert</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <distributor>Teage (Teague, Tege), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>4, 59, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <head>To the Author.</head>
+   <l>
+      <hi>VErtue</hi> thine <hi>Obiect, thou</hi> her <hi>Subiect</hi> art;</l>
+   <l>
+      <hi>Thou</hi> deck'st <hi>her</hi> in thy <hi>verse, she</hi> decks thine heart:</l>
+   <l>Each th' other doth deseruedly set foorth;</l>
+   <l>From <hi>thee</hi> her <hi>praises</hi> flow, from <hi>her</hi> thy <hi>woorth.</hi>
+   </l>
+   <signed>R. C.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

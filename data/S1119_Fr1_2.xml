@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>READER.</title>
+           <author>R., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1119_Fr1_2</idno>
+           <idno type="DLPS">A11136</idno>
+           <idno type="STC">21404</idno>
+           <idno type="ESTC">S1119</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>READER.</title>
+                 <author>R., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A paire of spy-knaues</title>
+                 <author>Rowlands, Samuel</author>
+                 <imprint>
+                    <pubPlace/>
+                    <date>1620</date>
+                 <publisher>Birch, Philip.</publisher>
+                            <publisher>Bird, Robert.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>24 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>READER.</head>
+   <l>THis Crystall sight is not for all mens Eyes,</l>
+   <l>But onely serues for the iudicious wise,</l>
+   <l>Fooles, they may gaze as long as ere they will,</l>
+   <l>And be as blind as any Beetle still:</l>
+   <l>A purblinde <hi>Momus</hi> fleeringly will looke,</l>
+   <l>And spie no knaue but's selfe in all the Booke.</l>
+   <l>A <hi>Sicophant,</hi> that slaues himselfe to all,</l>
+   <l>Will his owne Knaue-Companions honest call,</l>
+   <l>And wilfull winke, because he will not see,</l>
+   <l>With diuers sorts of Buzzards else that be:</l>
+   <l>But these we leaue to their defectiue sight,</l>
+   <l>With Bats and Owles that blinded are by light.</l>
+   <closer>
+      <signed>S. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

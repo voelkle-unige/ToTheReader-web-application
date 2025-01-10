@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO ALL NOBLE LADIES, and GENTLE-WOMEN.</title>
+           <author>P., Diana</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101193_Fr1_2</idno>
+           <idno type="DLPS">A10131</idno>
+           <idno type="STC">20388</idno>
+           <idno type="ESTC">S101193</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO ALL NOBLE LADIES, and GENTLE-WOMEN.</title>
+                 <author>P., Diana</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A chaine of pearle. Or A memoriall of the peerles graces, and heroick vertues of Queene Elizabeth, of glorious memory. Composed by the noble lady, Diana Primrose</title>
+                 <author>Primrose, Diana</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Dawson, John 1.</publisher>
+                            <publisher>Paine (Payne), Thomas.</publisher>
+                            <publisher>Waterhouse, Philip</publisher>
+                        </imprint>
+                 <extent>8, 12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO ALL NOBLE LADIES, and <hi>GENTLE-WOMEN.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">T</seg>O You the Honour of our Noble Sex,</l>
+   <l>I send this <hi>CHAINE,</hi> with all my best Respects:</l>
+   <l>Which if you please to weare, for her sweet sake,</l>
+   <l>For whom I did this slender <hi>POEM</hi> make.</l>
+   <l>You shall erect a Trophie to her Name,</l>
+   <l>And crowne your selues with neuer-fading Fame.</l>
+   <closer>
+      <signed>
+         <hi>Devoted to your Vertues,</hi> DIANA P.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Sergier, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125625_Ba1_1</idno>
+           <idno type="DLPS">A73201</idno>
+           <idno type="STC">22997</idno>
+           <idno type="ESTC">S125625</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Sergier, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The present state of Spaine. Translated out of French</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 <publisher>Sergier, Richard 1.</publisher>
+                            <publisher>Short, Peter</publisher>
+                        </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="32"/>
+   <pb facs="32"/>
+   <opener>
+      <salute>TO THE WORTHIE, AND FAVOROR OF ALL VERTVES, MASTER RI<g ref="char:EOLhyphen"/>CHARD SONDS, SONNE and heire to the right Wor<g ref="char:EOLhyphen"/>shipfull, Michael Sondes Esquier.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">S</seg>Ir the duetie I owe vnto you, proceeding of so many &amp; in<g ref="char:EOLhyphen"/>finit curtisies, in all bounti<g ref="char:EOLhyphen"/>ful measure receiued, as well in your forraine trauailes, as in your home aboad, haue of long time been a continuall spurre to my weake forces; to finde some defence against that threatning monster ingratitude; &amp; fin<g ref="char:EOLhyphen"/>ding wayward fortune still waspishe in her wonted manner, euen loath to affoord me a good looke: am constrained, lest I should be of you and the worlde condemned, to take this poore occasion to shew mine affectionate mind,
+<pb facs="33"/>not meaning thereby to make this a shew of a satisfaction for so great a debt, but onely in part in cutte off the consuming interest, and to confesse vnto you in the witnesse of the world a further duetie to bee accomplished. And knowing in parte the earnest desire you haue alwaies had; to see into forraine States, and acquaint your selfe with the diuers manners of nations. I finding here a wandering stran<g ref="char:EOLhyphen"/>ger by chance, whom I perceiued fit to informe you of somewhat worthy the inquirie: hauing now procured him a poore English weede, I am bold to commend him vnto you, hoping you wil not deny him your friendly patronage, nor me your wonted fauour.</p>
+   <closer>
+      <signed>
+         <hi>Yours wholly deuoted,</hi> Richard Sergier.</signed>
+   </closer>
+   <pb facs="33"/>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader on this Verball of his esteemed friend, Master Henry Ccke∣ram of Exeter.</title>
+           <author>Spicer, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118706_Fr1_6</idno>
+           <idno type="DLPS">A19044</idno>
+           <idno type="STC">5461.2</idno>
+           <idno type="ESTC">S118706</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader on this Verball of his esteemed friend, Master Henry Ccke∣ram of Exeter.</title>
+                 <author>Spicer, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The English dictionarie: or, An interpreter of hard English vvords : Enabling as well ladies and gentlewomen, young schollers, clarkes, merchants, as also strangers of any nation, to the vnderstanding of the more difficult authors already printed in our language, and the more speedy attaining of an elegant perfection of the English tongue, both in reading, speaking and writing. Being a collection of the choisest words contained in the Table alphabeticall and English expositor, and of some thousands of words neuer published by any heretofore. By H.C. Gent</title>
+                 <author>Cockeram, Henry</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Weaver (Wever), Edmund</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>332 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>To the Reader on this Verball of his esteemed friend, Master <hi>Henry C<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>cke<g ref="char:EOLhyphen"/>ram</hi> of <hi>Exeter.</hi>
+   </head>
+   <lg>
+      <l>ARt hidden moulds, the Author freely sends,</l>
+      <l>His sweat of brow to publike priuat friends,</l>
+      <l>His courtesie to labour, yours to raise,</l>
+      <l>As it deserues the countenance of praise.</l>
+      <l>Hardwords farfetch'd, made smooth, before being rough,</l>
+      <l>Claime fauour for requitall, that's enough.</l>
+      <l>If you betray them with a trecherous kisse,</l>
+      <l>He'l laugh in's sleeue, and at your follies hisse.</l>
+   </lg>
+   <closer>
+      <signed>Thomas Spicer.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

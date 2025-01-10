@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HONO∣rable,
+and my very bountiful good Lord,
+my Lord Compton, T. M. wisheth the fruit
+of eternall fruition.</title>
+           <author>M., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107204_Fr1_2</idno>
+           <idno type="DLPS">A07500</idno>
+           <idno type="STC">17885.5</idno>
+           <idno type="ESTC">S107204</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HONO∣rable,
+and my very bountiful good Lord,
+my Lord Compton, T. M. wisheth the fruit
+of eternall fruition.</title>
+                 <author>M., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The ghost of Lucrece. By T.M. Gent</title>
+                 <author>Middleton, Thomas</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>48 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>rable,
+and my very bountiful good Lord,
+my Lord Compton, T. M. wisheth the fruit
+of eternall fruition.</head>
+   <epigraph>
+      <q>Comptus honos, honor est Comptono, &amp; Compton honore.</q>
+   </epigraph>
+   <l>
+      <seg rend="decorInit">T</seg>Hou, that rock'st comely honour in thine armes,</l>
+   <l>Thou patr<gap reason="illegible" resp="#oxf" extent="2 letters">
+         <desc>••</desc>
+      </gap> to the child-house of my vayne,</l>
+   <l>Thou hiue vnto the Museshony swarmes,</l>
+   <l>And Godfather to th'issue of my braine,</l>
+   <l>To thee, Baptizer of mine infant lines,</l>
+   <l>With golden water in a siluer Font:</l>
+   <l>Thy bountie, gold▪ thy finger<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap> siluer twines,</l>
+   <l>Siluering my papers inke, as they were wont.</l>
+   <l>To thee (the bloudy Christall of a Ghost,</l>
+   <l>Wrapt in a fierie web) I spin to thee.</l>
+   <l>To thee, (the thawer of <hi>Dianaes</hi> frost:</l>
+   <l>
+      <hi>Tarquin</hi> the hotte in <hi>Lucrece</hi> Tragedie.)</l>
+   <l>To thee I consecrate these ashie fires,</l>
+   <l>She quencht in bloud, he burnt in his desires.</l>
+   <closer>
+      <signed>Bound by your Ho. bounty,
+T. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his enemie the
+Translatour.</title>
+           <author>Gunning, Peter</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113348_Fr1_10</idno>
+           <idno type="DLPS">A05367</idno>
+           <idno type="STC">15520</idno>
+           <idno type="ESTC">S113348</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his enemie the
+Translatour.</title>
+                 <author>Gunning, Peter</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Hygiasticon: or, The right course of preserving life and health unto extream old age : together with soundnesse and integritie of the senses, judgement, and memorie. Written in Latine by Leonard Lessius, and now done into English</title>
+                 <author>Lessius, Leonardus</author>
+                 <imprint>
+                    <publisher>Daniel, Roger</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>38, 210, 70 pages, 24°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_translator">
+   <pb facs="10"/>
+   <head>To his enemie the
+Translatour.</head>
+   <l>IS this your temp'rate diet? here's no mean:</l>
+   <l>Fame surfets on it: Envie, that grows lean.</l>
+   <l>Is't now i'th' presse? more weight: If't be ro<g ref="char:EOLhyphen"/>priv'd,</l>
+   <l>Temp'rance, I fear, will make thy work long<g ref="char:EOLhyphen"/>liv'd.</l>
+   <l>Could not one tongue serve temperance to tastes▪</l>
+   <l>I'le go translate it back again: 'tis past.</l>
+   <l>If I can not devoure it, yet I may</l>
+   <l>De<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>act: for Temperance bids take away.</l>
+   <signed>Peter Gunning.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

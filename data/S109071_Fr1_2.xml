@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109071_Fr1_2</idno>
+           <idno type="DLPS">A19590</idno>
+           <idno type="STC">6029</idno>
+           <idno type="ESTC">S109071</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sermon preached in London before the right honorable the Lord Lavvarre, Lord Gouernour and Captaine Generall of Virginea, and others of his Maiesties Counsell for that kingdome, and the rest of the aduenturers in that plantation : At the said Lord Generall his leaue taking of England his natiue countrey, and departure for Virginea, Febr. 21. 1609. By W. Crashaw Bachelar of Diuinitie, and preacher at the Temple. Wherein both the lawfulnesse of that action is maintained, and the necessity thereof is also demonstrated, not so much out of the grounds of policie, as of humanity, equity, and Christianity. Taken from his mouth, and published by direction</title>
+                 <author>Crashaw, William</author>
+                 <imprint>
+                    <publisher>Hall, William</publisher>
+                    <distributor>Welby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>94 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE THRICE HONORABLE, GRAVE, RELIGIOVS, THE LORDS, KNIGHTS, BVRGESSES, now happily assembled in PARLIAMENT: <hi>L. D.</hi> HVMBLY CONSIDE<g ref="char:EOLhyphen"/>ring the vnion of their interest in all en<g ref="char:EOLhyphen"/>deauours for the common good, together with the zealous, costly, care of ma<g ref="char:EOLhyphen"/>ny of them, to aduance the propagation of the GOSPELL; Doth CONSECRATE THIS SERMON, spoken and published for incouragement of Planters in VIRGINEA.</p>
+</div>
+        </body>
+  </text>
+</TEI>

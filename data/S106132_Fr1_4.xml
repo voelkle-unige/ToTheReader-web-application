@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Authoris opinio de Interprete suo.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106132_Fr1_4</idno>
+           <idno type="DLPS">A16663</idno>
+           <idno type="STC">3569</idno>
+           <idno type="ESTC">S106132</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Authoris opinio de Interprete suo.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The last trumpet: or, a six-fold Christian dialogue : Viz. 1 Betweene death, the flesh, and the soule. 2 Betweene the Divell, the flesh, and the world. ... 6 Between the soule and the city of God. Translated from the elegant Latine prose of Richard Brathvvait Esquire, int English verse, by Iohn Vicars</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Bostock, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>8, 103, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>Authoris opinio de Interprete suo.</head>
+   <p>
+      <seg rend="decorInit">E</seg>X eo quod legi, te de <hi>Hippocreni</hi> altiùs ebibisse collegi. Optandum est, quod <hi>Heliconiades</hi> nostri in hisce oleum operamque studiose impenderent, quo apud posteros faeliciora <hi>Minervae</hi> mo<g ref="char:EOLhyphen"/>numenta relinquant. Interim, quae primum conscripsi &amp; edidi (modò Superiorum authori<g ref="char:EOLhyphen"/>tas ijs suffragetur) ingenuè approbo, eo scilicet more, quo tu integre transtulisti.</p>
+   <lg>
+      <l>Ingenij titulum meruit, mihi crede, perennem,</l>
+      <l>Qui cupit ingenio sacra levare suo.</l>
+      <l>Hoc tibi <gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>ICARIVS fecit; Musisque peregit</l>
+      <l>O<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>ficium vatis: dulce poema suis.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

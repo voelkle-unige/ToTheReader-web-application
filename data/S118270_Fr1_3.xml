@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worshipfull and my euer respected, Mr. IOHN MORAY Esquire.</title>
+           <author>T., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118270_Fr1_3</idno>
+           <idno type="DLPS">A13493</idno>
+           <idno type="STC">23791</idno>
+           <idno type="ESTC">S118270</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worshipfull and my euer respected, Mr. IOHN MORAY Esquire.</title>
+                 <author>T., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The scvller : rowing from Tiber to Thames with his boate laden with a hotch-potch, or gallimawfry of sonnets, satyres, and epigrams. With an addition of pastorall equiuocques or the complaint of a shepheard. By Iohn Taylor</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Butter, Nathaniel.</publisher>
+                            <publisher>Gosson, Henry</publisher>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>To the right worshipfull and my euer respected, M<seg rend="sup">r</seg>. IOHN MORAY <hi>Esquire.</hi>
+   </head>
+   <lg>
+      <l>OF all the wonders this vile world includes,</l>
+      <l>I muse how <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> such high fauors gaine!</l>
+      <l>How adulation cunningly deludes</l>
+      <l>Both high and lowe, from Scepter to the Swayne:</l>
+      <l>But yet if thou by flattry couldst obtaine</l>
+      <l>More then the most that is possest by men,</l>
+      <l>Thou canst not tune thy tongue to falshoods straine,</l>
+      <l>Yet with the best canst vse both tongue and pen.</l>
+      <l>Thy sacred learning can both scan and ken</l>
+      <l>The hidden things of Nature, and of Art,</l>
+      <l>Tis thou hast raisd me from obliuions den,</l>
+      <l>And made my Muse from obscure sleepe to start.</l>
+      <l>Vnto thy wisdomes censure I commit,</l>
+      <l>This first borne issue of my worthles wit.</l>
+   </lg>
+   <closer>
+      <signed>I T.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

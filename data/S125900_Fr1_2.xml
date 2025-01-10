@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ A letter sent from Rosse by a Gentleman of worship to his frend at Oteringham to be certified of the truth of the shape of the Childe borne there.</title>
+           <author>S., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125900_Fr1_2</idno>
+           <idno type="DLPS">B00475</idno>
+           <idno type="STC">18895.5</idno>
+           <idno type="ESTC">S125900</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ A letter sent from Rosse by a Gentleman of worship to his frend at Oteringham to be certified of the truth of the shape of the Childe borne there.</title>
+                 <author>S., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A most certaine report of a monster borne at Oteringham in Holdernesse, the 9. of Aprill last past. 1595 : Also of a most strange and huge fish, which was driuen on the sand at Outhorn in Holdernesse in February not passing two months before this monster was brought into the world, and within 4. miles distance. Both to be auerred by the credible testimonie of diuers gentlemen of worship, and others, now being within this citie</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 <publisher>Millington, Thomas.</publisher>
+                            <publisher>Short, Peter</publisher>
+                        </imprint>
+                 <extent>12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>¶ A letter sent from Rosse by a <hi>Gentleman of worship to his frend at</hi> Oteringham to be certified of the <hi>truth of the shape of the Childe</hi> borne there.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">S</seg>IR</salute>
+   </opener>
+   <p>vnderstanding that there is a monstrus child Borne in your parishe of Oteringham to the great admiration of the people that haue seen it, being a thing as I take it sent of God to fore<g ref="char:EOLhyphen"/>warne vs of our wickednes. And hearing diuers reportes thereof, I desire you to do me that fauour as to send me in writing the true forme of the monster, the day of the birth thereof, and the names of the parents. I make bould with you, but if it like you to doe mee this fauour, you shall command mee any thing that lieth in my po<g ref="char:EOLhyphen"/>wer to performe.</p>
+   <p>Thus commending my selfe vnt<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>ou, I commit you to God:</p>
+   <closer>
+      <dateline>From Rosse <date>this <gap reason="illegible" extent="3 letters">
+               <desc>•••</desc>
+            </gap>sent. Tuesday being the 6. of May. 1595.</date>
+      </dateline>
+      <signed>Your frend to vs<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap> M.S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

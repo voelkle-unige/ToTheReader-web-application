@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable Edward Lord Denny, Baron of Waltham.</title>
+           <author>Wotton, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120304_Fr1_2</idno>
+           <idno type="DLPS">A15733</idno>
+           <idno type="STC">26002</idno>
+           <idno type="ESTC">S120304</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable Edward Lord Denny, Baron of Waltham.</title>
+                 <author>Wotton, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An ansvvere to a popish pamphlet, of late newly forbished, and the second time printed, entituled: Certaine articles, or forcible reasons discouering the palpable absurdities, and most notorious errors of the Protestants religion. By Anthony Wotton</title>
+                 <author>Wotton, Anthony</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Tymme (Timme), William</publisher>
+                        </imprint>
+                 <extent>4, 159, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>To the Right Honorable</hi> Edward Lord <hi>Denny,</hi> Baron of <hi>Waltham.</hi>
+   </head>
+   <p>R. Honorable:</p>
+   <p>
+      <seg rend="decorInit">M</seg>Ay it please your good Lordship, to accept of this poore treatise, not in a<g ref="char:EOLhyphen"/>ny part of satisfaction for so honora<g ref="char:EOLhyphen"/>ble an offer of your vndeserued kind<g ref="char:EOLhyphen"/>nes, but as a Bill of my hand, for the acknowledgment of so great a debt; To promise payment of such a sum, were to deceiue with false hope, to imagine it may be made by such meanes as this, would argue a miscōceipt both of your Lordships due, and my ability. All that remaines is by this, or some such l<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ke deed, to professe my sensiblenes of your great fauour, and my owne bond, with a con<g ref="char:EOLhyphen"/>tinuall desire of some better oportunity to shew my thankfulnesse. Which if it please your Lordship to take in good part, your honorable kindnes, and my debt by it shall receaue such increase, as shal bind mee alwaies to the best duty I can performe, euen to call vpon God for an enlargement of all his graces and blessings on your Lordship, and all yours, to your pre<g ref="char:EOLhyphen"/>sent, and euerlasting comfort through Iesus Christ; to whose gratious protection I commend your Honor now and euer. Tower hill. May 23. 1605.</p>
+   <closer>
+      <signed>Your Lordships in all Christian duty. Anthony Wotton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

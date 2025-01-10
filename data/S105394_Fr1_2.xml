@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105394_Fr1_2</idno>
+           <idno type="DLPS">A20878</idno>
+           <idno type="STC">7255</idno>
+           <idno type="ESTC">S105394</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Poems: by VVilliam Drummond, of Hawthorne-denne</title>
+                 <author>Drummond, William</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Author.</head>
+   <l>WHile thou dost praise the Roses, Lillies, Gold,</l>
+   <l>Which in a dangling Tresse and Face appeare,</l>
+   <l>Still stands the Sunne in Skies thy Songs to heare,</l>
+   <l>A <hi>Silence</hi> sweet each Whispering Wind doth hold;</l>
+   <l>
+      <hi>Sleepe</hi> in <hi>Pasitheas</hi> Lap his Eyes doth fold,</l>
+   <l>The Sword falls from the <hi>God of the fift Spheare,</hi>
+   </l>
+   <l>The Heards to feede, the Birds to sing, forbeare,</l>
+   <l>Each Plant breathes Loue, each Flood and Fountaine cold:</l>
+   <l>And hence it is, that that once <hi>Nymphe,</hi> now Tree,</l>
+   <l>Who did th'<hi>Amphrisian Shepheards</hi> Sighes disdaine,</l>
+   <l>And scorn'd his Layes, mo<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>'d by a sweeter Veine,</l>
+   <l>Is become pittifull, and followes Thee:</l>
+   <l>Thee loues, and vanteth that shee hath the Grace,</l>
+   <l>A Garland for thy Lockes to enterlace.</l>
+   <closer>
+      <signed>PARTHENIVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

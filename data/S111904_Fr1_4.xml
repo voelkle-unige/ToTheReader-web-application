@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the favourable READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111904_Fr1_4</idno>
+           <idno type="DLPS">A06782</idno>
+           <idno type="STC">17219</idno>
+           <idno type="ESTC">S111904</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the favourable READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Romulus and Tarquin. First written in Italian by the Marques Virgilio Malvezzi: and now taught English, by HCL</title>
+                 <author>Malvezzi, Virgilio, marchese</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <distributor>Benson, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>12, 299, 1 page, 1 leaf of plates, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <pb facs="6"/>
+   <head>To the favourable READER.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">T</seg>HIS</hi> Booke in its native Lan<g ref="char:EOLhyphen"/>guage, I dare boldly affirme, doth very well deserve the reading; if it shall not seeme to thee to doe so, being thus trans<g ref="char:EOLhyphen"/>planted, the fault is either thine, or mine; all of fa<g ref="char:EOLhyphen"/>vour I will desire of thee
+<pb facs="7"/>
+is, not to bee too sudden in thy censure; for be<g ref="char:EOLhyphen"/>leeve me, it will ad<g ref="char:EOLhyphen"/>mit of second thoughts.</p>
+</div>
+        </body>
+  </text>
+</TEI>

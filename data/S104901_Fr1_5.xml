@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Acrostic Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104901_Fr1_5</idno>
+           <idno type="DLPS">A18066</idno>
+           <idno type="STC">4700</idno>
+           <idno type="ESTC">S104901</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Acrostic Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The voyage of the wandering knight. Deuised by Iohn Carthenie, a Frenchman: and translated out of French into English, by VVilliam Goodyear of South-hampton merchant. A vvorke vvorthie of reading, and dedicated to the Right worshipfull Sir Frauncis Drake, Knight</title>
+                 <author>Cartigny, Jean de</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>8, 128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic_poem">
+   <pb facs="5"/>
+   <lg>
+      <l>F For Countries cause who taketh toile,</l>
+      <l>R Regarding neither life nor lim,</l>
+      <l>A Aduentures to receiue the foile,</l>
+      <l>V Valure had neede to rest in him.</l>
+      <l>N Neglect he may not seasons fit,</l>
+      <l>C Couet he must to doe the best,</l>
+      <l>E Euer he warreth with his wit,</l>
+      <l>S Seldome he sleepes in quiet rest.</l>
+   </lg>
+   <lg>
+      <l>D Dischargd thou hast thy dutie well,</l>
+      <l>R Remember God that guided thee:</l>
+      <l>A Ambitiously doe not excell,</l>
+      <l>K Keepe thee in compasse of degree:</l>
+      <l>E Each one will say what he doth see.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

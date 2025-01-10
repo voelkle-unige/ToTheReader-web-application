@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105046_Fr2_3</idno>
+           <idno type="DLPS">A09744</idno>
+           <idno type="STC">20003</idno>
+           <idno type="ESTC">S105046</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The vvhole sermons of that eloquent diuine, of famous memory; Thomas Playfere, Doctor in Diuinitie : Gathered into one vollume, the titles thereof are named in the next page</title>
+                 <author>Playfere, Thomas</author>
+                 <imprint>
+                    <distributor>Law (Lawe), Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Law (Lawe), Matthew.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 121, 7, 123-232, 6, 49, 5, 36, 6, 84, that is 72, 8, 261, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="68"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, the sentences are so framed, as thou maist reade them without any regard of the Marginall notes, as though they were not set downe at all. Doe therefore herein as thou shalt thinke best. The quotati<g ref="char:EOLhyphen"/>ons which are marked without a Parenthesis, as thus, <hi>
+         <seg rend="sup">a</seg>
+         <seg rend="sup">b</seg>
+         <seg rend="sup">c</seg>,</hi> were all vttered when the Ser<g ref="char:EOLhyphen"/>mon was preached. The rest which are mar<g ref="char:EOLhyphen"/>ked with a Parenthesis, as thus, <hi>(<seg rend="sup">a</seg>) (<seg rend="sup">b</seg>) (<seg rend="sup">c</seg>)</hi> were thought conuenient to bee printed, though not the quotations themselues, but onely the matter contained in them was prea<g ref="char:EOLhyphen"/>ched. <hi>Farewell.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

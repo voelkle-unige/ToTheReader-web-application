@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ILLVSTRISSIMO
+PRINCIPI
+CAROLO.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114098_Fr1_2</idno>
+           <idno type="DLPS">A03837</idno>
+           <idno type="STC">13952</idno>
+           <idno type="ESTC">S114098</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ILLVSTRISSIMO
+PRINCIPI
+CAROLO.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Illustrissimi principis Henrici iusta : Vbi et sponsorum epithalamium; et consolatio; &amp; exhortatio ad principem Carolum ad fratris imitationem</title>
+                 <author>Hume, David</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <publisher>Boyle, Richard.</publisher>
+                            <publisher>Hall, William.</publisher>
+                            <publisher>Jones, William 3</publisher>
+                        </imprint>
+                 <extent>4, 9, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Wedding pamphlets</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>ILLVSTRISSIMO
+PRINCIPI
+CAROLO.</head>
+   <p>
+      <seg rend="decorInit">Q</seg>Vae desueto mihi hisce studiis, publica calami<g ref="char:EOLhyphen"/>tas,
+&amp; meus amor, tum functi Principis, tum
+superstitum maximorum parentum, cha<g ref="char:EOLhyphen"/>rissimorum
+fratris sororisque, &amp; communis
+patriae, qualiacunque extorsit tibi (princeps
+illustrissime peculiari tuo iure dicanda tamen videbantur;
+vt qui illi non in regni magis spem, quam in aemulationem
+virtutum, &amp; publicum amorem successurus sis. Habent alij,
+quod in eo Laudent quod amissum Lugeant; quod fuisse
+gaudeant, aut mirentur; Tu, quodetiam imitere. In hunc fi<g ref="char:EOLhyphen"/>nem
+lege, perlege, relege, aut hic, aut vbicunque frater<g ref="char:EOLhyphen"/>nam
+illam indolem, nec Lectam vnquam satis puta. Quod
+<pb facs="3"/>
+dari tibi honestius, vtilius consilium; quod te dignius, tibi
+aptius munusculum, illi magnificentius encomium queat,
+equidem cogitare non potui. Tu sic accipe; ac fruere; Sic
+patriae, parentum aeternum decus ac solatium; Vale, Vige.</p>
+   <closer>
+      <signed>Tuae celsitudinis obsequentissimus
+famulus
+DA: HVMIVS The:
+<hi>Scoto-Britannus.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

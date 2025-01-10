@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Prayer]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1538</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105507_Fr1_2</idno>
+           <idno type="DLPS">A71329</idno>
+           <idno type="STC">16004</idno>
+           <idno type="ESTC">S105507</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Prayer]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Here after foloweth the prymer in Englysshe sette out alonge, after the vse of Sarum. 1538</title>
+                 <author>Catholic Church</author>
+                 <imprint>
+                    <publisher>Le Roux (Rufus), Nicolas</publisher>
+                    <distributor>Regnault, Francois</distributor>
+                    <pubPlace>France--Rouen</pubPlace>
+                    <date>1538</date>
+                 </imprint>
+                 <extent>296 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="2"/>
+   <p>
+      <figure>
+</figure>
+   </p>
+   <lg>
+      <l>God be in my hede</l>
+      <l>And in myn vnderstandynge.</l>
+      <l>God be in myn eyen</l>
+      <l>And in my lokynge</l>
+      <l>God be in my mouth</l>
+      <l>And in myn spekynge.</l>
+      <l>God be in my herte</l>
+      <l>And in my thynkynge.</l>
+      <l>God be at myn ende</l>
+      <l>And at my departynge.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

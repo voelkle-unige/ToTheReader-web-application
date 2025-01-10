@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AL MOLTO HONORATO SIGNORE, IL SIG.r RVBERTO CECILIO CAVALLIER, VNO DEL PRIVATO CONSIGLIO ALLA MAta DELLA Serenissima Regina d'Inghilterra. MAG.co SIG.re.</title>
+           <author>Morlei, Tomaso</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110044_Fr4_2</idno>
+           <idno type="DLPS">A07736</idno>
+           <idno type="STC">18118</idno>
+           <idno type="ESTC">S110044</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AL MOLTO HONORATO SIGNORE, IL SIG.r RVBERTO CECILIO CAVALLIER, VNO DEL PRIVATO CONSIGLIO ALLA MAta DELLA Serenissima Regina d'Inghilterra. MAG.co SIG.re.</title>
+                 <author>Morlei, Tomaso</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Di Tomaso Morlei il primo libro delle ballette a cinque voci</title>
+                 <author>Morley, Thomas</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>160 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="50"/>
+   <pb facs="50"/>
+   <head>AL MOLTO HONORATO SIGNORE, IL SIG.<seg rend="sup">r</seg> RVBERTO CECILIO CAVALLIER, VNO DEL PRIVATO CONSIGLIO ALLA MA<seg rend="sup">ta</seg> DELLA Serenissima Regina d'Inghilterra. MAG.<seg rend="sup">co</seg> SIG.<seg rend="sup">re.</seg>
+   </head>
+   <p>
+      <seg rend="decorInit">C</seg>Onoscendo fra tante honorate scienze che hanno ren<g ref="char:EOLhyphen"/>dute chiaro et intendente l' animo suo, quanto si dilet<g ref="char:EOLhyphen"/>ta ancho di questa della Musica; laquale non meno forse che l'altro gli e stata scala alla contemplatione delle piu alte cose: Ecco che ho preso ardire di gli far presente di queste mie humili fatiche. Imitando in questo gl' Antichi, che non hauendo incensida offerire a gl' I ddij loro, gli honorauano però con latte. Ouero come coloro che non potendo ac<g ref="char:EOLhyphen"/>cendere vn torchio a i sacri Altari; per segno di diuotione accende<g ref="char:EOLhyphen"/>uano inanzi a quelli vna picciola candela. Nel quale nondimeno piu risplendeua la fiamma del' affetto del donatore, che non faceua la qua<g ref="char:EOLhyphen"/>lita del dono. Accettera danque la S. S. Ill: questa picciola presente, con quel animo ch' io gli lo afferifco. Pregandolo d' Iddio l'accompi<g ref="char:EOLhyphen"/>mento d' ogni suo honorato desiderio. Di Londra il di xij. d'Ottobre. <hi>1595.</hi>
+   </p>
+   <closer>
+      <signed>Di V. S. molto Mag.<hi>
+            <seg rend="sup">co</seg>
+         </hi> et Ill.<hi>
+            <seg rend="sup">re.</seg>
+         </hi> Seruitore affettionatis.<hi>
+            <seg rend="sup">mo.</seg>
+         </hi> Tomaso Morlei.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

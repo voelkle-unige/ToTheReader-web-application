@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           <author>Woodhouse, Peter</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111799_Fr1_3</idno>
+           <idno type="DLPS">A15692</idno>
+           <idno type="STC">25967</idno>
+           <idno type="ESTC">S111799</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 <author>Woodhouse, Peter</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The flea : sic parua componere magnis</title>
+                 <author>Woodhouse, Peter</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Smethwick (Smithick, Smythicke), John</publisher>
+                        </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>The Epistle to the Reader.</head>
+   <floatingText type="letter">
+      <body>
+         <p>
+            <seg rend="decorInit">I</seg> Will neither call thee gentle nor vngen<g ref="char:EOLhyphen"/>tle reader, for I knowe not thy dispositi<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> neither will I terme thee learned nor vnlearned, for I was not acquainted with thy education: Nor yet will I praise this Pamphlet (as contayning pleasure or profit) for if thou beest wise, thou canst perceiue it better then I; if other<g ref="char:EOLhyphen"/>wise, it will be in vaine, for I shall neuer be able to make thee conceiue it. If thou like it, thou hast wherefore to thanke me, for procuring thy delight; if thou dislike it, lay it out of thy hands, for it were great follie wilfully to procure thine owne discontent. If thou doost reap any profit by it, the more is thy discretion<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> if none at all, the worsse is thy fortune. Thus not looking to be enriched through thy fauour, I shall still remaine:</p>
+         <closer>
+            <signed>Thy poore friend,
+<hi>Peter Woodhouse.</hi>
+            </signed>
+         </closer>
+      </body>
+   </floatingText>
+</div>
+        </body>
+  </text>
+</TEI>

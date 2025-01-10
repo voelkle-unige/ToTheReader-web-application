@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>PRECATIO.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102385_Fr1_4</idno>
+           <idno type="DLPS">A97350</idno>
+           <idno type="STC">15627.2</idno>
+           <idno type="ESTC">S102385</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>PRECATIO.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A short introduction of grammar : generally to be vsed: compiled and set forth for the bringing vp of all those that intend to attaine to the knowledge of the Latine tongue</title>
+                 <author>Lily, William</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>224 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="6"/>
+   <head>PRECATIO.</head>
+   <p>
+      <seg rend="decorInit">D</seg>Omine Pater coeli ac terrae effector, qui liberaliter tribuis sapientiam omnibus e<g ref="char:EOLhyphen"/>am cum fiducia abs te petentibus, exor<g ref="char:EOLhyphen"/>na ingenij mei bonitatem, quam cum cae<g ref="char:EOLhyphen"/>teris naturae viribus mihi infudisti, lumine diuinae gratiae tuae, vt non modo quae ad cognoscen<g ref="char:EOLhyphen"/>dum te, &amp; Seruatorem nostrum Dominum Iesum va<g ref="char:EOLhyphen"/>leant intelligam: sed etiam ita mente &amp; voluntate persequar, &amp; indies benignitate tua, tum doctrina tum pietate proficiam, vt, qui efficis omnia in omnibus, in me resplendeseere dona tua facias, ad gloriam sem<g ref="char:EOLhyphen"/>piternam immortalis Maiestatis tuae, <hi>Amen.</hi>
+   </p>
+   <div type="translation">
+      <head>A PRAYER.</head>
+      <p>
+         <hi>
+            <seg rend="decorInit">O</seg> Almightie Lord &amp; mercifull Father, maker of Heauen and Earth, which of thy free liberalitie giuest wisedome aboundantly to all that with faith and full assurance aske it of thee: beautifie by the light of thy heauenly grace the towardnes of my wit, the which with all powers of nature thou hast powred into me, that I may not onely vnderstand those things which may effectually bring me to the knowledge of thee, and the Lord Iesu our Sauiour, but also with my whole heart and will, constantly follow the same, and receiue daily increase through thy bountiful goodnesse to<g ref="char:EOLhyphen"/>wards me, as well in good life as doctrine, so that thou which workest all things in all creatures, maist make thy gratious benefits shine in me, to the endlesse glorie and honour of thine immortall Maiestie. So be it.</hi>
+      </p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

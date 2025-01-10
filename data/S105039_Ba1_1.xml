@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           <author>Mavericke, Radford</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105039_Ba1_1</idno>
+           <idno type="DLPS">A18748</idno>
+           <idno type="STC">5245</idno>
+           <idno type="ESTC">S105039</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 <author>Mavericke, Radford</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A musicall consort of heauenly harmonie (compounded out of manie parts of musicke) called Churchyards charitie</title>
+                 <author>Churchyard, Thomas</author>
+                 <imprint>
+                    <publisher>Hatfield, Arnold</publisher>
+                    <distributor>Holme (Holmes, Hulme), William 3</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>20, 43, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <pb facs="33"/>
+   <p>My next Booke comes out shortlie: dedica<g ref="char:EOLhyphen"/>ted to my Honorable woorthy friende, Master HENRIE BROOKE, sonne and heire to the noble Lord COBHAM.</p>
+   <pb facs="33"/>
+</div>
+        </body>
+  </text>
+</TEI>

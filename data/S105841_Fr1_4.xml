@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title> IN EOS QVI VETV∣stam Astrologiae scientiam derident.</title>
+           <author>Armiger, H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105841_Fr1_4</idno>
+           <idno type="DLPS">A02157</idno>
+           <idno type="STC">12299</idno>
+           <idno type="ESTC">S105841</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title> IN EOS QVI VETV∣stam Astrologiae scientiam derident.</title>
+                 <author>Armiger, H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Planetomachia: or the first parte of the generall opposition of the seuen planets : wherein is astronomically described their essence, nature, and influence: diuersly discouering in their pleasaunt and tragicall histories, the inward affections of the mindes ... Conteyning also a briefe apologie of the sacred and misticall science of astronomie: by Robert Greene, Master of Arts and student in phisicke. 1585</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 <publisher>Cadman, Thomas.</publisher>
+                            <publisher>Dawson, Thomas.</publisher>
+                            <publisher>Robinson, George</publisher>
+                        </imprint>
+                 <extent>6, 8, 32, 9-22 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <pb facs="5"/>
+   <head>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> IN EOS QVI VETV<g ref="char:EOLhyphen"/>stam Astrologiae scientiam derident.</head>
+   <l>TElluri caelum si saecula prisca maritant<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Si sine vi caeli, si sine sole nihil?</l>
+   <l>E caelo vires si stirpibus at{que} metallis<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Cynthia si morbos iudicat vna tuos?</l>
+   <l>Si caelo tellus substernitur? infima coelum?</l>
+   <l>Si mouet: &amp; proprio temperat arbitrio?</l>
+   <l>Si inferiora vigent radijs, moderata supernis</l>
+   <l>Cur coelum sordet, sordida terra placet</l>
+   <l>Cessa sacrilego coelum insectarier ore,</l>
+   <l>Et fratrem Astrologum nosere perge tuum.</l>
+   <l>Multa tibi Astrologi debent Grene at{que} reponent.</l>
+   <l>Crede mihi meritis pramia digna tuis:</l>
+   <l>Quite percupidè rogitant (O Grene) Rogari</l>
+   <l>Si tamen à doctis tu bene ferre potes:</l>
+   <l>Vt quos in magno numero noctésque diésque</l>
+   <l>Describis libros adere nil dubites</l>
+   <l>Optati venient, relegentur non sine laude:</l>
+   <l>Ac immortali nomine, vine, vale.</l>
+   <signed>
+      <hi>P. H.</hi> Armiger.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

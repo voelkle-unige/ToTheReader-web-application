@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A LA REYNE DE LA GRANDE-BRETAIGNE.</title>
+           <author>Serre, P. de la</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101190_Fr1_6</idno>
+           <idno type="DLPS">A10211</idno>
+           <idno type="STC">20488</idno>
+           <idno type="ESTC">S101190</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A LA REYNE DE LA GRANDE-BRETAIGNE.</title>
+                 <author>Serre, P. de la</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Histoire de l'entree de la reyne mere du roy tres-Chrestien, dans la Grande-Bretaigne : Enrichie de planches. Par le Sr. de la Serre, Historigraphe de France</title>
+                 <author>Puget de La Serre, Jean</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Pulleyn (Pullen), Octavian.</publisher>
+                            <publisher>Raworth, John.</publisher>
+                            <publisher>Thomason (Thompson, Tompson), George</publisher>
+                        </imprint>
+                 <extent>70 pages, 10 leaves of plates (2 folded), illustrations, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="7"/>
+   <head>A LA REYNE DE LA GRANDE-BRETAIGNE.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">M</seg>ADAME,</salute>
+   </opener>
+   <p>Ie ne sçaurois faire vn plus beau present a vostre Majesté que celluy de ce Li<g ref="char:EOLunhyphen"/>ure, puis que je l'ay composé à l'honneur de la plus grande Reyne
+<pb facs="8"/> qui fut jamais, dont Vous estes la Fille. Que pourroisje vous offrir de plus agreable que cétte Histoire de l'entree de la Reyne vostre Mere dans vostre Royaume, si Vous n'en portez aujourdhuy le Sceptre, &amp; la Couronne que pour luy faire hom<g ref="char:EOLhyphen"/>mage de tous les deux. C'est vn nou<g ref="char:EOLhyphen"/>ueau miroir qui ne flatte point, MADAME, &amp; ou vostre Majesté se peut admirer des yeux de l'esprit &amp; de la pensee, si accomplie en toutes choses, que quand Elle deuiendroit amoureuse d'Ellemesme, il y auroit plus de merite que de vanité en cétte amour, puis que toutes ses vertus en<g ref="char:EOLhyphen"/>semble
+<pb facs="8"/> enseroient l'object. Certes quand je me represente les purs sen<g ref="char:EOLhyphen"/>timens de vostre joye, aux premieres nouuelles de l'enuie que la REYNE vostre Mere auoit de Vous reuoir: les continuelles aprehensions ou son embarquement Vous tenoit; quoy qu'Elle fut en mer sur les terres de vostre Empire: les soings extraordi<g ref="char:EOLhyphen"/>naires que Vous preniez à luy faire preparer en vostre presence, le beau Palais de son sejour: l'extréme impa<g ref="char:EOLhyphen"/>tience dont Vous auiez l'esprit inqui<g ref="char:EOLhyphen"/>eté en l'attante de son arriuée: les humbles debuoirs, &amp; les pareilles soubmissions que Vous luy rendites
+<pb facs="9"/> à son abord, dont ses pieds fu<g ref="char:EOLhyphen"/>rent les plus proches témoings. Tout cella ensemble MADAME, parut si nouueau à cétte Grande Princesse, &amp; si admirable a vncha<g ref="char:EOLhyphen"/>cun, que je me sentis forcé de croire: Que si Vous n'estiez Fille, Femme, &amp; Soeur des trois plus puissans Monarques du Monde, tous ses diuers Peuples Vous en offriroient la Couronne; Mais com<g ref="char:EOLhyphen"/>me vostre naissance &amp; vos perfecti<g ref="char:EOLhyphen"/>ons Vous ont desja élleuée sur le plus haut trosne de la Gloire, les voeux publics n'ont point d'object icy bas qui ne soit au dessoubs de
+<pb facs="9"/> vostre merite. Ce qui m'oblige d'en faire vn particullier en ma fa<g ref="char:EOLhyphen"/>ueur pour meriter la qualité que je porte</p>
+   <closer>
+      <salute>MADAME,</salute>
+      <signed>
+         <hi>Detres-humble &amp; tres<g ref="char:EOLhyphen"/>obeissant seruiteur de vostre Majesté,</hi> P. de la Serre.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

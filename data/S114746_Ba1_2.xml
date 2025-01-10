@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The prayer which M. Deering vsed before his Lectures.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114746_Ba1_2</idno>
+           <idno type="DLPS">A20304</idno>
+           <idno type="STC">6727</idno>
+           <idno type="ESTC">S114746</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The prayer which M. Deering vsed before his Lectures.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>XXVII. lectures, or readings, vpon part of the Epistle written to the Hebrues. Made by Maister Edward Deering, Bachelour of Diuinitie</title>
+                 <author>Dering, Edward</author>
+                 <imprint>
+                    <publisher>Middleton, Henry</publisher>
+                    <distributor>Harrison, Luke (Lucas)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1577</date>
+                 </imprint>
+                 <extent>8, 352, 369-512, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="254"/>
+   <head>The prayer which M. Deering <hi>vsed before his Lectures.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">O</seg> Lorde God, whiche hast lest vn<g ref="char:EOLhyphen"/>to vs thy holie worde to be a lan<g ref="char:EOLhyphen"/>terne vnto our feete, and a light vnto our steppes, giue vnto vs all, thy holie spirite: that out of the same worde we may learne what is thy eternall will, and frame our liues in all holie obedience to the same, to thy honour and glorie, and increase of our faith, through Iesus Christe our Lorde, Amen.</p>
+   <closer>
+      <signed>Deering</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

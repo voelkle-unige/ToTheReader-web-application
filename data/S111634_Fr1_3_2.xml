@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Laudem Authoris.</title>
+           <author>H., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111634_Fr1_3_2</idno>
+           <idno type="DLPS">A14917</idno>
+           <idno type="STC">25225</idno>
+           <idno type="ESTC">S111634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Laudem Authoris.</title>
+                 <author>H., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Faunus and Melliflora or, The original of our English satyres. Iohn Weeuer</title>
+                 <author>Weever, John</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>70 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Laudem Authoris.</head>
+   <l>TExuit eximio Weuerus carmina cult<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>,</l>
+   <l>Texui<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> &amp; magni grande stuporis opus<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Si peterem meritis, meritas expromere laudes,</l>
+   <l>Vox raucisset iners, arida penna foret:</l>
+   <l>Te decorat <hi>Pallas,</hi> te lauro cinxit <hi>Apollo,</hi>
+   </l>
+   <l>
+      <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>e gaudent Charites, <gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>eridum<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ue chorus:</l>
+   <l>Dum cupimus musis vestras mulcere camaenas,</l>
+   <l>F<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ndimus in pelagi flumina flumen inops.</l>
+   <signed>R. H.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

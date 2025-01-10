@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105249_Fr2_4</idno>
+           <idno type="DLPS">A20057</idno>
+           <idno type="STC">6499</idno>
+           <idno type="ESTC">S105249</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Foure birds of Noahs arke : viz. 1. The dove. 2. The eagle. 3. The pellican. 4. The phoenix</title>
+                 <author>Dekker, Thomas</author>
+                 <imprint>
+                    <publisher>Ballard, Henry</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>24, 65, 10, 58, 6, 71, 16, 29, 1, 14 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="50"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>EADER: the grea<g ref="char:EOLhyphen"/>test good that Christ did for thee, was to die for thee: and the greatest pleasure thou canst doe for him, is to die to thy selfe. That is to say, to crucifie all the sinnes and corruptions of thy soule, as he suffered his bodie (to redeeme thine) to be mangled on a Crosse. He was a Pellican for thy sake; bee thou a Pellican to thy selfe and others▪ and flie with two wings (to heauen) Faith and good Workes. If thou vsest the first wing without the second, thy fligpt is but lame: if the last only without the former, thy pace is but losie: exercise both, and be sure thou shalt get thither.</p>
+   <trailer>Fare-well.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

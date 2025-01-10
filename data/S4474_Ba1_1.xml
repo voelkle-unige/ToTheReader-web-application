@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4474_Ba1_1</idno>
+           <idno type="DLPS">A15061</idno>
+           <idno type="STC">25364a</idno>
+           <idno type="ESTC">S4474</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An answere to a certeine booke, written by Maister William Rainolds student of diuinitie in the English colledge at Rhemes, and entituled, A refutation of sundrie reprehensions, cauils, etc. by William Whitaker</title>
+                 <author>Whitaker, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 <publisher>Chard (Chare, Chayre), Thomas.</publisher>
+                            <publisher>Eliot’s Court Press</publisher>
+                        </imprint>
+                 <extent>16, 48, 419, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="243"/>
+   <head>ERRATA.</head>
+   <p>Pa 37. lin 17. strange. p. 86 15 there p. 143.1. meaning. p. 144.17. renegates. P 294 21 as well p 334.5. is as cor<g ref="char:EOLhyphen"/>rupt pag. 351, 20. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> and in certaine copies p. 159. the last line, and pag. 160. the first line read it thus; before <hi>Valentinian</hi> to haue a Councell: that a Councell by the Emperour. &amp;c. Other errors perhaps haue escaped: but the reader (I trust) will easilie espie, correct, and pardon them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

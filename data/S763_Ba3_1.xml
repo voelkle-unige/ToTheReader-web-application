@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S763_Ba3_1</idno>
+           <idno type="DLPS">A20103</idno>
+           <idno type="STC">6543</idno>
+           <idno type="ESTC">S763</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Grammelogia or, the mathematicall ring : Extracted from the logarythmes, and projected circular: now published in the inlargement thereof unto any magnitude fit for use: shewing any reasonable capacity that hath not arithmeticke, how to resolve and worke, all ordinary operations of arithmeticke: and those that are most difficult with greatest facilitie, the extraction of rootes, the valuation of leases, &amp;c. the measuring of plaines and solids, with the resolution of plaine and sphericall triangles applied to the practicall parts of geometrie, horologographie, geographie, fortification, navigation, astronomie, &amp;c. And that onely by an ocular inspection, and a circular motion, invented and first published, by R. Delamain, teacher, and student of the mathematicks</title>
+                 <author>Delamain, Richard</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>44, 18, 17-22, 53-68, 30 pages, 4 plates (3 folded), illustrations (metal cuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="57"/>
+   <opener>
+      <salute>Courteous Reader</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">H</seg>Itherto the <hi>world</hi> hath beene abused as well as my <hi>selfe,</hi> with a false <hi>Rumor</hi> (raised by some rude ignorant <hi>tongue</hi>) that my <hi>Invention</hi> both of <hi>Ring</hi> and <hi>Qua<g ref="char:EOLhyphen"/>drant</hi> was got, or borrowed, or stollen (even as they please to miscall it) from another <hi>Man,</hi> by the sight of a <hi>Letter,</hi> by some private <hi>Conference</hi> by — J know not what meanes (nor they neither) but onely by their malicious phancy: which how true, how just it is, that the <hi>world</hi> and my <hi>selfe</hi> may have our <hi>right,</hi> and they the <hi>shame,</hi> by this following just defence and future event, J hope thou mayest fully be enformed. I did not in<g ref="char:EOLhyphen"/>tend to take this course, but sought <hi>peace</hi> and my <hi>right</hi> by a private and <hi>friendly way;</hi> but failing of it my good intentions <hi>scorned</hi> and <hi>slighted;</hi> J desire all may now <hi>Iudge</hi> who is in fault; and let this ensuing discourse be my <hi>Plea.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

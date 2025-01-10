@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Royal Edict On Price]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122894_Ba1_2</idno>
+           <idno type="DLPS">A72693</idno>
+           <idno type="STC">16270a</idno>
+           <idno type="ESTC">S122894</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Royal Edict On Price]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The booke of the common prayer : and administracion of the sacramentes, and other rites and ceremonies of the Churche: after the vse of the Churche of England</title>
+                 <author>Church of England</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1549</date>
+                 <publisher>Hill (Hyll, van den Berghe, Montanus), Nicholas (Niko—laos).</publisher>
+                            <publisher>Whitchurch (Whytchurch), Edward</publisher>
+                        </imprint>
+                 <extent>10, clvii, 1 leave, tables, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="royal_edict_on_price">
+   <pb facs="168"/>
+   <p>❧The Kinges Maiestie, by❧ the aduyse of his moste deare vncle the Lorde Pro<g ref="char:EOLhyphen"/>tector and other his highnes Counsell, streightly chargeth and commaundeth, that no maner of person do sell this present booke vn<g ref="char:EOLhyphen"/>bounde, aboue the price of .ii. Shyl<g ref="char:EOLhyphen"/>lynges &amp; .ii. pence the piece. And the same bounde in paste or in boordes, not aboue the price of three shyl<g ref="char:EOLhyphen"/>lynges and .viii. pence the piece.</p>
+   <closer>God saue the King.</closer>
+   <pb facs="169"/>
+   <pb facs="169"/>
+</div>
+        </body>
+  </text>
+</TEI>

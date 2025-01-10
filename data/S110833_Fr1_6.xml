@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Eiusdem de Die translato.</title>
+           <author>Lapworth, Ed.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110833_Fr1_6</idno>
+           <idno type="DLPS">A11402</idno>
+           <idno type="STC">21659</idno>
+           <idno type="ESTC">S110833</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Eiusdem de Die translato.</title>
+                 <author>Lapworth, Ed.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second day of the First vveeke of the most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done out of French into English heroicall verse by Thomas VVinter, Maister of Artes</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Shaw, James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>8, 40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Eiusdem de Die translato.</head>
+   <l>EST fraudulenti trahere de die diem,</l>
+   <l>Transferre forsan de Die Diem est scelus:</l>
+   <l>Si sit vel error, error hic culpâ caret,</l>
+   <l>Fiet{que} foelix scelere <hi>Translator</hi> suo.</l>
+   <closer>
+      <signed>Ed. Lapw.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

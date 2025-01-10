@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Worshipfull my very good and Maister Peter Man∣wood auile.</title>
+           <author>Linche, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108996_Fr1_2</idno>
+           <idno type="DLPS">A06631</idno>
+           <idno type="STC">17092</idno>
+           <idno type="ESTC">S108996</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Worshipfull my very good and Maister Peter Man∣wood auile.</title>
+                 <author>Linche, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An historical treatise of the travels of Noah into Europe : containing the first inhabitation and peopling thereof. As also a breefe recapitulation of the kings, governors, and rulers commanding in the same, even untill the first building of Troy by Dardanus. Done into English by Richard Lynche, Gent</title>
+                 <author>Nanni, Giovanni</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>112 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Worshipfull my very good and Maister <hi>Peter Man<g ref="char:EOLhyphen"/>wood</hi>
+      <gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>auile.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Ir, being wholly unfur<g ref="char:EOLhyphen"/>nisht of any other means to testifie my grateful<g ref="char:EOLhyphen"/>nesse for your many kind<g ref="char:EOLhyphen"/>nesses towards mee, and thinking it unfit that they so long should sleepe obscured or publickly unacknowled<g ref="char:EOLhyphen"/>led, I judged it irrequisit by dedicati<g ref="char:EOLhyphen"/>on of these few lines unto you (disa<g ref="char:EOLhyphen"/>bled by Fortune for anie other fashi<g ref="char:EOLhyphen"/>on) to let you know how much I de<g ref="char:EOLhyphen"/>sire to be found thankefull to an assu<g ref="char:EOLhyphen"/>red friend. The matter handled, chal<g ref="char:EOLhyphen"/>lengeth no great worth, the manner
+<pb facs="3"/>
+in the dressing of it lesse, and yet my endevors to deserve the continuation of your love, not to bee rejected: as Time shall beget a more oportune occasion, my industrie shall not slacke to apprehend the same, from which (it may be) may bee produced a better-shaped issue: till when and ever af<g ref="char:EOLhyphen"/>ter I rest</p>
+   <closer>
+      <signed>Yours in all sincere affection and fidelitie, assured, <hi>Richard Lynche.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE HONORABLE, MOST RELIGIOVS, And Loyall Assembly, of the Knights, Citizens, and Burgesses of the Commons House of Parliament.</title>
+           <author>Bargrave, Isaac</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1423_Fr1_2</idno>
+           <idno type="DLPS">A04091</idno>
+           <idno type="STC">1415.5</idno>
+           <idno type="ESTC">S1423</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE HONORABLE, MOST RELIGIOVS, And Loyall Assembly, of the Knights, Citizens, and Burgesses of the Commons House of Parliament.</title>
+                 <author>Bargrave, Isaac</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached before the honorable assembly of knights, citizens, and burgesses,of the lower house of Parliament, February the last, 1623. By Isaac Bargrave: Doctor in Diuinity; chaplaine to the Prince's Highnes; and pastor of St Margarets Church in Westminster·</title>
+                 <author>Bargrave, Isaac</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 <distributor>Bartlet, John</distributor>
+                            <distributor>Spencer, John</distributor>
+                        </imprint>
+                 <extent>6, 37, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE HONORABLE, MOST RELIGIOVS, And Loyall Assembly, of the Knights, Citizens, and <hi>Burgesses of the Commons House of Parliament.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">I</seg>N the opinion of the most Accurate, a <hi>Sermon</hi> once deliuered, goeth afterward to the Presse as to execution. And where-euer there is but an equall part of <hi>Plato's</hi>
+      <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in pronuntiation, <hi>Quintilians</hi> Rule will no<note place="margin">Lib. 11. cap. 3.</note> question proue true; <hi>Ita quis{que} vt audit, movetur.</hi> But my ayme is alwayes more
+<pb facs="3"/> at the heart, than at the eare; and in my present Endeuours, my chiefe ambition is, to serue you, while you serue the Common-Good. That, by your command, is now in a dead Letter, which lately, by your suffe<g ref="char:EOLhyphen"/>rance, liued in the mouth of the Speaker. Your fauour calling me to the Pulpit, made me truely feele my weakenes; And nothing but your Authority commanding me to the Presse, is able to sustaine it. The speedy ex<g ref="char:EOLhyphen"/>ecution of your cōmaund, gaue me no time to perfect what in too little time I had con<g ref="char:EOLhyphen"/>ceiued; how-euer, with me, to speake ho<g ref="char:EOLhyphen"/>nestly, is to speake Eloquently. My soule professeth, I could willingly haue spent the whole labour of my life vpon so worthy an Assembly; to expresse the desire wher<g ref="char:EOLhyphen"/>of, (by the encouragement of many of your owne Body) I shall speedily annexe to this, two other <hi>Sermons,</hi> the one against <hi>Bri<g ref="char:EOLhyphen"/>bery,</hi> and the other against <hi>Selfe-Policy;</hi> both which, I will bee bold to call, The Character of mine owne heart toward the publike good of our Church and Common<g ref="char:EOLhyphen"/>wealth. For this in particular, be pleased
+<pb facs="3"/> to accept what your selues haue comman<g ref="char:EOLhyphen"/>ded, and fauour me with the liberty of this Apologie; <hi>Vt si quid peccatum siet, fe<g ref="char:EOLhyphen"/>cisse</hi>
+      <note place="margin">Plaut.</note>
+      <hi>me dicant de vostra sententia.</hi> We all blesse our selues in the contemplation of these times; for hauing such a <hi>God,</hi> such a <hi>King,</hi> such a <hi>Parliament: Quid non speremus amantes?</hi> The God of Blessing so dispose of your Councels, that you may keepe the spirit of vnity in the bond of Peace.</p>
+   <closer>
+      <signed>Your humble and ready seruant in the LORD: ISAAC BARGRAVE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

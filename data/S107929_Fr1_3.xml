@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>C., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107929_Fr1_3</idno>
+           <idno type="DLPS">A18271</idno>
+           <idno type="STC">4887</idno>
+           <idno type="ESTC">S107929</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>C., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treasurie or store-house of similies : both pleasaunt, delightfull, and profitable, for all estates of men in generall. Newly collected into heades and common places: by Robert Cawdray</title>
+                 <author>Cawdrey, Robert</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>12, 860, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Linguistics and philology</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <p>great benefit and comfort by this worke, if, (after his returne home from the hearing of any godly Lecture or Sermon, where he hath either heard any principle of God his Religion, handled and spoken off: Or else any vertue commended, or vice condem<g ref="char:EOLhyphen"/>ned) he shall turne to that point, and first search it out in the Table, and so then to Read all such Similies in the Booke, as he shall there find, tou<g ref="char:EOLhyphen"/>ching the same point and matter.</p>
+   <closer>
+      <signed>R. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

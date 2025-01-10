@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AVGVSTISSIMAE REGIAE MAIESTTI.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111687_Fr1_2</idno>
+           <idno type="DLPS">A14289</idno>
+           <idno type="STC">24605</idno>
+           <idno type="ESTC">S111687</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AVGVSTISSIMAE REGIAE MAIESTTI.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Cambrensium Caroleia : Quibus pr [a] ecepta necessaria ad rempublicam nostram foeliciter administrandum interxuntur [sic] : opera &amp; studio Gulielmi Vaughanni militis</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Constable, Francis.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>112 pages, folded plates, map, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="salutation">
+   <pb facs="2"/>
+   <head>AVGVSTISSIMAE REGIAE <hi>MAIEST<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>TI.</hi>
+   </head>
+   <opener>
+      <salute>Serenissime Rex,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">R</seg>Eligiosi nostri Concionibus &amp; Votis deuotissimis, Nobi<g ref="char:EOLhyphen"/>lissimi Aulici Pompis &amp; Attalicis vestibus, Londinen<g ref="char:EOLhyphen"/>ses Arcubus triumphalibus, Poetae Lucubrationibus c<g ref="char:EOLhyphen"/>ruditis beneuolentiam suam in Auspicium Regalium Nuptiarum exprimere contendunt. Inter hos, vt seruitium meum erga Regiam tuam Maiestatem memorabili quodam munereex Australi <hi>Nouae Terrae</hi> Plaga reportato patefacerem, &amp; ipse Lati<g ref="char:EOLhyphen"/>no ornatu, licet incultus prodeo; vt qui nouo &amp; nostris tempori<g ref="char:EOLhyphen"/>bus paene inaudito exemplo proprijs meis impensis Colonias in Nouam Terram transportari &amp; Prouinciam incultam <hi>Cambriolae</hi> nomine insigniri curauerim. Hinc <hi>Orphei</hi> Titulum <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>am vsurpo, &amp; vna cum hoc Opere Poetico, quod Argonautici effigie illustran<g ref="char:EOLhyphen"/>dum cupio, <hi>Colchicam</hi> nostram <hi>Cambriolam</hi> Reipublicae in posterum profuturam Regalituae Protectioni humilim<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> submitto. Non est aliud solertia &amp; curis tuis magis dignum, quam Plantatio istius In<g ref="char:EOLhyphen"/>sulae. Qua peracta, ne dubites, quin breuissimo tempore, nimi<g ref="char:EOLhyphen"/>rum intra septennium Classes nostrae Nauales mirum in modum accrescent, &amp; <hi>Britanni</hi> tui tantam vtilitatem ex Piscium copia, quasi Manna, Cultura terrae etiám addita, annuatim percipient, quanta Hispanis ex Aurifodinis in America prouenire possit.</p>
+   <p>Officium fidelis Serui iam praestiti, me &amp; mea pro tantis Coepti<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> propagandis tanquam sacrificium oblaturus ad <hi>Nou<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> Terrae</hi> aras, &amp;</p>
+   <closer>
+      <salute>Ad ped<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>s optimae spei Regis</salute>
+      <signed>Gulielmus Vauhannus <hi>Cambro-Britannus</hi> oblaturus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Readers.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1547</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111672_Fr1_3</idno>
+           <idno type="DLPS">A17216</idno>
+           <idno type="STC">4071</idno>
+           <idno type="ESTC">S111672</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Readers.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The olde fayth : an euident probacion out of the holy scripture, that the christen fayth (whiche is the right, true, old and vndoubted fayth) hath endured sens the beginnyng of the worlde. Herein hast thou also a short summe of the whole Byble, and a probacion, that al vertuous men haue pleased God, and wer saued through the Christen fayth. 1547. Myles Couerdale</title>
+                 <author>Bullinger, Heinrich</author>
+                 <imprint>
+                    <publisher>Hill (Hyll), William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1547</date>
+                 </imprint>
+                 <extent>128 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_on_sigla">
+   <head>To the Readers.</head>
+   <p>For your better instructiō (gentle Rea<g ref="char:EOLunhyphen"/>ders (ye shall vnderstonde, that where as in thys boke there be many whole senten<g ref="char:EOLunhyphen"/>ces of the Byble alledged and rehearsed, All waye for the moost parte, at the begin<g ref="char:EOLunhyphen"/>nynge of euery such sentēce, ye fynde thys crosse and such a starre at the ende therof: to the in<g ref="char:EOLunhyphen"/>tent that the texte of, holy scripture in this boke may the better be noted and knowne</p>
+   <pb facs="9"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="9"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

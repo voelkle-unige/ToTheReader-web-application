@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶The booke speaketh.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1533</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105494_Fr1_2</idno>
+           <idno type="DLPS">A00363</idno>
+           <idno type="STC">10479</idno>
+           <idno type="ESTC">S105494</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶The booke speaketh.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A booke called in latyn Enchiridion militis christiani, and in englysshe the manuell of the christen knyght : replenysshed with moste holsome preceptes, made by the famous clerke Erasmus of Roterdame, to the whiche is added a newe and meruaylous profytable preface</title>
+                 <author>Erasmus, Desiderius</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1533</date>
+                 <publisher>Byddell, alias Salisbury, John.</publisher>
+                            <publisher>Worde, Wynkyn de</publisher>
+                        </imprint>
+                 <extent>340 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_the_reader">
+   <pb facs="2"/>
+   <head>¶The booke speaketh.</head>
+   <l>TO please all sortes of men I do not passe</l>
+   <l>To please the good &amp; lerned is a fayre thyng</l>
+   <l>ye and these bothe / were more than couenant was</l>
+   <l>And more than I loke for. who so the lernyng</l>
+   <l>Of Christ dothe sauour / if he lyke well althyng</l>
+   <l>I seke no further / Christe is myne Apollo</l>
+   <l>Onely strengthyng me to speake this that I do.</l>
+</div>
+        </body>
+  </text>
+</TEI>

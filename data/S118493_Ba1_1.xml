@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Gentle Reader,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118493_Ba1_1</idno>
+           <idno type="DLPS">A13833</idno>
+           <idno type="STC">24140</idno>
+           <idno type="ESTC">S118493</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Gentle Reader,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The admirable life of S. Francis Xavier : Deuided into VI. bookes written in Latin by Fa. Horatius Tursellinus of the Society of Iesus and translated into English by T.F</title>
+                 <author>Torsellino, Orazio</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>26, 616 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Gentle Reader,</head>
+   <p>THE faults which haue escaped in prin<g ref="char:EOLhyphen"/>ting
+(by reason of imploying strangers
+heerin, not skillfull of our Language) I hope
+are not very many, nor yet such, as may not
+easily be corrected, by thy iudicious Reading</p>
+</div>
+        </body>
+  </text>
+</TEI>

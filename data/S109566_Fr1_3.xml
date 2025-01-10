@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the curteous Reader whatsoeuer.</title>
+           <author>G., L.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109566_Fr1_3</idno>
+           <idno type="DLPS">A06166</idno>
+           <idno type="STC">16657</idno>
+           <idno type="ESTC">S109566</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the curteous Reader whatsoeuer.</title>
+                 <author>G., L.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The famous, true and historicall life of Robert second Duke of Normandy, surnamed for his monstrous birth and behauiour, Robin the Diuell : VVherein is contained his dissolute life in his youth, his deuout reconcilement and vertues in his age: interlaced with many straung and miraculous aduentures. VVherein are both causes of profite, and manie conceits of pleasure. By T.L. G</title>
+                 <author>Lodge, Thomas</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 <distributor>Busby, John 1</distributor>
+                            <distributor>Ling (Lyng), Nicholas</distributor>
+                        </imprint>
+                 <extent>2, 43, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="3"/>
+   <head>To the curteous Reader whatsoeuer.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, I haue vppon the earnest request of
+some my good friends, drawne out of the old
+and ancient antiquaries, the true li<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>e of <hi>R<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>bert</hi>
+second Duke of <hi>Normandie,</hi> (surnamed for his
+youthfull imperfections, <hi>Robin</hi> the Diuell) wherein I
+stand not so much on the termes, as the trueth, publishing
+as much as I haue read, and not so much as they haue
+written. The Loadstarres that directed me in my course,
+if they haue colours and no counterfeit, doo me right to
+say they set down coulors without counterfeit: yet many
+things haue happened in times past, incredible in our age,
+and in our age such things haue falne out, as had our fa<g ref="char:EOLhyphen"/>thers
+knowne they had meruailed: It onely behoueth vs
+to applie all things that tend to good, to their end, which
+is vertue, and esteeme them; to intend all things that are
+bad, to their end, which is vice, and eschue them. So shall
+we in reading reape that fruit, that impossible things shall
+be referred to God, and possible ordered to our amends.
+Farewell.</p>
+   <closer>
+      <signed>T. L. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

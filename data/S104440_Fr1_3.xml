@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104440_Fr1_3</idno>
+           <idno type="DLPS">A06749</idno>
+           <idno type="STC">17195</idno>
+           <idno type="ESTC">S104440</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sermon of the communion of saints; preached by Edward Maie, chaplaine to the honorable societie of Lincolnes Inne</title>
+                 <author>Maie, Edward</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <distributor>Latham (Lathum, Lautham), George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>8, 24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="5"/>
+   <p>
+      <hi>Good Reader for as much as concernes the body of the Sermon, vnderstand this, that in some places since it was printed, I finde my meaning much obscured for thy clearer vnderstanding: And many ouersights and omissions haue also not a little defaced it, which I beseech thee pardon: I will make a mends here for some.</hi>
+   </p>
+   <p>
+      <list>
+         <item>
+            <hi>Page 1. line 1.</hi> this <hi>for</hi> the.</item>
+         <item>
+            <hi>Page 23.</hi> Iouinianus <hi>for</hi> Iouinian.</item>
+         <item>Pause <hi>for</hi> pauses.</item>
+      </list>
+   </p>
+   <p>
+      <hi>Marginall ouersights,</hi>
+      <list>
+         <item>
+            <hi>Page 2.</hi> qua <hi>for</hi> quia.</item>
+         <item>
+            <hi>Page 5.</hi> eum <hi>for</hi> est.</item>
+         <item>
+            <hi>Pag. 22.</hi> Talinus <hi>for</hi> Tatius.</item>
+      </list>
+   </p>
+   <p>
+      <hi>Marginall omissions,</hi>
+      <list>
+         <item>
+            <hi>Page 7.</hi> Chrysost: l. <hi>3.</hi> &amp; <hi>6.</hi> de Sacerdotio &amp; hom. <hi>51.</hi> in Mat:</item>
+         <item>
+            <hi>Page 9.</hi> Laicus omnis fine Sacerdote perfici<g ref="char:EOLhyphen"/>eus aliquid frustra facit Clemens, Rom. Apost. Constitut: l. <hi>2.</hi> c. <hi>31.</hi>
+         </item>
+      </list>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

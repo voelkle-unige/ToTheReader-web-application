@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad amicum P. Sextum.</title>
+           <author>H., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112464_Fr1_2</idno>
+           <idno type="DLPS">A02469</idno>
+           <idno type="STC">12598</idno>
+           <idno type="ESTC">S112464</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad amicum P. Sextum.</title>
+                 <author>H., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sight of the Portugall pearle, that is, the aunsvvere of D. Haddon maister of the requests vnto our soueraigne lady Elizabeth by the grace of God quene of England Fraunce and Irelande, defendour of the faith. &amp;c. against the epistle of Hieronimus Osorius a Portugall, entitled a Pearle for a Prince. Translated out of lattyn into englishe by Abraham Hartwell, student in the kynges colledge in Cambridge</title>
+                 <author>Haddon, Walter</author>
+                 <imprint>
+                    <publisher>Seres, William 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>130 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="translators_dedication">
+   <pb facs="2"/>
+   <head>Ad amicum P. Sextum.</head>
+   <opener>
+      <signed>A. H.</signed>
+   </opener>
+   <l>QVod me (Sexte) rogasdū conor dicere, ludū:</l>
+   <l>Paparū{que} (puto) fulmen inane putas.</l>
+   <l>Priscis papicolis plus an minus Anglolouani,</l>
+   <l>Deteriora ferant an meliora rogas.</l>
+   <l>Cum dico, meliora: negas rides{que}. papismo</l>
+   <l>Qui meliore valet deteriore valet.</l>
+   <l>Tu{que} idem rides cum dico, deteriora:</l>
+   <l>Tam spurcis peius deterius{que} nihil.</l>
+   <l>Plus nonuis (quamuis corradant omnia) posse,</l>
+   <l>Nonuis (cum rapiant omnia) posse minus.</l>
+   <l>Ergo eadem scribunt, pucris irrisa fabris{que},</l>
+   <l>Quae{que} omnis passim nouit &amp; odit homo.</l>
+   <l>Cur eadem scribunt, Latij{que} opprobria cultus,</l>
+   <l>Anglo ter mittunt proijcienda solo?</l>
+   <l>Cur modo pulsa recèns mittūt pellenda, Latini,</l>
+   <l>Ac non omniloqui, dogmata vana Petri?</l>
+   <l>Esurit externus praelus, praeli{que} magister:</l>
+   <l>Haec, inquis, lucri (Sexte) repertavia est.</l>
+</div>
+        </body>
+  </text>
+</TEI>

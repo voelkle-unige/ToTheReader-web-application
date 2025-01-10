@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1540</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105011_Fr1_2</idno>
+           <idno type="DLPS">A12582</idno>
+           <idno type="STC">22897</idno>
+           <idno type="ESTC">S105011</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Here begynnyth a traetys callyde the Lordis flayle handlyde by the bushops powre thresshere Thomas Solme</title>
+                 <author>Some, Thomas</author>
+                 <imprint>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1540</date>
+                 <publisher>Emlos, Theophyll, pseud.</publisher>
+                            <publisher>Ruremund (Endoviensis), Catherine van</publisher>
+                        </imprint>
+                 <extent>78 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <p>GOod redere here thow haste a shorte <gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>
+      <g ref="char:EOLunhyphen"/>tis callyd the lordis flaylle whych s<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> dreue the to the confeschione of one Chr<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> and sauyure the secūde persone yn trynyte <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> &amp; mane / Whych flayll is handlyde by the hops powre thresshere Thomas so<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>ne / a<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> theyre correccion I submytie my selffe i<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> wrytte ony thynge contrary to te truthe / <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> this I sett forte a worke of iustificaciō / <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> yn I wyll declare the Sacramētis of Chry<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> the Sacramentis ynstitute of the Pope<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> pwrely &amp; syncerely as scripture do testify a<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>
+      <g ref="char:EOLunhyphen"/>dynge to the declaracyone of the beste cla<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> Wherfor pray to the Lorde for me and all o<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>re laborynge yn the lordis vynarde to the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>ry of hys name / &amp; worthily acceptet hys <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> powre worke / the fyrste taste that I fynde yn the lordis swett<g ref="char:EOLhyphen"/>nes / whych taste I pray God sende all yng<g ref="char:EOLhyphen"/>norante per<g ref="char:EOLhyphen"/>sons.</p>
+</div>
+        </body>
+  </text>
+</TEI>

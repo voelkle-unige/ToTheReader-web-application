@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>M., L.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107290_Fr1_3</idno>
+           <idno type="DLPS">A07184</idno>
+           <idno type="STC">17589</idno>
+           <idno type="ESTC">S107290</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>M., L.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The husbandlye ordring and gouernmente of poultrie : Practised by the learnedste, and suche as haue bene knowne skilfullest in that arte, and in our tyme</title>
+                 <author>Mascall, Leonard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 <publisher>Dewes, Garrat.</publisher>
+                            <publisher>Purfoot, Thomas 1</publisher>
+                        </imprint>
+                 <extent>160 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Or so much gentle Reader, as beasts and Cattaile is profita<g ref="char:EOLhyphen"/>ble to mans liuing, so is also poultrie and other foule a good thing for the common wealth, and speci<g ref="char:EOLhyphen"/>ally to them that are housekeepers, as well for the Gentleman, as the husbande<g ref="char:EOLhyphen"/>man, and to farther the mayntainaunce of the same, I haue taken some paynes ther<g ref="char:EOLhyphen"/>in, which here thou shalt finde gentle rea<g ref="char:EOLhyphen"/>der, as well for the wilde foule as others, such order for the gouernment thereof, as hath not here before bene written, or re<g ref="char:EOLhyphen"/>uealde in our english tongue, with a redy table by Alphabet, to find out any thing herein contayned.</p>
+   <closer>
+      <signed>by L.M. 1581.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

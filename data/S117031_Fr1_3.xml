@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117031_Fr1_3</idno>
+           <idno type="DLPS">A10670</idno>
+           <idno type="STC">20946.1</idno>
+           <idno type="ESTC">S117031</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Votivæ Angliæ: or The desires and vvishes of England : Contayned in a patheticall discourse, presented to the King on New-yeares Day last. Wherein are vnfolded and represented, manie strong reasons, and true and solide motives, to perswade his Majestie to drawe his royall sword, for the restoring of the Pallatynat, and Electorat, to his sonne in lawe Prince Fredericke, to his onlie daughter the Ladie Elizabeth, and theyr princelie issue. Against the treacherovs vsvrpation, and formidable ambition and power of the Emperour, the King of Spayne, and the Duke of Bavaria, whoe unjustlie possesse and detayne the same. Together with some aphorismes returned (with a large interest) to the Pope in answer of his. Written by S.R.N.I</title>
+                 <author>Reynolds, John</author>
+                 <imprint>
+                    <pubPlace>France</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="5"/>
+   <head>The Printer to the Reader.</head>
+   <p>GEntelmen, the Author his remote absence from the
+Presse, hath occasioned mee to commit manie
+Errours, wherof hee is innocent, his deserts crave and
+deserve you to reforme them, and I likewise desire it,
+aswell for your satisfaction, as for myne owne excuse.</p>
+   <closer>Farewell.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

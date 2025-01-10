@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114001_Bo1_47</idno>
+           <idno type="DLPS">A06128</idno>
+           <idno type="STC">16613</idno>
+           <idno type="ESTC">S114001</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Romane historie vvritten by T. Livius of Padua. Also, the Breviaries of L. Florus: with a chronologie to the whole historie: and the Topographie of Rome in old time. Translated out of Latine into English, by Philemon Holland, Doctor in Physicke</title>
+                 <author>Livy</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>12, 804, 809-1351, 1354-1403, 43 pages, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="707"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Or as much as <hi>Titus Livius</hi> is prolixe and full of va<g ref="char:EOLhyphen"/>rietie: and howsoever otherwise willing enough to speake our language, yet most loth to for beare and forget certaine Romane words, vvherwith so long time he hath bene acquainted: also for that novv and then hee saith one thing in his English tongue, and in his French and Ita<g ref="char:EOLhyphen"/>lian another; vvhereby hee may bee thought either to trip, or to have forgotten himselfe, and the fault imputed to his teacher: In these regards (mee thought) I owed thus much for their sake that converse with English <hi>Livie,</hi> as to satisfie them in that behalfe. A twofold Index therefore I have digested: the one directing and leading readily to the most material &amp; prin<g ref="char:EOLhyphen"/>cipall matters conteined in the whole bodie of the Historie: the other, expounding those things that may seeme at first straunge to the most: and withall, shewing here and there the reason of the foresaid disagreement, hoping that as use will make them more familiar in those straunge phrases: so deeper and farther conference with him in his primitive Latine (the onely touch<g ref="char:EOLhyphen"/>stone of his true speech) shall excuse and acquit mee of iust blame, who have endevoured that he might deliver his mind in English, if not so eloquently by many degrees, yet as truly, as in Latine.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad CAROLVM Principem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1173_Fr1_2</idno>
+           <idno type="DLPS">A05817</idno>
+           <idno type="STC">1602</idno>
+           <idno type="ESTC">S1173</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad CAROLVM Principem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The practise of pietie : directing a Christian how to walke that he may please God</title>
+                 <author>Bayly, Lewis</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Hodgets, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>36, 1031, 1 page</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="12"/>
+   <head>Ad CAROLVM Principem.</head>
+   <l>TOlle Malos, extolle Pios, cognosce Teipsum.</l>
+   <l>Sacra tene, Paci consule, disce pati.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE GENEROVS READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116882_Fr1_3</idno>
+           <idno type="DLPS">A11620</idno>
+           <idno type="STC">21862</idno>
+           <idno type="ESTC">S116882</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE GENEROVS READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The tillage of light· Or, A true discouerie of the philosophicall elixir, commonly called the philosophers stone : Seruing, to enrich all true, noble and generous spirits, as will aduenture some few labors in the tillage of such a light, as is worthy the best obseruance o the most wise. By Patrick Scot, Esquire</title>
+                 <author>Scot, Patrick</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Lee, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>8, 49, 7 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE GENEROVS READER.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Here is, generous Reader, no <hi>Til<g ref="char:EOLhyphen"/>lage</hi> more difficult, then that of the <hi>Heart;</hi> in the heart, no field more rough to plough, then that of <hi>Wis<g ref="char:EOLhyphen"/>dome:</hi> maruell not then that my blushing pen proclaimes my ill <hi>Husbandry,</hi> in putting off this ill cultur'd <hi>Farme</hi> to your sur<g ref="char:EOLhyphen"/>uey; yet if you value the <hi>Balkes</hi> with the better <hi>Ground,</hi> you shal rate the whole at a high price: Howsoeuer, I am your Suppliant, that you will accept of my <hi>Loue</hi> in the offer; laugh at my <hi>va<g ref="char:EOLhyphen"/>nitie,</hi> in greeting you with <hi>Performance,</hi> and conceale my rusticitie in both. Your hard cen<g ref="char:EOLhyphen"/>sure may perhaps send my <hi>Plough</hi> to guard the Breach of some <hi>Caterpiller-eaten Hedge,</hi> turne my Grounds waste, to bee <hi>Nurseries</hi> of <hi>Brambles,</hi> or inroll mee Retainer to <hi>Duke Humphrey,</hi> who hath already moe Attendants then good cheere.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

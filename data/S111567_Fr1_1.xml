@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Caxton'S Preface]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1483</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111567_Fr1_1</idno>
+           <idno type="DLPS">A18507</idno>
+           <idno type="STC">5057</idno>
+           <idno type="ESTC">S111567</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Caxton'S Preface]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Here foloweth the copye of a lettre whyche maistre Alayn Charetier wrote to hys brother ... translated out of frensshe in to englysshe</title>
+                 <author>Chartier, Alain</author>
+                 <imprint>
+                    <publisher>Caxton, William</publisher>
+                    <pubPlace>Great Britain--England--London--Westminster</pubPlace>
+                    <date>1483</date>
+                 </imprint>
+                 <extent>iij, 3 leaves, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="Caxtons_preface">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <p>Here foloweth the copye of a lettre whyche maistre Alayn Charetier wrote to hys brother / whyche desired to come dwelle in Court / in whyche he reherseth many myseryes &amp; wretchydnesses therin vsed / For taduyse hym not to entre in to it / leste he af<g ref="char:EOLhyphen"/>ter repente / like as hier after folowe / <abbr>and</abbr> late <abbr>translated</abbr> out of frensshe in to englysshe / whyche Copye was <abbr>delyuerid</abbr> to me by a noble <abbr>and</abbr> vertuous Erle / At whos Instance &amp; requeste I haue <abbr>reduced</abbr> it in to Englyssh</p>
+</div>
+        </body>
+  </text>
+</TEI>

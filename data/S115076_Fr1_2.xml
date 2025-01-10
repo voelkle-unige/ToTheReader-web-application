@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>R. P. D. D. IOANNES
+PARKHURSTUS Episcopus
+Noruvicensis ad Thomam
+Baeconum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115076_Fr1_2</idno>
+           <idno type="DLPS">A06744</idno>
+           <idno type="STC">1719</idno>
+           <idno type="ESTC">S115076</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>R. P. D. D. IOANNES
+PARKHURSTUS Episcopus
+Noruvicensis ad Thomam
+Baeconum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The displaying of the Popish masse : vvherein thou shalt see, what a wicked idoll the masse is, and what great difference there is between the Lords Supper and the Popes Masse: againe, what Popes brought in every part of the masse, and counted it together in such monstrou sort, as it is now used in the Popes kingdome. Written by Thomas Becon; and published in the dayes of Queene Mary</title>
+                 <author>Becon, Thomas</author>
+                 <imprint>
+                    <distributor>—English Stock</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Stationers’ Company, London</publisher>
+                        </imprint>
+                 <extent>4, 331, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>R. P. D. D. IOANNES
+PARKHURSTUS Episcopus
+Noruvicensis ad Thomam
+Baeconum.</head>
+   <l>Vidi &amp; perlegi doctos Baecone libellos,</l>
+   <l>Quo tua nonpridem sancta Minerva de<g ref="char:EOLhyphen"/>dito</l>
+   <l>Dispercam siquid legi unquam sanctius, aut si</l>
+   <l>Quid potuit populo tradier ut liu<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>.</l>
+   <l>Auspice perge Deo tales vulgare libellos,</l>
+   <l>Variloquax sed nec lingua timenda tibi est.</l>
+   <l>Sic Christum possis avido iaculare popello,</l>
+   <l>Sic possis nomen condecorare tuum.</l>
+</div>
+        </body>
+  </text>
+</TEI>

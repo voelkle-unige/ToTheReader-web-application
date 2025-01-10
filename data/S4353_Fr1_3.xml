@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4353_Fr1_3</idno>
+           <idno type="DLPS">A04754</idno>
+           <idno type="STC">14887.5</idno>
+           <idno type="ESTC">S4353</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Complete justice : a compendium of the particulars incident to justices of the peace, either in sessions or out of sessions : gathered out of the statutes, reports, late resolutions of the judges, and other approved authorities : abstracted and cited alphabetically for their ready helpe, and the ease of inferiour officers, and for the generall good of the kingdome</title>
+                 <imprint>
+                    <distributor>More, John, esq., Assignees of</distributor>
+                    <pubPlace/>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>10, 292 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="6"/>
+   <opener>
+      <salute>Courteous Reader,</salute>
+   </opener>
+   <p>IN all those places of this following Tract where M. <hi>Daltons</hi> Country Justice <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> vouched for its authority, be pleased <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> take notice, that this Author followed <gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap> former Edition thereof; and therefore r<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLunhyphen"/>ther have recourse to the Alphabeticall <gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>
+      <g ref="char:EOLunhyphen"/>tles in <hi>Dalton,</hi> than the page, which for th<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap> most part failes, by reason of some addit<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLunhyphen"/>ons to that worke in this last Impressio<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap> printed by the Assignes of <hi>John More,</hi> E<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

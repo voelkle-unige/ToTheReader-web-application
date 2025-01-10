@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TYPOGRAPHVS
+Lectori.</title>
+           <author>Waldegrave, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105416_Fr1_2</idno>
+           <idno type="DLPS">A17100</idno>
+           <idno type="STC">3979.5</idno>
+           <idno type="ESTC">S105416</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TYPOGRAPHVS
+Lectori.</title>
+                 <author>Waldegrave, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>De prosodia libellus. Authore G. Buchanano</title>
+                 <author>Buchanan, George</author>
+                 <imprint>
+                    <publisher>Waldegrave (Walgrave), Robert</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>36 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <head>TYPOGRAPHVS
+Lectori.</head>
+   <p>HAbes, Lector, breviter &amp; perspicuè ex<g ref="char:EOLhyphen"/>posita,
+quae G. <hi>Buchananus</hi> tyronibus
+ad Poetices rudimenta censuit neces<g ref="char:EOLhyphen"/>saria.
+Ille enim non doctrina modó sed judi<g ref="char:EOLhyphen"/>cio
+vir incomparabilis nullam hinc ingenij
+laudem (quā ex alijs scriptis literatorum om<g ref="char:EOLhyphen"/>nium
+judicio satis amplam consequutus est)
+affectare voluit: verum ad captum puerorum,
+quibus solis haec scripta sunt, se totum accom<g ref="char:EOLhyphen"/>modavit.
+Quod si tanto viro per occupatio<g ref="char:EOLhyphen"/>nes
+&amp; graviora studia, licuisset reliquas Gram<g ref="char:EOLhyphen"/>maticae
+partes, pari facilitate strictim percur<g ref="char:EOLhyphen"/>risse,
+Deus bone, quanta inde utilitas studiosae
+juventuti accessisset.</p>
+   <closer>
+      <signed>Rovertus Walde-graue</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

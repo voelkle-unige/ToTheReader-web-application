@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Katherina.</title>
+           <author>F., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117329_Fr4_4_4</idno>
+           <idno type="DLPS">A02735</idno>
+           <idno type="STC">12866</idno>
+           <idno type="ESTC">S117329</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Katherina.</title>
+                 <author>F., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Deaths aduantage little regarded, and The soules solace against sorrow : Preached in two funerall sermons at Childwal in Lancashire at the buriall of Mistris Katherin Brettergh the third of Iune. 1601. The one by William Harrison, one of the preachers appointed by her. Maiestie for the countie palatine of Lancaster, the other by William Leygh, Bachelor of Diuinitie, and pastor of Standish. Whereunto is annexed, the Christian life and godly death of the said gentlevvoman</title>
+                 <author>Harrison, William</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>6, 84, 4, 77, 19, 38 pages, folded table, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epitaph">
+   <lg>
+      <head>Katherina.</head>
+      <l>Pura: Christo qu<gap reason="illegible" resp="#apex" extent="3 letters">
+            <desc>•••</desc>
+         </gap> purgata.</l>
+      <l>Vita, Christo praparata.</l>
+      <l>Morte, Christo dedicata.</l>
+      <l>Coelis, Christo coni<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>gata.</l>
+   </lg>
+   <closer>
+      <signed>W. F.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

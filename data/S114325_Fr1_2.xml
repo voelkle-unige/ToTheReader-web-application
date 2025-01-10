@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114325_Fr1_2</idno>
+           <idno type="DLPS">A09258</idno>
+           <idno type="STC">19571</idno>
+           <idno type="ESTC">S114325</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe introduction to geography : containing a description of the grounds, and generall part thereof, very necessary for young students in that science. VVritten by that learned man, Mr William Pemble, Master of Arts, of Magdalen Hall in Oxford</title>
+                 <author>Pemble, William</author>
+                 <imprint>
+                    <publisher>Lichfield, John</publisher>
+                    <distributor>Forrest, Edward</distributor>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>4, 64, that is 46, 2 pages, folded leaf, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader; I here present vnto thy view these few sheets, written by that learned man <hi>M<seg rend="sup">r</seg> William Pemble,</hi> I doubt not to call him the father, the childe fauours him so much. It hath long lay bid from thy sight, but now at length emboldned vpon thy cur<g ref="char:EOLhyphen"/>teous acceptance of his former labours, it lookes a<g ref="char:EOLhyphen"/>broad into the world; It's but little; let not that de<g ref="char:EOLhyphen"/>tract any thing from it, there may lie much, though pent vp in a narrow roome; when thou reades, then iudge of it; Thus much may bee sayd: Though many haue writ of this subiect, yet this inferiour to none; thou may'st obserue in it an admirable mixture of Art and delight, so that for younger Students it may bee their introduction, for others a Remembrancer, for any not vnworthy the perusall: only, let it finde kinde entertaynment, at thy hands.</p>
+   <closer>Farewell.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104139_Fr1_3</idno>
+           <idno type="DLPS">A12367</idno>
+           <idno type="STC">22685</idno>
+           <idno type="ESTC">S104139</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A preparatiue to mariage : The summe whereof was spoken at a contract, and inlarged after. Whereunto is annexed a treatise of the Lords Supper, and another of vsurie. By Henrie Smith</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>12, 116, 208 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Religious</term>
+                    <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Ecause sicknesse hath re<g ref="char:EOLhyphen"/>strained mee from prea<g ref="char:EOLhyphen"/>ching, I am content to doe anye good by writing. Happye is that Author which is in stead of other, that after his Booke is read, men neede reade no moe of that matter. I goe on a Theame which many haue trauersed before mee prolixely, or cursorily, or barrenly: If I <note place="margin">Reuerendis. Couerdalū excipio.</note> haue performed by studie any more than the rest, let my reader iudge, and giue glory to him which teacheth by whome he will. What I haue endeuored, my selfe doo feele, and others knowe. We are ig<g ref="char:EOLhyphen"/>norant of many things for a few that we vnderstand: but I haue bin alwaye a<g ref="char:EOLhyphen"/>shamed, that my writings shoulde waigh lighter for want of paines, which
+
+
+<pb facs="4"/>
+is the bane of Printing, and surfetteth the Reader. Now I send thee like a Bee to gather Honie out of slowers, and weedes. Euery Garden is furnished with others, and so is ours. Reade, pray, and med<gap reason="illegible" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>; thy profit shall be little in any booke, vnlesse thou reade alone, and vn<g ref="char:EOLhyphen"/>lesse thou reade all. It is one of the births of my fainting, therefore take it with a right hand, and if thou finde any thing that doth make thee better, I repent not that others importunitie hath obtained it for thee. Farewell. As <hi>Iacob</hi> blessed his sonnes when he left them, so now I <note place="margin">Gen. 49. 1.</note> must leaue my fruite to others, I pray God to blesse it, that it may bring foorth fruit in other, and be the sauour of life to <note place="margin">2. Cor. 2. 16.</note> all that reade it.</p>
+   <closer>
+      <signed>Thine in Christ,
+H. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

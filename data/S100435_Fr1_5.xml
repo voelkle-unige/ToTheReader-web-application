@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100435_Fr1_5</idno>
+           <idno type="DLPS">A03379</idno>
+           <idno type="STC">135</idno>
+           <idno type="ESTC">S100435</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The muses threnodie, or, mirthfull mournings, on the death of Master Gall : Containing varietie of pleasant poëticall descriptions, morall instructions, historicall narrations, and divine observations, with the most remarkable antiquities of Scotland, especially at Perth By Mr. H. Adamson</title>
+                 <author>Adamson, Henry</author>
+                 <imprint>
+                    <publisher>Anderson, George</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>20, 87, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>
+      <pb facs="4"/>
+ANent the defunct, his name was <hi>M. Iames Gall,</hi> a Citizen of <hi>Perth,</hi> and a Gentle-man of a good<g ref="char:EOLhyphen"/>ly stature, and pregnant wit, much given to pa<g ref="char:EOLhyphen"/>stime, as golf, archerie, curling; and Joviall companie. A man verie kinde to his friends, and a prettie poet in liberall merriments, and tart satyres; no lesse acquaint with <hi>Philoenus,</hi> and the <hi>Acidalian</hi> Dame, than with the Muses.</p>
+   <p>For the mourner, he yet lives and mournes: and see<g ref="char:EOLhyphen"/>ing he is of purpose to set forth the webbe of his life, which is verie long, now almost an hundred elnes, coun<g ref="char:EOLhyphen"/>ting an elne for a year, it is needlesse to speak of him here, all know him (that know him) to be a good man, and hath beene occasion of mirth to many, to none of mourning, as <hi>M. Gall</hi> by his immature death hath been<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> to him. It seemeth sufficient, untill the time he him self set out the historie of himself, to set down here t<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> inventar of the ornaments of his Cabin, which, by a Ca tachrestick name, he usually calleth <hi>Gabions.</hi>
+   </p>
+   <p>This Inventarie we have in a torn, and worn copie, and in respect there are some lines in it we can not read, pray thee, gentle Reader, be content of that, that is to the fore, till we can obtaine from <hi>M. George</hi> the whole piece, which was alleaged to be written by <hi>M. Gall,</hi> although, in veritie, the Author of this book did write it, and as I think, not without <hi>M. George</hi> his owne advice, and for his friends recreation.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A l'istessa sua Mäestá serenisma.</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110823_Fr1_4</idno>
+           <idno type="DLPS">A11395</idno>
+           <idno type="STC">21651</idno>
+           <idno type="ESTC">S110823</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A l'istessa sua Mäestá serenisma.</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Du Bartas his deuine weekes and workes translated: and dedicated to the Kings most excellent Maiestie by Iosuah Syluester</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Johnson (Jonson), Arthur.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>32, 697, 6, 698-819, 47, 87, 9 pages, 1 leaf of plates, illustrations, portraits (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="ita" type="poem">
+   <pb facs="3"/>
+   <head>A l'istessa sua Mäestá serenisma.</head>
+   <lg>
+      <l>
+         <hi>NEptun',</hi> gielozo de La <hi>Musa Ingléze,</hi>
+      </l>
+      <l>L'immura si del Braccio crystallino,</l>
+      <l>Ch'il piu divin del <hi>Canto</hi> suo divino</l>
+      <l>Poco s'intende fuòr del suo Paëze:</l>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>erò (Signor) Come già la <hi>Francèze</hi>
+      </l>
+      <l>T'à Celebrato di-quà l' <hi>Apenino;</hi>
+      </l>
+      <l>Di-là, l' <hi>ITALICA</hi> al Peregrino</l>
+      <l>Anche farà l' alte tue Lodi intèse.</l>
+      <l>Siche, la <hi>Sèna,</hi> el <hi>Pàdo</hi> prestaranno</l>
+      <l>Lor <hi>Chori</hi> sacri, per Cantàr l' immenza</l>
+      <l>Alma Virtù, Valòr, Pietà, Prudénza</l>
+      <l>Di <hi>GIACOMO</hi> (gran <hi>SALOMON Britanno</hi>)</l>
+      <l>Per di tua Gloria (vdita qual<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>e quanta)</l>
+      <l>Rapir il Mondo in maraviglia santa.</l>
+   </lg>
+   <closer>
+      <signed>L'istesso
+<hi>Osseruantissimo▪</hi>
+I. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

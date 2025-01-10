@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Douland, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121703_Fr1_3</idno>
+           <idno type="DLPS">A20696</idno>
+           <idno type="STC">7099</idno>
+           <idno type="ESTC">S121703</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Douland, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A musicall banquet : Furnished with varietie of delicious ayres, collected out of the best authors in English, French, Spanish and Italian. By Robert Douland</title>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Adams, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>46 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">G</seg>ENTLEMEN: Finding my selfe not deceiued in the hope I had of your
+kinde entertayning my collected Lute-lessons which I lately set foorth, I
+am further encouraged to publish vnto your censures these AYRES, being
+collected and gathered out of the labours of the rarest and most iudicious
+Maisters of Musick that either now are or haue lately liued in Christendome,
+whereof some I haue purposely sorted to the capacitie of young practioners,
+the rest by degrees are of greater depth and skill, so that like a carefull Con<g ref="char:EOLhyphen"/>fectionary,
+as neere as might be I haue fitted my Banquet for all tastes; if hap<g ref="char:EOLhyphen"/>pily
+I shall be distasted by any, let them know what is brought vnto them is drest after the English,
+French, Spanish and Italian manner: the assay is taken before, they shall not need to feare poysoning.
+You Gentlemen and friends that come in good-will, and not as Promooters into a country Market,
+to call our viands into question, whatsoeuer here is, much good may it doe you, I would it were bet<g ref="char:EOLhyphen"/>ter
+for you: for the rest I wish their lips such Lettuce as <hi>Silenus</hi> Asse, or their owne harts would desire.</p>
+   <signed>Thine, <hi>Robert Douland.</hi>
+   </signed>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Ad lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1537</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104736_Bo1_1</idno>
+           <idno type="DLPS">A11182</idno>
+           <idno type="STC">21447</idno>
+           <idno type="ESTC">S104736</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Ad lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certayne briefe rules of the regiment or construction of the eyght partes of speche : in englishe and latine</title>
+                 <imprint>
+                    <publisher>Berthelet (Barthelet), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1537</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>¶ Ad lectorem.</head>
+   <p>PErsuasū tibi sit candide lector, non absre cecinisse Horatiū,</p>
+   <p>Quid quid praecipies, esto breuis, vt cito dicta</p>
+   <p>Percipiant animi dociles, teneant{que} fideles. Etenim praeceptionum prolixitas et incerti<g ref="char:EOLhyphen"/>tudo, teneriuscula et imbecilliuscula tirūcu<g ref="char:EOLhyphen"/>lorū ingeniola obtūdit enecat et ad literarū nauseam adigit. Cui quidē malo hic partim consultum vides. Proponūtur. n. regulae quae<g ref="char:EOLhyphen"/>dam grammaticae sintaxeos paucae et certae, at{que} eo ordine, vt quiuis facile ediscat, primū de grāmaticis concordātijs, deinde seorsim de noīe et caeteris orationis {per}tibus {pre}cipitur, postremo diuersum diuersorum verborū re<g ref="char:EOLhyphen"/>gimen penitus amputatur, et in calce libelli alphabetico elencho adscribitur. Anglicis, la tina cum exemplis sub<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ciuntur, vt eadē o<g ref="char:EOLhyphen"/>pera regulas intelligāt, et latine discāt. Por<g ref="char:EOLhyphen"/>ro compendio anxie studetur, superflua oīa resecantur. Adeo melius est desiderari quae<g ref="char:EOLhyphen"/>dā, praeceptorum diligentia inter docendum suppleri, {quam} immensa praeceptionū mole im<g ref="char:EOLhyphen"/>becillos adhuc animos obrui. Pueris haec scribuntur, quibus optandū, vt cum literis, pietatem facile foeliciter{que} imbibant. Vale.</p>
+</div>
+        </body>
+  </text>
+</TEI>

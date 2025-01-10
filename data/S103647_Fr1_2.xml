@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the ryght honorable ma∣stie Wylliam Cicyll Esquier, one of the two principall Secretaries to the kyng his most excellent maiestie Henry Wyngfield wysheth long cōtinuaunce of true welfare, and like pro¦sperouse successe.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1551</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103647_Fr1_2</idno>
+           <idno type="DLPS">A15587</idno>
+           <idno type="STC">25852</idno>
+           <idno type="ESTC">S103647</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the ryght honorable ma∣stie Wylliam Cicyll Esquier, one of the two principall Secretaries to the kyng his most excellent maiestie Henry Wyngfield wysheth long cōtinuaunce of true welfare, and like pro¦sperouse successe.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A compendious or short treatise, gathered out of the chyefe and principall authors of phisycke : conteynyuge certeyne preceptes necessary to the preseruacion of healthe, and longe continuaunce of the same: verye pleasaunte and profitable to reade</title>
+                 <author>Wingfield, Henry</author>
+                 <imprint>
+                    <publisher>Grafton, Richard</publisher>
+                    <distributor>Stoughton, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1551</date>
+                 </imprint>
+                 <extent>68 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Culinary arts</term>
+                    <term>Medical texts</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>❧ To the ryght honorable ma<g ref="char:EOLhyphen"/>stie Wylliam Cicyll Esquier, one of the two principall Secretaries to the kyng his most excellent maiestie Henry Wyngfield wysheth long cōtinuaunce of true welfare, and like pro<g ref="char:EOLunhyphen"/>sperouse successe.</head>
+   <p>
+      <seg rend="decorInit">H</seg>
+      <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>uyng wythout anye my de<g ref="char:EOLhyphen"/>sert enioyed the cōmoditie of your beneuolence and good wyll, I haue often deuised, &amp; ben desirous <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>accomplyshe some thyng whych I myght exhibit vnto you, as a testimonie and pledge of my pore ear<g ref="char:EOLhyphen"/>nest zeale &amp; entier affection. And know<g ref="char:EOLunhyphen"/>yng by late profe, that if my power wer to declare y<seg rend="sup">e</seg> same by some gyft of price, ye wold not wel take it: beyng so syn<g ref="char:EOLhyphen"/>cere and vpryght, rather to esteme the good wyll, then the value. The con<g ref="char:EOLhyphen"/>sideracion of the whyche thyng hathe moued me at thys my presente beynge here, to take in hande thys small and simple treatyse, presenting it vnto you for a newe yeres gyfte, that it myghte openly appeare how inwardly I beare you (accordyng to my bounden duety) my pore hert and seruyse. And albeit that lacke of tyme, and lette of busines
+<pb facs="3"/>
+as it is well knowen, hath withdraw<g ref="char:EOLhyphen"/>en from me leasure requisite to the ab<g ref="char:EOLhyphen"/>solute finyshynge here of. Yet I truste wel in your wonted gentlenes that you wyll both in good part take my simple labour here imployed (vntyll some wor thyer thyng may happen,) and also for lacke of power <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>accepte my poore good wyll, hertely wyshyng that suche pro<g ref="char:EOLhyphen"/>fite may procede vnto you by thys processe, as you maye euermore enioye a healthful mynde in a whole and sounde body, beyng worthy for your excellen<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>e desertes longe continu<g ref="char:EOLhyphen"/>aunce of the same.</p>
+   <closer>
+      <dateline>At London <date>the fyrste of January. An 1551.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

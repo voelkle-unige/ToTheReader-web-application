@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Pick, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114710_Fr1_3</idno>
+           <idno type="DLPS">A09626</idno>
+           <idno type="STC">19897</idno>
+           <idno type="ESTC">S114710</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Pick, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Festum voluptatis, or The banquet of pleasure : furnished with much variety of speculations, wittie, pleasant, and delightfull. Containing divers choyce love-posies, songs, sonnets, odes, madrigals, satyrs, epigrams, epitaphs and elegies. For varietie and pleasure the like never before published. By S.P. Gent</title>
+                 <author>Pick, Samuel</author>
+                 <imprint>
+                    <publisher>Purslowe, Elizabeth</publisher>
+                    <distributor>Langford, Bernard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>8, 54, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>GENTLE READER,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Must now crave thy courteous ac<g ref="char:EOLhyphen"/>ceptation of this small worthlesse Treatise: this is a granted <hi>Maxim,</hi> that a slander by hath (many times) better eyes than they that play the game; there is no man that cannot erre, well then may the poore endeavours of a young braine be pardoned. If thou shouldest here expect a lofty Scene, or Phrases deckt with embolished speeches, I am sorry I have given thee no better content, but (indeed) I must needs tell thee, Eloquence was never any part of my Essence. Pardon, I pray thee, my presumption, and protect me from those Ca<g ref="char:EOLhyphen"/>velling finde-faults that never like well of any thing they see printed, though never so well compiled: What I have here done, I have
+<pb facs="4"/>
+done to pleasure my friends, and thee, and not to make any profit by them; wherefore my gentle Reader accept kindly, I pray thee, of all, and be not (as hard Censurers) hastie to blast young springing Blossomes in their ten<g ref="char:EOLhyphen"/>der Bud; so shall I be obliged to the due obser<g ref="char:EOLhyphen"/>vation of thy better content, and remaine</p>
+   <closer>
+      <signed>
+         <hi>Thine at command,</hi> SAM. PICKE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

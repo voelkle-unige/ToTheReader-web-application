@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Gulielmi Clowei, Chirurgi Lon∣doniensis carmen encomiastichon ad suum studiosum Georgium Bakerum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100526_Ba1_5</idno>
+           <idno type="DLPS">A01943</idno>
+           <idno type="STC">1209</idno>
+           <idno type="ESTC">S100526</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Gulielmi Clowei, Chirurgi Lon∣doniensis carmen encomiastichon ad suum studiosum Georgium Bakerum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The composition or Making of the moste excellent and pretious oil called oleum magistrale : First published by the commaundement of the King of Spain, vvith the maner hovv to apply it particulerly. The which oyl cureth these diseases folowi [n] g ... Also the third book of Galen of curing of pricks and wounds of sinowes. A method for curing of vvounds in the ioynts, and the maner how to place them. Abreef [sic] gathering togither of certain errours which the common chirurgians dayly vse ... Faithfully gathered and translated into English by George Baker chirurgian. 1574</title>
+                 <author>Baker, George</author>
+                 <imprint>
+                    <publisher>Allde, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>16, 51, 3 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>Gulielmi Clowei, Chirurgi Lon<g ref="char:EOLhyphen"/>doniensis carmen encomiastichon ad suum studiosum Georgium Bakerum.</head>
+   <l>Laudibus egregiis efferri pulchra solebant,</l>
+   <l>nec praeclara, sua laude carere decet.</l>
+   <l>Quantos idcirco poscat Bakerus honores,</l>
+   <l>hoc opere exacto, dicito musa mihi.</l>
+   <l>Te tua sedulitas transfert ad laudis honorē,</l>
+   <l>Et tua te virtus inclyta ad astra vehit.</l>
+   <l>Tu magni Hippocratis reseras tu tecte Galeni</l>
+   <l>A tantis ad nos nobile ducis opus.</l>
+   <pb facs="71"/>
+   <l>Anglia, quas fraudes tibi nunc smalkaldia ferret</l>
+   <l>Bakeri clarum si latuisset opus.</l>
+   <l>Ergo quisquis Apollinias sectabitur artes,</l>
+   <l>Bakerum celebret, nocte dieque meum.</l>
+</div>
+        </body>
+  </text>
+</TEI>

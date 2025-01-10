@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ILLVSTRISSIMO DO∣mino, Comiti Essexio, studioso∣rum omnium Mecaenati, R. R. hanc Chartam (honoris causa) di∣cat consecrátque.</title>
+           <author>Rawlyns, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1587</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118508_Fr1_3</idno>
+           <idno type="DLPS">A13761</idno>
+           <idno type="STC">24060</idno>
+           <idno type="ESTC">S118508</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ILLVSTRISSIMO DO∣mino, Comiti Essexio, studioso∣rum omnium Mecaenati, R. R. hanc Chartam (honoris causa) di∣cat consecrátque.</title>
+                 <author>Rawlyns, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Cassius of Parma his Orpheus : with Nathan Chitræus his commentarie, abridged into short notes: most profitable for the framing of the manners of schollers. Translated and abridged by Roger Rawlyns of Lyncolnes Inne, student in the common lawes</title>
+                 <author>Telesio, Antonio</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1587</date>
+                 </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="3"/>
+   <head>ILLVSTRISSIMO DO<g ref="char:EOLhyphen"/>mino, Comiti Essexio, studioso<g ref="char:EOLhyphen"/>rum <hi>omnium Mecaenati, R. R. hanc</hi> Chartam (honoris causa) <hi>di<g ref="char:EOLhyphen"/>cat consecrátque.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">C</seg>Vi (obsecro) haec potiùs dicarem quàm tibi? qui nobilitate excellis,
+<q>Nec sinis ingenium nobilitate premi:</q>
+Quare, Iuris meum Compendium non potest so<g ref="char:EOLhyphen"/>lùm meam in te obseruantiam apud omnes te<g ref="char:EOLhyphen"/>stari, sed etiam te huius sanctissimae disciplinae ad<g ref="char:EOLhyphen"/>monere: Sanctissimam disciplinam appello, quia tecum loquor, cui non est ignota eius praestantia, &amp; diuinitas. Dubitarem sanè ita loqui si cum ijs sermo esset, qui, cùm artem sibi necessariam igno<g ref="char:EOLhyphen"/>rent, eos odio prosequuntur, à quibus intelligunt seeo nomine superari: cupiúntque nulla esse iura, nullas leges, quo faciliùs ar<g ref="char:EOLhyphen"/>bitrio suo belluino omnia turbent. Sed, fremant, qui volunt, dicam quod sentio. Praestat iudicandi scientia, iudicandi potestati, &amp; dignus igitur, qui praesit iudi<g ref="char:EOLhyphen"/>cio, praestat Iudici imperito. Haec omnia tu optimè scis. Itaque ad te libentèr ve<g ref="char:EOLhyphen"/>niet ars illa, quae iudicandi normam tradit, quae diuinas, humanásque res dispo<g ref="char:EOLhyphen"/>nit, quae omnes homines in officio continet, malos poenis coercet, bonos prae<g ref="char:EOLhyphen"/>mijs afficit, &amp; (vt vno verbo dicam) humanam societatem conseruat. Inquit IV<g ref="char:EOLhyphen"/>LIVS PACIVS, Petro Saletano, epistola sua, in quatuor libros Institutionum, IMP. CAES. IVSTINIANI.</p>
+   <closer>
+      <signed>
+         <hi>Tui honori deditissimus:</hi> R. Rawlyns.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

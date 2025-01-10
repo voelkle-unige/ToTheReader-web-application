@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To Sir REYNALD ARGAL Knight.</title>
+           <author>C., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105046_Fr6_2</idno>
+           <idno type="DLPS">A09744</idno>
+           <idno type="STC">20003</idno>
+           <idno type="ESTC">S105046</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To Sir REYNALD ARGAL Knight.</title>
+                 <author>C., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vvhole sermons of that eloquent diuine, of famous memory; Thomas Playfere, Doctor in Diuinitie : Gathered into one vollume, the titles thereof are named in the next page</title>
+                 <author>Playfere, Thomas</author>
+                 <imprint>
+                    <distributor>Law (Lawe), Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Law (Lawe), Matthew.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 121, 7, 123-232, 6, 49, 5, 36, 6, 84, that is 72, 8, 261, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="215"/>
+   <pb facs="215"/>
+   <head>To Sir <hi>REYNALD ARGAL</hi> Knight.</head>
+   <p>
+      <seg rend="decorInit">R</seg>IGHT Worship<g ref="char:EOLhyphen"/>full and my espe<g ref="char:EOLhyphen"/>ciall good friend: How desirous I haue been to an<g ref="char:EOLhyphen"/>swer some part of your worthie curtesies, at least by laying them open to the world, this small remembrance may testifie for me: and how vnable I am to equall de<g ref="char:EOLhyphen"/>seruings, the same remembrance testifi<g ref="char:EOLhyphen"/>eth against mee, whether I will or no; beeing borrowed from the monuments of a dead man, the onely glorie of his times while he liued. But it was fit that a farre greater gift then mine owne should aspire to bee the instrument of your honour: and the testimonie of the dead, I tooke to be meeter euen in this
+<pb facs="216"/>
+regard, because that is as vnsuspected, a<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> your kindnesse toward my <gap reason="illegible" resp="#pdcc" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> beene <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> no further disturbing the harmonie of your best thoughts, as you are wont to ac<g ref="char:EOLhyphen"/>count it, diminishing the reward which is laid vp for you in heauen, by vntime<g ref="char:EOLhyphen"/>ly blazing merits vpon earth, I commit this <hi>depositum</hi> to your sauour and Patro<g ref="char:EOLhyphen"/>nage, my selfe also, and my endeavours: resting alwaies at</p>
+   <closer>
+      <signed>Your Worships disposition. <hi>D. C.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122576_Bo1_1_43</idno>
+           <idno type="DLPS">A03054</idno>
+           <idno type="STC">13180</idno>
+           <idno type="ESTC">S122576</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso. Hoc opus condidit Edoardus Baro Herbert de Chirbury [sic] in Anglia, et castri insulæ de Kerry in Hibernia, et par utriusque regni. Et lectori cuivis, integri &amp; illibati iudicii dicavit</title>
+                 <author>Herbert of Cherbury, Edward Herbert, Baron</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>8, 244 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <q>SPHALMATA &amp; ERRATA <hi>quaedam fortasse in seipso, nonnulla in Typographo, aliqua etiam in nobis corrige<g ref="char:EOLhyphen"/>re licet, ingenuo Lectori, modò ultra facultates non sapiat. Om<g ref="char:EOLhyphen"/>nia tandem Ecclesiae Catholicae Orthodoxae censurae subijcimus.</hi>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

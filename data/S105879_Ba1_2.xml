@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Apology]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105879_Ba1_2</idno>
+           <idno type="DLPS">A09169</idno>
+           <idno type="STC">19480</idno>
+           <idno type="ESTC">S105879</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Apology]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The image of bothe churches : Hierusalem and Babel, vnitie and confusion. Obedienc [sic] and sedition. By, P. D. M</title>
+                 <author>Pattenson, Matthew</author>
+                 <imprint>
+                    <publisher>Quinque, Adrien</publisher>
+                    <pubPlace>Belgium--Tournai</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>8, 461, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="apology">
+   <pb facs="236"/>
+   <p>Blame not my vvill, but my vvants; that the Latin is not trans<g ref="char:EOLhyphen"/>lated into English: I had not paper, nor means, (being stinted.)</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121693_Fr1_2</idno>
+           <idno type="DLPS">A20741</idno>
+           <idno type="STC">7121</idno>
+           <idno type="ESTC">S121693</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise of iustification : wherein is first set dovvne the true doctrine in the causes effects fruites consequents of it, according to the word of God. And then all objections and cavils of the adversaries to Gods free iustification by grace are answered and confuted, especially of Robert Bellarmine, Iesuite and Cardinall. Wherein also the popish doctrine of merits is refuted and disproved, with many other waightie points of Christian religion occasionally handled and discussed, and difficult places of holy scriptures expounded, and vindicated. By George Downame, Doctor of Divinitie, and Bishop of Dery</title>
+                 <author>Downame, George</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>14, 167, 198-211, 222-262, 264-266, 268-567, 566-643, 648-660, 22 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>REVERENDISSIMO IN CHRISTO PATRI AC DOMINO, D. GEORGIO ABBATO ARCHIEPISCOPO Cantuariensi dignissimo, totius Angliae Primati ac Metropolitae amplissimo</p>
+   <p>GEORGIVS DOVNAMVS EPISCOPVS DERENSIS HOC QVICQVID EST VO<g ref="char:EOLhyphen"/>LVMINIS DE JVSTIFICATIONE Peccatoris, ceu grati Animi <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> summae{que} observantiae &amp; amoris <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> dicat consecratque.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De suis Satyris.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103715_Fr1_3</idno>
+           <idno type="DLPS">A71323</idno>
+           <idno type="STC">12718</idno>
+           <idno type="ESTC">S103715</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De suis Satyris.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Virgidemiarum : sixe bookes. First three bookes, of tooth-lesse satyrs. 1. Poeticall. 2. Academicall. 3. Morall</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <publisher>Harrison, John 3</publisher>
+                    <distributor>Dexter, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>16, 63, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>De suis Satyris.</head>
+   <lg>
+      <l>Dum Satyrae dixi, videor dixisse Satirae</l>
+      <l>Corripio; aut istaec non satis est Satyra.</l>
+   </lg>
+   <lg>
+      <l>Irafacit Satyram, reliquum Sat temperat iram;</l>
+      <l>Pinge two Satyram sanguine, tum Satyra est.</l>
+   </lg>
+   <lg>
+      <l>Ecce nouam Satyram: Satyrum sine cornibus! Euge</l>
+      <l>Monstra noui monstri haec, &amp; Satyri &amp; Satyrae.</l>
+   </lg>
+   <pb facs="8"/>
+</div>
+        </body>
+  </text>
+</TEI>

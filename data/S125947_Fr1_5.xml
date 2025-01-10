@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1587</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125947_Fr1_5</idno>
+           <idno type="DLPS">B00619</idno>
+           <idno type="STC">21077</idno>
+           <idno type="ESTC">S125947</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Y drych Cristianogawl : yn yr hwn y dichon pob Cristiawn ganfod gwreidhin a dechreuad pob daioni sprydawl: sef gwybod modh i wasanaethu Duw, drwy ei garu ai ofni yn fwy na dim, ag i daflu ymaith beth bynnag ar a fo rwystr i hynny. Y rhann gyntaf yn peri gwasanaethu Duw drwy ei garu. Dymch Welwch chwi ataw ff, a mineu a dhymchwelaf ataw chwitheu, med Arglwyd y ihuoed</title>
+                 <author>Robert, Gruffydd</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Wales</pubPlace>
+                    <date>1587</date>
+                 <publisher>Favo, Jathrous, Heirs of, pseud.</publisher>
+                            <publisher>Rhiwledyn Press</publisher>
+                        </imprint>
+                 <extent>16, 75 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="cy">Welsh</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>Nodwch hefyd dhieinghc peth beieu drwy dwylo r Printiwr, o achos ei fod yn anghy<g ref="char:EOLhyphen"/>fieithydh ag yn ðrwg ei annwydeu: megis wrth ðodi vn {ll}ythyren yn {ll}e {ll}ythyren ara{ll}, neu a{ll}an oi lhe, neu ai chynphon ar i fyny, neu eisieu neu ormoð o lythyr, neu rhai gw<g ref="char:EOLhyphen"/>ahanedig dhiwahanadwy, neu cyssylhtedic anghyssy{ll}tadwy, neu lythyren fach yn {ll}e r fawr, neu r fawr yn {ll}e r fach, ag weithieu cam byngcieu. Etto hawð i gymreigyð gw<g ref="char:EOLhyphen"/>ann ganfod y sawl feieu hynn, ai gwe{ll}a a r penn wrth ðar{ll}ein y {ll}yfr drosto.</p>
+</div>
+        </body>
+  </text>
+</TEI>

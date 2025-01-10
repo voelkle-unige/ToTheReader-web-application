@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his friend the Author.</title>
+           <author>Mingay, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108167_Fr1_6</idno>
+           <idno type="DLPS">A04896</idno>
+           <idno type="STC">15036</idno>
+           <idno type="ESTC">S108167</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his friend the Author.</title>
+                 <author>Mingay, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Rhodon and Iris· : A pastorall, as it vvas presented at the florists feast in Norwich, May 3. 1631</title>
+                 <author>Knevet, Ralph</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>To his friend the Author.</head>
+   <lg>
+      <l>
+         <hi>I</hi> Cannot but admire this Worke of thine,</l>
+      <l>(Rightworthy Author) that me thinkes each line</l>
+      <l>Should gaine attention from a well tun'd Eare,</l>
+      <l>And please the Eye of any shall appeare,</l>
+      <l>That apprehends it: alwayes Ile attend</l>
+      <l>To wish this Worke well, as a faithfull Friend.</l>
+   </lg>
+   <signed>IOHN MINGAY.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable and thrice renowmed Lord, William Earle of Darbie:</title>
+           <author>Lodge, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109568_Fr1_2</idno>
+           <idno type="DLPS">A06167</idno>
+           <idno type="STC">16658</idno>
+           <idno type="ESTC">S109568</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable and thrice renowmed Lord, William Earle of Darbie:</title>
+                 <author>Lodge, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A fig for Momus : containing pleasant varietie, included in satyres, eclogues, and epistles, by T.L. of Lincolnes Inne Gent</title>
+                 <author>Lodge, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 <publisher>Knight, Clement.</publisher>
+                            <publisher>Orwin, Joan</publisher>
+                        </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Honorable and thrice renowmed Lord, William <hi>Earle of Darbie:</hi>
+   </head>
+   <head type="sub">T. L. his most humble and deuoted seruant, <hi>wisheth all health and happines.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">M</seg>Y honoured good Lord, ha<g ref="char:EOLhyphen"/>uing resolued with my selfe to publish certaine my poems, and knowing them subiect to much preiudice, except they were graced with some noble and worthie patron: I haue followed the example of <hi>Metabo,</hi> king of the <hi>Uolschi,</hi> who desirous to deliuer his onelie daughter from all perill and danger, conse<g ref="char:EOLhyphen"/>crated and dedicated hir to the sister of the sunne. So I no lesse carefull of my labors, then
+<pb facs="3"/>
+the king of his <hi>Camilla,</hi> with deliberate and ad<g ref="char:EOLhyphen"/>uised iudgement, wholy deuote, and offer vp my poems to your fauour and protection: who being the true <hi>Maecenas</hi> of the <hi>Muses,</hi> and iu<g ref="char:EOLhyphen"/>diciall in their exercises, are of power to relieue my weaknes, by your worthines, and to priui<g ref="char:EOLhyphen"/>ledge me from enuie, though she were prest to deuoure me: If midst your generall fauour to all desert, your honour vouchsafe this particu<g ref="char:EOLhyphen"/>lar benefite to my industrie, no day, or time, (as <hi>Tully</hi> counsaileth) shall define the memorie of your benefits, but as your noble father in mine infancie, with his owne hands incorporated me into your house, so in this my retired age and studie, my labour, lines, and whole life, shall be imployed to doe you honour and seruice.</p>
+   <closer>
+      <signed>
+         <hi>Your Lordships most boun<g ref="char:EOLhyphen"/>den in all humilitie,</hi>
+Thomas Lodge.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

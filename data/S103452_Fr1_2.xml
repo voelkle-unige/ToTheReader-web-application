@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103452_Fr1_2</idno>
+           <idno type="DLPS">A10562</idno>
+           <idno type="STC">20832a</idno>
+           <idno type="ESTC">S103452</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Mephibosheths hearts-ioy vpon his soueraignes safetie : To be imitated by the subjects of this land vpon the happy returne of our Prince Charles. Deliuered in a sermon in the church of Great Yarmouth in Norfolke, the 19. day of October. 1623. By Tho: Reeue preacher of Gods word there</title>
+                 <author>Reeve, Tho (Thomas)</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>4, 42 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE RIGHT WORSHIPFVLL THOMAS THOMSON and LEONARD HOAMES Bailiffes of Great <hi>Yarmouth.</hi> AND TO THE ALDER<g ref="char:EOLhyphen"/>men and the rest of the <hi>Com<g ref="char:EOLhyphen"/>mons, of that worthy</hi> INCORPO<g ref="char:EOLhyphen"/>RATION.</p>
+</div>
+        </body>
+  </text>
+</TEI>

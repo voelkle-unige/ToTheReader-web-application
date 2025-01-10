@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Cooperus Lectori.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1578</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107261_Fr1_2</idno>
+           <idno type="DLPS">A19275</idno>
+           <idno type="STC">5688</idno>
+           <idno type="ESTC">S107261</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Cooperus Lectori.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Thesaurus linguæ Romanæ &amp; Britannicæ : tam accurate congestus, vt nihil penè in eo desyderari possit, quod vel Latinè complectatur amplissimus Stephani Thesaurus, vel Anglicè, toties aucta Eliotæ Bibliotheca: opera &amp; industria Thomæ Cooperi Magdalenensis. ... Accessit dictionarium historicum et poëticum propria vocabula virorum, mulierum, sectarum, populorum, vrbium, montium, &amp; cæterorum locorum complectens, &amp; in his iucundissimas &amp; omnium cognitione dignissimas historias</title>
+                 <author>Cooper, Thomas</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1578</date>
+                 </imprint>
+                 <extent>1720 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="2"/>
+   <head>Cooperus Lectori.</head>
+   <p>ELIOTA vir clarissimus, &amp; praeter omnium, quos ego ex Equestri ordine noui, consuetudinem, bonarum literarum studijs mirificè deditus, primus hac nostra memoria, Dictionarium Latino Anglicum, in gratiam studioso<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>um composuit. Quod opus ille vocauit BIBLIOTHECAM <hi>suam.</hi> In cuius labores, postquàm illum mors immatura praeripuisset, ego pertractus amicorum praecibus successi, &amp; BIBLIO<g ref="char:EOLhyphen"/>THECAM illam pro mea tenui facultate, iterum at{que} tertiò auctiorem reddidi, donec tandem Thesaurus hic noster in lucem prodijt. Istud ego in hoc loco prae<g ref="char:EOLhyphen"/>figendum putaui, ne vel memoria tam inusitatae viri Nobilis industriae, per immu<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>tam Tituli rationem, periret, vel ego merit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> à nostr<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> hominibus ingratus existimer, cum omnibus conste<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>, m<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>llius laboribus ad hunc Thesaurum congerendum non mediocriter adiutum esse.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Hopton, Arthur</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104205_Fr1_3</idno>
+           <idno type="DLPS">A03648</idno>
+           <idno type="STC">13778</idno>
+           <idno type="ESTC">S104205</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Hopton, Arthur</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A concordancy of yeares : Containing a new, easie, and most exact computation of time, according to the English account. Also the vse of the English and Roman kalender, with briefe notes, rules, and tables, as well mathematicall and legal, as vulgar,for each priuate mans occasion. Newly composed and digested, by Arthur Hopton, Gentleman. The contents follow after the epistles</title>
+                 <author>Hopton, Arthur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Moore (More), Richard.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>16, 252, 2 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>RIENDLY Reader, oftentimes noting how much the <hi>Shepe<g ref="char:EOLhyphen"/>heards Kalender,</hi> the <hi>Perpetuall Prognostication,</hi> and the <hi>Com<g ref="char:EOLhyphen"/>putation</hi> be required, and how false their A<g ref="char:EOLhyphen"/>stronomicall Rules and Tables be, for the true place of the Moone, for her Coniunctions and Oppositions, with other things of like conse<g ref="char:EOLhyphen"/>quence, I thought it fit (especially being intrea<g ref="char:EOLhyphen"/>ted thereunto by a friend I well esteemed) to draw a booke that might passe vnder some of the former (or such like) name, that should salue and correct those vncertaine Tables (blots to the Art, and blemishes of the truth) and al<g ref="char:EOLhyphen"/>so wholly to reiect any of their methods, draw<g ref="char:EOLhyphen"/>ing forth a worke that might instruct the igno<g ref="char:EOLhyphen"/>rant in the truth, without intricate obseruati<g ref="char:EOLhyphen"/>ons, and satisfie the vnlgar without difficult calculations; and therefore haue set downe such Tables, such Documents, and such Notations, that are easie to be vnderstood, necessary to bee knowne, and aptly should agree with the vo<g ref="char:EOLhyphen"/>lume.
+<pb facs="5"/>As for the <hi>Concordancy of Yeares,</hi> I know certainly, that when you vnderstand the true vse thereof you will confesse, that it is far more easie, more true, and more profitable, then any booke yet extant of like purpose<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> happily the newnesse of the method may seeme strange to the vnlearned at first, but a little practize will soone perswade them the contrary. The wants of the old <hi>Computation</hi> be a little remembred in my <hi>Concordancy,</hi> not as if the Author thereof wanted vnderstanding in that point, for I suppose him right sufficient; but in that <hi>facilius est addere, quàm nouum compone<g ref="char:EOLhyphen"/>re:</hi> Yet I haue borrowed nothing, but what is common to all: If any thing be wanting, I wish you my further paines to supply it, and would haue wrote more, had I not feared to tire you with an ouer-great volume: But as it is, I hope it will be offensiue to none, since it is made for the good of all. And so commending this worke to them whose occasions tend that way, I end, resting</p>
+   <closer>
+      <signed>Yours to vse, ARTHVR HOPTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

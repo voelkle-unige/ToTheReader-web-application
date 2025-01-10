@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ANNAE REGINAE Sacrum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119394_Fr1_2</idno>
+           <idno type="DLPS">A20694</idno>
+           <idno type="STC">7097</idno>
+           <idno type="ESTC">S119394</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ANNAE REGINAE Sacrum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lachrimæ, or Seauen teares figured in seauen passionate pauans : vvith diuers other pauans, galiards, and almands, set forth for the lute, viols, or violons, in fiue parts: By Iohn Dowland Bacheler of Musicke, and lutenist to the most royall and magnificent, Christian the fourth, King of Denmarke, Norway, Vandales, and Gothes, Duke of Sleswicke, Holsten, Stormaria, and Ditmarsh: Earle of Oldenburge and Delmenhorst</title>
+                 <author>Dowland, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Adams, Thomas.</publisher>
+                            <publisher>Dowland, John.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>50 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedicatory_poem">
+   <pb facs="2"/>
+   <head>ANNAE REGINAE Sacrum.</head>
+   <l>Ter foelix t<gap reason="illegible: over-inked" extent="1 letter">
+         <desc>•</desc>
+      </gap> Regina Scotus-Anglus-Hybernus:</l>
+   <l>Tu soror, &amp; coniux Regis, item{que} parens.</l>
+   <l>
+      <unclear>Iuncta</unclear> tenes tria Regna, tenes tria numina in vno,</l>
+   <l>
+      <hi>Iuno</hi> opibus, sensu <hi>Pallas,</hi> &amp; ore <hi>Venus.</hi>
+   </l>
+</div>
+        </body>
+  </text>
+</TEI>

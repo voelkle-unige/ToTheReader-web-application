@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Camusat, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103517_Fr1_6</idno>
+           <idno type="DLPS">A02324</idno>
+           <idno type="STC">12455</idno>
+           <idno type="ESTC">S103517</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Camusat, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A collection of some modern epistles of Monsieur de Balzac. Carefully translated out of French. Being the fourth and last volume</title>
+                 <author>Balzac, Jean-Louis Guez, seigneur de</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1639</date>
+                 <publisher>Bowman, Francis.</publisher>
+                            <publisher>Crooke, John.</publisher>
+                            <publisher>Lichfield, Leonard.</publisher>
+                            <publisher>Sergier, Richard 2</publisher>
+                        </imprint>
+                 <extent>46, 249, 9 pages, 1 leaf of plates, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <gap reason="missing" extent="1+ pages">
+      <desc>〈1+ pages missing〉</desc>
+   </gap>
+   <pb facs="10"/>
+   <p>and professe; Among these <hi>severe</hi> speculations, you shall see some flashes of wit break forth, which will serve to entertaine you with much delight; I speak of the <hi>French Epistles,</hi> for as for his <hi>Latine,</hi> I re<g ref="char:EOLhyphen"/>serve them to the judgement of those that doe better understand the <hi>beauty</hi> and <hi>delicacy</hi> of that lan<g ref="char:EOLhyphen"/>guage▪ I am content to believe that <hi>Cicero</hi> never entertaind his friends with better grace and content<g ref="char:EOLhyphen"/>ment▪ nay, that the very close and <hi>compacted</hi> stile, and the strong and vigorous expressions which <hi>Brutus</hi> found wanting in the writings of that great <hi>Orator,</hi> are here to be found; But I feare I should detaine you too long, from the pleasure of these novell <hi>Lectures,</hi> if in com<g ref="char:EOLhyphen"/>mending rare <hi>Epistles,</hi> I should ar<g ref="char:EOLhyphen"/>rest you any longer, in reading this
+<pb facs="11"/>
+poore one of mine. Indeed (<hi>my Lord</hi>) for to speak nothing that were unworthy of you; it were re<g ref="char:EOLhyphen"/>quisite, that <hi>Mons. de Balzac</hi> would lend me some of the <hi>graces</hi> of his stile; or, as he will be ravisht with joy, that I have made choice of you to be the <hi>Patron</hi> of his writings, he would come himselfe to make the <hi>Dedication;</hi> It sufficeth me, if my de<g ref="char:EOLhyphen"/>signe and undertaking for to per<g ref="char:EOLhyphen"/>forme something that might be ac<g ref="char:EOLhyphen"/>ceptable to your <hi>Greatnesse,</hi> doe not give you any distast, and that you believe, that I am sincerely</p>
+   <closer>
+      <salute>My Lord</salute>
+      <signed>Your most humble and most obliged servant <hi>IOHN CAMUSAT.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

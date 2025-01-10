@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Idem in Zoilum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1566</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110864_Fr1_2_4</idno>
+           <idno type="DLPS">A11910</idno>
+           <idno type="STC">22222</idno>
+           <idno type="ESTC">S110864</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Idem in Zoilum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The eyght tragedie of Seneca. Entituled Agamemnon. Translated out of Latin in to English, by Iohn Studley, student in Trinitie Colledge in Cambridge</title>
+                 <author>Seneca, Lucius Annaeus</author>
+                 <imprint>
+                    <publisher>Colwell, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1566</date>
+                 </imprint>
+                 <extent>120 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>Idem in Zoilum.</head>
+   <l>ZOile quid frendes? quid mandis spumea labra?</l>
+   <l>Quid vol at horrisono fulmen ab ore tu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>?</l>
+   <l>Euome corrupto tabescens gultu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e virus:</l>
+   <l>Eructa bullas O furibunde vafras</l>
+   <l>Faucibus igniuomis minitans et dente lupino:</l>
+   <l>Proeda tuo denti non opus istud erit.</l>
+   <l>Non potes istius calami corrumpere fructus<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Conseruat famulos magna Minerua s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>os.</l>
+   <l>Insulsus nitidum reprehendit sutor Apell<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>m.</l>
+   <l>Inuidiam virtus clara praeire solet.</l>
+   <l>Zoile tu{que}, furis, iuuenis quum musa triumphet,</l>
+   <l>Iratus turges: verbula vana vomis.</l>
+   <l>
+      <pb facs="7"/>Ipse tamen rigidi peries Acherontis in vrna,</l>
+   <l>Et Phlegethonteas ante natabis aquas,</l>
+   <l>Quam tu Studlei dimittes carmen in vmbras,</l>
+   <l>Quam possis nomen dilacerare suum.</l>
+   <l>Perpetuo viuet res inuictissima virtus,</l>
+   <l>Non abolent enses, vnda, necignis eam.</l>
+</div>
+        </body>
+  </text>
+</TEI>

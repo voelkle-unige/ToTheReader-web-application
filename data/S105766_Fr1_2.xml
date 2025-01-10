@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>S., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105766_Fr1_2</idno>
+           <idno type="DLPS">B11273</idno>
+           <idno type="STC">997.5</idno>
+           <idno type="ESTC">S105766</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>S., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Christus redivivus: or The first fruits of them that sleepe : Deliuered in a sermon at the Temple Church in Easter tearme last, 1623</title>
+                 <author>Ailesbury, Thomas</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Becket, Leonard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>4, 44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>COLENDISSIMO, ORNATISSIMO, RELIGIOSIS SI<g ref="char:EOLhyphen"/>MOQVE VIRO,</p>
+   <p>IOHANNI DODDERIDGE, <hi>Equestris ordinis vnique è Iusticiariis eruditissimis Sere<g ref="char:EOLhyphen"/>nissimi Regis Iacobi Domini nostri, Ad Placita coram ipso Rege tenenda assignato:</hi>
+   </p>
+   <p>
+      <hi>Hocce Opusculum Theologi cuiusdam</hi>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, <hi>pro Rostris in Ec<g ref="char:EOLhyphen"/>clesia Templariorum Londini nuper<g ref="char:EOLhyphen"/>rimè concionatum, posteritatis ac Religionis ergò vt in Typos redigatur.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>Humiliter consecrat, dicat, dedicátque</hi> T. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

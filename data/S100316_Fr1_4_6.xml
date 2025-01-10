@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aurelius Victor, in Breviario.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100316_Fr1_4_6</idno>
+           <idno type="DLPS">A23187</idno>
+           <idno type="STC">962</idno>
+           <idno type="ESTC">S100316</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aurelius Victor, in Breviario.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Marcus Aurelius Antoninus the Roman emperor, his meditations concerning himselfe : treating of a naturall mans happinesse; wherein it consisteth, and of the meanes to attaine unto it. Translated out of the originall Greeke; with notes: by Meric Casaubon, B. of D. and prebendarie of Christ Church, Canterbury</title>
+                 <author>Marcus Aurelius, Emperor of Rome</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Mynne (Myn), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>16, 27, 1, 210, 46 pages, plates, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Aurelius Victor, in Breviario.</head>
+   <p>TAntum Marco sapientiae, innocentiae, ac literarum fuit, ut is Marcommanos cum filio Commodo, quem Caesarem suffecerat, petiturus, Philosophorum ob<g ref="char:EOLhyphen"/>testantium [vi] circumfunderetur, ne se expeditioni aut
+<pb facs="5"/>pugnae prius committer et, quàm sectarum ardua et occulta explanavisset. Ita incerta belli [in] ejus salute doctrinae stu<g ref="char:EOLhyphen"/>dijs metuebantur; tantum{que} illo imperante floruere artes bonae, ut illam gloriam etiam temporum putem.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Translator To The Author]</title>
+           <author>Tymme, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1570</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114262_Fr1_2</idno>
+           <idno type="DLPS">A06985</idno>
+           <idno type="STC">17404</idno>
+           <idno type="ESTC">S114262</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Translator To The Author]</title>
+                 <author>Tymme, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A catholike and ecclesiasticall exposition of the holy Gospell after S. Mathewe, gathered out of all the singuler and approued deuines (whiche the Lorde hath geuen to his Churche) by Augustine Marlorate. And translated out of Latine into Englishe by Thomas Tymme, mynister. Sene and allowed according to the order appointed</title>
+                 <author>Marlorat, Augustin</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1570</date>
+                 </imprint>
+                 <extent>10, 446, 446-758, 9 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_author">
+   <pb facs="2"/>
+   <p>I haue once already founde suche frendship at your honours handes, tempered with liberalitie (whiche I cannot sufficiently requite) that now againe I am the more bolde to moleste and trouble you. Crauing pardon that for your noble courtesy then, I nowe dare presume to committe vnto your honours charge the conduction of a drifte, and sea beaten ship.</p>
+   <p>
+      <note place="margin">Matth. 13</note>And although the very substaūce of the treasure and precious pearle contained in my shippe, of it selfe is so excelent that it nedeth not the com<g ref="char:EOLhyphen"/>mendation and defence of man: yet notwithstanding because by Gods ap<g ref="char:EOLhyphen"/>pointment man hath to do with the same for his saluation, and therefore I (being one among all other moste vnworthy) hauing taken vpon me to publishe the same by translation out of Lattin into our vulgar tongue for the common profite of my countremen, must of necessitie, (my own vn<g ref="char:EOLhyphen"/>worthines I say considered) humblely beseche your honor to be a garde and defence of this my endeuour handled with as great dilligence as possible I coulde.</p>
+   <p>In so doing you shall not only promote the glory of God, and greately further this my simple labour, but also make me bounde vnto your honor while life doth laste. Thus hauing bouldly required your honourable de<g ref="char:EOLhyphen"/>fence, and troubled your eares with tediousnes, I ceasse, wyshing to youre honour long lyfe, increase of nobilitie, and the perfecte felicitie of the lyfe to come.</p>
+   <closer>
+      <signed>
+         <hi>Your humble orator <hi>Thomas Tymme.</hi>
+         </hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

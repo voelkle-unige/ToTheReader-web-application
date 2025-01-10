@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A caueat to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105775_Fr1_3</idno>
+           <idno type="DLPS">A04499</idno>
+           <idno type="STC">14627</idno>
+           <idno type="ESTC">S105775</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A caueat to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An epistle in the person of Christ to the faithfull soule, written first by that learned Lanspergius, and after translated into English by one of no small fame, whose good example of sufferance &amp; liuing, hath and wilbe a memoriall vnto his countrie and posteritie for euer</title>
+                 <author>Lansperger, Johannes Justus</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>16, 175, pages 172, 176-271, 268-297, pages 198, pages 296, 296-309, pages 301, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <pb facs="4"/>
+   <head>A caueat to the Reader.</head>
+   <l>HEnce Venus idle ympes, hence, hence in haste,</l>
+   <l>Here is no place for Cupids fancies blinde:</l>
+   <l>All wanton eyes and eares which are vnchaste,</l>
+   <l>Are here vnlike their bace content to finde:</l>
+   <l>For only such as vertue haue imbraste:</l>
+   <l>May here learne how to loue, to liue, to dye,</l>
+   <l>And after death to scale the loftie skye.</l>
+</div>
+        </body>
+  </text>
+</TEI>

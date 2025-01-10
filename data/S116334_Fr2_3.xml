@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Post-scriptum</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116334_Fr2_3</idno>
+           <idno type="DLPS">A15991</idno>
+           <idno type="STC">2772</idno>
+           <idno type="ESTC">S116334</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Post-scriptum</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Three partes of Salomon his Song of Songs, expounded : The first part printed before: but now re-printed and enlarged. The second and third partes neuer printed before. All which parts are here expounded and applied for the readers good. By Henoch Clapham</title>
+                 <author>Clapham, Henoch</author>
+                 <imprint>
+                    <distributor>Mutton, Edmund</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Simmes (Sims, Symmes), Valentine.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>14, 89, 8, 92-138, 11, 142-298, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <head>Post-scriptum</head>
+   <p>
+      <seg rend="decorInit">D</seg>Ixi, Valete? Hac Epistola finita, venit mihi in visum <note n="*" place="margin">Dicitur <hi>An</hi> Aduertisement &amp;c. &amp; praefi<g ref="char:EOLhyphen"/>gitur libro ti<g ref="char:EOLhyphen"/>tulato, <hi>A Trea<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>tise of Vocati<g ref="char:EOLhyphen"/>ons.</hi>
+      </note>
+      <hi>Libellus famosus,</hi> per nostrae Acade<g ref="char:EOLhyphen"/>miae Typographum excusus: in quo, non solum publicè mentitur de Epistola quadam, quam nun<g ref="char:EOLhyphen"/>quam
+<pb facs="56"/>
+scripsi, sed etiam (vt omninò me ignorans) de Vita &amp; Professione mea in genere conquestus est, <note n="*" place="margin">Ferè dixeram <hi>Kn<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>uiter,</hi> ac fortasse restiùs.</note> grauiter. Qualis vi<g ref="char:EOLhyphen"/>ta, iudicet Ecclesia. Professio autem nulla est mihi, nisi publica diuini Verbi praedicatio. Sed vt ne Calumniatori respondeam: Ecclesiastica hic authoritaes, illius Libellationem condemnauit, ac è libris legitimè rasit. Hoc &amp; vos intelligatis, ac &amp; vos de Albo scriptorum <hi>Perkinsicorum</hi> remoueatis, humiliter flagito. Et sic iterum valete.</p>
+</div>
+        </body>
+  </text>
+</TEI>

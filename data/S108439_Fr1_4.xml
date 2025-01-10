@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>I. L. Ad Candidos Lectores.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108439_Fr1_4</idno>
+           <idno type="DLPS">A05297</idno>
+           <idno type="STC">15441</idno>
+           <idno type="ESTC">S108439</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>I. L. Ad Candidos Lectores.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A learned and true assertion of the original, life, actes, and death of the most noble, valiant, and renoumed Prince Arthure, King of great Brittaine : Who succeeding his father Vther Pendragon, and right nobly gouerning this land sixe and twentie yeares, then dyed of a mortall wounde receyued in battell, together vvith victory ouer his enemies. As appeareth cap. 9. And was buried at Glastenbury. cap. 12. an. 543. Collected and written of late yeares in lattin, by the learned English antiquarie of worthy memory Iohn Leyland. Newly translated into English by Richard Robinson citizen of London. Anno Domini. 1582</title>
+                 <author>Leland, John</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 </imprint>
+                 <extent>8, 39 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem" subtype="to_readers">
+   <pb facs="6"/>
+   <head>I. L. Ad Candidos Lectores.</head>
+   <l>Delituit certé multis <hi>Arturius</hi> annis,</l>
+   <l>Vera Brittannorum, Gloria, Lumen, Honos:</l>
+   <l>Dispulit obscuras alacer <hi>Lelandius</hi> vmbras,</l>
+   <l>Sydereum mundo restituit{que} iubar.</l>
+   <l>Plaudite Lectores studiosa caterua diserti,</l>
+   <l>Prestitit officium candidus ille suum:</l>
+   <l>Hinc procul at fugiant Codrino felle tumentes,</l>
+   <l>Ne proprio crepitent ilia rupta malo.</l>
+</div>
+        </body>
+  </text>
+</TEI>

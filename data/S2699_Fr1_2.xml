@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>GASPAR AVIATVS Cremonensis.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1569</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2699_Fr1_2</idno>
+           <idno type="DLPS">A02288</idno>
+           <idno type="STC">12419</idno>
+           <idno type="ESTC">S2699</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>GASPAR AVIATVS Cremonensis.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Bellum grammaticale : a discourse of great war and dissention betwene two worthy princes, the noune and the uerbe, contending for the chefe place or dignitie in oration : very pleasant &amp; profitable turned into English by W.H</title>
+                 <author>Guarna, Andrea</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1569</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Pickering, William</publisher>
+                        </imprint>
+                 <extent>95 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <lg>
+      <head>GASPAR AVIATVS Cremonensis.</head>
+      <l>LEctor candide, quid legis Thyesten?</l>
+      <l>Saeuas Colchidas? auribus placebunt</l>
+      <l>Quae doctus cecinit magis Salernus</l>
+      <l>Andreas: dubios mouet tumultus</l>
+      <l>Verbi &amp; Nominis, hinc &amp; hinc furentum:</l>
+      <l>Hunc (Lector) lege, fabulae facessant:</l>
+      <l>Hic prompti Ciceronis est facultas:</l>
+      <l>Hic sunt ridiculi sales, ioci{que}:</l>
+      <l>Quid stas? hunc rigidi legunt Catones.</l>
+   </lg>
+   <lg>
+      <head>HIERONYMVS FONDVLVS etiam Cremonensis.</head>
+      <l>Nominis et verbi Lector) stipe sumito bellū,</l>
+      <l>Quo pax nulla quidem dulcior esse potest.</l>
+      <l>Bella recognosces, quorū sine partibus, hoc est</l>
+      <l>Eloquia, omnis homo cederet vs{que} feris.</l>
+      <l>Hic iocus Andreae defluxit ab ore Salerni,</l>
+      <l>Fluxerunt lepidi cum grauitate sales.</l>
+   </lg>
+   <lg>
+      <head>IDEM.</head>
+      <l>Ranarū et murū tā bellè haud ponit Homer{us},</l>
+      <l>Bella gigantaeas non ita Naso manus,</l>
+      <l>Andraeas quanta cum maiestate Salernus</l>
+      <l>Ingenij, Bellum Grammaticale canit.</l>
+   </lg>
+   <lg>
+      <head>CHRISTOPHORVS Simonetus.</head>
+      <l>Haec legat, &amp; memori teneat certamina mēt<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Grammaticus, terso qui volet ore loqui.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

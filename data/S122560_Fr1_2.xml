@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Interlocutours of euery Dialogue.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122560_Fr1_2</idno>
+           <idno type="DLPS">A18933</idno>
+           <idno type="STC">5351</idno>
+           <idno type="ESTC">S122560</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Interlocutours of euery Dialogue.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The converted Iew or Certaine dialogues betweene Michæas a learned Iew, and others, touching diuers points of religion, controuerted betweene the Catholicks and Protestants. Written by M. Iohn Clare a Catholicke priest, of the Society of Iesus. Dedicated to the two Vniuersities of Oxford and Cambridge</title>
+                 <author>Clare, John</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace/>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>16, 65, 64-421, that is 124, 2, 155, 1, 141, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Arguments &amp; Summaries</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="summary">
+   <pb facs="2"/>
+   <head>The Interlocutours of euery Dialogue.</head>
+   <p n="1">1. In the <hi>first Dialogue</hi> is disputed; whether the Church of Rome hath made any change in fayth and Religion, since the first plantation of it by the Apostles? It is proued, that it hath not.</p>
+   <list>
+      <label>The Interlo<g ref="char:EOLhyphen"/>cutours are.</label>
+      <item>
+         <list>
+            <item>Cardinall Bellarmyne of worthy memory</item>
+            <item>Michaeas a learned Iewish Rabine.</item>
+            <item>Doctour Whitakers of Cambridge.</item>
+         </list>
+      </item>
+   </list>
+   <p>
+      <q>
+         <p>Ad Romanos perfidia non potest habere accessum.</p>
+         <p>
+            <hi>Cyprian. lib. 1. epist.</hi> 3.</p>
+      </q>
+   </p>
+   <p n="2">2. In the <hi>second Dialogue,</hi> entituled: <hi>The second part of the Conuerted Iew,</hi> is discussed; whether in euery age since the Apostles; or rather whe<g ref="char:EOLhyphen"/>ther but in any one Age sin<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>e that tyme, till <hi>Luthers</hi> dayes, there can be giuen any Instances of Professours of Protestancy? It is proued, that no such Instances can be giuen.</p>
+   <list>
+      <label>The Inter<g ref="char:EOLhyphen"/>locutours.</label>
+      <item>
+         <list>
+            <item>Michaeas, the foresaid Iew.</item>
+            <item>Ochinus, who first planted Protestancy in England, in King</item>
+            <item>Edward the sixt his raigne.</item>
+            <item>Doctour Reynolds of Oxford.</item>
+            <item>Neuserus, Chiefe Pastour of Heidelberg, in the Palatinat.</item>
+         </list>
+      </item>
+   </list>
+   <p>
+      <q>
+         <p>Si dixerint vobis: Ecce in deserto est; nolite exire. Ecce in penetratibus; nolite credere.</p>
+         <p>
+            <hi>Math.</hi> 24.</p>
+      </q>
+   </p>
+   <p n="3">3. In the <hi>third and last Dialogue,</hi> styled: <hi>The arraingnment of the Conuerted Iew.</hi> It is discoursed; Whether the Protestants of the Catholiks, do stand more chargeable, with disloyalty to their lawfull Princes? It is proued, that the Protestants stand more chargeable. In this last dialogue, are diuers other points of Catholike Religion breifly handled.</p>
+   <list>
+      <label>The Inter<g ref="char:EOLhyphen"/>locutours.</label>
+      <item>
+         <list>
+            <item>The right Honourable the Lord Cheife Iustice of England.</item>
+            <item>Michaeas the former Iew.</item>
+            <item>M. Vicechancelour of Oxford.</item>
+         </list>
+      </item>
+   </list>
+   <q>
+      <p>Vidi mulierem, ebriam de sanguine Sanctorum.</p>
+      <bibl>
+         <hi>Apocalyp.</hi> 17.</bibl>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

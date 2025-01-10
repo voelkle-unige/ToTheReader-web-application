@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT Honourable, and Right Reuerend Father in God, IOHN Lord Bishop of Lincolne, Lord Keeper of the Great Seale of England, One of his Maiesties most Honourable Priuie Councell.</title>
+           <author>Beard, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101153_Fr1_2</idno>
+           <idno type="DLPS">A06098</idno>
+           <idno type="STC">1657</idno>
+           <idno type="ESTC">S101153</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT Honourable, and Right Reuerend Father in God, IOHN Lord Bishop of Lincolne, Lord Keeper of the Great Seale of England, One of his Maiesties most Honourable Priuie Councell.</title>
+                 <author>Beard, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Antichrist the pope of Rome: or, the pope of Rome is Antichrist : Proued in two treatises. In the first treatise, 1. By a full and cleere definition of Antichrist ... In the second treatise, by a description 1. Of his person. 2. Of his kingdome. 3. Of his delusions. ... By Tho: Beard</title>
+                 <author>Beard, Thomas</author>
+                 <imprint>
+                    <publisher>Jaggard, Isaac</publisher>
+                    <distributor>Bellamy, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>22, 425, 1 page, table, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT Honourable, and Right Reuerend <hi>Father in God,</hi> IOHN <hi>Lord Bishop</hi> of <hi>Lincolne,</hi> Lord Keeper of the Great <hi>Seale of England, One of his Maiesties</hi> most Honourable Priuie <hi>Councell.</hi>
+   </head>
+   <opener>
+      <salute>Right Honourable,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">A</seg>Elian</hi> reports, that when <hi>Diogenes</hi> saw certaine <hi>Rho<g ref="char:EOLhyphen"/>dian</hi> Gallants gorgeously attyred, hee laughed, and said, <hi>Hic nihil est prater fa<g ref="char:EOLhyphen"/>stum:</hi> and after seeing cer<g ref="char:EOLhyphen"/>taine <hi>Laconians</hi> in base and sordide apparrel, <hi>Et hic</hi> (said he) <hi>alius fastus est.</hi> So it may bee thought a kinde of pride and vaine-glory, to thrust foorth many Bookes in this scribling Age. And again, for such to put forth none that are best able, and that against the common Aduersarie; may bee thought to pro<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ede</p>
+   <gap reason="illegible: missing" extent="1 span">
+      <desc>〈…〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <p>But in regard of your Lordshippes manifold and weighty businesses of State and Church, I forbeare any further speech: onely I humbly intreat a pardon of my boldnesse, in presuming to dedicate this Booke to your honourable protection; which to do two reasons moued me: One, that your Lordship is a knowne and renowned Protector of Religion and Learning: and a second, because you are my Diocesan, and so it is your Lordships right by bond of dutie.</p>
+   <p>The Lord of heauen that hath aduanced you on earth, p<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>otect you with his grace in your honour, and at length inu<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>st you with an exceeding farre greater honour in his kingdome. Thus prayeth he that is</p>
+   <closer>
+      <signed>
+         <hi>Your Lordships in all Reuerence and Obseruance:</hi> THO: BEARD.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

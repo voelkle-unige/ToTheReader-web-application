@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118315_Fr1_2</idno>
+           <idno type="DLPS">A17586</idno>
+           <idno type="STC">4363.5</idno>
+           <idno type="ESTC">S118315</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The re-examination of two of the articles abridged: to wit, of the communicants gesture in the act of receaving, eating, and drinking: and The observation of festivall dayes</title>
+                 <author>Calderwood, David</author>
+                 <imprint>
+                    <pubPlace>Netherlands</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>63, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE READER</head>
+   <p>
+      <seg rend="decorInit">Y</seg>EE have here, good Reader, the re-exa<g ref="char:EOLhyphen"/>mination of two articles abriged, to wit, concerning the Communicants gesture in the act of receaving, and observation of festivall dayes, for the information of such, as either have not leasure to peruse greater workes, or are of weaker iudgement. The other three articles, bishopping, private baptisme, and pri<g ref="char:EOLhyphen"/>vate Communion are not pressed, and therefore it was needlesse to proceed any further. Accept of this infor<g ref="char:EOLhyphen"/>mation without preiudice of your standing to the liber<g ref="char:EOLhyphen"/>ties of the Kirk. Wee need no other exception against all the five articles, but that they were not concluded by pluralitie of voices of such as were authorized with lawfull commission, and consequently not by a generall assemblie: But a number of Barons, pretended bishops, and ministers usurped the place of voters, and carried the businesse. I passe by terrours, circumveening, and un<g ref="char:EOLhyphen"/>formall proceeding, howsoever others take libertie to practise and reason contrare to the order established in former times, as if wee had never had a kirk, yet let this be your iudiciall defence. But because that alone is not sufficient to uphold your conscience, yee have here as much as may serve to confirme you in the trueth, and to settle your iudgement in the matter it self.</p>
+</div>
+        </body>
+  </text>
+</TEI>

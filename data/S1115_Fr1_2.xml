@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE EPISTLE TO the Courteous and Iudicious Reader.</title>
+           <author>R., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1115_Fr1_2</idno>
+           <idno type="DLPS">B15544</idno>
+           <idno type="STC">21044</idno>
+           <idno type="ESTC">S1115</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE EPISTLE TO the Courteous and Iudicious Reader.</title>
+                 <author>R., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Magneticall animadversions : Made by Marke Ridley, doctor in Physicke. Upon certaine Magneticall advertisements, lately published, from Maister William Barlouu</title>
+                 <author>Ridley, Mark</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>4, 43, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>THE EPISTLE TO the Courteous and Iudicious <hi>Reader.</hi>
+   </head>
+   <opener>
+      <salute>Courteous Reader.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>T is an olde prouerbe, That no<g ref="char:EOLhyphen"/>thing can bee perfect at the first inuention of it; and in an Arte that is new, the more that write of it, the better it is for the Lear<g ref="char:EOLhyphen"/>ner; for from euery man hee may gleane somewhat: and the more any matter is argued, the more know<g ref="char:EOLhyphen"/>ledge there will be had of the truth of the matter propo<g ref="char:EOLhyphen"/>sed, and the falshoodes will so much the sooner be espied. Therefore in reading the Booke of <hi>Magneticall Aduer<g ref="char:EOLhyphen"/>tisements,</hi> I obserued that the Author had beene indu<g ref="char:EOLhyphen"/>strious in some things; in other things somewhat for<g ref="char:EOLhyphen"/>getfull, deuising some things not so pertinent as hee esteemed they would bee: but no new thing was added, some old things mistaken, some things censured imper<g ref="char:EOLhyphen"/>fectly:
+<pb facs="3"/>wherevpon I haue taken alittle paines to make a suruey of this Booke; no way going about to examine all, lest I should seeme either too diligent or too curious; but clearing as well as I could, that which I tooke to be doubt<g ref="char:EOLhyphen"/>full, opening that which I thought to bee obscure, and where any thing was vnprofitably deuised, I made what vse I could of it, or else reiected it; and looke what I thought was mistaken, I haue answered, and made it manifest for all men easilie to vnderstand; wherein be<g ref="char:EOLhyphen"/>ing desirous to satisfie all, I hope that I haue set a way open for euery man to enter in, and tread in the pathes of Truth. The particulars will be better vnderstood in the reading of both Bookes together, then can bee if some of them were here inserted, and therefore wish<g ref="char:EOLhyphen"/>ing the courteous and iudicious Reader health and benefit here<g ref="char:EOLhyphen"/>of, I cease,</p>
+   <closer>
+      <signed>Yours in all affection, <hi>M. R.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

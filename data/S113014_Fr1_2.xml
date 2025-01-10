@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worshipfull and wor∣thy louer of learning and vertue, Sir Iohn Brett.</title>
+           <author>C., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113014_Fr1_2</idno>
+           <idno type="DLPS">A13142</idno>
+           <idno type="STC">23434</idno>
+           <idno type="ESTC">S113014</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worshipfull and wor∣thy louer of learning and vertue, Sir Iohn Brett.</title>
+                 <author>C., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A summe or a briefe collection of holy signes, sacrifices, and sacraments instituted of God euen since the beginning of the world, and of the true originall of the sacrifice of the Masse</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Cotton, William.</publisher>
+                            <publisher>Stafford, Simon</publisher>
+                        </imprint>
+                 <extent>4, 360 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right worshipfull and wor<g ref="char:EOLhyphen"/>thy louer of learning and vertue, <hi>Sir Iohn Brett.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">S</seg>Vch as from time to time haue imployed their studyes, in publi<g ref="char:EOLhyphen"/>shing those labours that haue bin thought worthy the view and acceptation of others, haue likewise for the most part selected such patrons, (aswell straungers as of ac<g ref="char:EOLhyphen"/>quaintance) as haue bene knowne and reputed to be learned, well minded, or well discended: Imm<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>tating which Cus<g ref="char:EOLhyphen"/>tome and p<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>escriptiō, (aduenturing the pardon of your discretion) I haue inboldned my selfe vpon good notice taken of your honorable disposition, to
+<pb facs="3"/> present this Treatise vnto your fauora<g ref="char:EOLhyphen"/>ble acceptance, tending to no idle or vn<g ref="char:EOLhyphen"/>profitable substance: I humbly intreat you will be pleased to vouchsafe of my goodwill, and fauour a Schollers penne with your gracious acceptation, who answeres in well wishing what he wants in worths. So shall I rest deuoted vnto you, and bestow my future studies to e<g ref="char:EOLhyphen"/>ffect matter of better deseruing.</p>
+   <p>Euer remayning in all humble duty, ready to be commaunded by you.</p>
+   <closer>
+      <signed>W. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Some small faults are escaped in the Presse, which I heartily desire the courteous Reader, according to these di∣rections to correct.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102653_Ba1_2</idno>
+           <idno type="DLPS">A01263</idno>
+           <idno type="STC">11379</idno>
+           <idno type="ESTC">S102653</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Some small faults are escaped in the Presse, which I heartily desire the courteous Reader, according to these di∣rections to correct.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine choise grounds, and principles of our Christian religion : with their seuerall expositions, set forth in way of questions, and answers: wherein the people of the parish of Northiham, in the county of Sussex, haue beene catechized, and instructed, for the settling o their hearts and mindes, in the mysteries of saluation, and for their better preparation to the Lord's Supper. Now published for their sakes, and for the futher vse of the Church of God. By Iohn Frewen, minister of the Word of God, in that particular congregation</title>
+                 <author>Frewen, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Pott (Potts), Roger.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>40, 384, 16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="214"/>
+   <head>Some small faults are escaped in the Presse, which I heartily desire the courteous Reader, according to these di<g ref="char:EOLhyphen"/>rections to correct.</head>
+   <p>PAge 6. lin. 24. for which, read <hi>what.</hi> p. 13. l. 23. in stead of with, r. <hi>for</hi> p 25. l. 15. for absolute, r. <hi>resolute.</hi> p. 29. l. 15. for is is, r. <hi>it is.</hi> p. 34. l. 19 r. <hi>towards the marke.</hi> p. 46. l. 9. r <hi>of <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>ow corrupt.</hi> p 134. l 6 for he, 1. <hi>she.</hi> p. 214. l. 22. for by, 1. <hi>with.</hi> p. 254. l. 8. for Euangelist, r. <hi>Euangelists.</hi> p. 261 l 24. r. <hi>in which sentence.</hi> p. 300. l. 23 for confirme, r. <hi>affirme.</hi> p. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>9 l. 21. for is, r. <hi>as.</hi> p. 361. l. 21. r. <hi>so far.</hi> p. 383. l. 22. for labour, r. <hi>looke.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

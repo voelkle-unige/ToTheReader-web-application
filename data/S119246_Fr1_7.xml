@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Carmina,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119246_Fr1_7</idno>
+           <idno type="DLPS">A03825</idno>
+           <idno type="STC">13941</idno>
+           <idno type="ESTC">S119246</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Carmina,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Huloets dictionarie : newelye corrected, amended, set in order and enlarged, vvith many names of men, tovvnes, beastes, foules, fishes, trees, shrubbes, herbes, fruites, places, instrumentes &amp;c. And in eche place fit phrases, gathered out of the best Latin authors. Also the Frenche therevnto annexed, by vvhich you may finde the Latin or Frenche, of anye English woorde you will. By Iohn Higgins late student in Oxeforde</title>
+                 <author>Huloet, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 <publisher>Marsh (Marshe, Marche), Thomas.</publisher>
+                            <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                        </imprint>
+                 <extent>572 pages, coat of arms, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Carmina,</head>
+   <byline>A. W. Oxoniensis.</byline>
+   <l>VT saeuo fortis defendit Marte Camillus,</l>
+   <l>Impite Senonum terribili patriam:</l>
+   <l>Vt clarus miseram seruauit Tullius vrbim,</l>
+   <l>Ornasset tetras cum Catilina faces:</l>
+   <l>Higginus linguam nobis sic reddidit Anglis,</l>
+   <l>ac pepulit patriae barbara verba suae.</l>
+   <l>Hoc duce barbaries pulsa est, nunc Anglia gaudet,</l>
+   <l>Tota{que} Castalijs plena rigatur aquis.</l>
+   <l>Perlegat hunc igitur, Parnassi scandere culmen,</l>
+   <l>Musarum &amp; sedes quisquis adire velit.</l>
+</div>
+        </body>
+  </text>
+</TEI>

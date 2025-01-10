@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Dowland, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119394_Fr1_4</idno>
+           <idno type="DLPS">A20694</idno>
+           <idno type="STC">7097</idno>
+           <idno type="ESTC">S119394</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Dowland, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Lachrimæ, or Seauen teares figured in seauen passionate pauans : vvith diuers other pauans, galiards, and almands, set forth for the lute, viols, or violons, in fiue parts: By Iohn Dowland Bacheler of Musicke, and lutenist to the most royall and magnificent, Christian the fourth, King of Denmarke, Norway, Vandales, and Gothes, Duke of Sleswicke, Holsten, Stormaria, and Ditmarsh: Earle of Oldenburge and Delmenhorst</title>
+                 <author>Dowland, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Adams, Thomas.</publisher>
+                            <publisher>Dowland, John.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>50 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Auing in forren parts met diuers Lute-lessons of my compo<g ref="char:EOLhyphen"/>sition, publisht by strangers without my name or approbation; I thought it much more conuenient, that my labours should passe forth vnder mine owne allowance, receiuing from me their last foile and polishment; for which consideration I haue vndergone this long and troublesome worke, wherein I haue mixed new songs with olde, graue with light, that euery eare may receiue his seuer all content. And as I had in these an earnest desire to satisfie all, I do likewise hope that the peruser will as gratefully entertaine my endeuours, as they were friendly meant.</p>
+   <p>This onely obseruation I must set downe in the playing of my Lute-lessons for tuning of the Lute, which is, that the <hi>7.8.9.</hi> string open, do answere in the eight the base string aboue, what letter soeuer it be that carries the base: As for example.</p>
+   <p>
+      <hi>Example.</hi>
+      <q>
+         <l>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+         </l>
+      </q>
+   </p>
+   <closer>
+      <signed>Yours <hi>IOHN DOVVLAND.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

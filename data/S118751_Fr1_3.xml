@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           <author>H., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118751_Fr1_3</idno>
+           <idno type="DLPS">A02799</idno>
+           <idno type="STC">12930</idno>
+           <idno type="ESTC">S118751</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 <author>H., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An antidote against the plague. Or Panchrestōn: a salue for all sores : which applied and practised, will soone awaken the Lords mercy, and suddenly cause the storms of his iust iudgements to vanish away. Deliuered in a sermon, preached within the Cathedrall Church of Saint Paules, London</title>
+                 <author>Hastler, Thomas</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>6, 37, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <head>Ad Lectorem.</head>
+   <l>Scripta vide; monitus{que} caue: cupit ipse moneri,</l>
+   <l>Sed non morderi. Neu fallat No<g ref="char:EOLhyphen"/>minis vmbra:</l>
+   <l>Quaerito non a quo, sed quae sint scripta: faueto.</l>
+   <l>Mente bona studui prodesse, fru<g ref="char:EOLhyphen"/>are: Ualeto. <note place="margin">Aug. ad Li<g ref="char:EOLhyphen"/>cent. Epist. <hi>41.</hi>
+      </note>
+   </l>
+   <closer>
+      <signed>Servus tuus peripsum, &amp; conservus sub ipso,
+T. H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

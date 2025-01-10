@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worshipfull Sir Thomas Glenham Knight, one of the Deputie-Lieutenants, and Colonel of a Regiment in the countie of Suffolk.</title>
+           <author>C., J.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107127_Fr2_2</idno>
+           <idno type="DLPS">A17524</idno>
+           <idno type="STC">4338</idno>
+           <idno type="ESTC">S107127</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worshipfull Sir Thomas Glenham Knight, one of the Deputie-Lieutenants, and Colonel of a Regiment in the countie of Suffolk.</title>
+                 <author>C., J.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The complete captain, or, an abbridgement of Cesars warres : with observations upon them; together with a collection of the order of the militia of the ancients; and a particular treatise of modern war: written by the late great generall the Duke of Rohan: Englished by I.C</title>
+                 <author>Rohan, Henri, duc de</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1640</date>
+                 <publisher>Alsop, Nicholas.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>6, 190, 2 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="56"/>
+   <head>To the right worshipfull Sir <hi>Thomas Glenham</hi> Knight, one of the Deputie-Lieutenants, and Colonel of a Regiment in the countie of <hi>Suffolk.</hi>
+   </head>
+   <opener>
+      <salute>Right Worshipfull,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Make bold (incited by your many favours) to present you with a short <hi>Treatise of Warre.</hi> How well the Authour hath acquitted himself therein, Your worthy self (by reason of your known abilities, both for Theorie and Practice, in that profession) are best able to judge. And for my translation, your studies and travels having made that language natu<g ref="char:EOLhyphen"/>rall to you, I might justly fear a severe cen<g ref="char:EOLhyphen"/>sure; but that I know your candour such, as you will excuse</p>
+   <closer>
+      <signed>Your obliged servant, <hi>J. C.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

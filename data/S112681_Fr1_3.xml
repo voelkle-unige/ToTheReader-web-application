@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112681_Fr1_3</idno>
+           <idno type="DLPS">A07529</idno>
+           <idno type="STC">17913</idno>
+           <idno type="ESTC">S112681</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Papisto-mastix, or The protestants religion defended : Shewing briefely when the great compound heresie of poperie first sprange; how it grew peece by peece till Antichrist was disclosed; how it hath been consumed by the breath of Gods mouth: and when it shall be cut downe and withered. By William Middleton Bachelor of Diuinitie, and minister of Hardwicke in Cambridge-shire</title>
+                 <author>Middleton, William</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <distributor>Johnson (Jonson), Arthur</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>16, 203, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="3"/>
+   <q>
+      <bibl>
+         <hi>Ierem. cap. 5.26.</hi>
+      </bibl>
+      <p>Among my people are found wicked persons that lay wait, as he that setteth snares, they haue made pits to catch men.</p>
+   </q>
+   <q>
+      <bibl>Tertull. de praescript. aduers. haeretic.</bibl>
+      <p>
+         <hi>Auolent quantùm volent paleae leuis fidei quocun{que} affla<g ref="char:EOLhyphen"/>tu tentationum; eò purior massa frumenti in horrea domini reponetur,</hi>
+      </p>
+      <p>Let the chaffe of a wauering faith, flie away as far as it will with euerie puffe of temptations, so shall the graine that is layd vp in the Garner of the Lord, be the purer.</p>
+   </q>
+   <q>
+      <bibl>
+         <hi>Ierem. cap. 8.17.</hi>
+      </bibl>
+      <p>Behold, I will send serpents and cockatrices among you, which will not bee charmed, and they shall sting you, saith the Lord.</p>
+   </q>
+   <q>
+      <bibl>Tertul. de praescript. aduersus haereticos.</bibl>
+      <p>
+         <hi>Haeretici firmos fatigant, infirmos capiunt, medios cum scrupulo dimittunt,</hi> Heretickes wearie the strong, catch the weake as in a snare, and the middle sort they leaue scrupulous.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

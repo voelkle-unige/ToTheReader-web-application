@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Italicè.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101062_Fr1_4_3</idno>
+           <idno type="DLPS">B11377</idno>
+           <idno type="STC">1582</idno>
+           <idno type="ESTC">S101062</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Italicè.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The doome warning all men to the iudgemente : wherein are contayned for the most parte all the straunge prodigies hapned in the worlde, with diuers secrete figures of reuelations tending to mannes stayed conuersion towardes God: in maner of a generall chronicle, gathered out of sundrie approued authors by St. Batman professor in diuinite</title>
+                 <author>Lykosthenes, Konrad</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Newbery (Nuberie), Ralph</publisher>
+                        </imprint>
+                 <extent>20, 132, 135-434, 436-439, pages 438, 436-437, 1 page, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="ita" type="encomium">
+   <head>Italicè.</head>
+   <l>Vn Pastor Suegliato in cui pur resplende</l>
+   <l>L'ardore diuino, alla cura eletto</l>
+   <l>Del santo gregge per altrui difetto</l>
+   <l>Cosi errando, ch'il bon odor non scende</l>
+   <l>Alsommo ben ch'ogniun eguale rende</l>
+   <l>Per le<note n="*" place="margin">Cio è teolo<g ref="char:EOLhyphen"/>giche fede, spe<g ref="char:EOLhyphen"/>ranza e carità.</note> vertù, el'amoroso aspetto:</l>
+   <l>Ti mostra, l<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>tt<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>r, dal suobel ricetto</l>
+   <l>Vn' opra leggiadra, <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>aquat comprende</l>
+   <l>Igran marauigli moderni, è antichi,</l>
+   <l>E cose conforme a l'antico zelo,</l>
+   <l>Hor mira l'oggetto o<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>e giace il vero,</l>
+   <l>Spandi da te gl intelletti nemichi,</l>
+   <l>Inalza 'l grido di Batmanno al cielo</l>
+   <l>Da questo infin al' altro Emispero.</l>
+</div>
+        </body>
+  </text>
+</TEI>

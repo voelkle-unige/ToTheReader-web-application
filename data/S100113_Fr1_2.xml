@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT WOR∣shipfull, Syr Thomas Moun∣son, Knight.</title>
+           <author>Allott, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100113_Fr1_2</idno>
+           <idno type="DLPS">A16884</idno>
+           <idno type="STC">378</idno>
+           <idno type="ESTC">S100113</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT WOR∣shipfull, Syr Thomas Moun∣son, Knight.</title>
+                 <author>Allott, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Englands Parnassus: or the choysest flowers of our moderne poets, with their poeticall comparisons : Descriptions of bewties, personages, castles, pallaces, mountaines, groues, seas, springs, riuers, &amp;c. Whereunto are annexed other various discourses, both pleasaunt and profitable</title>
+                 <author>Allott, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 <distributor>Burby, Cuthbert</distributor>
+                            <distributor>Hayes (Haies, Heyes), Thomas</distributor>
+                            <distributor>Ling (Lyng), Nicholas</distributor>
+                        </imprint>
+                 <extent>16, 494, that is 510, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT WOR<g ref="char:EOLhyphen"/>shipfull, Syr <hi>Thomas Moun<g ref="char:EOLhyphen"/>son,</hi> Knight.</head>
+   <l>ENglish <hi>Maecenas,</hi> bounties elder brother,</l>
+   <l>The spreading wing, whereby my fortune flies;</l>
+   <l>Vnto thy wit, and vertues, and none other,</l>
+   <l>I consecrate these sacred Poesies.</l>
+   <l>Which whilst they liue, (as they must liue for euer)</l>
+   <l>Shall giue thy honour life, and let men know,</l>
+   <l>That those to succour vertue who perseuer,</l>
+   <l>Shall conquer time, and <hi>Laethes</hi> ouerflow.</l>
+   <l>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>pickt these flowers of Learning from their stem,</l>
+   <l>Whose heauenly Wits &amp; golden Pens haue chac't</l>
+   <l>Dull ignorance that long affronted them.</l>
+   <l>In view of whose great glories thou art plac't,</l>
+   <l>That whilst their wisdoms in these writings florish,</l>
+   <l>Thy fame may liue, whose wealth doth wisedome norish.</l>
+   <closer>
+      <signed>
+         <hi>Your Worships humbly</hi> at commaund. <hi>R. A.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

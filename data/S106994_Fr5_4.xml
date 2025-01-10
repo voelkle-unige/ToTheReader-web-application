@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Epistle to the Reader.</title>
+           <author>Byrd, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106994_Fr5_4</idno>
+           <idno type="DLPS">A17432</idno>
+           <idno type="STC">4254</idno>
+           <idno type="ESTC">S106994</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Epistle to the Reader.</title>
+                 <author>Byrd, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Psalmes, sonets, &amp; songs of sadnes and pietie : made into musicke of fiue parts: whereof, some of them going abroad among diuers, in vntrue coppies, are heere truely corrected, and th'other being songs very rare and newly composed, are heere published, for the recreation of all such as delight in musicke: by William Byrd one of the Gent: of the Queenes Maiesties royall chappell</title>
+                 <author>Byrd, William</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>240 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="99"/>
+   <head>¶ The Epistle to the Reader.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Enigne Reader, heere is offered vnto thy courte<g ref="char:EOLhyphen"/>ous acceptation, Musicke of sundrie sorts, and to content diuers humors. If thou bee disposed to pray, heere are <hi>Psalmes.</hi> If to bee merrie, heere are <hi>Sonets.</hi> If to lament for thy sins, heere are songs of sadnesse and <hi>Pietie.</hi> If thou delight in Musicke of great cōpasse, heere are diuers songs, which beeing originally made for Instruments to expresse the harmony, and one voyce to pro<g ref="char:EOLhyphen"/>nounce the dittie, are now framed in all parts for voyces to sing the same. If thou desire songs of smal compasse and fit for the reach of most voyces, heere are most in number of that sort. Whatsoeuer paines I haue taken heerein, I shall thinke to be well imployed, if the same bee well accepted, Musicke thereby the better loued, and the more exercised. In the expressing of these songs, either by voy<g ref="char:EOLhyphen"/>ces or Instruments, if there happen to bee any iarre or dissonance, blame not the Printer, who (I doe assure thee) through his great paines and diligence, doth heere deliuer to thee a perfect and true Coppie. If in the composition of these Songs, there bee any fault by mee committed, I desire the skilfull, eyther with courtesie to let the same bee concealed, or in friendly sort to bee thereof admoni<g ref="char:EOLhyphen"/>shed: and at the next Impression he shall finde the error reformed: remembring alwaies, that it is more easie to finde a fault then to a<g ref="char:EOLhyphen"/>mend it. If thou finde any thing heere worthie of liking and com<g ref="char:EOLhyphen"/>mendation, giue praise vnto GOD, from whom (as from a most pure and plentifull fountaine) all good guiftes of Sciences dooe flow: whose name bee glorified for euer.</p>
+   <closer>
+      <signed>The most assured friend to all that loue or learne Musicke: William Byrd.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

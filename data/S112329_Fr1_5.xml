@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the AVTHOR.</title>
+           <author>B., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112329_Fr1_5</idno>
+           <idno type="DLPS">A11503</idno>
+           <idno type="STC">21752</idno>
+           <idno type="ESTC">S112329</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the AVTHOR.</title>
+                 <author>B., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Vindiciæ sacræ : A treatise of the honor and maintenance due to ecclesiasticall persons. Done out of the Latin, of that famous diuine of Holland, H. Saravia, sometime prebend of Canterbury</title>
+                 <author>Saravia, Adrien</author>
+                 <imprint>
+                    <distributor>Boler (Bowler), James 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 71, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="12"/>
+   <head>To the AVTHOR.</head>
+   <lg>
+      <l>AS some rare Flower;</l>
+      <l>whose silken Leaues haue beene</l>
+      <l>Concealed long</l>
+      <l>from their desired View,</l>
+      <l>Displayes (at last)</l>
+      <l>his bright-sweet-smiling hew,</l>
+      <l>Fit to adorne</l>
+      <l>the Bosome of a Queene:</l>
+   </lg>
+   <lg>
+      <l>Or as a Diamond</l>
+      <l>of rich esteeme,</l>
+      <l>In doubtfull shadow</l>
+      <l>of the darkesome Night;</l>
+      <l>Darts forth his beames,</l>
+      <l>and giues a cheerfull light;</l>
+      <l>Whose Lustre may</l>
+      <l>a Royall Crowne beseeme:</l>
+      <l>So shine thy Glories;</l>
+      <l>so this Worke shall be</l>
+      <l>An Arch-Triumphall</l>
+      <l>to thy Memorie.</l>
+   </lg>
+   <closer>
+      <signed>R. B. LONDINAS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

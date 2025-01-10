@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Fabulam Lecturo.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114425_Ba1_1</idno>
+           <idno type="DLPS">A09214</idno>
+           <idno type="STC">19524</idno>
+           <idno type="ESTC">S114425</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Fabulam Lecturo.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pedantius : Comodia, olim Cantabrig. acta in Coll. Trin. Nunquàm antehàc typis evulgata</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Milbourne (Milburne, Mylbourne), Robert.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>4, 167, 1 page, illustrations (metal cut), 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="88"/>
+   <head>Fabulam Lecturo.</head>
+   <q>
+      <hi>Festinans Canis (Leporarius) hos coecos peperit Catulos, sc.</hi>
+   </q>
+   <div type="errata">
+      <head>Erratula corrigenda.</head>
+      <p>
+         <hi>Pag.</hi> 5. <hi>liv. ult. (lege)</hi> Here. <hi>p.</hi> 21. <hi>l.</hi> 10. Sodales. <hi>p.</hi> 22. <hi>l.</hi> 21. Age. <hi>p.</hi> 23. <hi>l.</hi> 11. potes. <hi>p.</hi> 24. <hi>l. ult.</hi> passionem. <hi>p.</hi> 40. <hi>l.</hi> 8. Dae<g ref="char:EOLhyphen"/>mones <hi>p.</hi> 41. <hi>l.</hi> 16. irretitos. <hi>p.</hi> 86. <hi>l.</hi> 13. ergo <hi>p.</hi> 38. <hi>l.</hi> 11. promotus <hi>p.</hi> 131. <hi>l.</hi> 17. non inultum.</p>
+      <p>Si praetereà in Heterographiam alicubi impingas, <hi>Pedantio</hi> deputandum: ubi ad Punctula offendis, <hi>Dromodotus</hi> luat: Leviora nedum <hi>Parillo</hi> condonanda, cui Exemplaris hujusce exscriptionem debemus &amp; agnos<g ref="char:EOLhyphen"/>cimus.</p>
+   </div>
+   <closer>—Ueniam pro laude.—</closer>
+   <pb facs="88"/>
+</div>
+        </body>
+  </text>
+</TEI>

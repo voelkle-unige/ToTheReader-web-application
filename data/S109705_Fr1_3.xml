@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109705_Fr1_3</idno>
+           <idno type="DLPS">A20463</idno>
+           <idno type="STC">6872</idno>
+           <idno type="ESTC">S109705</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Foure paradoxes, or politique discourses : 2 concerning militarie discipline, written long since by Thomas Digges Esquire. 2 of the worthinesse of warre and warriors, by Dudly Digges, his sonne. All newly published to keepe those that will read them, as they did them that wrote them, from idlenesse</title>
+                 <author>Digges, Thomas</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Knight, Clement</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>4, 111, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Ordinances, edicts, proclamations</term>
+                    <term>History and chronicles</term>
+                    <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hat there are many faultes in these fewe leaues I doubt not, neither would I but you should finde fault, yet not maliciously with wres<g ref="char:EOLhyphen"/>ted and vnnaturall applications, yet not too pe<g ref="char:EOLhyphen"/>remptorily till you haue children of your owne: onely this, if you bee such a Merchant as hateth a Souldier, thinke it no victorie to picke matter of aduantage out of my weake handling of their good cause: If on the contrarie you loue the profession, take in good part these slight endeauors, till some one of better abilitie speak more effectually, and let this publike protestation assure you I am no dissembler, but one that heartily desi<g ref="char:EOLhyphen"/>reth to shew himselfe a louing countreyman to men that so well deserue the loue of their Countrey. </p>
+   <trailer>Fare<g ref="char:EOLhyphen"/>well.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

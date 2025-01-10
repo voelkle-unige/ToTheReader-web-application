@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1529</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121275_Fr1_3</idno>
+           <idno type="DLPS">A19129</idno>
+           <idno type="STC">5542.3</idno>
+           <idno type="ESTC">S121275</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rudimenta grammatices et docendi methodus : non tam scholæ Gypsuichianæ per reuerendissimum. D. Thoma [m] cardinale [m] Ebo⁻r. feliciter institutæ q [uam] o [mn] ibus aliis totius Anglie scholis prescripta</title>
+                 <author>Colet, John</author>
+                 <imprint>
+                    <publisher>Treveris, Peter</publisher>
+                    <pubPlace>Great Britain--England--London--Southwark</pubPlace>
+                    <date>1529</date>
+                 </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <pb facs="3"/>
+   <p>
+      <seg rend="decorInit">N</seg>EMINEM latere putam{us}, quā<g ref="char:EOLhyphen"/>to animi conatu, studio, industria, huc semper labores nostros destina uerimus, nō vt nostris priuatim cō<g ref="char:EOLhyphen"/>modis, sed vti patriae, ciuil <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s{que} no<g ref="char:EOLhyphen"/>stris omnib{us} quāplurimū cōsulere<g ref="char:EOLhyphen"/>mus. Qua vna in re, amplissimū pie<g ref="char:EOLunhyphen"/>tatis fructum nos assecuturos esse arbitrabamur, si di<g ref="char:EOLhyphen"/>uino aliquo munere populariū ur̄orum aīos exornare<g ref="char:EOLhyphen"/>mus. Proinde maximo, incredibili{que} pietatis ardore er<g ref="char:EOLhyphen"/>ga patriā affecti, quae nos veluti iure quodam sibi ven<g ref="char:EOLhyphen"/>dicat, ludū literariū nō omnino inelegantē velut amo<g ref="char:EOLhyphen"/>ris summi erga eandē nostri clarissimū testimoniū de<g ref="char:EOLhyphen"/>dicauimus. Verū quoniā parū visum est, ludū quantū<g ref="char:EOLhyphen"/>uis magnificū extruxisse: nisi etiā accesserit praecepto<g ref="char:EOLhyphen"/>rū peritia, modis omnibus dedim{us} operā, vt vos duos praeceptores electos, probatos{que} huic prefecerimus, sub quibus Britannica pubes, statim a primis annis, &amp; mo<g ref="char:EOLhyphen"/>res, &amp; literas imbiberet, nimirū intelligentes in hac eta<g ref="char:EOLhyphen"/>te, velut herba, spem reipublicae positā esse. Id quod vt foelicius, maturius{que} cōsequeretur, libellos puerilis insti<g ref="char:EOLhyphen"/>tutionis, methodū{que}, ac rationē docendi▪ apprime huius pubi necessariam, omni nostra cura studio diligētia vt haberetis, curauimus. Vestrae partes erūt tūc vicissim qui huic nouae scholae nostrae praeceptores estis, his rudi<g ref="char:EOLhyphen"/>mentis, ac docendi ratione diligenter exercere hos pue<g ref="char:EOLhyphen"/>ros, deinceps cum elegantissima literatura, tum optimis moribus ad maiora profecturos. Ad quod si pari cura enitemini, at{que} nos ad oculū vobis cōmonstraturi sum{us}, nos non tam vobis vestro studio, impense fauētes jam demerebimini, quā plane apud posteros, felices reddide<g ref="char:EOLunhyphen"/>ritis. Bene valete. Ex aedibus nostris. Anno domini. M. D. XX VIII. calen. Augusti.</p>
+</div>
+        </body>
+  </text>
+</TEI>

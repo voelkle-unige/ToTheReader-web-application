@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author doth intreat the gentle reader in the behalfe of the Printer, to pardon and to correct these faults ouerseene in printing.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113474_Ba1_1</idno>
+           <idno type="DLPS">A12551</idno>
+           <idno type="STC">22874</idno>
+           <idno type="ESTC">S113474</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author doth intreat the gentle reader in the behalfe of the Printer, to pardon and to correct these faults ouerseene in printing.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The bright morning starre: or, The resolution and exposition of the 22. Psalme : preached publikely in foure sermons at Lincolne. By John Smith preacher of the citie</title>
+                 <author>Smyth, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1603</date>
+                 <publisher>Legat (Legate, Legatt), John 1.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>6, 196 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="102"/>
+   <head>The Author doth intreat the gentle reader in the behalfe of the Printer, to pardon and to correct these faults ouerseene in printing.</head>
+   <p>Page, 19 lin 23. for p iuately, read primari<g ref="char:EOLhyphen"/>ly. p. 20 l 2. for practise, read parts. p. 21. l. 23. for men, more p 32 l. 23. for this, thus p. 34. A I salme p 35 of Dauid these two clauses are wanting on the margents of these two pages. p. 45. l. 9. for in very, in a very p. 47. l 2 and, is supe fluous. p. 62. l 9. For faith, fe<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>re. p. 6<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>. l. 18. the note of interrogation is so perfluous. p 66. l 13. for Scripture, scepter. p 68. 1 9 for, and, read of the. p. 69. l. 22. for conie<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>ation, confutation. p. 78 l 13. for world of begin<g ref="char:EOLhyphen"/>ning read worlds beginning. p 83. l 1. for woman, worme. p. 91. l. 24. are denied &amp; are superfluous p. 92. l. 1. for that, yet p.121. l 6. for law. loue. p. 128. l. 15. for yet, that. p. 137. l. 16 for him read sinne.</p>
+   <pb facs="102"/>
+</div>
+        </body>
+  </text>
+</TEI>

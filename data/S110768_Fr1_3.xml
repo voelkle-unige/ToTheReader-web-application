@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AVTHOR AD LIBRVM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110768_Fr1_3</idno>
+           <idno type="DLPS">A11272</idno>
+           <idno type="STC">21537</idno>
+           <idno type="ESTC">S110768</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AVTHOR AD LIBRVM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pans pipe : three pastorall eglogues, in English hexameter. With other poetical verses delightfull. For the further delight of the reader, the printer hath annexed hereunto the delectable poeme of the Fisher-mans tale</title>
+                 <author>Sabie, Francis</author>
+                 <imprint>
+                    <publisher>Jones (Jhones, Johnes), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>116 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>AVTHOR AD LIBRVM.</head>
+   <l>VAde liber, rus dulce subi, pete pascua l<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ta</l>
+   <l>alba vbi depascurt agmina mille gregum</l>
+   <l>Te lacta accipict pecorum Benef<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ldia diues,</l>
+   <l>ad<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>nies gratus montibus ipse suis.</l>
+   <l>Vis vbi pastorum gelidis numerosa sub vmbris</l>
+   <l>sistula arundinea cartatna loeta canit,</l>
+   <l>Ibit <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+      <hi>Coridon</hi> te complexurus▪ <hi>Alexis</hi>
+   </l>
+   <l>accipiet, <hi>Thirsis</hi> te leget are rudi.</l>
+   <l>Laudabit doctus Dominum tibicine faustus.</l>
+   <l>hunc hedera dignum <hi>Thestilis</hi> ore canet.</l>
+   <l>Heu si forte via rocta peregrinus aberres</l>
+   <l>&amp; Domino sumas orbus in vrbe locum</l>
+   <l>Ridebit ciuis te, nescit rustica ciuis,</l>
+   <l>rustica t<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> cantas, rusticus ergo legat.</l>
+   <l>Formido nimium ne <hi>Momus</hi> itinere cernat</l>
+   <l>mordebit dominum ferr<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>a ltngua tuum,</l>
+   <l>Quam potes excusa▪ dic est herus exul, amica</l>
+   <l>non datur huic requies, fert iuga, vade liber.</l>
+</div>
+        </body>
+  </text>
+</TEI>

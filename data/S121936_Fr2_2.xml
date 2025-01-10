@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121936_Fr2_2</idno>
+           <idno type="DLPS">A09763</idno>
+           <idno type="STC">20030</idno>
+           <idno type="ESTC">S121936</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of the vvorld: commonly called, The naturall historie of C. Plinius Secundus. Translated into English by Philemon Holland Doctor of Physicke. The first tome</title>
+                 <author>Pliny, the Elder</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>60, 614, 54, 632, 88 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="359"/>
+   <pb facs="359"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Or as much as this second Tome trea<g ref="char:EOLhyphen"/>teth most of Physicke, and the tearms belonging thereto (as wel concerning diseases as medicines) be for the most part either borowed from the Greek, or, such as the vnlearned be not ac<g ref="char:EOLhyphen"/>quainted with (which partly vpon ne cessity I was forced, and partly for va<g ref="char:EOLhyphen"/>rietie induced to vse) I could not con<g ref="char:EOLhyphen"/>tent my selfe to let them passe without some explanation: for since my purpose especially is to profit and pleasure the most ignorant (for whose sake <hi>Plinie</hi> also himselfe, as hee professeth, compiled this worke) I would not be so iniurious vnto them as to interrupt their reading with obscuritie of phrase, when the matter otherwise is most familiar. In regard whereof, I thought good to prefix a briefe Catalogue of such words of Art, as euer and anon shall offer themselues in these discourses that insue, with the explanation thereto annexed, and the same deliuered as plainly as I could possibly deuise for the capacity of the mea<g ref="char:EOLhyphen"/>nest. In the handling whereof, so I may satisfie my countrymen that know no other Language but English, I shall thinke my paines and labour well bestowed, and lesse feare the censure of those that haply expect some deeper learning; for euer still
+<pb facs="360"/>
+the verse of that Comicall Poet resoundeth from the stage in mine eares,
+<q>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>.</l>
+      </q> (id est)
+<q>Speake with lesse shew of learning, so it be with more perspe<g ref="char:EOLhyphen"/>cuitie.</q> Vale.</p>
+</div>
+        </body>
+  </text>
+</TEI>

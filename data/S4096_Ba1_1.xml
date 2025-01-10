@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Envoy]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1527</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4096_Ba1_1</idno>
+           <idno type="DLPS">A00705</idno>
+           <idno type="STC">10838.7</idno>
+           <idno type="ESTC">S4096</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Envoy]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Here begynneth a lytel treatyse called the co [n] traverse bytwene a louer and a jaye lately compyled</title>
+                 <author>Feylde, Thomas</author>
+                 <imprint>
+                    <publisher>Worde, Wynkyn de</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1527</date>
+                 </imprint>
+                 <extent>24 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="envoy">
+   <lg>
+      <l>¶ Lenuoye of the auctoure.</l>
+      <l>¶ Golytell boke with rudenes replete</l>
+      <l>Presente the humbly before lecture lytterall</l>
+      <l>Excusynge thy maker by Way or by strete</l>
+      <l>And pronounce thy sentence w<seg rend="sup">t</seg> language lyberal</l>
+      <l>Praye them to correcte thy paynes rustycall</l>
+      <l>For made thou was of shorte aduysement</l>
+      <l>Be meruayllous instaunce of a louer verament.</l>
+   </lg>
+   <lg>
+      <l>
+         <pb facs="13"/>
+¶ Fayned thou arte with wordes approbryous.</l>
+      <l>Regystrynge the actes and <gap reason="illegible: blotted" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> of women</l>
+      <l>That some men wyll Juge the enuyous.</l>
+      <l>Naye truely than were he to blame</l>
+      <l>This is his mynde and entendement certayne</l>
+      <l>Where as they rede and fynde them gyltye</l>
+      <l>Lette them amende this counsayle gyueth he.</l>
+   </lg>
+   <lg>
+      <l>¶ Who lyketh thy sentence and pondureth it ryght</l>
+      <l>Contectynge well in his remembraunce</l>
+      <l>Knowe maye he truely that by a lady bryght</l>
+      <l>Thou was compyled by pastymes pleasaunte.</l>
+      <l>Suche grete vnkyndnesse whiche caused varyaunce</l>
+      <l>Was shewed to a louer called. F. T.</l>
+      <l>Her name also begynneth with. A. B.</l>
+   </lg>
+   <trailer>¶ Thus endeth the treatyse of the louer and a Jaye,</trailer>
+   <byline>lately compyled by me Thomas Feylde.</byline>
+</div>
+        </body>
+  </text>
+</TEI>

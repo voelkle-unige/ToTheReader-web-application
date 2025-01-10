@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>DECASTICON IN ANGLICAM versionem scripti Laurentiani.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110934_Fr1_6</idno>
+           <idno type="DLPS">A20928</idno>
+           <idno type="STC">7304</idno>
+           <idno type="ESTC">S110934</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>DECASTICON IN ANGLICAM versionem scripti Laurentiani.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse of the preseruation of the sight: of melancholike diseases; of rheumes, and of old age. Composed by M. Andreas Laurentius, ordinarie phisition to the King, and publike professor of phisicke in the Vniuersitie of Mompelier. Translated out of French into English, according to the last edition, by Richard Surphlet, practitioner in phisicke</title>
+                 <author>Du Laurens, André</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Jackson (Jacson), Ralph 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>16, 194 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>DECASTICON IN ANGLICAM versionem scripti Laurentiani.</head>
+   <l>QVae de Oculis nuper Medicorum scripsit Ocellus</l>
+   <l>De Senio, &amp; Succis, Senibus, cunctaeque molestis</l>
+   <l>Aetati, mira doctus Lauraentius arte;</l>
+   <l>Surphlettus (tanto ne Gallia solapotiri</l>
+   <l>The sauropossit) donauit veste Britanna.</l>
+   <l>Gallia ne inuideas, nec enim tibi nascitur vni</l>
+   <l>Laurus tam florens; nostri hanc coluêre Britanni.</l>
+   <l>Tit turpes oculi maculas Surphlette suetus</l>
+   <l>Artisici remouere manu; (non vltima laus haec)</l>
+   <l>Nunc grato hoc multo melius noscêre labore.</l>
+   <bibl>
+      <hi>F. Hering Med. Candidatus.</hi>
+   </bibl>
+</div>
+        </body>
+  </text>
+</TEI>

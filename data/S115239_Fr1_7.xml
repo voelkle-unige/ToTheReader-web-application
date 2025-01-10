@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>GRAMPIUS REGI SUO.</title>
+           <author>Adamides, Joannes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115239_Fr1_7</idno>
+           <idno type="DLPS">A03888</idno>
+           <idno type="STC">140.5</idno>
+           <idno type="ESTC">S115239</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>GRAMPIUS REGI SUO.</title>
+                 <author>Adamides, Joannes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ta tōn Mousōn eisodia: = The Muses welcome : to the high and mightie prince Iames by the grace of God King of Great Britaine France and Ireland, defender of the faith &amp;c. At His Majesties happie returne to his olde and natiue kingdome of Scotland, after 14 yeeres absence, in anno 1617. Digested according to the order of his Majesties progresse, by I.A</title>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1618</date>
+                 <publisher>Eliot’s Court Press.</publisher>
+                            <publisher>Hart, Andro</publisher>
+                        </imprint>
+                 <extent>8, 44, 2, 45-138, 137-289, 1 page, portraits (woodcut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>GRAMPIUS REGI SUO.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">Q</seg>Vae constricta silet brumali algore <hi>Cicada</hi>
+      </l>
+      <l>Flebilis, aestiuo tempore laeta canit.</l>
+      <l>Sic ego, qui moestus multùm t<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> absente silebam,</l>
+      <l>
+         <hi>Phoebe,</hi> ictus radiis nunc cano dulc<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> tuis.</l>
+      <l>Ore sed illa carens modulatur pectore cantus:</l>
+      <l>Ore ego si nequeo, pectore dulc<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> canam.</l>
+   </lg>
+   <signed>IOANNES ADAMIDES.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

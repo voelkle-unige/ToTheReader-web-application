@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Smith, H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117445_Bo1_5_1</idno>
+           <idno type="DLPS">A12406</idno>
+           <idno type="STC">22719</idno>
+           <idno type="ESTC">S117445</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Smith, H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The sermons of Maister Henrie Smith : gathered into one volume. Printed according to his corrected copies in his life time</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Orwin, Thomas.</publisher>
+                            <publisher>Robinson, Robert.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>14, 720, 815-1092, 24 + pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Earing how fast this Sermon hath
+vttered, and yet how miserably
+it hath bene abused in printing,
+as it were with whole limmes
+cut off at once, and cleane left
+out, I haue taken a little paines
+(as my sicknesse gaue me leaue) both to perfect
+the matter, and to correct the print. Now as the
+Angell said to Iohn,<note place="margin">Reu. 10. 10.</note>
+      <hi>Take this booke and eate
+it,</hi> so I wish that thou hadst so digested this do<g ref="char:EOLhyphen"/>ctrine,
+that all the parts of thy bodie and soule
+were strengthened by it. But if all this will not
+make thee content with that thou hast, sorrowe
+that thy couetousnesse is greater then others: and
+neuer loue thy selfe vntill thou canst find in thy
+hart to be blessed. Farewell.</p>
+   <closer>
+      <signed>Thine H. Smith.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

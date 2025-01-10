@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102074_Ba1_1</idno>
+           <idno type="DLPS">A14166</idno>
+           <idno type="STC">24483</idno>
+           <idno type="ESTC">S102074</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rime di Petruccio Vbaldino, cittadin Fiorentino</title>
+                 <author>Ubaldini, Petruccio</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="21"/>
+   <l>S'alcun diporto à chi di legger piace</l>
+   <l>Si lascia, ciò fu sempre il mio desio:</l>
+   <l>Per fuggir il vile otio, e'l cieco oblio:</l>
+   <l>E per lasciar di me studio verace.</l>
+</div>
+        </body>
+  </text>
+</TEI>

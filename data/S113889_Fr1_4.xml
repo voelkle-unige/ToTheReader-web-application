@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Text]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113889_Fr1_4</idno>
+           <idno type="DLPS">A01682</idno>
+           <idno type="STC">11819</idno>
+           <idno type="ESTC">S113889</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Text]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The praise of a good name : The reproch of an ill name. Wherin euery one may see the fame that followeth laudable actions, and the infamy that cometh by the contrary. With certaine pithy apothegues, very profitable for this age, by C.G</title>
+                 <author>Gibbon, Charles</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 <publisher>Gosson, Thomas.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>10, 34, 45-55, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="text">
+   <pb facs="6"/>
+   <list>
+      <item>
+         <gap reason="illegible" resp="#keyers" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> good <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>ame.
+<list>
+            <item>Is set foorth by the singularitie: for it is more excellent then
+<list>
+                  <item>Any riches. <hi>Prou.</hi> 22.1.</item>
+                  <item>Precious ointments. <hi>Eccl.</hi> 7.3.</item>
+                  <item>Length of dayes. <hi>Eccl.</hi> 41.13.</item>
+               </list>
+            </item>
+            <item>Consisteth in learned and laudable actions. included or compassed by
+<list>
+                  <item>Dexteritie</item>
+                  <item>Actiuitie</item>
+                  <item>Integritie</item>
+                  <item>Abilitie</item>
+               </list> or such like.</item>
+            <item>Must bée had in great regard for
+<list>
+                  <item>the effectes that follow: it maketh
+<list>
+                        <item>the Name renowned</item>
+                        <item>the Memoriall blessed</item>
+                     </list>
+                     <hi>Pro.</hi> 10.</item>
+                  <item>the preuenting of infamy and impiety that procure it. <hi>Deut.</hi> 28.37.</item>
+               </list>
+            </item>
+            <item>May be ble<g ref="char:EOLhyphen"/>mished by
+<list>
+                  <item>Many presumptions of euill and yet innocent. <hi>Gen.</hi> 39.12.</item>
+                  <item>Meanes of flanderous and malicious reportes. <hi>Nehem.</hi> 6.13.</item>
+                  <item>Occasion of ign<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minious and notorious crimes and actes.</item>
+               </list>
+            </item>
+         </list>
+      </item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

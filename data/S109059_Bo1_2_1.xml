@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>CAROLO STOVRTONO iuueni de nobili genere nato salutem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1547</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109059_Bo1_2_1</idno>
+           <idno type="DLPS">A18992</idno>
+           <idno type="STC">5409</idno>
+           <idno type="ESTC">S109059</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>CAROLO STOVRTONO iuueni de nobili genere nato salutem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>De mortuorum resurrectione, &amp; extremo iuditio in quatuor linguis succincte conscriptum opusculu [m] . Ioanne Clerco autore. cui, ut studiosa iuuenta facilius peregrinarum linguarum comprehenderet mysteria, recenter accessere eiusdem autoris Italicæ &amp; Gallicæ verborum coniugationes</title>
+                 <author>Clerk, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1547</date>
+                 <publisher>Herford (Hereford, Hertford), John.</publisher>
+                            <publisher>Toy (Toeus), Robert</publisher>
+                        </imprint>
+                 <extent>84 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>CAROLO STOVRTONO iuueni de nobili genere nato salutem.</head>
+   <p>ACcipe Italicorum &amp; Gallicorum, quas tanto<g ref="char:EOLhyphen"/>pere defyderasti uerborum coniugationes: in struent ceu pe<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. quādam, de modis, tempo<g ref="char:EOLunhyphen"/>ribus et personis: mandes memoriae, benequ<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> frue <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>e: collati a deo talenti reddit Clercus rationem.</p>
+</div>
+        </body>
+  </text>
+</TEI>

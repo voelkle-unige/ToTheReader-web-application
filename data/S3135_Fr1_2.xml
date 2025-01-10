@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ADVERTISMENT.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3135_Fr1_2</idno>
+           <idno type="DLPS">A04442</idno>
+           <idno type="STC">14570.3</idno>
+           <idno type="ESTC">S3135</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ADVERTISMENT.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine deuout and godly petitions. called the Iesus psalter</title>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace/>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>48 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="instructions">
+   <pb n="2" facs="2"/>
+   <head>ADVERTISMENT.</head>
+   <p>BEGINNE your Psalter with deuout kneeling, or at least<g ref="char:EOLhyphen"/>wise with bowing to Iesus, and say thus as followeth:</p>
+   <p>
+      <q>In the name of <hi>IESVS</hi> let euerie knee bowe, of the celestialls, terrestrials, and infernals: and euerie tongue con<g ref="char:EOLunhyphen"/>fesse, that our Lord Iesus Christ, is in the glory of God the Father.</q>
+   </p>
+   <p>And at the end, either of the first Fiue, Ten, or last Fifteene, say:</p>
+   <p>
+      <q>Our Lord Iesus Christ humbled himselfe, being made obedient vnto death: euen the death of the Crosse.</q>
+   </p>
+   <p>Pater noster. Aue Maria.</p>
+</div>
+        </body>
+  </text>
+</TEI>

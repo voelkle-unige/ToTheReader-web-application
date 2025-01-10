@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Haine, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113022_Fr1_2</idno>
+           <idno type="DLPS">A05510</idno>
+           <idno type="STC">15633.6</idno>
+           <idno type="ESTC">S113022</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Haine, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Lillies rules construed : wherunto are added Tho. Robertsons Heteroclites, the Latine Syntaxis, and Qui mihi</title>
+                 <author>Lily, William</author>
+                 <imprint>
+                    <publisher>Norton, Bonham, and Assignees</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>108 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Long since (gentle Reader) following the example of diverse learned men, who had laboured much in this kind, construed, and being thereunto im<g ref="char:EOLhyphen"/>portuned by many, published <hi>Lillies</hi> rules of the genders of Nounes, the preterperfect tenses and supines of verbes: his Schoole-precepts, commonly called <hi>(Qui mihi) Thomas Robersons</hi> Treatise of the Heteroclites, and the Latine Syntaxis. Which I did, being vpon long and suffici<g ref="char:EOLhyphen"/>ent experience well assured, that a good part of the Masters daily paines, and the Scholars fruitlesse dili<g ref="char:EOLhyphen"/>gence, being hereby remoued, the one may, to the great content of his Parents and Master, euen by him<g ref="char:EOLhyphen"/>selfe with better courage and greater profit, learne his lesson in farre shorter time, and keepe it more faith<g ref="char:EOLhyphen"/>fully in memorie, than he did before: and the other may cheerefully with more comfort and greater credit than he was accustomed, teach more necessary things, as the declining of Nounes, conjugating of Verbes, and the meaning of the Rules, with a manifold vse of the examples, chusing rather the practice than the teaching of the Art. If by this easie meane, I any wayes helpe or encourage thee, I shall be very glad: if not, yet haue I the hire and the glory I sought for, namely, that I haue endeauoured to stand thee in stead the best that I could. Farewell.</p>
+   <closer>
+      <signed>Thine in the Lord, WILLIAM HAINE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

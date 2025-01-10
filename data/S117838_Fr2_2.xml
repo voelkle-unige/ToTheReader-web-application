@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HONOVRABLE Robert Earle of Warwick.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117838_Fr2_2</idno>
+           <idno type="DLPS">A97361</idno>
+           <idno type="STC">23311</idno>
+           <idno type="ESTC">S117838</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HONOVRABLE Robert Earle of Warwick.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Seaven sermons : preached vpon severall occasions. Viz. 1 The Christians prayer for the Churches peace. One sermon on Psal. 122.6. 2 One sermon on 1 Sam. 2.30 3 Baruchs sore gently opened; Gods salve skilfully applyed. In two sermons on Jeremy 45.5. 4 The araignement of coveteousnesse. In three sermons on Luke 12.15. By John Stoughton, Doctor in Divinitie, late of Aldermanburie, London</title>
+                 <author>Stoughton, John</author>
+                 <imprint>
+                    <publisher>Dawson, John 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <distributor>Bellamy, John</distributor>
+                            <distributor>Smith, Ralph</distributor>
+                        </imprint>
+                 <extent>12, 37, 5, 49-76, 8, 55, 1, 8, 68 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>TO THE RIGHT HONOVRABLE <hi>Robert</hi> Earle of <hi>Warwick<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">T</seg>HE widow of the deceased Author in Testimony of her humble and thankefull acknowledgement of the respect shewed to her Dearest Husband, presenteth these ensuing Sermons.</p>
+</div>
+        </body>
+  </text>
+</TEI>

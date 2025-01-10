@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Optimae spei Iuveni</title>
+           <author>Nabbes, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113046_Fr1_2</idno>
+           <idno type="DLPS">A07976</idno>
+           <idno type="STC">18343</idno>
+           <idno type="ESTC">S113046</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Optimae spei Iuveni</title>
+                 <author>Nabbes, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The springs glorie : Vindicating love by temperance against the tenent, sine Cerere &amp; Baccho friget Venus. Moralized in a maske. With other poems, epigrams, elegies, and epithalamiums of the authors Thomas Nabbes</title>
+                 <author>Nabbes, Thomas</author>
+                 <imprint>
+                    <distributor>Greene, Charles</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Dawson, John 2.</publisher>
+                            <publisher>Fussell, Nicholas</publisher>
+                        </imprint>
+                 <extent>56 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>Optimae spei Iuveni</head>
+   <p>Domino <hi>BENEDICTO ROBERTS,</hi> filio natu minori <hi>NICOLAI ROBERTS</hi> Armigeri, amoris ergò, &amp; observantiae erga parentes, sequentia poemata humillimè dedicat</p>
+   <closer>
+      <signed>Thomas Nabbes.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

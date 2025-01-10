@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111891_Ba1_1</idno>
+           <idno type="DLPS">A06736</idno>
+           <idno type="STC">17181</idno>
+           <idno type="ESTC">S111891</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Fuga sæculi. Or The holy hatred of the world : Conteyning the liues of 17. holy confessours of Christ, selected out of sundry authors. Written in Italian by the R. Fa. Iohn-Peter Maffæus of the Society of Iesus. And translated into English by H.H</title>
+                 <author>Maffei, Giovanni Pietro</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>18, 352, 169-383, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <opener>
+      <salute>Gentle Reader.</salute>
+   </opener>
+   <p>THE faults which haue escaped in printing (by reason of the vncorrected copy, and im<g ref="char:EOLhyphen"/>ploying of strangers not skillfull in our language) I hope are not very many, nor yet such, as may not easily be corrected, by thy iudicious Reading.</p>
+</div>
+        </body>
+  </text>
+</TEI>

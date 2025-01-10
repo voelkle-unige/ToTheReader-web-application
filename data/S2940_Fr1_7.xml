@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Benedetti, Petro</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2940_Fr1_7</idno>
+           <idno type="DLPS">A68837</idno>
+           <idno type="STC">24627a.8</idno>
+           <idno type="ESTC">S2940</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Benedetti, Petro</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Amorum emblemata : figuris Æneis incisa studio Othonis Væni Batavo-Lugdunensis = Emblemes of love, with verses in Latin, English and Italian</title>
+                 <author>Veen, Otto van</author>
+                 <imprint>
+                    <pubPlace/>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>16, 248 pages, illustrations</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="ita" type="encomium">
+   <pb facs="5"/>
+   <lg>
+      <l>GEnera il genitor' vn suo simile,</l>
+      <l>D'arme, e di giostre parla il caualliero,</l>
+      <l>Il pastorel de campi, e del ouile,</l>
+      <l>E de mari, e de venti il buon nocchiero:</l>
+      <l>Tu Venius noua Venere gentile</l>
+      <l>Coui parti d' Amor, sei padre vero,</l>
+      <l>E rinouando i giouenili errori</l>
+      <l>l' Animo stanco alleggi &amp; aualori.</l>
+   </lg>
+   <lg>
+      <l>Come no sempre vdia l'hostili squille</l>
+      <l>Che vn tempo tenne anchor l'orecchie sorde,</l>
+      <l>Ne cinse spada il generoso Achille</l>
+      <l>Tra l'armi greche sol di sangue ingorde,</l>
+      <l>Ma per sfogar d' Amor l'alte fauille</l>
+      <l>De la cetra tocco le molli corde:</l>
+      <l>Cosi tu trà li graui tuoi lauori</l>
+      <l>Per respirar rimembri i primi ardori.</l>
+   </lg>
+   <signed>Petro Benedetti</signed>
+</div>
+        </body>
+  </text>
+</TEI>

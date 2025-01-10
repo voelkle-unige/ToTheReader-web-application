@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Letter]</title>
+           <author>Licentiatus, V.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113354_Ba1_3</idno>
+           <idno type="DLPS">B14172</idno>
+           <idno type="STC">14296.5</idno>
+           <idno type="ESTC">S113354</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Letter]</title>
+                 <author>Licentiatus, V.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Manuductions to the pallace of trueth by F.B. Obseruant</title>
+                 <author>Jackson, Bonaventure</author>
+                 <imprint>
+                    <publisher>Jaye (Jaey), Henry</publisher>
+                    <pubPlace>Belgium--Mechelen</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>16, 139, 138-139, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="letter">
+   <pb facs="83"/>
+   <p>Tantum abest, vt in hoc Tractatu reperia<g ref="char:EOLhyphen"/>tur aliquid sanae fidei, aut morum Regulae contrarium, vt potiùs quae sit ipsa viua fidei Regula, morumque op<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ima Magistra velut Indice, luculentè prodat ac studio<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>è delineet.</p>
+   <closer>
+      <signed>Ita censeo, ROBERTVS PETTVS, Sac. Theol. ac I. V. Licentiatus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

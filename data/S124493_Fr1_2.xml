@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In laudem implaudim.</title>
+           <author>Freeman, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124493_Fr1_2</idno>
+           <idno type="DLPS">B07984</idno>
+           <idno type="STC">19933.5</idno>
+           <idno type="ESTC">S124493</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In laudem implaudim.</title>
+                 <author>Freeman, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A pil to purge melancholie: or, a preprative to a purgation: or, topping, copping, and capping : take either or whether: or, mash them, and squash them, and dash them, and diddle come derrie come daw them, all together</title>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="mock_license">
+   <pb facs="2"/>
+   <head>In laudem implaudim.</head>
+   <l>This worthy Worke may printed bee,</l>
+   <l>For ought therein that I can see:</l>
+   <l>For the gaue Author nothing sayth</l>
+   <l>Contrary to the Catholique faith;</l>
+   <l>Nor ought therein that doth agree</l>
+   <l>With learning, wit, or good moralitie.</l>
+   <closer>
+      <signed>His od vaine.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Anagramma nominis Autoris, à D. Du. Tr. inuentum.</title>
+           <author>Tr., D. Du.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113757_Ba1_1</idno>
+           <idno type="DLPS">A68538</idno>
+           <idno type="STC">18986</idno>
+           <idno type="ESTC">S113757</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Anagramma nominis Autoris, à D. Du. Tr. inuentum.</title>
+                 <author>Tr., D. Du.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Epigrammatum Ioannis Owen Cambro-Britanni libri tres : Ad illustrissinam [sic] D. Mariam Neuille, Comitis Dorcestriæ filiam, patronam suam</title>
+                 <author>Owen, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Legat, John 2.</publisher>
+                            <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>220 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epilogue">
+   <pb facs="40"/>
+   <head>Anagramma nominis Autoris, à D. Du. Tr. inuentum.</head>
+   <lg>
+      <l>Ioannes Audoenus.</l>
+      <l>Ad annos Noe viues.</l>
+   </lg>
+   <lg>
+      <head>De eodem, Distichon.</head>
+      <l>Nominis hoc Anagramma tui de te puto falsūs</l>
+      <l>Verum de libris auguror esse tuis.</l>
+      <closer>
+         <signed>D. Du. Tr. Med.</signed>
+      </closer>
+   </lg>
+   <lg>
+      <head>De eodem.</head>
+      <l>De Te déque libro verū est Anagramma: quid obstet?</l>
+      <l>Túque facis librum viuere, Téque liber.</l>
+      <closer>
+         <signed>Ioannes Rosse. I. C.</signed>
+      </closer>
+   </lg>
+   <pb facs="41"/>
+   <pb facs="41"/>
+</div>
+        </body>
+  </text>
+</TEI>

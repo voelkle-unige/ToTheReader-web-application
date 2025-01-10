@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103852_Fr1_3</idno>
+           <idno type="DLPS">B13895</idno>
+           <idno type="STC">12775.5</idno>
+           <idno type="ESTC">S103852</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Epigrams both pleasant and serious, written by that all-worthy knight, Sir Iohn Harrington: and neuer before printed</title>
+                 <author>Harington, John, Sir</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <distributor>Budge, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hy should I pen the praises of the Au<g ref="char:EOLhyphen"/>thor? Is not his name a sufficient Apology? His mad <hi>Orlando</hi> will fight for him, and with blowes of rent-vp Oakes, beat downe all opi<g ref="char:EOLhyphen"/>nions that dare take armes against the fairenesse of his Fame. If <hi>Or<g ref="char:EOLhyphen"/>lando</hi> neither would, nor could defend him: yet his acknow<g ref="char:EOLhyphen"/>ledged learning would inuite some well tempered spirit, to tell the world that his worth is not buried with his body. What the graue could containe, it now hath: his immortall part it could not enclose; that is returned to a larger place, from whence at first it set forth a Pilgrime: Yet before it fled hence, it recorded in the memories of men, the vertues it was indued with, and the actions which those vertues brought forth, which the last age shall not forget. As for these ensuing Epigrams, I will say nothing, but that they say enough for themselues. Some one of them it may be, will not please some one man. What wonder? seuerall pallates require diuersity of sauces. One or other they will all please, and therefore my confidence chargeth me to write not one word more: but Adieu.</p>
+</div>
+        </body>
+  </text>
+</TEI>

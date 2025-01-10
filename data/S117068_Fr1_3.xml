@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In D. Davidis Bruni Calligraphiam novam.</title>
+           <author>Carfordivs, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117068_Fr1_3</idno>
+           <idno type="DLPS">A17026</idno>
+           <idno type="STC">3904</idno>
+           <idno type="ESTC">S117068</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In D. Davidis Bruni Calligraphiam novam.</title>
+                 <author>Carfordivs, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The introduction to the true understanding of the whole arte of expedition in teaching to write : Intermixed with rare discourses of other matters, to shew the possibilitie of skill in teaching, and probabilitie of successe in learning, to write in 6. hours. Which tending all to one end, doe serve for two uses. 1. If authors doe excell others in their owne artes, why may not this author excell others in his arte. 2. For removing a vulgare opinion against his native countrey of Scotland, he sheweth that it hath moe excellent prerogatives than any other Kingdome. Whereby it will rather follow, that a Scotishman is so much the more able to prosecute whatsoever hee undertaketh, and therefore so much the more to bee respected, by how so much he is more ingenuous than one of another nation</title>
+                 <author>Browne, David</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London ; Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1638</date>
+                 <publisher>Harper, Thomas.</publisher>
+                            <publisher>Wreittoun (Scribonius), John</publisher>
+                        </imprint>
+                 <extent>42 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="3"/>
+   <head>In D. Davidis Bruni Calligraphiam novam.</head>
+   <lg>
+      <l>ILle <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> sonet quimentis acumine fretus</l>
+      <l>Protulit, in tenebris quae latuere prius</l>
+      <l>At si quis nostros artem quae cedat in usûs</l>
+      <l>Invenit, inventum perficit at que suum;</l>
+      <l>Ille quidem plenis <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> buccis</l>
+      <l>Personet, inventas dum sibi prodit opes.</l>
+      <l>Non has Assyrius laudes, aut Helladis ora</l>
+      <l>Quos dedit, aut claros terra latina Sophos;</l>
+      <l>Non sibi Niliaci tribuent: Nam postuma semper</l>
+      <l>Aetas excoluit quod rude prima dedit.</l>
+      <l>At modo scribendi leges dum tradit &amp; artem,</l>
+      <l>Haec sibi qui merito vendicet unus erit.</l>
+   </lg>
+   <closer>
+      <signed>THO. CARFORDIVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

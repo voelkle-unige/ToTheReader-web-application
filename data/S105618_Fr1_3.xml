@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105618_Fr1_3</idno>
+           <idno type="DLPS">A00946</idno>
+           <idno type="STC">11055</idno>
+           <idno type="ESTC">S105618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Licia, or Poemes of loue : in honour of the admirable and singular vertues of his lady, to the imitation of the best Latin poets, and others. Whereunto is added the rising to the crowne of Richard the third</title>
+                 <author>Fletcher, Giles</author>
+                 <imprint>
+                    <publisher>Legat (Legate, Legatt), John 1</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>10, 41, 1, 42-69, 3, 70-80, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Ad Lectorem.</head>
+   <lg>
+      <l>NON Convitia, nec latrationes,</l>
+      <l>Nec Ronchos timeo, Calumniasvè,</l>
+      <l>Nec ullos obelos severiores.</l>
+      <l>Non quodjudicio meo Poëta</l>
+      <l>Sim tantus, nihil ut queat reprehendi:</l>
+      <l>Sed quodjudicio meo Poëta</l>
+      <l>Sim tam rediculus, parùm{que} doctus,</l>
+      <l>Vt nullum fore judicem eruditum,</l>
+      <l>Meos carpere qui velit labores:</l>
+      <l>Nam quis Aethiopem velit lavare?</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

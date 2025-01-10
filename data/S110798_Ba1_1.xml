@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Prynter to the Reader.</title>
+           <author>S., I. C. I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110798_Ba1_1</idno>
+           <idno type="DLPS">A18079</idno>
+           <idno type="STC">4713</idno>
+           <idno type="ESTC">S110798</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Prynter to the Reader.</title>
+                 <author>S., I. C. I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A second admonition to the parliament</title>
+                 <imprint>
+                    <publisher>Stroud, John</publisher>
+                    <pubPlace/>
+                    <date>1572</date>
+                 </imprint>
+                 <extent>8, 64 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="37"/>
+   <p>CERTAINE Articles, collected and taken (as it is thought) by the Byshops our of a litle boke entituled an admo<g ref="char:EOLhyphen"/>nition to the Parliament / wyth an Answere to the same. Containing a confirmation of the sayde Booke in shorte notes.</p>
+   <bibl>Esay. 5. 20.</bibl>
+   <q>Woe be vnto them that speake good of euill / and euill of good / whych put darknesse for light / and light for darknesse / that putte bytter for sweete and sweete for sower.</q>
+   <lg>
+      <head>The Prynter to the Reader.</head>
+      <l>Thys worke is fynished thankes be to God / </l>
+      <l>And he only wil keepe vs from the searchers rod.</l>
+      <l>And though master Day and Toy watch &amp; warde / </l>
+      <l>We hope the liuing God is our sauegarde.</l>
+      <l>Let them seeke / loke / and doe now what they can / </l>
+      <l>It is but inuentions / and pollicies of man.</l>
+      <l>But you wil maruel where it was fynished / </l>
+      <l>And you shal know (perchance) when domes day is ended / </l>
+   </lg>
+   <lg>
+      <l>Imprinted we know where / and whan / </l>
+      <l>Iudge you the place and you can.</l>
+   </lg>
+   <closer>
+      <signed>I. C. I. S</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

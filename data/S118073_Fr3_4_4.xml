@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aux Anglois &amp; Allemans.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118073_Fr3_4_4</idno>
+           <idno type="DLPS">A13278</idno>
+           <idno type="STC">23581</idno>
+           <idno type="ESTC">S118073</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aux Anglois &amp; Allemans.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The parliament of vertues royal (summoned in France; but assembled in England) for nomination, creation, and confirmation of the most excellent prince Panaretus a præsage of Pr. Dolphin: a pourtrait of Pr. - Henry: a promise of Pr. Charles. Translated &amp; dedicated to His Highnes, by Iosuah Syluester</title>
+                 <author>Sylvester, Josuah</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>8, 308 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Aux Anglois &amp; Allemans.</head>
+   <lg>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>insi, <hi>Lions</hi> ANGLOIS &amp; <hi>Aigles</hi> d'ALLEMAGNE</l>
+      <l>(Triumphants, pour <hi>la Foy,</hi> de ROME &amp; de l'ESPAGN</l>
+      <l>Terrassent coup a coup les <hi>Lunes</hi> du TVRQVOIS,</l>
+      <l>Pour planter tour par tout les <hi>Lauriers</hi> de la CROIX.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

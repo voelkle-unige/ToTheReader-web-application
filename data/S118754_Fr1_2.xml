@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Regem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118754_Fr1_2</idno>
+           <idno type="DLPS">A02903</idno>
+           <idno type="STC">13047</idno>
+           <idno type="ESTC">S118754</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Regem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The faire Æthiopian : Dedicated to the King and Queene. By their Maiesties most humble subiect and seruant, William L'isle</title>
+                 <author>Lisle, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Haviland, John.</publisher>
+                            <publisher>Lisle, William</publisher>
+                        </imprint>
+                 <extent>4, 179, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <lg xml:lang="lat">
+      <head>Ad Regem.</head>
+      <l>Prospera conservent Carolum tibi Fata Minorem;</l>
+      <l>Tu Britonum Carolus denique Magnus eris.</l>
+   </lg>
+   <lg xml:lang="fre">
+      <head>A la Reine.</head>
+      <l>Tant des perfections Ie Chanteray sans cesse;</l>
+      <l>Ou le Roy est Patron, la Reine est Patronesse.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

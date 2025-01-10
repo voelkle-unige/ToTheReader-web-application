@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102598_Fr1_2</idno>
+           <idno type="DLPS">A12120</idno>
+           <idno type="STC">22427</idno>
+           <idno type="ESTC">S102598</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The countryman vvith his houshold : Being a familiar conference, concerning faith towards God, and good workes before men; fitted for the capacitie of the meanest. By R.S. preacher of the word at Arley. See the contents more particularly before the booke</title>
+                 <author>Sherrard, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Bartlet, John.</publisher>
+                            <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Man, Jonas (Jonah)</publisher>
+                        </imprint>
+                 <extent>14, 256 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE RIGHT HONORABLE, SIR WALTER ASTON, KNIGHT OF THE BATHE &amp; BARONET, AT THIS PRESENT LORD AMBASSADOR FOR HIS MAIESTIE TO THE KING OF SPAINE.</p>
+   <p>
+      <hi>AND</hi> TO THE LADY <hi>GERTRVDE,</hi> HIS MOST VERTVOVS AND BE<g ref="char:EOLhyphen"/>LOVED WIFE.</p>
+   <p>
+      <hi>R. S.</hi> CONSECRATETH THESE HIS MEDITATI<g ref="char:EOLhyphen"/>ONS, TOGITHER WITH HIS BEST WISHES AND SERVICES.</p>
+</div>
+        </body>
+  </text>
+</TEI>

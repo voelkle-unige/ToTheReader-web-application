@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE STVDENTS OF C. C. COL. IN OXFORD.</title>
+           <author>James, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106570_Fr1_2</idno>
+           <idno type="DLPS">B14201</idno>
+           <idno type="STC">14442</idno>
+           <idno type="ESTC">S106570</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE STVDENTS OF C. C. COL. IN OXFORD.</title>
+                 <author>James, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon concerning the times of receiving the sacrament; and of mutuall forgivenesse : Delivered in C.C.C. at the election of a president. By Richard Iames B. of Divinitie</title>
+                 <author>James, Richard</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>50 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>TO THE STVDENTS OF C. C. COL. IN OXFORD.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">D</seg>EARE friends,</salute>
+   </opener>
+   <p>to the most of whom I have e<g ref="char:EOLhyphen"/>ver been loving and be<g ref="char:EOLhyphen"/>loved; you that have seen my cleere open con<g ref="char:EOLhyphen"/>versation will know that as I doe not wil<g ref="char:EOLhyphen"/>lingly doe any displeasure or injurie to a<g ref="char:EOLhyphen"/>ny man either in name or fortune so with out over-mighty occasion I have no pati<g ref="char:EOLhyphen"/>ence to suffer them. And this quality of mine the reader also will easiely gather from the trouble and disturbance of my resolution in this briefe treatise. How<g ref="char:EOLhyphen"/>soever
+<pb facs="4"/>both hee and you shall doe kindly to favour my free nature. So shall J have courage, if not in great, at least in this meaner retayling way, to deliver the fruites of my industry and observation to the world's use, and rest as J would you should, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>,</p>
+   <closer>
+      <signed>Your most affectionate friend and servant <hi>RICHARD IAMES.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

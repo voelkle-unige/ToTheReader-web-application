@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧The Printer to the
+Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109719_Fr1_2</idno>
+           <idno type="DLPS">A06589</idno>
+           <idno type="STC">17050</idno>
+           <idno type="ESTC">S109719</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧The Printer to the
+Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Endimion, the man in the moone : Playd before the Queenes Maiestie at Greenewich on Candlemas day at night, by the Chyldren of Paules</title>
+                 <author>Lyly, John</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <distributor>Broome (Brome), Joan</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>74 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>❧The Printer to the
+Reader.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Ince the Plaies in Paules were
+dissolued, there are certaine
+Commedies come to my
+handes by chaunce, vvhich
+were presented before her Maiestie at se<g ref="char:EOLhyphen"/>uerall
+times by the children of Paules. This
+is the first, and if in any place it shall dys<g ref="char:EOLhyphen"/>please,
+I will take more paines to perfect the
+next. I referre it to thy indifferent iudge<g ref="char:EOLhyphen"/>ment
+to peruse, whom I woulde willinglie
+please. And if this may passe with thy good
+lyking, I will then goe forwarde to publish
+the rest. In the meane time, let this haue
+thy good worde for my beuere, courage<g ref="char:EOLhyphen"/>ment.</p>
+   <closer>Farewell</closer>
+</div>
+        </body>
+  </text>
+</TEI>

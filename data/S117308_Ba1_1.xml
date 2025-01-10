@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117308_Ba1_1</idno>
+           <idno type="DLPS">A12128</idno>
+           <idno type="STC">22436</idno>
+           <idno type="ESTC">S117308</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The bird in a cage : A comedie. As it hath beene presented at the Phonix in Drury-Lane. The author Iames Shirley, servant to Her Majesty</title>
+                 <author>Shirley, James</author>
+                 <imprint>
+                    <distributor>Cooke, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="38"/>
+   <head>The <hi>Printer</hi> to the <hi>Reader.</hi>
+   </head>
+   <p>GEntle <hi>Reader,</hi> let me desire thy fauorable correction of these places. <hi>viz.</hi>
+   </p>
+   <p>Act. 1. Page the fifth, for <hi>Ferrara</hi> reade <hi>Florence.</hi> Page the tenth leaue, out these words. <hi>Yet it shall be vnder</hi> 20. <hi>thousand Crownes, I will not leaue the pawne for twice so much.</hi>
+   </p>
+   <p>Act. 4. in a Song for (<hi>two invisible</hi>) reade (<hi>two visi<g ref="char:EOLhyphen"/>ble</hi> many other Errors, (though for the most part literall,) thou shalt meete, which thou canst not with safetie of thy owne, interpret a defect in the Authors Iudgment, since all bookes are subiect to these misfortunes.</p>
+   <closer>Vale et mitius interpretare.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

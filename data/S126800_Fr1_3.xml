@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S126800_Fr1_3</idno>
+           <idno type="DLPS">A07313</idno>
+           <idno type="STC">17701</idno>
+           <idno type="ESTC">S126800</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The laudable life, and deplorable death, of our late peerlesse Prince Henry. Briefly represented : Together, with some other poemes, in honor both of our most gracious soueraigne King Iames his auspicious entrie to this crowne, and also of his most hopefull children, Prince Charles and Princesse Elizabeths happy entrie into this world. By I.M. Master of Artes</title>
+                 <author>Maxwell, James</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Pavier, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <l>Lo heer's the Pattern of Prince <hi>HENRIES</hi> parts</l>
+   <l>Of <hi>HENRIES</hi> foure the faire Epitomie,</l>
+   <l>Learn'd like the <hi>First;</hi> stout, toward, th'hope of hearts,</l>
+   <l>Like to the <hi>Fi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>t</hi> once cheife of Chiualrie:</l>
+   <l>Like to the <hi>Sixt,</hi> deuoute, milde, innocent,</l>
+   <l>Like to the <hi>Seau'ntn,</hi> wise, thriftie, prouident.</l>
+</div>
+        </body>
+  </text>
+</TEI>

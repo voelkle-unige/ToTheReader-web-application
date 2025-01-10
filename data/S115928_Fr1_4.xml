@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Richards, Nathanael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115928_Fr1_4</idno>
+           <idno type="DLPS">A10732</idno>
+           <idno type="STC">21010</idno>
+           <idno type="ESTC">S115928</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Richards, Nathanael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The celestiall publican : A sacred poem: liuely describing the birth, progresse, bloudy passion, and glorious resurrection of our Sauiour. The spirituall sea-fight. The mischieuous deceites of the world, the flesh, the vicious courtier. The Iesuite. The Diuell. Seauen seuerall poems, with sundry epitaphs and anagrams. By Nathanael Richards Gent</title>
+                 <author>Richards, Nathanael</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Michell, Roger</publisher>
+                        </imprint>
+                 <extent>176 pages, illustrations (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <lg>
+      <l>Here's no <hi>Luxurious Ʋerse</hi> to please the Eares</l>
+      <l>Of Whorish Mindes (stranger to blessed Teares.)</l>
+      <l>No Court-Confounding Complement, nor stile</l>
+      <l>Offeigned Poesie, nor base Flatties Guile:</l>
+      <l>Soule-suffering Griefe for sinne, I here expresse;</l>
+      <l>Wishing to All, Immortall happinesse.</l>
+   </lg>
+   <lg>
+      <l>True Penitence gaines Heau'n; throwes Sinners downe</l>
+      <l>To raise them vp to an <hi>Immortall Crowne.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>Deuoted to Your Vertues,</hi> NATHANAEL RICHARDS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

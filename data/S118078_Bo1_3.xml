@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Faults escaped.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118078_Bo1_3</idno>
+           <idno type="DLPS">A14770</idno>
+           <idno type="STC">25067</idno>
+           <idno type="ESTC">S118078</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Faults escaped.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tvvo histories of Ireland : The one written by Edmund Campion, the other by Meredith Hanmer Dr of Divinity</title>
+                 <author>Campion, Edmund, saint</author>
+                 <imprint>
+                    <pubPlace>Ireland--Dublin</pubPlace>
+                    <date>1633</date>
+                 <publisher>Harper, Thomas.</publisher>
+                            <publisher>Lownes, Matthew.</publisher>
+                            <publisher>Stationers’ Society, Dublin</publisher>
+                        </imprint>
+                 <extent>12, 138, 2, 219, 221-223, 2, 8, 127, 9 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="78"/>
+   <head>Faults escaped.</head>
+   <p>
+      <hi>PAge</hi> 2. <hi>line</hi> 19. countie· p. 6. l. 24. Inchequin. l. 26. <hi>de Burgo.</hi> l. 28. <hi>Vlick.</hi> 29. Thomond. &amp; 34. Clancar. p. 7. l. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>7. Killeene. l. 32. Donsany. &amp; 35. Beare-haven. p. 8. l. 4. Brune. l. 19. Doceter or D'exeter. l. 22. Inchequin. &amp; l. 29. Thomastowne. p. 12. l. 12. Hiberus▪ <hi>p.</hi> 21. <hi>in the <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>argons for Dom▪ reade, mundi.</hi> p. 22. l. 17. monarchy. p. 30. l. 25. <hi>after purpose, reade,</hi> our. p. 38. l. 36. <hi>for Mounster r.</hi> Vlster. p. 46. l. 33. <hi>after Clerke, adde,</hi> astonished. p. 61. l. 12. extreame<g ref="char:EOLhyphen"/>ly. p. 65. l 7. coadiutors. l. 30. <hi>Alde<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>m. p.</hi> 77. l. 13. <hi>after Knight, adde,</hi> 10. p. 82. l. 15. <hi>Birminghame<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</hi> p. 84. l. 2. <hi>for Moun<g ref="char:EOLhyphen"/>ster r. Leinster.</hi> l. 3. <hi>O-Tooles, O-Birnes,</hi> l. 37. <hi>Maupas.</hi> p. 85. l. 11. <hi>Bignore.</hi> p. 87. <hi>in the margent,</hi> 1329. p. 90. l. 9. <hi>after Arch<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>r, adde,</hi> Prior. l. 12. <hi>Kenwrick.</hi> p. 93. <hi>in marg.</hi> l. 2. 1399. p. 96. l. 32. <hi>prapofit<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>a.</hi> p. 101. l. 5. least. p. 105. l. 21. <hi>crosse out the first</hi> and. p. 118. l. 15. <hi>Rowks.</hi> p. 123. l. 8. <hi>O Connor,</hi> p. 136. l. 9. cheque▪ rolles. <hi>The lesser faults are as easily a<g ref="char:EOLhyphen"/>mended as found out by the Reader.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

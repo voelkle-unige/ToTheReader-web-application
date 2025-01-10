@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1573</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117761_Ba3_4</idno>
+           <idno type="DLPS">A68831</idno>
+           <idno type="STC">24436</idno>
+           <idno type="ESTC">S117761</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The vvhole workes of W. Tyndall, Iohn Frith, and Doct. Barnes, three worthy martyrs, and principall teachers of this Churche of England : collected and compiled in one tome togither, beyng before scattered, [and] now in print here exhibited to the Church. To the prayse of God, and profite of all good Christian readers</title>
+                 <author>Tyndale, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1573</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>Day, John 1.</publisher>
+                            <publisher>Stationers’ Company, London</publisher>
+                        </imprint>
+                 <extent>14, 478, 20, 172, 12, 183-376, 4 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>How light is chaffe of Popish toyes, if thou desire to trye,</l>
+      <l>Loe Iustice holdes true beame without respect of partiall eye:</l>
+      <l>One ballance holdes Gods holy word, and on the other parte,</l>
+      <l>Is layde the dregs of Antichrist, deuisde by Popish arte:</l>
+      <l>Let Friers and Nunnes and baldpate Priestes, with triple crowne of Pope,</l>
+      <l>The Cardinals hatt, and deuill him selfe, by force plucke downe the rope:</l>
+      <l>Bryng bell, booke, candle, crosse, &amp; beades, and mitred Basan bull,</l>
+      <l>Bryng buls of leade and Popes Decrees, the ballance downe to pull:</l>
+      <l>Yet shall these tares and filthy dregs, inuented by mans brayne,</l>
+      <l>Through force of Gods most mighty word, be foūd both light and vayne.</l>
+   </lg>
+   <epigraph>
+      <q>
+         <hi>Magna est veritas &amp; preualet,</hi> Great is the trueth and preuayleth.</q>
+      <bibl>3. Esdra. 4.</bibl>
+   </epigraph>
+   <pb facs="448"/>
+</div>
+        </body>
+  </text>
+</TEI>

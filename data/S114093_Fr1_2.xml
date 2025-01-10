@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right worshipfull the Deane and Canons of the Cathedrall Church of Sarum, his very good Patrons.</title>
+           <author>Barker, P.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114093_Fr1_2</idno>
+           <idno type="DLPS">A04112</idno>
+           <idno type="STC">1425</idno>
+           <idno type="ESTC">S114093</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right worshipfull the Deane and Canons of the Cathedrall Church of Sarum, his very good Patrons.</title>
+                 <author>Barker, P.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A iudicious and painefull exposition vpon the ten Commandements : wherein the text is opened, questions and doubts are resolued, errours confuted, and sundry instructions effectually applied. First deliuered in seuerall sermons, and now published to the glory of God, and for the further benefit of his church. By Peter Barker, preacher of Gods word, at Stowre Paine, in Dorsetshire</title>
+                 <author>Barker, Peter, preacher of Gods word</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Jackson, Roger</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>12, 316 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right worshipfull the Deane and Canons of the Cathedrall Church of Sarum, his very good Patrons.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Worshipfull, when contrary to my custome, I had penned these Sermons, I could not at first determine whether If I should smother them in my deske, or send them out into the common light: I should let them pe<g ref="char:EOLhyphen"/>rish as soone as they were brought forth, happily some would endite me of closenes; If I should suffer the world to take a view of them, others would condemne me for profusion; especially seeing that this age being furnished with Bookes euen to satietie and surfet, may say of the Priests, as <hi>Bezaleel</hi> of the people; <hi>The people bring too much, and more then enough for the vse of the Tabernacle, Ex. 36. 5.</hi> But while I was thus musing, at last I resolued rather to presse then to suppresse them, and now they lay open to all censures: If your Worships shal thinke I sound from my emptines, yet blame me no more then you wil the ful handed, which commonly are most sparing: herein mine owne heart sometime endited a good matter, then with the spider did I weaue my webbe out of my owne breast: at other times my tongue was the pen of other Writers; then with the Bee did I ga<g ref="char:EOLhyphen"/>ther hony out of the flowers, yet so as with the Dogge at the Riuer <hi>Ni<g ref="char:EOLhyphen"/>lus</hi> I neuer did but touch and goe, lappe, and away, and being desirous to be rather <hi>Scriptor</hi> then <hi>Exscriptor,</hi> a water-spring then a leaden spout, did in gleaning commonly, make others mine owne for forme by many alterations. If your Worsh<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ps shal marke these my poore pains with your starres, you shall encourage mee the second time to put pen to paper; but if with your spits, your dislike shall driue me to a <hi>non plus,</hi> my second Sermons shall neuer stand in white sheetes, and so referring my selfe and my labour to your charitable censures: I rest</p>
+   <closer>
+      <signed>your Worships in all duty and true affection P. Barker.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

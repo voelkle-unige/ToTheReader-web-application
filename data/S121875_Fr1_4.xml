@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Parkinson, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121875_Fr1_4</idno>
+           <idno type="DLPS">A09011</idno>
+           <idno type="STC">19302</idno>
+           <idno type="ESTC">S121875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Parkinson, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Theatrum botanicum: The theater of plants. Or, An herball of a large extent : containing therein a more ample and exact history and declaration of the physicall herbs and plants that are in other authours, encreased by the accesse of many hundreds of new, rare, and strange plants from all the parts of the world, with sundry gummes, and other physicall materials, than hath beene hitherto published by any before; and a most large demonstration of their natures and vertues. Shevving vvithall the many errors, differences, and oversights of sundry authors that have formerly written of them; and a certaine confidence, or most probable conjecture of the true and genuine herbes and plants. Distributed into sundry classes or tribes, for the more easie knowledge of the many herbes of one nature and property, with the chiefe notes of Dr. Lobel, Dr. Bonham, and others inserted therein. Collected by the many yeares travaile, industry, and experience in this subject, by Iohn Parkinson apothecary of London, and the Kings herbarist. And published by the Kings Majestyes especiall priviledge</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 1652, 1663-1755, 3 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <p>
+      <gap reason="missing" extent="1 page">
+         <desc>〈1 page missing〉</desc>
+      </gap> say unto you that by the alteration you enjoy a double benefit, first in the bulke of the Booke which if that course had beene followed, would have enlarged it well neere halfe as much more; and made it the more unweldy, and likewise the dearer and never a whit the better: Secondly, in re<g ref="char:EOLhyphen"/>compense of the time spent in looking for what you seek, you may read that which may be more helpe<g ref="char:EOLhyphen"/>full and beneficiall to you: let <hi>Momus</hi> chaps therefore be sowed up to barke no more. Among other the good uses this worke affordeth, this may be one, that it will helpe to correct the <hi>English</hi> names in all the Dictionaries to bee hereafter setforth, which have them in many ignorantly, in some contrary, in most devious, in very few true, whereby many hoping for helpe in their Dictionaries when an Herball was not at hand have beene frustrated, the blind leading the blind, which how profitable, I leave to every intelligent to consider. And lastly, although I goe not about to teach Doctors (who but little intended this practise, having enough to doe otherwayes, and yet it is as J may so say, the fundamentall part thereof, and approved by <hi>Galen</hi> in his censure of Simples, and <hi>Dioscorides</hi> Text) but to helpe their memories, and withall to shew them my judgement, that they mistake not one thing for another, or one mans plant for another, which J hope will well deserve their good liking: for the various conceites of men about Plants, is for the most part accor<g ref="char:EOLhyphen"/>ding to their knowledge in them, and hath caused such mistakings and controversie, as are to be seene in their writings Goe forth now therefore thou issue artificiall of mine, and supply the de<g ref="char:EOLhyphen"/>fect of a Naturall, to beare up thy Fathers name and memory to succeeding ages, and what in thee lyeth effect more good to thy Prince and Country then numerous of others, which often prove rather plagues then profits thereto, and feare not the face of thy fiercest foe: but say that while we live (although the course of the World is <hi>Orientem semper adorare Solem non occi<g ref="char:EOLhyphen"/>dentem</hi>) and <hi>per multa discrimina rerum tendimus in Patriam supercoelestem,</hi> if any oppose thee, or professe himselfe a Proctor for <hi>Bauhinus</hi> or any others slips, the lists shall be ready, and the controversie <hi>ex ore</hi> decided: if extinct let the judicious determine the matter. And because some may object J am somewhat too tart and quicke, my Apology to all is <hi>Amicus mihi Plato, Amicus Seneca sed magis Amica mihi veritas:</hi> Accept therefore in courte<g ref="char:EOLhyphen"/>sie of his paines that hath onely intended it for your good, and if J have eyther slipped or overslip<g ref="char:EOLhyphen"/>ped, with a gentle hand amend it; so shall he still be</p>
+   <closer>
+      <signed>
+         <hi>Thine in what he may, IOHN PARKINSON,</hi> Botanicus Regius.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

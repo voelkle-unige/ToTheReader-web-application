@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Richardus Tauernerus Britatannice pubi. S.D.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105536_Fr1_2</idno>
+           <idno type="DLPS">A68029</idno>
+           <idno type="STC">10447.5</idno>
+           <idno type="ESTC">S105536</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Richardus Tauernerus Britatannice pubi. S.D.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Flores aliquot sententiarum ex variis collecti scriptoribus. = The flowres of sencies gathered out of sundry wryters by Erasmus in Latine and Englished by Rychard Tauerner. Huic libello non male conuenient Mimi illi Publiani nuper ab eodem Richardo versi</title>
+                 <author>Erasmus, Desiderius</author>
+                 <imprint>
+                    <publisher>Copland, William</publisher>
+                    <distributor>Kele, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1550</date>
+                 </imprint>
+                 <extent>16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="2"/>
+   <head>¶ Richardus Tauernerus Britatannice pubi. S.D.</head>
+   <p>IN codo hic vobis flor<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>ntissima pubes Britannica, flores sententiarū non<g ref="char:EOLunhyphen"/>nullos (sic enim hunc libellū appellare <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> auctore sui seculi Desiderio Erasmo roterodamo <gap reason="illegible" extent="1 chunk">
+         <desc>…</desc>
+      </gap>p<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>os, et modo a nobis d<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>lucide magis <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+      <gap reason="illegible" extent="3+ letters">
+         <desc>•••…</desc>
+      </gap>ate in Anglicum sermonem versos. Quod si <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> nostras lucubratiunculas grata manu accip<gap reason="illegible" extent="2 letters">
+         <desc>••</desc>
+      </gap>e <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> grauabimini: erit {quod} vehementer gaudeam▪ <gap reason="illegible" extent="1 chunk">
+         <desc>…</desc>
+      </gap>{que} vnabquam; me pegebit, quat<gap reason="illegible" extent="3+ letters">
+         <desc>•••…</desc>
+      </gap>m <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>is obstrep<gap reason="illegible" extent="1 chunk">
+         <desc>…</desc>
+      </gap>
+      <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> in commodum vestrum subinde repuer ascer<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap> Sinautem hii flosculi videbuntur paulo mi<g ref="char:EOLhyphen"/>nutiores, aut forsitan etirant nugaciores {quam} vt in vulgus <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>dantur ({quam} {quam} he nug<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap> equātū uis minute feria ducut) animum certe meum vestri studiosissimū impro<g ref="char:EOLhyphen"/>bare haud sane poteritis Be<g ref="char:EOLunhyphen"/>ne valete.</p>
+   <closer>
+      <dateline>Ex aula regia <date>idibus Sep<g ref="char:EOLhyphen"/>tembribus. Anno. M.D.xlvii.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Carmina. ¶ Christophori Carlili ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107908_Fr1_5</idno>
+           <idno type="DLPS">B14276</idno>
+           <idno type="STC">14724a.7</idno>
+           <idno type="ESTC">S107908</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Carmina. ¶ Christophori Carlili ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The benefit of the auncient bathes of Buckstones : vvhich cureth most greeuous sicknesses, neuer before published: compiled by Iohn Iones phisition. At the Kings Mede nigh Darby. Anno salutis 1572. Seene and alowed acording to the order appointed</title>
+                 <author>Jones, John, physician</author>
+                 <imprint>
+                    <distributor>Jones, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Middleton, Henry</publisher>
+                        </imprint>
+                 <extent>8, 20, 4 leaves, 2 folded tables, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>Carmina. ¶ Christophori Carlili ad Lectorem.</head>
+   <l>DIceres phoebum genuisse Ionsum</l>
+   <l>Rupe parnasi: peperisse Cirrhae.</l>
+   <l>Aut in extremis heliconis antris Palladis aluum</l>
+   <l>Naiades nouit, dryades fauebant</l>
+   <l>Tartary nimphae, liquidae napeae</l>
+   <l>Ac mettallarum stygiae camenae Castalides{que}.</l>
+   <l>Feruidos fontes, calidas{que} thermas</l>
+   <l>Et poros terrae resecat, docet nos</l>
+   <l>Cur tot aegrotis medeantur vndae sulfure plenae.</l>
+   <l>Hunc librum legant medici baldenses</l>
+   <l>Westphali: Rhem scatebras colentes</l>
+   <l>Vnde naturas laticum tepentes Discere possint.</l>
+</div>
+        </body>
+  </text>
+</TEI>

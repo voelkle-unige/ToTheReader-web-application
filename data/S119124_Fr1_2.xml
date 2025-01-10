@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119124_Fr1_2</idno>
+           <idno type="DLPS">A14395</idno>
+           <idno type="STC">24714</idno>
+           <idno type="ESTC">S119124</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The memorable and tragical history, of the persecution in Africke: vnder Gensericke and Hunricke, Arrian kinges of the Vandals. Written in Latin by the blessed Bishop Victor of Vtica, who personallie (as also S. Augustine the famous doctor) endured his part thereof. With a briefe accomplishment of the same history, out of best authors: togither vvith the life and acts of the holy Bishop Fulgentius, and his conflicts vvith the same nation</title>
+                 <author>Victor, Saint, Bishop of Vita</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>212, 12 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <pb facs="2"/>
+   <p>In the margent P. S. impor<g ref="char:EOLhyphen"/>teth the edition of Paris by Sonnius.</p>
+   <p>In the margent P. F. impor<g ref="char:EOLhyphen"/>teth the edition of Paris by Fremy. ANNO. 1569.</p>
+   <p>In the margent B. impor<g ref="char:EOLhyphen"/>teth the edition of Basil. ANNO. 1541.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO HIS SINGVLAR good Cousen MR. JOHN VICARS. The most Praise-worthie Authour OF Englands Hallelu-jah.</title>
+           <author>D., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111549_Fr1_4</idno>
+           <idno type="DLPS">A14379</idno>
+           <idno type="STC">24697</idno>
+           <idno type="ESTC">S111549</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO HIS SINGVLAR good Cousen MR. JOHN VICARS. The most Praise-worthie Authour OF Englands Hallelu-jah.</title>
+                 <author>D., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Englands hallelu-jah. Or, Great Brittaines gratefull retribution, for Gods gratious benediction : In our many and most famous deliuerances, since the halcyon-dayes of euer-blessed Queene Elizabeth, to these present times. Together, with diuers of Dauids Psalmes, according t the French metre and measures. By I:V</title>
+                 <author>Vicars, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Purfoot, Thomas 2.</publisher>
+                            <publisher>Seile (Seale, Seely, Seyle), Henry</publisher>
+                        </imprint>
+                 <extent>80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="40"/>
+   <head>TO HIS SINGVLAR good Cousen M<seg rend="sup">R.</seg>
+      <hi>JOHN VICARS.</hi> The most Praise-worthie Authour OF Englands Hallelu-jah.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">T</seg>Hese <hi>Lines</hi> and <hi>Layes,</hi> once, twice,<note n="*" place="margin">
+            <hi>De<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>repetita placebunt▪</hi>
+         </note> againe, o're-read,</l>
+      <l>Refresht my <hi>Soule,</hi> and rauisht haue, my <hi>Heart;</hi>
+      </l>
+      <l>So great <hi>Content</hi> and <hi>Comfort,</hi> in <hi>Mee,</hi> bred,</l>
+      <l>I could not choose, but to <hi>your-se<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>fe,</hi> impart:</l>
+      <l>They haue <hi>Mee</hi> chang'd, for <hi>once,</hi> &amp; made mee <hi>Poet,</hi>
+      </l>
+      <l>Your <hi>Muse, Nought-els,</hi> that I do know, could doe it.</l>
+   </lg>
+   <lg>
+      <l>I'll <hi>Say</hi> in <hi>Prose,</hi> what you doe <hi>Sing</hi> in <hi>Verse</hi>
+      </l>
+      <l>Most Christianly; <hi>The Lord is to be praised;</hi>
+      </l>
+      <l>And in a home-spunne Speach, I'll still reherse,</l>
+      <l>What you most sweetly, soundly, heere, haue phrased.</l>
+      <l>In this <hi>Angellike Song,</hi> a part I Loue;</l>
+      <l>And though I <hi>say't</hi> but <hi>Here,</hi> I'll <hi>Sing't</hi>
+         <note n="*" place="margin">
+            <hi>Reuel cap,</hi> 19. <hi>verse</hi> 1.</note>
+         <hi>Aboue.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>Thomas Vicars. <hi>B: D:</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

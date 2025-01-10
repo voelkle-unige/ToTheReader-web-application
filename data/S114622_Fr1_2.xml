@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Beleeuing Reader:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114622_Fr1_2</idno>
+           <idno type="DLPS">A00462</idno>
+           <idno type="STC">10599</idno>
+           <idno type="ESTC">S114622</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Beleeuing Reader:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Somewhat : vvritten by occasion of three sunnes seene at Tregnie in Cornewall, the 22. of December last. With other memorable occurents in other places</title>
+                 <author>Everard, John</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Walkley, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>4, 20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>Beleeuing Reader:</head>
+   <p>
+      <seg rend="decorInit">Y</seg>Ou are saluted, by (I thinke)
+you know not whom: I would
+be sorrie you should; for a
+beggerly generation of mer<g ref="char:EOLhyphen"/>cenarie
+liers haue drawen an
+ineuitable suspition vpon
+the reporters of all truths in
+this kinde: But as it is your vertue that hath ex<g ref="char:EOLhyphen"/>empted
+you from the number of ordinarie censu<g ref="char:EOLhyphen"/>rers,
+so let your charitie excuse mee from being
+of the number of ordinary writers.</p>
+   <p>The Seller of these presents entreated I would
+speake a word or two to you in his name: but I
+thought it most necessarie to be mine owne aduo<g ref="char:EOLhyphen"/>cate;
+lest, if it should happen this <hi>concealement</hi>
+to be found out, (as
+<q>Multa fidem promissa leuant.</q>
+The largest promises come from the longest
+tongues) I might be exposed to the tyrannous rage
+of them, who by my expence of two houres, are an<g ref="char:EOLhyphen"/>ticipated
+in their proiect, importing at least two
+peeces, and twentie or thirtie coppies. Beleeue
+this therefore, as y would beleeue any thing that
+<pb facs="3"/>
+      <gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>s not <hi>de fide,</hi> that what I haue written, is the
+truth as I beleeue; and I thinke I haue iust rea<g ref="char:EOLhyphen"/>son
+to beleeue it, for it hath beene confirmed by
+the voluntarie oathes of many, the truth of which
+none can doubt of, but such as vse themselues to
+sweare vntruths, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. I confesse,
+I heard not of it (how could I?) till it was too
+late to see it; but if I had, there motenesse of the
+place would peraduenture haue perswaded me (ac<g ref="char:EOLhyphen"/>cording
+to the prouerbe) rather to content my selfe
+with beleeuing it, than to goe to see it. But that I
+may not be too light in so graue and waightie a
+matter, I will conclude with that common excuse,
+<hi>You haue it as good cheape as I,</hi> and cheaper;
+for it cost me thrice as much time in writing, as it
+will doe you in reading; yet the losse of that is the
+greatest hazard you can make, in so poore an ad<g ref="char:EOLhyphen"/>venture.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The translator to the Readers, or practisioners.</title>
+           <author>W., E.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110319_Ba1_1</idno>
+           <idno type="DLPS">A09144</idno>
+           <idno type="STC">19459</idno>
+           <idno type="ESTC">S110319</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The translator to the Readers, or practisioners.</title>
+                 <author>W., E.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A garden of flovvers : vvherein very liuely is contained a true and perfect discription of al the flovvers contained in these foure followinge bookes. As also the perfect true manner of colouringe the same vvith theire naturall coloures ... All vvhich to the great charges and almost incredible laboure and paine, the diligent authore by foure yeares experience, hath very laboriously compiled, and most excellently performed, both in theire perfect lineaments in representing them in theire coper plates: as also after a most exquisite manner and methode in teachinge th practisioner te [sic] painte them even to the liffe. Faithfully and truely translated out of the Netherlandish originall into English for the comon benifite of those that vnderstand no other languages, and also for the benifite of others nevvly printed both in the Latine and French tongues all at the charges of the author</title>
+                 <author>Passe, Crispijn van de</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Utrecht</pubPlace>
+                    <date>1615</date>
+                 <publisher>Passe, Crispin 2 van de.</publisher>
+                            <publisher>Roy, Salomon de</publisher>
+                        </imprint>
+                 <extent>28, 4 pages, plates, oblong 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <head>The translator to the Readers, or practisioners.</head>
+   <p>THe Curteous practisioner shall please to vnderstand, that these beinge (by earnest request) cōmitted to mee to be transta<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ed, and the names of the colours so much differinge from the originall language, that neither by search of bookes, not conference with painters, not marchants beyonde the seas, could sufficientlie expresse the same to an Englishmans vnderstandinge. Yet by some that made profession of that arte, beinge perswaded that they all had one generall name; whereof I my selffe know better, have done them all, or the most parte of them, to be vnderstoode of any Englishman, onely in one coloure which the dutchmen call <hi>Schijt-geel</hi> which translated signifieth a sh<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>tter yellow. I have in place thereof (because of not offendinge modest eares) called it throughout the whole booke a sad yellow. It is that which the Lattines, french, and spanish, call Buxus, that is box coloure, which is a <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ad or dead lyke yellow. Thus committing you to the protection and direction of the father of all goed spiritts, I rest.</p>
+   <closer>
+      <dateline>
+         <hi>From Vtrecht</hi>
+         <date>
+            <hi>this 12 of September 1615.</hi>
+         </date>
+      </dateline>
+      <signed>Yours E. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

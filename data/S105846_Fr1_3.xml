@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The chiefe poyntes of the holy Chronicle.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105846_Fr1_3</idno>
+           <idno type="DLPS">A17005</idno>
+           <idno type="STC">3888</idno>
+           <idno type="ESTC">S105846</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The chiefe poyntes of the holy Chronicle.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Textes of Scripture : chayning the holy chronicle vntyll the sunne lost his lyght, and the Sonne brake the serpentes head: dying, rising, and ascending</title>
+                 <author>Broughton, Hugh</author>
+                 <imprint>
+                    <publisher>Watkins, Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 <distributor>Simson, Gabriel</distributor>
+                            <distributor>White, William</distributor>
+                        </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Arguments &amp; Summaries</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="chief_points">
+   <pb facs="4"/>
+   <head>The chiefe poyntes of the <hi>holy Chronicle.</hi>
+   </head>
+   <list>
+      <label>
+         <seg rend="decorInit">F</seg>Rom the first Promise of Christ, to restore life vpon death, brought in by the Serpent: vnto the se<g ref="char:EOLhyphen"/>conde Promise made to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> vpon the death of <hi>Terah:</hi> whom first of the Fathers the Serpent drew to Idolatrie, are yeeres.</label>
+      <item>2083. That space is recorded by the particuler Fathers.</item>
+      <label>From the Promise vnto the Lambe, appoynted to ex<g ref="char:EOLhyphen"/>presse the Lambe of God, are yeeres.</label>
+      <item>430.</item>
+      <label>From the Lambe, to the beginnyng of the Temple: a shadow of the truer Temple, are yeeres.</label>
+      <item>480.</item>
+      <label>From the buyldyng of it, vnto the burnyng: or ra<g ref="char:EOLhyphen"/>ther the captiuitie vpon that, are yeeres.</label>
+      <item>427.</item>
+      <label>Thence to the end of the Captiuitie, where <hi>Cyrus</hi> mad a decree of building it againe, are yeeres full.</label>
+      <item>50.</item>
+      <label>Thence, vntyll the Temple of our Lord his body arose the thyrde day, are yeeres.</label>
+      <item>490.</item>
+      <label>The whole summe is.</label>
+      <item ana="#role_total">3960.</item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

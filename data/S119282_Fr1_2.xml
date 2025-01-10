@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD D. Elizabetham An∣gliae, Franciae, &amp; Hiberniae Serenissi∣mam, Potētissimam{que} Reginam, &amp;c. Bar∣bariae victricem, Dominam clementissi∣mam: Authoris Epigramma.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119282_Fr1_2</idno>
+           <idno type="DLPS">A05292</idno>
+           <idno type="STC">15437</idno>
+           <idno type="ESTC">S119282</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD D. Elizabetham An∣gliae, Franciae, &amp; Hiberniae Serenissi∣mam, Potētissimam{que} Reginam, &amp;c. Bar∣bariae victricem, Dominam clementissi∣mam: Authoris Epigramma.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certamen elegiacum nouem musarum, Appoline duce, contra Barbariem susceptum : &amp; serenissimæ, potentissimæq [ue] principi, ac Dominæ, D. Elizabethæ, Angliæ, Franciæ, &amp; Hiberniæ Reginæ, &amp;c. Barbariæ victrici: Dominæ elementissimæ, D.D.D. Matthias Leius, Germanus</title>
+                 <author>Leius, Matthias</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>
+      <hi>AD</hi> D. Elizabetham An<g ref="char:EOLhyphen"/>gliae, Franciae, &amp; Hiberniae Serenissi<g ref="char:EOLhyphen"/>mam, <hi>Potētissimam{que} Reginam, &amp;c.</hi> Bar<g ref="char:EOLhyphen"/>bariae victricem, Dominam clementissi<g ref="char:EOLhyphen"/>mam: Authoris Epigramma.</head>
+   <l>
+      <seg rend="decorInit">Q</seg>Vae modo sceptra geris regni cum iure Britann<gap reason="illegible: blotted" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Elisabetha: sacrae mixta virago deae:</l>
+   <l>Cuius ad occasum virtus se solis ab ortu</l>
+   <l>Inclyta gestorum per monumenta tulit:</l>
+   <l>Quae, quibus accessit, non ante recedet ab oris,</l>
+   <l>Vltima quam coeli finis &amp; orbis erit:</l>
+   <l>Cerne, quod ingenii clypeis certamen &amp; hastis</l>
+   <l>Hic sacra Pegaseinumina fontis habent.</l>
+   <l>Non ad Amazonias est formidabile peltas:</l>
+   <l>Tela{que} Lernaei lurida felle vadi:</l>
+   <l>Sed sit ad ingenuas, hominum sine caedibus, artes:</l>
+   <l>Et quae Pierii Mars habet arma chori.</l>
+   <l>Barbariae saeuis caput execrabile diris</l>
+   <l>Caeditur Aoniae nam{que} cohortis ope.</l>
+   <l>Cerneigitur, cuius tu dux potes esse, Gradiuum</l>
+   <l>O dea Mnemosynae matris alumna, vale.</l>
+</div>
+        </body>
+  </text>
+</TEI>

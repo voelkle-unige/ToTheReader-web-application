@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Scholasticis.</title>
+           <author>Clapham, Henoch</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108001_Bo3_24</idno>
+           <idno type="DLPS">A18910</idno>
+           <idno type="STC">5332</idno>
+           <idno type="ESTC">S108001</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Scholasticis.</title>
+                 <author>Clapham, Henoch</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe of the Bible : drawne first into English poësy, and then illustrated by apte annotations: togither vvith some other necessary appendices. By Henoch Clapham</title>
+                 <author>Clapham, Henoch</author>
+                 <imprint>
+                    <publisher>Waldegrave (Walgrave), Robert</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>237, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_scholars">
+   <pb n="236" facs="120"/>
+   <head>Scholasticis.</head>
+   <p>QVod hic nimis raptim scrip<g ref="char:EOLhyphen"/>si,
+no Animosioribus,
+sed Neophytorum animulis con<g ref="char:EOLhyphen"/>scripsi.
+Haec a<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>tem si vos (Scho<g ref="char:EOLhyphen"/>lastici)
+oculis Lynceis percussuri,
+Quid? Ne Aristarchica virgu<g ref="char:EOLhyphen"/>la,
+hoc vel illud vos temerè note<g ref="char:EOLhyphen"/>tis.
+Oblatr ant citius multa, qui
+nesciunt plurima: nec quis, quam
+qui Polyphemo coecior, magis fu<g ref="char:EOLhyphen"/>tilis
+et audax. O tempus, ô mores!
+tempus quidem Graculo garruli<g ref="char:EOLhyphen"/>us,
+loquax vt Eccho: insipidum
+autem, ac omnibus praeeuntibus
+saeculis insulsius. In ista Biblio<g ref="char:EOLhyphen"/>rum
+Synopsi, multa necessariò pri<g ref="char:EOLhyphen"/>ùs
+inter se sunt conferenda: po<g ref="char:EOLhyphen"/>stea
+<pb n="237" facs="120"/>
+quidem, intentione <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>criori
+dijudicanda. Error si quis <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>vase<g ref="char:EOLhyphen"/>rit
+(ac ego quis qui non errem?)
+non vt ille tegendus ad fidei ca<g ref="char:EOLhyphen"/>nonicae
+obliterationem, sed per
+Charitatis normam maturè dete<g ref="char:EOLhyphen"/>gendus
+velim. Fidei analogian si
+per totum foeliciter servaui (quod
+quidem à Deo Patre saepius ipse
+petij) hoc est quod volui &amp; opto.
+Legatis, imo vero perleg atis, sed
+semper Spiritus sanctus vobis ad<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>it,
+quò vo<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> secundum Theologiae
+gnomon, dijudicetis. Amen.</p>
+   <closer>Possumus multi calomos vetare
+Possumus pauci calamis praeire,
+Possumus nulli maculis carere,
+<signed>dixit HENOCHVS
+CLAPHAMVS <hi>Anglus,</hi>
+testis Iësu.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

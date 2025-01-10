@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE PRINTER To the Reader.</title>
+           <author>W., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115174_Fr1_2</idno>
+           <idno type="DLPS">A68150</idno>
+           <idno type="STC">12975</idno>
+           <idno type="ESTC">S115174</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE PRINTER To the Reader.</title>
+                 <author>W., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe discourse of the Scriptures : declaring the seuerall stories, liues, and deaths, of the fathers, from the creation of Adam, vnto the death of Ioseph: very necessarie to be read and practised, for easie vnderstanding of the Scriptures in a short time</title>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>4, 121, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>THE PRINTER To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>His short Treatise (Christian Reader) of, <hi>The storie of the Fathers from Adam to Ioseph,</hi> comming to my hands, and beeing well approoued of by many godly and discreetly zealous men, for the worthinesse of the subiect, I was, at the earnest request of sundry my es<g ref="char:EOLhyphen"/>peciall good Friendes, drawne to commit it (as thou seest) to the Presse, for the benefite of many. Of the Author hereof, I finde no mention; yet likely it is to haue been penned by an Attendaunt on that learned Diuine M. <hi>H. B.</hi> as a collection from his Notes or Readings. Perused it hath been, before the authorizing thereof for the print, by a Diuine of ma<g ref="char:EOLhyphen"/>ture iudgement; who corrected such thinges as he found faultie therein. Read it without preiudice or partialitie, and I doubt not but the profite, which thou shalt reape thereby for the in<g ref="char:EOLhyphen"/>crease of thy knowledge in holy Scripture, will preserue thee from all repenting of thy paines.</p>
+   <closer>
+      <signed>W. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

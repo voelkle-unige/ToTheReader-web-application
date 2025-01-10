@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Hono∣rable,
+Richard Deane Lord Maior of the
+most Renowned Citty of London: And to the
+two worthy Sheriffes, Mr. Rowland Backhouse,
+and Mr. William Acton.</title>
+           <author>Dekker, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115219_Fr1_2</idno>
+           <idno type="DLPS">A20053</idno>
+           <idno type="STC">6493</idno>
+           <idno type="ESTC">S115219</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Hono∣rable,
+Richard Deane Lord Maior of the
+most Renowned Citty of London: And to the
+two worthy Sheriffes, Mr. Rowland Backhouse,
+and Mr. William Acton.</title>
+                 <author>Dekker, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Brittannia's honor : brightly shining in seuerall magnificent shewes or pageants, to celebrate the solemnity of the Right Honorable Richard Deane, at his inauguration into the majoralty of the honourable citty of London, on Wednesday, October the 29th. 1628. At the particular cost, and charges of the right vvorshipfull, worthy, and ancient Society of Skinners. Inuented by Tho. Dekker</title>
+                 <author>Dekker, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 <publisher>Norton, John 2.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Hono<g ref="char:EOLhyphen"/>rable,
+Richard Deane Lord Maior of the
+most Renowned Citty of London: And to the
+two worthy Sheriffes, M<seg rend="sup">r</seg>. Rowland Backhouse,
+and M<seg rend="sup">r</seg>. William Acton.</head>
+   <opener>
+      <salute>Honorable Praetor:
+Noble Consuls.</salute>
+   </opener>
+   <l>
+      <seg rend="decorInit">Y</seg>Ou <hi>are</hi> (this Yeare) <hi>the</hi> Subiect <hi>of my Verse,</hi>
+   </l>
+   <l>In <hi>You</hi> lye hid the <hi>Fires</hi> which heate my Braines,</l>
+   <l>To <hi>You,</hi> my <hi>Songs Triumphant</hi> I rehearse:</l>
+   <l>From <hi>you,</hi> a <hi>thankes</hi> brings in a golden Gaines,</l>
+   <l>
+      <hi>Since</hi> You <hi>are then the</hi> Glory <hi>of my Muse,</hi>
+   </l>
+   <l>But <hi>You,</hi> whom can shee for her <hi>Patrons</hi> chuse?</l>
+   <closer>
+      <signed>VVhilst I rest,
+<hi>Deuoted</hi>
+To your Lordship,
+<hi>And worships</hi>
+In all seruice,
+<hi>Tho. Dekker.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

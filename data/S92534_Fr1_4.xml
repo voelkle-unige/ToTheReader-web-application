@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S92534_Fr1_4</idno>
+           <idno type="DLPS">B07676</idno>
+           <idno type="STC">10861.5</idno>
+           <idno type="ESTC">S92534</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The earths encrease. Or, A communion cup: presented to the Kings most Excellent Maiesty for a New-Yeeres gift : By the Reuerend father in God, the Bishop of Landaff</title>
+                 <author>Field, Theophilus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 <publisher>Field (Feild), Nathaniel.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>16, 67, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the Christian Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader:<note place="margin">August. de ciuit. Dei.</note> The great care of this worthy Lord and Reuerend Fa<g ref="char:EOLhyphen"/>ther in the tillage of Gods ground, Christs Church: <hi>Non cupiditate dominandi, sed of<g ref="char:EOLhyphen"/>ficio cōsulendi,</hi> rather by the rule of preaching, then the loue of ruling: <hi>non principandi superbia, sed prouidendi misericordia;</hi> not by a proud commanding, but by a carefull prouiding whole<g ref="char:EOLhyphen"/>some food for the whole fa<g ref="char:EOLhyphen"/>mily, challenges the Apostles Crowne of double honour.</p>
+   <p>The first crowne that euer
+<pb facs="6"/> was giuen at <hi>Rome</hi> (as <hi>Plin.</hi> re<g ref="char:EOLhyphen"/>ports in his 18 booke, and 2. <hi>cap.</hi>) was <hi>Spicea Corona,</hi> a crowne of corne for the Priest of husbandry. And <hi>Cato</hi> (in his Preface to his booke <hi>de re re<g ref="char:EOLhyphen"/>stica</hi>) saith, that the manner to commend a man in old time (<hi>cum Imperatorum manibus co<g ref="char:EOLhyphen"/>lebantur agri;</hi> when Emperors were plowmen) was, to call him <hi>Bonum agricolam,</hi> a good husbandman; <hi>Et qui ita lau<g ref="char:EOLhyphen"/>dabatur, satis laudari existima<g ref="char:EOLhyphen"/>batur,</hi> what a <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> this Reuerend Father hath approued himselfe to bee ac<g ref="char:EOLhyphen"/>cording to the Apostles com<g ref="char:EOLhyphen"/>mend, and Christs com<g ref="char:EOLhyphen"/>mand, this little <hi>Field</hi> so well tilled to bring forth such good increase, wil best demon<g ref="char:EOLhyphen"/>strate; of which I dare say no<g ref="char:EOLhyphen"/>thing, though I could say
+<pb facs="6"/> much, but point thee to looke ouer, see and iudge; hoping it will be as profitable to thee, as it was acceptable to the King; and the <hi>King of Kings</hi> at the end of the haruest bring thee to the hauen of happi<g ref="char:EOLhyphen"/>nesse: so beseeching thee to pardon or correct what my many and manifold occasions caused mee to ouer-see at the Presse, otherwise then the worth of the matter, and his Lordships speciall care and command did require, and I shall rest</p>
+   <closer>
+      <signed>As his Lordships deuoted, so thine to be commanded, in all Christian offices, <gap reason="foreign" resp="#oxf">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>Alexander, S. W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105422_Fr1_2</idno>
+           <idno type="DLPS">A20880</idno>
+           <idno type="STC">7257</idno>
+           <idno type="ESTC">S105422</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>Alexander, S. W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Teares on the death of Meliades</title>
+                 <author>Drummond, William</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>12 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="2"/>
+   <head>To the Author.</head>
+   <l>IN waues of Woe thy sighes my Soule doe tosse,</l>
+   <l>And doe burst vp the Conduits of my teares,</l>
+   <l>Whose ranckling wound no smoothing Baume long beares,</l>
+   <l>But freshly bleedes when ought vpbraides my losse.</l>
+   <l>Then thou so sweetly Sorrow makes to sing,</l>
+   <l>And troubled Passions dost so well accord,</l>
+   <l>That more delight thy Anguish doth afford,</l>
+   <l>Then others Ioyes can satisfaction bring.</l>
+   <l>What sacred Wits (when rauish'd) doe affect</l>
+   <l>To force Affections, Metamorphose minds,</l>
+   <l>Whilst numbrous powre the Soule in secret binds,</l>
+   <l>Thou hast perform'd transforming in effect.</l>
+   <l>For neuer plaints did greater pittie moue,</l>
+   <l>The best applause that can such notes approue.</l>
+   <closer>
+      <signed>S. W. ALEXANDER</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

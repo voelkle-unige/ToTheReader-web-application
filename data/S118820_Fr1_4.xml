@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title> Chronographiam carmen.</title>
+           <author>Smartus, H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118820_Fr1_4</idno>
+           <idno type="DLPS">A03472</idno>
+           <idno type="STC">13595</idno>
+           <idno type="ESTC">S118820</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title> Chronographiam carmen.</title>
+                 <author>Smartus, H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The holie historie of our Lord and Sauiour Iesus Christs natiuitie, life, actes, miracles, doctrine, death, passion, resurrection and ascension : gathered into English meeter, and published to withdraw vaine wits from all vnsauerie and wicked rimes and fables, to some lou and liking of spirituall songs and holy scriptures. By Robert Holland maister of Arts, and minister of the Church of Prendergast</title>
+                 <author>Holland, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Tobie, George</publisher>
+                        </imprint>
+                 <extent>16, 334, 8 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>
+      <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> Chronographiam carmen.</head>
+   <l>HEsperiae vasto nox (proh dolor) incubatorbi,</l>
+   <l>Vesanos magica fascinat arte viros:</l>
+   <l>Integer insano diuisus orbe Britannus</l>
+   <l>Sublimi tuitur sydera fronte poli:</l>
+   <l>Syderis aetherij vulgo speculantur ouantes</l>
+   <l>Ortum, sanati coelica verba libri:</l>
+   <l>Cosmicus, haud obitum metuens, hic syderis ortus</l>
+   <l>Nubeculas Papae, scripta nefanda, fugat.</l>
+   <l>Nec radijs rutilae tantum calet Anglia stellae:</l>
+   <l>Sed calet haec gemini terra sub axe poli:</l>
+   <l>Haec pluuialis Hyas, aeterni sermo Iehouae,</l>
+   <l>Viuifico cunctos irrigat imbre pios.</l>
+   <l>Passim sacrorum sacrata volumina vatum</l>
+   <l>Lingua profert genti consona quae{que} suae.</l>
+   <l>Anglus at errantes stellas videt orbe cadentes,</l>
+   <l>Infoelix Babylon stella maligna ruit:</l>
+   <l>Et coniuratos coelum affectare gygantes</l>
+   <l>Deserit Almannus, Gallus, &amp; Anglus atrox,</l>
+   <l>Anglus &amp; aeternas cernit stellas Orientes,</l>
+   <l>Anglica stella nitet regia, Sermo Dei,</l>
+   <l>At chronicus clari spectandus syderis ortus,</l>
+   <l>Hollandi Chronicon, carmine scripta salus:</l>
+   <l>Ardua molitur, laeto canit acta triumpho</l>
+   <l>Prototoci Mariae, tempore quae{que} suo:</l>
+   <l>Ortum decantat, vitam, tunc funera Christi:</l>
+   <l>Cum petijt coelos victor, &amp; ordo docet.</l>
+   <l>Ergo manent Hollande tibi coelestia serta,</l>
+   <l>Carpere námque Theon, nullus obesse, queat.</l>
+   <closer>
+      <signed>H. Smartus Oxoniensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

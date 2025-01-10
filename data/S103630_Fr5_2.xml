@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103630_Fr5_2</idno>
+           <idno type="DLPS">A02526</idno>
+           <idno type="STC">12652</idno>
+           <idno type="ESTC">S103630</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Contemplations vpon the principal passages of the holy story. The second volume; in foure books. By I. Hall, Dr. of Diuinity</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Macham, Samuel 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>16, 478, that is 475, 5 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="372" facs="195"/>
+   <pb n="373" facs="195"/>
+   <p>
+      <hi>TO</hi>
+THE TRVLY
+NOBLE, AND
+WORTHILY HONO<g ref="char:EOLhyphen"/>red
+Gentleman, Maister
+<hi>Robert Hay,</hi> one of the at<g ref="char:EOLhyphen"/>tendants
+of his Maiesties Bed<g ref="char:EOLhyphen"/>chamber,
+a sincere friend of ver<g ref="char:EOLhyphen"/>tue,
+and louer of learning; <hi>I.H.</hi> with
+apprecation of all happinesse, dedi<g ref="char:EOLhyphen"/>cates
+this part of his
+Meditations.
+(∴)</p>
+</div>
+        </body>
+  </text>
+</TEI>

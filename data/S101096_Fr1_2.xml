@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT REVEREND FATHER IN GOD, LEWES Lord Bishop of Bangor.</title>
+           <author>Bayly, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101096_Fr1_2</idno>
+           <idno type="DLPS">A05807</idno>
+           <idno type="STC">1601</idno>
+           <idno type="ESTC">S101096</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT REVEREND FATHER IN GOD, LEWES Lord Bishop of Bangor.</title>
+                 <author>Bayly, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Two sermons : The angell guardian. The light enlightening. Preached by Iohn Bayly</title>
+                 <author>Bayly, John</author>
+                 <imprint>
+                    <publisher>Lichfield, John</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>4, 17, 3, 14, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT REVEREND FATHER IN GOD, <hi>LEWES</hi> Lord Bishop <hi>of Bangor.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">T</seg>He Angell of God which hath hither<g ref="char:EOLhyphen"/>to protected your Lordship from ma<g ref="char:EOLhyphen"/>ny most knowne and imminent dan<g ref="char:EOLhyphen"/>gers, tarry round about you and still deliver you. I am the
+<pb facs="3"/>eldest sonne of your body, this is the el<g ref="char:EOLhyphen"/>dest birth of my minde. By you I have beene consecrated vnto Gods service, and doe consecrate this mine againe by you vnto his glory and the Churches good.</p>
+   <closer>
+      <dateline>From my Chamber in Exon Coll. <date>Novemb. <hi>6.</hi> Anno Dom. <hi>1630.</hi>
+         </date>
+      </dateline>
+      <signed>Your Sonne in all obedience to bee commanded. <hi>IOHN BAYLY.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

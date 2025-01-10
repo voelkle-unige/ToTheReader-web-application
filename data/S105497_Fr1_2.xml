@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1566</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105497_Fr1_2</idno>
+           <idno type="DLPS">A07993</idno>
+           <idno type="STC">18358</idno>
+           <idno type="ESTC">S105497</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The great wonders that are chaunced in the realme of Naples : with a great misfortune happened at Rome and in other places, by an earth quake in the moneth of December last past. Translated out of Frenche into Englishe, by I.A. 1566</title>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <distributor>Hacket, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1566</date>
+                 </imprint>
+                 <extent>14 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <pb facs="2"/>
+   <lg>
+      <l>GEntle Reader by this little discourse,</l>
+      <l>Which doth containe thinges wonderful &amp; high</l>
+      <l>And that one God doth number dayes &amp; houres</l>
+      <l>Thy houre to be vncertayne thou mayst see.</l>
+      <l>In reading it thou mayst likewise remember,</l>
+      <l>That great Cyty called <hi>Sodom</hi> and <hi>Gommor:</hi>
+      </l>
+      <l>To be in great perill to sinke without succour,</l>
+      <l>Which wil not God alone in fear &amp; faith honor.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

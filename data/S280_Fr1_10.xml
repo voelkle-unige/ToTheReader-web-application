@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad librum suum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S280_Fr1_10</idno>
+           <idno type="DLPS">A18243</idno>
+           <idno type="STC">4863.5</idno>
+           <idno type="ESTC">S280</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad librum suum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Marcus Ausonius his foure bookes of morall precepts, intituled Cato : concerning the precepts of common life. Translated out of Latin hexamiters into English meter by Walter Gosnold Gentleman, servant unto the right worshipfull Sr. Thomas Bowes of Much-bromley hall in Essex</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Griffin, Edward 2.</publisher>
+                            <publisher>Singleton (Syngleton), Hugh</publisher>
+                        </imprint>
+                 <extent>144 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_his_book">
+   <pb facs="19"/>
+   <head>Ad librum suum.</head>
+   <lg>
+      <l>MY little booke, whom wilt thou please, tell m<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>All which shall read thee? no that cannot be</l>
+      <l>Whom then? the best. But few of them there are;</l>
+      <l>And for the bad thou shalt not need to care.</l>
+      <l>If at the meane thou aymst, thou aymst too high,</l>
+      <l>The meaner sort commend not poetry.</l>
+      <l>How wilt thou give content then to these elves?</l>
+      <l>Please not the fooles, but let them please themselves.</l>
+      <l>Passe by the worst, and set by them no store,</l>
+      <l>Please well the best, thou shalt not need please more.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

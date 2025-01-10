@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Authorem.</title>
+           <author>D., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104709_Fr1_7</idno>
+           <idno type="DLPS">A16733</idno>
+           <idno type="STC">3635</idno>
+           <idno type="ESTC">S104709</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Authorem.</title>
+                 <author>D., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Characters vpon essaies morall, and diuine : written for those good spirits, that will take them in good part, and make vse of them to good purpose</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Gwillim, John</publisher>
+                        </imprint>
+                 <extent>62 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>Ad Authorem.</head>
+   <l>HE that shall read thy chara<g ref="char:EOLhyphen"/>cters <hi>(Nic: Breton)</hi>
+   </l>
+   <l>And weigh them well; must say they are well written.</l>
+   <l>They taste the lampe: much rea<g ref="char:EOLhyphen"/>ding, obseruation,</l>
+   <l>Art, matter, wit, all worthy com<g ref="char:EOLhyphen"/>mendation.</l>
+   <l>Some weaue their lines of such a slender thred,</l>
+   <l>They will not last so long, as to be read.</l>
+   <l>Thou hast so spunne, so weau'd; thy words, thy lines</l>
+   <l>They please vs most being viewd, a hundred times.</l>
+   <closer>
+      <signed>W.D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader</title>
+           <author>T., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123181_Fr2_3</idno>
+           <idno type="DLPS">B08158</idno>
+           <idno type="STC">23811</idno>
+           <idno type="ESTC">S123181</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader</title>
+                 <author>T., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Verbum sempiternum</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Hammond (Hamon, Hamman), John</publisher>
+                        </imprint>
+                 <extent>288 pages, 64°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Bibles</term>
+                    <term>Book industry, catalogues and inventories</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="84"/>
+   <head>To the Reader</head>
+   <p>HEere, Reader, maist thou read (for little cost)</p>
+   <p>How thou wast ransom'd, when thou quite wast lost.</p>
+   <pb facs="85"/>
+   <p>Mans gracelesnes, and Gods exceeding Grace</p>
+   <p>Thou heere maist read, and see, in lit<g ref="char:EOLhyphen"/>tle space.</p>
+   <closer>
+      <signed>I. T.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

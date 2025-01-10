@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Iohannis Hardingi in laudem tam Auctoris quam interpretis Duodecasticon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1578</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107363_Fr1_9</idno>
+           <idno type="DLPS">A20579</idno>
+           <idno type="STC">6984</idno>
+           <idno type="ESTC">S107363</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Iohannis Hardingi in laudem tam Auctoris quam interpretis Duodecasticon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A nievve herball, or historie of plantes : wherin is contayned the vvhole discourse and perfect description of all sortes of herbes and plantes: their diuers [and] sundry kindes: their straunge figures, fashions, and shapes: their names, natures, operations, and vertues: and that not onely of those whiche are here growyng in this our countrie of Englande, but of all others also of forrayne realmes, commonly vsed in physicke. First set foorth in the Doutche or Almaigne tongue, by that learned D. Rembert Dodoens, physition to the Emperour: and nowe first translated out of French into English, by Henry Lyte Esquyer</title>
+                 <author>Dodoens, Rembert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London ; Belgium--Antwerp</pubPlace>
+                    <date>1578</date>
+                 <publisher>Dewes, Garrat.</publisher>
+                            <publisher>Loe, Hendrik van der</publisher>
+                        </imprint>
+                 <extent>24, 779, 25 pages, illustrations, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Iohannis Hardingi in laudem tam Auctoris <hi>quam interpretis Duodecasticon.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">C</seg>Edant Turneri pingues simûlat{que} Lobeli,</l>
+   <l>Horti ac egregij gloria summa Tragi.</l>
+   <l>Vnicus hic reliquis longe est Praestantior hortis,</l>
+   <l>Quem pia iam Liti cura labor{que} dedit.</l>
+   <l>Illorum tenues abijt decor omnis in auras,</l>
+   <l>Huius at aeterno gloria viua manet.</l>
+   <l>Aspice quam virides insultent vndi{que} plantae,</l>
+   <l>Quales viderunt saecula nulla priûs.</l>
+   <l>Tantum igitur Lito debes gens Anglica docto,</l>
+   <l>Quantum Remberto Teutonis ora suo.</l>
+   <l>Nec plus Remberto letantur Meclinienses,</l>
+   <l>Quam te Lito tui Candide Murotriges.</l>
+   <epigraph>
+      <q>Fato prudentia maior.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

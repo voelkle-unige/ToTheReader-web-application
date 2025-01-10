@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>E., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113621_Fr1_3</idno>
+           <idno type="DLPS">A08545</idno>
+           <idno type="STC">18863</idno>
+           <idno type="ESTC">S113621</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>E., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second part of the first booke of the Myrrour of knighthood : in which is prosecuted the illustrious deedes of the knight of the Sunne, and his brother Rosicleer, sonnes vnto the Emperour Trebatio of Greece: with the valiant deedes of armes of sundry worthie knights, very delightfull to bee read, and nothing hurtfull to bee regarded. Now newly translated out of Spanish into our vulgar tongue by R.P</title>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>4, 258, 2 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Haue (good <hi>Reader</hi>) according to my forepas<g ref="char:EOLhyphen"/>sed promise, prosecuted the <hi>Second part of the first Booke of the Mirrour of Knighthood:</hi> after which likewise (beefore the second part alreadie Printed) followeth another booke, which is intituled in the <hi>Spanish</hi> worke, <hi>The third part of the first Booke. &amp;c.</hi> Which, with as much expedition as may bee, shall bee published: wherby both the quaint beginning, and the quoy abruption, shall bée brought to a concord, though no conclusion: Yet shall the whole sto<g ref="char:EOLhyphen"/>ry bée concluded with diligent spéede, if thou accept with thy wonted curtesie, these passed impressions. Desiring thée not to think the fulnesse of the history to bée deferred of ma<g ref="char:EOLhyphen"/>lice, but by euill luck: wherefore good <hi>Reader,</hi> I beséech thée, beare with the abruptnesse of the translation, the errours of the impression, and the good meaning of the Authour: and thinck not euerie Actor a right <hi>Grecian</hi> Lord, no more then euery <hi>Chremes,</hi> a <hi>Corinthian</hi> churle: but contrary, that as <hi>Terence</hi> shewed the figure that then was, so our Author shadoweth the forme that should be in all Nobilitie, to wit, Chiualrie, and curtesie. Committing therefore the conside<g ref="char:EOLhyphen"/>ration of this worke to thy acceptance, I conclude▪</p>
+   <closer>
+      <signed>Thine to vse. <hi>T. E.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

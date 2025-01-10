@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Hubbock, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104268_Fr1_2</idno>
+           <idno type="DLPS">A03780</idno>
+           <idno type="STC">13899</idno>
+           <idno type="ESTC">S104268</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Hubbock, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An oration gratulatory to the high and mighty Iames of England, Scotland, France and Ireland, King, defendor of the faith, &amp;c : On the twelft day of February last presented, when his Maiesty entered the Tower of London to performe the residue of the solemnities of his coronation thorough the citie of London differred by reason of the plague: and published by his Highnesse speciall allowance. VVherein both the description of the Tower of London and the vnion of the kingdomes is compendiously touched: by William Hubbocke</title>
+                 <author>Hubbock, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1604</date>
+                 <publisher>Barnes, Joseph.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <p>POTENTISSIMO IACOBO AN<g ref="char:EOLhyphen"/>gliae, Scotiae, Galliae, &amp; Hiberniae Regi, fidei <hi>Defensori, &amp;c. Oratio duodecimo Februarij, cum Ar<g ref="char:EOLhyphen"/>cem Londinensem ingrederetur, vt inaugurationis suae reliquas solennitates per vrbem perageret, dila<g ref="char:EOLhyphen"/>tas ob grassantem pestem, gratulatoria; eiusque au<g ref="char:EOLhyphen"/>spicijs praelo mandata.</hi>
+   </p>
+   <p>In qua &amp; totius Turris succincta descriptio, regnorum{que} vnio perstringitur:</p>
+   <closer>
+      <signed>Authore <hi>Gulielmo Hubbocke.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

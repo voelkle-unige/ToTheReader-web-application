@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Letter]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119054_Fr1_3</idno>
+           <idno type="DLPS">A14316</idno>
+           <idno type="STC">24633</idno>
+           <idno type="ESTC">S119054</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Letter]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Velleius Paterculus his Romane historie : in two bookes. Exactly translated out of the Latine edition supervised by Ianus Gruterus. According to the reformations in such parts of him, in which the Latin hath suffered either by time, or negligence in the transcribers of the ablest commenters upon him. And rendred English by Sr. Robert Le Grys Knt</title>
+                 <author>Velleius Paterculus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Swaine (Swayne), Robert 1</publisher>
+                        </imprint>
+                 <extent>16, 430, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="2"/>
+   <floatingText type="letter">
+      <body>
+         <p>REcensui hunc librum, cui Ti<g ref="char:EOLhyphen"/>tulus est, [<hi>VELLEIVS PATERCVLVS his Roman History, exactly translated out of the Latine, and rendred English: &amp;c.</hi>] unâ cum Epistolâ nuncupa<g ref="char:EOLhyphen"/>toria ad Honoratissimum virum, D<seg rend="sup">num</seg>
+            <hi>Thomam Iermyn,</hi> et Praefa<g ref="char:EOLhyphen"/>tione ad Lectorem: qui quidem liber continet folia nonaginta &amp; septem, in quibus omnibus nihil reperio quod non cum publica u<g ref="char:EOLhyphen"/>tilitate <hi>Imprimatur,</hi> modo intra septem menses proxime sequen<g ref="char:EOLhyphen"/>tes <hi>typis</hi> mandetur.</p>
+         <closer>
+            <dateline>
+               <hi>Exaed <gap reason="illegible" resp="#pdcc" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Londinensibus,</hi>
+               <date>
+                  <hi>Maij.</hi> 8. 1632.</date>
+            </dateline>
+            <signed>
+               <hi>Guillelmus <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ray Episcopo Londinensi Capellanus Domesticus.</hi>
+            </signed>
+         </closer>
+      </body>
+   </floatingText>
+</div>
+        </body>
+  </text>
+</TEI>

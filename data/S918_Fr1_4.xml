@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Io: Adamsonus An. Moro S. D.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S918_Fr1_4</idno>
+           <idno type="DLPS">A07920</idno>
+           <idno type="STC">18290</idno>
+           <idno type="ESTC">S918</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Io: Adamsonus An. Moro S. D.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pidax Petreia, or, The discoverie of S. Peters well, at Peter-head, in Scotland : being in latitude 57.d.43.m. and in longitude 22.d.40.m. Shewing the admirable vertues thereof, against many deplorable diseases. By A.M. student in Medicine</title>
+                 <author>Mure, Andrew, m.d</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>40 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>Io: Adamsonus An. Moro S. D.</head>
+   <p>PErgratae fuerunt tuae ad me literae; per<g ref="char:EOLhyphen"/>gratus libellus: utraque vel quod à te: ex utrisque amorem, satis antea perspectum; sed ex hoc &amp; industriam, quà scrutinio quo<g ref="char:EOLhyphen"/>dam accurato nobis videris <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> thesau<g ref="char:EOLhyphen"/>rum, à nemine hactenus ved quaesitum, vel inventum, demonstrasse. O te felicem, cui coelitus obtigit tam eximium thesaurum invenisse, in salutem humani generis pro<g ref="char:EOLhyphen"/>didisse! Sed &amp; ego hujus felicitatis non va<g ref="char:EOLhyphen"/>cuus abiero, cui contigit discipulum habuisse tam industrium, tam doctum, &amp; disertum; qui talis thesauri vires &amp; usum tam eruditè &amp; concinnè patriae suae aperuerit. Tu per<g ref="char:EOLhyphen"/>ge, ut facis, virtuti litare, &amp; amantem me tui redamare.</p>
+   <closer>
+      <salute>Vale.</salute>
+      <dateline>
+         <hi>Edinb.</hi>
+         <date>
+            <hi>Cal. Mart</hi> 1636.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

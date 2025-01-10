@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In eiusdem Aeliani Hystoriam Graecè, Latiné, &amp; Anglicé conscriptam: T. S. Cantabr.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100459_Fr1_8</idno>
+           <idno type="DLPS">B11035</idno>
+           <idno type="STC">164</idno>
+           <idno type="ESTC">S100459</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In eiusdem Aeliani Hystoriam Graecè, Latiné, &amp; Anglicé conscriptam: T. S. Cantabr.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A registre of hystories : conteining martiall exploites of worthy warriours, politique practises of ciuil magistrates, wise sentences of famous philosophers, and other matters manifolde and memorable. Written in Greeke, by Ælianus a Romane: and deliuered in Englishe (as well, according to the truth of the Greeke text, as of the Latine) by Abraham Fleming. Seene and allowed</title>
+                 <author>Aelian</author>
+                 <imprint>
+                    <publisher>Middleton, Henry</publisher>
+                    <distributor>Woodcock, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 </imprint>
+                 <extent>8, 178 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>In eiusdem Aeliani Hystoriam Graecè, Latiné, &amp; Anglicé conscriptam: <hi>T. S. Cantabr.</hi>
+   </head>
+   <l>Cùr animo in studijs contingit nauseà nulla?</l>
+   <l>
+      <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</l>
+   <l>Ergò tuos minimè miror, ROMANE, labores,</l>
+   <l>Dum Romam Graecè <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</l>
+   <l>Nec, GERMANE, tuos dum pandis Graeca Latinis,</l>
+   <l>Nec noua depingit penna, BRITANNE, tua.</l>
+   <l>Dicere sed cogor veré: <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <l>Hystoria, &amp; mulcet Nectare quem{que} suo.</l>
+</div>
+        </body>
+  </text>
+</TEI>

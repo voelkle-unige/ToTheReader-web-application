@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108433_Ba1_1</idno>
+           <idno type="DLPS">A05289</idno>
+           <idno type="STC">15432</idno>
+           <idno type="ESTC">S108433</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Speculum belli sacri: Or The looking-glasse of the holy war : wherein is discovered: the evill of war. The good of warr. The guide of war. In the last of these I give a scantling of the Christian tackticks, from the levying of the souldier, to the founding of the retrait; together with a modell of the carryage, both of conquerour and conquered. I haue applyed the generall rules warranted by the Word, to the particular necessity of our present times</title>
+                 <author>Leighton, Alexander</author>
+                 <imprint>
+                    <publisher>Thorp, Giles, Successors of</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>20, 316 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Errata.</head>
+   <p>LET me intreat thee (<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ourreous Reader) to bear with errours from the presse, as some literall faults, defects of Accents, or Points, mis<g ref="char:EOLhyphen"/>placing, or wanting of a word. Three Greek words in the Margine hath likewise faults in them. In the Epistle to the Reader, pag. 2. line 1. for <hi>treatise,</hi> reade <hi>this treatise:</hi> Pag. 49, Marg. for <hi>alumoniam,</hi> reade, <hi>alimoniam: Ibid.</hi> for <hi>virtus</hi> reade <hi>victus:</hi> pag. 87, l. <hi>ult.</hi> for <hi>that like,</hi> r. <hi>that it is like:</hi> pag. 159, l. 13, for <hi>ebary,</hi> r. <hi>chair:</hi> pag. 186. l, 20, for <hi>for,</hi> r. <hi>far: Ibid.</hi> l. 32, for 1180, r. 11800: pag. 208. l. 18, for <hi>the better,</hi> r. <hi>to the better.</hi>
+   </p>
+   <trailer>FINIS.</trailer>
+   <pb facs="169"/>
+</div>
+        </body>
+  </text>
+</TEI>

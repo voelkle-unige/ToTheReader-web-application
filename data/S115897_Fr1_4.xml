@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115897_Fr1_4</idno>
+           <idno type="DLPS">A10701</idno>
+           <idno type="STC">20983</idno>
+           <idno type="ESTC">S115897</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Faultes faults, and nothing else but faultes</title>
+                 <author>Rich, Barnabe</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>3, 63, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <lg>
+      <l>A Figge for all that Enuie can inuent,</l>
+      <l>On fearefull steps true honour neuer treades,</l>
+      <l>I come not to implore <hi>Lucina's</hi> helpe,</l>
+      <l>To bring my Muse a bed with fantasies,</l>
+      <l>Nor steale Iiestes in cloudes to make you game,</l>
+      <l>Nor do I seeke by gawdes to purchase fame.</l>
+   </lg>
+   <lg>
+      <l>I wade into the world as one vnknowne;</l>
+      <l>Yong in disguise, and yet in yeares more ripe:</l>
+      <l>I can discerne an Ape, though clad in silke,</l>
+      <l>And temper wit sometimes to serue a turne.</l>
+      <l>To what imprission I haue wrought it now,</l>
+      <l>The wise may iudge, for fooles I care not how.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

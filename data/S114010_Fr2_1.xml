@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO All Good Husbands.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114010_Fr2_1</idno>
+           <idno type="DLPS">A10311</idno>
+           <idno type="STC">20596</idno>
+           <idno type="ESTC">S114010</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO All Good Husbands.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The glorie of man consisting in the excellencie and perfection of woman : Gathered out of Holie Scriptures, and most renowned wryters; as well ancient, as moderne; ecclesiaticall, as morall. Wherevnto is annexed The duetie of husbands</title>
+                 <author>Raban, Edward</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>16, 911, that is 119, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraph">
+   <pb n="92" facs="58"/>
+   <head>
+      <hi>TO</hi> All Good Husbands.</head>
+   <l>Good Husbands all, receaue in thank<g ref="char:EOLhyphen"/>full part,</l>
+   <l>This Sacrifice, (which may my Will approue:)</l>
+   <l>Upon the Altar of a faythfull Heart,</l>
+   <l>Consumed in the Flames of Zeale an<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap> Loue.</l>
+   <l>Let Honourable Woman liue for ever,</l>
+   <l>In all that Arte, that Tyme, that Fame can giue <hi>hER.</hi>
+   </l>
+</div>
+        </body>
+  </text>
+</TEI>

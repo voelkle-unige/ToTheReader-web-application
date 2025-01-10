@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Auctoris in Patriae &amp; anti∣quitatis imperitiam sententia.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113317_Fr1_3</idno>
+           <idno type="DLPS">A08309</idno>
+           <idno type="STC">18638</idno>
+           <idno type="ESTC">S113317</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Auctoris in Patriae &amp; anti∣quitatis imperitiam sententia.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Nordens preparatiue to his Speculum Britanniæ : Intended a reconciliation of sundrie propositions by diuers person tendred, concerning the same</title>
+                 <author>Norden, John</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>6, 31, 1 page, illustrations (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>Auctoris in Patriae &amp; anti<g ref="char:EOLhyphen"/>quitatis imperitiam sententia.</head>
+   <p>
+      <seg rend="decorInit">N</seg>Vlla omnino ignoratio tam videtur grauis, quam anti<g ref="char:EOLhyphen"/>quitatis &amp; patriae imperitia, quarum luminis splendore▪ depriuati homines, non de Deo omnium conditore, de mundo eius excellenti opificio, de seipsis, de patria, ne<g ref="char:EOLhyphen"/>que de sedibus (quas incolunt) rectè sen<g ref="char:EOLhyphen"/>serint. Omnia autem illis, in tenebris qua<g ref="char:EOLhyphen"/>si latent: Ita vt vel eos qui in caeteris liber<g ref="char:EOLhyphen"/>alibus artibus consenuerunt, pueros &amp; sensus, vitae{que} communis ignaros videri cogit, &amp; in patria ipsos peregrinos, &amp; reip. gubernaculis, consiliorum{que} consociati<g ref="char:EOLhyphen"/>one ablegandos.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105000_Fr1_2</idno>
+           <idno type="DLPS">A12490</idno>
+           <idno type="STC">22819</idno>
+           <idno type="ESTC">S105000</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A confutation of a [́sic] certen booke : called á [sic] defence of the true, and Catholike doctrine of the sacrame [n] t, &amp;c. sette fourth of late in the name of Thomas Archebysshoppe of Canterburye. By Rycharde Smyth, Docter of diuinite, and some tyme reader of the same i Oxforde</title>
+                 <author>Smith, Richard</author>
+                 <imprint>
+                    <publisher>Chaudiere, Regnault</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1550</date>
+                 </imprint>
+                 <extent>166, that is 168, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">T</seg>Ake this booke I hartilie be<g ref="char:EOLhyphen"/>sech the, christian reader, in good worth, cōsiderynge hou that Iam in à strange contrey, wit<g ref="char:EOLhyphen"/>hout quietnes, bookes, helpe of lear<g ref="char:EOLhyphen"/>ned men, sufficient loiser and tyme, and without also many other necessa<g ref="char:EOLunhyphen"/>ries, that are requyred vnto such an in<g ref="char:EOLunhyphen"/>terprise, as this is. If any thinge be a<g ref="char:EOLhyphen"/>mysse, it shal be hereafter amended, by goddes grace. Oure lord Iesus Chri<g ref="char:EOLunhyphen"/>ste kepe the in his true fayth, and reli<g ref="char:EOLhyphen"/>gion. Amen.</p>
+   <p>I haue putte, good reader, both the lea<g ref="char:EOLunhyphen"/>fe and the page also of the bysshoppes booke, yn the margen of my confuta<g ref="char:EOLhyphen"/>tion, that thowe maist the better com<g ref="char:EOLunhyphen"/>pare my confutation with his sainges, and perceaue also the matter with lesse labours, and peynes.</p>
+   <p>Multò melius est vera rustice, quàm falsa diserte, proferre. Hieronymus in expositione primae visionis Esaiae.</p>
+</div>
+        </body>
+  </text>
+</TEI>

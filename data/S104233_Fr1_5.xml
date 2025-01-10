@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Incerti Autoris.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104233_Fr1_5</idno>
+           <idno type="DLPS">A03681</idno>
+           <idno type="STC">13806</idno>
+           <idno type="ESTC">S104233</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Incerti Autoris.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Black-Fryers</title>
+                 <author>Hord, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Grismand (Grismond), John.</publisher>
+                            <publisher>Marriot, John</publisher>
+                        </imprint>
+                 <extent>4, 11, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <head>Incerti Autoris.</head>
+   <l>ROma diu titubans, longis erroribus acta,</l>
+   <l>Corruet, &amp; mundi desinet esse caput.</l>
+</div>
+        </body>
+  </text>
+</TEI>

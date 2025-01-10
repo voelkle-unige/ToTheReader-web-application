@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶Epigramma Guil. Camd. in Anatomiam a Tho. Ro∣gerio, elaboratam.</title>
+           <author>Staveley, Leonard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116111_Fr1_6</idno>
+           <idno type="DLPS">A10969</idno>
+           <idno type="STC">21239</idno>
+           <idno type="ESTC">S116111</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶Epigramma Guil. Camd. in Anatomiam a Tho. Ro∣gerio, elaboratam.</title>
+                 <author>Staveley, Leonard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A philosophicall discourse, entituled, The anatomie of the minde. Nevvlie made and set forth by T.R</title>
+                 <author>Rogers, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 <publisher>Charlewood, John.</publisher>
+                            <publisher>Maunsell (Mansell), Andrew 1</publisher>
+                        </imprint>
+                 <extent>12, 206, 10 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="9"/>
+   <head>¶Epigramma Guil. Camd. in Anatomiam a Tho. Ro<g ref="char:EOLhyphen"/>gerio, elaboratam.</head>
+   <l>Cui pater est nullus, quem Nox ten<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>brosa sinistro</l>
+   <l>Progenuit foetu, deridèns omnia Momus,</l>
+   <l>Incessit superos varijs, vanis{que} querelis,</l>
+   <l>Quòd clathris hominū pectus non prostet apertum</l>
+   <l>Cerneretit motus animi, mentis{que} recessus.</l>
+   <l>Nuper at hunc rel<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>gens intento lumine librum,</l>
+   <l>Substitit, ac imo referens suspiria, dixit.</l>
+   <l>Quod querar, heu, nihil est, mihi iā mens tota pa<g ref="char:EOLhyphen"/>tescit.</l>
+   <l>Anfractus animi varios, mētis{que} labores</l>
+   <l>Rog<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>rius doctè reserat, vel iudice Momo.</l>
+   <l>Vesalio cordis rimati fama redundat</l>
+   <l>Rogerio mentis reseratae gloria cedet.</l>
+   <l>Sic ait ingeminans, tristis, maerens{que} recedit.</l>
+</div>
+        </body>
+  </text>
+</TEI>

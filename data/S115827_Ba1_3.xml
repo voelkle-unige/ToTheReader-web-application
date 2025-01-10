@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115827_Ba1_3</idno>
+           <idno type="DLPS">A22474</idno>
+           <idno type="STC">889</idno>
+           <idno type="ESTC">S115827</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The badges of Christianity. Or, A treatise of the sacraments fully declared out of the word of God : Wherein the truth it selfe is proued, the doctrine of the reformed churches maintained, and the errors of the church of Rome are euidently conuinced: by pervsing wherof the discreet reader may easily perceiue, the weak and vnstable grounds of the Roman religion, and the iust causes of our lawfull separation. Diuided into three bookes: 1. Of the sacraments in generall. 2. Of Baptisme. 3. Of the Lords Supper. Hereunto is annexed a corollarie or necessary aduertisement, shewing the intention of this present worke, opening the differences among vs about the question of the supper, discouering the idolatry and diuisions of the popish cleargy, ... By William Attersoll, minister of the Word of God</title>
+                 <author>Attersoll, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Fosbrooke, Nathaniel.</publisher>
+                            <publisher>Jaggard, William</publisher>
+                        </imprint>
+                 <extent>22, 395, that is 392, 48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>
+      <hi>Gentle Reader, I am to desire thee to amende these escapes with thy pen, either alte<g ref="char:EOLhyphen"/>ring the sence or hindering the vnderstanding. The rest I remit to thy fauourable construction and correction.</hi>
+   </p>
+   <p>page 6. line 13. read is heere full. P. 18. l, 17. and not make. p. 19, l. xxi, vnfitly, p: 37. l, 3. that they are no. p. 83. l. 36. a connterfect word is fit enough for a counterfect sacrament. p, 88, l, 7. and not accepted, p. <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, l, 33, dele which is good, p: 136. l, xv, and euil workers speed, p, 148 l, 6, by the practise and xiijj but reach eth not, p, 155, l, 32, to baptisme, P, 163, lin, <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, they were admitted. P, 165. l. 1 accesse, p, 170, l, xxi, are not able, p, 179. l, 22, an assurance. P, 201, l, 1, escape vnpunished, and xxii, as an, and 13, thus much. P, 209l, 4, naming the, P, 238, l, 29: and 31, change. P, 240, l, 29, yet was he. 250: l. iii, inhumane, P, 253, l, 4. all the. P. 228, l, 24, in the cup. P, 285, l. 22. out of the holy vse. p: 290 l. 4. consecration.</p>
+   <pb facs="236"/>
+   <pb facs="237"/>
+   <pb facs="237"/>
+</div>
+        </body>
+  </text>
+</TEI>

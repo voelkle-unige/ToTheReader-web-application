@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SERVIENTIBVS AD LEGEM:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102922_Fr1_2</idno>
+           <idno type="DLPS">A01545</idno>
+           <idno type="STC">11670</idno>
+           <idno type="ESTC">S102922</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SERVIENTIBVS AD LEGEM:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of the nature and vse of lots : a treatise historicall and theologicall; written by Thomas Gataker B. of D. sometime preacher at Lincolnes Inne, and now pastor of Rotherhith</title>
+                 <author>Gataker, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 <publisher>Bladen, William.</publisher>
+                            <publisher>Griffin, Edward 1</publisher>
+                        </imprint>
+                 <extent>12, 360 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>ILLVSTRISSIMO DOMINO, D. HENRICO HOBART BARONETTO, IN DICARVM COMMVNIVM CVRIA ANTE<g ref="char:EOLhyphen"/>CESSORI PRAESIDIQVE PRIMARIO, PATRONO SVO SVMME COLINDO.</p>
+   <p>NECNON CLARISSIMIS VIRIS; D. PETRO WARBVRTON; D. HVMFREDO WINCH, EIDEM IN EADEM CVRIA ADSESSORIBVS.</p>
+   <p>D. ROBERTO HOVHTON IN TRIBVNALI REGIO ADSESSORI.</p>
+   <p>D. IOANNI DENHAM E. GAZOPHYLACI REGI BARONIBVS.</p>
+   <p>
+      <pb facs="3"/>DIGNISSIMIS ITEM VIRIS, D. RANVLPHO CREW AD LEGEM SERVIENTI D. REGI,</p>
+   <list>
+      <head>SERVIENTIBVS AD LEGEM:</head>
+      <item>M. THOMAE HARRIS </item>
+      <item>M. LEONARDO BAWTREE </item>
+      <item>M. IOANNI MORE </item>
+      <item>M. CAROLO CHIBBVRN </item>
+      <item>M. THOMAE RICHARDSON </item>
+   </list>
+   <p>D. IACOBO LEY, IN TVTELARVM CVRIA ADVOCATO REGIO.</p>
+   <p>M. THOMAE SPENSER, BREVIVM CVSTODI.</p>
+   <p>TOTI DENIQVE HETAERIAE CONSESSORVM VENERABI<g ref="char:EOLhyphen"/>LIVM, CONSVLTORVM PRV<g ref="char:EOLhyphen"/>DENTIVM, IUVENTVTISQVE STVDIOSAE IN HOSPITIO LINCOLNIENSI IVRI OPERAM NAVANTIVM, FAVEVTISSI<g ref="char:EOLhyphen"/>MIS QVANDO{que} AVDI<g ref="char:EOLhyphen"/>TORIBVS SVIS.</p>
+   <p>
+      <hi>THOMAS GATAKER</hi> THEOLOGIAE OLIM IBIDEM PROFESSOR HASCE LABORVM SVO<g ref="char:EOLhyphen"/>RVM PRIMITIAS
+<list>
+         <item>IN AETERNVM OBSERVANTIAE MONIMENTVM</item>
+         <item>IN AETERNVM BENEVOLENTIAE{que} MONIMENTVM</item>
+      </list>
+INSCRIBIT DEDICATQVE.</p>
+</div>
+        </body>
+  </text>
+</TEI>

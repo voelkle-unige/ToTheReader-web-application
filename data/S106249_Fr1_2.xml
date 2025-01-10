@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To The right honorable, my verie good Lord, Sir Thomas Egerton knight, Baron of Ellesmere, Lord high Chauncelor of England, and one of his Maiesties most honorable Priuie Councell.</title>
+           <author>Peterson, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106249_Fr1_2</idno>
+           <idno type="DLPS">A16490</idno>
+           <idno type="STC">3405</idno>
+           <idno type="ESTC">S106249</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To The right honorable, my verie good Lord, Sir Thomas Egerton knight, Baron of Ellesmere, Lord high Chauncelor of England, and one of his Maiesties most honorable Priuie Councell.</title>
+                 <author>Peterson, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise, concerning the causes of the magnificencie and greatnes of cities, deuided into three bookes by Sig: Giouanni Botero, in the Italian tongue; now done into English by Robert Peterson, of Lincolnes Inne Gent. Seene and allowed</title>
+                 <author>Botero, Giovanni</author>
+                 <imprint>
+                    <distributor>Ockould, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Purfoot, Thomas 2.</publisher>
+                            <publisher>Tomes, Henry</publisher>
+                        </imprint>
+                 <extent>8, 108, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>To</hi> The right honorable, my verie good Lord, <hi>Sir Thomas Egerton knight, Baron of</hi> Ellesmere, Lord high Chauncelor of England, and one of his Maiesties most <hi>honorable Priuie Councell.</hi>
+   </head>
+   <p>
+      <hi>
+         <seg rend="decorInit">M</seg>Y very good Lord, when I had enterteyned some of my free howers of vacati<g ref="char:EOLhyphen"/>on from other businesses, with the reading of this Author in his owne lan<g ref="char:EOLhyphen"/>guage; and that my li<g ref="char:EOLhyphen"/>king led me into this fur<g ref="char:EOLhyphen"/>ther trauaile with him, to translate him into our owne tongue: I thought I had yet done little for him, ex<g ref="char:EOLhyphen"/>cept I did also set him before the common eye of my coun<g ref="char:EOLhyphen"/>try, that the pleasure and proffit, which I reaped in this worke, might by this communication thereof, redownd to many. And, that I might do so worthy a writer all right, the matter consisting of Policie and State; I could not ad<g ref="char:EOLhyphen"/>dresse my selfe &amp; my translatiō of him, to one whose wise<g ref="char:EOLhyphen"/>dome, and graue, both experience and Iudgment, might be more parallell to the substance of this worke, or whose ho<g ref="char:EOLhyphen"/>norable</hi>
+      <pb facs="3"/>
+      <hi>fauour to my selfe, might require of me more loue and dutie, then your good Lordship. To expresse this, I haue been bold to commend these my labours to your honorable fauor, beseeching you to make them happy in your protection of them, and with them, to receaue my humble dutie and seruice; which resteth euer</hi>
+   </p>
+   <closer>
+      <signed>Your Lordships to be commaunded, Robert Peterson.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

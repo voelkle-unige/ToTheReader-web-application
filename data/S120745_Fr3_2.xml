@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author.</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120745_Fr3_2</idno>
+           <idno type="DLPS">A07911</idno>
+           <idno type="STC">18283</idno>
+           <idno type="ESTC">S120745</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author.</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Zelauto. The fountaine of fame : Erected in an orcharde of amorous aduentures. Containing a delicate disputation, gallantly discoursed betweene to noble gentlemen of Italye. Giuen for a freendly entertainment to Euphues, at his late ariuall into England. By A.M. seruaunt to the Right Honourable the Earle of Oxenford</title>
+                 <author>Munday, Anthony</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 </imprint>
+                 <extent>12, 156 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="59"/>
+   <pb n="99" facs="59"/>
+   <head>The Author.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Gentlemen, in the meane tyme as Astraepho is prouiding his Dinner, and hath left Zelauto at home to peruse at his pleasure on an Amorous discourse: I wyll seeme so sausie, as to molest his studies, and desire him to let you be partakers of this Delycate dis<g ref="char:EOLhyphen"/>course. I hope I shall not neede to be all day in crauing: nor he so vncourteous to deny my request, if he should, I must confesse he offereth me great iniurie, in taking so much paines for him: I deserue to craue a mightier mat<g ref="char:EOLhyphen"/>ter. VVell, I will assure my selfe to speede in my pur<g ref="char:EOLhyphen"/>pose, and you shall haue the hearing of the Dayntie De<g ref="char:EOLhyphen"/>uise. If after you haue read it, you finde it woorth his hyre, and that it hath pleased you, which is my whole wishe: I shall then prouide a Peach for all prating Parasites: and keepe a sweete Figge to gratifie my freend with all.</p>
+   <q>Honos alit Artes.</q>
+   <trailer>FINIS.</trailer>
+   <closer>
+      <signed>A. Munday.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

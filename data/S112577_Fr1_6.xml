@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1566</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112577_Fr1_6</idno>
+           <idno type="DLPS">A02879</idno>
+           <idno type="STC">13017</idno>
+           <idno type="ESTC">S112577</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A chrystian exhortation verye profitable : gathered out of the holye scriptures, vnto the great comfort, and vtilitye, of euery faythfull soule, being in agony of death, vnto whom, it oughte to be rehersed, with lowd voyce, diuers and sundry times, if nede so require vnto the which is added, towarde the latter end a godly praier for the sick drawing to an ende of this life, with a catechisme, not onely to instruct the sicke, but also to refreshe his memorye, wyth the great mistery of our redemption. Translated out of Frenthe [sic] into Englyshe by Robart Heasse minister at Algate</title>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1566</date>
+                 </imprint>
+                 <extent>42 + pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="3"/>
+   <q>
+      <p>Death is ende, and the beginning of lyfe.</p>
+      <bibl>Ecclesiastes .xvii.</bibl>
+   </q>
+   <q>
+      <p>Ante lauguorem adhibe me<g ref="char:EOLhyphen"/>dicinam et ante iudicium in, terroga teipsū, et in conspec<g ref="char:EOLhyphen"/>tu dei inuenies propitiationē</p>
+      <bibl>Apocalip. iii.</bibl>
+   </q>
+   <q>
+      <p>Si non vigilaueris veniam ad te tanquam fur et nescis qua hora veniam ad te.</p>
+      <bibl>Apocalip. xvi.</bibl>
+   </q>
+   <q>
+      <p>Beatus qui vigilat et custo<g ref="char:EOLhyphen"/>dit vestimenta sua nenudus ambulet et videant turpitu<g ref="char:EOLhyphen"/>dinem eius.</p>
+      <bibl>Math. 24.</bibl>
+   </q>
+   <q>
+      <bibl>Luke. 12.</bibl>
+      <p>Estote parati quia nescitis qua hora filius hominis ven<g ref="char:EOLhyphen"/>turus est.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

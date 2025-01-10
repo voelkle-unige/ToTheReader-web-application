@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102759_Fr1_4</idno>
+           <idno type="DLPS">A01287</idno>
+           <idno type="STC">11410</idno>
+           <idno type="ESTC">S102759</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A direction or preparatiue to the study of the lawe : wherein is shewed, what things ought to be obserued and vsed of them that are addicted to the study of the law, and what on the contrary part ought to be eschued and auoyded</title>
+                 <author>Fulbeck, William</author>
+                 <imprint>
+                    <publisher>Wight, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>4, 95, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="5"/>
+   <p>Faultes escaped in the printing of
+the Table of wordes annexed to the
+eight Chapter, may be thus amen<g ref="char:EOLhyphen"/>ded.</p>
+   <p>
+      <list>
+         <item>Fol. 74. b for Index read Iudex</item>
+         <item>fol. 75. a for Debito read Debitor</item>
+         <item>ibidem. for mixt read mixtae</item>
+         <item>fol. 76. a for Doto read Dolo</item>
+         <item>ibidē. b for Fidenistor read Fideiussor</item>
+         <item>fol. 77. a for fato read salo</item>
+         <item>fol. 78. b for Maritinum read Maritimum</item>
+         <item>fol. 80. b for contumately read continuately</item>
+         <item>fol. 81. a for vacillaus read vacillans.</item>
+      </list>
+   </p>
+   <p>The other faultes escaped in the prin<g ref="char:EOLhyphen"/>ting
+of the other Chapters, a curteous
+eye and vnderstanding may easily re<g ref="char:EOLhyphen"/>forme.</p>
+</div>
+        </body>
+  </text>
+</TEI>

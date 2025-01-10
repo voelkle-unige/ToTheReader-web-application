@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Authour.</title>
+           <author>Garden, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103342_Fr1_11</idno>
+           <idno type="DLPS">A01930</idno>
+           <idno type="STC">12067</idno>
+           <idno type="ESTC">S103342</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Authour.</title>
+                 <author>Garden, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first booke of the famous historye of Penardo and Laissa : other ways callid the warres, of love and ambitione. Wherein is described Penardo his most admirable deeds of arms, his ambition of glore his contempt of loue, with loves mighte assalts &amp; ammorus temptations: Laissas feareful inchantment hir releif hir trauells and lastly loves admirabel force, in hir releiving Penardo from ye fire, doone in heroik verse, by Patrik Gordon</title>
+                 <author>Gordon, Patrick</author>
+                 <imprint>
+                    <publisher>Waters (Walters), Joris (George)</publisher>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>280 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="10"/>
+   <head>To the Authour.</head>
+   <l>
+      <seg rend="decorInit">T</seg>H' Ent<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>usiasme, or furie of thy spreit,</l>
+   <l>A grace both great, &amp; dignlie deim'd di<g ref="char:EOLhyphen"/>vyne▪</l>
+   <l>So fluentlie, into thy front does fleit,</l>
+   <l>Whill all the world admeirs both the and thyne</l>
+   <l>Each word has weght, and full of lyfe <gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>ch <gap reason="illegible" resp="#pdcc" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+   </l>
+   <l>Quick thy conceapt Emphaticall thy phraise,</l>
+   <l>Thy number's iust▪ judicious thy ingyne,</l>
+   <l>O thow the new adorner of our dayes.</l>
+   <l>Whoes pen or pinsell shall depaint thy praise</l>
+   <l>Since <hi>Mare</hi> nought, nor the <hi>Meonian</hi> muse</l>
+   <l>Be with their learned nor their liuery <gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>yes</l>
+   <l>Into this wondrous worthie work to vse.</l>
+   <l>Then tak this task, &amp; tune thy trump vnto it:</l>
+   <l>For onlie thow art destinatt to doe it.</l>
+   <closer>
+      <signed>M<seg rend="sup">r</seg>. Allexander Gardyne.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

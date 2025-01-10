@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Post-Script to the Reader</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4896_Ba1_1</idno>
+           <idno type="DLPS">A11845</idno>
+           <idno type="STC">22149.3</idno>
+           <idno type="ESTC">S4896</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Post-Script to the Reader</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The bearing and burden of the spirit : wherein the sicknesse and soundnesse of the soule is opened, and eight cases of conscience cleared and resolved for the setling and comforting of perplexed consciences by John Sedgwick</title>
+                 <author>Sedgwick, John</author>
+                 <imprint>
+                    <distributor>Harford (Hartford), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Blunden, Humphrey.</publisher>
+                            <publisher>Miller, George</publisher>
+                        </imprint>
+                 <extent>8, 361, 11 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <pb facs="191"/>
+   <head>A Post-Script to the Reader</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hou hast a promise of Cases in the Epistle unto thee, I had no sooner made it, but it was called for by desiring and needing Chri<g ref="char:EOLunhyphen"/>stians, time and leasure also serving, it is brought forth, as fitly agreeing with the subject handled, and dee<g ref="char:EOLhyphen"/>med (by men more judicious then my selfe) very comforting and set<g ref="char:EOLhyphen"/>ling unto perplexed soules.</p>
+   <closer>
+      <signed>I. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

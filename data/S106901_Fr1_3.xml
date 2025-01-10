@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translators Dedication.</title>
+           <author>Godwyn, Morg.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106901_Fr1_3</idno>
+           <idno type="DLPS">A01811</idno>
+           <idno type="STC">11947</idno>
+           <idno type="ESTC">S106901</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translators Dedication.</title>
+                 <author>Godwyn, Morg.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Annales of England : Containing the reignes of Henry the Eighth. Edward the Sixt. Queene Mary. Written in Latin by the Right Honorable and Right Reverend Father in God, Francis Lord Bishop of Hereford. Thus Englished, corrected and inlarged with the author's consent, by Morgan Godwyn</title>
+                 <author>Godwin, Francis</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Islip, Adam.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>16, 394, that is 294, 293-342, 2 pages, engraved portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translators_dedication">
+   <pb facs="3"/>
+   <head>The Translators Dedication.</head>
+   <head type="sub">TO THE RIGHT Honourable, the Lord <hi>SCVDAMORE,</hi> Viscount SLEGO.</head>
+   <opener>
+      <salute>My Lord,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">A</seg>Lthough I haue ever been averse from works of this nature, as desi<g ref="char:EOLhyphen"/>rous to know them in the Originall, rather then in any after-taught language; yet have I not vn willingly vndergone the taske of this Translation. It is an <hi>English</hi> History ofthose turbulent times, whereof no one hath writ<g ref="char:EOLhyphen"/>ten either so largely or freely as this Au<g ref="char:EOLhyphen"/>thour,
+<pb facs="4"/>
+who intended it for the common good, whereof the meere <hi>English,</hi> without these or the like paines of some other would have beene incapable. Your Lordship hath knowne it in the <hi>Latine,</hi> which tongue you have naturalized. VVherefore this Dedica<g ref="char:EOLhyphen"/>tion may seeme needles. But it is due to You as the worke of your servant▪ in which re<g ref="char:EOLhyphen"/>guard it craves your Honorable Patronage. It hath hitherto walked vnder Royall Pro<g ref="char:EOLhyphen"/>tection. Other would not have befitted the Authour of this ingenuous History, by the exemplified miseries whereof the busie Spi<g ref="char:EOLhyphen"/>rits of these times may learne rightly to deeme of our moderne happinesse. But even small grievances in any <hi>Part</hi> make vs insen<g ref="char:EOLhyphen"/>sible of the generall good estate of the <hi>whole.</hi> VVe wilbe ignorant of our good, and vn<g ref="char:EOLhyphen"/>happy. As for these <hi>Annales,</hi> they have long passed with approbation. If they now distast, let the fault be the Translatours, and the Pardon Yours; to whom alone my maiden pen sueth for favour, and to whose service dedicateth himselfe</p>
+   <closer>
+      <signed>Your Honours most humbly devoted,
+MORG. GODWYN.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

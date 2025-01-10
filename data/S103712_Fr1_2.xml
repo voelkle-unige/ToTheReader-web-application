@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Votum Authoris.</title>
+           <author>Collins, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103712_Fr1_2</idno>
+           <idno type="DLPS">A02553</idno>
+           <idno type="STC">12679.5</idno>
+           <idno type="ESTC">S103712</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Votum Authoris.</title>
+                 <author>Collins, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Meditations and vowes, diuine and morall : Seruing for direction in Christian and ciuill practise. Deuided into two bookes. By Ios. Hall</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Porter, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>8, 231, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>Votum Authoris.</head>
+   <lg>
+      <l>QVas ego non vano deprompsi e pectore leges,</l>
+      <l>Quae{que} ego vota tuli pacis honesta meae.</l>
+      <l>Alme Deus (nec enim sine te vouisse i<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>abit,</l>
+      <l>Te sine nil facio, nil fugio sine te)</l>
+      <l>Da placide seruem, &amp; praesta seruando quietem,</l>
+      <l>Sic mihi certa salus, sic mihi sancta quies.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

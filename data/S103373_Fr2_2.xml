@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103373_Fr2_2</idno>
+           <idno type="DLPS">A07316</idno>
+           <idno type="STC">17704</idno>
+           <idno type="ESTC">S103373</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A nevv eight-fold probation of the Church of Englands divine constitution : prooved by many pregnant arguments, to be much more complete then any Geneuian in the world against the contrary assertion of the fifty three petitioner-preachers of Scotland in their petition presented in the later Parliament to the Kings most excellent Maiesty. With a ten-folde probation of the same churches doctrine touching one of the most important points of our creede, which is of our sauiours descending into Hell. By Iames Maxvvell. Master of Artes, &amp;c</title>
+                 <author>Maxwell, James</author>
+                 <imprint>
+                    <publisher>Legat (Legate, Legatt), John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>16, 74, 2, 27, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="48"/>
+   <p>TO THE RIGHT REVEREND FATHERS IN GOD, THE ARCHBISHOPS, AND BISHOPS, HIS VERY GOOD LORDS, <hi>AND OTHER LEARNED AND GRAVE</hi> PASTOVRS OF THE CHVRCH OF SCOTLAND, <hi>IAMES MAXWELL</hi> WI<g ref="char:EOLhyphen"/>SHETH, PEACE, VNITIE AND <hi>CONCORD FROM THE GOD OF CON<g ref="char:EOLhyphen"/>CORD, AND PRINCE OF PEACE,</hi> AND HVMBLY DEDICATETH FOR A TESTIMONIE OF HIS DVTY, THIS PRESENT TREATISE <hi>OF CHRISTS DESCEN<g ref="char:EOLhyphen"/>DING INTO HELL.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

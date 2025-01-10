@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Readers.</title>
+           <author>W., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119958_Fr1_3</idno>
+           <idno type="DLPS">A15635</idno>
+           <idno type="STC">25901</idno>
+           <idno type="ESTC">S119958</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Readers.</title>
+                 <author>W., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Epithalamia: or Nuptiall poems : vpon the most blessed and happie mariage betweene the high and mightie Prince Frederick the fifth, Count Palatine of the Rhein, Duke of Bauier, &amp;c. and the most vertuous, gracious and thrice excellent Princesse, Elizabeth, sole daughter to ou dread Soueraigne, Iames by the grace of God King of Great Britaine, France and Ireland, defender of the faith, &amp;c. Celebrated at White-hall the fourteenth of Februarie, 1612. Written by George Wither</title>
+                 <author>Wither, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Marchant, Edward.</publisher>
+                            <publisher>Welby, William</publisher>
+                        </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Wedding pamphlets</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Christian Readers.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eaders; for that in my booke of <hi>Saty<g ref="char:EOLhyphen"/>ricall Essayes,</hi> I haue been deemed ouer <hi>Cynicall;</hi> to shew, that I am not wholy inclined to that <hi>Vaine:</hi> But indeed especially, out of the loue which in duty I owe to those incom<g ref="char:EOLhyphen"/>parable <hi>Princes,</hi> I haue in honor of their <hi>Royall Solemnities,</hi> Publi<g ref="char:EOLhyphen"/>shed these short <hi>Epithalamiaes.</hi> By which you may perceaue, (how euer the world thinke of me) I am not of such a Chur<g ref="char:EOLhyphen"/>lish <hi>Constitution,</hi> but I can afford <hi>Vertue</hi> her deserued ho<g ref="char:EOLhyphen"/>nor; and haue as well an affable looke to encourage <hi>Honestie;</hi> as a sterne frowne to cast on <hi>Villanie;</hi> If the <hi>times</hi> would suffer me, I could be as pleasing as others; and perhaps ere long I will make you amends for my former rigor; Meane while I commit this vnto your censures; and bid you farewell.</p>
+   <closer>
+      <signed>G. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

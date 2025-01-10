@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>T., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102450_Fr1_4</idno>
+           <idno type="DLPS">A13819</idno>
+           <idno type="STC">24122</idno>
+           <idno type="ESTC">S102450</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>T., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Saint Peters rocke : vnder which title is deciphered the faith of Peter, the foundation of the church, Christs sacrificehood, and the comfort of the holy Spirit. Done by Alexander Top Gent</title>
+                 <author>Top, Alexander</author>
+                 <imprint>
+                    <publisher>Barker, Christopher, Deputies of</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 </imprint>
+                 <extent>4, 110 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, I haue for
+thy vse and comfort, fra<g ref="char:EOLhyphen"/>med
+(as neere as I could)
+the deriuation of the Chri<g ref="char:EOLhyphen"/>stian
+faith: and that thou
+maist the better vnderstand my meaning
+heerin: knowe, that as the Creede was a
+thing most breef, and learnedly composed
+in the prime time of the Church from ma<g ref="char:EOLhyphen"/>ny
+places of scripture: so my purpose was
+to make a true dissipation of the articles,
+disposing them to the places from whence
+they were first taken: to the end that from
+henceforth thy faith should not he groun<g ref="char:EOLhyphen"/>ded
+vpon bare words, but vpon knowledge
+of these scriptures so materiall for salua<g ref="char:EOLhyphen"/>tion.
+My paines is free, freely vse it, God
+giue grace in all points. Farewell.</p>
+   <closer>
+      <signed>A. T.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

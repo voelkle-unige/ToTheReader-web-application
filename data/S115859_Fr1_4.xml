@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115859_Fr1_4</idno>
+           <idno type="DLPS">A19616</idno>
+           <idno type="STC">605</idno>
+           <idno type="ESTC">S115859</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Scala cœli : Nineteene sermons concerning prayer. The first sixe guiding to the true doore: the residue teaching how so to knocke thereat that wee may enter. The former part containing a preparation to prayer, the latter an exposition vpon the seuerall petitions of the Lor prayer</title>
+                 <author>Andrewes, Lancelot</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Burton, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>14, 248, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="7"/>
+   <head>ERRATA.</head>
+   <p>Reader, I intreate thee for thine owne good, to amend these following faults (com<g ref="char:EOLhyphen"/>mitted in printing) with thy pen, before thou enter vpon the body of the booke, thus:
+<table>
+         <row>
+            <cell>Page</cell>
+            <cell>Line<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </cell>
+            <cell>Fault.</cell>
+            <cell>Correctio<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </cell>
+         </row>
+         <row>
+            <cell>17</cell>
+            <cell>2</cell>
+            <cell>Subiection</cell>
+            <cell>Subiectum</cell>
+         </row>
+         <row>
+            <cell>73</cell>
+            <cell>20</cell>
+            <cell>discite</cell>
+            <cell>Dicite.</cell>
+         </row>
+         <row>
+            <cell>99</cell>
+            <cell>2<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </cell>
+            <cell>to</cell>
+            <cell>goe.</cell>
+         </row>
+         <row>
+            <cell>110</cell>
+            <cell>9</cell>
+            <cell>dr<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d</cell>
+            <cell>Kindred.</cell>
+         </row>
+         <row>
+            <cell>129</cell>
+            <cell>13</cell>
+            <cell>impotent</cell>
+            <cell>impatient.</cell>
+         </row>
+         <row>
+            <cell>142</cell>
+            <cell>10</cell>
+            <cell>in sece</cell>
+            <cell>insere.</cell>
+         </row>
+         <row>
+            <cell>121</cell>
+            <cell>12</cell>
+            <cell>mala</cell>
+            <cell>malo.</cell>
+         </row>
+         <row>
+            <cell>156</cell>
+            <cell>1</cell>
+            <cell>mens</cell>
+            <cell>meus.</cell>
+         </row>
+         <row>
+            <cell>180</cell>
+            <cell>5</cell>
+            <cell>words</cell>
+            <cell>word.</cell>
+         </row>
+         <row>
+            <cell>204</cell>
+            <cell>8</cell>
+            <cell>Meribuh</cell>
+            <cell>Meribah.</cell>
+         </row>
+         <row>
+            <cell>205</cell>
+            <cell>16</cell>
+            <cell>indicat</cell>
+            <cell>inducat.</cell>
+         </row>
+         <row>
+            <cell>206</cell>
+            <cell>4</cell>
+            <cell>dicitur</cell>
+            <cell>ducitur.</cell>
+         </row>
+         <row>
+            <cell>Ibid.</cell>
+            <cell>22</cell>
+            <cell>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s</cell>
+            <cell>as.</cell>
+         </row>
+      </table>
+   </p>
+   <p>
+      <hi>Pag. 244. line 19. for Secenter, read Scienter.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

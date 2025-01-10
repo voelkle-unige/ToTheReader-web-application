@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1556</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100326_Bo1_2</idno>
+           <idno type="DLPS">A22702</idno>
+           <idno type="STC">921</idno>
+           <idno type="ESTC">S100326</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two bokes of the noble doctor and B. S. Augustine : thone entiteled of the predestiuacion [sic] of saintes, thother of perseueraunce vnto thende, whervnto are annexed the determinacions of two auncient generall councelles, confermyng the doctrine taught in these bokes by s. Aug. all faythfully translated out of Laten into Englyshe by Iohn Scory the late B. of Chichester, very necessary for al tymes</title>
+                 <imprint>
+                    <publisher>Erve, Egidius (Gillis) van der (Gellius Ctematius)</publisher>
+                    <pubPlace>Germany--Emden</pubPlace>
+                    <date>1556</date>
+                 </imprint>
+                 <extent>16, 102, 100-123 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="17"/>
+   <head>To the Reader.</head>
+   <p>LEt no man be troubled that S. Augustine ma<g ref="char:EOLhyphen"/>keth no mencion of thys worke that foloweth in his Retractacions. He had his bo<g ref="char:EOLhyphen"/>kes of retractaciōs in hande / whē he wrote these: as he himselfe doth witnesse in the secōde boke of thys matter.</p>
+</div>
+        </body>
+  </text>
+</TEI>

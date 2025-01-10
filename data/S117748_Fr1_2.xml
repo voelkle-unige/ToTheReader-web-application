@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117748_Fr1_2</idno>
+           <idno type="DLPS">A12778</idno>
+           <idno type="STC">23082</idno>
+           <idno type="ESTC">S117748</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The faerie queene : Disposed into twelue bookes, fashioning XII. morall vertues</title>
+                 <author>Spenser, Edmund</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Ponsonby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>2, 590, 518 pages, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>TO THE MOST HIGH, MIGHTIE And MAGNIFICENT EMPRESSE RENOVV<g ref="char:EOLhyphen"/>MED FOR PIETIE, VER<g ref="char:EOLhyphen"/>TVE, AND ALL GRATIOVS GOVERNMENT ELIZABETH BY THE GRACE OF GOD QVEENE OF ENGLAND FRAVNCE AND IRELAND AND OF VIRGI<g ref="char:EOLhyphen"/>NIA, DEFENDOVR OF THE FAITH, &amp;c. HER MOST HVMBLE SERVAVNT EDMVND SPENSER DOTH IN ALL HV<g ref="char:EOLhyphen"/>MILITIE DEDI<g ref="char:EOLhyphen"/>CATE, PRE<g ref="char:EOLhyphen"/>SENT AND CONSECRATE THESE HIS LABOVRS TO LIVE VVITH THE ETERNI<g ref="char:EOLhyphen"/>TIE OF HER FAME.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Sonnet]</title>
+           <author>D., Z.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101235_Fr1_3_1</idno>
+           <idno type="DLPS">B11386</idno>
+           <idno type="STC">1695</idno>
+           <idno type="ESTC">S101235</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Sonnet]</title>
+                 <author>D., Z.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The metamorphosis of tabacco</title>
+                 <author>Beaumont, John</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Flasket, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="sonnet">
+   <l>GRaunt me smooth vtt'rance Muses to reherse</l>
+   <l>The pleasing smoothnesse of thy worthy verse:</l>
+   <l>If there be words fram'd by admired wits</l>
+   <l>To sing thy praise, those words my verse befits,</l>
+   <l>But such are scant, and there's not one remaines</l>
+   <l>Can giue thee due, none worth enough containes.</l>
+   <l>To sing thy praise in an vp-raised straine,</l>
+   <l>And giue desert to thy admired paine:</l>
+   <l>Feare not the censure of each babbling tongue,</l>
+   <l>They care not whom they pleasure, whom they wrong:</l>
+   <l>Respect it not if fooles thy Muse miscall,</l>
+   <l>Thy paine, her worth deserues applause of all:</l>
+   <l>In whose adoring if my pen offends,</l>
+   <l>My heart my pens defaults will make amends.</l>
+   <closer>
+      <signed>Z.D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

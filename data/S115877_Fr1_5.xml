@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>G., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115877_Fr1_5</idno>
+           <idno type="DLPS">A01475</idno>
+           <idno type="STC">11600</idno>
+           <idno type="ESTC">S115877</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>G., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Two treatises : the first, entituled, The foode of the faithfull. The second Deaths welcome</title>
+                 <author>Garey, Samuel</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>14, 29, 3, 80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <p>MAy I presume (gentle Rea<g ref="char:EOLhyphen"/>der) out of my penurie, to throw a mite into the Trea<g ref="char:EOLhyphen"/>surie of the Church, when others which haue larger talents, bury thē in silence, nor will let theyr labors be perused by the common <hi>Argos</hi> of the vngratefull multitude: yet I like a blind <hi>Babius,</hi> haue boldly at<g ref="char:EOLhyphen"/>tempted this hastie birth of my weake brame to come abroad, ho<g ref="char:EOLhyphen"/>ping that all curteous Readers will shroude it vnder theyr fauourable wings, &amp; suffer these feare-blasted
+<pb facs="6"/>fruites to shelter vnder the defen<g ref="char:EOLhyphen"/>siue shaddowes of gentle accepta<g ref="char:EOLhyphen"/>tion: So blushing that this newe spoone-feathered <gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>mbrion of my rude Inuention, hath so soone pas<g ref="char:EOLhyphen"/>sed the limits of immodestie, hum<g ref="char:EOLhyphen"/>bly desiring you to pardon my too rash audacitie, I take my leaue.</p>
+   <closer>
+      <signed>S. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad eosdem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116072_Fr1_1</idno>
+           <idno type="DLPS">A19741</idno>
+           <idno type="STC">6165</idno>
+           <idno type="ESTC">S116072</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad eosdem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Anagrammata in nomina illustrissimorum heroum : Thomae Egertoni</title>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>1 sheet (1 page), 1/2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <p>IN NOMINA ILLVSTRISSIMORVM HEROVM,<list>
+         <item>THOMAE EGERTONI, Sigilli magni Custodis.</item>
+         <item>CAROLI HOVARDI, C. de NOT. Archit. Ang.</item>
+         <item>THOMAE SACVILI, D. de BVC. Thes. Reg.</item>
+         <item>CAROLI BLVNT, D. de MONT. Regis in Hibernia locum tenentis.</item>
+         <item>IOANNIS FORTESCVI, CANC. LAN.</item>
+         <item>GILBERTI TAILBOTI, C. DE SCHR.</item>
+         <item>HENRICII PERCII, C. de NORT.</item>
+         <item>EDOVARDI VEIERI, C. OX.</item>
+         <item>HENRICI VRIOTHESLEI, C. DE SVTH.</item>
+      </list>
+   </p>
+   <p>Necnon</p>
+   <p>IN NOMINA CLARISSIMORVM EEq.<list>
+         <item>IOANNIS STANHOPPI, Vicecam.</item>
+         <item>IVLII CAESARIS, M. Supplicor. LL.</item>
+         <item>GEORGII CHAEREI, Domus Reginae Praefecti.</item>
+         <item>IOANNIS SWINERTONII, Vicec. Lond.</item>
+      </list>
+   </p>
+   <lg>
+      <head>Ad eosdem.</head>
+      <l>VEstra Fides, quorum conatus nemo secutus</l>
+      <l>Phlegraeos, studuit ferro animare manus</l>
+      <l>In Regni Haeredem (O iubeat, cui fata iubenti</l>
+      <l>Obsequium debent, impia turba cadat!)</l>
+      <l>Heroes, mihi carmen erit: concedite sed nunc</l>
+      <l>Vt tenui referam Nomina vestra sono.</l>
+      <l>Officiis, homines, diuos acceditis altis:</l>
+      <l>Este Deis facili mente manu{que} pares.</l>
+      <l>Prodite facto animis similes diis, mente ferentum</l>
+      <l>Duntaxat solitis dona probare sibi.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

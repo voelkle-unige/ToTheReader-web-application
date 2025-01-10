@@ -1,0 +1,969 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader,</title>
+           <author>Prynne, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115452_Fr1_3</idno>
+           <idno type="DLPS">A10184</idno>
+           <idno type="STC">20462</idno>
+           <idno type="ESTC">S115452</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader,</title>
+                 <author>Prynne, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Healthes: sicknesse. Or A compendiovs and briefe discourse : prouing, the drinking and pledging of healthes, to be sinfull, and vtterly vnlawfull vnto Christians; by arguments, Scriptures, fathers, moderne diuines, Christian authors, historians, councels; imperiall lawes an constitutions; and by the voyce and verdict of prophane and heathen writers: wherein all those ordinary obiections, excuses, or pretences which are made to iustifie, extenuate, or excuse the drinking or pledging of healthes, are likewise cleared and answered. By William Prynne Gent. Hospitii Lincolniensis</title>
+                 <author>Prynne, William</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>36, 86, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="8"/>
+   <head>To the Christian Reader,</head>
+   <p>CHristian Reader, among all the grosse and cry<g ref="char:EOLhyphen"/>ing
+sinnes which haue of late defiled and ouer<g ref="char:EOLhyphen"/>spread
+our Nation and the world it selfe, there are
+few more common, few more dangerous, hurtfull,
+and pernicious, then the vnnaturall, vnthrifty, odi<g ref="char:EOLhyphen"/>ous,
+and swinish sinne of Drunkennesse. A sinne,
+which if we will beleeue the<note n="a" place="margin">Aug. Serm. 32 a<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> Fratres in Fremo. De Temp se<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>. 231. 23<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> Basil de letun. &amp; ae E<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>tate, et Lu<g ref="char:EOLhyphen"/>xu serme Clem Alex. Paedag. l. 2, c. 2, 3, 4. Ambr. ae Elia. &amp; leiun. c. 10, to 19 Chrysoft. Hō. 54, 57, 71. &amp; ad Pop. An<g ref="char:EOLhyphen"/>tioch. Hom. 27, in 1 Cor. Hier. Com l. 15. in Eze. 42. Chry<g ref="char:EOLhyphen"/>solog serm. 26. Bern. de Mode Viuēdi, Ser. 26 See Puteani Comus. Opsopae<g ref="char:EOLhyphen"/>us de Arte Bib. l. 2. Friseclinus in Ebriet. Mr. Harris his Diunkards Cup. Master Wards Wooe to Diunkards. The Homily against Drunkennesse. And Mr. Iohn Down<g ref="char:EOLhyphen"/>hams Disswation from Drunkennesse.</note>
+      <hi>Fathers,</hi> (nay<note n="b" place="margin">Plat<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> Symposium. Legum Dial. 1. Plinie Nat. Hist. l. 14, c. 22. Zenophon de Instit. Cyri. l. 8. Memorabilium lib. 7. Seneca Epist. 24<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> 83. Plutarch. de Sanitate tuenda. De Adulat: &amp; Amicit<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>a. Horace Ipist. lib. 1. Epist. 5. Tacitus de Moribus German. cap. 7. S<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>obaeus sermo 18. Ouid. de Arte Aman<g ref="char:EOLhyphen"/>di, lib. 1</note>
+      <hi>In<g ref="char:EOLhyphen"/>fidels</hi>
+and <hi>Pagans</hi> whom Christians should excell)
+<hi>Is but a flattering deuill; a sweet poyson; a voluntarie
+madnesse; an inuited enemie; a deprauer of honestie; a
+wronger of modestie; the mother of all sinne and mis<g ref="char:EOLunhyphen"/>chiefe;
+the sister of all ryot; the father of all pride; the
+author of murthers, quarrels and debates: the nurse of
+furie: the mistresse of petulancie: the inflamation of
+the stomacke: the blindnesse of the eyes, the corruption
+of the breath, the debility of all the members; the accelle<g ref="char:EOLhyphen"/>ration
+of death: and poyson of the soule.</hi> A sinne which
+crackes mens credites, exhausts their purses, con<g ref="char:EOLhyphen"/>sumes
+their estates, infatuates their sences, besots
+their vnderstandings, impaires their healthes, di<g ref="char:EOLhyphen"/>stempers
+<pb facs="9"/>
+their constitutions, subuerts their bodies,
+eates out their liues, ruines their families, grieues
+their friends, brings wrath and iudgements on their
+Countries, decayes their parts and morrall vertues,
+disables them for all imployments, indisposeth them
+to grace and godlinesse, and all the meanes and
+workes of grace, and without Gods infinite mercy,
+and their sound repentance,<note n="c" place="margin">Prou. 23, 32 Nahum. 1, 10. 1 Cor. 6. 10. Gal. 5, 21. Mat 24. 49, 50, 51.</note>
+      <hi>damnes their soules.</hi>
+Strange it is, that this most vnnaturall, vnprofitable,
+vnpleasant, vnseemely, vnreasonable, brutish, base,
+and shamefull sinne of all others, which makes men
+odious and ridiculous vnto themselues, and all that
+see them: which transformes men into beastes
+and swine, or carkases of men: which fights against
+the<note n="d" place="margin">Luke 21, 34 Ephes. 5, 18. 1 Pet. 4, 3.</note>
+      <hi>Lawes of God,</hi> of grace, of nature, sense
+and reason; which<note n="e" place="margin">Pro. 23, 29, 30. Isay 5, 11, 22. Hab. 2. 15, 16. 1 Pet. 2, 11. Isay 28, 1, 3.</note>
+      <hi>wars against the peace and
+safety of mens soules;</hi> which<note n="f" place="margin">1 Cor. 6, 10. Gal. 5. 21.</note>
+      <hi>excludes and shuts
+out men from heauen,</hi> and from<note n="g" place="margin">1 Cor. 5, 11. Pro. 23, 20, 21</note>
+      <hi>the societie and
+company of Gods Saints, and</hi>
+      <note n="h" place="margin">See Master <hi>Stubs</hi> Anato<g ref="char:EOLhyphen"/>my of Abuses, p. 77, 78. Mr. <hi>Wards</hi> Woe to Drun<g ref="char:EOLhyphen"/>kards. Mr. <hi>Thomas Beard</hi> his Theater of Gods Iudge<g ref="char:EOLhyphen"/>ments. l. 2. c. 3.</note> oft-times drawes
+downe many heauy, fatall, sad and dreadfull indgements
+on mens heads, (sufficient to amaze, to split, and
+daunt the hardest and the strongest hearts, and to a<g ref="char:EOLhyphen"/>wake
+the drowsiest, and most stupified, and cauteri<g ref="char:EOLhyphen"/>zed
+conscienses of all such, who are infatuated, and
+benummed with this hellish dropsie:) should so
+farre insinuate it selfe into the affections, practise,
+and liues of men (especially in these radiant, bles<g ref="char:EOLhyphen"/>sed,
+and resplendent dayes of <hi>grace,</hi>
+      <note n="i" place="margin">Tit. 2, 12, 13. Rom. 13, 12, 13</note>
+      <hi>which teach
+vs to denie vngodlinesse and worldly lusts, and to liue,
+soberly, righteously, and godly in this present world,
+looking for the glorious and blessed appearance and
+<pb facs="9"/>
+comming of the great God, and our blessed Sauiour Iesus
+Christ</hi>) as to inthrall and captiuate whole Nations
+to its base and slauish bondage, who professe them<g ref="char:EOLhyphen"/>selues
+not onely to be men and reasonable creatures;
+but likewise temperate, sober, graue, deuout, religi<g ref="char:EOLhyphen"/>gious,
+and holy Christians. I confesse it seemes a
+mystery and wonder vnto me, that naturall and rea<g ref="char:EOLhyphen"/>sonable
+men (much more that such as beare the
+name and face of Christians) should so farre dege<g ref="char:EOLhyphen"/>nerate
+from the very principles of nature, and the
+rules of common reason, as to be intoxicated, ina<g ref="char:EOLhyphen"/>mored,
+bewitched, and insnared with such an
+<note n="k" place="margin">Ebriet atem qui habet, se non habet: hāc qui habet, home non est: hane qui ha<g ref="char:EOLhyphen"/>bet, non p<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>eca<g ref="char:EOLhyphen"/>tum facit, sed ipse est pecca<g ref="char:EOLhyphen"/>tum. <hi>Chry so<g ref="char:EOLhyphen"/>logus Serm 26</hi>
+      </note>
+      <hi>inhumane,</hi> absurde, and Swinish sinne as this,
+which hath no good, no honour, profit, pleasure,
+beauty, nor aduantage in it, to winne, allure, or in<g ref="char:EOLhyphen"/>gage
+men to it: yea, so sarre to be affected and de<g ref="char:EOLhyphen"/>lighted
+with it; as to reioyce and glory in it; to
+magnifie, honour, and applaud, all those who are
+deuoted and inthralled to it; and<note n="l" place="margin">Est in con<g ref="char:EOLhyphen"/>tēptu frugalis vita: libid<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> po<g ref="char:EOLhyphen"/>tands eunctos prodigiosa te<g ref="char:EOLhyphen"/>net. Nemo bo<g ref="char:EOLhyphen"/>nus nunc est, nec strenu<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>s esse videtur Plurima ni poterit perdere vina bibax. Nullus eris si sint ignauae ad pocula vires, Plurima ni sieces pocula, nullus eris. <hi>Obsopaeus De Arte Bi<g ref="char:EOLhyphen"/>bendi, l. 2.</hi>
+      </note>
+      <hi>to vilifie, con<g ref="char:EOLhyphen"/>temne,
+reproach, and vnderualue such, who hate and
+loath it in their Iudgements, or abandon and renounce
+it in their practise.</hi> Certainely, if I did not knowe
+the truth and probate of it, by ocular and experi<g ref="char:EOLhyphen"/>mentall
+demonstrations from day to day; I could
+hardly bring my vnderstanding to beleeue; that
+men, that Christians should so farre affect, admire,
+or odore, so foule, so filthy, so base, so vnamiable,
+so vnfruitfull, vnprofitable and vnpleasant a sinne;
+so vnnaturall and brutish a vice, as this Drunkennes
+in most mens iudgement and experience is. The
+reasons (as I conceiue) why men are now so much
+<pb facs="10"/>
+infatuated with this so odious, execrable, and vn<g ref="char:EOLhyphen"/>pleasant
+sinne, are briefly these.</p>
+   <p>The first, is that very inbred corruption, and pra<g ref="char:EOLhyphen"/>uitie
+of humane nature: which<note n="m" place="margin">Rom. 8, 7, 8.</note>
+      <hi>being a law<g ref="char:EOLhyphen"/>lesse
+and vnruely euill, that nether is, nor can be subiect
+to the law of God,</hi> till it be mortified and subdued by
+the power of grace; doth beare downe all the
+bounds and rules of nature, reason, religion, tempe<g ref="char:EOLhyphen"/>rance,
+and fobriety, and<note n="n" place="margin">
+         <hi>Isay.</hi> 15. 11, 12, 22, 1 Pet. 4, 3, 4. Ad de<g ref="char:EOLhyphen"/>teriora faciles sumus: nō pro<g ref="char:EOLhyphen"/>num tantum iterest ad vi<g ref="char:EOLhyphen"/>tia, sed etiam praecep<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>: <hi>Sene<g ref="char:EOLhyphen"/>ca. Epist. 97.</hi>
+      </note>
+      <hi>carry men headlong vn<g ref="char:EOLhyphen"/>to
+Drunkennesse, riot, excesse of wine,</hi> and all vnreaso<g ref="char:EOLhyphen"/>nable,
+vnnaturall and beastly finnes and lusts, euen
+with a full carere.</p>
+   <p>The second, is the<note n="o" place="margin">Ephes. 2. 2, 3</note>
+      <hi>power of the Prince of the ayre,
+the spirit who now worketh in the children of disobedi<g ref="char:EOLhyphen"/>ence,
+intending the lusts, &amp; desires of their flesh &amp; mind;</hi>
+and carrying them captiue vnto finne. Who hath
+lately gotten such high praedominancie in the soules
+of vitious and carnall men, and added such impu<g ref="char:EOLhyphen"/>dencie
+and vnbridelednesse vnto their sinnes and
+lusts: that they doe not onely<note n="p" place="margin">Phil. 3. 19.</note>
+      <hi>glory</hi> in their
+drunkennesse and grosse intemperance,<note n="q" place="margin">Esay 3. 9.</note>
+      <hi>proclay<g ref="char:EOLhyphen"/>ming</hi>
+it oft times vnto the world with Cornets,
+Drummes, and Trumpets (the common ornaments,
+melodie, solace, or incrediaries of their licentious,
+<note n="*" place="margin">Hoe non est gaudere, sed in<g ref="char:EOLhyphen"/>sanire bibones, <hi>Obsepaeus, de Arte Bib. l. 2</hi>
+      </note>
+      <hi>mad,</hi> deboist, bacchanalian, prophane and heathe<g ref="char:EOLhyphen"/>nish
+Healthes, and ebrious <hi>pot-battels</hi>) but euen
+purposely bend and set themselues against the God
+of heauen: trampling his word, his lawes, and all
+his precepts vnder foote: violating the very lawes
+of nature, and rules of reason: breaking all the cords
+and ligaments of nature, modesty, temperance, and
+<pb facs="10"/>
+sobriety, as if they had no Lord, no God, nor Ruler
+ouer them: felling themselues wholly vnto all ex<g ref="char:EOLhyphen"/>cesse,
+and wallowing like so many base and filthie
+swine, in the mire and puddle of drunkennesse, and
+vomite; as if they were borne for no other pur<g ref="char:EOLhyphen"/>pose,
+but with that infamous, and drink-deuouring
+<note n="r" place="margin">Bonosus non vt viuat na<g ref="char:EOLhyphen"/>tus est, sed vt bibat. <hi>Lypsius Centur. Mis<g ref="char:EOLhyphen"/>cell. Epist. 51. Theatrum vi<g ref="char:EOLhyphen"/>tae humanae.</hi>
+      </note>
+      <hi>Bonosus for to swill and drinke.</hi>
+   </p>
+   <p>The third reason of the encrease and growth of
+drunkennesse, are those many specious, beautifull,
+popular, amiable, and bewitching names and titles
+where with this vgly, odious and filthy sinne, toge<g ref="char:EOLhyphen"/>ther
+with the Practisers, Patrons and Abettors of it,
+are beautified, guilded, and adorned; and those com<g ref="char:EOLhyphen"/>mon
+termes and mottoes of ignominie, scorne, and
+reproach, which Satan and his ebrious crue, haue
+cast vpon the graces of temperance and sobrietie,
+and on the persons of all such temperate, holy, and
+abstemious Christians, who doe in truth pursue
+them in their liues &amp; practise. As all<note n="s" place="margin">Quicquid vi<g ref="char:EOLhyphen"/>tium erat, vir<g ref="char:EOLhyphen"/>tutis nomen induit. Putea<g ref="char:EOLhyphen"/>ni Comus. Probitatis in<g ref="char:EOLhyphen"/>ertia nomen, Iustitiae for<g ref="char:EOLhyphen"/>mido subit. <hi>Claud. in Eu<g ref="char:EOLhyphen"/>trop. l. 2.</hi> Ne<g ref="char:EOLhyphen"/>quitiae classes candida velae ferunt. <hi>Petro<g ref="char:EOLhyphen"/>nius pag. 154.</hi> Vitia pro vir<g ref="char:EOLhyphen"/>tutibus hodie habentur. <hi>Diō. Cass. Roman. Hist. l. 58.</hi> Non solum vi<g ref="char:EOLhyphen"/>tiosa, sed &amp; vitia laudan<g ref="char:EOLhyphen"/>tur. <hi>Seneca E<g ref="char:EOLhyphen"/>pist. 114.</hi>
+      </note> other sins and
+vices: so <hi>Drunkennes</hi> is now <hi>shrowded</hi>
+      <note n="t" place="margin">Ducitur e<g ref="char:EOLhyphen"/>brietas nunc virtus maxi<g ref="char:EOLhyphen"/>ma: nemo. Carpentē bane sicco rebitur o<g ref="char:EOLhyphen"/>re loqus: Quae<g ref="char:EOLhyphen"/>ritur hac celebris nunc cunctis gloria: cunctis, Quaeritur hac nomen, gratia, fama, fauor, <hi>Obsopaeus de Arte bibendi. lib. 2.</hi>
+      </note> (nay <hi>coun<g ref="char:EOLunhyphen"/>tenanced,
+defended, iustified and applauded,</hi>) vnder the
+popular and louely titles of <hi>hospitality, good-fellow<g ref="char:EOLhyphen"/>ship,
+courtesie, entertainement, iouiality, mirth, gene<g ref="char:EOLhyphen"/>rosity,
+liberality, open house keeping, the liberall use of
+Gods good creatures, friendship, loue, kindnesse, good
+neighbour hood, company-keeping,</hi> and the like: and
+<hi>Drunkards</hi> are likewise magnified, and extolled, vn<g ref="char:EOLhyphen"/>der
+the amiable, reuerenced, and applauded termes
+of <hi>good-fellowes, wits; Poets; courteous<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> sociable</hi>
+      <note n="u" place="bottom">Haec tamen illi omniae cum faciant hilares niti<g ref="char:EOLhyphen"/>dique vocantur. Iuuenal. Satyr. 11.</note>
+      <hi>mer<g ref="char:EOLhyphen"/>rie,
+<pb facs="11"/>
+         <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>ouiall, and boone-companions: generous, liberall,
+free-hearted, valiant, and heroick Sparkes and Spirits:
+sociable, pleasant, and good-natured Gentlemen: open,
+liberall and free house-keepers; merry</hi>
+      <note n="x" place="margin">Hence came the phrase <hi>pergracari;</hi> or <hi>Graco modo bibere:</hi> Caelius Rhod. Antiq. Lect. l. 28. c. 6. Alex. ab. Alex. l. 5. c. 21 Fran<g ref="char:EOLhyphen"/>cis Irenicus: Germaniae Ex<g ref="char:EOLhyphen"/>egeseos Tom. 1. l. 2. c. 1 <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</note>
+      <hi>Greekes,</hi> and
+such like stiles and titles: which set such a laudible,
+specious, beautifull, amiable, and comly glosse and
+varnish on <hi>Drunkennesse</hi> and <hi>Drunkards,</hi> which are
+full od<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ous, loathsome, and deformed in themselues:
+that they doe euen<note n="y" place="margin">
+         <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>allit enim vitium specis virtutis &amp; vmbra. <hi>Iu<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>en. Satyr.</hi> 1. vitta non decipiunt, nisi sub spec<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>e vmbraque vir<g ref="char:EOLhyphen"/>tutum. <hi>Hier. Tom. 1. Epist. 7. c. 4.</hi>
+      </note>
+      <hi>secretly &amp;</hi>
+      <note n="z" place="margin">Quoedam vi<g ref="char:EOLhyphen"/>tia species vir<g ref="char:EOLhyphen"/>tutum praefe<g ref="char:EOLhyphen"/>runt, ideoque pernitiosius su<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>s sectatores decipiunt, quia se sub velami<g ref="char:EOLhyphen"/>ne virtutum tegunt. <hi>Isi<g ref="char:EOLhyphen"/>dor. Hispal. de Sum. Bono. l. 2, c. 35.</hi> Nullum vitium est te<g ref="char:EOLhyphen"/>trius aut pesti<g ref="char:EOLhyphen"/>lentius, eo quod in virtutis specie latet. Osorius de Gloria. l. 1. Sect. 7.</note>
+      <hi>dangerously insi<g ref="char:EOLhyphen"/>nuate,
+incorporate, and instill this beastly and pernici<g ref="char:EOLhyphen"/>ous
+vice, into the affections liues and practise, of carnall,
+gracelesse, and vngodly men, whiles they present it to
+them, as an honest, laudable, and necessarie vertue,</hi> with<g ref="char:EOLhyphen"/>out
+which there can be no loue, no fellowship, no
+true society, nor hospitality, mirth, nor entertain<g ref="char:EOLhyphen"/>ment
+in the world: whereas they could not but ab<g ref="char:EOLhyphen"/>horre
+it, together with all those whose liues are
+tainted and defiled with it, did they but suruay or
+view it in its proper colours. Now as Drunkennes,
+excesse, and Drunkards, are thus magnified, coun<g ref="char:EOLhyphen"/>tenanced,
+&amp; applauded vnder these popular, good<g ref="char:EOLhyphen"/>ly,
+flattering, and insinuating titles; so Temperance
+and Sobriety are deformed, vilified, derided, sen<g ref="char:EOLhyphen"/>tenced,
+condemned, and scoffed at, vnder the appro<g ref="char:EOLhyphen"/>brious
+and disdainfull names, of <hi>puritanisme, precise<g ref="char:EOLhyphen"/>nesse,
+stoicisme, singularity, vnsociablenesse, clownish<g ref="char:EOLhyphen"/>nesse,
+rudenesse, basenesse, melancholly, discourtesie, pride,
+surlinesse, disdaine, coynesse,</hi> and what not;<note n="a" place="bottom">Dat veniam cornis, vexat cen<g ref="char:EOLhyphen"/>sora columbas. Iuuenal. Sat. 2.</note>
+      <hi>and
+temperate, sober, gracious, abstemious, and religious
+Christians,</hi> who make a conscience of excesse vnder
+<pb facs="11"/>
+the ignominious and reproachfull stiles, <hi>of</hi>
+      <note n="a" place="margin">Insani sapi ent, nomen fert equus in<g ref="char:EOLhyphen"/>iqui, Vltrae quam satis est virtutem si petat ipsam <hi>Horrace Epist. l. 1. Epist. 6.</hi>
+      </note>
+      <hi>Puri<g ref="char:EOLhyphen"/>tanes,
+Praecisians, Stoicks; vnsociable, clownish, rustick,
+peruerse, peeuish, humorous, singular, discourteous nig<g ref="char:EOLhyphen"/>gardly,
+pragmaticall, proud, unmannerly, degenerous,
+base, scrupulous, melancholly, sad or discontented per<g ref="char:EOLhyphen"/>sons.</hi>
+He that is now<note n="b" place="margin">Annon hoc ita fit in om<g ref="char:EOLhyphen"/>ni populo? nonne omnem exuperantiam virtutis ode<g ref="char:EOLhyphen"/>runt? quid? Aristides non<g ref="char:EOLhyphen"/>ne ob eam ip<g ref="char:EOLhyphen"/>sam causam pulsus est pae<g ref="char:EOLhyphen"/>tria, quod prae<g ref="char:EOLhyphen"/>ter modum iu<g ref="char:EOLhyphen"/>stus effet? <hi>Cice<g ref="char:EOLhyphen"/>ro Tusc. quaest. lib. 5.</hi>
+      </note>
+      <hi>more holy, temperate, graci<g ref="char:EOLhyphen"/>ous,
+and sober in his life and carriage then the ordinarie
+sort of men.</hi> hee that is reclaimed from his ebrious
+and drunken company and courses, and will not
+drinke, rore, carowse, health, play the good-fellow,
+<note n="c" place="margin">1 Pet. 4. 3. 4.</note>
+      <hi>or runne into the same excesse of Drunkennesse
+and intemperance</hi> that others doe, and as himselfe did
+heretofore, out of conscience, loue, obedience, and
+true deuotion towards God: is forthwith hated, tax<g ref="char:EOLhyphen"/>ed,
+and branded for a <hi>Puritan,</hi> an <hi>Hypocrite,</hi> a Praeci<g ref="char:EOLhyphen"/>sian,
+and I know not what besides: euen by such
+who deemed him an honest man, a sociable, boone,
+and good companion heretofore, when as he would
+swill and drinke, and health, as well as others: (as if
+his temperance and sobriety did depraue, disparage,
+vilifie &amp; disgrace him:) an infallible argument, that
+<hi>Puritans</hi> and <hi>Praecisians</hi> (as the world now takes
+them) are the most religious, holy, temperate, so<g ref="char:EOLhyphen"/>ber,
+and obstemious men of all others; because they
+are generally hated, stiled, and reputed <hi>Puritans</hi> and
+<hi>Praeisians</hi> for this <hi>very cause;</hi> that they are quite re<g ref="char:EOLhyphen"/>claimed
+and estranged from Drunkennesse, health<g ref="char:EOLhyphen"/>ing,
+good-fellowship, and excesse of wine: &amp; <hi>become
+more temperate, sober, holy, and religious in their liues
+then other men,</hi> whose ebrious, riotous and luxurious
+<pb facs="12"/>
+courses they vtterly abandon and dislike,<note n="d" place="margin">Sunt aliqui intempestiuè boni. qui cor<g ref="char:EOLhyphen"/>ruptis moribus publicis conui<g ref="char:EOLhyphen"/>cium benê vi<g ref="char:EOLhyphen"/>uendo faciunt. Erg<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> tanquam scelerum &amp; malitiae suae testes extirpae<g ref="char:EOLhyphen"/>re funditus nituntur, &amp; <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>ollere: gra<g ref="char:EOLhyphen"/>uesque sibi pu<g ref="char:EOLhyphen"/>tant sanquam vita eorum coarguatur. Idcirco aufe<g ref="char:EOLhyphen"/>rantur, qui<g ref="char:EOLhyphen"/>bus coram vi<g ref="char:EOLhyphen"/>uere pudet, qui peccax<g ref="char:EOLhyphen"/>tium frontem et si non verbis, quia tacent, tanien ips<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> vi<g ref="char:EOLhyphen"/>ta genere dis<g ref="char:EOLhyphen"/>simili feriunt &amp; verberant: Castigare e<g ref="char:EOLhyphen"/>nim videtur. quicunque dis<g ref="char:EOLhyphen"/>sentit. <hi>La<g ref="char:EOLhyphen"/>ctantius de Iustitia, lib. 5. c. 9.</hi>
+      </note>
+      <hi>yea
+censure</hi> and condemne, by their practicall <hi>and holy
+liues.</hi> This magnifying, then of Drunkennesse and
+Drunkards vnder these popular, glorious, louely,
+and applauded titles, which sound full sweete and
+pleasant in the eares of most: and this depressing
+and vilifying of Temperance, sobriety, and abste<g ref="char:EOLhyphen"/>mious
+Christians, vnder such ignominious, scorne<g ref="char:EOLhyphen"/>full,
+odious, base, and vndervaluing termes, (which
+make an harsh, an vncouth, preiudicate, and vn<g ref="char:EOLhyphen"/>pleasant
+noyse, among the carnall, vulgar, and loo<g ref="char:EOLhyphen"/>ser
+sort of men;) is one of the maine and chiefest
+causes why Drunkennes doth now so much diffuse
+and spread it selfe.</p>
+   <p>The fourth cause of the increase and growth of
+Drunkennesse, is the negligence and coldenesse of
+Iustices, Magistrates, and inferiour Officers, in the
+due and faithfull execution of those laudable and
+pious Lawes and<note n="e" place="margin">1 Iacob. c. 9. 4 Iacob. c. 5. 7 Iacob. c. 10. 21 Iacob. c. 7.</note>
+      <hi>Statutes,</hi> enacted by our King,
+and State against this odious, swinish, vnthrifty,
+and State-desturbing sinne: which if they were
+as duly executed, as they are generally neglected,
+(and so<note n="f" place="margin">Lex noua vsu non recepta viribus caret, &amp; desuitudine tollitur. <hi>Gaillius Pract. Obser. lib. 2. Obser. 110.</hi>
+      </note>
+      <hi>abrogated, frustrated, and euacuated for
+want of execution</hi>) this noxious dropsie and disease
+of Drunkennesse would soone be cured, and dryed
+vp. If Iustices and Magistrates, were as diligent to
+suppresse and pull downe Drunkennesse and <hi>Ale<g ref="char:EOLhyphen"/>houses,</hi>
+as they are industrious and forwards to Pa<g ref="char:EOLhyphen"/>tronize
+and set them vp,<note n="g" place="bottom">See 4 Iacob. c. 5. 1 Iacob. c. 9.</note>
+      <hi>to the great disturbance,
+<pb facs="12"/>
+hurt and preiudice of our Christian Common-wealth;</hi>
+the wings of Drunkennesse would soone bee clipt,
+whereas now they<note n="h" place="margin">Leges opti<g ref="char:EOLhyphen"/>tima si negli<g ref="char:EOLhyphen"/>guntur, diss<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>lutionem pari<g ref="char:EOLhyphen"/>unt. <hi>Cafe. Pol. l. 5. c. 7.</hi>
+      </note>
+      <hi>spread</hi> and grow from day to
+day, because the sword of execution clipse them
+not.</p>
+   <p>The fift cause, why this gangrene or leprosie of
+Drunkennesse doth so dilate, inlarge, and propalate
+it selfe, is either the ill example of some great men,
+Gentlemen, Clergie men, and others, who insteed
+of being patternes of temperance and sobriety vnto
+inferiour and meaner persons, are oft times made
+their presidents &amp; plot-formes of Drunkennes and
+excesse;<note n="i" place="margin">Quantum pracellunt c<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>teris magni<g ref="char:EOLhyphen"/>tud<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>ne, tantis praestant im<g ref="char:EOLhyphen"/>puritate. <hi>Salu. de Gub. Dei. l. 7. p.</hi> 277.</note>
+      <hi>transcending them in ebrious, riotous, de<g ref="char:EOLhyphen"/>boist,
+intemperate, and licentious courses, as farre as
+they exceede them in their place and dignity.</hi> When
+Gentlemen,<note n="k" place="margin">Velocius &amp; citius was cor<g ref="char:EOLhyphen"/>rumpunt viti<g ref="char:EOLhyphen"/>orum domesti<g ref="char:EOLhyphen"/>ca exempla, <gap reason="illegible" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> subeāt animos magnis a<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>te<g ref="char:EOLhyphen"/>ribus. <hi>Iuuen. Satyr. 14.</hi>
+      </note>
+      <hi>great men,</hi> Magistrates and Mini<g ref="char:EOLhyphen"/>sters,
+who should bee guides and curbes to others,
+shall take delight and pleasure in Drunkennesse and
+excesse: either approuing them by their owne per<g ref="char:EOLhyphen"/>sonall
+practise; or else by tollerating, and allowing
+them in their owne irregular and misgouerned Fa<g ref="char:EOLhyphen"/>milies,
+(which are oft times made the very Theaters
+of <hi>Bacchus,</hi> and the very seminaries, sinkes, and pud<g ref="char:EOLhyphen"/>dles
+of Drunkennesse, vomit, ryot, and intempe<g ref="char:EOLhyphen"/>rance;
+vnder pretence of hospitality and free house-keeping:)
+<note n="l" place="margin">Non ampli<g ref="char:EOLhyphen"/>us mirabor c<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>̄<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> peceant qui ge<g ref="char:EOLhyphen"/>nere ignobiles sunt, quand<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> bi qui summ<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> l<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>lo nati sunt, peccant. <hi>So phocles Aiax Flag. NG. 1165.</hi>
+      </note>
+      <hi>no meruaile if Inferiours</hi> (who com<g ref="char:EOLhyphen"/>monly
+<hi>adore</hi> Superiours chiefe and <hi>greatest</hi>
+      <note n="m" place="margin">Cum surpia placent iis qui habentur boni, ceric valde ho<g ref="char:EOLhyphen"/>nesta videntur esse malis. <hi>Euripid. Hyp<g ref="char:EOLhyphen"/>politus Cor. Sect. 410.</hi>
+      </note>
+      <hi>vices,
+as so many glorious and resplendant vertues:)</hi> doe euen
+plunge themselues, into the very dregges and boggs
+of surfetting, Drunkennesse, and grosse intempe<g ref="char:EOLhyphen"/>rance,
+with greedinesse and delight, <hi>being animated,
+<pb facs="13"/>
+and fleshed by those great examples,</hi> As<note n="n" place="margin">Nemo sibi tantum errat, sed aliis <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>rroris causa &amp; au<g ref="char:EOLhyphen"/>ctor est. Nem<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> ita cadit vt nē alium in so at<g ref="char:EOLhyphen"/>trahat. <hi>Seneca de Vita Beata cap. 1.</hi>
+      </note>
+      <hi>all men,</hi> so
+Magistrates, Ministers, Gentlemen, and great men,
+especially, <hi>doe seldome erre alone;</hi> If these would but
+reforme themselues, and rectifie their vnruly and
+disordered Families, <hi>(which is</hi>
+      <note n="o" place="margin">Demum s<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> am coercer<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> plerisque ha<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>d minus <gap reason="illegible" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> est, quam pre<g ref="char:EOLhyphen"/>uinciam <gap reason="illegible" resp="#tech" extent="3 letters">
+            <desc>•••</desc>
+         </gap>
+         <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>re. <hi>Tac<gap reason="illegible" resp="#tech" extent="2 letters">
+               <desc>••</desc>
+            </gap>us Agricolus vi<g ref="char:EOLhyphen"/>ta. cap. 7.</hi>
+      </note>
+      <hi>as difficult a taske
+to many, as to rule a Prouince.</hi>) This sinne of Drun<g ref="char:EOLhyphen"/>kennesse
+would soone growe drie and out of vse;
+where as now their ill examples feede and nou<g ref="char:EOLhyphen"/>rish
+it.</p>
+   <p>The last, though not the least occasion, why
+Drunkennesse doth so much encrease and super<g ref="char:EOLhyphen"/>abound
+among vs; are those common Ceremonies,
+wiles, and Stratagems, which the deuill and his
+drunken <unclear>rowt</unclear> haue plotted and inuented, of purpose
+to allure, force, and draw men on to Drunkennesse,
+ryot, and excesse of wine. Not to diue into the
+depthes and misteries of the black, the heat henish,
+execrable, and Infernall<note n="p" place="margin">See Obsepae<g ref="char:EOLhyphen"/>us, de Arte Bi<g ref="char:EOLhyphen"/>bend.</note>
+      <hi>Art of drinking,</hi> in which
+I<note n="q" place="margin">Melius est aliquid neseire secure, quam cum periculo discere. <hi>Hier. Tom. 1. Epist. 22. c. 13.</hi>
+      </note>
+      <hi>was nouer learned</hi> nor experienced: nor yet to
+mention<note n="r" place="margin">See <hi>Master</hi> Iohn Downam <hi>his Disswasiō from drunken<g ref="char:EOLhyphen"/>nesse: and Mr.</hi> Harris <hi>his. Drunkenis Cup the Ta<g ref="char:EOLhyphen"/>ble of Drun<g ref="char:EOLhyphen"/>kennesse,</hi> &amp; <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>us potandi.</note>
+      <hi>the drinking by the Die, by the dozen, by
+the yard,</hi> or such like hellish and vnchristian pollicies
+and aloctiues, which Drunkards vse, to force, to
+draw, or lead men on to Drunkennes and excesse;
+in which euery <hi>Alewife</hi> and <hi>Mault sucker</hi> are farre
+more learned and skilfull then my selfe: I dare a<g ref="char:EOLhyphen"/>uouch
+it for an approued truth: that there is no such
+common bayte or stratagem, to winne, to force, in<g ref="char:EOLhyphen"/>tice,
+and lead men on to Drunkennes and intempe<g ref="char:EOLhyphen"/>rance,
+as this idle, foolish, heathenish, prophane,
+and hellish Ceremonie, of <hi>beginning, seconding, and
+pledging Healthes;</hi> which is nothing else in truth
+<pb facs="13"/>
+and verity but a Bawde and Pander vnto Drunken<g ref="char:EOLhyphen"/>nes,
+and a praeludium, in-let, way, and passage vn<g ref="char:EOLhyphen"/>to
+all excesse. If <hi>Health drinking</hi> (which is the
+very mother and nurse of Drunkennes) were but
+once suppressed and banished the world, as an abo<g ref="char:EOLhyphen"/>minable,
+heathenish, vnchristian, and vnlawfull
+Rite,<note n="s" place="margin">See Argu<g ref="char:EOLhyphen"/>ment 14.</note>
+      <hi>which had its birth and pedigree from hell it
+selfe:</hi> the sinne of temulencie and Drunkennesse
+would quickly vanish and growe out of vse: And
+this hath caused me to propalate this short and rude
+<hi>discourse</hi> against these Healthes, vnto the publique
+view, that so I might at least asswage, if not expell
+the dangerous dropsie and disease of Drunkennesse,
+<note n="t" place="margin">Hosea 4. 3.</note>
+      <hi>which makes our Land,</hi> if not the world it selfe, <hi>to
+mourne and languish;</hi> in drying vp these noxious hu<g ref="char:EOLhyphen"/>mours
+and vnhealthy <hi>Healthes,</hi> which feed and nou<g ref="char:EOLhyphen"/>rish
+it. A Treatise (I suppose) which though it may
+seeme harsh and vncouth at the first, to many habi<g ref="char:EOLhyphen"/>tuated,
+infatuated, incorrigible, or cauterized <hi>Drun<g ref="char:EOLhyphen"/>kards,</hi>
+resolued for to liue and die in this their sinne,
+though they fri<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> in hell for euer after; or to praeiu<g ref="char:EOLhyphen"/>dicate,
+<note n="u" place="margin">I shall say to these. <hi>L<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+            <g ref="char:EOLhyphen"/>gant prius. &amp; postea despici<g ref="char:EOLhyphen"/>ant: ne vide<g ref="char:EOLhyphen"/>antur, ne<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+            <gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>u iudicic, sed au odi<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap> prasump<g ref="char:EOLhyphen"/>tione ignorata dānare.</hi> Hier. aduer. Ruffin<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> l. 2. c. 9. Tom. 2. pag. 251.</note>
+      <hi>forest alled, and prepossessed</hi> affections, (who
+<hi>would rather maliciously fore iudge, and rashly censure
+this Discourse and me before they reade it,</hi> then take the
+paines for to peruse it; because they presume, that
+none but factious, nouellizing, precise, or ouer<g ref="char:EOLhyphen"/>zealous
+<hi>Puritans</hi> condemne these <hi>Healthes,</hi> and that
+not out of iudgement, but of pe<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>uish frowardnes.)
+Yet questionlesse it will be acceptable and pleasing
+vnto many: not only for the<note n="x" place="margin">Naturale <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>st potius non<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> quam magna mirari. It <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> e<g ref="char:EOLhyphen"/>nim comp<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>siti sumus, vt nes quotidiana si admiratione digna sunt, tr<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> seant; contra minimarum que{que} rerum s<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> ins<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>lita prodi<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>runt, specta<g ref="char:EOLhyphen"/>culum dulce fi<g ref="char:EOLhyphen"/>at. <hi>Sen. Nat. Quaest. l. 7. c. 1.</hi> Aertor est cu<g ref="char:EOLhyphen"/>piditas ignota cognoscendi, quam nota re<g ref="char:EOLhyphen"/>petendie ad ne<g ref="char:EOLhyphen"/>ua omnes con<g ref="char:EOLhyphen"/>currant, ad ne<g ref="char:EOLhyphen"/>ua tēuentunt. <hi>Sen. cōtrouers. l. 4. Proaem.</hi> Nouitas auditoribus lenocinatur. Plin. Epist. l. 2. Epist. 19. Noua, &amp; non in promptu posita, admirationem suiexcitant auditerem{que} allicinnt. <hi>Plutarch de Homero.</hi> Est qu<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>{que} cunctarum nouitas gratissimarerum. Ouid<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>de Ponto, lib. 3. Elig 4.</note>
+      <hi>no<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>alty</hi> &amp; strange<g ref="char:EOLhyphen"/>nesse
+<pb facs="14"/>
+of it, <hi>which addes delight and acceptation to it:</hi>
+as treating of a <hi>Theame</hi> or <hi>Subiect,</hi> wherein few
+haue lately, purposely, or largely trauelled, especi<g ref="char:EOLhyphen"/>ally
+in our <hi>English</hi> tongue: but likewise in regard of
+the benefit and vsefulnesse of it: as being very sea<g ref="char:EOLhyphen"/>sonable,
+sutable, and needfull for these intemperate,
+dissolute, and bacchanalian times of ours: where
+in <hi>Healthes</hi> and <hi>Drunkennesse</hi> doe so much abound
+(especially in those festiuall and blessed times of ioy
+and thankfulnesse, wherein our temperance, sobrie<g ref="char:EOLhyphen"/>ty
+and holinesse should most excell:) that wee may
+iustly feare, they will drowne vs in some great and
+generall deluge of Gods iudgements ere it be long,
+and cause the Lord to curse and crosse vs in all our
+enterprises and designes (as he hath done for sundry
+yeares, though<note n="y" place="margin">Isay 42. 24. 25. Prou. 23. 34. 35.</note>
+      <hi>we consider and lay it not to heart,</hi>
+in that penitent and soule-affecting manner as wee
+ought) vnlesse we speedily repent vs of them: For
+alas, how can we possibly expect or hope, that God
+should auocate or withdraw his iudgements from
+vs: that he should blesse and prosper vs in any kind;
+that he should pleade our cause, or fight our battels
+for vs: that he should guide, direct, or blesse our
+<hi>King,</hi> our <hi>Queene,</hi> our <hi>Counsellours,</hi> our <hi>Nobles,</hi> or
+our <hi>Rulers,</hi>
+      <note n="z" place="margin">Reges quan<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> boni sunt muneris est Dei quando vero mali, see<g ref="char:EOLhyphen"/>leris est populi: Secundum me<g ref="char:EOLhyphen"/>ritum plebeiū, disponitur vit<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> rect<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>rurn. Ira<g ref="char:EOLhyphen"/>scent<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> enim Deo, talem rectorem popu<g ref="char:EOLhyphen"/>li suseipiunt. qualem pro peecat<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> merē<g ref="char:EOLhyphen"/>tur. Nannun<g ref="char:EOLhyphen"/>quam etiam pro malitia populi reges mutantur<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> &amp; qui ante vide<g ref="char:EOLhyphen"/>bantur esse be<g ref="char:EOLhyphen"/>ni, accepto regno fiunt in<g ref="char:EOLhyphen"/>iqui. <hi>Isiodor. Hispal. de Sum. Bono l. 3. c. 48. Concil. Parisiense sub Ludouico &amp; Lothorio: 829. lib. 2. cap. 1.</hi>
+      </note>
+      <hi>(whom God doth oft times curse and
+alter for the peoples sinnes:)</hi> that he should speed our
+<hi>Generalls,</hi> our <hi>Captaines,</hi> our <hi>Nauies,</hi> or our <hi>Armies,</hi>
+      <note n="a" place="margin">Non igna<g ref="char:EOLhyphen"/>uissiumorem hostium forti<g ref="char:EOLhyphen"/>tudine obrui<g ref="char:EOLhyphen"/>mur, sed s<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>lum vitiorum nostrorum impuritate superamur. Nemo sibi aliud persuade<g ref="char:EOLhyphen"/>at, nem<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> aliud arbitretur: solum nos m<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>rum nostrorum vitiae vicerunt. <hi>Salu. de Gub. Dei. l. 7. p. 238. 278.</hi>
+      </note>
+      <hi>which the Troopes and Armies of our sinnes, and
+not the force and prowesse of our enemies, haue van<g ref="char:EOLhyphen"/>quished
+<pb facs="14"/>
+and put to flight:)</hi> when as our <hi>Healthes</hi> are
+farre more dense and frequent, then our <hi>Prayers</hi> for
+them? when as wee ouerwhelme and drowne our
+soules and spirits, and quite<note n="b" place="margin">Habet h<gap reason="illegible" resp="#tech" extent="2 letters">
+            <desc>••</desc>
+         </gap> temulentia, vt &amp; molliat &amp; resoluat corda temulent<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>rum <hi>Ambr. de Elia &amp; Ieiun c. 12. Basil. de Ebri<g ref="char:EOLhyphen"/>ctate &amp; Luxu. Serm. Obso<g ref="char:EOLhyphen"/>poeus De Arte Bibendi, l. 2.</hi>
+      </note>
+      <hi>ener<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>ate, weaken, and
+dissolue our bodies</hi> (which are, or <hi>should be</hi>
+      <note n="c" place="margin">1 Cor. 3. 16. &amp; 6. 15. 19.</note>
+      <hi>Tem<g ref="char:EOLhyphen"/>ples
+for the holy Ghost to dwell in)</hi> with Drunkennesse,
+ryot, and excesse of Wine; and cause the Lord of
+Hoasts himselfe to be our enemy,<note n="d" place="margin">Isay 8. 7. to 15.</note>
+      <hi>(whose force and
+power no creatures can resist)</hi> by our intemperate,
+ebrious, and luxurious sinnes? When as <hi>we put away
+farre from vs the euill day, and cause the seate of vio<g ref="char:EOLhyphen"/>lence
+to come neere: stretching our selues vpon our cou<g ref="char:EOLhyphen"/>ches
+and beds of Iuorie: eating the Lambes out of the
+stockes, and the Calues out of the stall: chaunting to the
+sound of the Viole, and inuenting to our selues instru<g ref="char:EOLhyphen"/>ments
+of musicke</hi> (in these dangerous,<note n="e" place="margin">Amos 6. 1. to 7. Isay 5. 11. 12.</note> sad, and dole<g ref="char:EOLhyphen"/>full
+times, when as teares should bee our mirth and
+chiefest solace,) which doe so farre infatuate and
+stupifie our hearts and iudgements; <hi>that wee regard
+not the workes nor iudgements of the Lord, neither con<g ref="char:EOLhyphen"/>sider
+the operation of his hands;</hi> (which we may iustly
+feare are working of our ruine:) <hi>drinking Wine in
+bowles; rising vp early in the morning, that wee may fol<g ref="char:EOLhyphen"/>low
+strong drinke, and continuing at it vntill night, till
+wine enflame vs; as if we were free</hi> frō feare of euill, or
+as if there were no God in heauen for to punish vs:
+and <hi>yet not grieuing for the afflictions of Ioseph,</hi> nor for
+our manifold and great rebellions against our good
+and gracious God: whose<note n="f" place="margin">Rom. a. 4.</note>
+      <hi>patient goodnesse,</hi> and
+long-continued mercies, doe now call; and dread<g ref="char:EOLhyphen"/>full
+iudgements, force &amp; summon vs to repentance?
+<pb facs="15"/>
+Certainly, though I dare not antedate the sorrowes
+of our <hi>Syon,</hi> or raise a feare or iealousie without a
+ground; yet when I doe but seriously and cordially
+suruay, that intollerable<note n="g" place="margin">Ezech. 16. 49</note>
+      <hi>pride;</hi> that <hi>aboundance
+of idlenesse;</hi> that <hi>fulnesse of bread;</hi> that <hi>lusting after
+strange flesh</hi> (the <hi>sinnes that drew downe fire and brim<g ref="char:EOLhyphen"/>stone
+vpon Sodome long agoe;</hi>) those monstrous ha<g ref="char:EOLhyphen"/>bites,
+fashions and attires: that excessiue vanity, A<g ref="char:EOLhyphen"/>theisme
+and prophanenesse: that execrable and
+<note n="h" place="margin">Plures in<g ref="char:EOLhyphen"/>uenia<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> qui sae<g ref="char:EOLhyphen"/>pius peiurent, quam qui om<g ref="char:EOLhyphen"/>nine non tu<g ref="char:EOLhyphen"/>rent. <hi>Salu. de Gub. Dei. l. 3. p. 79.</hi>
+      </note>
+      <hi>frequent</hi> banning, <hi>swearing,</hi> cursing and blasphe<g ref="char:EOLhyphen"/>ming:
+that greedie couetousnesse, extortion and
+oppression; that fearefull murther and bloudshed;
+that scurrility, effaeminacie, wantonnesse, fornicati<g ref="char:EOLhyphen"/>on,
+whoredome, adulterie and vncleanenesse: that
+generall neglect, contempt and hatred of God, of
+grace, of goodnesse, and the Gospell: that<note n="i" place="margin">Nihil amen<g ref="char:EOLhyphen"/>tius est, quam in malis esse, &amp; malorum intelligentiam non habere. <hi>Salu. de Gub. Dei. l. 6. p. 216. 217.</hi>
+      </note>
+      <hi>stupi<g ref="char:EOLhyphen"/>fied
+and sencelesse security,</hi> and hardnesse of heart, <hi>in
+the middest of feares and dangers:</hi> that degenerating
+and growing worse and worse, not withstanding all
+Gods iudgements,<note n="k" place="margin">Non mirum est si quotidie deteriora pa<g ref="char:EOLhyphen"/>timur, qui quo<g ref="char:EOLhyphen"/>eidiè deteriores sumus. <hi>Salu. de Gub. Dei. l. 4. p. 111.</hi>
+      </note>
+      <hi>which still encrease vpon vs, be<g ref="char:EOLhyphen"/>cause
+our sinnes encrease:</hi> that dissolutenesse, that
+drunkennesse, deboistnesse, and excesse of <hi>Healthes;</hi>
+together with those other troopes of sundry sinnes,
+which walke so bold and thick among vs, in despite
+of all those meanes which GOD hath vsed to re<g ref="char:EOLhyphen"/>claime
+vs from them: I cannot but conclude as
+others doe: that these abominations and sinnes of
+ours (especially in these times of feare and danger,
+<note n="l" place="margin">Isay 22. 12. Ier. 4. 8. &amp; 6. 26.</note>
+      <hi>which cry and call for true repentance</hi>) prognosti<g ref="char:EOLhyphen"/>cate
+no victory, no good, no blessing, nor successe:
+but vndoubted ruine and destruction to vs, vnlesse
+<pb facs="15"/>
+we speedily repent vs of them. Wherefore (Chri<g ref="char:EOLhyphen"/>stian
+Readers) if you haue any compassion of your
+owne poore soules (which <hi>Healthes</hi> and<note n="m" place="margin">Nahum. 1. 10 1 Cor. 6. 10. Gal. 5. 21.</note>
+      <hi>Drun<g ref="char:EOLhyphen"/>kennesse
+will damne to hell without recouerie,</hi> if you pro<g ref="char:EOLhyphen"/>ceede
+on in them:) If you haue any loue to God
+and Christ; or any filiall feare of God, or of his
+wrath and iudgements left within you: If you
+haue any humanity or bowells of compassions in
+you, towards the publicke good and safety of this
+your deare &amp; mother Church, and Country; which
+haue so long supported you in peace and plenty,
+euen beyond your hopes: If you haue any com<g ref="char:EOLhyphen"/>miseration
+of the poore distressed Saints &amp; Church
+of God in forraigne parts, who are almost swal<g ref="char:EOLhyphen"/>lowed
+vp of bloudie persecutors, whiles wee are
+wallowing in carnall pleasures, and delights of sin;
+in luxutie, ryot, Drunkennes, and all excesse, with<g ref="char:EOLhyphen"/>out
+any cordiall pitty or simpathizing compassion
+of, or any sound humiliation for, their low estates:
+If you expect or long for any prosperity, peace, or
+plenty: any abatement, diuertion or extinguish<g ref="char:EOLhyphen"/>ment
+of Gods iudgements at home; or any successe
+or victory abroad: let mee now entreat, and tho<g ref="char:EOLhyphen"/>rowly
+perswade you all<note n="n" place="margin">Rom. 12. 1</note> by <hi>the very mercies of
+God and Christ</hi> (the most flexanimous, perswasiue,
+and preuailing motiue of all others:) by the loue
+you beare vnto the Church of God in generall; to
+this your mother Church and Country; and to
+your owne saluation: by that most sacred oath
+and solemne rouenant which you haue made to
+God in Baptisme, and oft renued in the bloud of
+<pb facs="16"/>
+Christ, in the sight of many witnesses; and by that
+strict, that terrible, and ineuitable account, which
+you must shortly<note n="o" place="margin">Dan. 7. 10. Math. 25. 32. 33 2 Cor. 5. 10.</note>
+      <hi>make before the barre of Christs
+tribunall,</hi> in the open <hi>view of all the world:</hi> that you
+would<note n="p" place="margin">Psal 95. 7. 8. 2 Cor. 6 2.</note>
+      <hi>now,</hi> euen now I say, <hi>whiles the acceptable
+dayes</hi> and times of grace and mercy last; whiles the
+bowels and armes of Christ lye open to receiue
+you, if you will come in: and<note n="q" place="margin">Deut 22. 41 42. Psal. 7. 11 12. 13. Qui volunt a<g ref="char:EOLhyphen"/>tem Dei spre<g ref="char:EOLhyphen"/>uerunt inus<g ref="char:EOLhyphen"/>tantem, volun<g ref="char:EOLhyphen"/>tatem Dei sen<g ref="char:EOLhyphen"/>tient vindi<g ref="char:EOLhyphen"/>cantem. <hi>Pros<g ref="char:EOLhyphen"/>per. Aquit. Re<g ref="char:EOLhyphen"/>spons. ad Ob<g ref="char:EOLhyphen"/>iect. 16.</hi> Vin<g ref="char:EOLhyphen"/>cent.</note>
+      <hi>the arme and sword
+of God are brandished and stretched out against you,</hi> to
+<hi>your iust confusion, if you still stand out:</hi> abandon, ab<g ref="char:EOLhyphen"/>iure,
+renounce, and quite cast off for euer, those cur<g ref="char:EOLhyphen"/>sed
+and pernicious sinnes, in which you are all in<g ref="char:EOLhyphen"/>uolued,
+without any more pretences or delayes.
+Aboue all, resist, oppose, shake off, and quite roote
+out, the vnnaturall, vnreasonable, vnpleasant,<note n="r" place="margin">Vno die bi<g ref="char:EOLhyphen"/>bunt multe<g ref="char:EOLhyphen"/>rum dierum labores. <hi>Ambr. de Elia &amp; Ie<g ref="char:EOLhyphen"/>iun. c. 12.</hi>
+      </note>
+      <hi>vn<g ref="char:EOLhyphen"/>thrifty,
+prodigall, wastfull,</hi> beastly, and shamefull sin
+of Drunkennes,<note n="s" place="margin">Ebrietas multorum ma<g ref="char:EOLhyphen"/>lorum metro<g ref="char:EOLhyphen"/>polis. <hi>Athen. Dipnos. l. 10. c. 1<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>.</hi>
+      </note> (<hi>the metropolis of many mischiefes</hi>)
+which doth<note n="t" place="margin">Qui luxuri<g ref="char:EOLhyphen"/>atur, viuens mortuns est: Ergo qui ine<g ref="char:EOLhyphen"/>briatur, &amp; mortuus &amp; sepultus est. <hi>Hierom. Tom. 2. Epist. 63. c. 4</hi>
+      </note>
+      <hi>not onely slay, but quite interre the soules
+of liuing men,</hi> and indispose them vnto all imploy<g ref="char:EOLhyphen"/>ments;
+and so make them a burthen, a trouble, and
+incumbrance both to Church and State: together
+with all heathenish, hellish, idolatrous, prophane,
+luxurious, and excessiue <hi>Healthes,</hi> which are but
+Panders, Bawdes, Attendants, and Vshers to in<g ref="char:EOLhyphen"/>temperance:
+for feare you bring your selues, your
+soules, your bodies, yea and your dearest deare,
+your Country vnto ruine; Let Great men, Gentle<g ref="char:EOLhyphen"/>men,
+Iustices, Magistrates, and those of better and
+superiour ranke, as they tender Gods glory or their
+Countries good, exile them from their houses, and
+banish them for euer from their Tables; Halls and
+<pb facs="16"/>
+Butteries: as at all times and seasons, so especially
+in the Festiuall time of Christs Natiuitie: where<g ref="char:EOLhyphen"/>in
+<note n="v" place="margin">Sub Christi<g ref="char:EOLhyphen"/>no nomine Gentilem vi<g ref="char:EOLhyphen"/>tam agunt, &amp; aliud professio<g ref="char:EOLhyphen"/>ne, aliud con<g ref="char:EOLhyphen"/>uersatione te<g ref="char:EOLhyphen"/>stantur. <hi>Hier. Tom. 1. Epist. 14. c. 2.</hi>
+      </note>
+      <hi>Christians oft times act the parts of Pagans,</hi>
+and turne incarnate deuils for the present, laying
+aside all reason, temperance, grace, and good<g ref="char:EOLhyphen"/>nesse,
+as vnseasonable and vnseemely ornaments for
+so good a season; giuing themselues wholly ouer to
+gluttony, ryot, luxurie, Drunkennes, Epicurisme,
+Health-drinking, idlenesse, chambering, wanton<g ref="char:EOLhyphen"/>nesse,
+vnlawfull pleasures, games, and carnall mer,
+riments, and all excesse of sinne and wickednesse,
+which may praecipitate and post them on to hell; as
+if they were celebrating the ancient <hi>Bacchanalia,</hi> or
+the deuils birth-day, and not the birth of Christ:
+who came to redeeme and free vs from these infer<g ref="char:EOLhyphen"/>nall,
+heathenish, prodigious, gracelesse, prophane,
+and godlesse practises, which <hi>Turkes</hi> and <hi>Pagans</hi>
+would abhorre: and not to set hell loose; or to giue
+men liberty and exemption to sinne without con<g ref="char:EOLhyphen"/>trole
+or mealure, vnder pretence of giuing honour
+to his birth-day: Certainly Christ wil not be fed nor
+honoured with the Deuils broth; with the Deuils
+sacrifices and <hi>Drinke-offerings:</hi> with such odious,
+shamefull, vile, and loathsome things, as <hi>Drunken<g ref="char:EOLhyphen"/>nesse,</hi>
+vomite, <hi>Healthes,</hi> and ryot are: Let Christi<g ref="char:EOLhyphen"/>ans
+therefore quite renounce them, and leaue them
+vnto <hi>Bacchus,</hi> and his heathenish, Pagan, and infer<g ref="char:EOLhyphen"/>nall
+Crue: Let Magistrates suppresse &amp; curbe them,
+by executing all those lawes that are in force against
+them, euen with care and conscience: Let Ministers
+<pb facs="17"/>
+who are<note n="x" place="margin">
+         <hi>Apost. Cano<g ref="char:EOLhyphen"/>nes</hi> Can. 53. <hi>Deerete <gap reason="illegible" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap> P<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>p<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>.</hi> Can. 10. <hi>C<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>ne. <gap reason="illegible" resp="#tech" extent="3 letters">
+               <desc>•••</desc>
+            </gap>dicenum.</hi> Can. 24. <hi>Car<g ref="char:EOLhyphen"/>thaginense</hi> 3. Can. 27. <hi>A<g ref="char:EOLhyphen"/>phricanum.</hi> Can. 7. <hi>Constā<g ref="char:EOLhyphen"/>tinop</hi> 6. Can. 9 <hi>Turonense.</hi> 3. Can. 21. <hi>Cabi<g ref="char:EOLhyphen"/>lon:</hi> 2. Cā. 44 <hi>Rhemense.</hi> 823 Can. 26. <hi>A<g ref="char:EOLhyphen"/>quisgranense</hi> An. 816. Can. 60. 90. <hi>Refor<g ref="char:EOLhyphen"/>matio Cleri German<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>ae R<gap reason="illegible" resp="#tech" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+            <g ref="char:EOLhyphen"/>tisponae.</hi> 1524 Can. 3. 8. <hi>Conc. Colon:</hi> 1636. part. 2. cap. 25. part 5. c. 6. <hi>Au<g ref="char:EOLhyphen"/>gustense,</hi> 1541. cap. 10. 19. <hi>Mo<g ref="char:EOLhyphen"/>guntin.</hi> 1549. Can. 74. See <hi>Gratian, Distinct. 44. Bochellius De<g ref="char:EOLhyphen"/>cret. Eccl. Gal<g ref="char:EOLhyphen"/>lica.</hi> lib. 6. Tit. 19.</note>
+      <hi>enioyned by sundry Councels not so much as
+to enter into any <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>nne or victualing house</hi> (much less in<g ref="char:EOLhyphen"/>to
+a sauerne, Alehouse, or Tobacco-shop, where
+too too many of them place their chiefest residen<g ref="char:EOLhyphen"/>cie)
+<hi>vnlesse it were in case of necessity when they trauell;</hi>)
+<note n="y" place="margin">Isay 58. 1.</note>
+      <hi>Lift vp their voyce and cry aloud against them;</hi> not
+only by their doctrine but by their practise too:<note n="z" place="margin">Iudg. 5. 23.</note> Let
+all who beare a louing heart to God, to Christ, to
+Church, to Country, or themselues, <hi>come forth to
+helpe the Lord,</hi> and this our <hi>Zion,</hi> against these <hi>migh<g ref="char:EOLhyphen"/>tie,</hi>
+generall, praeualent, and pernicious enemies,
+which threaten a Catastrophe and deluge of Gods
+iudgements to vs: for feare they in<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ur <hi>that bitier
+curse of Meroz,</hi> which no heart can beare. I for my
+owne part can but blow the Trumpet, and giue the
+on-set; it is others that must giue the foyle, and
+ouerthrow to these hostile powers: If these my
+weake and meane endeuours shall so farre preuaile
+with any, as to cause them to take vp Armes against
+these sinnes, that so they may suppresse or bridle
+them; or to diuert, reclaime, and winne such from
+them, who haue beene formerly enamored with
+them, or held captiue by them; I shall thinke my
+labour highly recompenced, and happily rewarded:
+But if they proue vnfruitfull or ineffectuall vnto all,
+or bring mee nothing but reproach and scorne,
+among the looser and deboister sort; whose blacke
+and filthy mouthes, or burthened and distempered
+stomackes, may chance to vomite vp some cra<g ref="char:EOLhyphen"/>pulous,
+noysome, and superfluous crudities of
+<pb facs="17"/>
+      <note n="a" place="margin">Nunquid aeger laudauit medicum se<g ref="char:EOLhyphen"/>cantem? <hi>Se<g ref="char:EOLhyphen"/>nec. Epist. 53.</hi>
+      </note>
+      <hi>scandalls scornes, hatred, &amp; reproach against me,</hi> be<g ref="char:EOLhyphen"/>cause
+I offer violence to their best beloued <hi>Dalilaes</hi>
+and bosome lusts,<note n="b" place="margin">Nulls gratae repr<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>hensio est<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap> imo quod niul<g ref="char:EOLhyphen"/>to peius est, quamlibet ma<g ref="char:EOLhyphen"/>lus, quamlibet perditus ma<g ref="char:EOLhyphen"/>uult mendaci<g ref="char:EOLhyphen"/>ter praedicari, quam iure re<g ref="char:EOLhyphen"/>prehendi: &amp; falsarum lau<g ref="char:EOLhyphen"/>dum irrisioni<g ref="char:EOLhyphen"/>bus decipi, quā saluberrima admonitione seruari, <hi>Salu. de Gub. Dei. l. 8. p. 279.</hi>
+      </note>
+      <hi>whose iust reproofe they cannot
+brooke:</hi> yet this shal be my ioy and comfort: that as
+Drunkards <hi>scornful, rash, &amp; vndeserued censures</hi> (which
+<note n="c" place="bottom">Magna dementia est, verert ne infameris ab infamibus. <hi>Seneca Epist. 91.</hi>
+      </note>
+      <hi>I deeme but folly for to feare</hi>)<note n="d" place="bottom">Regi<g ref="char:EOLhyphen"/>um est male audire cum bene feceris. <hi>Plutarch Apotheg. Graec.</hi>
+      </note>
+      <hi>are crownes and ho<g ref="char:EOLhyphen"/>nors,</hi>
+not blemishes and debasements; especially to
+such as seek mens spirituall good and welfare,<note n="e" place="bottom">Qui laudem non appetit, nec centumeliam sentit. <hi>Bern. de Inter. Demo. c. 42.</hi>
+      </note>
+      <hi>not
+their praise:</hi> So God himselfe, how euer men requite
+me, will yet <hi>reward and</hi>
+      <note n="f" place="bottom">Mens boni studii ae pii voti, etiamsi effectum non inuenerit capts operis, habet tamen pramium voluntatis. <hi>Salu. Praesat. in l. 1. de Gub. Dei.</hi>
+      </note>
+      <hi>recompence me for this my
+poore endeauour</hi> (being all that I could do or promise)
+<hi>though he denie successe vnto it:</hi> which is not mine,
+but his to giue. Thus leauing this poore <hi>Treatise</hi> to
+thy charitable and pious censure (Christian Reader;
+from whom I shall request this fauour onely; <hi>to read
+and know before thou iudge:</hi>) I commend both it and
+thee to Gods owne blessing. Farewell.</p>
+   <signed>The vnfained well-wisher of thy
+<hi>spirituall</hi> and <hi>corporall,</hi> though
+the oppugner of thy <hi>pocular</hi> and
+<hi>Pot-emptying Health.
+WILLIAM PRYNNE.</hi>
+   </signed>
+</div>
+        </body>
+  </text>
+</TEI>

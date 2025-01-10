@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109260_Fr1_7</idno>
+           <idno type="DLPS">A04841</idno>
+           <idno type="STC">14973</idno>
+           <idno type="ESTC">S109260</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An halfe-penny-worth of vvit, in a penny-worth of paper. Or, The hermites tale</title>
+                 <author>King, Humphrey</author>
+                 <imprint>
+                    <publisher>Blount (Blunt), Edward</publisher>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>12, 35, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="6"/>
+   <lg>
+      <l>TO grace the man whom all the Graces fauour,</l>
+      <l>Lies not within the compasse of my quill,</l>
+      <l>Suffice it his most plausible behauiour,</l>
+      <l>Drawes all the happy choise of wits, and skill,</l>
+      <l>To loue, admire, affect, and dignifie,</l>
+      <l>Himselfe, and these his labours pleasing lines.</l>
+      <l>Mongst whom my zeale presumes to signifie</l>
+      <l>Some loue to him, in whom such vertue shines.</l>
+      <l>An <hi>Hermits Tale,</hi> an <hi>Hermits Heart</hi>
+declareth;</l>
+      <l>Sincere the one, so spotlesse pure the other,</l>
+      <l>That with the vertues euermore it shareth,</l>
+      <l>By no meanes suffering ill the good to smother.</l>
+   </lg>
+   <lg>
+      <l>Go then sweet <hi>Hermits Tale,</hi> and tell the
+wisest,</l>
+      <l>Perfection liues not still in the precisest.</l>
+   </lg>
+   <trailer>Ʋincor, non vinco.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

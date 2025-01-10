@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116610_Ba1_1</idno>
+           <idno type="DLPS">A18939</idno>
+           <idno type="STC">5357</idno>
+           <idno type="ESTC">S116610</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Holy incense for the censers of the saints. Or, A method of prayer : with matter, and formes in selected sentences of sacred scripture. Also A praxis upon the holy oyle shewing the vse of scripture-phrases. And choyse places taken out of the singing Psalmes, digested into a method of prayer and praises</title>
+                 <author>Clarke, John</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>26, 283, 1, 6, 40, 12 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_to_the_reader">
+   <pb facs="181"/>
+   <p>THis for an <hi>Essay,</hi> I desired to shew on every head of <hi>Prayer,</hi> that some place or other in the <hi>Psalmes</hi> might be made use of, on severall occa<g ref="char:EOLhyphen"/>sions, which a Christian hath to doe a<g ref="char:EOLhyphen"/>bout. There may be divers added, &amp; but for pe<gap reason="illegible" resp="#apex" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ring <hi>this</hi> Booke, I had added all those which I have lying by me thus digested: but these may suffice, to shew thee (<hi>Christian Reader</hi>) my meaning, who mayst as thy neede requires, sup<g ref="char:EOLhyphen"/>ply what is now wanting in this.</p>
+   <closer>Sing with the Spirit, and sing with the understanding also.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Postscript]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112317_Ba1_1</idno>
+           <idno type="DLPS">A07049</idno>
+           <idno type="STC">17463</idno>
+           <idno type="ESTC">S112317</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Postscript]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pappe with an hatchet : Alias, a figge for my God sonne. Or cracke me this nut. Or a countrie cuffe, that is, a sound boxe of the eare, for the idiot Martin to hold his peace, seeing the patch will take no warning. VVritten by one that dares call a dog, a dog, and made to preuent Martins dog daies</title>
+                 <author>Lyly, John</author>
+                 <imprint>
+                    <distributor>Withernam, Bailiff of, pseud</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 <publisher>Anoke, John, pseud.</publisher>
+                            <publisher>Astile, John, pseud.</publisher>
+                            <publisher>Orwin, Thomas</publisher>
+                        </imprint>
+                 <extent>2, 4, 34 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <sp>
+      <p>Candidissimi Lectores, peto terminum ad libel<g ref="char:EOLhyphen"/>landum.</p>
+   </sp>
+   <sp>
+      <speaker>Lectores.</speaker>
+      <p>Assignamus in proximum.</p>
+   </sp>
+   <pb facs="20"/>
+</div>
+        </body>
+  </text>
+</TEI>

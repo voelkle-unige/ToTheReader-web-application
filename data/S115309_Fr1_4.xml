@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1543</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115309_Fr1_4</idno>
+           <idno type="DLPS">A06866</idno>
+           <idno type="STC">1730.5</idno>
+           <idno type="ESTC">S115309</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An inuectyue agenst the moost wicked [and] detestable vyce of swearing, newly co [m] piled by Theodore Basille</title>
+                 <author>Becon, Thomas</author>
+                 <imprint>
+                    <publisher>Mayler, John</publisher>
+                    <distributor>Gough (Gowghe), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1543</date>
+                 </imprint>
+                 <extent>1, 100, that is 99, 3 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="9"/>
+   <p>
+      <figure>
+</figure>
+   </p>
+   <epigraph>
+      <bibl>Leuit. 24.</bibl>
+      <q>VVho soeuer curseth hys God, shall beare hys
+synne. And he that blasphemethe the name of
+the Lorde, he shall dye for it. All the multitude
+shall stone hym to death. Whyther he be Cytezyn
+or Straunger, if he blaspheme the name of the Lord,
+let hym dye the deathe.</q>
+   </epigraph>
+   <epigraph>
+      <bibl>August. in Math.</bibl>
+      <q>THey synne no les. whyche blaspheme Chryste
+reyguyng in heauen, than they whych crucify<g ref="char:EOLhyphen"/>ed
+hym walkyng in earthe.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

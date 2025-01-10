@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3900_Ba1_2</idno>
+           <idno type="DLPS">A09558</idno>
+           <idno type="STC">19837.5</idno>
+           <idno type="ESTC">S3900</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Traicte paraenetique c'est à dire exhortatoire : auquel se montre par bonne &amp; viues raisons, argumens infallibles, histoires tres-certaines, &amp; remarquables exemples, le droit chemin &amp; vrais moyens de resister à l'effort du Castillan, rompre la trace de ses desseins, abbaiser son orgueil, &amp; ruiner sa puissance : dedié aux roys, princes, potentats &amp; republiques de l'Europe, particulierement au roy tres- chrestien par vn pelerin Espagnol, battu du temps, &amp; persecuté de la fortune ; traduicte du langue Castillane en langue Françoise, par I.D. Dralymont Seigneur de Yarleme</title>
+                 <author>Teixera, José</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <pubPlace/>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>10, 71 i e 142, 6 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_to_the_reader">
+   <pb facs="80"/>
+   <p>
+      <hi>LE TRAD. I'ay adiousté quelques addition<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap> tant au texte de l'Autheur, comme en mes augmentations, en quoy ie sçay que i'ay esté quelque peu negligent, pour ce que i'ay obmis de noter beaucoup de choses au tant dignes d'estre mises en l'Indice, comme les autres. Et partant ie vous promets de payer ceste debte quelque iour auec. plus de loisir.</hi>
+   </p>
+   <q>
+      <p>
+         <bibl>
+            <hi>IOEL</hi>
+         </bibl> 2.</p>
+      <p>Residuum erucae comedit locusta, &amp; resi<g ref="char:EOLhyphen"/>duum locustae comedit brucus: &amp; residu<g ref="char:EOLhyphen"/>um bruci comedit rubigo. Expergiscimini ebrij, &amp; flete &amp; vlulate ōnes qui bibitis vinū in dulcedine: quoniam perijt ab ore vestro. Gens enim ascendet super terram meam, fortis. &amp; in numerabilis dentes ejus, vt den<g ref="char:EOLhyphen"/>tes leonis: &amp; molares ejus vt catuli leonis.</p>
+   </q>
+   <p>LE TRAD. <hi>L'Autheur m'auoit donné l'expli<g ref="char:EOLhyphen"/>tation de ceste Prophetie, faict auec vn tant industrieux artifice, qu'il m'a fait acroire qu'elle reellement s'enten<g ref="char:EOLhyphen"/>doit de la France, &amp; que les nations qui monteront sur la terre de Dieu, sont les Espagnols, montrant qu'ils pos<g ref="char:EOLhyphen"/>sedent vne grande &amp; la meilleure partie de l'Europe, &amp; tout le nouueau monde, qui egale presque le vieil: &amp; par le moyen de Portugal, tiennent en subiection l'Afrique auec l'Asie. Mais ie ne sçay par quel malheur i'ay perdis ladite explication. Quand ie l'auray retiree de luy, ie pro<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#keyers" extent="2 letters">
+            <desc>••</desc>
+         </gap>ets la communiquer à tout le monde. A Dieu.</hi>
+   </p>
+   <pb facs="80"/>
+</div>
+        </body>
+  </text>
+</TEI>

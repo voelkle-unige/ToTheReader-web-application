@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Publisher'S Advertisement]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1876_Ba1_1</idno>
+           <idno type="DLPS">A19745</idno>
+           <idno type="STC">6170.7</idno>
+           <idno type="ESTC">S1876</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Publisher'S Advertisement]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The most wonderfull and true storie, of a certaine witch named Alse Gooderige of Stapen hill, who was arraigned and conuicted at Darbie at the Assises there : as also a true report of the strange torments of Thomas Darling, a boy of thirteene yeres of age, that was possessed by the deuill, with his horrible fittes and apparitions by him vttered at Burton vpon Trent in the countie of Stafford, and of his maruellous deliuerance</title>
+                 <author>I. D.</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Oxenbridge, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 </imprint>
+                 <extent>4, 43 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Witchcraft, demonology, occult writings</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publishers_advertisement">
+   <p>Shortly you shall haue the true storie come foorth of those seuen in Lancashire that were posses<g ref="char:EOLhyphen"/>sed with vncleane spirites. and all seuen deliue<g ref="char:EOLhyphen"/>red at one time by this man.</p>
+</div>
+        </body>
+  </text>
+</TEI>

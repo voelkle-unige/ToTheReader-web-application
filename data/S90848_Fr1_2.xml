@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Worshipful Middleton Esqu and to the rest of that Worshipfull name and Familie, all the blessings of God in this world, and e∣ternall ioyes in the world to come.</title>
+           <author>Salisbury, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S90848_Fr1_2</idno>
+           <idno type="DLPS">B00917</idno>
+           <idno type="STC">2744</idno>
+           <idno type="ESTC">S90848</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Worshipful Middleton Esqu and to the rest of that Worshipfull name and Familie, all the blessings of God in this world, and e∣ternall ioyes in the world to come.</title>
+                 <author>Salisbury, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Psalmæ y brenhinol brophvvyd Dafydh, gwedi i cynghanedhu mewn mesurau cymreig. Gann gapten Wiliam Middelton. Yn nesaf y gallodh at fedhwl yr yfprydh glân</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Salisbury (Salesbury), Thomas.</publisher>
+                            <publisher>Stafford, Simon</publisher>
+                        </imprint>
+                 <extent>8, 287, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="eng" type="dedication">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>To the Worshipful Middleton Esqu<gap reason="illegible" extent="3 letters">
+         <desc>•••</desc>
+      </gap>
+      <hi>and to the rest of that Worshipfull name and Familie,</hi> all the blessings of God in this world, and e<g ref="char:EOLhyphen"/>ternall ioyes in the world to come.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Auing by Gods prouidence and your godly meanes finished this worthie work, to the glory of God &amp; the great good of our Countrey wherein you haue shewed an euident demonstration of a liuely faith, and approued your selfe a worthy <hi>Maecenas</hi> of your Countrey-language, in erecting this spirituall building, which may serue a fit president for others, whome God hath enabled with wealth to imitate your good example: which worke being by your Wor<g ref="char:EOLhyphen"/>ship countenanced and commended vnto your Countrey-men, it will be by them the more ioyfully receiued. And the subiect thereof being so diuine and consolatory, proceeding originally from Gods holy spirit, and contayning such plentifull doctrines and heauenly meditations, to the vnspeakable comfort and in<g ref="char:EOLhyphen"/>struction of Gods people, as well in prosperitie, as aduersitie, and the industrious labours of your worthie kinse-man herein, will be a singular motiue of the propagation of Gods glorie, the en<g ref="char:EOLhyphen"/>riching of our natiue language, the regaining of many soules to God, &amp; the better enabling of many others to be fellow-helpers in the worke of this spirituall husbandrie, the Vineyard of Gods Church. In the communicating whereof to the publike view of the world, you haue purchased to your name and familie, the fauour of God, the loue of his people, and eternall fame and me<g ref="char:EOLhyphen"/>morie whiles the world endureth. Thus with my heartie prayer to Almightie God, for the continuance of his graces and blessings, both spirituall, and temporall, vnto you now, and euer, I rest.</p>
+   <closer>
+      <signed>Your heartie well-willer in the Lord: <hi>Thomas Salisbury.</hi>
+      </signed>
+   </closer>
+   <pb facs="5"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="5"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

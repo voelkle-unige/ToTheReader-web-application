@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107786_Fr1_1</idno>
+           <idno type="DLPS">A12345</idno>
+           <idno type="STC">22660</idno>
+           <idno type="ESTC">S107786</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The examination of vsury : in two sermons</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>2+ 52 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="1"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Ere thou hast the Ser<g ref="char:EOLhyphen"/>mons which haue bene of<g ref="char:EOLhyphen"/>ten desired, because of the matter fit for this Citie. One saith, that he would neuer speake to Vsurers, and Bribemongers, but when they be vpon their death-beds: for he which liueth by sinne, resolueth to sin, that he may liue. But when he goeth to hanging, <hi>Iudas</hi> himselfe will say, <hi>I haue sinned.</hi>
+      <note place="margin">Mat. 27. 4.</note> If I speake not to Vsurers vpon their death-bed, yet I speak to Vsurers which shal lie vpon their death-bed. Three things do giue me hope. One is, that all hearts are in the hands of God, to call them at what houre he list, and there<g ref="char:EOLhyphen"/>fore <hi>Saul</hi> may become an Apostle.<note place="margin">Act. 9. 15.</note> The next is, that the third crow doth waken mo then the former, and therefore after the
+<pb facs="2"/>
+crowing of other, this crow may happily be heard. The last is, that there is no sinne, but some men haue bene reclaimed from it, and so may Vsurers from their sinne.</p>
+   <p>Therefore go my booke like <hi>Dauid</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Goliah,</hi>
+      <note place="margin">1. Sam. 17. 51.</note> and fight the Lords battels against Vsurers. The Lord giue that suc<g ref="char:EOLhyphen"/>cesse to his doctrine in these leaues, that it may consume Vsurers, as <hi>Ioshuah</hi> droue out the <hi>Chananites</hi> before him.<note place="margin">Iosh. 5. 1.</note> If I could take but this one weed out of the Londo<g ref="char:EOLhyphen"/>ners Gardē, I were answered for my health and my strength spent amongst them. Reade with thy best mind, &amp; thou shall profit more.</p>
+   <closer>
+      <signed>Thine H. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

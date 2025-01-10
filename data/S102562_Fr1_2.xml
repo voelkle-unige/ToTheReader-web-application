@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Magnadevilla, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102562_Fr1_2</idno>
+           <idno type="DLPS">A06810</idno>
+           <idno type="STC">17245</idno>
+           <idno type="ESTC">S102562</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Magnadevilla, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Timothies taske: or A Christian sea-card : guiding through the coastes of a peaceable conscience to a peace constant, and a crowne immortall. Wherein I. Pastors are put in minde of their double dutie, and how to discharge it. 1. Personall, as watchfull men. 2. Pastorall, as faithfull watchmen. II. True doctrine is advanced. III. Traditions discountenanced, &amp; their rancour discovered. In two synodall assemblies at Carliell, out of two seuerall, but sutable scriptures. This of 1 Timoth. 4.16. and that of Actes 20.28. Since concorporate, and couched with augmentation vnder their prime head: by Robert Mandevill, sometimes of Queenes Colledge in Oxford, and preacher of Gods word at Abbey-holme in Cumberland</title>
+                 <author>Mandevill, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1619</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Short, James</publisher>
+                        </imprint>
+                 <extent>8, 64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>CELEBERRIMAE ACADEMIAE
+OXONIENSI, MATRI SVAE,
+AC PATRONAE (AMORE
+DVCTVS, NEC NON MO<g ref="char:EOLhyphen"/>RE)
+IN PERPETVVM
+OBSERVANTIAE TE<g ref="char:EOLhyphen"/>STIMONIVM, O<g ref="char:EOLhyphen"/>PVSCVLVM
+HOC
+DICAT, CON<g ref="char:EOLhyphen"/>SECRAT<g ref="char:EOLhyphen"/>QVE</p>
+   <closer>
+      <signed>ROB. MAGNADEVILLA.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

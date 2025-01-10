@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>FAVLTS ESCAPED AND CORRECTED.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107625_Ba1_1</idno>
+           <idno type="DLPS">A18209</idno>
+           <idno type="STC">4833</idno>
+           <idno type="ESTC">S107625</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>FAVLTS ESCAPED AND CORRECTED.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A defence of Catholikes persecuted in England : invincibly prouing their holy religion to be that which is the only true religion of Christ; and that they in professing it, are become most faithfull, dutifull, and loyall subiects, to God, their King and country. And therefore are rather to be honoured and respected, then persecuted or molested. Composed by an ould studient in diuinitie</title>
+                 <author>Broughton, Richard</author>
+                 <imprint>
+                    <publisher>Pinchon (Pinson), Gerard</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>8, 175, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="93"/>
+   <head>FAVLTS ESCAPED AND CORRECTED.</head>
+   <p>Pag. 17. lin. 3. Theanus, for Theonus. l. 15. Tha<g ref="char:EOLhyphen"/>diacus, for, Thadiocus. p. 21. l. 22. <hi>paene</hi> for, <hi>penè.</hi> p. 27. l. 28. <hi>most worthiest,</hi> for, <hi>worthiest.</hi> p. 39. l. 28. were, for, was. p. 42. l. 18. <hi>Phylosopho,</hi> for, <hi>Philo<g ref="char:EOLhyphen"/>sopho.</hi> p. 43. l. 20. Huntingtonsyhre, for, Hun<g ref="char:EOLhyphen"/>tington shyre. p. 47. l. 21. <hi>did increased,</hi> for <hi>and encreased.</hi> p. 51. l. 20. these man, for, these men. p. 52. l. 19. <hi>Missae Papisticae,</hi> for, <hi>Missa Papistica.</hi> p. 61. l. 19. Ireland, for, Iland. p. 63. l. 6. <hi>transla<g ref="char:EOLhyphen"/>ted them,</hi> for, <hi>translated,</hi> p. 69. l. 22. euery one, for, and euery one. p. 71. l. 7. <hi>formae,</hi> for, <hi>forma.</hi> p. 80. l. 23. iurisdiction, for, iurisdiction on the Christians. p. 91. l. 18. after, <hi>S. Peter,</hi> adde, <hi>and to the holy Roman Church.</hi> p. 100. l. 25. make no Parenthesis. p. 111. l. 8. Omitt, Theodore<g ref="char:EOLhyphen"/>tus. p. 120. l. 26. Omitt, <hi>Thou shalt.</hi> p. 123. l. 6. Amphilabus, for, Amphibalus. Some other faults of lese moment I haue not put downe here, they being easie for the Reader to cor<g ref="char:EOLhyphen"/>rect in reading.</p>
+   <pb n="161" facs="93"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb n="162" facs="94"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb n="175" facs="94"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

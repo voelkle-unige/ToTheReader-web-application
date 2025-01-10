@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In commendation of the Author.</title>
+           <author>Bradley, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107500_Fr1_7</idno>
+           <idno type="DLPS">A04199</idno>
+           <idno type="STC">14321</idno>
+           <idno type="ESTC">S107500</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In commendation of the Author.</title>
+                 <author>Bradley, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The celestiall husbandrie: or, the tillage of the soule : First, handled in a sermon at Pauls Crosse the 25. of February, 1616. By William Iackson, terme-lecturer at Whittington Colledge in London: and since then much inlarged by the authour, for the profit of the reader: with two tables to the same</title>
+                 <author>Jackson, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Jones, William 3.</publisher>
+                            <publisher>Weaver (Wever), Edmund</publisher>
+                        </imprint>
+                 <extent>18, 37, 48-162, 165-170, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <div type="commendation">
+      <pb facs="9"/>
+      <pb facs="10"/>
+      <head>In commendation of the Author.</head>
+      <lg>
+         <l>VErtere si agricolas, terrā est nunc, laude docendo,</l>
+         <l>Virgilius dignus: laudibus esse puto,</l>
+         <l>Dignum hunc, nostrarum, quae animarū cura libellum,</l>
+         <l>Sit, qui, &amp; nostra docet, vertere corda bene.</l>
+      </lg>
+      <closer>
+         <signed>Alex. Bradley.</signed>
+      </closer>
+   </div>
+   <div type="to_the_author">
+      <head>To my worthy friend his Celestiall Husbandry.</head>
+      <lg>
+         <l>THe Husbandry, which these dead leaues doe bring,</l>
+         <l>Thy liuely voyce did once sweetely sing,</l>
+         <l>That thy learned and iudicious hearers thought</l>
+         <l>The Celestiall haruest to them had brought:</l>
+         <l>Thereby their hearts so did inflame,</l>
+         <l>That they desir'd to heare it once againe.</l>
+      </lg>
+      <closer>
+         <signed>Io. Ga.</signed>
+      </closer>
+   </div>
+   <div type="commendation">
+      <lg>
+         <l>THe ground mans heartis, Gods word the plow;</l>
+         <l>The harrow, repentance is, to breake it now;</l>
+         <l>The seede, obedience, sowen in our liues;</l>
+         <l>The raine, Gods grace, whereby it also thriues:</l>
+         <l>Then vse it, and it will bring</l>
+         <l>Thee to heauen, there to sing.</l>
+         <l>
+            <table>
+               <row>
+                  <cell rows="2">Then now</cell>
+                  <cell>Prayse God for the gaine,</cell>
+               </row>
+               <row>
+                  <cell>And the Author for his paine.</cell>
+               </row>
+            </table>
+         </l>
+      </lg>
+      <closer>
+         <signed>T. H.</signed>
+      </closer>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

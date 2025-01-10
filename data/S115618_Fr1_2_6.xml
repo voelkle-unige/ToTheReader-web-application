@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Auhorem.</title>
+           <author>Bride-Oake, R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115618_Fr1_2_6</idno>
+           <idno type="DLPS">A10411</idno>
+           <idno type="STC">20694</idno>
+           <idno type="ESTC">S115618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Auhorem.</title>
+                 <author>Bride-Oake, R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems : with the Muses looking-glasse: and Amyntas· By Thomas Randolph Master of Arts, and late fellow of Trinity Colledge in Cambridge</title>
+                 <author>Randolph, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1638</date>
+                 <publisher>Bowman, Francis.</publisher>
+                            <publisher>Lichfield, Leonard</publisher>
+                        </imprint>
+                 <extent>24, 128, 2, 93, 7, 114 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Ad Auhorem.</head>
+   <lg>
+      <l>MOllia quòd tenui currunt mihi carmina filo,</l>
+      <l>Et meus in gyro stet breviore labor,</l>
+      <l>Dum tua constrictis assurgit Musa Cothurnis,</l>
+      <l>Et Ueneres casto vincit Avena I<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>co,</l>
+      <l>Cedimus inculti! Fato par Gloria nostro</l>
+      <l>Quod Tua mirentur Carmina, Nostra legant.</l>
+   </lg>
+   <closer>
+      <signed>R. BRIDE-OAKE. A. M. No. Coll.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

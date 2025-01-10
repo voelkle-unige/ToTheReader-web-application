@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109252_Fr1_4_3</idno>
+           <idno type="DLPS">A68296</idno>
+           <idno type="STC">14926</idno>
+           <idno type="ESTC">S109252</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The education of children in learning : declared by the dignitie, vtilitie, and method thereof. Meete to be knowne, and practised aswell of parents as schoolemaisters</title>
+                 <author>Kempe, William</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <distributor>Gubbin (Gubbins), Thomas</distributor>
+                            <distributor>Porter, John</distributor>
+                        </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <l>VLtimus &amp; victor, telum contorsit Acestes,</l>
+   <l>Vltimaque &amp; victrix, vestra Thalia canit.</l>
+   <l>Namque exsors tibi restat honos: rex magno Olympi</l>
+   <l>Sic vult, inuidit nec bonus Eurytion.</l>
+</div>
+        </body>
+  </text>
+</TEI>

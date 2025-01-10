@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>N., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S91201_Fr1_2</idno>
+           <idno type="DLPS">B07413</idno>
+           <idno type="STC">3698.5</idno>
+           <idno type="ESTC">S91201</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>N., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Soothing of proverbs: with only true forsooth. In two parts. By B. N. Gent</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <distributor>Wright, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Eliot’s Court Press.</publisher>
+                            <publisher>Wright, John 1</publisher>
+                        </imprint>
+                 <extent>24 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Oothing and Crossing are two humours more trou<g ref="char:EOLhyphen"/>blesome than profitable, The one troubles the wise that loue no flatterie, and the other fooles that loue to be flattered. What you are I know not, and there<g ref="char:EOLhyphen"/>fore as you finde your selfe, so fit your sense: And yet if you will not scorne a fooles counsell, be silent ra<g ref="char:EOLhyphen"/>ther than crosse, for feare of quar<g ref="char:EOLhyphen"/>rels; and rather learne silence among
+<pb facs="3"/> the wise, than sooth their sayings in their hearing, for their eares are iea<g ref="char:EOLhyphen"/>lous ouer their wits. But lest I make a great entry to a little house, leauing what you reade to your leisure, and the liking to your capacitie, I rest.</p>
+   <closer>
+      <signed>B. N.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

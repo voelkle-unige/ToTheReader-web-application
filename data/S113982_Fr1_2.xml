@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113982_Fr1_2</idno>
+           <idno type="DLPS">A73904</idno>
+           <idno type="STC">7526</idno>
+           <idno type="ESTC">S113982</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Six learned and godly sermons : preached some of them before the Kings Maiestie, some before Queene Elizabeth. By Richard Eedes, Doctor of Diuinitie, deane of the Cathedrall Church of Worcester, and chaplen in ordinarie to them both</title>
+                 <author>Eedes, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Bishop, Edward.</publisher>
+                            <publisher>Islip, Adam</publisher>
+                        </imprint>
+                 <extent>2, 122 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Haue presumed to offer vnto the eye of the world, Sermons preached in the eare of the Court, without his leaue J confesse, whose labours they were; but not without hope of thankes from thee and pardon from him. The copies, which were some of them commaunded, some of them en<g ref="char:EOLhyphen"/>treated from him, are a warrant vn<g ref="char:EOLhyphen"/>to me, that the Court which heard them, will be willing to read them: neither doe J see how I wrong him,
+<pb facs="3"/>when I publish no more, then was <hi>Publici Iuris,</hi> as soone as it was vt<g ref="char:EOLhyphen"/>tered: I am sure I haue satisfied the desires of many, and those of better iudgement then my selfe, who in my hearing haue wished the publishing of them, and thought them worthy of longer life, then to fade with the houre to the which they were dedica<g ref="char:EOLhyphen"/>ted. If thou profit by them, thanke God for him, and as for me, I shall thinke my paines rewarded, if accor<g ref="char:EOLhyphen"/>ding to thy acquaintance and credit with him, thou wilt assure him, that this which is done, is done</p>
+   <closer>
+      <signed>By a true louer of his gifts and thy good.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

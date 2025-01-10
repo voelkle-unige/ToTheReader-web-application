@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem in laudem
+Authoris.</title>
+           <author>Portington, Roger</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105817_Fr1_4</idno>
+           <idno type="DLPS">A02122</idno>
+           <idno type="STC">12262</idno>
+           <idno type="ESTC">S105817</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem in laudem
+Authoris.</title>
+                 <author>Portington, Roger</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Gvvydonius : The carde of fancie wherein the folly of those carpet knights is decyphered, which guyding their course by the compasse of Cupid, either dash their ship against most daungerous rocks, or els attaine the hauen with paine and perill. Wherein also is described in the person of Gwydonius, a cruell combat betvveene nature and necessitie. By Robert Greene Master of Arte, in Cambridge</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1584</date>
+                 <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Ponsonby, William</publisher>
+                        </imprint>
+                 <extent>4, 78 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>Ad Lectorem in laudem
+Authoris.</head>
+   <l>PVllulat en stirpi similis speciofa propago</l>
+   <l>Aureolus{que} nouo reuirescit ramus amoris</l>
+   <l>Vere: (tuo verè iam VERE dicandus honori):</l>
+   <l>Ista salus Iuueni, Comiti <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>it gloria nosse</l>
+   <l>Accepisse decus: Comites vbi passibus aequis</l>
+   <l>Ales amor virtus{que} sagax decurrere nôrunt.</l>
+   <l>Ventilat iste faces, restinguit at illa furentes</l>
+   <l>Taedas. Ne<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> taedet Pueri sic taedia caeci</l>
+   <l>Fallere, qui caecis conuoluit viscera flammis,</l>
+   <l>Ergo refer grates qui deuitare cupi'sti</l>
+   <l>Spumosos Veneris fluctus, scopulos{que} minaces</l>
+   <l>Qui fragilem tumidis cymbam mersisse procellis</l>
+   <l>Possent. Hàc iter est, hàc dirige, tutior ibis.</l>
+   <closer>
+      <signed>Richardus Portingtonus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

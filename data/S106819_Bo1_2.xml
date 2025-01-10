@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106819_Bo1_2</idno>
+           <idno type="DLPS">A16549</idno>
+           <idno type="STC">3458</idno>
+           <idno type="ESTC">S106819</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An exposition of the dominical Epistles and Gospels vsed in our English liturgie throughout the whole yeare : Together with a reason why the Church did chuse the same. By Iohn Boys, Doctor of Diuinitie. The winter part from the first Aduentall Sunday to Lent</title>
+                 <author>Boys, John</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Aspley, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>4, 302, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Errata.</head>
+   <p>Pag. 8. lin. 15. a fine, reade <hi>
+         <gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>.</hi> p. 10. l. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>. reade <hi>measurably.</hi> p. 24. l. 11. reade <hi>are.</hi> p. 26. l. 12. a fine, reade <hi>same.</hi> p. 68. l. 5. a fine, reade <hi>a<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</hi> p. 96. l. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>1. in the margin, reade <hi>Acts</hi> 13. p. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>16. l. 10. a fine, reade <hi>
+         <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>sti.</hi> p. 127. l. 8. a fine, reade <hi>w<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>y.</hi> p. 187. l. 7. reade <hi>Psalm.</hi> 135. p. 190. l. 2. in mar<g ref="char:EOLhyphen"/>gin, reade <hi>&amp;.</hi> pag. 225. in margin, <hi>dele<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>tur <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>eremy</hi> 17. pag. 230 l. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>9. reade <hi>Cl<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>rius.</hi> p. 24<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>. 4. reade <hi>picture.</hi> p. 25<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>. l. 15. a fine, reade <hi>haru<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>st.</hi>
+   </p>
+   <p>Other faults are either so grosse, that they correct themselues, or so small, that they will be soone corrected of other.</p>
+   <p>I forbeare prefaces and Indices vntill the whole be finished.</p>
+   <p>Assi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t me with thine hearty praiers vnto the Father of mer<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>y, that it may be for his glory and thy good.</p>
+   <trailer>FINIS</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

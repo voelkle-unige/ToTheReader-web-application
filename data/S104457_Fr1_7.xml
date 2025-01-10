@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To that famous Nursery of Learning and Re∣ligion, my Mother Exeter Colledge in Oxford, all happinesse.</title>
+           <author>Austin, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104457_Fr1_7</idno>
+           <idno type="DLPS">A23268</idno>
+           <idno type="STC">971</idno>
+           <idno type="ESTC">S104457</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To that famous Nursery of Learning and Re∣ligion, my Mother Exeter Colledge in Oxford, all happinesse.</title>
+                 <author>Austin, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Avstins Vrania, or, The heavenly mvse : in a poem fvll of most feeling meditations for the comfort of all soules, at all times: by S.A. B. of Arts of Ex. Colledge in Oxford</title>
+                 <author>Austin, Samuel</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <distributor>Allott, Robert</distributor>
+                            <distributor>Seile (Seale, Seely, Seyle), Henry</distributor>
+                        </imprint>
+                 <extent>22, 136 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="8"/>
+   <head>To that famous Nursery of Learning and Re<g ref="char:EOLhyphen"/>ligion, my Mother Exeter Colledge in Oxford, all happinesse.</head>
+   <l>GReat Mother of the Muses! (thou whose fame</l>
+   <l>Hath long time been more glorious by the Name</l>
+   <l>Of thy <note n="*" place="margin">M<seg rend="sup">r</seg>. D<seg rend="sup">r</seg>. <hi>P<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>id.</hi>
+      </note> Learn'd Rector) let, I humbly pray,</l>
+   <l>A worthlesse sonne of thine haue leaue to stray</l>
+   <l>Abroad with his poore Muse a while, to sing</l>
+   <l>A timely welcome to the weeping Spring.</l>
+   <l>Let other Muses that deriue their birth</l>
+   <l>From forraine Springs, or from some baser earth,</l>
+   <l>Enslaue their wits to toyes of Loue: but wee</l>
+   <l>Must be Diuine that take our births from thee:</l>
+   <l>My Muse shall sing of Heau'n, and in thy prayse,</l>
+   <l>Great <gap reason="illegible" resp="#pdcc" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, shall scorne the momentarie bayes</l>
+   <l>Of perishing mans applause, which dies away</l>
+   <l>W<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>h those that giue't, but she shall sing a Lay,</l>
+   <l>Wh<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>e Heau'n-borne wings shall raise thy Name so hie,</l>
+   <l>
+      <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> it liue euen through eternitie.</l>
+   <closer>
+      <signed>The vnworthiest of thy sonnes, <hi>S. A.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

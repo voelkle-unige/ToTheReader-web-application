@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Robinson, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101592_Fr1_3</idno>
+           <idno type="DLPS">A10856</idno>
+           <idno type="STC">21127</idno>
+           <idno type="ESTC">S101592</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Robinson, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>New citharen lessons : with perfect tunings of the same, from foure course of strings to fourteene course, euen to trie the sharpest teeth of enuie, with lessons of all sortes, and methodicall instructions for all professors and practitioners of the citharen. By Thomas Robinson, student in all the seuen liberall sciences</title>
+                 <author>Robinson, Thomas</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Barley (Barlow), William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>96 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, blame me not although J haue beene so long cracking of this nutte, sith at last J haue giuen you the sweetest Cornell of my conceited Cithering. For first, you shall haue strange lessons with strange tunings for the foure stringed Citharen, the like neuer found out before for sweet<g ref="char:EOLunhyphen"/>nes and goodnes to play (euen an organe kind of play) a<g ref="char:EOLhyphen"/>lone, also lessons for two to play together, &amp; withall a third Citharen; (which inuention was first begun by an Italian in Jtaly, but altered, and strings augmented by me.) Con<g ref="char:EOLhyphen"/>taining fourteene course of strings: most full, sweete and easie, for the which Citharen, J must remaine a thankeful debter, and well willer to a most kind and louing Gentle<g ref="char:EOLhyphen"/>man and scoller of mine, Master <hi>Edward Winne,</hi> an attendant of the Right Honorable <hi>ROBERT</hi> Earle of Salisburie, now Lord high Treasurer of England. Thus not forgetting my selfe, in remembring my friend, J most louingly bid you all Adue.</p>
+   <closer>
+      <signed>
+         <hi>Your musicall friend</hi> Thomas Robinson.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>REVERENDO
+IN CHRISTO
+PATRI AC DOMINO,
+DOMINO IACOBO MOVNTA∣GVE,
+EPISCOPO BATHONIENSI
+ET WELLENSI, PRAESVLI CLA∣RISSIMO,
+DOMINO SVO IN∣PRIMIS
+OBSER∣VANDO</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121022_Fr2_2</idno>
+           <idno type="DLPS">A20744</idno>
+           <idno type="STC">7125</idno>
+           <idno type="ESTC">S121022</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>REVERENDO
+IN CHRISTO
+PATRI AC DOMINO,
+DOMINO IACOBO MOVNTA∣GVE,
+EPISCOPO BATHONIENSI
+ET WELLENSI, PRAESVLI CLA∣RISSIMO,
+DOMINO SVO IN∣PRIMIS
+OBSER∣VANDO</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tvvo sermons : the one commending the ministerie in generall: the other defending the office of bishops in particular: both preached, and since enlarged by George Dovvname Doctor of Diuinitie</title>
+                 <author>Downame, George</author>
+                 <imprint>
+                    <distributor>Lownes, Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>4, 103, 1, 16, 100 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="58"/>
+   <pb facs="58"/>
+   <head>REVERENDO
+IN CHRISTO
+PATRI AC DOMINO,
+DOMINO IACOBO MOVNTA<g ref="char:EOLhyphen"/>GVE,
+EPISCOPO BATHONIENSI
+ET WELLENSI, PRAESVLI CLA<g ref="char:EOLhyphen"/>RISSIMO,
+DOMINO SVO IN<g ref="char:EOLhyphen"/>PRIMIS
+OBSER<g ref="char:EOLhyphen"/>VANDO</head>
+   <p>Georgius Downame Concionem hanc,
+quâ dignitas Episcopalis asseritur, ad perpetuam
+amoris et observantiae memoriam,
+Dicat Consecrat{que}.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the most High and Mighty Prince, IAMES by the grace of God, King of England, Scotland, France and Ireland, Defendour of the Faith.</title>
+           <author>Dove, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110110_Fr1_2</idno>
+           <idno type="DLPS">B12489</idno>
+           <idno type="STC">7085</idno>
+           <idno type="ESTC">S110110</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the most High and Mighty Prince, IAMES by the grace of God, King of England, Scotland, France and Ireland, Defendour of the Faith.</title>
+                 <author>Dove, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A persvvasion to the English recusants, to reconcile themselues to the Church of England : Written for the better satisfaction of those which be ignorant. By Iohn Doue Doctor of Diuinitie</title>
+                 <author>Dove, John</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Burby, Cuthbert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>4, 34, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <floatingText type="letter" xml:lang="eng">
+      <body>
+         <head>To the most High and Mighty Prince, IAMES by the grace of God, King of <hi>England, Scotland, France and Ireland,</hi> Defendour of the Faith.</head>
+         <opener>
+            <salute>
+               <seg rend="decorInit">G</seg>Ratious and dread Soueraigne,</salute>
+         </opener>
+         <p>I say the truth, I lie not, my conscience bearing me witnes in the Holy-ghost, that I haue with the Apostle great heauinesse, and continuall sorrow in my heart for many of my brethren and Country-men. And my hearty desire and prayer for them to God, is, that they may be saued. For I beare them recorde, that they haue the zeale of God, though not according to knowledge, which is the onely cause that mooued me to write this short Trea<g ref="char:EOLhyphen"/>tise. And, because God of his great goodnesse hath vouchsafed your tender yeeres the education of <hi>TIMOTHIE,</hi> and indu<g ref="char:EOLhyphen"/>ed your Highnesse, since your happy gouernement with princely gifts, knowledge to discerne truth, and zeale to maintaine truth, I humbly present vnto your Maiestie, these few lines, containing a subiect of so great importance. The common voyce, and hope
+<pb facs="3"/> of your best affected people is, that your Highnesse hath a religi<g ref="char:EOLhyphen"/>ous intent, to make God yet better knowne in <hi>IVDA,</hi> and his name yet greater in <hi>HIERVSALEM,</hi> to bring all these your Kingdomes to the acknowledgement and profession of one truth; so that hereafter <hi>HIERVSALEM</hi> may be as a walled towne and fenced citty, which is at vnitie within it selfe: and as it was in the dayes of the <hi>IVDGES,</hi> all <hi>ISRAEL</hi> may be gathered together, as one man, from <hi>DAN</hi> to <hi>BEERSHEBA,</hi> vnto the Lord in <hi>MISHPAH.</hi> The Lord guide and prosper you in all your wayes, the Lord establish your house and kingdome, the Lord blesse you out of <hi>SION,</hi> that you may see the wealth of <hi>HIERVSALEM</hi> all the dayes of your life, that you may see your Childrens Children, and peace in <hi>SION.</hi>
+         </p>
+         <closer>
+            <signed>Your Maiesties humble Subiect, IOHN DOVE.</signed>
+         </closer>
+      </body>
+   </floatingText>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>William Bubb Gentleman, to his freend the Author.</title>
+           <author>Chute, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105812_Ba1_1</idno>
+           <idno type="DLPS">A02153</idno>
+           <idno type="STC">12295</idno>
+           <idno type="ESTC">S105812</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>William Bubb Gentleman, to his freend the Author.</title>
+                 <author>Chute, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Perimedes the blacke-smith : a golden methode, how to vse the minde in pleasant and profitable exercise: wherein is contained speciall principles fit for the highest to imitate, and the meanest to put in practise, how best to spend the wearie winters nights, or the longest summers euenings, in honest and delightfull recreation: wherein we may learne to auoide idlenesse and wanton scurrilitie, vvhich diuers appoint as the end of their pastimes. Heerein are interlaced three merrie and necessarie discourses fit for our time: with certaine pleasant histories and tragicall tales, which may breed delight to all, and offence to none</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 </imprint>
+                 <extent>62 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="27"/>
+   <head>
+      <hi>William Bubb</hi> Gentleman, to his freend the Author.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Fter that freend <hi>R<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>bin</hi> you had finished <hi>Peryme<g ref="char:EOLhyphen"/>des,</hi> and vouchsafed to commit it to my vewe, li<g ref="char:EOLhyphen"/>king the worke, <gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>d so much the rather, for that you bestowed the Dedication on my verye good freind Maister <hi>Geruis Clifton,</hi> whose deserts merit it (and one of more worth) whē your labour shall be imploied more se<g ref="char:EOLhyphen"/>riouslie: the last sheete hanging in the Presse, comming into your studie, I found in your Deske certaine Sonets, fained to be written by the <hi>Caldees,</hi> what time the poore Smith and his wife liued so contentedlye, which shee hauing kept as iewels in her Chest, and you as relikes in your Chamber, not letting any but your familiars to per<g ref="char:EOLhyphen"/>use them, for that you feared to discouer your little skill in verse: these Sonets for that they fit my humour, and will content others, or els my iudgement failes, I charge thee by that familiar conuersing that hath past betweene vs, that thou annex them to the end of this Pamphlet, which if you grant, we still rest as we haue beene, if not, <hi>Actum est de amicitia,</hi> and so farewell.</p>
+   <closer>
+      <signed>Thine William Bubb.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

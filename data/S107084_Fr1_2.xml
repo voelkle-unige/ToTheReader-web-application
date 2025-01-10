@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Readers.</title>
+           <author>C., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107084_Fr1_2</idno>
+           <idno type="DLPS">A17475</idno>
+           <idno type="STC">4293</idno>
+           <idno type="ESTC">S107084</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Readers.</title>
+                 <author>C., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The principall passages of Germany, Italy, France, and other places for these last sixe moneths past : historically reduced to time, place, and action, till the end of the yeare 1636. according to the forraine computation. In which short space you will finde much variety of matter, and no small alteration amongst princes. All faithfully taken out of good originals by an English Mercury</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <publisher>Bishop, Richard.</publisher>
+                            <publisher>Bourne, Nicholas.</publisher>
+                            <publisher>Butter, Nathaniel.</publisher>
+                            <publisher>Dawson, Mary.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>4, 120, 12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Readers.</head>
+   <p>
+      <seg rend="decorInit">R</seg>EADERS; I here present you not with Newes snatcht from the mouthes of every pratling <hi>Athenian,</hi> but Historie confirmed by authenticall persons of good credit; and that too, not spunne out to a volume, but digested into a compendious forme, that it might serve as a conditure to your more serious imployments, and neither hinder them, nor cloy your attentions in the pervsing;
+<q>Scrinia de magnis me manus una capit.</q>
+   </p>
+   <p>I have not studied to please any particular persons,<note place="margin">Martial. lib. <gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap> epig. 4.</note> by complying with the fancies of such, as desire to have e<g ref="char:EOLhyphen"/>very action of that partie which they affect best varni<g ref="char:EOLhyphen"/>shed over with glaring colours of commendations; and the designes of the other, slubbered with ignominie: what you read here are, <hi>resfactae, non fictae,</hi> and where any thing is doubtfull, or relisheth of untruth, I have not spared to note the first Inventors. The Papers were first intended for your use, and now come to tender you their personall service. Let me obtaine for them a fa<g ref="char:EOLhyphen"/>vourable entertainment, without any mis-construction or malignant interpretation. <hi>(Improbe facit, qui in libro alieno ingeniosus est.)</hi> So shall you encourage me to goe on to a new discoverie of what is not yet come to your publike knowledge, and that speedily. <hi>Farewell.</hi>
+   </p>
+   <closer>
+      <signed>N. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

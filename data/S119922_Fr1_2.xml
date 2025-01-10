@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The figure of Iohn Wycklife.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119922_Fr1_2</idno>
+           <idno type="DLPS">A15297</idno>
+           <idno type="STC">25588</idno>
+           <idno type="ESTC">S119922</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The figure of Iohn Wycklife.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The true copye of a prolog wrytten about two C. yeres paste by Iohn Wycklife (as maye iustly be gatherid bi that, that Iohn Bale hath writte [n] of him in his boke entitlid the Summarie of famouse writers of the Ile of great Brita [n]) the originall whereof is founde written in an olde English Bible bitwixt the olde Testament and the Newe. Whych Bible remaynith now in ye Kyng hys maiesties chamber</title>
+                 <author>Purvey, John</author>
+                 <imprint>
+                    <publisher>Grafton, Richard</publisher>
+                    <distributor>Crowley, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1550</date>
+                 </imprint>
+                 <extent>260 pages, portraits (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <p>
+      <figure>
+         <head>¶ The figure of Iohn Wycklife.</head>
+      </figure>
+   </p>
+   <lg>
+      <l>Kyng Edward the. iii. did Wicklife defēd</l>
+      <l>Wherbi he did florish in Oxford lōge while</l>
+      <l>But Richard y<seg rend="sup">•</seg>. ii. King did somthing bend</l>
+      <l>To papistis bi whom Wicklife was in exile</l>
+      <l>Yet dyd thys good man neuer alter his stile</l>
+      <l>But wrot mani volumis whils he was aliue</l>
+      <l>To extinguish errour, and truth to reuiue</l>
+      <l>At the last he returnid to his contrei againe</l>
+      <l>And lyuid at Lutter worth, where his charglay</l>
+      <l>And after his deth he did ther remain</l>
+      <l>Fourty winter &amp; one, till come was the day</l>
+      <l>Whē Satā was suffrid to <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>en without staie</l>
+      <l>But thē did oure clergie set open his graue</l>
+      <l>A<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>d brēt al his bonis, such chariti thei haue</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

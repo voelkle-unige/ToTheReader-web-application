@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the courteous and carefull Chyrurgian.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1587</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114998_Fr2_1</idno>
+           <idno type="DLPS">A02366</idno>
+           <idno type="STC">12499</idno>
+           <idno type="ESTC">S114998</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the courteous and carefull Chyrurgian.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A worthy treatise of the eyes : contayning the knowledge and cure of one hundred and thirtene diseases, incident vnto them: first gathered &amp; written in French, by Iacques Guillemeau, chyrurgion to the French King, and now translated into English, togeather with a profitable treatise of the scorbie; &amp; another of the cancer by A.H. Also next to the treatise of the eies is adoiyned a work touching the preseruation of the sight, set forth by VV. Bailey. D. of Phisick</title>
+                 <author>Guillemeau, Jacques</author>
+                 <imprint>
+                    <publisher>Waldegrave (Walgrave), Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1587</date>
+                 <distributor>Broome (Brome, Browne), William</distributor>
+                            <distributor>Man, Thomas 1</distributor>
+                        </imprint>
+                 <extent>312 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="1" facs="98"/>
+   <head>¶ To the courteous and carefull Chyrurgian.</head>
+   <p>
+      <seg rend="decorInit">T</seg>His Treatise of the <hi>Scorby,</hi> hath bene a long time prepared for thee, but it wan<g ref="char:EOLhyphen"/>ted a prosperous gale of winde. Perhaps delaye may b<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> some disgrace to it: for earst other Treatises of the same matter haue heere ariued. Surely, others gaine, is not my grief, but I am sory that I cannot also present them to thee. I hope a better furnished leasure and skill wil shortly impart to thee this benefite. In the meane time, haue <hi>Wyers</hi> paynes, in high price, which are not inferiour to others. <hi>Ronsleus</hi> and <hi>Langius</hi> wade in<g ref="char:EOLhyphen"/>to deep difficulties, fitter for a lear<g ref="char:EOLhyphen"/>ned censurer, then a plaine practi<g ref="char:EOLhyphen"/>ser.
+<pb n="2" facs="99"/>
+      <hi>Ecthius</hi> paynteth out the signes, and poynteth to the cure▪ but affordeth not the pith and ma<g ref="char:EOLhyphen"/>row of speciall medicines: The o<g ref="char:EOLhyphen"/>ther Treatise which is of the can<g ref="char:EOLhyphen"/>ker, was painfully weaued by <hi>Tex<g ref="char:EOLhyphen"/>tor:</hi> who (in mine opinion) disco<g ref="char:EOLhyphen"/>uereth the deceipt of <hi>Penelopes</hi> webbe. For the crabbed vlcer cra<g ref="char:EOLhyphen"/>ueth helpe, hut accepteth none, as the matrone euer laboured, neuer ended her worke. Neuerthelesse as her webbe deluded her sutors, and supported the hope of <hi>Vlysses</hi> re<g ref="char:EOLhyphen"/>turne: So this crooked <hi>Caecilius</hi> may receiue often ease of payne, though none end of grief. The au<g ref="char:EOLhyphen"/>thours deserue commedacion, the interpreter, desireth friendly accep<g ref="char:EOLhyphen"/>taunce, the Printers discourage, both.</p>
+   <p>
+      <hi>Farewell.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HO∣NOVRABLE WILLIAM EALRE Of Salisbury, Viscount Cranburne, Lord Cecyll of Esendon, Knight of the most Illu∣strous order of the Garter, and one of his Ma∣jesties most honourable Privie Councell.</title>
+           <author>Downinge, Calybute</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109839_Fr1_2</idno>
+           <idno type="DLPS">A20775</idno>
+           <idno type="STC">7156</idno>
+           <idno type="ESTC">S109839</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HO∣NOVRABLE WILLIAM EALRE Of Salisbury, Viscount Cranburne, Lord Cecyll of Esendon, Knight of the most Illu∣strous order of the Garter, and one of his Ma∣jesties most honourable Privie Councell.</title>
+                 <author>Downinge, Calybute</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A discourse of the state ecclesiasticall of this kingdome, in relation to the civill : Considered vnder three conclusions. With a digression discussing some ordinary exceptions against ecclesiasticall officers. By C.D</title>
+                 <author>Downing, Calubyte</author>
+                 <imprint>
+                    <publisher>Turner, William</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>4, 98, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT HO<g ref="char:EOLhyphen"/>NOVRABLE WILLIAM EALRE Of <hi>Salisbury,</hi> Viscount <hi>Cranburne,</hi> Lord <hi>Cecyll</hi> of <hi>Esendon,</hi> Knight of the most Illu<g ref="char:EOLhyphen"/>strous order of the Garter, and one of his Ma<g ref="char:EOLhyphen"/>jesties most honourable Privie Councell.</head>
+   <p>
+      <seg rend="decorInit">M</seg>AY Jt please your honour to accept this present dis<g ref="char:EOLhyphen"/>course as an acknowledg<g ref="char:EOLhyphen"/>ment of your Lordships favour to<g ref="char:EOLhyphen"/>ward</p>
+   <closer>
+      <signed>your observant Chaplaine, Calybute Downinge.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

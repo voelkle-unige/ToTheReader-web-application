@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Lenuoy de Robert Coplande lymprimeur.</title>
+           <author>Copland, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1530</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110076_Ba1_1</idno>
+           <idno type="DLPS">A08113</idno>
+           <idno type="STC">18475</idno>
+           <idno type="ESTC">S110076</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Lenuoy de Robert Coplande lymprimeur.</title>
+                 <author>Copland, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The castell of pleasure : The conueyaunce of a dreme how Desyre went to the castell of pleasure, wherin was the gardyn of affeccyon inhabyted by Beaute to whome he amerously expressed his loue vpon ye whiche supplycacyon rose grete stryfe dysputacyon, and argument betwene Pyte and Dysdayne</title>
+                 <author>Neville, William</author>
+                 <imprint>
+                    <publisher>Worde, Wynkyn de</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1530</date>
+                 </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printers_additions">
+   <div xml:lang="fre" type="apologetic_poem">
+      <head>¶ Lenuoy de Robert Coplande lymprimeur.</head>
+      <lg>
+         <l>ATon aucteur / vatan petit liuret</l>
+         <l>Et luy prier / dexcuser ton empraint</l>
+         <l>Ce faulte ia / de par moy incorrect</l>
+         <l>Par sa copie souuent testois constraint</l>
+         <l>De diuigner / ou lencre cestott destaint</l>
+         <l>Ce nonobstant / ien ay faict mon debuoir</l>
+         <l>Pour son plaisir / dassembler blanc et noir.</l>
+      </lg>
+      <lg>
+         <l>¶ Treshonoure filz / du seigneur latimer</l>
+         <l>Surnōme Neuyl / de noble parentaige</l>
+         <l>O maistre <abbr>guillme</abbr> / en sens et vertu cler</l>
+         <l>Aucteur de ce / cōme bon clerc et saige</l>
+         <l>A vous / ie recommaunde cest ouuraige</l>
+         <l>De moy indigne / sinon par vostre suffraunce</l>
+         <l>En ce monstrant / ma folle ignoraunce.</l>
+      </lg>
+      <trailer>¶ Fin de Lenuoy.</trailer>
+   </div>
+   <div xml:lang="fre" type="dedicatory_poem">
+      <pb facs="19"/>
+      <head>¶ Ballade royalle.</head>
+      <lg>
+         <l>THrone dhonneur / et de magnificence</l>
+         <l>Par excellence triumphant en haulteut</l>
+         <l>Playne de vigeur / et de doulce clemence</l>
+         <l>Par vraye semence / naturel seigneur</l>
+         <l>Henry la fleur / et gubernateur</l>
+         <l>Dengleterre / en refulgence</l>
+         <l>Dieu le gard / de mal / et de douleur</l>
+         <l>Et honny soit qui mal ypence.</l>
+      </lg>
+   </div>
+   <div xml:lang="eng" type="apologetic_poem">
+      <head>¶ R. Coplande to thauctour.</head>
+      <lg>
+         <l>¶ Take ye in gre / o worthy mayster myne</l>
+         <l>This rubryke frensshe / in verses incorrect</l>
+         <l>No meruayle is / thoughe theyr speche be not fyne</l>
+         <l>For in scole nor countre / I neuer toke effect</l>
+         <l>And frome your boke / let them be vndeiect</l>
+         <l>Without your lycence / yf I dyd them impresse</l>
+         <l>Pardon I praye you / of this my homelynesse</l>
+      </lg>
+      <epigraph>
+         <q>¶ En passant le temps sans mal pencer.</q>
+      </epigraph>
+   </div>
+   <closer>
+      <signed>¶ Quod Coplande.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

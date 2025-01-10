@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Readrr.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122495_Fr1_3</idno>
+           <idno type="DLPS">A10672</idno>
+           <idno type="STC">20946.4</idno>
+           <idno type="ESTC">S122495</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Readrr.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Vox coeli, or Newes from heauen : Of a consultation there held by the high and mighty princes, King Hen. 8. King Edw. 6. Prince Henry, Queene Mary, Queene Elizabeth, and Queene Anne, wherein Spaines ambition and trecheries to most kingdoms and free estates of Europe, are vnmasked and truly represented, but more particularly towards England, and now more especially vnder the pretended match of Prince Charles with the Infanta Dona Maria. VVherunto is annexed two letters written by Queene Mary from heauen, the one to Count Gondomar, the ambassadour of Spaine, the other to all the Romane Catholiques of England. Written by S.R.N.I</title>
+                 <author>Reynolds, John</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>18, 56, 51-74, 85-92 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="10"/>
+   <head>The Printer to the Readrr.</head>
+   <p>GEntlemen, I heartily beseech you to amend and correct your Bookes with your Pens; that in the reading thereof, the Authors innocency suffer not through the Delect of my remissenesse, in your Censures and exprobation. <hi>Farewell.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

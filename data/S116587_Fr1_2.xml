@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To The VVorshipfull his very louing Cosen Mr. Nicholas Hillyard, his Maiesties seruant in ordinary. Io: H. wishes all the graces of this life, and the glory of the life to come.</title>
+           <author>Hilliard, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116587_Fr1_2</idno>
+           <idno type="DLPS">B00175</idno>
+           <idno type="STC">13507.3</idno>
+           <idno type="ESTC">S116587</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To The VVorshipfull his very louing Cosen Mr. Nicholas Hillyard, his Maiesties seruant in ordinary. Io: H. wishes all the graces of this life, and the glory of the life to come.</title>
+                 <author>Hilliard, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Fire from heauen : Burning the body of one Iohn Hittchell of Holne-hurst, within the parish of Christ-church, in the county of South-hampton the 26. of Iune last 1613. who by the same was consumed to ashes, and no fire seene, lying therein smoaking and smothering three daye and three nights, not to bequenched [sic] by water, nor the help of mans hand. VVith the lamentable burning of his house and one childe, and the grieuous scorching of his wife: with the birth of a monster, and many other strange things hapning about the same time: the like was neuer seene nor hear of. Written by Iohn Hilliard preacher of the word of life in Sopley. Reade and tremble. With the fearefull burning of the towne of Dorchester vpon friday the 6. of August last 1613</title>
+                 <author>Hilliard, John, preacher of the word of life in Sopley</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Trundle, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="6"/>
+   <pb facs="6"/>
+   <head>
+      <hi>To</hi> The VVorshipfull his very louing Cosen Mr. <hi>Nicholas Hillyard,</hi> his Maiesties seruant in ordinary. <hi>Io: H.</hi> wishes all the graces of this life, and the glory of the life to come.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">V</seg>VOrshipfull and worthy Cosen,</salute>
+   </opener>
+   <p>my end in publishing this Pamphlet, is not po<g ref="char:EOLhyphen"/>pular ostentation: for you well know, it becommeth neither the season, nor the subiect: The only purpose I haue, is to rouse vp the sloathfull carelesse, and instruct the fil<g ref="char:EOLhyphen"/>thy forgetfull, to behold the wonderfull workes of the Lord, and thereby to grow more thankefull for his great mercy, in sparing them: And to the end that we may all in true humility, imbrace these mercifull warnings of our gracious God, and speedily appeale to the Throne of mercy, preparing our selues to meet the Bridegroome of our soules, who commeth in maiestie to iudge both quick and dead. <hi>For we must all appeare before the Iudgement Seat of Christ,</hi>
+      <note place="margin">2. Cor. 5.10.</note>
+      <hi>that euery man may receaue the things which are done in his bo<g ref="char:EOLhyphen"/>dy, according to that he hath done, whether it be good or euill.</hi>
+   </p>
+   <p>For the plainenesse and rudenes of my style, if you duly consider the manner of my writing: I trust you
+<pb facs="7"/> will acknowledge that the power of the spirit is best seene in weaknes, and that plaine lines doe best an<g ref="char:EOLhyphen"/>s<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>ere a straight leuell: the euidence of the spirit is best seene in plainenes: Wherefore if our Gospell be hid, it is hid in them that perish. But I perswade my selfe better things of you, euen such as accom<g ref="char:EOLhyphen"/>panie saluation. Yf you accept of these my paines according to mine intent you shall happily ease your selfe of the Mother and the Daughters forgetfull<g ref="char:EOLhyphen"/>nesse, and vnthankfulnes, and burthen me willingly with greater labor, for the further building you vp in Christ Iesus. To whose pro<g ref="char:EOLhyphen"/>tection I commit you.</p>
+   <closer>
+      <dateline>Christ-church <date>this 10. of Iuly. 1613.</date>
+      </dateline>
+      <signed>Your louing kins-man, <hi>Iohn Hilliard.</hi>
+      </signed>
+   </closer>
+   <trailer type="illustration">
+      <figure>
+</figure>
+   </trailer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106222_Ba1_1</idno>
+           <idno type="DLPS">A14298</idno>
+           <idno type="STC">24615</idno>
+           <idno type="ESTC">S106222</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Approved directions for health, both naturall and artificiall : deriued from the best physitians as well moderne as auncient. Teaching how euery man should keepe his body and mind in health: and sicke, how hee may safely restore it himselfe. Diuided into 6. sections 1. Ayre fire and water. 2. Meate, drinke with nourishment. 3. Sleepe, earely rising and dreames. 4. Auoidance of excrements, by purga. 5. The soules qualities and affections. 6. Quarterly, monethly, and daily diet. Newly corrected and augmented by the authour</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Jackson, Roger.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 150 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>Gentle Reader, for <hi>Chap.</hi> 8. in Page 54. put <hi>Chap.</hi> 9. And
+<hi>Chap.</hi> 9. in Page 56. make it <hi>Chap.</hi> 10. and so adieu.</p>
+   <pb facs="81"/>
+</div>
+        </body>
+  </text>
+</TEI>

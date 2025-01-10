@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A briefe note to the Readers.</title>
+           <author>Rabbardes, Raph</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115988_Fr1_11</idno>
+           <idno type="DLPS">A10786</idno>
+           <idno type="STC">21057</idno>
+           <idno type="ESTC">S115988</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A briefe note to the Readers.</title>
+                 <author>Rabbardes, Raph</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The compound of alchymy. Or The ancient hidden art of archemie : conteining the right &amp; perfectest meanes to make the philosophers stone, aurum potabile, with other excellent experiments. Diuided into twelue gates. First written by the learned and rare philosopher of our nation George Ripley, sometime Chanon of Bridlington in Yorkeshyre: &amp; dedicated to K. Edvvard the 4. Whereunto is adioyned his epistle to the King, his vision, his wheele, &amp; other his workes, neuer before published: with certaine briefe additions of other notable writers concerning the same. Set foorth by Raph Rabbards Gentleman, studious and expert in archemicall artes</title>
+                 <author>Ripley, George</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>104 pages, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_to_the_reader">
+   <head>A briefe note to the Readers.</head>
+   <p>THe Wheele that is placed (Gentlemen) last, as the period of this se<g ref="char:EOLhyphen"/>cret Worke may of some be challenged (through the diuersitie of Copies) to differ from the first. But herein I assure you I haue ob<g ref="char:EOLhyphen"/>serued no lesse care than counsaile, and that of knowen Practisers, whose censures (made more certaine by experience) haue determined all doubts, and made me bolde to publish what followeth for the most aun<g ref="char:EOLhyphen"/>cient. If anie literall fault be past, amend it with your pens: if anie carper inueigh against me, defend me with your curtesies: and let them (if they can) condemne by cunning. Farewell.</p>
+   <closer>
+      <signed>R. Rabbardes.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

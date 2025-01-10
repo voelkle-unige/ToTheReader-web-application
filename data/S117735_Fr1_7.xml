@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117735_Fr1_7</idno>
+           <idno type="DLPS">A12750</idno>
+           <idno type="STC">23058</idno>
+           <idno type="ESTC">S117735</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A mouzell for Melastomus, the cynicall bayter of, and foule mouthed barker against Euahs sex. Or an apologeticall answere to that irreligious and illiterate pamphlet made by Io. Sw. and by him intituled, The arraignement of women. By Rachel Speght</title>
+                 <author>Speght, Rachel</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Archer, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>14, 38, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <lg>
+      <l>IF he that for his Countrie doth expose</l>
+      <l>himselfe vnto the furie of his foe,</l>
+      <l>Doth merite praise and due respect of those,</l>
+      <l>for whom he did that perill vndergoe:</l>
+      <l>Then let the Author of this Monzell true</l>
+      <l>Receiue the like, of right it is her due.</l>
+   </lg>
+   <lg>
+      <l>For she to shield her Sex from Slaunders Dart,</l>
+      <l>and from inuective obtrectation,</l>
+      <l>Hath ventured by force of Learnings Art,</l>
+      <l>(in which she hath had education)</l>
+      <l>To combate with him, which doth shame his Sex,</l>
+      <l>By offring feeble women to perplex.</l>
+   </lg>
+   <signed>PHILOMATHES.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

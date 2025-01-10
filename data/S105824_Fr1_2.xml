@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worshipfull and his e∣speciall good friend, M. Nicholas San∣ders of Ewell Esquier, T. Newman wish∣eth all feliciti.</title>
+           <author>Newman, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105824_Fr1_2</idno>
+           <idno type="DLPS">A02121</idno>
+           <idno type="STC">12261</idno>
+           <idno type="ESTC">S105824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worshipfull and his e∣speciall good friend, M. Nicholas San∣ders of Ewell Esquier, T. Newman wish∣eth all feliciti.</title>
+                 <author>Newman, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes vision : vvritten at the instant of his death. Conteyning a penitent passion for the folly of his pen</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Newman, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right worshipfull and his e<g ref="char:EOLhyphen"/>speciall good friend, M. Nicholas San<g ref="char:EOLhyphen"/>ders of Ewell Esquier, <hi>T. Newman</hi> wish<g ref="char:EOLhyphen"/>eth all feliciti<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>.</head>
+   <p>
+      <seg rend="decorInit">W</seg>ERE I as able as I am willing (Right Worshipfull) to shewe my selfe thankful for your manie kindnesses extended vnto me, some more ac<g ref="char:EOLhyphen"/>complisht Dedication then this, should haue offred it selfe to your iudiciall view at this instant.It was one of the last workes of a wel known Au<g ref="char:EOLhyphen"/>thor, therefore I hope it will be more acceptable. Manie haue published repentaunces vnder his name, but none more vnfeigned then this, being euerie word of his owne: his own phrase, his own method. The experience of many vices brought forth this last vision of vertue. I recommend it in<g ref="char:EOLhyphen"/>tirely to your worships euen ballancing censure. None haue more insight then you into matters of wit. All men of Art acknowledge you to bee
+<pb facs="3"/>
+an especiall <hi>Mecenas,</hi> and supporter of learning in these her despised latter daies. I am one that haue no interest in knowledge, but the inseperate loue that I beare to them that professe it: That atten<g ref="char:EOLhyphen"/>dant loue on good letters, striues to honor you in whome Art is honoured. I thinke not this pam<g ref="char:EOLhyphen"/>phlet any way proportionable in woorth with your worshippes patronage: but it is my desire to yeelde some encrease to your fame in anie thing that I shall imprint. Thus wishing to your worshippe that felicitie and contentment, which your owne best gouerned thoughtes doe aime at, I most humblie take my leaue.</p>
+   <closer>
+      <signed>
+         <hi>Your VVorships most bounden</hi> T. Newman.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Advertissement au Lecteur.</title>
+           <author>Cary, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115329_Bo1_22</idno>
+           <idno type="DLPS">A68615</idno>
+           <idno type="STC">20490</idno>
+           <idno type="ESTC">S115329</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Advertissement au Lecteur.</title>
+                 <author>Cary, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The mirrour which flatters not : Dedicated to their Maiesties of Great Britaine, by Le Sieur de la Serre, historiographer of France. Enriched with faire figures. Transcrib'd English from the French, by T.C. And devoted to the well-disposed readers</title>
+                 <author>Puget de La Serre, Jean</author>
+                 <imprint>
+                    <publisher>Purslowe, Elizabeth</publisher>
+                    <distributor>Thrale, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>34, 48, 45-59, 1, 71-228, 18 pages, illustrations (metal cuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="137"/>
+   <pb facs="137"/>
+   <head>Advertissement au Lecteur.</head>
+   <opener>
+      <salute>Generous READER,</salute>
+   </opener>
+   <p>'TWas upon occasion of the last <hi>Summer's</hi> sad ef<g ref="char:EOLhyphen"/>fects generally over all <hi>England,</hi> and some ressent<g ref="char:EOLhyphen"/>ments of mine owne; when the Reading and Copying <hi>English</hi> this Authour's <hi>French</hi> Originall, seasona<g ref="char:EOLhyphen"/>bly engaged my thoughts, and <hi>Pen.</hi> I thinke al's not forgotten yet: But in a longer intervall, and indeed <hi>alwayes,</hi> there ought still to bee a deepe apprehension of our <hi>Mortality.</hi> This our <hi>AUTHOR</hi> inculcates to us in Notions quicke and pertinent, though in some historicall allusions he may a little o're-trust his Me<g ref="char:EOLhyphen"/>mory.</p>
+   <closer>
+      <salute>Valebis.</salute>
+      <signed>THO. CARY.</signed>
+   </closer>
+   <epigraph>
+      <q>—Laudatus abundè Non fastiditus—</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

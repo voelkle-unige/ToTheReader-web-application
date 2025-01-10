@@ -1,0 +1,199 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title data-template="config:app-title"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-24.png" sizes="24x24"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-64.png" sizes="64x64"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
+    
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com"/>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet"/> 
+    
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet"/>
+    
+    <link rel="stylesheet" href="resources/css/theme.css"/>
+    <link rel="stylesheet" href="resources/css/TTRtheme.css"/>
+    <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+    <custom-style>
+        <style>
+            main {
+                margin: 0 200px 0 20px;
+            }
+
+            #content {
+                margin-bottom: 0px;
+                flex: 1 0 auto;
+                max-width: 960px;
+                width: 100%;
+                padding-right: 15px;
+                padding-left: 15px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            
+            .container {
+                max-width: 960px;
+            }
+            
+            .paragraph {
+                margin: 0 auto;
+                max-width: 650px;
+                word-wrap: break-word;
+                overflow-wrap: break-word;
+                hyphens: auto;
+                text-align: justify;
+                font-family: Georgia;
+                line-height: 1.6;
+            }
+            
+            img {
+                  display: block;
+  margin-left: auto;
+  margin-right: auto;
+            }
+            
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-family: "Montserrat", "Oswald", Verdana, "Helvetica", sans-serif;
+                font-weight: bold;
+                line-height: 1.6;
+            }
+            
+            h3 {
+                font-size: 14px;
+            
+            }
+            
+            h5 {
+                font-size: 16px;
+                margin: 0;
+            }
+            
+
+        </style>
+    </custom-style>
+</head>
+
+<body>
+
+    <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right">
+                <div class="drawer-content">
+                    <pb-media-query query="(max-width: 1023px)">
+                            <!-- language selector -->
+                            <pb-lang name="lang" data-template="pages:languages"/>
+                        </pb-media-query>
+                    </div>
+                </app-drawer>
+                </app-drawer-layout>
+                
+                <app-header-layout>
+                <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                <app-toolbar data-template="templates:include" data-template-path="templates/menu.html" class="menubar"/>
+
+
+                    
+                    
+                    <pb-media-query query="(max-width: 1023px)">
+                        <app-toolbar class="toolbar" sticky="sticky">
+                            <!-- Search input -->
+                            <pb-search action="${app}/search.html" data-template="pages:parse-params" value="${query}" redirect="redirect"/>
+                            <paper-icon-button icon="icons:menu" drawer-toggle="drawer-toggle"/>
+                        </app-toolbar>
+                    </pb-media-query>
+                </app-header>
+                </app-header-layout>
+                
+<main>
+
+<div id="content">
+<div class="row">
+<div class="paragraph col-md-12">
+<br/>
+    <img src="resources/images/TTRlogo.jpg"/>
+
+    <h1 class="h1">❧About the Project</h1>
+    <h3 class="h3">To the Reader: The English Preface in Print, c. 1475–1623</h3>
+
+    <p>The corpus presented on this site is an output of the ‘To the Reader’ Ambizione project based in the Department of English at the University of Geneva and funded by the Swiss National Science Foundation (# <a href="http://p3.snf.ch/project-179809" target="_blank">179809</a>).</p>
+    
+    <p>The project examines the English prefaces to readers in books printed between 1475 and 1623, with the goal of charting their rise and assessing their importance in relation to the emerging conventions of literary and print culture. Following the inclusion of a prologue in the first printed English book, William Caxton’s <i>Recuyell of the Historyes of Troy</i> (ca. 1475), the preface intended for the reader came to serve an exceptionally prominent role in English books during the next century and a half of printing. By 1622, the preface to the first edition of Shakespeare’s <i>Othello</i> could quip, ‘To set forth a booke without an Epistle, were like to the old English proverbe, a blew coat without a badge’–that is, like a servant’s uniform lacking his master’s insignia. Such prefaces demonstrate not only their prevalence as a genre by this point in the early modern period, but also their potential as a vehicle for self-reflexive commentary, satire, or advertisement.</p>
+    
+    <p>Despite the proliferation of printed prefaces to readers, these texts have often been dismissed as merely conventional, and no study dedicated to their increasing prominence during this period exists. Where they have received scholarly attention, this has been limited to their construction of authorship or their use of certain types of rhetoric in single genres. ‘To the Reader’ recognises the preface to the reader as an under-theorised feature of the early printed book, and innovates by exploring these texts across different literary genres and a broad chronological period. It is the first study to account for their extraordinary ubiquity and to chart their emergence in print during the late medieval and early modern periods, a hundred and fifty year span which saw the previously unsurpassed production of English books and the gradual construction of an English literary identity.</p>
+    
+    <p>The project uses methods from the Digital Humanities to survey the successful integration of prefaces to readers into printed English books; it compares their rhetoric across literary and non-fictional genres of writing; and it studies the material and bibliographical characteristics which indicate their importance to the authors, printer-publishers, and readers of the early book marketplace. Prefaces to readers hold significance for scholarship’s understanding of the materiality of early printed volumes, of historical reading practices, and of the advertising techniques of the English book trade.</p>
+    
+    <p>The aim of the project is to fill a major gap in English studies by undertaking the first comprehensive study to account for the historical, bibliographical, and literary importance of printed prefaces to readers across the late medieval and early modern periods.</p>
+
+    <h3 class="h3">Team</h3>
+    
+    <div>
+                        <ul>
+                            <li>
+                                        <a target="_blank" href="https://www.unige.ch/lettres/angle/en/collaborateurs/modernearly/singh/">
+                        Dr Devani Singh: Principal Investigator
+                        </a>
+                            </li>
+                            <li>
+                                        <a target="_blank" href="https://jamesmisson.github.io/">
+                        Dr James Misson: Research Assistant in Digital Humanities
+                        </a>
+                            </li>
+                        </ul>
+                    </div>
+    
+    
+    
+
+
+</div>
+</div>
+</div>
+</main>
+
+
+<footer>
+                    
+        <div class="container">
+                <div class="row text-center">
+                <div class="col">
+                        <a href="http://p3.snf.ch/project-179809" class="navlink" target="_blank">
+                            <img src="resources/images/logo-fns.png" alt="SFNS" height="40px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="https://www.unige.ch/" class="navlink" target="_blank">
+                            <img src="resources/images/logo-UNIGE_noir70_fondTransparent.gif" alt="Unige" height="40px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="https://github.com/ToTheReader" class="navlink" target="_blank">
+                            <img src="resources/images/GitHub_Logo.png" alt="GitH" height="40px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="http://exist-db.org">
+                            <img src="resources/images/existdb.svg" alt="Powered by eXist-db" height="40px"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+</footer>
+
+ </pb-page>
+
+</body>
+
+</html>

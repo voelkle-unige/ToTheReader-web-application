@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2211_Fr1_4</idno>
+           <idno type="DLPS">A72769</idno>
+           <idno type="STC">16644.5</idno>
+           <idno type="ESTC">S2211</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The exercise of a Christian life, written by G.L. Being the first ground and foundaion [sic], whence the two treatises appertaining to resolution, were made and framed, by R.P</title>
+                 <author>Loarte, Gaspar de</author>
+                 <imprint>
+                    <publisher>Short, Peter</publisher>
+                    <distributor>Leake, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>4, 112, 4 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>HIS learned Treatise of the exercise of a christian life (Gentle Reader) was first written in the Italian tounge, by a certayne Iesuit Frier whoe was named <hi>Gasper Loarte,</hi> and afterwarde more at large wrought vppon, and handled in more plentifull discourse, by <hi>Robert Persons</hi> Englishman, yet a Iesuite likewise, li<g ref="char:EOLhyphen"/>uing beyond the Seaes, which he ter<g ref="char:EOLhyphen"/>med <hi>A Christian exercise, appertaining to Resolution,</hi> two partes whereof are extant in English, and many haue rea<g ref="char:EOLhyphen"/>ped Christian profit from them, I doe not doubt. Nowe this treatise, beeing the firste frame and ground-woorke,
+<pb facs="4"/> where these two seuerall bookes were deriued, and containing very muche good matter left vnhandled in them: is likewise published for thy further benefite if with like minde and spirite thou giue it entertainement, as it is of<g ref="char:EOLhyphen"/>fered. Diuers learned men haue had the perusing of it, and haue left no matter in it to vrge thy dislike: then thankfully accept of their paines that would gladly do any thing for thy profit.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

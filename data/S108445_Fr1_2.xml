@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1543</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108445_Fr1_2</idno>
+           <idno type="DLPS">A05299</idno>
+           <idno type="STC">15443</idno>
+           <idno type="ESTC">S108445</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Genethliacon illustrissimi Eäduerdi Principis Cambriae, Ducis Coriniæ, et Comitis Palatini : libellus ante aliquot annos inchoatus, nunc uerò absolutus, &amp; editus: Ioanne Lelando antiquario autore. Libellus candido lectori</title>
+                 <author>Leland, John</author>
+                 <imprint>
+                    <publisher>Wolfe, Reyner (Reginald)</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1543</date>
+                 </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <l>Festa coronatae sunt haec insignia plumae</l>
+   <l>Principis Eduerdi, diuino numine cuius</l>
+   <l>Splendor, honos, tituli, nomen, laudes{que} manebunt,</l>
+   <l>Dum niuei liquido gaudebunt flumine cygni,</l>
+   <l>Lactea dum{que} hortis nascentur lilia cultis.</l>
+   <p>
+      <figure>
+</figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

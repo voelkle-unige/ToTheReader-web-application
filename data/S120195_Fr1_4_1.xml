@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Wall, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120195_Fr1_4_1</idno>
+           <idno type="DLPS">A09495</idno>
+           <idno type="STC">19778.5</idno>
+           <idno type="ESTC">S120195</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Wall, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Aulus Persius Flaccus his Satires translated into English, by Barten Holyday Mr of Arts, and student of Christ-Church in Oxford</title>
+                 <author>Persius</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>70 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <lg>
+      <l>DArke <hi>Persius, Ambrose</hi> threw thy booke on ground</l>
+      <l>With indignation, 'cause 'twas so profound:</l>
+      <l>But now in <hi>fathers</hi> roome a <hi>child</hi> is sprung,</l>
+      <l>That reader thy Satires in a vulgar tongue.</l>
+      <l>No <hi>Ambrose,</hi> yet with ambrose to be fed,</l>
+      <l>That could so wisely tracke, where thou couldst tred,</l>
+      <l>He takes away thy vaile, and makes that line</l>
+      <l>Transalpine, which the <hi>Romans</hi> would confine:</l>
+      <l>Now let thy wandring shadow freely roaue,</l>
+      <l>And seeke great place in the <hi>Elisian</hi> groaue,</l>
+      <l>Where since theres store of bay, for him one knit,</l>
+      <l>That makes the looser <hi>Brytaines</hi> feare thy wit.</l>
+      <l>Needes must his <hi>owne</hi> inventions <hi>radiant</hi> be,</l>
+      <l>That casts <hi>such beames</hi> through <hi>thy opacitie.</hi>
+      </l>
+      <l>Hence forth (bright <hi>Holyday</hi>) to change refuse</l>
+      <l>Thine Owne <hi>Terpsichore,</hi> with translated Muse.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>In</hi> Latio <hi>latuit</hi> Saturnum <hi>filius:</hi> Aulum</l>
+      <l>
+         <hi>Sic poterat soboles ista latere suum,</hi>
+      </l>
+      <l>
+         <hi>Ante tuas</hi> (Holydaie) <hi>faces; hâc luce refulget</hi>
+      </l>
+      <l>
+         <hi>Pluribus, &amp; caeco, tector ante, patri.</hi>
+      </l>
+      <l>
+         <hi>Gymnasiarcha, puer, festivus ludat vterque:</hi>
+      </l>
+      <l>
+         <hi>Per</hi> Festum <hi>vobis otia quanta diem?</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Nunquam</hi> Pegaseas <hi>libavit</hi> Persius <hi>vndas,</hi>
+         <note place="margin">Nee fonte, &amp;c. Nec in bic: &amp;c.</note>
+      </l>
+      <l>
+         <hi>Aut clausit docto lumina pigra jugo.</hi>
+      </l>
+      <l>
+         <hi>Nempe</hi> tibi, <hi>fontem latices{que} &amp; culmina</hi> Phoebus</l>
+      <l>
+         <hi>Servârat: pleno dum satur ore mades.</hi>
+      </l>
+      <l>
+         <hi>Quidve</hi> Aulus <hi>traheret? cum fic</hi> Helicona <hi>refundas,</hi>
+      </l>
+      <l>
+         <hi>Vt natet</hi> Angligenis Jtala Musa labris.</l>
+   </lg>
+   <lg>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</l>
+   </lg>
+   <closer>
+      <signed>IOHN WALL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

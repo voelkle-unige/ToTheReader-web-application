@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Letter from Card Antonio Bar∣barini, Praefect of the sacred Congregation of Cardinalls De propagandâ fide, unto Tho. Flem∣ming Archb. of Dublin, and by him published not onely thorough this whole Diocesse of Dublin, but generally thoroughout all Ireland, in the mo∣neths of August and September, of this present yeare 1635.</title>
+           <author>Barbarini, Antonio</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119022_Fr1_3</idno>
+           <idno type="DLPS">A02680</idno>
+           <idno type="STC">12811</idno>
+           <idno type="ESTC">S119022</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Letter from Card Antonio Bar∣barini, Praefect of the sacred Congregation of Cardinalls De propagandâ fide, unto Tho. Flem∣ming Archb. of Dublin, and by him published not onely thorough this whole Diocesse of Dublin, but generally thoroughout all Ireland, in the mo∣neths of August and September, of this present yeare 1635.</title>
+                 <author>Barbarini, Antonio</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Exile exiled : Occasioned by a mandat from Rome, procured by Tho. Flemming alias Barnwell, archb. of Dublin, and friar of the Order of S. Francis, from the Congregation of Cardinalls De propagandâ fide, for the banishment of Paul Harris out of the Diocesse of Dublin. By Pau Harris Priest</title>
+                 <author>Harris, Paul</author>
+                 <imprint>
+                    <publisher>Stationers’ Society, Dublin</publisher>
+                    <pubPlace>Ireland--Dublin</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>4, 56 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb n="1" facs="3"/>
+   <head>A Letter from Card <hi>Antonio Bar<g ref="char:EOLhyphen"/>barini,</hi> Praefect of the sacred Congregation of Cardinalls <hi>De propagandâ fide,</hi> unto <hi>Tho. Flem<g ref="char:EOLhyphen"/>ming</hi> Archb. of <hi>Dublin,</hi> and by him published not onely thorough this whole Diocesse of <hi>Dublin,</hi> but generally thoroughout all <hi>Ireland,</hi> in the mo<g ref="char:EOLhyphen"/>neths of <hi>August</hi> and <hi>September,</hi> of this present yeare 1635.</head>
+   <head>
+      <hi>To which Letter, for the better understanding thereof, is added a glosse by</hi> Paul Harris, <hi>very</hi> necessary to bee read of all such, to whom that Letter is communicated.</head>
+   <head>The Letter of Card <hi>Antonio,</hi> unto the Archb. of <hi>Dublin, Tho. Flemming.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">M</seg>Ost illustrious and reverent Lord, as brother. Heere it is written un<g ref="char:EOLhyphen"/>to the Bishop of <hi>Meath,</hi> That hee command that same <hi>Paul Harris</hi> to depart forthwith from your Diocesse, o<g ref="char:EOLhyphen"/>therwise to give order byauthority of the same holy Congregation, to the faithfull people, that none shall receive from him the holy Sacra<g ref="char:EOLhyphen"/>ments,
+<pb n="2" facs="4"/>nor heare his Masse. And that some scandall arise not by meanes of this order, Your Lordship may give unto the said Bishop (when hee receiveth this inclosed) such ad<g ref="char:EOLhyphen"/>vertisements and informations as you shall thinke fitting for prevention thereof. To con<g ref="char:EOLhyphen"/>clude, I commend my selfe unto your Lord<g ref="char:EOLhyphen"/>ship.</p>
+   <closer>
+      <dateline>
+         <hi>Rome</hi>
+         <date>13. <hi>Decemb.</hi>
+         </date>
+      </dateline>
+      <signed>
+         <hi>Your Honors most affectionat as bro<g ref="char:EOLhyphen"/>ther Card.</hi> Antonio Barbarini. <hi>Francis Ingoli</hi> Secretary.</signed>
+   </closer>
+   <postscript>
+      <head>The Gloss.</head>
+      <p>MOst illustrious and Rev. Lo: as brother <hi>vid. Thomas Flemming</hi> alias <hi>Barnwell,</hi> to whom this Epistle was directed, as himselfe publisheth. Heere it is written to the Bishop of Meath <hi>subandi</hi> inclosed within this Letter. The name of the B. of <hi>Meath</hi> is, <hi>Tho. Dese</hi> Do. of <hi>Sorbon</hi> in <hi>Paris.</hi>
+      </p>
+      <p>That hee commaund that same <hi>Paul Harris viz.</hi> mentioned in the inclosed Letter unto the B. of <hi>Meath,</hi> not yet published.</p>
+      <p>To depart forthwith your Diocesse</p>
+      <p>To wit, the Diocesse of <hi>Dublin.</hi>
+      </p>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

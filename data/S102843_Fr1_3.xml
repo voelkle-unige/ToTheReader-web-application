@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Courteous READER.</title>
+           <author>Lovell, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102843_Fr1_3</idno>
+           <idno type="DLPS">A06388</idno>
+           <idno type="STC">16859</idno>
+           <idno type="ESTC">S102843</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Courteous READER.</title>
+                 <author>Lovell, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Tvvo soveraigne salves for the soules sicknesse : deliuered in certaine sermons at Hurst-church in the county of Berkes, neere Reading. By Robert Lovell, then minister and preacher of Gods word in the same parish</title>
+                 <author>Lovell, Robert, curate of Allhallowes, Barking</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Newbery, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>10, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Courteous <hi>READER.</hi>
+   </head>
+   <opener>
+      <salute>Courteous Reader,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">W</seg>Hereas the common excuse for the <hi>Presse</hi> is <hi>Ouer-pressing Impor<g ref="char:EOLhyphen"/>tunity;</hi> I will not presse thee to beleeue that of me, but I will ingenuously acknowledge that my speciall apologie for my presumption in this kinde is <hi>Opportunity,</hi> lest I might seeme vnthankefull vnto him to whom I so much owe my selfe.</p>
+   <p>Looke thou on the <hi>Thing</hi> without regarding the <hi>Person,</hi> on the <hi>Matter</hi> without respecting the <hi>Man,</hi> and I doubt not but that it may profit thee. Which if it doth;<note place="margin">
+         <hi>Homeroma<g ref="char:EOLhyphen"/>stix</hi> was <hi>Ho<g ref="char:EOLhyphen"/>mers</hi> Scourge, of whom all Railers and ma<g ref="char:EOLhyphen"/>litious Carpers are called <hi>Zoili. Plutarch.</hi>
+      </note> pleasure me then but so much as to shield mee what thou may'st from that <hi>Zoilus</hi> or <hi>Homero<g ref="char:EOLhyphen"/>mastix</hi> whom I know will rather <hi>Except</hi> against it, then <hi>Accept</hi> of it. Yet I must tell thee truely, that I suspect not the biting of any Curre, but the Cubbe of that Foxe which doth dispraise the Grapes which he cannot reach: For no such enemy to <hi>Art</hi> as <hi>Idi<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>tisme.</hi>
+   </p>
+   <pb facs="5"/>
+   <p>But if thou, who art Iudicious, dost hap to finde ought in it which is worthy of <hi>Reproofe; Blame</hi> mee then, but <hi>Blase</hi> me not, <hi>That is Charitie;</hi> or if thou findest ought in it worthy of <hi>Prayse, Blesse</hi> him that made me the Instrument of his glory heerein; <hi>That is Pietie.</hi> And thus doing, thou shalt surely set me with cheerefulnesse to a further benefitting of Gods Church, which that I may I craue thy prayers for mee, and assure thee of mine for thee, and so I rest,</p>
+   <closer>
+      <dateline>From my Study at Saint <hi>Michaels</hi> in <hi>Crooked Lane,</hi> Lond. <date>25. of <hi>Nou.</hi> 1620.</date>
+      </dateline>
+      <signed>Thy seruant in Iesus Christ, <hi>ROBERT LOVELL.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

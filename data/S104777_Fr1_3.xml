@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Breton, Nicholas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104777_Fr1_3</idno>
+           <idno type="DLPS">A16739</idno>
+           <idno type="STC">3646</idno>
+           <idno type="ESTC">S104777</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Breton, Nicholas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A dialogue full of pithe and pleasure: betvveen three phylosophers: Antonio, Meandro, and Dinarco : vpon the dignitie, or indignitie of man. Partly translated out of Italian, and partly set downe by way of obseruation. By Nicholas Breton, Gentleman</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <distributor>Browne, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Cotton, William.</publisher>
+                            <publisher>Creede, Thomas</publisher>
+                        </imprint>
+                 <extent>38 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Y your patience gentle Reader, giue mee leaue to laie before your eyes, a discourse vpon the Dignitie, or Indignitie of Man, handled in the maner of a Dia<g ref="char:EOLhyphen"/>logue, by two or three concei<g ref="char:EOLhyphen"/>ted companions: that though they were no great Graduates, yet it seemed by that they spake, they vnderstood what they learned; and though they exceed not in their knowledge, yet they went not to schoo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e for nothing: two of them it should seeme were younger then the third, who, in his sullaine humour vsed speech that might giue cause of mirth; how euer they disagreed in their opinions touching the mat<g ref="char:EOLhyphen"/>ter they had in talke, yet they parted, and liued such friends, as made good vse each of others company. So would I wish it to be with you that reade, what euer you thinke of my wri<g ref="char:EOLhyphen"/>ting, yet so to conceiue of my labour, that be<g ref="char:EOLhyphen"/>ing not disdainfully spoken of in this, it may be
+<pb facs="4"/>
+better imployed hereafter: but least I should begge a liking of that which may seeme not worth the looking on, I will leaue my wo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ke to the worlds curtesie, and my good wil to my friends kindnesse: and so rest to euery one as I haue reason.</p>
+   <closer>
+      <signed>
+         <hi>A friende, Nicho. Breton</hi>▪</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

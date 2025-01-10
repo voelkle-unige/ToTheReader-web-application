@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1546</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108440_Fr1_2</idno>
+           <idno type="DLPS">A05298</idno>
+           <idno type="STC">15442</idno>
+           <idno type="ESTC">S108440</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Enkōmion tēs eirēnēs. = Laudatio pacis. Ioanne Lelando antiquario autore</title>
+                 <author>Leland, John</author>
+                 <imprint>
+                    <publisher>Wolfe, Reyner (Reginald)</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1546</date>
+                 </imprint>
+                 <extent>2, 12, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="summary_poem">
+   <pb facs="2"/>
+   <head>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>PRima lolis sedes picto debetur in horto,</l>
+   <l>Proximam &amp; à prima sisia cana tenent.</l>
+   <l>Illae Sidoniae tinguntur murice gentis:</l>
+   <l>Haec sunt Sithonia candidiora niue.</l>
+   <l>Illas noster amat tanquam sua stemmata Princeps:</l>
+   <l>Haec etiam summo Gallus honore colit.</l>
+   <l>Lilia purpureis Dij seruent iuncta rosetis,</l>
+   <l>Vernet ut in terris Pacis amica Quies.</l>
+</div>
+        </body>
+  </text>
+</TEI>

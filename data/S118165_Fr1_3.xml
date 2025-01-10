@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the honor'd Patron of his Book.</title>
+           <author>Tatham, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118165_Fr1_3</idno>
+           <idno type="DLPS">A13393</idno>
+           <idno type="STC">23704</idno>
+           <idno type="ESTC">S118165</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the honor'd Patron of his Book.</title>
+                 <author>Tatham, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The fancies theater· By Iohn Tatham Gent</title>
+                 <author>Tatham, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Best, Richard.</publisher>
+                            <publisher>Norton, John 2</publisher>
+                        </imprint>
+                 <extent>162 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="4"/>
+   <head>To the honor'd Patron of his Book.</head>
+   <opener>
+      <salute>SIR,</salute>
+   </opener>
+   <l>AS my service binds me and my love,</l>
+   <l>(May your faire selfe so of the same approve)</l>
+   <l>As your deservings, I have plac'd you here</l>
+   <l>Equall with <hi>Phoebus</hi> in his Hemisphere,</l>
+   <l>Where your refulgent brightnesse cast's a light</l>
+   <l>Into these twinkling Lamps, and give's them sight.</l>
+   <l>
+      <hi>Minerva</hi> bad me tell you she is proud</l>
+   <l>Of those deserts which in your brest doe crowd</l>
+   <l>As in a throng, which our capacity</l>
+   <l>Not able to finde out, leave's to her eye.</l>
+   <l>Thrice worthy <hi>Hero,</hi> may your <hi>Halcion</hi> dayes</l>
+   <l>Be ne're extinct till crazie Time decayes.</l>
+   <closer>
+      <signed>Jo. Tatham.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

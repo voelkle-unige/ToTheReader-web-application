@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTOR I.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101961_Ba1_1</idno>
+           <idno type="DLPS">A68944</idno>
+           <idno type="STC">3051</idno>
+           <idno type="ESTC">S101961</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTOR I.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The travels of certaine Englishmen into Africa, Asia, Troy, Bythinia, Thracia, and to the Blacke Sea : And into Syria, Cilicia, Pisidia, Mesopotamia, Damascus, Canaan, Galile, Samaria, Iudea, Palestina, Ierusalem, Iericho, and to the Red Sea: and to sundry other places. Begunne in the yeare of iubile 1600. and by some of them finished in this yeere 1608. The others not yet returned. Very profitable to the help of trauellers, and no lesse delightfull to all persons who take pleasure to heare of the manners, gouernement, religion, and customes of forraine and heathen countries</title>
+                 <author>Biddulph, William</author>
+                 <imprint>
+                    <publisher>Haviland (Haveland), Thomas</publisher>
+                    <distributor>Aspley, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>22, 39, 36-71, 2, 72-85, 1, 86-143, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="85"/>
+   <head>LECTOR I.</head>
+   <l>Miraris (Lector) doctus cùm dormit Homerus,</l>
+   <l>Conni<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ere aliquo tempore Chaleograph<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>s?</l>
+   <l>Quae sunt maiores naui, mea penna notauit;</l>
+   <l>Ipse tua lima corrige (quaeso) leues.</l>
+</div>
+        </body>
+  </text>
+</TEI>

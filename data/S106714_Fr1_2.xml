@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honourable WILLIAM Earle of New-Castle, &amp;c. Governour to the Prince his Highnesse.</title>
+           <author>Brome, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106714_Fr1_2</idno>
+           <idno type="DLPS">A16927</idno>
+           <idno type="STC">3820</idno>
+           <idno type="ESTC">S106714</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honourable WILLIAM Earle of New-Castle, &amp;c. Governour to the Prince his Highnesse.</title>
+                 <author>Brome, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The sparagus garden : a comedie. Acted in the yeare 1635. by the then Company of Revels, at Salisbury Court. The author Richard Brome</title>
+                 <author>Brome, Richard</author>
+                 <imprint>
+                    <publisher>Okes (Oakes), John</publisher>
+                    <distributor>Constable, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Honourable <hi>WILLIAM</hi> Earle of <hi>New-Castle, &amp;c.</hi> Governour to the Prince his Highnesse.</head>
+   <opener>
+      <salute>My LORD!</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">Y</seg>Our favourable <hi>Construction</hi> of my poore <hi>Labours</hi> com<g ref="char:EOLhyphen"/>manded my <hi>Service</hi> to <hi>your Honour,</hi> and, in that, betray'd <hi>your</hi> worth to this <hi>Dedication:</hi> I am not ignorant how farre <hi>unworthy</hi> my best endeavours are of <hi>your least allowacne;</hi> yet let <hi>your Lordship</hi> be pleased to know <hi>you,</hi> in this, share but the inconveniences of the most renowned Princes as <hi>you</hi> par<g ref="char:EOLhyphen"/>take of their glories: And I doubt not, but it will more divulge <hi>your noble Disposi<g ref="char:EOLhyphen"/>tion</hi>
+      <pb facs="3"/>
+to the World, when it is knowne <hi>you</hi> can freely pardon an <hi>Officious trespasse</hi> against your <hi>Goodnes. Caesar</hi> had never bin commended for his <hi>Clemency,</hi> had there not occasion beene offered, wherein hee might shew, how willingly hee could for<g ref="char:EOLhyphen"/>give: I shall thanke my Fortune, if this weake presentation of mine shall any way encrease the <hi>Glory of your Name</hi> among <hi>Good Men,</hi> which is the chiefest ayme and onely study of</p>
+   <closer>
+      <signed>Your Honour<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> devo<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ed servant.
+Richard Brome.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Printer To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1480</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106522_Fr1_1</idno>
+           <idno type="DLPS">A23587</idno>
+           <idno type="STC">9991</idno>
+           <idno type="ESTC">S106522</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Printer To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>In the yere of thyncarnacion of our lord Ih [es] u crist M.CCCC.lxxx. and in the xx. yere of the regne of kyng Edward the fourthe, atte requeste of dyuerce gentilmen I haue endeuourd me to enprinte the cronicles of Englond : as in this booke shall by the suffraunce of god folowe</title>
+                 <imprint>
+                    <publisher>Caxton, William</publisher>
+                    <pubPlace>Great Britain--England--London--Westminster</pubPlace>
+                    <date>1480</date>
+                 </imprint>
+                 <extent>364 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="1"/>
+   <p>
+      <date>IN the yere of thyncarnacion of our lord Jhū crist M.CCCC.lxxx.
+<abbr>And</abbr> in the xx. yere of the Regne of
+kyng Edward the fourthe </date>/ Atte requeste of dyuerce
+gentilmen I haue endeuourd me to enprinte the cro<g ref="char:EOLhyphen"/>nicles
+of Englond as in this booke shall by the suf<g ref="char:EOLhyphen"/>fraunce
+of god folowe / <abbr>And</abbr> to thende that euery man may see and
+shortly fynde suche mater as it shall plese hym to see or rede I haue
+ordeyned a table of the maters shortly compiled &amp; chapitred as here
+shall folowe which booke begynneth at Albyne how she with her su<g ref="char:EOLunhyphen"/>sters
+fonde this land first &amp; named it Albion &amp; endeth at the begin<g ref="char:EOLunhyphen"/>nyng
+of the regne of our said souerain lord kyng Edward the iiij.</p>
+</div>
+        </body>
+  </text>
+</TEI>

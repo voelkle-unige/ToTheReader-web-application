@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In PALAE-ALBIONIS, Historiae, sc. Angli∣canae,
+Odas &amp; Authorem earundem,
+Odula.</title>
+           <author>Gwin, N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117415_Ba1_8</idno>
+           <idno type="DLPS">A12317</idno>
+           <idno type="STC">22634</idno>
+           <idno type="ESTC">S117415</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In PALAE-ALBIONIS, Historiae, sc. Angli∣canae,
+Odas &amp; Authorem earundem,
+Odula.</title>
+                 <author>Gwin, N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The history of Great Britanie : from the first peopling of this island to this present raigne of or [sic] happy and peacefull monarke K: Iames, by Will: Slatyer</title>
+                 <author>Slatyer, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Meighen, Richard.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>24, 303, 17 pages, illustrations (woodcut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>In PALAE-ALBIONIS, Historiae, sc. Angli<g ref="char:EOLhyphen"/>canae,
+Odas &amp; Authorem earundem,
+Odula.</head>
+   <l>ALbion aequoreas inter celeberrima Nymphas,</l>
+   <l>Virgiuio quondam flumine Diua potens,</l>
+   <l>Caesare, Saxonicis ducibus, Dacis{que} petita,</l>
+   <l>Normannis demum, dulcis amica tamen</l>
+   <l>Angligenae soboli; venit ac Scoto-Cambro-Hybernâ</l>
+   <l>Stirpe sato Regi! queis tua Musa fauens,</l>
+   <l>Chare Slatere, canit festos dulceis{que} Hymenaeos;</l>
+   <l>Charior in{que} dies, vestra erit ergo pari</l>
+   <l>Tam benè famoso, Nympae, magno{que} Monarchae</l>
+   <l>Albion, his Odis clara, palaia nouis.</l>
+   <div type="part">
+      <head>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</head>
+      <l>ALbion, illius{que}, notis, sacer incola quondam</l>
+      <l>Claruit antiquis, nuperior{que} nouis!</l>
+      <l>Incisos siquidem Britones, Pictos{que} figuris,</l>
+      <l>Glastove infectos corpora, mille modis,</l>
+      <l>Caesaris antè, ferunt, saeclum rude; iam{que} <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>Albion ecce <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>otis picta, placet{que} nouis.</l>
+      <closer>
+         <signed>N. GWIN.</signed>
+      </closer>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

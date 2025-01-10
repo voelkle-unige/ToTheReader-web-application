@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aliud eiusd.</title>
+           <author>P., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111892_Fr1_5_4</idno>
+           <idno type="DLPS">A06751</idno>
+           <idno type="STC">17196.5</idno>
+           <idno type="ESTC">S111892</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aliud eiusd.</title>
+                 <author>P., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Arcana arcanissima hoc est Hieroglyphica Ægyptio-Græca : vulgo necdum cognita, ad demonstrandam falsorum apud antiquos deorum, dearum, heroum, animantium &amp; institutorum pro sacris receptorum, originem, ex vno Ægyptiorum artificio, quod aureu [m] animi &amp; corporis medicamentum peregit, deductam, vnde tot poëtarum allegoriæ, scriptorum narrationes fabulosæ &amp; pertotam encyclopædiam errores sparsi clarissima veritatis luce manifestantur, suæq [ue] tribui singula restituuntur, sex libris exposita authore Michaele Maiero Comite Palatii Cæsarei, equite exemto, Phil: &amp; Med: Doct: &amp;c: Cæsar: Mai: quondam aulico</title>
+                 <author>Maier, Michael</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>12, 285, 15 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <div xml:lang="grc" type="version">
+      <head>Aliud eiusd.</head>
+      <lg>
+         <l>ΜΙΧΑῊΛ ΜΑΙΗΡΌΣ,</l>
+         <l>ΜΗ Η ΜΑΙ ΧΛΙΑΡΌΣ.</l>
+      </lg>
+      <lg>
+         <l>ΜΗ Η͂ ΜΑΙ ΧΛΙΑΡΌΣ <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>
+         </l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>.</l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>
+         </l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>.</l>
+      </lg>
+   </div>
+   <div xml:lang="lat" type="version">
+      <head>Idem Latinè.</head>
+      <lg>
+         <l>Non sedeo tepidus:</l>
+         <l>Non sedeo tepidus; Fervere est Christicolarum,</l>
+         <l>Non frigere animis, nevè tepere suis.</l>
+         <l>Bis genita aequaevi Proles veneranda Parentis</l>
+         <l>Ore quia est tepidos evomitura suo.</l>
+      </lg>
+      <closer>
+         <signed>M. M. B. G. T. P.</signed>
+      </closer>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Henrici Dethicki ad lectorem </title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118782_Fr1_3</idno>
+           <idno type="DLPS">A03364</idno>
+           <idno type="STC">13485</idno>
+           <idno type="ESTC">S118782</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Henrici Dethicki ad lectorem </title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The gardeners labyrinth : containing a discourse of the gardeners life, in the yearly trauels to be bestovved on his plot of earth, for the vse of a garden: with instructions for the choise of seedes, apte times for sowing, setting, planting, [and] watering, and the vessels and instruments seruing to that vse and purpose: wherein are set forth diuers herbers, knottes and mazes, cunningly handled for the beautifying of gardens. Also the physike benefit of eche herbe, plant, and floure, with the vertues of the distilled waters of euery of them, as by the sequele may further appeare. Gathered out of the best approued writers of gardening, husbandrie, and physicke: by Dydymus Mountaine</title>
+                 <author>Hill, Thomas</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1577</date>
+                 </imprint>
+                 <extent>8, 80, 8, 180, 12 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="editor_to_the_reader">
+   <lg>
+      <pb facs="3"/>
+      <head>Henrici Dethicki ad lectorem </head>
+      <head type="sub">Carmen.</head>
+      <l>COelum, aequor, tellus, nunc, lumina, flumina, fructus,</l>
+      <l>Praestat, fundit, habet, sole, vapore, fimo.</l>
+      <l>Hortus praestat olus, praestant Pomaria poma:</l>
+      <l>Cuncta vigent, magno parta labore viri.</l>
+      <l>Vrbis honos hortus, florum speculatio grata,</l>
+      <l>Et sunt herbarum pharmaca graeta viris.</l>
+      <l>Falce, ligone, filo, qui, dissecat, effodit, ornat,</l>
+      <l>Plantam, terram, hortos, haec documenta tenet.</l>
+      <l>Sano, aegro, caeco, vis? victum, pharmaca, visum,</l>
+      <l>Lingua, mente, manu, haec, perlege, disce, tene.</l>
+   </lg>
+   <p>
+      <figure>
+</figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

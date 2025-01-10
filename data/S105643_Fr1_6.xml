@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THEOCRENE.</title>
+           <author>M., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105643_Fr1_6</idno>
+           <idno type="DLPS">A07429</idno>
+           <idno type="STC">17816</idno>
+           <idno type="ESTC">S105643</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THEOCRENE.</title>
+                 <author>M., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A spirituall propine of a pastour to his people</title>
+                 <author>Melville, James</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1598</date>
+                 <publisher>Waldegrave (Walgrave), Robert.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>8, 51, 3, 53-150, that is 151, 7 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="6"/>
+   <head>THEOCRENE.</head>
+   <l>NOn ego Parnassi cupiam iuga, non iuga Pindi:</l>
+   <l>Aut optem Aonias, aut Heliconis aquas,</l>
+   <l>Vna Theocrene, riget vnda, &amp; recreet aura.</l>
+   <l>Vna Theocrene, satque superque mihi.</l>
+   <l>Flumine quae saturet pectus, quae flamine mentem</l>
+   <l>Impleat, hinc suadae plena medulla meae.</l>
+   <closer>
+      <signed>A. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

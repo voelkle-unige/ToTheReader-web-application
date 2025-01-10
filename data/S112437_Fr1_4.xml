@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112437_Fr1_4</idno>
+           <idno type="DLPS">A07210</idno>
+           <idno type="STC">17610</idno>
+           <idno type="ESTC">S112437</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The nevv art of lying : couered by Iesuites vnder the vaile of equiuocation, discouered and disproued by Henry Mason</title>
+                 <author>Mason, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 <publisher>Clarke, John 1.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>24, 106, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="8"/>
+   <head>To the READER.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hen the Impression of this Treatise was
+almost finished, I obtained the sight of
+two seuerall papers of Latine Verses,
+composed long since, in the yeere 1606.
+by two then Students in the Vniuersi<g ref="char:EOLhyphen"/>ties,
+now Doctors in Diuinitie, and my worthy friends.
+Which Verses being (according to the Academicall
+custome) made vpon Questions then disputed in both
+the Vniuersities, <hi>in Publicis Comitijs,</hi> and happily
+concurring with the subiect of this Treatise, as I
+was glad that my selfe had gotten, so I was willing
+to impart them to the Reader, presuming that my
+two friends, and much-respected brethren, will not
+be offended, that I send them their Verses backe a<g ref="char:EOLhyphen"/>gaine
+in Print.</p>
+</div>
+        </body>
+  </text>
+</TEI>

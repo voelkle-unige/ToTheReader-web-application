@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his worthy Friend Mr. W. BROWNE, on his BOOKE.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105932_Fr2_11</idno>
+           <idno type="DLPS">A17042</idno>
+           <idno type="STC">3916</idno>
+           <idno type="ESTC">S105932</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his worthy Friend Mr. W. BROWNE, on his BOOKE.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Britannia's pastorals. The first booke</title>
+                 <author>Browne, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Cole, George.</publisher>
+                            <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>16, 140, that is 142, 14, 179, 1 page, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>To his worthy Friend <hi>M<seg rend="sup">r</seg>. W. BROWNE,</hi> on his <hi>BOOKE.</hi>
+   </head>
+   <l>THat Poets are not bred so, but so borne,</l>
+   <l>Thy <hi>Muse</hi> it proues; for in her ages morne</l>
+   <l>She hath stroke enuy dumbe, and charm'd the loue</l>
+   <l>Of eu'ry <hi>Muse</hi> whose birth the Skies approue.</l>
+   <l>Goe on; I know thou art too good to feare.</l>
+   <l>And may thy earely straines affect the eare</l>
+   <l>Of that rare <hi>Lord,</hi> who iudge and guerdon can</l>
+   <l>The richer gifts which doe aduantage man <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <closer>
+      <signed>IOHN MORGAN, <hi>è Societate Inter. Templi.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

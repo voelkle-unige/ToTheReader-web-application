@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100899_Fr1_2</idno>
+           <idno type="DLPS">A69092</idno>
+           <idno type="STC">4960.5</idno>
+           <idno type="ESTC">S100899</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Christian liberty : described in a sermon preached in the Collegiate Church at Westminster, by a minister of Suffolke. A.C</title>
+                 <author>Chapman, Alexander</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Law (Lawe), Matthew.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <gap reason="missing" extent="2+ pages">
+      <desc>〈2+ pages missing〉</desc>
+   </gap>
+   <p>will proue vnsauerie: for corrupt stomacks turne good meate into loathsome parbreakes. Their iudgement is little worth, who like of nothing, but what they doe themselues. When this Sermon was preached, applause ensued: the printing (I trust) will not diminish the preachers prayse.</p>
+   <closer>De absentibus bona.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

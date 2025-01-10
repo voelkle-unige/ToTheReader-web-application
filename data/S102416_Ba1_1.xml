@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE PRINTER TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102416_Ba1_1</idno>
+           <idno type="DLPS">A12258</idno>
+           <idno type="STC">22566</idno>
+           <idno type="ESTC">S102416</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE PRINTER TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Heptameron, the seven dayes: that is, meditations and prayers, vpon the vvorke of the Lords creation : Together with other certaine prayers and meditations, most comfortable for all estates, &amp; c. By M. A. Symson, minister at Dalkeith</title>
+                 <author>Simson, Archibald</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace/>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>18, 207, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb n="207" facs="118"/>
+   <head>THE PRINTER TO THE READER.</head>
+   <p>BEcause it is vnpossible that Bookes of any quantitie (in the first Impression) should escape all Faults, and especially in the absence of the <hi>Author:</hi> therefore it shall please the Christian Reader to auoyde partialitie, judge charitablie, and correct diligentlie such errours as (on our behalfe) vnwillinglie haue escaped our correction: all which (God willing) at another time wee shall amende most atten<g ref="char:EOLhyphen"/>tiuelie.</p>
+</div>
+        </body>
+  </text>
+</TEI>

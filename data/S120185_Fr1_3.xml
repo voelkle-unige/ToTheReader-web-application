@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SALVATOR MVNDI.</title>
+           <author>Rid, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120185_Fr1_3</idno>
+           <idno type="DLPS">A14322</idno>
+           <idno type="STC">24637</idno>
+           <idno type="ESTC">S120185</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SALVATOR MVNDI.</title>
+                 <author>Rid, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The right way to heauen : and the true testimonie of a faithfull and loyall subiect. Compiled by Richard Vennard of Lincolnes Inne</title>
+                 <author>R. V. (Richard Vennard)</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>72 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic_poem">
+   <pb facs="3"/>
+   <head>SALVATOR MVNDI.</head>
+   <lg>
+      <l>I <hi>
+            <seg rend="decorInit">I</seg>N this thy Name, my soule great comfort findes,</hi>
+      </l>
+      <l>H <hi>Heald from hir leprous sinne by thy deere bloud:</hi>
+      </l>
+      <l>E <hi>Eschewing that molests disturbed mindes,</hi>
+      </l>
+      <l>S <hi>Seeking for that may doe my conscience good:</hi>
+      </l>
+      <l>V <hi>Vouchsafe thy Nature, as thou giuest thy Name,</hi>
+      </l>
+      <l>S <hi>Sweet Iesus, that a blessed Sauiour came.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>C <hi>Come comforter, behold my soule is sad,</hi>
+      </l>
+      <l>H <hi>Helpe with thy Mercie, that thy Hand hath made:</hi>
+      </l>
+      <l>R <hi>Regard mee so, with hope I may be glad,</hi>
+      </l>
+      <l>I <hi>In thy deere grace, let all my deedes be staid.</hi>
+      </l>
+      <l>S <hi>Sonne of thy Father, such true lightning send,</hi>
+      </l>
+      <l>T <hi>That in thy fauour Christ, our liues may end.</hi>
+      </l>
+   </lg>
+   <closer>AMEN.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

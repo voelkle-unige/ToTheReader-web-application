@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Good Reader, with thy pen a∣mend the faults escaped in the presse thus, ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113337_Ba1_2</idno>
+           <idno type="DLPS">A04101</idno>
+           <idno type="STC">1418</idno>
+           <idno type="ESTC">S113337</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Good Reader, with thy pen a∣mend the faults escaped in the presse thus, ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Christian sacrifice : by Iames Barker</title>
+                 <author>Barker, James</author>
+                 <imprint>
+                    <distributor>Blunden, Humphrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>20, 148, that is 152, 4 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="87"/>
+   <pb facs="87"/>
+   <head>
+      <hi>Good Reader, with thy pen a<g ref="char:EOLhyphen"/>mend the faults escaped in the presse thus,</hi> ERRATA.</head>
+   <p>Page. 8. line 5. blot out the. p. 12. l. 20. blot out 4. p. 30. l. 1. read so. p. 33. l. 20. r. qui se Dei filium. p. 37. l. 6. blot out for. p. 38. l. 18. Sonne. p. 40. l. 5. r. recount. p. 43. l. 7. blot out is not. p. 46. l. 23. r. only, p. 48. l. 3. r. stimulus. p. 52. l. 1. blot out is. p. 58. l. 2. r. these. p. 60. l. 20. 1. <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> p. 62. l. 12. r. too: l. 13. blot,. p. 64. l. 19. r. this. p. 67. 19. r. ranke. p. 74. l. 2. r. notion. p. 83. l. 20. r. gestus. p. 84. l. 2. r. the. p. 85. 116. r. corde. p. 87 l. 4. adde: p. 88. l. 1. r. Holocauitis. p. 94. l. 10. r. gald.</p>
+   <p>In the margent: p. 20. r. dominicam. p. 28. r. substan<g ref="char:EOLhyphen"/>tiam. p. 36. r. proles. p. 37. r. voluit. p. 55. r. est non. p. 80. r. redun iat. p. 89. r. indiget, cui unitur. p. 112. r. <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</p>
+</div>
+        </body>
+  </text>
+</TEI>

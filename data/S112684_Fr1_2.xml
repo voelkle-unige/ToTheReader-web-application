@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1566</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112684_Fr1_2</idno>
+           <idno type="DLPS">A01219</idno>
+           <idno type="STC">11333</idno>
+           <idno type="ESTC">S112684</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An oration against the vnlawfull insurrections of the protestantes of our time, vnder pretence to refourme religion : Made and pronounced in Latin, in the Schole of Artes at Louaine, the .xiiij. of December. Anno. 1565. By Peter Frarin of Andwerp, M. of Arte, and Bacheler of both lawes. And now translated [by John Fowler] into English, with the aduise of the author</title>
+                 <author>Frarinus, Petrus</author>
+                 <imprint>
+                    <publisher>Fowler (Fouler), John</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1566</date>
+                 </imprint>
+                 <extent>176 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <bibl>Epist. Iudae.</bibl>
+   <q>
+      <p>Hi carnem quidē maculant, do<g ref="char:EOLhyphen"/>minationem
+autèm spernunt, maie<g ref="char:EOLhyphen"/>statem
+autèm blasphemant.</p>
+      <p>These, being deceiued by dreames, de<g ref="char:EOLhyphen"/>file
+the fleshe, despise the Rulers, &amp; blas<g ref="char:EOLhyphen"/>pheme
+the Maiestie.</p>
+   </q>
+   <bibl>IBIDEM.</bibl>
+   <q>
+      <p>Hi sunt murmuratores querulosi,
+secundum desideria sua ambulantes.</p>
+      <p>These are murmurers, complainers,
+walking after their owne will.</p>
+   </q>
+   <bibl>IBIDEM.</bibl>
+   <q>
+      <p>Hi sunt qui segregāt semetipsos,
+animales, spiritum non habentes.</p>
+      <p>These are makers of sectes, fleshly, ha<g ref="char:EOLhyphen"/>uing
+no Spirite.</p>
+   </q>
+   <bibl>Prouerb. 16.</bibl>
+   <q>
+      <p>Homo peruersus suscitat lites, &amp;
+verbosus separat Principes.</p>
+      <p>A froward body causeth strife, &amp; he that
+is full of words, maketh diuision among
+Princes.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

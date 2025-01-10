@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Master and Ward  worshipfull company of the Co in London, all continuance of health and fect brotherly affection.</title>
+           <author>D., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114552_Fr1_2</idno>
+           <idno type="DLPS">B12363</idno>
+           <idno type="STC">6556</idno>
+           <idno type="ESTC">S114552</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Master and Ward  worshipfull company of the Co in London, all continuance of health and fect brotherly affection.</title>
+                 <author>D., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The gentile craft. The second part : Being a most merrie and pleasant historie, not altogether vnprofitable nor any way hurtfull: verie fit to passe away the tediousnesse of the long winter evenings. By T.D</title>
+                 <author>Deloney, Thomas</author>
+                 <imprint>
+                    <publisher>Purslowe, Elizabeth</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Master and Ward<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> worshipfull company of the Co<gap reason="illegible" resp="#pdcc" extent="3 letters">
+         <desc>•••</desc>
+      </gap> in London, all continuance of health and fect brotherly affection.</head>
+   <p>
+      <seg rend="decorInit">O</seg>Nce more hath good will embolde<gap reason="illegible" resp="#pdcc" extent="3 letters">
+         <desc>•••</desc>
+      </gap> me, to present vnto your Worships, my worthles labour, to manifest the good af<g ref="char:EOLhyphen"/>fection I beare to this fraternity: and fin<g ref="char:EOLhyphen"/>ding, you lent a gentle looke on the first part of this History, I have beene the more bolde to proffer you the second: for having bound my selfe by promise to performe it: and you perhaps clayming pro<g ref="char:EOLhyphen"/>mise as a debt, expecting payment, I bent all my study to keepe touch: whereupon I tender this small trifle vnto you, onely crauing at your worships hands, a good opinion of my poore endevours. And albeit this pamphlet doth not minister matter worthy your grave view: yet in regard of the subject, I trust you will deigne to esteeme it sith so well as I could, though not so well as I would, I have sought herein to procure your delight: and although you finde not all the men spoken of, which is promised in the first part, yet thinke it no faintnes in me, but fault of good in<g ref="char:EOLhyphen"/>struction: and againe, for as much as these men here men<g ref="char:EOLhyphen"/>tioned, were all of this Citie (whose story grew longer then I supposed) and the other of the country: I thought good so to breake off, and to defer their story to another time, when I may more perfectly speake thereof. In the meane space I commend your Worships to the protection of the most highest.</p>
+   <closer>
+      <signed>Your Worships in all he may. <hi rend="italic">T. D.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

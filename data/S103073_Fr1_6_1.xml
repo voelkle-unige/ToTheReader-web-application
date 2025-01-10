@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Boham, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103073_Fr1_6_1</idno>
+           <idno type="DLPS">A01645</idno>
+           <idno type="STC">11778</idno>
+           <idno type="ESTC">S103073</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Boham, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Gerards meditations : written originally in the Latine tongue by Iohn Gerard Doctour in Divinitie, and superintendant of Heidelberg. Translated and revised by Ralph Winterton fellow of Kings Colledge in Cambridge</title>
+                 <author>Gerhard, Johann</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1638</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>26, 323, 13, 155, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <l>SOme say that plants do better grow▪</l>
+   <l>When they're translated to and fro:</l>
+   <l>I'm sure, when books translated be,</l>
+   <l>They more and more do fructifie.</l>
+   <l>
+      <hi>Gerard</hi> did bring forth fruit before,</l>
+   <l>But now it is deriv'd to more:</l>
+   <l>What be beyond the sea did sow,</l>
+   <l>Now <hi>Englishmen</hi> at home may mow.</l>
+   <l>Come Countreymen, take what is yours,</l>
+   <l>The crop's brought home unto your doores.</l>
+   <closer>
+      <signed>
+         <hi>John Boh<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>am.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

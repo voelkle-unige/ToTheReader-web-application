@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>Mason, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107483_Fr1_4</idno>
+           <idno type="DLPS">A04187</idno>
+           <idno type="STC">14311</idno>
+           <idno type="ESTC">S107483</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>Mason, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Iustifying faith, or The faith by which the just do liue : A treatise, containing a description of the nature, properties and conditions of Christian faith. With a discouerie of misperswasions, breeding presumption or hypocrisie, and meanes how faith may be planted in vnbeleeuers. By Thomas Iackson B. of Diuinitie and fellow of Corpus Christi Colledge in Oxford</title>
+                 <author>Jackson, Thomas</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>32, 279, 284-351, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="11"/>
+   <head>To the Author.</head>
+   <p>SIr, according to your request I haue perused your booke: I would my occasions had beene such, that I might haue ouerseene the Presse also. I would haue thought no paines too much for this pur<g ref="char:EOLhyphen"/>pose; partly for the loue I beare to the Author, but specially for the liking I haue of the worke. You know my nature, farre from flattery; and I know yours, as free from ambition. Yet if I should speak what mine heart thinks, and as the truth would giue me leaue, perhaps it might be subiect to misconstruction. I will only say thus much; I haue profited by reading of your booke, and so I thinke will hee say, whosoeuer shall reade it with deliberation and vnderstan<g ref="char:EOLhyphen"/>ding. And so I leaue you and your labours to Gods blessing.</p>
+   <closer>
+      <signed>Your euer louing friend
+HENRY MASON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

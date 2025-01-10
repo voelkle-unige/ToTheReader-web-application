@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107767_Fr1_3</idno>
+           <idno type="DLPS">A18500</idno>
+           <idno type="STC">5050</idno>
+           <idno type="ESTC">S107767</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A protestation of the most high and mighty prince Charles Lodowicke, Count Palatine of the Rhine, Archidapifer, and Prince Elector of the sacred Empire, Duke of Bavaria, &amp;c</title>
+                 <author>Karl Ludwig, Elector Palatine</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Whitaker, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>4, 26, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="3"/>
+   
+   <q>
+      <p>A Protestation, especially being cleare and well
+expressed, conserveth the right of him that maketh it. And though such
+protestati<g ref="char:EOLhyphen"/>on be necessary, yet doth it no wrong, or injury to any one.
+</p>
+      <bibl>
+         <hi>Leg.<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>idebitor</hi> 4. § 1. <hi>D. Quibus modis pignus &amp;
+ibi Bartol. l. &amp; si quis,</hi> 14 §. <hi>Sed interdum</hi> 7. <hi>D.
+de Religiose. &amp; sumptibus.</hi>
+      </bibl>
+   </q>
+   <p>
+      <hi>Sampson, when the Philistins, tooke his wife from him,
+and gave her to another, maketh this Protestation against them.</hi>
+   </p>
+   <q>
+      <bibl>
+         <hi>Iudges cap.</hi> 15. <hi>vers.</hi> 3.</bibl>
+      <p>Now shall I be more blamelesse than the Philistins,
+though I doe them a displeasure.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

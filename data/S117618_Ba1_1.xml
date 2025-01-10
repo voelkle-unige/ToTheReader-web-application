@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117618_Ba1_1</idno>
+           <idno type="DLPS">A16784</idno>
+           <idno type="STC">369.5</idno>
+           <idno type="ESTC">S117618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe historie of the glorious martyrdom of XII. reuerend priests, executed vvithin these tvveluemonethes for confession and defence of the Catholike faith : But vnder the false pretence of treason. Vvith a note of sundrie things that befel them in their life and imprisonment: and a preface declaring their innocencie. Set furth by such as were much conuersant vvith them in their life, and present at their arraignement and death. Occidistis, sed non possedistis. that is you haue slaine them, but you haue not gotten possession</title>
+                 <author>Allen, William</author>
+                 <imprint>
+                    <publisher>Foigny, Jean de</publisher>
+                    <pubPlace>France--Reims</pubPlace>
+                    <date>1582</date>
+                 </imprint>
+                 <extent>160 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <opener>
+      <salute>GENTIL READER,</salute>
+   </opener>
+   <p>CONSIDER OVR difficulties in printing, and beare vvith the faults escaped vs.</p>
+   <trailer>FINIS.</trailer>
+   <pb facs="82"/>
+</div>
+        </body>
+  </text>
+</TEI>

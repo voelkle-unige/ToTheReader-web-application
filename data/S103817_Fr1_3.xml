@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103817_Fr1_3</idno>
+           <idno type="DLPS">A02723</idno>
+           <idno type="STC">12855</idno>
+           <idno type="ESTC">S103817</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The vvay to trve happinesse : Deliuered in XXIV. sermons vpon the Beatitvdes. By Robert Harris, B. in Diuinity, and pastor of Hanwell. Also, a treatise of the nevv covenant; set forth sermon-wise, on Ezechiel the XI. By the same avthovr</title>
+                 <author>Harris, Robert</author>
+                 <imprint>
+                    <distributor>Bartlet, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Badger, Richard 1.</publisher>
+                            <publisher>Beale, John</publisher>
+                        </imprint>
+                 <extent>6, 115, 114-322, 186, 2, 8, 68, 52, 55-76, that is 79, 90-129, 140-196, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="4"/>
+   <head>The Printer to the Reader.</head>
+   <p>BY reason of the Authours absence and bad<g ref="char:EOLhyphen"/>nesse of the hand, diuerse faults haue esca<g ref="char:EOLhyphen"/>ped vs in the first Sermons, which are partly thus corrected for the present, till they shall be further reuewed by the Authors selfe hereafter.</p>
+</div>
+        </body>
+  </text>
+</TEI>

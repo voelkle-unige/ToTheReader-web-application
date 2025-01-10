@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad comitem Lecestriae.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1573</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105885_Fr1_3</idno>
+           <idno type="DLPS">A02336</idno>
+           <idno type="STC">12464</idno>
+           <idno type="ESTC">S105885</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad comitem Lecestriae.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The garden of pleasure : contayninge most pleasante tales, worthy deeds and witty sayings of noble princes [et] learned philosophers, moralized. No lesse delectable, than profitable. Done out of Italian into English, by Iames Sanforde, Gent. Wherein are also set forth diuers verses and sentences in Italian, with the Englishe to the same, for the benefit of students in both tongs</title>
+                 <author>Guicciardini, Lodovico</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1573</date>
+                 </imprint>
+                 <extent>4, 111, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>Ad comitem Lecestriae.</head>
+   <lg>
+      <head>DORICE.</head>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</l>
+   </lg>
+   <lg>
+      <head>IDEM LATINE.</head>
+      <l>Inclyta virtutis volitet tua fama per orbem,</l>
+      <l>Et serò moriens sis super astra, precor.</l>
+   </lg>
+   <lg>
+      <head>ITALICE.</head>
+      <l>
+         <hi>Prego che la vostra chiara fama</hi>
+      </l>
+      <l>
+         <hi>Di virtù, per tutto'l mondo voli,</hi>
+      </l>
+      <l>
+         <hi>E che dopò lunga vita, l'alma</hi>
+      </l>
+      <l>
+         <hi>Del vostr' alta person, al cielo voli.</hi>
+      </l>
+   </lg>
+   <lg>
+      <head>GALLICE.</head>
+      <l>Qu'en tout ce siecle bas ta haute renommee,</l>
+      <l>Auecques dignité soit de toutz celebree,</l>
+      <l>Que la mort viene tard pour te clorre les yeulx,</l>
+      <l>Qu'apres la mort tu sois au grand palais des cieulx.</l>
+   </lg>
+   <lg>
+      <head>ANGLICE.</head>
+      <l>I pray that your renoumed fame</l>
+      <l>of vertue may be blowne</l>
+      <l>Eache where, and lyuing long, you may</l>
+      <l>aboue the starres be knowne.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right VVorshipfull Sir John Watts, Knight, one of the prudent fore-seeing Aldermen of this honorable and famous Citty of London.</title>
+           <author>Fennor, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120937_Fr1_2</idno>
+           <idno type="DLPS">A14334</idno>
+           <idno type="STC">24649</idno>
+           <idno type="ESTC">S120937</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right VVorshipfull Sir John Watts, Knight, one of the prudent fore-seeing Aldermen of this honorable and famous Citty of London.</title>
+                 <author>Fennor, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The beame of brightnesse. Or The three faire sisters of Christendome : Containing: a disputation betweene the three famous citties in Europe. Viz. Venice, Paris and London, with their differences. Composed by William Venner, gentleman</title>
+                 <author>Fennor, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Wright, John 1</publisher>
+                        </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right VVorshipfull Sir <hi>John</hi> Watts, Knight, one of the prudent fore-seeing Aldermen of this honorable and famous Citty of London.</head>
+   <p>
+      <seg rend="decorInit">I</seg>N the time of your ho<g ref="char:EOLhyphen"/>norable gouernment in this Citty, it was my chance right worshipful to rime before you, and being more worthilie esteemed, then my de<g ref="char:EOLhyphen"/>serts could merit, I did thinke it a point of my duty, to dedicate this worthlesse worke, onely to shew a kind of thankfulnes, assuring my selfe that since I receiued grace for extempore, this poore Inuention shall scape free from disgrace, hauing so worthy a Patron to defend it, Thus commending a ring posie rather then an Epistle I end, wishing your Worships endlesse felicity.</p>
+   <closer>
+      <signed>Your worships at all duty <hi>William Ʋenner.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

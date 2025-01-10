@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>VOTVM, Ex Fulgentij ad Monimam, lib. 1. cap. 4.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112040_Fr2_5</idno>
+           <idno type="DLPS">A10800</idno>
+           <idno type="STC">21073</idno>
+           <idno type="ESTC">S112040</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>VOTVM, Ex Fulgentij ad Monimam, lib. 1. cap. 4.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An exposition vpon the hundred and thirtie Psalme : Gathered out of some of the ancient fathers and later writers. By Alexander Roberts Bachelour in Diuinity, and preacher of the word of God at Kings Linne in Norfolke</title>
+                 <author>Roberts, Alexander</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 <publisher>Bankworth, Richard.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>16, 92, 4 pages, folded table, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="9"/>
+   <head>VOTVM, <hi>Ex Fulgentij ad Monimam, lib. 1. cap. 4.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">A</seg>Te vero Domino &amp; Magistro nostro, po<g ref="char:EOLhyphen"/>stulo, vt in propositionibus, &amp; assertioni<g ref="char:EOLhyphen"/>bus meis, veritati (quae nec fallit noc fal<g ref="char:EOLhyphen"/>litur) semper inhaercam, semper obe<g ref="char:EOLhyphen"/>diens consentiensque reperiar. Quoniam vt veritati, obedire &amp; consentire valeam, ipsa veritas illuminat, ipsa adiuuat, ipsa confirmat; ab ipso postulo doceri multa plura quae nescio, à quo accepi pauca quae felo. Ipsum rogo, vt praeueniente, ac subsequente miseri<g ref="char:EOLhyphen"/>cordia, quae cunque salubriter scienda nescio, doceat me; in his quae <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, custodiat me; in quibus vt homo fallor,
+<gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> me: in quibus verò titubo, con<g ref="char:EOLhyphen"/>firmet me, &amp; à falsis &amp; <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> exipiatine: vt in cogita<g ref="char:EOLhyphen"/>tionibus &amp; sermonibus meis, quod salubriter donat
+<gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, &amp; ea faciat de
+<gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> procedere, quae sunt coram ipso salubriter grata. Et sic fiant fidellbus cunctis accepta.</p>
+   <closer>Amen.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

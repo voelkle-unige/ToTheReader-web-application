@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Verse Preface]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105620_Fr1_3</idno>
+           <idno type="DLPS">A00973</idno>
+           <idno type="STC">11079.5</idno>
+           <idno type="ESTC">S105620</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Verse Preface]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Brittain's Ida. Written by that renowned poët, Edmond Spencer</title>
+                 <author>Fletcher, Phineas</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Walkley, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>38 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="verse_preface">
+   <pb facs="3"/>
+   <epigraph>
+      <q>
+         <bibl>Martial.</bibl>
+         <l>Accipe facundi culicem studiose Maronis,</l>
+         <l>Ne nugis positis, arma virumque Cana<gap reason="illegible" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+         </l>
+      </q>
+   </epigraph>
+   <lg>
+      <l>
+         <seg rend="decorInit">S</seg>E here that stately Muse, that erst could raise,</l>
+      <l>In lasting numbers great Elizaes praise,</l>
+      <l>And dresse faire Vertue in so rich attire,</l>
+      <l>That euen her Foes were forced to admire,</l>
+      <l>
+         <pb facs="4"/>And court her Heauenly beauty, shee that taught</l>
+      <l>The Graces grace, and made the Vertues thought</l>
+      <l>More vertuous then before, is pleased here,</l>
+      <l>To slacke her serious flight, and feed your eare</l>
+      <l>With loues delightsome toyes; doe not refuse</l>
+      <l>These harmlesse sports, 'tis learned Spencer's Muse;</l>
+      <l>But thinke his loosest <hi>Poëms</hi> worthier then</l>
+      <l>The serious follies of vnskillfull men.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In eundem.</title>
+           <author>P., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105633_Fr1_5</idno>
+           <idno type="DLPS">A01048</idno>
+           <idno type="STC">11158</idno>
+           <idno type="ESTC">S105633</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In eundem.</title>
+                 <author>P., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Fames memoriall, or The Earle of Deuonshire deceased : with his honourable life, peacefull end, and solemne funerall</title>
+                 <author>Ford, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>Purset, Christopher</publisher>
+                        </imprint>
+                 <extent>56 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>In eundem.</head>
+   <l>Viuit, in aeternum viuet <hi>Dux</hi> inclitus armis,</l>
+   <l>Mountioyus: viuet <hi>Forde</hi> Poema tuum,</l>
+   <l>Maior vterque suo genio. Vi carminis <hi>Heros,</hi>
+   </l>
+   <l>Materiae faelix nobilis autor ope,</l>
+   <signed>T. P.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Jackson, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107497_Fr1_3</idno>
+           <idno type="DLPS">A04195</idno>
+           <idno type="STC">14319</idno>
+           <idno type="ESTC">S107497</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Jackson, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise of the holy catholike faith and Church : Diuided into three bookes. By Thomas Iackson Dr. in Diuinitie, chaplaine to his Maiestie in ordinarie, and vicar of Saint Nicolas Church in the towne of Newcastle vpon Tyne. The first booke</title>
+                 <author>Jackson, Thomas</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Clarke, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>12, 206, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <opener>
+      <salute>Courteous and Christian Reader:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>He summe of this Treatise was deliuered in Catechisme Le<g ref="char:EOLhyphen"/>ctures for the benefit of yonger Students in <hi>Pembrook</hi> Colledge in <hi>Oxon,</hi> at the request of the Master of that Societie, my Re<g ref="char:EOLhyphen"/>uerend and Worthy Friend, and of some other good friends; to whose religious de<g ref="char:EOLhyphen"/>sires my hope was to haue giuen better satisfaction, if my continuance in that ancient and sweet Nurse<g ref="char:EOLhyphen"/>rie of Learning had been longer, or my studies there, lesse interrupted with other occasions. But God be praysed, that Colledge hath beene furnished since with one of their owne body, of whose learned and polite Labours, I hope one day to be with others, a partaker. This Treatise, as now it is, hath beene for the most part since in the hands of others, being committed by me to the perusall of that great light of the Northerne parts, my then Reuerend and dea<g ref="char:EOLhyphen"/>rest Friend, Doctor <hi>Birkhead,</hi> from whose iudicious censure, I hoped then, this and other of my Labours should haue receiued some perfection, and I much comfort from his company. But it pleased the Lord, (whose good pleasure we must obey, not question)
+<pb facs="4"/>
+to call him from vs, (no doubt to his greater good, though to the great losse and sorrow of euery true member of the <hi>English</hi> Church which knew him) before it was my hap (being then absent from these parts) to heare from him, or speake with him. Since his death, it hath past through many hands, but all as it seemes, good friends, in that it returnes vnto me intire. And from it, as it is, (I hope) no ortho<g ref="char:EOLhyphen"/>doxall Reader shall receiue any discontent, nor any Aduersaries of the truth much aduantage. Wherein it is for the matter deficient, or not so fully exprest, I shall haue opportunitie, whether by the aduise of Friends, or exceptions of the Aduersarie, to amend or inlarge, in other Treatises of the same Argument, (which by Gods assistance) shall shortly be commu<g ref="char:EOLhyphen"/>nicated to thee. And for this reason in part I haue beene the more willing to haue it published at this time.</p>
+   <closer>
+      <signed>
+         <hi>Thine in Christ Iesus,</hi> THOMAS IACKSON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

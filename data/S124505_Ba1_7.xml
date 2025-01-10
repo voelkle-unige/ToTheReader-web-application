@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Typographus Lectori.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124505_Ba1_7</idno>
+           <idno type="DLPS">A72146</idno>
+           <idno type="STC">1167.5</idno>
+           <idno type="ESTC">S124505</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Typographus Lectori.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of the advancement and proficience of learning; or, The partitions of sciences· : Nine books. Written in Latin by the most eminent, illustrious, and famous Lord Francis Bacon Baron of Verulam, Vicount St. Alban, Councellor of Estate, and Lord Chancellor of England. Interpreted by Gilbert Watts</title>
+                 <author>Bacon, Francis</author>
+                 <imprint>
+                    <publisher>Lichfield, Leonard</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1640</date>
+                 <distributor>Forrest, Edward</distributor>
+                            <distributor>Young (Junius), Robert</distributor>
+                        </imprint>
+                 <extent>38, 60, 14, 352, 351-477, 21 pages, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>No match</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="compositor_to_the_reader">
+   <pb facs="311"/>
+   <head>Typographus Lectori.</head>
+   <p>VNA aut alterâ Paginâ vacante in damnum Bibliopo<g ref="char:EOLhyphen"/>lae, ad implendam areolam inanem, Nobiliss. Au<g ref="char:EOLhyphen"/>thoris Litteras, suo Collegio missas ac propriâ manu munitas, subjungere visum est. Quòd vivit Chartula haec peritura, id nostrum munus est; Tuum Lector, si vigeat. Succincta pagina est, sed solida: &amp; excellentium virorum, etiam Reliquiae conservandae. <hi>Vale.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

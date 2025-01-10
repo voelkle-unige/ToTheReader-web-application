@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Field, Theophilus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S92534_Fr1_2</idno>
+           <idno type="DLPS">B07676</idno>
+           <idno type="STC">10861.5</idno>
+           <idno type="ESTC">S92534</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Field, Theophilus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The earths encrease. Or, A communion cup: presented to the Kings most Excellent Maiesty for a New-Yeeres gift : By the Reuerend father in God, the Bishop of Landaff</title>
+                 <author>Field, Theophilus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 <publisher>Field (Feild), Nathaniel.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>16, 67, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <opener>
+      <salute>Dread Soueraigne:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>N this ge<g ref="char:EOLhyphen"/>nerall time of giuing and receiuing, I bethought my selfe of some fit Pre<g ref="char:EOLhyphen"/>sent to giue your Ma<g ref="char:EOLhyphen"/>iesty,<note place="margin">Qui cogitat de recipien<g ref="char:EOLhyphen"/>do.</note> though without hope of receiuing; the<note place="margin">
+         <hi>Seneca</hi> de Benef.</note> lesse subiect am I, to be<g ref="char:EOLhyphen"/>ing deceiued: The exi<g ref="char:EOLhyphen"/>lity of my place excuseth
+<pb facs="3"/> me from giuing as others giue; and my not giuing, excludes from receiuing a peece of Plate as o<g ref="char:EOLhyphen"/>thers of my place giue, and receiue: I hearti<g ref="char:EOLhyphen"/>ly wish that I were one of them, and (herein I shal easily be beleeued;) with equall zeale I de<g ref="char:EOLhyphen"/>sire your Maiesties gra<g ref="char:EOLhyphen"/>cious acceptance hereof, and 'tis all I will beg at this time, or hope to re<g ref="char:EOLhyphen"/>ceiue, your Maiesties
+<pb facs="3"/> beleefe in this. Ma<g ref="char:EOLhyphen"/>ny old Sermons I had lying by me preached at Court, (more then any Chaplaine, time for time) none of them would serue to make a New-yeares Gift of. This is one neuer prea<g ref="char:EOLhyphen"/>ched; which I am bold to send (after six yeeres silence lying fallow) and not comming vp to <hi>Be<g ref="char:EOLhyphen"/>thel,</hi> because not called thither) as a lasting ac<g ref="char:EOLhyphen"/>knowledgement
+<pb facs="4"/> of what I haue receiued, what I owe. As <hi>Peter</hi> said, Siluer and gold haue I none, such as I haue, I giue, or rather Render: And to whom more fit<g ref="char:EOLhyphen"/>ly should I dedicate <hi>The Earths encrease;</hi> then to the King of Peace and plenty? to whom a Sermon, then to a Prince, so great a lo<g ref="char:EOLhyphen"/>uer of Sermons, prefer<g ref="char:EOLhyphen"/>rer of Preachers; so a<g ref="char:EOLhyphen"/>ble
+<pb facs="4"/> to iudge of both?</p>
+   <p>By this your Maie<g ref="char:EOLhyphen"/>stie shall be a great gay<g ref="char:EOLhyphen"/>ner, <hi>quia nihil inde deducitur,</hi> your Ma<g ref="char:EOLhyphen"/>iestie receiues without giuing: I no looser; if it gaine your Maiesties iudicious approbation of it selfe, &amp; the Author, who dayly praies for the long continuance of your Maiesties happy raign ouer vs; vnder which, we haue so long enioyed
+<pb facs="5"/> peace, plenty, and the Gospel; and so humbly rests.</p>
+   <closer>
+      <signed>Your Maiesties most <hi>faithfull subiect and seruant,</hi> Theophilus Landavensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectoribus.</title>
+           <author>Heywood, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106016_Bo1_4</idno>
+           <idno type="DLPS">A02441</idno>
+           <idno type="STC">12572</idno>
+           <idno type="ESTC">S106016</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectoribus.</title>
+                 <author>Heywood, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The hovse of correction: or, Certayne satyricall epigrams. Written by I.H. Gent. Together with a few characters, called Par pari: or, Like to like, quoth the deuill to the collier</title>
+                 <author>I. H.</author>
+                 <imprint>
+                    <publisher>Alsop, Bernard</publisher>
+                    <distributor>Redmer, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>56 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>Lectoribus.</head>
+   <l>FRiends these are <hi>like to like,</hi> my iudgmēt's such,</l>
+   <l>The Deuill to the Collier sayd as much.</l>
+   <q>
+      <l>— Vitani deni{que} culpam,</l>
+      <l>non laudem merui.</l>
+      <bibl>Hor. de Art. Po.</bibl>
+   </q>
+   <trailer>FINIS.</trailer>
+   <pb facs="28"/>
+</div>
+        </body>
+  </text>
+</TEI>

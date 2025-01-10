@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>R., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111767_Fr1_2</idno>
+           <idno type="DLPS">A15771</idno>
+           <idno type="STC">26037a</idno>
+           <idno type="ESTC">S111767</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>R., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A receyt to stay the plague. Deliuered in a sermon by R.W. minister of Gods Word</title>
+                 <author>Wright, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Bird, Robert.</publisher>
+                            <publisher>Norton, John 2</publisher>
+                        </imprint>
+                 <extent>4, 24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eader (whether <hi>Citizen</hi> or <hi>Cun<g ref="char:EOLhyphen"/>try-man</hi>) the Title of this sermon, (A Receit to stay the Plague,) may aquaint you with the scope of the Author. A subiect as I conceiue fit for this time wherein the hand of God is more especial<g ref="char:EOLhyphen"/>ly vpon vs, threatning death and desolati<g ref="char:EOLhyphen"/>on by this disease of the Plague. And as in all diseases so in this, the cause being taken away, the Effect ceaseth. To worke this Cure, the Author hath taken the same method, as in the view of this his insuewing labour will appeare, The approbation of it when it was preached by a Religious and Learned Minister, an intire friend of mine on the like occasion that it is now printed, Concur<g ref="char:EOLhyphen"/>ring with the coueniency of it at this time and the Christian like desire, that I a poore
+<pb facs="3"/> fellow Minister suruiuing him haue to doe good, hath Imboldned mee to further the publishing of it, conceiuing that the generall mortality both in Citty and Country will require pardon of this my boldnes re<g ref="char:EOLhyphen"/>ferring the issue to God, and heartily desi<g ref="char:EOLhyphen"/>ring our mutuall prayers for a good successe of this <hi>Receit.</hi>
+   </p>
+   <closer>
+      <signed>By an vnworthy Minister of the Gospell. <hi>T. R.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Authorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103545_Fr2_1</idno>
+           <idno type="DLPS">A02362</idno>
+           <idno type="STC">12496</idno>
+           <idno type="ESTC">S103545</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Authorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Child-birth or, The happy deliuerie of vvomen : VVherein is set downe the gouernment of women. In the time of their breeding childe: of their trauaile, both naturall, and contrary to nature: and of their lying in. Together with the diseases, which happen to women in those times, and the meanes to helpe them. To which is added, a treatise of the diseases of infants, and young children: with the cure of them. Written in French by Iames Guillimeau the French Kings chirurgion</title>
+                 <author>Guillemeau, Jacques</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Bill, John 1.</publisher>
+                            <publisher>Hatfield, Arnold</publisher>
+                        </imprint>
+                 <extent>16, 247, 15, 118 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>Ad Authorem.</head>
+   <l>TErgeminam meritò laudem sibi vendicet Author</l>
+   <l>Cui Matris curae est, cui Puerique salus.</l>
+   <l>Faem<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> Laudabit te iure Puerpera; grates</l>
+   <l>Vir quoque pro saluâ coniuge, Letus aget.</l>
+   <l>Inque tuum primos Infans formabit honorem</l>
+   <l>Risus, cum tumidi carceris exit onus.</l>
+   <l>Infans, Vir, Mulier, pro vitâ vota rependant:</l>
+   <l>Chara tibi coniux, pignora chara ferao.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Ioshuam Sylvesterum, G. Salustij genuinum Interpretem.</title>
+           <author>Fitzgeofridus, Carolus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110823_Fr1_23</idno>
+           <idno type="DLPS">A11395</idno>
+           <idno type="STC">21651</idno>
+           <idno type="ESTC">S110823</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Ioshuam Sylvesterum, G. Salustij genuinum Interpretem.</title>
+                 <author>Fitzgeofridus, Carolus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Du Bartas his deuine weekes and workes translated: and dedicated to the Kings most excellent Maiestie by Iosuah Syluester</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Johnson (Jonson), Arthur.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>32, 697, 6, 698-819, 47, 87, 9 pages, 1 leaf of plates, illustrations, portraits (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>
+      <hi>Ad Ioshuam</hi> Sylvesterum, <hi>G.</hi> Salustij genuinum Interpretem.</head>
+   <p>({inverted ⁂})</p>
+   <lg>
+      <l>FAre agê, divini cultissima lingua <hi>Salusti,</hi>
+      </l>
+      <l>
+         <hi>(SYLVESTER) Clarij</hi> ceu fuit ille <hi>Dei;</hi>
+      </l>
+      <l>
+         <hi>Elyzij</hi> qua parte Iugiconvenerat, &amp; te</l>
+      <l>Edoc<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>it sensus &amp; sua verba <hi>Senex?</hi>
+      </l>
+      <l>An mage, corpored <hi>Herois</hi> compage soluta,</l>
+      <l>In te Anima Elyzium fecerat ipsa sibi?</l>
+      <l>Credo equidē; &amp; <hi>Samij</hi> rata Dogmata sunt <hi>Senis;</hi> vnde,</l>
+      <l>Non Translata mihi, sed genuina canis.</l>
+      <l>Quin &amp; Posteritas, si pagina prima taceret,</l>
+      <l>Interpres dubitet tune vel ille siet.</l>
+   </lg>
+   <closer>
+      <signed>Car: Fitz-Geofridus Lati-Portensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

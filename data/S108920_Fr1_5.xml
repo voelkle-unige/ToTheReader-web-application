@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Thomae Nicholai occidenta∣lem Jndiam St. Gosson.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1578</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108920_Fr1_5</idno>
+           <idno type="DLPS">A06340</idno>
+           <idno type="STC">16807</idno>
+           <idno type="ESTC">S108920</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Thomae Nicholai occidenta∣lem Jndiam St. Gosson.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The pleasant historie of the conquest of the VVeast India, now called new Spayne : atchieued by the vvorthy prince Hernando Cortes Marques of the valley of Huaxacac, most delectable to reade: translated out of the Spanishe tongue, by T.N. Anno. 1578</title>
+                 <author>López de Gómara, Francisco</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1578</date>
+                 </imprint>
+                 <extent>12, 405, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="7"/>
+   <head>
+      <hi>In Thomae Nicholai occidenta<g ref="char:EOLhyphen"/>lem</hi> Jndiam St. Gosson.</head>
+   <lg>
+      <l>SOrdescant Croesi radiantia tecta Pyrope,</l>
+      <l>Et iaceat rutili pompa superba Mydae.</l>
+      <l>Aurea foelici voluuntur secula cursu,</l>
+      <l>Pactôli assiduè flumina verae tument.</l>
+      <l>Terra ferax pandit, sua viscera plena metallis</l>
+      <l>Praegnans, diuitias parturit illa suas.</l>
+      <l>India luxuriat, locupleti prole triumphat,</l>
+      <l>Pingue solum gemmis, fundere gestit opes.</l>
+      <l>O vos qui patriae cupitis fulci<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>e ru<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>am,</l>
+      <l>Et dare mella bonis
+<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>urea, mentis
+<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>p<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</l>
+      <l>Cortezi hos animo cupidè lustrate labores,</l>
+      <l>Post{que}, reluctanti credite vela Salo.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

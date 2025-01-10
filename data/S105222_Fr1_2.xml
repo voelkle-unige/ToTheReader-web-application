@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the King.</title>
+           <author>M., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105222_Fr1_2</idno>
+           <idno type="DLPS">A20028</idno>
+           <idno type="STC">6467</idno>
+           <idno type="ESTC">S105222</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the King.</title>
+                 <author>M., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The defence of contraries : Paradoxes against common opinion, debated in forme of declamations in place of publike censure: only to exercise yong wittes in difficult matters. Wherein is no offence to Gods honour, the estate of princes, or priuate mens honest actions: but pleasant recreation to beguile the iniquity of time. Translated out of French by A.M. one of the messengers of her Maiesties Chamber</title>
+                 <author>Estienne, Charles</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 <publisher>Waterson, Simon.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>8, 99, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the King.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Ir, after you had heard the censures of diuers learned Gentlemen, on the seuerall Paradoxes which you plea<g ref="char:EOLhyphen"/>sed to propound, and were therein (as I imagined) fully satisfied: yet you would needes make triall of my meane iudgement in such matters, and thervpon commanded me to set down mine opinion. How simple soeuer they be, doone they are, and now in all humblenes presented to your Maiestie: who doubtlesse will allow them gratious countenance, be<g ref="char:EOLhyphen"/>cause it was a taske imposed by your selfe, and beside, requireth labour and good wit to defend such contraries. Let no manne thinke then, that I or any other would be so sencelesse, as to holde directly any of these vaine reasons: but what (for argumentes sake) may be said, that set I downe, and no
+<pb facs="3"/>
+otherwise. Your Highnesse knowes, that the simplest conceit can maintaine: <hi>It is bet<g ref="char:EOLhyphen"/>ter to be rich, then poore: better for a Woman to be faire then foule: better for a man to be wise, then a foole, &amp;c.</hi> But to defend the contraries to these, so farre as modestie and reason wil allow, deserueth no hard coniecture among the learned, because they are onely but exer<g ref="char:EOLhyphen"/>cise of wit, to make proofe of a mans habi<g ref="char:EOLhyphen"/>litie in such difficult occasions. <hi>Cornelius A<g ref="char:EOLhyphen"/>grippa</hi> deserued good report for his <hi>Vanitas Scientiarum,</hi> and I hope to passe the pikes with my <hi>Paradox'apologia</hi>: how euer it fall out, so your Maiesty buckler me with won<g ref="char:EOLhyphen"/>ted fauour, I am of Caesars mind: <hi>Iactaest alea.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>Your Maiesties most humble subiect</hi> and seruaunt. <hi>R. G. S. D. M.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

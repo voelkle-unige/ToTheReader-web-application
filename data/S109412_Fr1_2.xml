@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1538</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109412_Fr1_2</idno>
+           <idno type="DLPS">A02941</idno>
+           <idno type="STC">13081.3</idno>
+           <idno type="ESTC">S109412</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An epistle of the moste myghty [and] redouted Prince Henry the .viii. by the grace of God Kyng of England and of Fraunce, lorde of Irelande, defender of the faithe, and supreme heed of the churche of England, nexte vnder Christe, writen to the Emperours maiestie, to all Christen princes, and to all those that trewly and syncerely professe Christes religion</title>
+                 <author>Henry, VIII, King of England</author>
+                 <imprint>
+                    <publisher>Berthelet (Barthelet), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1538</date>
+                 </imprint>
+                 <extent>24 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <p>
+      <hi>IN THIS EPISTLE BOTHE</hi> the causes are playnely declared, why the Kyn<g ref="char:EOLhyphen"/>ges hyghenes owght neyther to sende nor go to the Councill indicted at Vincence, and also how perylouse a thinge it is for all suche as professe the trewe doctrine of Christ, to come thether.</p>
+   <p>
+      <hi>HEREVNTO ALSO IS</hi> AN<g ref="char:EOLhyphen"/>nexed the Protestation made the last yere by the Kynges hyghenes, his holle Counsayle and cler<g ref="char:EOLhyphen"/>gye, as touchinge the Councille inde<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>tted at Mantua &amp;c.</p>
+   <p>¶Rede bothe o Christen Reader, truthe is co<g ref="char:EOLhyphen"/>mynge home, longe afore beynge in captyuytye, steppe forth and meete her by the waye: yf thou see her presence, embrace hir, and shewe thy selfe gladde of her retourne.</p>
+</div>
+        </body>
+  </text>
+</TEI>

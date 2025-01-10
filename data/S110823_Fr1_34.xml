@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Amicissimo Iosuae Syluestri, G. Salustij D. BARTASII interpreti, Encomium.</title>
+           <author>Ca., Si.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110823_Fr1_34</idno>
+           <idno type="DLPS">A11395</idno>
+           <idno type="STC">21651</idno>
+           <idno type="ESTC">S110823</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Amicissimo Iosuae Syluestri, G. Salustij D. BARTASII interpreti, Encomium.</title>
+                 <author>Ca., Si.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Du Bartas his deuine weekes and workes translated: and dedicated to the Kings most excellent Maiestie by Iosuah Syluester</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Johnson (Jonson), Arthur.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>32, 697, 6, 698-819, 47, 87, 9 pages, 1 leaf of plates, illustrations, portraits (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>
+      <hi>Amicissimo</hi> Iosuae Syluestri, G. Salustij D. BARTASII <hi>interpreti, Encomium.</hi>
+   </head>
+   <lg>
+      <l>QVod conspecta Pharus vario dat lumine vasta</l>
+      <l>Aequora sulcanti, cum vaga Luna silet:</l>
+      <l>Et quod lustratis Phoebi dat flammatenebris</l>
+      <l>Erranti in syluis dum manifestat iter:</l>
+      <l>Hoc dat praestanti methodo SALVSTIVS illis</l>
+      <l>Cognitio Sanctae queis placet Historiae.</l>
+      <l>Ille dedit Gallis quod nobis IOSVA noster,</l>
+      <l>Qui solus patrio ductus amore dedit.</l>
+      <l>Ingenium cupitis, non fictaque flumina Vatum?</l>
+      <l>Hic magnum doctis Hortus acumen habet:</l>
+      <l>Musa tua est BARTAS dulcissima: Musa videtur</l>
+      <l>Ipsa tamen NOSTRI, dulcior esse mihi.</l>
+   </lg>
+   <closer>
+      <signed>Si. Ca. Gen.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

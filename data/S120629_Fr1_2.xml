@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST EXCELLENT Maiestie.</title>
+           <author>Peeke, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120629_Fr1_2</idno>
+           <idno type="DLPS">A09218</idno>
+           <idno type="STC">19529</idno>
+           <idno type="ESTC">S120629</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST EXCELLENT Maiestie.</title>
+                 <author>Peeke, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Three to one : being, an English-Spanish combat, performed by a westerne gentleman, of Tauystoke in Deuon shire, with an English quarter-staffe, against three Spanish rapiers and poniards, at Sherries in Spaine, the fifteene day of Nouember, 1625. In the presence of dukes, condes, marquesses, and other great dons of Spaine, being the counsell of warre. The author of this booke, and actor in this encounter, Richard Peeeke [sic]</title>
+                 <author>Pike, Richard</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Trundle, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE KINGS MOST EXCELLENT <hi>Maiestie.</hi>
+   </head>
+   <opener>
+      <salute>GRATIOVS SOVERAIGNE,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>F I were againe in <hi>Spaine,</hi> I should thinke no happinesse on Earth, so great, as to come into <hi>England,</hi> and at your Royall Feete, lay downe the Story of my Dangers, and Peregrination; Which I tell, as a late Sea-wrackt Man, (tos'd and beaten with many Misfortunes;) Yet, setting my weary Body at last on a Blessed Shore: My Handes now lay hold vpon your Altar, which is to me a San<g ref="char:EOLhyphen"/>ctuary: Heere I am safe in Harbor.</p>
+   <p>That Psalme of Kingly <hi>Dauid,</hi> which I sung in my <hi>Spanish</hi> Captiuity,<note place="margin">Psal. 137.</note>
+      <hi>(When as wee sate in Babilon, &amp;c.)</hi> I now haue changed to an other
+<pb facs="3"/>
+Tune; saying, (with the same Prophet, <hi>Great is thy Mercy towards me (O Lord,) for thou hast deliuered my Soule from the lowest Graue.</hi>
+      <note place="margin">Psal. 86.13.</note> And, as your Maiesty hath bene gratiously pleased, both to let your poore Soldier and Subiect, behold your Royall Person, and to heare him speake in his rude Language; So, if your Maie<g ref="char:EOLhyphen"/>sty, vouchsafe to cast a Princely Eye on these his vnhandsome Papers; New Sun-beames shall spread ouer him, and put a Quickning Soule into that Bosome, which otherwise must want Life, for want of your Comfort. Those Graces, from your Excellent Clemency, (already receiued) being such, that I am asha<g ref="char:EOLhyphen"/>med, and sorry, not to haue Endur'd, and to haue done more in Forreigne Countries, for the Honor of Yours; When from so High a Throane, my Souereigne Deignes to looke Downe, on a Creature so vnworthy, whose Life, he prostrates before your Highnes.</p>
+   <closer>
+      <signed>
+         <hi>Euer resting, Your Maiesties most Humble and Loyall Subiect,</hi> RICHARD PEEKE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

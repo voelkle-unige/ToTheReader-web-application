@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad D. PETRVM HVATTVM Sermones editurum.</title>
+           <author>Hart, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108984_Fr1_5</idno>
+           <idno type="DLPS">A03128</idno>
+           <idno type="STC">13258</idno>
+           <idno type="ESTC">S108984</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad D. PETRVM HVATTVM Sermones editurum.</title>
+                 <author>Hart, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Three excellent points of Christian doctrine : I. The nativity of our Lord Iesus Christ. II. His bitter sufferings for the sinnes of his people. III. The fruites flowing therefrom, to those that by faith apprehend him. All prophecied by Zachariah in the 8. 9. and 10. verses of the third chapter of his prophecie, and explained in three sermons, preached at Edinburgh by Master Peter Hewat being minister there</title>
+                 <author>Hewat, Peter</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>104 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>Ad D. PETRVM HVATTVM Sermones editurum.</head>
+   <lg>
+      <l>QVod diae assiduis sacris operere Sionis,</l>
+      <l>Laudibus adijciet posthuma fama tuis.</l>
+      <l>Scriptaque quod mandes nervosa nepotibus, aetas</l>
+      <l>Nescia noctis atrae te repetita canet.</l>
+      <l>Durabunt dum Luna micat tua dogmata, numen</l>
+      <l>Indidit eloquiis pondus <hi>HVATTE</hi> tuis.</l>
+      <l>Faenerat exigui corpus dona ampla, libelli</l>
+      <l>In parvo magnum munere munus inest.</l>
+   </lg>
+   <closer>
+      <signed>Io. HALLVS F.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

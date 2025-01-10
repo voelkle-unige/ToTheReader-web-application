@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE AVTHOR TO THE READER.</title>
+           <author>C., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118867_Fr1_2</idno>
+           <idno type="DLPS">A17461</idno>
+           <idno type="STC">4282</idno>
+           <idno type="ESTC">S118867</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE AVTHOR TO THE READER.</title>
+                 <author>C., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Saint Marie Magdalens conuersion</title>
+                 <author>I. C.</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>THE AVTHOR TO THE READER.</head>
+   <p>This smale poeme (Gentle Reader) was composed for the pleasure of some priuate freinds, and intended to haue bin presented for a Newe-yeres gift the first of this mounth: But interuention of other affaires, delaied the finishing ther<g ref="char:EOLhyphen"/>of, vntill the last. I made choyce of this subiect, as most fitting this time of death, the stile being correspondant, plaine and passionate, much like a morning garment, fitting both the time and the matter. Graue enough for sobrest wittes, and not se harshe, but may content the nicest eares. The reading whereof (I doubt not) will proue both pleasant, and profitable, which is as much as I can wish or thou desire. <hi>Fare<g ref="char:EOLhyphen"/>well this last of Ianuarie. 1603.</hi>
+   </p>
+   <closer>
+      <signed>Thyne I. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

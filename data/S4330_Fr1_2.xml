@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST EXCELLENT MAJESTIE.</title>
+           <author>Sandys, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4330_Fr1_2</idno>
+           <idno type="DLPS">A02262</idno>
+           <idno type="STC">12397</idno>
+           <idno type="ESTC">S4330</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST EXCELLENT MAJESTIE.</title>
+                 <author>Sandys, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Christs passion : a tragedie, with annotations</title>
+                 <author>Grotius, Hugo</author>
+                 <imprint>
+                    <publisher>Legat, John 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>6, 123, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE KINGS MOST EXCELLENT MAJESTIE.</head>
+   <opener>
+      <salute>SIR,</salute>
+   </opener>
+   <p>I Am bold to present you with this Peece of the PAS<g ref="char:EOLhyphen"/>SION, the Originall designed by the curious Pensill of <hi>Gro<g ref="char:EOLhyphen"/>tius:</hi> whose former afflictions seeme to have taught him pli<g ref="char:EOLhyphen"/>able passions, and art to rule the affections of others: cloath<g ref="char:EOLhyphen"/>ing the saddest of Subjects in the sutable attire of Tragedy; not without the Example of two ancient Fathers of the Primi<g ref="char:EOLhyphen"/>tive Church, <hi>Apollinarius</hi> and <hi>Nazianzen.</hi> The Argument is
+<pb facs="3"/>
+of both the Testaments a pathe<g ref="char:EOLhyphen"/>ticall Abstract. Those formi<g ref="char:EOLhyphen"/>dable Wonders, effected by God in his owne Common-wealth; those stupendious Miracles, for truth a Pattern to all History, for strangenesse to all Fables; here meet together to attend on CHRIST'S PASSION. The ef<g ref="char:EOLhyphen"/>fects of his Power here sweet<g ref="char:EOLhyphen"/>ly end in those of his Mercy: and that terrible Lord of Hosts, is now this meeke God of Peace; reconciling all to one another, and Man-kinde to Him-selfe. S<seg rend="sup">r</seg>. in this change of Language I am no punctuall Interpreter: a way as servill as ungracefull. <hi>Quintilian</hi> censures a Painter,
+<pb facs="3"/>
+that he more affected Simili<g ref="char:EOLhyphen"/>tude then Beauty; who would have shown greater Skill, if lesse of Resemblance: the same in Poetry is condemned by <hi>Horace;</hi> of that Art the great Law-giver. Thus in the Shadow of your Absence, dismist from Arms by an Act of Time, have I, in what I was able, continued to serve you.</p>
+   <closer>
+      <signed>The humblest of your Majesties Servants, GEORGE SANDYS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Gentle Reader,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107677_Fr1_3</idno>
+           <idno type="DLPS">A18071</idno>
+           <idno type="STC">4705</idno>
+           <idno type="ESTC">S107677</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Gentle Reader,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The preachers trauels : Wherein is set downe a true iournall to the confines of the East Indies, through the great countreyes of Syria, Mesopotamia, Armenia, Media, Hircania and Parthia. With the authors returne by the way of Persia, Susiana, Assiria, Chaldæa, and Arabia. Containing a full suruew of the knigdom [sic] of Persia: and in what termes the Persian stands with the Great Turke at this day: also a true relation of Sir Anthonie Sherleys entertainment there: and the estate that his brother, M. Robert Sherley liued in after his departure for Christendome. With the description of a port in the Persian gulf, commodious for our East Indian merchants; and a briefe rehearsall of some grosse absudities [sic] in the Turkish Alcoran. Penned by I.C. sometimes student in Magdalen Colledge in Oxford</title>
+                 <author>Cartwright, John, of Magdalen College, Oxford</author>
+                 <imprint>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>6, 107, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>Gentle Reader,</head>
+   <p>
+      <seg rend="decorInit">I</seg>T was my purpose to haue added to this Iournall, some obseruations tou<g ref="char:EOLhyphen"/>ching our Northwest Passage; with many reasons to haue proued the great probabilitie thereof. But I am per<g ref="char:EOLhyphen"/>swaded by some friends to make stay thereof, vntill the truth of the newes: <hi>That it is alrea<g ref="char:EOLhyphen"/>die discouered,</hi> be throughly examined. In the meane time moderate thy opinion of our former proceedings. And though some maleuolent tongues haue especially shot out their venemous poyson against me, vpon what ground they cannot iustly say, when they haue beene pres<g ref="char:EOLhyphen"/>sed thereto, y<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t God is my witnesse that my Conscience is cleare, either from wronging the Companie that then was; or any wayes from hindring the full proceeding of that Voyage, which I purpose shortly to make good vnto the world. And for this small discourse, if it passe cur<g ref="char:EOLhyphen"/>rant in thy iudgement, I shall thinke my sel<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e to haue gained enough, in lieu of all the Trauels, of all the dangers, &amp; perils, that I haue sustai<g ref="char:EOLhyphen"/>ned in those places.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Obseruation.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110024_Fr1_3</idno>
+           <idno type="DLPS">A07660</idno>
+           <idno type="STC">18051</idno>
+           <idno type="ESTC">S110024</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Obseruation.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The mindes melodie : Contayning certayne psalmes of the kinglie prophete Dauid, applyed to a nevv pleasant tune, verie comfortable to euerie one that is rightlie acquainted therewith</title>
+                 <author>Montgomerie, Alexander</author>
+                 <imprint>
+                    <publisher>Charteris, Robert</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>32 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <head>An Obseruation.</head>
+   <p>The diuision of the verses is knovvne by this marke ¶</p>
+</div>
+        </body>
+  </text>
+</TEI>

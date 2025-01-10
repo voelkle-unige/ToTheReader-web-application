@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Ho, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110825_Fr1_5</idno>
+           <idno type="DLPS">A11401</idno>
+           <idno type="STC">21658</idno>
+           <idno type="ESTC">S110825</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Ho, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first day of the worldes creation: or of the first weeke of that most Christian poet, W. Salustius, Lord of Bartas</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 <publisher>Jackson, John 1.</publisher>
+                            <publisher>Seton, Gregory.</publisher>
+                            <publisher>Seton, Gregory</publisher>
+                        </imprint>
+                 <extent>6, 41, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <lg>
+      <l>
+         <hi>PHillips</hi> faire bloome, sole eie of <hi>Macedon,</hi>
+      </l>
+      <l>Hauing disroabd of all their royaltie</l>
+      <l>The loftie towers of thrice-sackt <hi>Ilion,</hi>
+      </l>
+      <l>Was askt by one if he the harpe would see,</l>
+      <l>That <hi>Paris</hi> vsde amidst his venerie?</l>
+      <l>Not <hi>that</hi> quoth he, but rather <hi>THAT</hi> would I:</l>
+      <l>Wherewith <hi>Achilles</hi> made such melodie.</l>
+   </lg>
+   <lg>
+      <l>His minde forsooth and voice accorded then,</l>
+      <l>With <hi>THAT</hi> which warbled still the woorthy deedes</l>
+      <l>Of heaun-bred ympes, heroick Gentlemen,</l>
+      <l>The mortall blossoms of immortall seedes,</l>
+      <l>None such <hi>that other</hi> twangd but worthlesse weedes.</l>
+      <l>As sighes, sobs, sorrowes, and louers languishments,</l>
+      <l>Or else their wiles, smiles, sports, and wanton meriments.</l>
+   </lg>
+   <lg>
+      <l>No such like passions heere of carpet loue,</l>
+      <l>No obiects fit for lewd and lustfull eies:</l>
+      <l>Lo heere the <hi>world,</hi> the <hi>earth,</hi> the <hi>heauen</hi> aboue,</l>
+      <l>The <hi>elements,</hi> and sense deceiuing skies,</l>
+      <l>All made free denizens after English guise:</l>
+      <l>You Gentles cast in <hi>Alexanders</hi> mould,</l>
+      <l>By choise like his, like minde of yours vnfould.</l>
+   </lg>
+   <closer>
+      <signed>Io. Ho.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

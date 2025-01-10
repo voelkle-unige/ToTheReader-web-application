@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1556</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2237_Fr1_3</idno>
+           <idno type="DLPS">A07691</idno>
+           <idno type="STC">18078.5</idno>
+           <idno type="ESTC">S2237</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The boke of the fayre genty [l] woman that no man shulde put his truste, or confydence in : that is to say, Lady Fortune, flaterynge euery man that coueyteth to haue all, and specyally, them that truste in her, she deceyueth them at laste</title>
+                 <author>More, Thomas, saint</author>
+                 <imprint>
+                    <publisher>Wyer (Wyre), Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1556</date>
+                 </imprint>
+                 <extent>16 pages, illustrations, 8° in 4's</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <p>
+      <figure>
+</figure>
+   </p>
+   <lg>
+      <l>FO<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>tune peruersse</l>
+      <l>Qui le monde versse</l>
+      <l>Toult a ton desyre</l>
+      <l>Iamais tu nas cesse</l>
+      <l>Plaine de finesse</l>
+      <l>Et y prens pleasite<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+   </lg>
+   <lg>
+      <l>¶ Par <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>oy vēnent ma<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>lx</l>
+      <l>Et gu<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>res mort<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>lx</l>
+      <l>Touls inconueniens</l>
+      <l>Parmo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>s et par vau<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>y</l>
+      <l>Et aulx hospitalx</l>
+      <l>Me<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>ent tant de <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ens.</l>
+   </lg>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

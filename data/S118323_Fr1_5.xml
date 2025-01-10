@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De scopo vitae hominis Christiani Tetrastichon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118323_Fr1_5</idno>
+           <idno type="DLPS">A00406</idno>
+           <idno type="STC">10536</idno>
+           <idno type="ESTC">S118323</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De scopo vitae hominis Christiani Tetrastichon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The right rule of a religious life: or, The glasse of godlinesse : Wherein euery man may behold his imperfections, how farre hee is out of the way of true godlinesse, and learne to reduce his wandring steppes into the pathes of true pietie. In certaine lectures vpon the first chapter of the Epistle of S. Iames. The first part. By William Est preacher of Gods word</title>
+                 <author>Est, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Lee (Lea, Leigh), Richard.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>16, 318 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="8"/>
+   <head>De scopo vitae hominis Christiani Tetrastichon.</head>
+   <lg>
+      <l>PRaefixus tibi quis scopus est? Reuerenter Iesū</l>
+      <l>Vt prompta semper lingua animo{que} colam:</l>
+      <l>Tum quemuis studeam verbis opera{que} iuvare,</l>
+      <l>Et cautam ne me, otia tarda premant.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

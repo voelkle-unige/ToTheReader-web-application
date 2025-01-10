@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right Honourable, Iohn Lord Harrington, Baron of Exton, and to the worthy and Noble Ladie his wife: Grace, and Peace.</title>
+           <author>Cleaver, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4611_Fr1_2</idno>
+           <idno type="DLPS">A20549</idno>
+           <idno type="STC">6959.5</idno>
+           <idno type="ESTC">S4611</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right Honourable, Iohn Lord Harrington, Baron of Exton, and to the worthy and Noble Ladie his wife: Grace, and Peace.</title>
+                 <author>Cleaver, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A plaine and familiar exposition of the thirteenth and fourteenth chapters of the Prouerbs of Salomon</title>
+                 <author>Dod, John</author>
+                 <imprint>
+                    <publisher>Bradock, Richard</publisher>
+                    <distributor>Jackson, Roger</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>4, 152, that is 154, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right Honourable, <hi>Iohn</hi> Lord <hi>Harrington,</hi> Baron of <hi>Exton,</hi> and to the worthy and Noble Ladie his wife: <hi>Grace, and Peace.</hi>
+   </head>
+   <opener>
+      <salute>RIGHT HONORABLE,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">Y</seg>Our Christian loue generally towards all the seruants of God, together with the especiall fauour shewed to vs, by your good acceptance of our former labours: hath giuen vs great incou<g ref="char:EOLhyphen"/>ragement to offer this present treatise vnto your Honors patronage, the purpose and vpright desire of our harts in all our writings is, to glorifie God, and to edifie his people. The method which we obserue herein, is the selfe same with that in our former bookes: and the matter and manner of handling, we commit to the iudgement of your Honors, and of euery godlie and indifferent reader: If our endeauours be as charitably interpreted by others, as they be faithfully intended by vs, we are sure they shall giue offence to none, but satis<g ref="char:EOLhyphen"/>faction to all. And thus nothing doubting but that your Honors will vouchsafe to receiue this testimony of our duty and vnfained loue, we humbly commit you to the gracious protection of Almighty God, beseeching him alwaies to direct and blesse you.</p>
+   <closer>
+      <signed>
+         <hi>Your Honors in the Lord</hi> to be commanded, Iohn Dod, Robert Cleauer.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

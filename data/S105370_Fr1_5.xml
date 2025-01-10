@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Authoris Responsio ad Momum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105370_Fr1_5</idno>
+           <idno type="DLPS">A14295</idno>
+           <idno type="STC">24612</idno>
+           <idno type="ESTC">S105370</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Authoris Responsio ad Momum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Naturall and artificial directions for health : deriued from the best philosophers, as well moderne, as auncient. By William Vaughan, Master of Artes, and student in the ciuill law</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <publisher>Bradock, Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>14, 76, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="response">
+   <head>Authoris Responsio ad Momum.</head>
+   <lg>
+      <l>EX herbis fit mel: hominis ceu simia, <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>Aemula Naturae est; Moeonidisque Mar<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</l>
+   </lg>
+   <lg>
+      <l>Sit licet ex multis opus hoc: tamen vtile quonis</l>
+      <l>Teste; voluminibus candidiissque tuis.</l>
+   </lg>
+   <pb facs="8"/>
+</div>
+        </body>
+  </text>
+</TEI>

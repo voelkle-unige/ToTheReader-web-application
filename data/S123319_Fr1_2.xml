@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Epistle written by a Friend to the Author in his absence.</title>
+           <author>Gee, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123319_Fr1_2</idno>
+           <idno type="DLPS">A14856</idno>
+           <idno type="STC">25160.7</idno>
+           <idno type="ESTC">S123319</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Epistle written by a Friend to the Author in his absence.</title>
+                 <author>Gee, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Catalogus Protestantium: or, The protestants kalender : Containing a suruievv of the Protestants religion long before Luthers daies, euen to the time of the Apostles, and in the primitiue Church</title>
+                 <author>Webbe, George</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>6, 26, 37-64 pages, 65-72 leaves, 63-97, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>An Epistle written by a Friend to the Author in his absence.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian, and discreet Reader, It were a great defrauding the Store-house of Religion, to conceale that for any priuate respect, which concernes a pub<g ref="char:EOLhyphen"/>like benefit.<note place="margin">Aug. Con<gap reason="illegible" resp="#keyers" extent="3 letters">
+            <desc>•••</desc>
+         </gap>s. lib. <hi>12.</hi>
+      </note>
+      <hi>Veritatem cela<g ref="char:EOLhyphen"/>re, est aurum sepelire:</hi> To conceale the Truth (saith St. <hi>Augustine</hi>) is to bury Gold; and to smother any ancient Sacred te<g ref="char:EOLhyphen"/>stimony of Antiquitie, were to hide that treasurie in the bowels of the earth, which is the inestimable Dowre of Gods Church. Now of all truth, and of all testimonies deriued from the roote and record of Antiquitie, none ought to bee more sought after then the retayned puritie of Apostolique Doctrine, resplendent in all Ages since our Sauiours plantati<g ref="char:EOLhyphen"/>on, euen in the gloomie and darke dayes before <hi>Luther.</hi>
+   </p>
+   <p>Our Priests and Jesuites for their vnpleasant
+<pb facs="3"/> clamorous, and obstriperous sound, not vnfitly re<g ref="char:EOLhyphen"/>sembling Frogs and Locusts, haue of late dayes beene croaking and throtling out this harsh note and noyse to euery Protestant passenger, <hi>Where was your Church before LVTHER?</hi> Thinking belike so to choake vs with this Question, as that not giuing vs leaue to fetch breath, wee should not possibly bee able to deriue our Religion from any ancienter Author. But alasse poore Romanists! Though it would serue our turnes to answer with <hi>Ignatius</hi> the Martyr,<note place="margin">Jgnat. Epist. ad Philad.</note>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, <hi>IESVS CHRIST</hi> is my Antiquitie. Yet it shall appeare vnto you that Almightie <hi>GOD,</hi> hath not left his Truth (howsoeuer opposed by your impi<g ref="char:EOLhyphen"/>ous rabble and malice) <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, to bee without sufficient witnesse in all Ages, as may appeare by the Writings of many Christian Antiquaries, who haue deliuered the Lampe of knowledge and dire<g ref="char:EOLhyphen"/>ction to vs, and for the future benefit of the Chri<g ref="char:EOLhyphen"/>stian World, is now more plainly expressed by the Learned labour of this Reuerend Diuine, out of whose large field of obseruation and Reading, bee hath affoorded you so faire a Kalender and plenti<g ref="char:EOLhyphen"/>full Catalogue of Names, as may suffice to point out a Protestant successiue Church from Age to Age. Yea it is hereby easily seene, that the Church
+<pb facs="3"/> of <hi>England,</hi> hath not wanted multitudes of well disposed hearts at all times; howsoeuer the publike authority at some time lacked, to maintayne the open Preaching of the Gospell. As for the worthi<g ref="char:EOLhyphen"/>nesse of this worke, worthyest these times, let the goodnesse of God bee duely glorified, and the Au<g ref="char:EOLhyphen"/>thors paines-taking therein acknowledged: so shall the doubtfull bee better informed, the weake con<g ref="char:EOLhyphen"/>firmed, and many a soule benefited.</p>
+   <closer>
+      <signed>Thy welwiller in Christ, IOHN GEE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

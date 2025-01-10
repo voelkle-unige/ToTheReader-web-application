@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Admonition.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107390_Bo1_2</idno>
+           <idno type="DLPS">A04437</idno>
+           <idno type="STC">14563.3</idno>
+           <idno type="ESTC">S107390</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Admonition.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine deuout and godly petitions, commonly called, Iesus Psalter</title>
+                 <imprint>
+                    <publisher>Fowler (Fouler), John</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>64+ pages, illustrations, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="instructions_to_the_reader">
+   <pb facs="29"/>
+   <head>An Admonition.</head>
+   <p>VNto such, as haue none op<g ref="char:EOLhyphen"/>portunitie to saie the whole Psalter together, it is good that they faie the first v. pe<g ref="char:EOLhyphen"/>titions one daie, and the second v. another day, and the last v. ano<g ref="char:EOLhyphen"/>ther day, &amp; so in three dayes they shal say y<seg rend="sup">e</seg> whole Psalter. But els if they may haue cōuenient time, it is better to say the xv. principal petitions euery day, &amp; ech of them x. times, with <hi>In nomine Iesu,</hi> in y<seg rend="sup">e</seg> beginning, <hi>Pater nost. Aue Maria.</hi> &amp; at euery fifth, like as it is writē in the boke, with <hi>Dominus noster, Pater noster. Aue Maria. Credo.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

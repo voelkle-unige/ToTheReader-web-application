@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Bristow to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106653_Ba1_1</idno>
+           <idno type="DLPS">A16909</idno>
+           <idno type="STC">3800</idno>
+           <idno type="ESTC">S106653</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Bristow to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe treatise of diuers plaine and sure waies to finde out the truth in this doubtfull and dangerous time of heresie : Conteyning sundrie worthy motiues vnto the Catholike faith, or considerations to moue a man to beleeue the Catholikes, and not the heretikes. Set out by Richard Bristow priest, licentiat in diuinitie</title>
+                 <author>Bristow, Richard</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>12, 176, 4 leaves, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="212"/>
+   <head>Bristow to the Reader.</head>
+   <p>AL persons of our Nation, that with Gods grace shal chaunce to be remembred or confirmed in the Catholike faith, or reduced thereunto by this Treatise: vouchsafe of theyr charity, to requite my Goodwill, with theyr de<g ref="char:EOLhyphen"/>uout prayers for my sinnes.</p>
+</div>
+        </body>
+  </text>
+</TEI>

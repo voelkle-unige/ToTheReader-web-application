@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SONNET.</title>
+           <author>S., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105643_Fr1_9</idno>
+           <idno type="DLPS">A07429</idno>
+           <idno type="STC">17816</idno>
+           <idno type="ESTC">S105643</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SONNET.</title>
+                 <author>S., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A spirituall propine of a pastour to his people</title>
+                 <author>Melville, James</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1598</date>
+                 <publisher>Waldegrave (Walgrave), Robert.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>8, 51, 3, 53-150, that is 151, 7 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="sonnet">
+   <pb facs="6"/>
+   <head>SONNET.</head>
+   <l>THe liuely Lampes of great Iehovaes licht</l>
+   <l>Quhilk driues the deadly smoke of sin away</l>
+   <l>The grounds of grace, the gage of glorie bright</l>
+   <l>The way to wealth quhilk sall indure far ay.</l>
+   <l>As Salue for saules, a solide plat to pray</l>
+   <l>At morne, at nicht, and vther seasons mei<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>A truth to <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> the state where thou suld staye</l>
+   <l>A healthsome hyue of heauenly songes sweit.</l>
+   <l>Behald thou hes, in weichtie, wise, discreit</l>
+   <l>And pleasant style, a schort and reddie way.</l>
+   <l>To Paradyse with pleasures all repleit,</l>
+   <l>To reigne and sing O holy, holy aye.</l>
+   <l>Pray and assay herein sum space to spend.</l>
+   <l>Giue place to grace, and God sall blesse the end.</l>
+   <closer>
+      <signed>M. W. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

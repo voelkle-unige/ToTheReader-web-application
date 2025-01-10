@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Heywood, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104058_Fr1_4</idno>
+           <idno type="DLPS">A03195</idno>
+           <idno type="STC">13315</idno>
+           <idno type="ESTC">S104058</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Heywood, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The English traueller : As it hath beene publikely acted at the Cock-pit in Drury-lane: by Her Maiesties seruants. Written by Thomas Heyvvood</title>
+                 <author>Heywood, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Raworth, Robert</publisher>
+                        </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>F Reader thou hast of this Play beene an audi<g ref="char:EOLhyphen"/>tour?
+there is lesse apology to be vsed by intrea<g ref="char:EOLhyphen"/>ting
+thy patience. This <hi>Tragi-Comedy</hi> (being
+one reserued amongst two hundred and twenty, in
+which I haue had either an entire hand, or at
+the least a maine finger, comming accidentally to the <hi>Presse,</hi>
+and I hauing Intelligence thereof, thought it not fit that it
+should passe as <hi>filius populi,</hi> a Bastard without a Father to ac<g ref="char:EOLhyphen"/>knowledge
+it: True it is, that my Playes are not exposed unto
+the world in Volumes, to beare the title of <hi>Workes,</hi> (as others)
+one reason is, That many of them by shifting and change of Com<g ref="char:EOLhyphen"/>panies,
+haue beene negligently lost, Others of them are still
+retained in the hands of some Actors, who thinke it against
+their peculiar profit to haue them come in Print, and a third,
+That it never was any great ambition in me, to bee in this
+kind Volumniously read. All that I haue further to say at this
+time is onely this: Censure I intreat as fauourably, as it is
+exposed to thy view freely. euer</p>
+   <signed>Studious of thy Pleasure and Profit,
+<hi>Thomas Heywood.</hi>
+   </signed>
+</div>
+        </body>
+  </text>
+</TEI>

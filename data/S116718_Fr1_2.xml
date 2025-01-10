@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           <author>D., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116718_Fr1_2</idno>
+           <idno type="DLPS">A18366</idno>
+           <idno type="STC">4940</idno>
+           <idno type="ESTC">S116718</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 <author>D., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A shorte discourse of the most rare and excellent vertue of nitre : wherein is declared the sondrie and diuerse cures by the same effected, and how it may be aswell receiued in medicine inwardly as outwardly plaisterwise applied: seruing to the vse and commoditie aswell o the meaner people as of the delicater sorte</title>
+                 <author>Chaloner, Thomas, Sir</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <distributor>Dewes, Garrat</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>2, 22 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Haue aduentured (gen<g ref="char:EOLhyphen"/>tle Reader) for thy be<g ref="char:EOLhyphen"/>hoofe, to print this small treatise touching the fa<g ref="char:EOLhyphen"/>culties and qualities of Nitre, whose vertue (being such as our authour auoucheth) may bring to all which stand in neede thereof no small ease, &amp; commodity: the medicines are not verie harde to be made or compoun<g ref="char:EOLhyphen"/>ded, nor ouer costlie to be procured, but how commodious and effectual, I leaue to the learned, and to such, as by proofe haue had, or may haue pro<g ref="char:EOLunhyphen"/>fit thereby. Thus omitting to com<g ref="char:EOLhyphen"/>mend that (which I hope will com<g ref="char:EOLhyphen"/>mende it selfe sufficientlie) I ende nothing doubting but that all those
+<pb facs="3"/>
+which receiue commoditie and ease by others trauailes and labours, will not be vnthankefull for the same but vse them to Gods glorie.</p>
+   <closer>
+      <signed>
+         <hi>Thine at his small power.</hi> A. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

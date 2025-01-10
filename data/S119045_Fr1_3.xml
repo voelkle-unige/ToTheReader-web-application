@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119045_Fr1_3</idno>
+           <idno type="DLPS">A03281</idno>
+           <idno type="STC">13398</idno>
+           <idno type="ESTC">S119045</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The dignitie of the Scripture togither with the indignity which the vnthankfull world offereth thereunto : In three sermons vpon Hose. 8. 12. By Samuel Hieron</title>
+                 <author>Hieron, Samuel</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London ; Great Britain--England--Cambridge</pubPlace>
+                    <date>1607</date>
+                 <publisher>Legat (Legate, Legatt), John 1.</publisher>
+                            <publisher>Legat, John 2.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>4, 41, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="3"/>
+   <head>ERRATA.</head>
+   <p>Pag. 2. l. 10. for reserued, read referred. p. 3. l. 28. with with sicknes. p. 4. l. 15. after needfull matter, put in these words <hi>viz.</hi> not revea<g ref="char:EOLhyphen"/>led in it, hath added to it a packe and rable of unwritten traditions, concerning which it teacheth, that they are to be receiued &amp; imbra<g ref="char:EOLhyphen"/>ced with the same affection, with the like zeale, with the same re<g ref="char:EOLhyphen"/>spect, as we doe p. 4. l. 37. after all the, read the first words of the 5. p. <hi>viz.</hi> authors of them &amp;c. there be other smal faults escaped which would desire the gentle reader to amend as he read.</p>
+</div>
+        </body>
+  </text>
+</TEI>

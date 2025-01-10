@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN OBITVM ILLVSTRISSIMI P. HENRICI.</title>
+           <author>Barbatus, Josephus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121141_Fr1_3</idno>
+           <idno type="DLPS">A08732</idno>
+           <idno type="STC">19020</idno>
+           <idno type="ESTC">S121141</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN OBITVM ILLVSTRISSIMI P. HENRICI.</title>
+                 <author>Barbatus, Josephus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Eidyllia in obitum fulgentissimi Henrici Walliæ Principis duodecimi, Romæq [ue] ruentis terroris maximi : quo nihil maius meliúsve terris fata donavere, boniq́ [ue] divi nec dabunt, quamvis redeant in aurum tempora priscum</title>
+                 <author>University of Oxford</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>IN OBITVM ILLVSTRISSIMI P. <hi>HENRICI.</hi>
+   </head>
+   <lg>
+      <head>Chaldaica.</head>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+   </lg>
+   <lg>
+      <head>Syriaca.</head>
+      <l>Challu li ow Sar cad debhaiotach</l>
+      <l>Wa ma hanna allai deamut achar motach.</l>
+   </lg>
+   <lg>
+      <head>Arabica.</head>
+      <l>Cairoun lican idha haijoun ia Raijz furtou</l>
+      <l>Phi baudou ma touophitou gedun li amoutou.</l>
+   </lg>
+   <lg>
+      <head>Turcica.</head>
+      <l>Netzapha eidi sag iken ha Ephendi benum saggligim</l>
+      <l>Olunden sogra bagada chosh eidi air olijm.</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>Josephus Barbatus</hi> Arabs Memphi<g ref="char:EOLhyphen"/>ticus Cophtéus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

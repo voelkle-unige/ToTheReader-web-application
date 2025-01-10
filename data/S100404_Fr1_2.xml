@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100404_Fr1_2</idno>
+           <idno type="DLPS">A20820</idno>
+           <idno type="STC">72</idno>
+           <idno type="ESTC">S100404</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Abjuration of poperie, by Thomas Abernethie: sometime Iesuite, but now penitent sinner, and an unworthie member of the true reformed Church of God in Scotland, at Edinburgh, in the Gray-frier church, the 24. of August, 1638</title>
+                 <author>Abernethie, Thomas</author>
+                 <imprint>
+                    <publisher>Anderson, George</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the courteous Reader.</head>
+   <p>
+      <hi>COurteous Reader,</hi> in these sub<g ref="char:EOLhyphen"/>sequent pages, excuse I pray thee, the shortnesse of the matter, and the rudenesse of the style, and attribute that to my cal<g ref="char:EOLhyphen"/>ling, being long a Souldiour; and this to my education, which hath beene more out of my native Countrie than in it, and make thy use of the matter which I have set downe for thy well, rather than to censure the defect of my language. Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

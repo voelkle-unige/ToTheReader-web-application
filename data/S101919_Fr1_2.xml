@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Davenport, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101919_Fr1_2</idno>
+           <idno type="DLPS">A09990</idno>
+           <idno type="STC">20241</idno>
+           <idno type="ESTC">S101919</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Davenport, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The nevv covenant, or the saints portion : A treatise vnfolding the all-sufficiencie of God, and mans uprightnes, and the covenant of grace. delivered in fourteene sermons vpon Gen. 17. 1. 2. Wherevnto are adioyned foure sermons vpon Eccles. 9.1. 2. 11. 12. By the late faithfull and worthie minister of Iesus Christ Iohn Preston. Dr. in Divinitie, chaplaine in ordinary to his Maiestie, maister of Emmanuel Colledge in Cambridge, and sometimes preacher of Lincolnes Inne</title>
+                 <author>Preston, John</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>10, 244, 240, 128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <p>ILLVSTRISSIMIS, ET HONORATISSIMIS VIRIS,
+THEOPHILO COMITI LINCOLNIENSI,
+ET
+GVLIELMO VICE-COMITI SAY, ET SELE,
+DOMINISSVIS SVBMISISSIMÈ COLENDIS,
+HAS
+IOHANNIS PRESTONI SS. THEOL. DOCT.
+ET
+COLLEGII IMMANVELIS MAGISTRI
+PRIMITIAS
+DEVOTISSIMI, TAM AVTHORIS, DVM VIVERET,
+QVAM IPSORVM, QVI SVPERSVNT, OBSEQVII
+TESTIMONIVM
+L.M.D.D.D.</p>
+   <closer>
+      <signed>RICHARDVS SIBS. IOHANNES DAVENPORT.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

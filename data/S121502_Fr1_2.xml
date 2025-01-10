@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Coppie of a letter sent from a Gen∣tleman in Scotland to a frend of his in Eng∣land, touching the conspiracie against the kings maiestie.</title>
+           <author>Studley, Christopher</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121502_Fr1_2</idno>
+           <idno type="DLPS">A11683</idno>
+           <idno type="STC">21949.5</idno>
+           <idno type="ESTC">S121502</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Coppie of a letter sent from a Gen∣tleman in Scotland to a frend of his in Eng∣land, touching the conspiracie against the kings maiestie.</title>
+                 <author>Studley, Christopher</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Treason pretended against the King of Scots : by certaine lordes and gentlemen, whose names hereafter followe. With a declaration of the Kinges Maiesties intention to his last acts of Parliament: which openeth fully in effect of all the saide conspiracy. Out of Skottish int English</title>
+                 <author>Studley, Christopher</author>
+                 <imprint>
+                    <publisher>Nelson, Thomas</publisher>
+                    <pubPlace/>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>3, 21 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>¶ <hi>The Coppie of a letter sent from a Gen<g ref="char:EOLhyphen"/>tleman</hi> in Scotland to a frend of his in <hi>Eng<g ref="char:EOLhyphen"/>land, touching the conspiracie against the kings maiestie.</hi>
+   </head>
+   <opener>
+      <salute>MY approued friend T. S. </salute>
+   </opener>
+   <p>There hath beene lately secret practising against the kinges Maiestie of Scotland. But time serueth not nowe to set down the maner of their proceeding in the said attempt: I haue here sent to you the Kinges declaration to his last Acts of Parliament, and for breuitie haue set downe the names of the conspi<g ref="char:EOLhyphen"/>rators, which are as followeth. And thus in hope you will accept my good will, I commit you to the Almightie:</p>
+   <closer>
+      <dateline>From Edenbrough <date>this 20. of Fe<g ref="char:EOLhyphen"/>bruarie. 1585.</date>
+      </dateline>
+      <signed>Yours Christopher Studley.</signed>
+   </closer>
+   <postscript>
+      <p>
+         <list>
+            <head>These wer apprehēded at y<seg rend="sup">e</seg> kinges Court.</head>
+            <item>The Lord of Don Whasell.</item>
+            <item>The Lord of Dunkrith.</item>
+            <item>The Lord of Baythkicte.</item>
+            <item>Robert Hamelton of Ynchmachā.</item>
+            <item>M. Iames Sterling.</item>
+         </list>
+      </p>
+      <p>
+
+
+
+
+
+Iohn Hoppingell <hi>of the</hi> Mores <hi>apprehended at his owne house by the Captaine of the kings Garde.</hi>
+      </p>
+      <p>
+         <hi>The Lord</hi> Keir <hi>&amp; Lord</hi> Maius <hi>apprehended with other Gentlemen about</hi> Sterling.</p>
+      <p>
+         <hi>The Lord</hi> Blaketer <hi>and</hi> Georg Douglasse <hi>are sommoned to the Court vpon suspition.</hi>
+      </p>
+      <p>
+         <list>
+            <item>
+               <hi>The Lord</hi> Don Whasell.</item>
+            <item>
+               <hi>The Lord</hi> Maius</item>
+         </list>executed.</p>
+      <p>
+         <hi>The treason discouered by</hi> Robert Hamelton.</p>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

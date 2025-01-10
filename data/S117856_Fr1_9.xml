@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Michelborne, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117856_Fr1_9</idno>
+           <idno type="DLPS">A13001</idno>
+           <idno type="STC">23294</idno>
+           <idno type="ESTC">S117856</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Michelborne, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The life and death of Thomas Wolsey Cardinall : Diuided into three parts: his aspiring, triumph, and death. By Thomas Storer student of Christ-church in Oxford</title>
+                 <author>Storer, Thomas</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Dawson, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <lg>
+      <l>WHen <hi>Wolsey</hi> died me seemes the sunne did set,</l>
+      <l>And that his glory with himselfe did waine;</l>
+      <l>But since his death another did beget,</l>
+      <l>Which lendes him helpe, his life to reobtaine,</l>
+      <l>One sunne did set, but two do rise againe:</l>
+      <l>Cease you that wont admire the starres alone,</l>
+      <l>Your eies haue now enough to gaze vpon.</l>
+   </lg>
+   <lg>
+      <l>Shine <hi>Wolsey;</hi> cause the world to wonder stil,</l>
+      <l>And thou true sunne of great <hi>Apollo</hi> shine,</l>
+      <l>The world with thy conceited volumes fill,</l>
+      <l>Smoothe <hi>Tasso,</hi> and the famous <note n="*" place="margin">Pe<g ref="char:EOLhyphen"/>trarcke</note>
+         <hi>Florentine,</hi>
+      </l>
+      <l>Their garlands now to thee do both resigne,</l>
+      <l>
+         <hi>Laura</hi> that greene hath slourish'd all this while,</l>
+      <l>Lies blasted now at the thunder of thy stile.</l>
+   </lg>
+   <closer>
+      <signed>Thomas Michelborne.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Euesdropper, Adam</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110473_Fr1_2</idno>
+           <idno type="DLPS">A09710</idno>
+           <idno type="STC">19975</idno>
+           <idno type="ESTC">S110473</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Euesdropper, Adam</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Platoes cap : Cast at this yeare 1604, being leape-yeere</title>
+                 <author>Evesdropper, Adam</author>
+                 <imprint>
+                    <publisher>Bushell, Thomas</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>
+      <gap reason="missing" extent="2+ pages">
+         <desc>〈2+ pages missing〉</desc>
+      </gap>
+      <pb facs="2"/>
+ble <hi>Venus,</hi> till all the States smile at him, if your Glances be not too full of yron-moulds, I presume you will fling one smile at our button-Cap, and I wish no higher:</p>
+   <p>For</p>
+   <q>
+      <l>A smile is constant and doth gild each Stile:</l>
+      <l>But laughter is the Foole of euerie smile.</l>
+   </q>
+   <p>The wonders we entreat of here haue little harme in them, you may take more hurt in a Barbers shop, if you sit there fasting, than all my prognosticating Comedie, or comicke Prognostication aymes at, and if these Euents chaunce to happen, they will bee but merrie ones, for they wish il to none, but to those that wish ill to themselues, and none can iustly ex<g ref="char:EOLhyphen"/>cept at this, but those that cannot well read it, for there is great difference betweene rea<g ref="char:EOLhyphen"/>ding and reading wel, for those that read wel haue a good tongue of their owne, and spoile nothing in the spelling, and to such I cast vp my Cap, both in Paules-churchyard, Popes<g ref="char:EOLhyphen"/>head Alley, and at Temple-barre.</p>
+   <closer>
+      <signed>Yours for a Raynie day. Adam Euesdropper.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

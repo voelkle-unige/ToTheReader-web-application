@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117095_Fr1_2</idno>
+           <idno type="DLPS">B15755</idno>
+           <idno type="STC">22215a</idno>
+           <idno type="ESTC">S117095</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>L.A. Seneca the philosopher, his booke of consolation to Marcia. Translated into an English poem</title>
+                 <author>Seneca, Lucius Annaeus</author>
+                 <imprint>
+                    <publisher>Purslowe, Elizabeth</publisher>
+                    <distributor>Seile (Seale, Seely, Seyle), Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>4, 46, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eader, to offer thee a piece of <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> Englished, when the whole is Indenniz'd here, and almost eve<g ref="char:EOLhyphen"/>ry where else, might seeme ridi<g ref="char:EOLhyphen"/>culous; but if his <hi>Copious Brevity,</hi> and <hi>Powerfull Facility,</hi> two eminencies peculi<g ref="char:EOLhyphen"/>ar to <hi>Seneca,</hi> be lost, or at the best, but faintly expressed in those severall Translations, (as perhaps not to be reached by any Prose but his owne) it may be worth an houres paines to see the same in a new way, more patheti<g ref="char:EOLhyphen"/>cally rendred to the life; which in the opini<g ref="char:EOLhyphen"/>on of Iudicious men, thou wilt find in this Po<g ref="char:EOLhyphen"/>eme, provided thou doest not marre it in the reading.</p>
+   <closer>
+      <signed>PHILOPHRASTES.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

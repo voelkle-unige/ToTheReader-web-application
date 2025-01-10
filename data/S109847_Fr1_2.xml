@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109847_Fr1_2</idno>
+           <idno type="DLPS">A06931</idno>
+           <idno type="STC">17359</idno>
+           <idno type="ESTC">S109847</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The famous whore, or noble curtizan : conteining the lamentable complaint of Paulina, the famous Roman curtizan, sometimes mes. vnto the great Cardinall Hypolito, of Est. By Garuis Markham</title>
+                 <author>Markham, Gervase</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Budge, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>ENTLEMEN, I haue aduentured to bring a whore into your company, but with no bad intent, but to giue you honest Recreation, not to hurt you in purse or body: Therefore you must thinke this is a famous strange whore: for shee seekes the hurt of no man. Wrong her not then, but giue her kind welcome out of Italy: for she hath bin a meere stranger to our English na<g ref="char:EOLhyphen"/>tion till this howre. And yet Gentlemen you know some of her kindred: Therefore loue her, for their sakes whom you loue, and let us shew our selues as courteous as Ita<g ref="char:EOLhyphen"/>lians, and except her kindly, Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

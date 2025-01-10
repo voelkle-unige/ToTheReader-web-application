@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>NOBILISSIMO &amp; munificentissimo Mu∣sarum Patrono, Comiti Mareschallo.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102135_Fr1_2</idno>
+           <idno type="DLPS">A14886</idno>
+           <idno type="STC">25188</idno>
+           <idno type="ESTC">S102135</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>NOBILISSIMO &amp; munificentissimo Mu∣sarum Patrono, Comiti Mareschallo.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>In obitu summæ spei principis Henrici Iacobi vi : Serenissimi Britanniæ magnæ, Hiberniæ &amp; Galliæ Regis Filii Primogeniti Lessus. Authore Dauide Wedderburno scholæ Abredonensis moderatore</title>
+                 <author>Wedderburn, David</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>4 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>NOBILISSIMO &amp; munificentissimo <hi>Mu<g ref="char:EOLhyphen"/>sarum Patrono, Comiti</hi> Mareschallo.</head>
+   <lg>
+      <l>MAgne Comes cui iam sexcentis floruit annis</l>
+      <l>Bello &amp; caede Cami nobilitata do mus,</l>
+      <l>In Reges cui firma fides, &amp; mutua regum</l>
+      <l>Tot meritis claros gratia fulsit avos:</l>
+      <l>Accipe quas summilachrymas in funere fudi</l>
+      <l>Principis. Has alii Musa dicare vetat.</l>
+      <l>Sive quibus genitus Princeps connubia specto,</l>
+      <l>Connubia auspiciis conciliata tuis:</l>
+      <l>Sive Abredonanis Musis, Sophiaeques acrata</l>
+      <l>Dii illa intueor munera dia animi.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER</title>
+           <author>J., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119449_Fr1_3</idno>
+           <idno type="DLPS">A04613</idno>
+           <idno type="STC">14732</idno>
+           <idno type="ESTC">S119449</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER</title>
+                 <author>J., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first booke of songes or ayres of foure parts with tableture for the lute : So made that all the parts together, or either of them seuerally may be song to the lute, orpherian or viol de gambo. Composed by Robert Iones</title>
+                 <author>Jones, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 <publisher>Morley, Thomas, Assignee (with assent, etc.) of.</publisher>
+                            <publisher>Short, Peter</publisher>
+                        </imprint>
+                 <extent>48 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>
+      <add>TO THE READER</add>
+   </head>
+   <p>
+      <add>
+         <seg rend="decorInit">G</seg>ENTLEMEN, since my desire is your eares shoulde be my indifferent iudges, I cannot thinke it ne<g ref="char:EOLhyphen"/>cessary to make my trauels, or my bringing vp arguments to perswade you that I haue a good opinion of my selfe, only thus much will I saie: That I may preuent the rash iudgments of such as know me not. Euer since I practised spea<g ref="char:EOLhyphen"/>king, I haue practised singing; hauing had noe other qualitie to hinder me from the perfect knowledge of this faculty, I haue been incouraged by the warrant of diuers good iudgments, that my paines herein shall at the least procure good liking, if not delight, which yet for mine owne part I must needes feare as much as I desire, especially when I consider the ripenes of this industrious age, wherein all men ende<g ref="char:EOLhyphen"/>uour to knowe all thinges, I confesse I was not vnwilling to embrace the conceits of such gentlemen as were earnest to haue me apparel these dit<g ref="char:EOLhyphen"/>ties for them; which though they intended for their priuate recreation, neuer meaning they should come into the light, were yet content vpon in<g ref="char:EOLhyphen"/>treaty to make the incouragements of this my first adventure, whereup<g ref="char:EOLhyphen"/>pon I was almost glad to make my small skill knowne to the world: presu<g ref="char:EOLhyphen"/>ming that if my cunning failed me in the Musicke: yet the words might speake for themselues, howsoeuer it pleaseth them to account better of that, then of those. Of purpose (as it should seeme) to make me belieue I can do something; my only hope is, that seeing neither my cold ayres, not their idle ditties (as they will needes haue me call them) have hitherto beene sounded in the eares of manie: they maie chance to finde such en<g ref="char:EOLhyphen"/>tertainment, as commonlie newes doth in the world: which if I may be so happie to beare, I will not saie my next shall be better, but I will promise to take more paines to shew more points of musicke, which now I could not do, because my chiefest care was to fit the Note to the Word, till when, I must be as well content with each mans lawfull censure, as I shall be glad of some mens vndeserued favours.</add>
+   </p>
+   <closer>
+      <signed>
+         <add>R. J.</add>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

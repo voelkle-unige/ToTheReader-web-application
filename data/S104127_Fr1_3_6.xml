@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104127_Fr1_3_6</idno>
+           <idno type="DLPS">A03416</idno>
+           <idno type="STC">13540</idno>
+           <idno type="ESTC">S104127</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A curry-combe for a coxe-combe. Or Purgatories knell : In answer of a lewd libell lately foricated by Iabal Rachil against Sir Edvv. Hobies Counter-snarle: entituled Purgatories triumph ouer hell. Digested in forme of a dialogue by Nick-groome of the Hobie-stable Reginoburgi</title>
+                 <author>Hoby, Edward, Sir</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>14, 266, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <l>WHat is this <hi>Iabal,</hi> an <hi>out-landish man?</hi>
+   </l>
+   <l>A <hi>Monk,</hi> a <hi>Punck,</hi> or <hi>Pembliconian?</hi>
+   </l>
+   <l>
+      <hi>Simon Fitz-Magus</hi> calls him <hi>Iason Raguel,</hi>
+   </l>
+   <l>But he's more kin to <hi>Nabal</hi> or <hi>Pantagruel.</hi>
+   </l>
+   <l>
+      <hi>Nabal</hi> and <hi>Iabal</hi> differ but a letter,</l>
+   <l>
+      <hi>Nabal</hi> a <hi>foole,</hi> this <hi>Iabal</hi> little better.</l>
+   <l>
+      <hi>Iabal</hi> is <hi>Floud</hi> in English, <hi>Rachil Detraction,</hi>
+   </l>
+   <l>That notifies his <hi>name,</hi> this displayes his <hi>faction.</hi>
+   </l>
+   <closer>
+      <signed>Idem.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

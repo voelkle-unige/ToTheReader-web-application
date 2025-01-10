@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD REGEM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114135_Fr1_2</idno>
+           <idno type="DLPS">A03838</idno>
+           <idno type="STC">13953</idno>
+           <idno type="ESTC">S114135</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD REGEM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Regi suo, post bis septennium in patriam ex Angliâ redeunti, Scotiæ gratulatio</title>
+                 <author>Hume, David</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>AD REGEM.</head>
+   <p>NOn potui mihi temperare, quin Musam sem<g ref="char:EOLhyphen"/>per tenuem, nunc effaetam suscitarem▪ quae sa<g ref="char:EOLhyphen"/>lutem, aduentanti tibi, diceret, rarum patriae, ra<g ref="char:EOLhyphen"/>rum orbis lumen▪ &amp; hunc Scotiae (sane tuae) ani<g ref="char:EOLhyphen"/>mum testaretur. Dabunt alii meliora, &amp; danto: me<g ref="char:EOLhyphen"/>liori animo nemo.</p>
+   <closer>
+      <signed>
+         <hi>Tuae Majest. Subd. Obs.</hi> DAVID HVMIVS, <hi>THEAGRIVS.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

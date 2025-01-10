@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103577_Fr1_3</idno>
+           <idno type="DLPS">A09757</idno>
+           <idno type="STC">20021</idno>
+           <idno type="ESTC">S103577</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The pathway to perfection : A sermon preached at Saint Maryes Spittle in London on VVednesday in Easter weeke. 1593. By Thomas Playfere, Doctor of Diuinitie</title>
+                 <author>Playfere, Thomas</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>Wise (Wythes), Andrew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 </imprint>
+                 <extent>7, 119 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, the senten<g ref="char:EOLhyphen"/>ces
+are so framed, as thou
+maist reade them, with<g ref="char:EOLhyphen"/>out
+any regarde of the
+marginal notes, as though
+they were not sette downe
+at all. Doe therefore heerein as thou shalt
+thinke best. The quotations which are
+marked without a parenthesis, as thus, <hi>a b
+c,</hi> were all vttered when the Sermon was
+preached. The rest, which are marked
+with a parenthesis, as thus, <hi>(a) (b) (c),</hi>
+were thought conuenient to bee printed,
+though, not the quotations themselues, but
+only the matter contained in thē was prea<g ref="char:EOLhyphen"/>ched.
+<hi>Farewell.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

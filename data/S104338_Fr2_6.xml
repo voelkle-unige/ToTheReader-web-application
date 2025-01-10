@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the friendly Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104338_Fr2_6</idno>
+           <idno type="DLPS">A03927</idno>
+           <idno type="STC">14035</idno>
+           <idno type="ESTC">S104338</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the friendly Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Reasons for refusal of subscription to the booke of common praier : vnder the hands of certaine ministers of Devon, and Cornwall word for word as they were exhibited by them to the Right Reverend Father in God William Coton Doctor of Divinitie L. Bishop of Exceter. VVith an amsvvere [sic] at severall times returned them in publike conference and in diverse sermons vpon occasion preached in the cathedrall church of Exceter, by Thomas Hutton, Bachiler of Divinitie &amp; fellow of St. Iohns Coll. in Oxon. And now published at the very earnest intreatie of some especiall friends for a farther contentment of other the Kings Maiesties good and loyall subiects</title>
+                 <author>Hutton, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1605</date>
+                 <publisher>Barnes, Joseph.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>200 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <head>The Printer to the friendly Reader.</head>
+   <p>Hereafter in this booke Pag 156. followeth the AP<g ref="char:EOLhyphen"/>PENDIX or Compendious briefe which we cal <hi>An An<g ref="char:EOLhyphen"/>swer</hi> to the additionals. Wherfore we intreat thee good Reader to take euery Page after the 156. &amp; so forward to be to that purpose, though we haue not set down that same title in these expresse termes, nor now cannot wel, the Booke being as it was already finished before wee did remember our selues hereof.</p>
+</div>
+        </body>
+  </text>
+</TEI>

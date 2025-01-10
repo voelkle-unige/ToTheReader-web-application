@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116593_Fr1_4</idno>
+           <idno type="DLPS">A02926</idno>
+           <idno type="STC">13065</idno>
+           <idno type="ESTC">S116593</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The preacher, or Methode of preaching, vvrytten in Latine by Nicholas Hemminge, and translated into Englishe by I.H. Very necessarie for all those that by the true preaching of the word of God, labour to pull downe the Sinagoge of Sathan, and to buylde vp the Temple of God</title>
+                 <author>Hemmingsen, Niels</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>8, 68 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>I haue to desire thee (Christian Reader) to beare with some faultes escaped in the Printing, y<seg rend="sup">t</seg> which are these as followeth.</p>
+   <p>Fol. 4. pag. 2. lin. 12. for therfore, reade there are. Fol. 7. pag, 1. lin. 3. Cathechists, read Cathechesis. Fol. 39. pa. 1. lin. 27. for fractificat, reade <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>ructificat.</p>
+</div>
+        </body>
+  </text>
+</TEI>

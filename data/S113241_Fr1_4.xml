@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Bookes Content.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113241_Fr1_4</idno>
+           <idno type="DLPS">A14806</idno>
+           <idno type="STC">25106a</idno>
+           <idno type="ESTC">S113241</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Bookes Content.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cures of the diseased, in remote regions : Preventing mortalitie, incident in forraine attempts, of the English nation</title>
+                 <author>Wateson, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poetical_exposition_of_books_contents">
+   <pb facs="4"/>
+   <head>The Bookes Content.</head>
+   <lg>
+      <l>The burning Feuer, calde the <hi>Calenture,</hi>
+      </l>
+      <l>The aking <hi>Tabardilla</hi> pestilent,</l>
+      <l>Th' <hi>Espinlas</hi> prickings, which men do endure,</l>
+      <l>
+         <hi>Cameras de Sangre,</hi> Fluxes violent,</l>
+      <l>Th' <hi>Erizipila,</hi> swelling the Pacient,</l>
+      <l>The <hi>Tin̄oso,</hi> which we the <hi>Scuruey</hi> call,</l>
+      <l>Are truly here describ'd, and cured all.</l>
+   </lg>
+   <epigraph>
+      <q xml:lang="spa">
+         <l>Si Dios no es adorado,</l>
+         <l>nunca seras bien curado.</l>
+      </q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

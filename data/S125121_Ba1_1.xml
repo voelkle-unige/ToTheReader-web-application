@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Publisher'S Advertisement]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125121_Ba1_1</idno>
+           <idno type="DLPS">A72833</idno>
+           <idno type="STC">16854.5</idno>
+           <idno type="ESTC">S125121</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Publisher'S Advertisement]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rules of the Englishe sodalitie, of the immaculate conception of the mostglorious [sic] virgin Mary Mother of God : in the Englishe colledge of the Society of Iesus in Louaine</title>
+                 <imprint>
+                    <publisher>Jaye (Jaey), Henry</publisher>
+                    <pubPlace>Belgium--Mechelen</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>107, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publishers_advertisement">
+   <pb facs="55"/>
+   <p>SOme fewe Chapters of the Roman Copie con<g ref="char:EOLhyphen"/>cerning certaine particular officers, &amp; some kinde of penaunces, &amp; expences, (not makinge for our pre<g ref="char:EOLhyphen"/>sent purpose) are in this edition omitted, kept not<g ref="char:EOLhyphen"/>withstandinge by the Se<g ref="char:EOLhyphen"/>cretarie to be printed, &amp; practised when it shalbe iudged conuenient.</p>
+   <pb facs="55"/>
+</div>
+        </body>
+  </text>
+</TEI>

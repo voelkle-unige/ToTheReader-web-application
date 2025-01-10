@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice About Abbreviations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116185_Fr1_6</idno>
+           <idno type="DLPS">A11090</idno>
+           <idno type="STC">21360</idno>
+           <idno type="ESTC">S116185</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice About Abbreviations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The post of the vvorld : VVherein is contayned the antiquities and originall of the most famous cities in Europe. With their trade and traficke. With their wayes and distance of myles, from country to country. With the true and perfect knowledge of their coynes, the place of their mynts: with al their martes and fayres. And the raignes of all the kinges of England. A booke right necessary and profitable, for all sortes of persons, the like before this tyme not imprinted</title>
+                 <author>Verstegan, Richard</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 </imprint>
+                 <extent>24, 112 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Calendars, almanacs and prognostications</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_about_abbreviations">
+   <p>
+      <pb facs="5"/>
+      <seg rend="decorInit">G</seg>ENTLE Reader, I thought it good, to ad<g ref="char:EOLhyphen"/>uertise thée, y<seg rend="sup">e</seg> I haue orderly marked in the margent, by certaine letters, whereby thou shalt know which are Cities, Villa<g ref="char:EOLhyphen"/>ges, or houses of Religion, lying in the way. (as thus) The letter <hi>C</hi> for a Ci<g ref="char:EOLhyphen"/>tie: the letter <hi>M</hi> for a Market Town: <hi>K</hi> for a Kloyster: and the letter <hi>V</hi> for a Village, &amp; so foorth. And on the other side the Myles from one place to an o<g ref="char:EOLhyphen"/>ther: and for the halfe Myle, this let<g ref="char:EOLhyphen"/>ter. <hi>d.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

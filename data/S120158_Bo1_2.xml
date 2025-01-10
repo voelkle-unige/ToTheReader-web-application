@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD CANDIDVM LECTOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120158_Bo1_2</idno>
+           <idno type="DLPS">A05293</idno>
+           <idno type="STC">15438</idno>
+           <idno type="ESTC">S120158</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD CANDIDVM LECTOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Matthiæ Leij, Aruillarij vbij Germani, liber De triumphata barbarie</title>
+                 <author>Leius, Matthias</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_to_the_reader">
+   <pb facs="7"/>
+   <head>AD CANDIDVM LECTOREM.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Agnam horum epigrammatum meorum par<g ref="char:EOLhyphen"/>tem, candide lector, ad quinque libros de <hi>Regina Pecunia,</hi> per me conscriptos referen<g ref="char:EOLhyphen"/>dam esse velim scias. Nolim insuper tibi reliquam esse occasionem admirandi, qua de causa elucubrationis meae laboribus simul omnibus publici iuris beneficio vtendi fruendi potestatem non faciam? Vniuersum opus flagitat ingenuae indolis genium, promptae, &amp; quasi spontaneae voluntatis Mecaenatem. Inuito non vult obtrudi. Renuit frequentare habitaculum ingra<g ref="char:EOLhyphen"/>titudinis. Non dignatur esse domesticum inhumani<g ref="char:EOLhyphen"/>tatis. In turpes auaritiae sordes inuehitur. Euehit en<g ref="char:EOLhyphen"/>comijs honestos liberalitatis mores. Quapropter tunc demum lucis erit alumnum, quando anima Munifi<g ref="char:EOLhyphen"/>centiae vltro assumpserit adoptiuum quod omni<g ref="char:EOLhyphen"/>bus seculis futurum seruum ex vtero in<g ref="char:EOLhyphen"/>tellectus mei procreatum est liberum. <hi>Vale.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ An aduertysement.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1544</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1475_Ba1_1</idno>
+           <idno type="DLPS">A18545</idno>
+           <idno type="STC">508.5</idno>
+           <idno type="ESTC">S1475</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ An aduertysement.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A pronostication [sic] for the yere of our Lord God M.CCCCC.xliiii practysed by the right expert doctour in astronomy and phisycke Maister Cornelys Scute</title>
+                 <author>Scute, Cornelys</author>
+                 <imprint>
+                    <distributor>Grafton, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1544</date>
+                 <publisher>Lant, Richard.</publisher>
+                            <publisher>Telotson (Tylotson), William</publisher>
+                        </imprint>
+                 <extent>46 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Calendars, almanacs and prognostications</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <pb facs="21"/>
+   <head>¶ An aduertysement.</head>
+   <p>PTolome sayth in the C. xx. conclusyons / on this wyse Enterprise not with iern to open any membre whan the Mone is in any Signe that hath dominion of that membre: By the which wor<g ref="char:EOLhyphen"/>des / the Philosopher wyl haue vs to obserue the course of the Mone in pourgynge of the bodyes / by<g ref="char:EOLhyphen"/>cause that the operation of the mo<g ref="char:EOLhyphen"/>ne is to moysten the bodyes, This is parceyued effectually in the greued membre that is subiect vnto the Sygne where in the mo<g ref="char:EOLhyphen"/>ne is vpon any day / where by it fo<g ref="char:EOLunhyphen"/>loweth / that it is not lefull to opē that membre / as longe as the Moone is in that Sygne F. ii.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118509_Fr1_2</idno>
+           <idno type="DLPS">A13753</idno>
+           <idno type="STC">24050.5</idno>
+           <idno type="ESTC">S118509</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discouerie of the treasons practised and attempted against the Queenes Maiestie and the realme : by Francis Throckmorton, who was for the same arraigned and condemned in Guyld Hall, in the citie of London, the one and twentie day of May last past</title>
+                 <imprint>
+                    <publisher>Barker, Christopher</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Here is in this short discourse de<g ref="char:EOLhyphen"/>liuered vnto thee (gentle reader) a true report of the treasons and practises of <hi>Francis Throckmorton,</hi> &amp; his cōplices against the Queenes Maiestie and the Realme: which comming to my handes by chance from a gen<g ref="char:EOLhyphen"/>tleman, to whom it was sent into the Countrey, I haue presumed to cōmit the same to the print, to the ende that such as in opinion and conceite are not satisfied, touching the matters proued a<g ref="char:EOLhyphen"/>gainst him, and the course of proceeding helde with him, might by the sight thereof (if trueth and reason may perswade them) bee resolued of all such doubtes and scruple as haue risen by the variable reportes made of the qualitie of his offences, and the maner of dealing vsed towards him: for the better knowledge whereof, I referre thee to the declaration fol<g ref="char:EOLhyphen"/>lowing, and so commit thee to God.</p>
+</div>
+        </body>
+  </text>
+</TEI>

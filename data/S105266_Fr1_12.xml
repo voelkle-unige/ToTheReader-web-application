@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To PANDORA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105266_Fr1_12</idno>
+           <idno type="DLPS">A19526</idno>
+           <idno type="STC">5956</idno>
+           <idno type="ESTC">S105266</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To PANDORA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The amorose songes, sonets, and elegies: of M. Alexander Craige, Scoto-Britane</title>
+                 <author>Craig, Alexander</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="10"/>
+   <head>To PANDORA.</head>
+   <p>
+      <seg rend="decorInit">T</seg>HE very same Sonets which a<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> some time pleased you (modest <hi>Pandora</hi>) with much more cour<g ref="char:EOLhyphen"/>tesie and honour, then they, or I, any way deserued, to receiue and reade, I haue (but without alteration or change) heere placed and reduced in a solide bodie. When <hi>Babilon</hi> was besidged by <hi>Da<g ref="char:EOLhyphen"/>rius,</hi> the number of Women was so great, the Captaine commaunded euery man to choose one; which beeing accordingly per<g ref="char:EOLhyphen"/>formed, the rest were put to death, that their victuals might the longer endure. Hadst thou been there, and I Captaine of the <hi>Babilonic,</hi> armie, thou shouldst been first of all thy sexe se<g ref="char:EOLhyphen"/>lected to been saued. Pardon (peerelesse <hi>Pan<g ref="char:EOLhyphen"/>dora</hi>)
+<pb facs="11"/>
+the perseuerance of my presumption, in still affecting thee: and for my sake peruse these Sonets, which may happily continue some dayes and yeares after mee: That since I could not be beloued being on-life, I may with des<g ref="char:EOLhyphen"/>perat <hi>Herostratus,</hi> be famous after death: Till when (as <hi>Socrates</hi> sayd) as I may, I am</p>
+   <closer>
+      <signed>Thy vnalterable man,</signed>
+   </closer>
+   <postscript>
+      <l>
+         <hi>Ah nùnquam potuj lachrymis, aut fletibus vllis,</hi>
+      </l>
+      <l>
+         <hi>Efficere vt nobis mitior ipsa fores:</hi>
+      </l>
+      <l>
+         <hi>Hoc nocuit misero seruisse fideliter vnj,</hi>
+      </l>
+      <l>
+         <hi>Hoc nocuit tanta semper amasse fide.</hi>
+      </l>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

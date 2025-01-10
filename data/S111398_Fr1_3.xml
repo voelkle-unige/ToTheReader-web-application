@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Avarum O sorem huiusce libelli &amp; rosorem.</title>
+           <author>Edmonds, Michael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111398_Fr1_3</idno>
+           <idno type="DLPS">A13526</idno>
+           <idno type="STC">23818</idno>
+           <idno type="ESTC">S111398</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Avarum O sorem huiusce libelli &amp; rosorem.</title>
+                 <author>Edmonds, Michael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A whippe for worldlings or The centre of content</title>
+                 <author>Taylor, Stephen</author>
+                 <imprint>
+                    <pubPlace/>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>24 pages, plates, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Ad Avarum O sorem huiusce libelli &amp; rosorem.</head>
+   <l>FAsciculum <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> Florum (Diodore) paravit</l>
+   <l>Dic mihi, quid sentis? non probo. Sentis inest.</l>
+   <l>Dic, vbi te pungit? digitos. Mentiris inepte.</l>
+   <l>Non digitos pungit, pungit at hic animum.</l>
+   <l>Tu curas depone tuas, quae sunt magè sentes,</l>
+   <l>Et rosa tunc redolens, quod modò sentis, erit.</l>
+   <closer>
+      <signed>
+         <hi>Authori Amico obtulit</hi> Mich: Edmonds.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

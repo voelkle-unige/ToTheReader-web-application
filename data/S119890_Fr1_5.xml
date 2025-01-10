@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In candidissimum Doctorem de∣functum, melos threnothry∣ambeuticum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119890_Fr1_5</idno>
+           <idno type="DLPS">A15081</idno>
+           <idno type="STC">25380</idno>
+           <idno type="ESTC">S119890</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In candidissimum Doctorem de∣functum, melos threnothry∣ambeuticum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The orthodox faith and vvay to the Chvrch explaned and ivstified : in answer to a popish treatise, entituled, White died blacke; wherein T.W. p. in his triple accusation of D. White for impostures, vntruths, and absurd illations, is proued a trifler: and the present controuersies betweene vs and the Romanists are more fully deliuered and cleared. By Francis White Bachelour in Diuinitie, and elder brother of Doctor Iohn White</title>
+                 <author>White, Francis</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Barrett, William.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>44, 405, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="20"/>
+   <head>In candidissimum Doctorem de<g ref="char:EOLhyphen"/>functum, melos threnothry<g ref="char:EOLhyphen"/>ambeuticum.</head>
+   <lg>
+      <l>EN hic effigies albi Doctoris, amicti</l>
+      <l>Vndique vestitu niueo, pietate, nitore</l>
+      <l>Innocuae vitae, candenti lumine verae</l>
+      <l>Virtutis, vultusque animique albedine summa.</l>
+      <l>Quem solae tres lanificae potuere sorores</l>
+      <l>Obscurare alius candorem non maculauit:</l>
+      <l>Fucatus color vllus. Inexorabile fatum,</l>
+      <l>Nec planè albatum potuit nigrare colorem.</l>
+      <l>Nam virtus candet post funus: amictus &amp;<note n="*" place="margin">Amicti stolis albis stabant in conspectu Agni, &amp;c. Apocalyp. c. 7. <gap reason="illegible" resp="#keyers" extent="1 letter">
+               <desc>•</desc>
+            </gap>. 9.13.14. &amp; chap. 3. v. 4.5. &amp;c. 6. v. 11.</note> alba,</l>
+      <l>Veste hic, sidereo terras mutauit olympo.</l>
+      <l>
+         <note n="*" place="margin">Prior ex lacte Iunonis. Coel. Rhodigin. p. 238. Describitur &amp; apud Ouidium. l. 1. Met. Aristot. numerat illam inter meteora apparentia. Posterior ista ex lacteo scriptorum rore candidissi. Do<g ref="char:EOLhyphen"/>ctor. qui in coelum ascendit, &amp;c. Necipse immerito via appellatur lactea, qui lacteum illum scrip<g ref="char:EOLhyphen"/>sit librum, qui inscribitur, Lactea ad veram Ecclesiam Via, &amp;c.</note>Altera candescit coelo via lactea: mortis</l>
+      <l>Non valuit nubes hanc denigrare secundam.</l>
+   </lg>
+   <lg>
+      <l>—Sic, vndique candidus, ille</l>
+      <l>Dulcia defecta modulatur carmina lingua,</l>
+      <l>Funeris ipse sui cantator, cygnus.—</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>FRANCIS WHITE</hi> Doctoris nepos, defleuit.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

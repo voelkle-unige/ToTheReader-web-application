@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE TRANSLATOVR TO THE READER.</title>
+           <author>S., V.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106182_Fr1_4</idno>
+           <idno type="DLPS">A16631</idno>
+           <idno type="STC">3538.5</idno>
+           <idno type="ESTC">S106182</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE TRANSLATOVR TO THE READER.</title>
+                 <author>S., V.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Learned: Tico Brahæ his astronomicall coniectur, of the new and much admired [star] which appeared in the year 1572</title>
+                 <author>Brahe, Tycho</author>
+                 <imprint>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas.</publisher>
+                            <publisher>Nealand (Nayland), Samuel</publisher>
+                        </imprint>
+                 <extent>12, 26, 2 pages, illustrations (metalcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="6"/>
+   <head>THE TRANSLATOVR TO THE READER.</head>
+   <lg>
+      <l>THis <hi>Books</hi> like to a <hi>Commet</hi> will appeare</l>
+      <l>For to be gaz'd at in the following yeare,</l>
+      <l>Which though * in time perhaps it come behind,<note place="margin">Tempore poste<g ref="char:EOLhyphen"/>rior.</note>
+      </l>
+      <l>Yet heere the Reader shall most amply find</l>
+      <l>Renowned TYCHO's owne <hi>Prognostication</hi>
+      </l>
+      <l>Of the new <hi>Starre</hi> in this same new <hi>Translation.</hi>
+      </l>
+      <l>Whereof a Learned and most grave <hi>Divine</hi>
+      </l>
+      <l>Hath made some observations for this <hi>Time.</hi>
+      </l>
+      <l>But wee make TYCHO speake even word forword.</l>
+      <l>Yet with that leave which * HORACE doth afford,<note place="margin">Nec verbum verbo curabis reddere, fidus Interpres.</note>
+      </l>
+      <l>Who thinkes it merits a Translators name</l>
+      <l>To change the wordes, and yet the sence retaine,</l>
+      <l>For this same <hi>Starre</hi> it selfe before did shroud</l>
+      <l>Within the Latine, hid as in a Cloud,</l>
+      <l>But now it is unvayl'd, and heere in sight</l>
+      <l>It shineth forth againe, as cleere and bright</l>
+      <l>As when it first appeared in the <hi>Skie,</hi>
+      </l>
+      <l>And was the object of each wandring <hi>Eye.</hi>
+      </l>
+      <l>* <hi>Astrologie</hi> is but the speech of <hi>Starres,</hi>
+         <note place="margin">
+            <hi>Astrologie</hi> is a word compoun<g ref="char:EOLunhyphen"/>ded of <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap> and <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap> sig<g ref="char:EOLhyphen"/>nifying; The speech of the <hi>Starres.</hi> Or Time.</note>
+      </l>
+      <l>Which doe fore-tell vs both of <hi>Peace</hi> and <hi>Warres,</hi>
+      </l>
+      <l>And by this <hi>Starre</hi> great TYCHO did intend</l>
+      <l>To shew the World was comming to an end.</l>
+      <l>It was no nine dayes wonder, but, shall last</l>
+      <l>Vntill old * <hi>Cronos</hi> with his Sythe be past,</l>
+      <l>And all thinges bee into a <hi>Chaos</hi> hurl'd,</l>
+      <l>And that an end doe come upon the World:</l>
+      <l>The thought whereof, should still a motive bee</l>
+      <l>To make vs thinke on our Eternitie.</l>
+   </lg>
+   <epigraph>
+      <q>Mens super astra valet.</q>
+   </epigraph>
+   <closer>
+      <signed>Interp: V. V. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

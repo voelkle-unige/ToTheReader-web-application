@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3894_Ba1_1</idno>
+           <idno type="DLPS">A21761</idno>
+           <idno type="STC">8068</idno>
+           <idno type="ESTC">S3894</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>To the iustices of peace, or cheef gentlemen of our parishes : and all other officers, toward the furtherance of this good woorke</title>
+                 <author>England and Wales, Sovereign (1558-1603 : Elizabeth I)</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 <publisher>Purfoot, Thomas 1.</publisher>
+                            <publisher>Purfoot, Thomas 1</publisher>
+                        </imprint>
+                 <extent>1 sheet (1 page), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <p>Here is to be noted, that these Letters Patentes are to be laied vp, and kept fom yere to yere, vntill the yeres herein mentioned bee ex<g ref="char:EOLhyphen"/>spired. And once euery yere to be read in your Parishe Churche, and that when the Bishop or Archdeacon shall commaunde the same, or the Collectour.</p>
+</div>
+        </body>
+  </text>
+</TEI>

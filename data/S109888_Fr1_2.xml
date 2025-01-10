@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Drayton, Michael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109888_Fr1_2</idno>
+           <idno type="DLPS">A73861</idno>
+           <idno type="STC">7191</idno>
+           <idno type="ESTC">S109888</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Drayton, Michael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The battaile of Agincourt : Fought by Henry the fift of that name, King of England, against the whole power of the French: vnder the raigne of their Charles the sixt, anno Dom. 1415. The miseries of Queene Margarite, the infortunate wife, of that most infortunate King Henry the sixt. Nimphidia, the court of Fayrie. The quest of Cinthia. The shepheards Sirena. The moone-calfe. Elegies vpon sundry occasions. By Michaell Drayton, Esquire</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Lee, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>12, 908, that is 308 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">T</seg>O you those No<g ref="char:EOLhyphen"/>blest of Gentlemen of these Renow<g ref="char:EOLhyphen"/>ned Kingdomes of Great <hi>Britaine:</hi> who in these declining times, haue yet in your braue bosomes the sparkes of that sprightly fire, of your couragious Ancestors; and to this houre retaine the seedes of their magnanimitie and Great<g ref="char:EOLhyphen"/>nesse, who out of the vertue of your mindes, loue and cherish neglected Poesie, the delight of
+<pb facs="3"/>
+Blessed soules, And the language of Angels. To you are these my Poems dedicated.</p>
+   <closer>
+      <signed>By your truely affectioned Seruant, MICHAELL DRAYTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

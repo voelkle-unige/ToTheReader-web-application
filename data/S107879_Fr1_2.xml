@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE LEARNED READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107879_Fr1_2</idno>
+           <idno type="DLPS">A18711</idno>
+           <idno type="STC">5217</idno>
+           <idno type="ESTC">S107879</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE LEARNED READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Miscellanea philo-theologica, or, God, &amp; man : A treatise compendiously describing the nature of God in his attributes, with a lively pourtraiture of his wisedome in ordering, and disposing of the celestiall, and terrestriall bodies. Containing much variety of matter theologicall, and philosophicall; wherein many secrets in scripture, and in nature, are unbowelled, with solid proofes, and apt applications singular for brevity, and perspicuity. By Henry Church</title>
+                 <author>Church, Hen (Henry)</author>
+                 <imprint>
+                    <distributor>Rothwell, John 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 <publisher>Norton, John 2.</publisher>
+                            <publisher>Okes (Oakes), John</publisher>
+                        </imprint>
+                 <extent>12, 280, 83, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE LEARNED READER.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Humbly desire your Charitable Constru<g ref="char:EOLhyphen"/>ction of my poore en<g ref="char:EOLhyphen"/>deavours: being willing to be convinced, and reformed. I confesse my impotencie, and desire my errours may be purged, and all truths allow<g ref="char:EOLhyphen"/>ed.</p>
+</div>
+        </body>
+  </text>
+</TEI>

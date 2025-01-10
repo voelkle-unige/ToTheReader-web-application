@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Lo, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120194_Ba4_2</idno>
+           <idno type="DLPS">A68126</idno>
+           <idno type="STC">12635b</idno>
+           <idno type="ESTC">S120194</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Lo, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vvorks of Ioseph Hall Doctor in Diuinitie, and Deane of Worcester : With a table newly added to the whole worke</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>10, 468, 6, 13, 3, 471-960, 3, 894-967, 7, 1043-1208, 6, 1231-1397, 29 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <opener>
+      <salute>Gentle READER,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>HE end of making <hi>Tables</hi> is not that thereby men might bee made <hi>Truants,</hi> but it is rather to <hi>helpe</hi> to those memories that are weake; or whose <hi>occasions</hi> are so great, as that they cannot intend to turne ouer such a <hi>Volume</hi> as <hi>this</hi> (though worth thy <hi>dayly</hi> and <hi>diligent reading</hi> and <hi>reuiewing.</hi>) For the fur<g ref="char:EOLhyphen"/>ther benefiting of thy selfe therefore take to thee <hi>this Rule.</hi>
+   </p>
+   <p>Where euer thou findest any <hi>Obseruation</hi> or <hi>Aphorisme,</hi> there (if thou wilt make any further vse) cast thine eyes on that which goes before, or followes after, and thou shalt finde it offering thee both excellent comfort, and a furthering of thine inuention, to the benefiting both of <hi>thy selfe,</hi> and <hi>others.</hi>
+   </p>
+   <p>And this I will promise thee further; that if God shall lend <hi>this Mellifluous Bernard</hi> of Our Times the time of <hi>perfecting His Contemplations,</hi> thou shalt haue in an other <hi>Vo<g ref="char:EOLhyphen"/>lume</hi> as compleat a <hi>Table</hi> as <hi>this,</hi> for finding euery particular <hi>word</hi> or <hi>Sentence.</hi>
+   </p>
+   <p>And because there is feare on the <hi>Buyers</hi> part, that there shall bee still additions of his <hi>Contemplations,</hi> whereby he is discouraged from buying this <hi>Volume,</hi> let me assure thee that it is the <hi>Authors</hi> intention to set out no more parts thereof, vntill it riseth to a complete <hi>second Tome.</hi>
+   </p>
+   <p>But content thy selfe with <hi>this</hi> that thou hast, and pray to God with mee for the life and health of this <hi>Great Light,</hi> and <hi>shining Lampe</hi> of <hi>our Church,</hi> and I doubt not but he will giue good satisfaction vnto those that are industrious and ingenious. And so I rest.</p>
+   <closer>
+      <signed>Thine as farre as thou wishest well to this Workman and his Labours, Ro. Lo.</signed>
+   </closer>
+   <pb facs="725"/>
+</div>
+        </body>
+  </text>
+</TEI>

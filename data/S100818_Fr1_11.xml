@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Balliolus, Iacobu</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100818_Fr1_11</idno>
+           <idno type="DLPS">A03932</idno>
+           <idno type="STC">1404</idno>
+           <idno type="ESTC">S100818</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Balliolus, Iacobu</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Guil: Barclayi amoeniorum artium, &amp; medicinæ doctoris, judicium, de certamine G. Eglisemmii cum G. Buchanano, pro dignitate paraphraseos Psalmi CIIII : Non violandi manes. Adjecta sunt, Eglisemmii ipsum iudicium, ut editum fuit Londini, typis Eduardi Aldæi, ann. Dom. 1619: et in gratiam studiosæ iuventutis, ejusdem Psalmi elegans paraphrasis Thomae Rhaedi</title>
+                 <author>Barclay, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>32, 61, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Discourses on government and political theory</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>
+      <pb facs="11"/>
+BEza, et Turnebus, Scaliger pat<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>r, at{que} Ioseph<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Te, Buchanane, super sydera laude loca<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>t.</l>
+   <l>Frustrà igitur verb<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>s famam detraxerit ullus</l>
+   <l>Nec Graio tinctis Ausonióve sale.</l>
+   <l>Quid Stephanum referam? Tastaeum? quidve Me<g ref="char:EOLhyphen"/>lissum?</l>
+   <l>Quidve Europa alios quos spatiosa tenet?</l>
+   <l>Queis erit aeternùm Buchanam nomen honestum,</l>
+   <l>Fulgens Phoebaeis ob meritum titulis.</l>
+   <l>Hi Buchanano omne: vivo numer antur amici,</l>
+   <l>Dum{que} valuit foel<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>x reddere dona m<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>nu.</l>
+   <l>At Barclaie manes o<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>itum post fidus amicus,</l>
+   <l>Abstergens nitido <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>imina falsa stylo.</l>
+   <l>Nec tantùm egregiu<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>sentit tua m<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>nera vates:</l>
+   <l>Sed cara avertis delecus à patria.</l>
+   <l>Romulus &amp; Cossus, venon Marcellus opim<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>s</l>
+   <l>Ornati spoliis te potira gerunt.</l>
+   <l>Tollica perpetuo domus<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>st celebranda canore</l>
+   <l>Ex qua tam docti prsiliere viri.</l>
+   <closer>
+      <signed>Iacobu Balliolus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

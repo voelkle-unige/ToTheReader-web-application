@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Eiusdem aliud ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118019_Fr1_7</idno>
+           <idno type="DLPS">A14710</idno>
+           <idno type="STC">25013</idno>
+           <idno type="ESTC">S118019</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Eiusdem aliud ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An hundred, threescore and fiftene homelyes or sermons, vppon the Actes of the Apostles, written by Saint Luke: made by Radulpe Gualthere Tigurine, and translated out of Latine into our tongue, for the commoditie of the Englishe reader. Seene and allowed, according to the Queenes Maiesties iniunctions</title>
+                 <author>Gwalther, Rudolf</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 </imprint>
+                 <extent>56, 904, 915-919, 3 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <head>Eiusdem aliud ad Lectorem.</head>
+      <l>Quae <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> fuerint Apostolorum</l>
+      <l>Qui ritus veteres apud{que} Patres,</l>
+      <l>Et quot: discere Lector, est ne cordi?</l>
+      <l>Huc adsis, auido legantur ore</l>
+      <l>Haec quae scripta vides pererudita,</l>
+      <l>Sacris eruta scripta quae{que} libris,</l>
+      <l>Aut è Patribus eruta Orthodoxis.</l>
+      <l>Quae multo peperit tibi labore</l>
+      <l>Gualtherus, pietate clarus at{que}</l>
+      <l>Doctrina, patriae decus, suae{que}</l>
+      <l>Praefulgens, celebres habendus inter</l>
+      <l>Scriptores: potes id negare Liuor?</l>
+      <l>Laudes quid memorare pergo, plures?</l>
+      <l>Vino vendibili haud opus virente</l>
+      <l>Est suspensa hedera: Liber loquatur.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

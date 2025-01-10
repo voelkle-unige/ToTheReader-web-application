@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120820_Ba1_1</idno>
+           <idno type="DLPS">A08582</idno>
+           <idno type="STC">18899b</idno>
+           <idno type="ESTC">S120820</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The circles of proportion and the horizontal instrument : The former shewing the maner how to work proportions both simple and compound: and the ready and easy resolving of quæstions both in arithmetic, geometrie, &amp; astronomie: and is newly increased with an additament fo navigation. All which rules may also be wrought with the penne by arithmetic, and the canon of triangles. The later teaching how to work most quæstions, which may be performed by the globe: and to delineat dialls upon any kind of plaine. Invented, and written in Latine by W.O. Translated into English, and set out for the public benefit, by William Forster</title>
+                 <author>Oughtred, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Bourne, Nicholas.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>8, 152, 8 pages, 3 leaves of plates, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="86"/>
+   <head>The Translator to the Reader.</head>
+   <p>
+      <hi>Gentle Reader, by reason of my absence, whilest this Booke was in the Presse, it is no meruaile though some faults haue escaped, which you will be pleased to amend thus.</hi>
+   </p>
+   <p>
+      <hi>Pag.</hi> 14 <hi>lin.</hi> 14, 2.0413927. <hi>Pag.</hi> 15. <hi>lin.</hi> 1, <hi>the</hi> first terme of a progression <hi>Pag.</hi> 17, <hi>lin</hi> 17, the Antecedent arme <hi>Pag.</hi> 18 <hi>lin.</hi> 19, terme giuen from <hi>Pag.</hi> 19 <hi>lin.</hi> 11, in the fift circle <hi>Pag.</hi> 20 <hi>lin.</hi> 19, lye hid. As in this <hi>lin.</hi> 20 D. Rat. mul<seg rend="sup">ta</seg>—1 in R. <hi>lin.</hi> 28, <hi>and</hi> Rat mul<seg rend="sup">ta</seg> in R in α—R in α,</p>
+   <p>
+      <hi>Also in the aequations</hi> pag. 21, 24, 26 <hi>which haue a magni<g ref="char:EOLhyphen"/>tude equall to a fraction: the same magnitude together with the note of equality, ought to be set right against the line that is betweene the Numerator and Denominator of the fraction, as in these,</hi>
+      <gap reason="math">
+         <desc>〈 math 〉</desc>
+      </gap>. And <gap reason="math">
+         <desc>〈 math 〉</desc>
+      </gap>. And so of the rest.</p>
+   <p>
+      <hi>Pag.</hi> 25 <hi>lin.</hi> 20, <hi>arme at</hi> 71⌊382: <hi>Pag.</hi> 26 <hi>lin.</hi> 16, Ratioci<g ref="char:EOLhyphen"/>nation. <hi>Pag.</hi> 29 <hi>lin.</hi> 29. number of figures <hi>Pag.</hi> 35 <hi>lin.</hi> 5, 61 49/144 <hi>Pag.</hi> 36 <hi>lin.</hi> 11, 17⌊48 <hi>lin.</hi> 14, 17⌊48 · 3⌊26 +. <hi>Pag.</hi> 44 <hi>lin.</hi> 8, is a roofe <hi> line</hi> 26, therof <hi>Pag.</hi> 94 <hi>lin.</hi> 21, a circle, or 90 degrees. <hi>Pag.</hi> 100 <hi>lin.</hi> 3, and then the side DC <hi>Pag.</hi> 113 <hi>lin.</hi> 7, delineation <hi>Pag.</hi> 127 <hi>lin.</hi> 1, the Sunne goeth not <hi>Pag.</hi> 131 <hi>lin.</hi> 19, in the paper <hi>Pag.</hi> 132 <hi>lin.</hi> 10, to the tangent of the arch of <hi>Pag.</hi> 143 <hi>lin.</hi> 3, in North reclining, and South inclining <hi>Pag.</hi> 152 <hi>lin.</hi> 30 North Dyall declining Eastward 35 deg.</p>
+</div>
+        </body>
+  </text>
+</TEI>

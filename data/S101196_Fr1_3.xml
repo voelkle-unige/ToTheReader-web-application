@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1554</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101196_Fr1_3</idno>
+           <idno type="DLPS">A10150</idno>
+           <idno type="STC">20407</idno>
+           <idno type="ESTC">S101196</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of wyates rebellion : with the order and maner of resisting the same, wherunto in the ende is added an earnest conference with the degenerate and sedicious rebelles for the serche of the cause of their daily disorder. Made and compyled by John Proctor</title>
+                 <author>Proctor, John</author>
+                 <imprint>
+                    <publisher>Caly, Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1554</date>
+                 </imprint>
+                 <extent>8, 17 leaves, pages 18-25, leaves 26-96, 6 leaves, illustrations (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <pb facs="2"/>
+   <p>¶ In the ende ye shall finde a table, directing to the principal pointes con<g ref="char:EOLunhyphen"/>teyned in this booke.</p>
+</div>
+        </body>
+  </text>
+</TEI>

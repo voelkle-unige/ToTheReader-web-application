@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122563_Fr1_3</idno>
+           <idno type="DLPS">A18429</idno>
+           <idno type="STC">4998</idno>
+           <idno type="ESTC">S122563</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Hallelu-jah: or, King David's shrill trvmpet, sounding a loude summons to the whole world, to praise God : Delivered by way of commentarie and plaine exposition vpon the CXVII. Psalme. By Richard Chapman, minister of the Word of God at Hunmanbie in Yorkshire</title>
+                 <author>Chapman, Richard</author>
+                 <imprint>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>6, 32, 35-199, 2, 102-106 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>Ad Lectorem.</head>
+   <p>SI mihi, (viri Anglicani) in presentia conce<g ref="char:EOLhyphen"/>datis
+vitam, hac conditione vt ne posthac in
+sapientiae inquisitione verse<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>; diligo quidem vos,
+sed Deo certum est parere potuis quam vobis ac
+quamdiu vivam &amp; valebo Philosophari atque v<g ref="char:EOLhyphen"/>numquemque
+vestru<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap> exhortari ad virtutem non
+desistam.</p>
+   <bibl>
+      <hi>SOCRATES</hi> oratio quae est apud <hi>Platonem</hi>
+in ejus Apologia.</bibl>
+</div>
+        </body>
+  </text>
+</TEI>

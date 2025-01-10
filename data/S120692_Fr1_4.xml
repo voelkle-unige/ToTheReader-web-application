@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the curteous Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120692_Fr1_4</idno>
+           <idno type="DLPS">A05575</idno>
+           <idno type="STC">15695</idno>
+           <idno type="ESTC">S120692</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the curteous Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tvvo bookes of constancie. Written in Latine, by Iustus Lipsius. Containing, principallie, A comfortable conference, in common calamities. And will serue for a singular consolation to all that are priuately distressed, or afflicted, either in body or mind. Englished by Iohn Stradling, gentleman</title>
+                 <author>Lipsius, Justus</author>
+                 <imprint>
+                    <publisher>Short, Peter</publisher>
+                    <distributor>Jones (Jhones, Johnes), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>8, 127, 1 page, 1 folding plates, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="5"/>
+   <head>The Printer to the curteous Reader.</head>
+   <p>IN perusing this book, if thou find any faults which haue es<g ref="char:EOLhyphen"/>caped in the printing, I pray thee to correct them with thy Pen. Afterwards reade the book thoroughly, and belieue me no more, if thou find not therein sufficient cause te thinke thy labour well bestowed:</p>
+</div>
+        </body>
+  </text>
+</TEI>

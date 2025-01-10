@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1578</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1311_Ba1_1</idno>
+           <idno type="DLPS">A08078</idno>
+           <idno type="STC">18445</idno>
+           <idno type="ESTC">S1311</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A Request presented to the King of Spayn and the Lordes of the Counsel of the State by the inhabitantes of the Louue Countreyes : protesting that they will liue according to the reformation of the Gospell, the xxij. of Iune. 1578</title>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1578</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Mannenby, Leigh, pseud</publisher>
+                        </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>TO THE READER.</head>
+   <p>OF late aduertisements are come ouer, that the .xiiij. of this present moneth of Iuly, the Estates assemble thē<g ref="char:EOLhyphen"/>selues to deliberate vpon this request, the sequele wherof is vncertaine, for as <hi>Euripides</hi> in <hi>Iphigenia</hi> saith, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>: that is, Gods doings fall out otherwise than men looke for, and he saueth whome he loueth.</p>
+   <pb facs="14"/>
+</div>
+        </body>
+  </text>
+</TEI>

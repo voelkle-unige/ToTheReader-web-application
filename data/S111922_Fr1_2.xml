@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers Health.</title>
+           <author>Danter, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111922_Fr1_2</idno>
+           <idno type="DLPS">A04736</idno>
+           <idno type="STC">1487</idno>
+           <idno type="ESTC">S111922</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers Health.</title>
+                 <author>Danter, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes funeralls. By RB. Gent</title>
+                 <imprint>
+                    <publisher>Danter, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Gentlemen Readers Health.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, I once readd of a King, that diuided the day into three parts; the First hee spent in Prayer, the Second in hearing of his Subiects causes, and the last in delight and pleasure of his body: So (Gentle Rea<g ref="char:EOLhyphen"/>der) I hope thou wilt spend one daies pleasure in reading this Pamphlet, wherin no curious theame is writt vppon; but certaine Poemes, Entituled: <hi>Greenes Funeralls.</hi> VVhich contrarie to the Au<g ref="char:EOLhyphen"/>thours expectation I haue nowe published, for it was his priuate study at idle times. Gentlemen, fine wits are quickned with one cup of pure wine, where many woulde make them dull; And this small Pamphlet may recreate your mindes, when large Volumes would but cloy and weary you: Now if the Authors paines, and the Printers la<g ref="char:EOLhyphen"/>bour may be acceptable to thee (Gentle Reader) the one hath his hyer, and the other his desire.</p>
+   <closer>
+      <signed>Yours in all curtesie, <hi>Iohn Danter.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

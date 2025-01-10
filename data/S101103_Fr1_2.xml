@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101103_Fr1_2</idno>
+           <idno type="DLPS">A05374</idno>
+           <idno type="STC">15527</idno>
+           <idno type="ESTC">S101103</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certein letters vvherin is set forth a discourse of the peace that was attempted and sought to haue bin put in effecte by the lords and states of Holland and Zelande in the yeare of oure Lorde 1574 : Also a supplication put vp by the saide States of Hollande and Zeland, and other places of the Low Countryes to the king: together with the aunsvvere and a reply vppon the same, and diuers other particularities</title>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 </imprint>
+                 <extent>36, 84 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">T</seg>O the intent to giue some lighte to suche as are not acquainted with the state of the affayres and controuersies of Hollande and Zelande, and to stoppe the mouthes of malicious aduersaries, which ceasse not to reporte al maner of vntruth and reproch of the noble valeaūt and vertuous prince the Prince of Orendge &amp; his adherēts, &amp; of the iust case which they maintein: here is translated a short Discourse, of the ori<g ref="char:EOLhyphen"/>gnial cause and ground of their entering into Armes, togither with a nomber of weyghtie &amp; substantial reasons, wherby they iustifie their doing by good consci<g ref="char:EOLhyphen"/>ence and equitie. And it is the rather set forthe at this tyme, because some of the parties and authors therof bee now here, as <hi>Mounsieur Sainct Aldegond,</hi> and <hi>Moū<g ref="char:EOLhyphen"/>sieur Champagny</hi> and others, who may iu<g ref="char:EOLhyphen"/>stify the same (as neede shall requyre) to the open mainfestation of the truth with out further trauel. Read with aduisemēt, and iudge indifferently, as the righte of the matter shall leade the.</p>
+   <q xml:lang="lat">
+      <hi>Sum Dea, quae rara, &amp; paucis, Occasi<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap> nota.</hi>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

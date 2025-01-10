@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115504_Fr1_2</idno>
+           <idno type="DLPS">A06074</idno>
+           <idno type="STC">1650</idno>
+           <idno type="ESTC">S115504</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The baynes of Aquisgrane, the I. part &amp; I. volume, intituled Variety : Contayning three bookes, in the forme of dialogues, vnder the titles following, viz. Profit, pleasure, honour. Furnished with diuers things, no lesse delightfull, then beneficiall to be knowne, and obserued. ...by Roger Baynes gent. a long exile out of England, not for any temporall respect</title>
+                 <author>Baynes, Roger</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>8, 112 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <p>THIS present Volume, and the rest that are to follow, though they haue not come to the Presse till now, yet haue th<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>y byn written some yeares ago, in the tyme of the late Queene <hi>Elizabeth.</hi>
+   </p>
+   <p>
+      <figure>
+         <q>QVI NIHIL SPERAT, NIHIL DESPERAT.</q>
+         <figDesc>printer's or publisher's device</figDesc>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

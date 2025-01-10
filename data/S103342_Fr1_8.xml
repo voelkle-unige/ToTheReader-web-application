@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>Drommond, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103342_Fr1_8</idno>
+           <idno type="DLPS">A01930</idno>
+           <idno type="STC">12067</idno>
+           <idno type="ESTC">S103342</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>Drommond, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first booke of the famous historye of Penardo and Laissa : other ways callid the warres, of love and ambitione. Wherein is described Penardo his most admirable deeds of arms, his ambition of glore his contempt of loue, with loves mighte assalts &amp; ammorus temptations: Laissas feareful inchantment hir releif hir trauells and lastly loves admirabel force, in hir releiving Penardo from ye fire, doone in heroik verse, by Patrik Gordon</title>
+                 <author>Gordon, Patrick</author>
+                 <imprint>
+                    <publisher>Waters (Walters), Joris (George)</publisher>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>280 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="9"/>
+   <head>To the Author.</head>
+   <head>Sonnet.</head>
+   <l>
+      <seg rend="decorInit">C</seg>Ome forth <hi>Laissa</hi> spred thy lo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>kes of Gold,</l>
+   <l>Show thy cheekes roses in their virgine Prime</l>
+   <l>And though no gēmes the decke which Indies hold,</l>
+   <l>Yeild not vnto the fairest of thy tyme</l>
+   <l>No ceruse brought farre, farre beyond the seas</l>
+   <l>Noe poisone lyke Cinabre Paints thy face</l>
+   <l>Let them hawe that whose natiue hues displeas</l>
+   <l>Thow graceth nakednesse it doth the grace</l>
+   <l>Thy Syre no pyick purse is of others witt</l>
+   <l>Thoise Iewellis be his oune which the adorne</l>
+   <l>And though thow after greaiter ones be borne</l>
+   <l>Thow mayst be bold eu'en midst the first to sitt</l>
+   <l>For whilst fair Iuliett or the farie quene</l>
+   <l>Doe liue with theirs thy beautie shall be seene,</l>
+   <closer>
+      <signed>M. William Drommond.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

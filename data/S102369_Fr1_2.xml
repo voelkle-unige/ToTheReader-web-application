@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO The vvorthily-deserving all his ingenuous Attributes VVILLIAM HVDSON Esq.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102369_Fr1_2</idno>
+           <idno type="DLPS">A00966</idno>
+           <idno type="STC">11072</idno>
+           <idno type="ESTC">S102369</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO The vvorthily-deserving all his ingenuous Attributes VVILLIAM HVDSON Esq.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The night-vvalker, or The little theife : A comedy, as it vvas presented by her Majesties Servants, at the Private House in Drury Lane. Written by John Fletcher. Gent</title>
+                 <author>Fletcher, John</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <distributor>Cooke, William</distributor>
+                            <distributor>Crooke, Andrew 1</distributor>
+                        </imprint>
+                 <extent>76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO The vvorthily-deserving all his ingenuous Attributes VVILLIAM HVDSON <hi>Esq.</hi>
+   </head>
+   <opener>
+      <salute>Worthy Sir,</salute>
+   </opener>
+   <p>I Should derogate from your worth, to doubt of your pardon, andif should wrong too much your goodnesse to present the endeavours of some fro<g ref="char:EOLhyphen"/>thy braine to the triall of your judgement, when the More ignorant world had al<g ref="char:EOLhyphen"/>ready condemned it; but sir, this is one of the ccheirs of much admired, much lamented <hi>Fletcher,</hi> whose matchlesse Fancies are fit onely for the perusall of such as you, who have candour and knowledge so uni<g ref="char:EOLhyphen"/>ted, that there cannot be a reprive for those Poems you condemne; accept this weake Testimonie of my Service, and as yours by familiar acquaintance with them, favourably entertaine these witty conceits par<g ref="char:EOLhyphen"/>ticularly presented unto you, by him who shall glory in nothing more than to be stiled</p>
+   <closer>
+      <signed>The Honorer of Your Vertues, <gap reason="illegible: page cropped" extent="4 letters">
+            <desc>••••</desc>
+         </gap>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

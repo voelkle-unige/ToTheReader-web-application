@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>H., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101235_Fr1_3_3</idno>
+           <idno type="DLPS">B11386</idno>
+           <idno type="STC">1695</idno>
+           <idno type="ESTC">S101235</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>H., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The metamorphosis of tabacco</title>
+                 <author>Beaumont, John</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Flasket, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>WHom <hi>Helicon,</hi> and <hi>Tempe</hi> doe adorne</l>
+   <l>With sugred gifts of diuine poetrie,</l>
+   <l>Let no detracting <hi>Zoilus</hi> him scorne,</l>
+   <l>Thinking thereby to cure his maladie:</l>
+   <l>For he that once doth <hi>Homers</hi> pen dispraise,</l>
+   <l>Cannot himselfe to Laureats honour raise.</l>
+   <l>Then thou, that art the author of this booke,</l>
+   <l>Send forth that sacred fume from out thy braine,</l>
+   <l>That thereon well-disposed wits may looke,</l>
+   <l>And say, Giue me <hi>Tabacco</hi> once againe:</l>
+   <l>For <hi>Castile</hi> nere did such a pipe afford</l>
+   <l>Of <hi>Trinidade</hi> upon mine honest word.</l>
+   <closer>
+      <signed>H.H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

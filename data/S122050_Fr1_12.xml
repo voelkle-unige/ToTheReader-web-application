@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my worthily-esteemed Mr. Ben: Ionson.</title>
+           <author>S., E.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122050_Fr1_12</idno>
+           <idno type="DLPS">B14292</idno>
+           <idno type="STC">14783</idno>
+           <idno type="ESTC">S122050</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my worthily-esteemed Mr. Ben: Ionson.</title>
+                 <author>S., E.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ben: Ionson his Volpone or The foxe</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Eld (Elide), George</publisher>
+                        </imprint>
+                 <extent>120 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="9"/>
+   <head>To my worthily-esteemed M<seg rend="sup">r</seg>. Ben: Ionson.</head>
+   <l>
+      <hi>VOLPONE</hi> now is dead indeed, and lies</l>
+   <l>Exposed to the censure of all eies,</l>
+   <l>And mouth's; Now he hath run his traine, and show'n</l>
+   <l>His subtill body, where he best was knowne;</l>
+   <l>In both <hi>Minerua's Cittyes:</hi> he doth yeeld,</l>
+   <l>His well-form'd-limbes vpon this open field.</l>
+   <l>VVho, if they now appeare so faire in sight,</l>
+   <l>How did they, when they were endew'd with spright</l>
+   <l>Of Action? Yet in thy praise let this be read,</l>
+   <l>The FOXE will liue, when all his hounds be dead.</l>
+   <closer>
+      <signed>E. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

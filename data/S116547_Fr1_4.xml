@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Distichon Guil. Rant Doctoris Medicinae in librum Samuelis Gardiners Sacrae Theologiae Doctoris.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116547_Fr1_4</idno>
+           <idno type="DLPS">B13697</idno>
+           <idno type="STC">11574</idno>
+           <idno type="ESTC">S116547</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Distichon Guil. Rant Doctoris Medicinae in librum Samuelis Gardiners Sacrae Theologiae Doctoris.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The deuotions of the dying man, that desireth to die well. Deuised and diuulged by Samuel Gardiner Doctor of Diuinitie, and minister of the Church of great St. Peters in Norwich</title>
+                 <author>Gardiner, Samuel</author>
+                 <imprint>
+                    <publisher>Bill, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>36, 411, 7 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="distich">
+   <pb facs="18"/>
+   <head>Distichon <hi>Guil. Rant</hi> Doctoris Medicinae in librum <hi>Samuelis Gardiners</hi> Sacrae Theologiae Doctoris.</head>
+   <l>MVlta liber parvus tenet hic praecepta salutis,</l>
+   <l>Hunc lege si sapias, vt sapias{que} lege.</l>
+</div>
+        </body>
+  </text>
+</TEI>

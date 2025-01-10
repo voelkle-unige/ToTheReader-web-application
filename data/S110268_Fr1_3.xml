@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Jn Artem amandi Decastichon.</title>
+           <author>Meres, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110268_Fr1_3</idno>
+           <idno type="DLPS">A15427</idno>
+           <idno type="STC">257</idno>
+           <idno type="ESTC">S110268</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Jn Artem amandi Decastichon.</title>
+                 <author>Meres, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Hecatonphila. The arte of loue : Or, loue discouered in an hundred seuerall kindes</title>
+                 <author>Alberti, Leone Battista</author>
+                 <imprint>
+                    <publisher>Short, Peter</publisher>
+                    <distributor>Leake, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>6, 40 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>Jn Artem amandi <hi>Decastichon.</hi>
+   </head>
+   <l>EXimiè scripsit <hi>Cicero,</hi> benè pinxit <hi>Apelles,</hi>
+   </l>
+   <l>Inuidiae morsum sensit vterque tamen.</l>
+   <l>Conscia mens recti cum te comitetur euntem,</l>
+   <l>Sperne venenato quicquid ab ore fluit.</l>
+   <l>Quòd liber est nitidus, miscetur &amp; vtile dulci,</l>
+   <l>Dexter <hi>Apollo</hi> tibi; Fama perennis erit.</l>
+   <l>Ergo macte animo, nec publica cōmoda tardes,</l>
+   <l>Ingenij viuent sic monumenta tui.</l>
+   <l>Candidus Interpres laudetur, &amp; optimus Au<g ref="char:EOLhyphen"/>thor,</l>
+   <l>Viuat vterque diu, cedat vtrique decus.</l>
+   <closer>
+      <signed>FRANCISCVS MERES.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

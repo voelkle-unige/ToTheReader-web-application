@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To The Author on this his TRAGEDY.</title>
+           <author>B., E.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113067_Fr1_4</idno>
+           <idno type="DLPS">A07979</idno>
+           <idno type="STC">18346</idno>
+           <idno type="ESTC">S113067</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To The Author on this his TRAGEDY.</title>
+                 <author>B., E.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vnfortunate mother : a tragedie. Never acted; but set downe according to the intention of the author Thomas Nabbes</title>
+                 <author>Nabbes, Thomas</author>
+                 <imprint>
+                    <publisher>Okes (Oakes), John</publisher>
+                    <distributor>Frere (Fryer), Daniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="4"/>
+   <head>To The Author on this his <hi>TRAGEDY.</hi>
+   </head>
+   <lg>
+      <l>PRinted before 'tis Acted! such a tricke</l>
+      <l>As few men will judge to bee politicke.</l>
+      <l>But little reason for it wee can see,</l>
+      <l>Profit should grow contemptible with thee.</l>
+      <l>I read it, and it hath my vote for good;</l>
+      <l>Sure 'twas not by some others understood:</l>
+      <l>By whom I wish action might added be,</l>
+      <l>For that's the best life of a Tragedy.</l>
+      <l>Sure though they tyrant like did sentence give</l>
+      <l>Upon thy <hi>Mother,</hi> she deserves to live.</l>
+   </lg>
+   <closer>
+      <signed>E. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

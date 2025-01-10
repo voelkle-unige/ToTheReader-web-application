@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>N., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120838_Fr1_2</idno>
+           <idno type="DLPS">A08247</idno>
+           <idno type="STC">18584</idno>
+           <idno type="ESTC">S120838</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>N., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The dignitie of man : both in the perfections of his sovle and bodie. Shewing as well the faculties in the disposition of the one: as the senses and organs, in the composition of the other. By A.N</title>
+                 <author>Nixon, Anthony</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>6, 125, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <lg>
+      <pb facs="2"/>
+      <l>QVód CRVCE cuncta tuâ purgas mea crimina CHRISTE,</l>
+      <l>Tu Redamandus eris Redimens; Redimar Redamando:</l>
+      <l>Vt sic non Redamem nisi quae REDAMANDA Redemptus.</l>
+   </lg>
+   <lg>
+      <l>Hinc mihi tuta Quies, et Honos; PVLVINAR honores</l>
+      <l>Signat; BIS-BINVM format CRVX ALBA{que} firmat;</l>
+      <l>Te, sancté, et dignè, et synceré vt semper Honorem.</l>
+   </lg>
+   <lg>
+      <l>AREA sanguinea est, Fugiam quó ad Sanguinis Aram</l>
+      <l>CHRISTE tui, et curas inter securè quiescam.</l>
+   </lg>
+   <lg>
+      <l>CRVX dignum, tutum PVLVIN, facit ARRA firmum;</l>
+      <l>Indè REDEMPTOREM vt Redamem; &amp; REDAMANDA Re<g ref="char:EOLhyphen"/>demptus</l>
+   </lg>
+   <closer>
+      <signed>A. N.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers.</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105031_Ba1_1</idno>
+           <idno type="DLPS">A19128</idno>
+           <idno type="STC">5541</idno>
+           <idno type="ESTC">S105031</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers.</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The famous, pleasant, and variable historie, of Palladine of England : Discoursing of honorable aduentures, of knightly deedes of armes and chiualrie: enterlaced likewise with the loue of sundrie noble personages, as time and affection limited their desires. ... Translate out of French by A.M. one of the messengers of her Maiesties Chamber</title>
+                 <author>Colet, Claude</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Perrin (Perin), John</publisher>
+                        </imprint>
+                 <extent>3, 92 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="97"/>
+   <head>To the Gentlemen Readers.</head>
+   <p>HEere did <hi>Claudius Colet</hi> of <hi>Cham<g ref="char:EOLhyphen"/>paigne,</hi> who wrote this Worke in the French toong, make a full conclusion of the Historie: and I hauing no further scope, but bound to follow the direction of mine Author, heere doo I likewise knit vp the famous discourse of Prince <hi>Palladine.</hi> What errours haue past in my simple translation, I must commit to the freendly iudgement of such, as knowe that the wisest may step awry, and he was neuer yet heard of that pleased <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>uery hu<g ref="char:EOLhyphen"/>mour. My good will is greater then my abilitie, and when a man doth bestowe his endeuour, onely to delight and not d<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>splease: it is courtesie to entertaine such a ones labours freendly, considering the recompence is small for a tedious trauaile. The historie of <hi>Pal<g ref="char:EOLhyphen"/>mendos</hi> and <hi>Primaleon,</hi> promised in my two partes of <hi>Palme<g ref="char:EOLhyphen"/>rin d' Oliua,</hi> as leysure will permit shall be perfected: in meane while (for Countries sake) bid <hi>Palladine</hi> welcome, which the French haue published in the honor of <hi>England.</hi>
+   </p>
+   <epigraph>
+      <q>Honos alit Artes. </q>
+   </epigraph>
+   <closer>
+      <signed>
+         <hi>Your well wishing freend</hi> Anthony Munday.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

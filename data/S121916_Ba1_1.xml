@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121916_Ba1_1</idno>
+           <idno type="DLPS">A15627</idno>
+           <idno type="STC">25899</idno>
+           <idno type="ESTC">S121916</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Britain's remembrancer : containing a narration of the plague lately past; a declaration of the mischiefs present; and a prediction of iudgments to come; (if repentance prevent not.) It is dedicated (for the glory of God) to posteritie; and, to these times (if they please) b Geo: Wither</title>
+                 <author>Wither, George</author>
+                 <imprint>
+                    <publisher>Grismand (Grismond), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>3, 287, 286-287 leaves, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>THe faults escaped in the printing, wee had not such meanes to prevent as we desired; nor could we conveniently collect them, by reason of our hast, of hazard, and other interruptions: wee therefore leave them to be amended, censured, and winked at, according to the Readers courtesie or discretion.</p>
+   <pb facs="294"/>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SCHOLASTICIS.</title>
+           <author>C., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S91454_Fr1_2</idno>
+           <idno type="DLPS">B07516</idno>
+           <idno type="STC">5345.7</idno>
+           <idno type="ESTC">S91454</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SCHOLASTICIS.</title>
+                 <author>C., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sommons to doomes daie sent vnto his beloued England : as a memoriall of his deepe printed loue and loyaltie. By Henoch Clapham</title>
+                 <author>Clapham, Henoch</author>
+                 <imprint>
+                    <publisher>Waldegrave (Walgrave), Robert</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>79, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_preface">
+   <pb facs="2"/>
+   <head>SCHOLASTICIS.</head>
+   <p>LArgè spatiari, Rhetoris est; strictè au<g ref="char:EOLhyphen"/>tem Dialectici. Hoc proprium Acade<g ref="char:EOLhyphen"/>micorum Scholis: illud, Rostris. Medium inter vtrunque, hoc potius (vt ἔυαγγελὶας, Prophetae accommodatius) hic studui. Li<g ref="char:EOLhyphen"/>neae si quae occurrunt otiosae (error verò hu<g ref="char:EOLhyphen"/>jus saeculi loquacis, maximè fluitans) illas ego repudio nec probo. Facilius autem est destruere, quam astruere: nec difficilius la<g ref="char:EOLhyphen"/>beculae non serpente connivere, quàm labi<g ref="char:EOLhyphen"/>orum labem (vt nè dicam luem) in aliorum lucubrationes, evomere. Quid tum peto? vt aequo (si non placido) legatis animo; vel saltem pacato, haec mea qualiacun{que} depo<g ref="char:EOLhyphen"/>natis: hoc summissè petitur ac flagito, </p>
+   <closer>
+      <salute>Va<g ref="char:EOLhyphen"/>lete.</salute>
+      <signed>H. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

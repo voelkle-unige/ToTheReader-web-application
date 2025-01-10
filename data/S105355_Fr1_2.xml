@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>H., L.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1571</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105355_Fr1_2</idno>
+           <idno type="DLPS">A20429</idno>
+           <idno type="STC">6832</idno>
+           <idno type="ESTC">S105355</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>H., L.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A dictionarie French and English</title>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <distributor>Harrison, Luke (Lucas)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1571</date>
+                 </imprint>
+                 <extent>256 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Linde Bayarde is boldest to launch into the deepe, and rashe Souldiour readiest to giue the first assault: Though wilful blindnesse, and headdy rashnesse be vices intolerable, yet suche blinde<g ref="char:EOLhyphen"/>nesse and suche rashenesse (in my iudgement) is cōmendable, as either breaketh the yce vnto the better see<g ref="char:EOLhyphen"/>ing, or treadeth the path to the discret and cunning. This perswasion hath made me presume to Englishe this worke: and this mine onset hereafter may prouoke the skilfull to perfit the same. In the mean while (good Rea<g ref="char:EOLhyphen"/>der) vse it to thy profit, so shalt thou encourage me (according to my skill and leasure) to further thy studies.</p>
+   <closer>
+      <signed>L. H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

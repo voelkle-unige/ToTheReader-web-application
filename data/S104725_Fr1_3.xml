@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the READER.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104725_Fr1_3</idno>
+           <idno type="DLPS">A68983</idno>
+           <idno type="STC">3641</idno>
+           <idno type="ESTC">S104725</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the READER.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The court and country, or A briefe discourse dialogue-wise set downe betweene a courtier and a country-man : contayning the manner and condition of their liues, with many delectable and pithy sayings worthy obseruation. Also, necessary notes for a courtier. VVritten by N.B. Gent</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <distributor>Wright, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Higgenbotham, Richard 2</publisher>
+                        </imprint>
+                 <extent>38 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>
+      <hi>To the</hi> READER.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Mong many Passages that I haue met with in the world, it was my hap of late to light on a kinde Controuerfie betweene two Kinsmen, a Courtier and a Countryman, who meeting together vpon a time, fell to perswading one another from their courses of Life; the Courtier would faine haue drawne the Country<g ref="char:EOLhyphen"/>man to the Court, and the Countryman the Courtier to the Country. The reasons for their delights, and loue to their manner of liues, I haue set downe as I found them; but whatsoeuer they alledged for their contentments, it seemed they were resolued vpon their Courses, for in the end they left where they begunne, euery man to his owne humour, and so brake off. Now what Profit or Pleasure may arise by the reading of them, I referre to their discretion that can best make vse of them. Matter of state is not here medled with; scurrillity heere is none: no taxing of any Person, nor offence iustly to any whosoeuer: But passages of witte, without the malice of any euill minde. And in summe, matter of good substance, and mirth enough to driue away a great deale of melancholy: and so leauing it
+<pb facs="4"/>
+to your Patience to read, and to your Pleasure to esteeme of as you see cause: both to Courtiers and Countrimen that are kinde and honest men, I rest, to wish content in the course of a happy life, and so remaine</p>
+   <closer>
+      <signed>Your well wishing Countryman N. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

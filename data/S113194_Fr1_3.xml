@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD AMICVM suum omni laude et ob∣seruantia dignissimum AR: NEWMAN.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113194_Fr1_3</idno>
+           <idno type="DLPS">A08132</idno>
+           <idno type="STC">18496</idno>
+           <idno type="ESTC">S113194</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD AMICVM suum omni laude et ob∣seruantia dignissimum AR: NEWMAN.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pleasures vision : with deserts complaint, and a short dialogue of a womans properties, betweene an old man and a young. By Arthur Newman of the Middle Temple Gent</title>
+                 <author>Newman, Arthur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 <publisher>Bailey (Baily, Baley, Bayly), Thomas.</publisher>
+                            <publisher>Eld (Elide), George</publisher>
+                        </imprint>
+                 <extent>62 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>AD AMICVM suum omni laude et ob<g ref="char:EOLhyphen"/>seruantia dignissimum AR: NEWMAN.</head>
+   <l>NOui tenerum, noui iuneuilibus annis</l>
+   <l>cùm vox iucundi plena leporis erat,</l>
+   <l>Et dixs de te mihi semper, Apolline cert<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>dignus eris: nec mens haec mihi vana fuit,</l>
+   <l>Ecce Caballino sitis est nunc fonte lenata:</l>
+   <l>pocula Castali<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s nunc saturantur aquis,</l>
+   <l>Digna trophaea feres, cingent tua tempera la<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>i</l>
+   <l>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t patria est meritis grata futura tuis.</l>
+   <bibl>
+      <hi>PE: LOWER.</hi>
+   </bibl>
+</div>
+        </body>
+  </text>
+</TEI>

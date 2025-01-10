@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112435_Fr1_3</idno>
+           <idno type="DLPS">A07207</idno>
+           <idno type="STC">17608</idno>
+           <idno type="ESTC">S112435</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The epicures fast: or: A short discourse, discouering the licenciousnesse of the Romane Church in her religious fasts. By Henrie Mason, parson of St. Andrews Vndershaft, London</title>
+                 <author>Mason, Henry</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <distributor>Clarke, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>8, 58, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>IN the Authorities alledged, beside the quoting of the Bookes, Chapters, numbers, &amp;c. I haue most times named the leafe or page, where the words are to be found. I did it for 2. causes. 1. That when I should haue occasion to reuiew any Authoritie, I might with the more speede be directed to the place. 2. That if there should happen any error in the number of the Bookes, Chapters, &amp;c. the addition of the leafe or page might be an helpe to amend it. And because the Reader may make the like benefit of these quotati<g ref="char:EOLhyphen"/>ons, if he chance vpon the same Impression that I haue <gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>sed; I thought it not amisse to specifie what Edition I followed in the seuerall Authors: Which is, as fol<g ref="char:EOLhyphen"/>loweth.</p>
+   <list>
+      <item>Iosephi <hi>Angles</hi> Flores theologic. Qq. Part. <hi>1.</hi> in <hi>4<seg rend="sup">o</seg>.</hi> Burgis. <hi>1585.</hi>
+      </item>
+      <item>
+         <hi>Antiquitates</hi> Liturgicae. A Booke in three tomes in <hi>8<seg rend="sup">o</seg>.</hi> without the name of the Author, Printer, place or yeere: but it was licenced by Petrus Lin<g ref="char:EOLhyphen"/>trensis of Doway, <hi>1604.</hi> and granted with pri<g ref="char:EOLhyphen"/>uiledge to Bellerus the Doway Printer, by the Archdukes, <hi>1603.</hi>
+      </item>
+      <item>Io. <hi>Azorij</hi> Institut. part. <hi>1.</hi> Coloniae. <hi>1602.</hi>
+      </item>
+      <item>
+         <hi>Bellarmini</hi> Controuersiae. in fol. Paris. <hi>1608.</hi>
+      </item>
+      <item>
+         <hi>Beyerlinck.</hi> Promptuar. Moral. part. <hi>3.</hi> Colon. in <hi>8<seg rend="sup">o</seg>. 1616.</hi>
+      </item>
+      <item>Martin. <hi>Bonacinae</hi> Opera in folio. Lugduni, <hi>1624.</hi>
+      </item>
+      <pb facs="5"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="5"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="6"/>
+      <item>
+         <hi>Cajetani</hi> Summula in <hi>8<seg rend="sup">o</seg>.</hi> Paris. <hi>1539.</hi>
+      </item>
+      <item>
+         <hi>Cassiani</hi> Opera in <hi>8<seg rend="sup">o</seg>.</hi> Duaci, <hi>1616.</hi>
+      </item>
+      <item>
+         <hi>Euseb.</hi> Histor. Graecolat. in fol. Coloniae Allobro<g ref="char:EOLhyphen"/>gum, <hi>1612.</hi>
+      </item>
+      <item>Anton. <hi>Fernandes</hi> Examen Theologiae in <hi>8<seg rend="sup">o</seg>.</hi> Co<g ref="char:EOLhyphen"/>lon. <hi>1621.</hi>
+      </item>
+      <item>Ioan. <hi>Filesaci</hi> Opera, in <hi>8<seg rend="sup">o</seg>.</hi> Paris. <hi>1614.</hi>
+      </item>
+      <item>Vincentij <hi>Filliucij</hi> Morales quaest. Lugduni, <hi>1622.</hi>
+      </item>
+      <item>Barthol. <hi>Fumi</hi> Aurea armilla, <hi>8<seg rend="sup">o</seg>.</hi> Lugduni, <hi>1596.</hi>
+      </item>
+      <item>Matthaei <hi>Galeni</hi> Catecheses in <hi>4<seg rend="sup">to</seg>.</hi> Lugd. <hi>1593.</hi>
+      </item>
+      <item>Iac. de <hi>Graffijs</hi> Decisiones aureae in <hi>4<seg rend="sup">to</seg>.</hi> Antwerp. <hi>1604.</hi>
+      </item>
+      <item>S. <hi>Hieronymi</hi> Opera. Paris, <hi>1609.</hi>
+      </item>
+      <item>Ioan. <hi>Hofmeisteri</hi> Loci communes, in <hi>16<seg rend="sup">o</seg>.</hi> Paris. <hi>1573.</hi>
+      </item>
+      <item>Hieron. <hi>Llamas</hi> Summa ecclesiastica in <hi>8<seg rend="sup">o</seg>.</hi> Mo<g ref="char:EOLhyphen"/>gunt. <hi>1605.</hi>
+      </item>
+      <item>Cornel. à <hi>Lapide,</hi> in Prophetas majores. Antwer. <hi>1621.</hi>
+      </item>
+      <item>Leonar. <hi>Leffius,</hi> de Iustitia &amp; Iure. Antw. <hi>1612.</hi>
+      </item>
+      <item>Guliel. <hi>Lindani</hi> Panoplia. Colon. <hi>1575.</hi>
+      </item>
+      <item>Iodoci <hi>Lorichij</hi> Thesaurus. Friburgi. <hi>1609.</hi>
+      </item>
+      <item>Barthel. <hi>Medinae</hi> Instructie Confessari<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>rum in <hi>8<seg rend="sup">o</seg>.</hi> Venet. <hi>1601.</hi>
+      </item>
+      <item>Ioan. <hi>Medinae</hi> Cod. de Iejunio. <hi>4<seg rend="sup">o</seg>.</hi> Brixiae. <hi>1606.</hi>
+      </item>
+      <item>Alphon. <hi>Pisanus</hi> de Continentia &amp; Abstinentia. <hi>8<seg rend="sup">o</seg>.</hi> Colon. <hi>1579.</hi>
+      </item>
+      <item>Valer. <hi>Reginaldi</hi> Praxis fori poenit. fol. Coloniae. <hi>1622.</hi>
+      </item>
+      <item>Emman. <hi>Roderiquez</hi> Sūma Casuū. Colon. <hi>1620.</hi>
+      </item>
+      <item>Franc. <hi>Toleti</hi> Instr. Sacerd. <hi>8<seg rend="sup">o</seg>.</hi> Rothomagi, <hi>1609.</hi>
+      </item>
+      <item>Greg. de <hi>Valentia</hi> in Thomam. Venet. <hi>1608.</hi>
+      </item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

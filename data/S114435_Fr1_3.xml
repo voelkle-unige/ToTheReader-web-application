@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ELISABETH HERBERT.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114435_Fr1_3</idno>
+           <idno type="DLPS">B11749</idno>
+           <idno type="STC">3581.7</idno>
+           <idno type="ESTC">S114435</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ELISABETH HERBERT.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Raglands Niobe: or, Elizas elegie : Addressed to the unexpiring memory of the most noble Lady, Elizabeth Herbert, wife to the truly honourable, Edward Somerset Lord Herbert, &amp;c. By Ri. Brathwait, Esq</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Bostock, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>32 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>ELISABETH HERBERT.</head>
+   <head type="sub">
+      <hi>Anag.</hi> Heere a blest birth.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">H</seg>Eare, <hi>heere blest birth,</hi> with thy divinest eares</l>
+      <l>Thy true-devoted Servants funeral teares;</l>
+      <l>That 't may appeare; our Muse hath done thee right</l>
+      <l>In throbbing to this Age thy last good night.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

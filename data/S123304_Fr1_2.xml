@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Double Anagram,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123304_Fr1_2</idno>
+           <idno type="DLPS">B08146</idno>
+           <idno type="STC">23582a</idno>
+           <idno type="ESTC">S123304</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Double Anagram,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tobacco battered : &amp; the pipes shattered (about their eares that idlely idolize so base &amp; barbarous a weed; or at least-wise ouer-loue so loathsome vanitie:) by a volley of holy shot thundered from Mount Helicon</title>
+                 <author>Sylvester, Josuah</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>7, 82-116, 6, 119-158 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="anagram">
+   <pb facs="2"/>
+   <head>A Double Anagram,</head>
+   <epigraph>
+      <q>
+         <l>George Viliers: Sir George Viliers,</l>
+         <l>Re-giue glories: Glorie-giuers rise.</l>
+      </q>
+   </epigraph>
+   <l>SIr, <hi>Re-giue glories: Glorie-giuers rise.</hi>
+   </l>
+   <l>How fits your happy <hi>Fate,</hi> your happy <hi>Name!</hi>
+   </l>
+   <l>Wherein, a <hi>Precept</hi> with a <hi>Promise</hi> lies,</l>
+   <l>Presaging Good to grace-full <hi>BVCKINGHAM:</hi>
+   </l>
+   <l>For, be you Grate-full for your <hi>Dignities;</hi>
+   </l>
+   <l>
+      <hi>GOD</hi> and the <hi>KING</hi> will still <hi>increase</hi> the same.</l>
+   <l>
+      <hi>GOD, while you honour Him,</hi> will <hi>honour</hi> You:</l>
+   <l>The <hi>KING</hi> will <hi>fauour,</hi> while you <hi>serue</hi> Him, <hi>trew.</hi>
+   </l>
+</div>
+        </body>
+  </text>
+</TEI>

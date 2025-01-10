@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Acrostic]</title>
+           <author>Rous, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108559_Fr1_5</idno>
+           <idno type="DLPS">A05470</idno>
+           <idno type="STC">15600</idno>
+           <idno type="ESTC">S108559</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Acrostic]</title>
+                 <author>Rous, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Two sermons : viz. 1. A preseruatiue lilie to cure soules. And 2. How to seeke to finde Christ. Preached by that famous and iudicious diuine, Peter Lilie, Doctor of Diuinitie, and sometime fellow of Iesus Colledge in Cambridge</title>
+                 <author>Lily, Peter</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>8, 65, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic">
+   <pb facs="5"/>
+   <lg>
+      <l>
+         <hi>P</hi>atterne of Learning, Patron of learn'd men,</l>
+      <l>
+         <hi>E</hi>terniz'd be thy fame by learned Pen;</l>
+      <l>
+         <hi>T</hi>he
+<note n="*" place="margin">For the <hi>Lily</hi> being white, is embleme of purity.</note>
+         <hi>Lily</hi> notes thy spotlesse puritie:</l>
+      <l>
+         <hi>E</hi>mbleme is
+<note n="*" place="margin">
+            <hi>For</hi>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap> the Greeke word for <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> signifies a Rocke, and is the embleme of Constancy.</note>
+         <hi>Peter</hi> of thy constancie;</l>
+      <l>
+         <hi>R</hi>are are these Patterns for Posteritie.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>L</hi>earne then of <hi>Lilie</hi> (Christians) pure to be,</l>
+      <l>
+         <hi>I</hi>t is the thing his blest Soule longs to see:</l>
+      <l>
+         <hi>L</hi>earne of this Saint-like <hi>Peter</hi> constancie,</l>
+      <l>
+         <hi>Y</hi>e that with him will liue aeternally.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

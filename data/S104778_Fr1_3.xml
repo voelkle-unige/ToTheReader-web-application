@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Breton, Nicholas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104778_Fr1_3</idno>
+           <idno type="DLPS">A16760</idno>
+           <idno type="STC">3667</idno>
+           <idno type="ESTC">S104778</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Breton, Nicholas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A merrie dialogue betvvixt the taker and mistaker</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Shaw, James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>6, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>F I be not mistaken, there are many Takers &amp; Mistakers in this world, who take themselues to be wise with a litle wit, &amp; rich with a litle welth. Some are taken for religious, that with their hipocrisie cousin a num<g ref="char:EOLhyphen"/>ber of simple people: other are taken for good men, that haue a litle more wealth then honestie: and some are taken for fooles, that haue more conscience then cunning: but happie are they, who take the right course to their soules comfort. In this discourse following, you shall see diuerse pretie passages betwixt the Taker and the Mistaker, perhaps as pleasing for the mirth, as prof<gap reason="illegible" resp="#oxf" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ble for the matter. Now how euery one will take it, I know not. The best mindes I know will take nothing ill, that is meant well; and for the worst, they know not how to take any thing well, how good so ere it be: and therfore intrea<g ref="char:EOLhyphen"/>ting euery man to take it as he list, lest I should be behol<g ref="char:EOLhyphen"/>ding to I know not whom for I know not what, I leaue to the Printer to take his price, and you to take your pleasure; and so rest</p>
+   <closer>
+      <signed>Your friend, if I be not mistaken, NICHOLAS BRETON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

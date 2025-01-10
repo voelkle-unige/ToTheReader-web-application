@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125294_Fr4_2</idno>
+           <idno type="DLPS">A73706</idno>
+           <idno type="STC">4683.5</idno>
+           <idno type="ESTC">S125294</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Three profitable sermons. 1. A pastorall charge. 2. Christs Larum-bell. 3. The soules sentinell : Preached at seuerall times vpon sundry occasions, by Richard Carpenter pastor of Sherwill in Devon</title>
+                 <author>Carpenter, Richard</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <distributor>Constable, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>6, 71, 9, 66, 8, 112 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="81"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, though it bee often true, that he which putteth in Print, what hee preached in the pulpit, bindeth himselfe to loose a portion of his former repu<g ref="char:EOLhyphen"/>tation, because heereby his sayings become dispirited and without life, in regarde whereof the Author of this Sermon could haue wished, that the day of its birth, had beene the day of its buriall: yet notwith<g ref="char:EOLhyphen"/>standing, yeelding to the often and earnest importunity of his friends, and ayming rather at thy benefit, <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>hen affecting his owne credit, hee
+<pb facs="82"/> hath beene content to suffer the same in its natiue attire, without any new dresse at all, to passe to the publike view and thy proper vse. Vse it then &amp; peruse it at thy plea<g ref="char:EOLhyphen"/>sure, and enioy it in the Lord, for thy greatest good in life, and com<g ref="char:EOLhyphen"/>fort in death. Thus neither desi<g ref="char:EOLhyphen"/>ring to bee commended of the igno<g ref="char:EOLhyphen"/>rant for learned, nor caring if hee be condemned of the learned for ig<g ref="char:EOLhyphen"/>norant, but wishing to both as to himselfe, the increase of all true sa<g ref="char:EOLhyphen"/>uing knowledge and Christian hap<g ref="char:EOLhyphen"/>pinesse; hee biddeth both thee and them heartily</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

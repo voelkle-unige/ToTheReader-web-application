@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117445_Bo1_12</idno>
+           <idno type="DLPS">A12406</idno>
+           <idno type="STC">22719</idno>
+           <idno type="ESTC">S117445</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sermons of Maister Henrie Smith : gathered into one volume. Printed according to his corrected copies in his life time</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Orwin, Thomas.</publisher>
+                            <publisher>Robinson, Robert.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>14, 720, 815-1092, 24 + pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="322" facs="173"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O controll those false copies of
+this Sermon, which were Prin<g ref="char:EOLhyphen"/>ted
+without my knowledge, pat<g ref="char:EOLhyphen"/>ched
+(as it seemeth) out of some
+borrowed notes; and to stop the
+Printing of it againe without
+my corrections, as it was intended, because they
+had got it licensed before, although vtterly vn<g ref="char:EOLhyphen"/>willing
+(for some respects) to haue it published:
+which made mee withstand their importunitie so
+long, yet seeing more inconuenience than I thought
+of, I suffered that which I coulde not hinder.
+And now hoping that it is Gods wil to profit some
+by it,<note place="margin">Gen. 43. 11.</note> as Iacob parted from Beniamin: so that
+which must be, let be: and the Lorde giue thee a
+blessing with it.</p>
+</div>
+        </body>
+  </text>
+</TEI>

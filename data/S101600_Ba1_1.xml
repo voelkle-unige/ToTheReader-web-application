@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101600_Ba1_1</idno>
+           <idno type="DLPS">A08064</idno>
+           <idno type="STC">1843</idno>
+           <idno type="ESTC">S101600</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A shorte catechisme of Cardall Bellarmine : illustrated with the images</title>
+                 <author>Bellarmino, Roberto Francesco Romolo, saint</author>
+                 <imprint>
+                    <publisher>Mang, Christoph</publisher>
+                    <pubPlace>Germany--Augsburg</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>2, 116, 2 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="62"/>
+   <head>Errata.</head>
+   <p>Pag. 23. expreslie. but. 25. Father. 38. vaine. 41. because. 52. com̄aund. 53 Two. 56. To. 73 giuen. 75. Wherfore. 76. of the holy, 97. is. 107. in te sight.</p>
+   <p>Caetera lector Anglus typographo Germano ignoscet.</p>
+</div>
+        </body>
+  </text>
+</TEI>

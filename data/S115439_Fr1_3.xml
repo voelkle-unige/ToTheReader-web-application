@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>D., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115439_Fr1_3</idno>
+           <idno type="DLPS">A15972</idno>
+           <idno type="STC">2730</idno>
+           <idno type="ESTC">S115439</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>D., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Certaine Psalmes of Dauid, heretofore much out of vse : because of their difficult tunes. The nomber whereof are contained in the page following. Reduced into English meter better fitting the common tunes. By H.D</title>
+                 <author>Dod, Henry</author>
+                 <imprint>
+                    <publisher>Waldegrave (Walgrave), Robert</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>28 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Orasmuch (Chri<g ref="char:EOLhyphen"/>stian Reader) as there are diuers of the singing Psal<g ref="char:EOLhyphen"/>mes much out of vse onely because of the difficultie of their tunes: And forasmuch as the moste of them are of those 15. Psalmes, which are called <hi>Psalmes of De<g ref="char:EOLhyphen"/>grees,</hi> that is, very excellent Psal<g ref="char:EOLhyphen"/>mes, and extraordinarily penned by the wisdom of the holy Ghost. I haue (by the helpe of God) re<g ref="char:EOLhyphen"/>duced nyne of them (which I take to be all wherein any difficulty of tune consisteth) into English me<g ref="char:EOLhyphen"/>ter fitting the common tunes. The
+<pb facs="3"/>
+which at the earnest request of di<g ref="char:EOLhyphen"/>uers my godly &amp; learned friends, I haue caused to be printed: wher<g ref="char:EOLhyphen"/>in, as I haue principally sought the glorye of God, and thy spirituall comfort, so I pray thee accept ther of in such Christian loue, as I haue laboured to effect this small peece of seruice vnto thee, without im<g ref="char:EOLhyphen"/>puting either presumption or rash nes vnto me. For the Lord know<g ref="char:EOLhyphen"/>eth, that in the simplicitie of my hart I haue done it, and in all sub<g ref="char:EOLhyphen"/>mission to the better learned, of whome I hope that God wil raise some, better to perform this work. Thus beseeching the Almighty to fill thy hart with all spirituall com<g ref="char:EOLhyphen"/>fort, meete for thee in his infinite wisdome, I commend thee to his grace.</p>
+   <closer>
+      <signed>Thine in the Lord Iesus, H. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

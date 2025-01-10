@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116532_Fr1_4</idno>
+           <idno type="DLPS">A02727</idno>
+           <idno type="STC">12858</idno>
+           <idno type="ESTC">S116532</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Messiah already come. Or Profes [sic] of Christianitie : both out of the Scriptures, and auncient rabbins, to convince the Iewes, of their palpable, and more then miserable blindnesse (if more may be) for their long, vaine, and endlesse expectation of their Messiah (a they dreame) yet for to come. Written in Barbarie, in the yeare 1610, and for that cause directed to the dispersed Iewes of that countrie, and in them to all others now groaning under the heavy yoake of this their long and intollerable captivitie, which yet one day shall have an end</title>
+                 <author>Harrison, John</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1619</date>
+                 <publisher>Jones, William 3.</publisher>
+                            <publisher>Thorp, Giles</publisher>
+                        </imprint>
+                 <extent>10, 68 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Must confesse (Christian Reader) that a great part of the proofes following, together with the methode, I have borrowed out of a Booke called the <hi>Christian Directorie</hi> or <hi>Resolution,</hi> in English, which I had with me in <hi>Barbarie:</hi> none else of that argument, but the Booke of Bookes, which is the <hi>Bible.</hi> And therefore least any one should accuse me hereafter of secret theft; I doe ingeniously acknowledge before hand with the Poet: <hi>Fateor me transtulisse.</hi> But yet with many additions, and alterations of my owne, I have made it of right (as it were my owne, without any wrong to the Author. And so I referre it to thy Christian censure.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Jn Fidelissimum HORATII inter∣pretem T. H. Equitem Auratum.</title>
+           <author>L., F.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104228_Fr1_3</idno>
+           <idno type="DLPS">A03674</idno>
+           <idno type="STC">13800</idno>
+           <idno type="ESTC">S104228</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Jn Fidelissimum HORATII inter∣pretem T. H. Equitem Auratum.</title>
+                 <author>L., F.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Odes of Horace the best of lyrick poets : contayning much morallity, and sweetnesse. Selected, and translated by Sr: T:H: 1625</title>
+                 <author>Horace</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Lee, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>10, 67, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>Jn Fidelissimum <hi>HORATII</hi> inter<g ref="char:EOLhyphen"/>pretem T. H. <hi>Equitem Auratum.</hi>
+   </head>
+   <lg>
+      <l>
+         <hi>ANglia</hi> nunc Musis dominatur; <hi>Horatius An<g ref="char:EOLhyphen"/>glus</hi>
+      </l>
+      <l>Laetatur; Lyrico victa{que} <hi>Roma</hi> suo est;</l>
+      <l>Talia, linguarum Dominam mirabere posse</l>
+      <l>Dicere; non magis est, haec potuisse, rudem?</l>
+      <l>
+         <hi>Flaccus</hi> mutatur, remanet sed candor in Illo;</l>
+      <l>Plumeus, in doctas, concidit imber, aquas;</l>
+      <l>Sic tibi gent is honos, nostrae tibi debita linguae</l>
+      <l>Gloria; &amp; <hi>Angliacae</hi> Laurea vitta Comae.</l>
+   </lg>
+   <closer>
+      <signed>F. L.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

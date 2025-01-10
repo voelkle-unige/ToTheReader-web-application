@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ben. Ar. Montan.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106129_Ba1_1</idno>
+           <idno type="DLPS">A16675</idno>
+           <idno type="STC">3581</idno>
+           <idno type="ESTC">S106129</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ben. Ar. Montan.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Psalmes of David the king and prophet : and of other holy prophets, paraphas'd [sic] in English: conferred with the Hebrew veritie, set forth by B. Arias Montanus, together with the Latine, Greek Septuagint, and Chaldee paraphrase. By R.B</title>
+                 <imprint>
+                    <publisher>Young (Junius), Robert</publisher>
+                    <distributor>Constable, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>6, 300, 6 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication_and_acknowledgements">
+   <pb facs="157"/>
+   <div type="part">
+      <head>Ben. Ar. Montan.</head>
+      <p>Poëtica sine dubio est Psalmorum in Fonte com<g ref="char:EOLhyphen"/>positio.</p>
+   </div>
+   <div type="part">
+      <head>D. J. Rainold. Oxon.</head>
+      <p>Poëtica sine dubio, sic omnibus virtutibus tam modulatè consonantibus; omnibus partibus tam egregiè consentientibus; luminibus om<g ref="char:EOLhyphen"/>nibus tam excellenter refulgentibus, enite<g ref="char:EOLhyphen"/>scens; ut nihil veritati, lenitate; nihil gravi<g ref="char:EOLhyphen"/>tati, amoenitate; nihil Majestati, festivitate; nihil Dignitati, jucunditate; nihil Magnitu<g ref="char:EOLhyphen"/>dini, concinnitate; nihil denique Divinitati, humanitate, detrahitur</p>
+   </div>
+   <div type="part">
+      <head>MEMORIAE</head>
+      <p>Reverendss<seg rend="sup">i</seg>. P. Honoratiss<seg rend="sup">i</seg>. D. L. Andrewes, nuper D. Episc. Winton. Dom. &amp; Tutoris mei Co<g ref="char:EOLhyphen"/>lendiss<seg rend="sup">i</seg>. cujus auspiciis inchoatum hoc opus, Ego <hi>R.B.</hi> Observantiss. Dd.c.</p>
+      <p>Coelum Animam; Marmor tua condidit ossa; su<g ref="char:EOLhyphen"/>persunt Ingenii Gemmae, Viva Sepulchra tui.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115760_Bo1_16</idno>
+           <idno type="DLPS">A08035</idno>
+           <idno type="STC">1840</idno>
+           <idno type="ESTC">S115760</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A most learned and pious treatise : full of diuine and humane philosophy, framing a ladder, wherby our mindes may ascend to God, by the steps of his creatures. Written in Latine by the illustrous and learned Cardinall Bellarmine, of the society of Iesus. 1615. Translated into English, by T.B. gent</title>
+                 <author>Bellarmino, Roberto Francesco Romolo, saint</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>24, 575, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>The faultes escaped in printing we trust the gentle Reader will of his curtesie easily amend and pardon.</p>
+   <trailer>FINIS.</trailer>
+   <pb facs="306"/>
+   <pb facs="306"/>
+</div>
+        </body>
+  </text>
+</TEI>

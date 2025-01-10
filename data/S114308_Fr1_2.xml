@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114308_Fr1_2</idno>
+           <idno type="DLPS">A10027</idno>
+           <idno type="STC">20278</idno>
+           <idno type="ESTC">S114308</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sermon of spirituall life and death : Preached before the king, at White-Hal, Nouember, 1616 by the late faithfull minister of Iesus Christ, Iohn Preston, Dr. In Diuinity, chapplaine in ordinar [y] to his maiesty, Mr. of Emmanuel Colledge in Cambridge, and sometimes preacher at Lincolnes Inne</title>
+                 <author>Preston, John</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>4, 29, that is 33, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>ILLVSTRISSIMIS, VENE RABILISSI<g ref="char:EOLhyphen"/>MIS, ET PIISSIMIS VIRIS NATHANIELIRICH MILITI; RICHARDO KNIGHTLIE, ET IOHANNI PIM, ARMIGERIS; GVLIELMVS PRYNNVS Hancposthumam aulicam concionem Clarissimi IOANNIS PRESTONI, SS. Theologiae Do<g ref="char:EOLhyphen"/>ctoris, Regis Capellani, Collegij Immanuelis Magistri, et Hospitij Lincolniensis nuper Concionatoris, nunc primum typis mandatam, Annotatio<g ref="char:EOLhyphen"/>nibusque nonnullis marginalibus illustratam, Amoris et Beneuolentiae suae minutulum pignus D. D. D.</p>
+   <p>Gellius, Noctium Attic. lib. 17. cap. 14.</p>
+   <p>
+      <hi>Beneficium dando accepit, qui dignis dedit.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

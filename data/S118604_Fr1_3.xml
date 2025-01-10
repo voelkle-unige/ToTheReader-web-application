@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Writer to his Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118604_Fr1_3</idno>
+           <idno type="DLPS">A17877</idno>
+           <idno type="STC">4543</idno>
+           <idno type="ESTC">S118604</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Writer to his Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Obseruations in the art of English poesie. By Thomas Campion. Wherein it is demonstratiuely prooued, and by example confirmed, that the English toong will receiue eight seuerall kinds of numbers, proper to it selfe, which are all in this booke set forth, and were neuer before this time by any man attempted</title>
+                 <author>Campion, Thomas</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Wise (Wythes), Andrew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>6, 43, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_book">
+   <pb facs="4"/>
+   <head>The Writer to his Booke.</head>
+   <lg>
+      <l>WHether thus hasts my little booke so fast?</l>
+      <l>To Paules Churchyard; what in those cels to stād,</l>
+      <l>With one leafe like a riders cloke put vp</l>
+      <l>To catch a termer? or lye mustie there</l>
+      <l>With rimes a terme set out, or two before?</l>
+      <l>Some will redeeme me; fewe; yes, reade me too;</l>
+      <l>Fewer; nay loue me; now thou dot'st I see;</l>
+      <l>Will not our English <hi>Athens</hi> arte defend?</l>
+      <l>Perhaps; will lofty courtly wits not ayme</l>
+      <l>Still at perfection? If I graunt? I slye;</l>
+      <l>Whether? to Pawles; Alas poore booke I rue</l>
+      <l>Thy rash selfe-loue, goe spread thy pap'ry wings,</l>
+      <l>Thy lightnes can not helpe, or hurt my fame.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

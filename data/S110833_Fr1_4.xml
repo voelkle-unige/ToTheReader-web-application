@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Gulielmi Salustij primae Heb∣domadis Diem secundum à Thoma Wintero Anglicè reddium.</title>
+           <author>Sanford, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110833_Fr1_4</idno>
+           <idno type="DLPS">A11402</idno>
+           <idno type="STC">21659</idno>
+           <idno type="ESTC">S110833</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Gulielmi Salustij primae Heb∣domadis Diem secundum à Thoma Wintero Anglicè reddium.</title>
+                 <author>Sanford, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second day of the First vveeke of the most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done out of French into English heroicall verse by Thomas VVinter, Maister of Artes</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Shaw, James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>8, 40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>In <hi>Gulielmi Salustij</hi> primae Heb<g ref="char:EOLhyphen"/>domadis Diem secundum à Thoma Wintero Anglicè reddi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>um.</head>
+   <l>QVod tibi materiem tantam, tam nobile pensum</l>
+   <l>Sumpsisti, valde laudo applaudo{que} libenter.</l>
+   <l>Nominis auspicio quid conuenientius aptes,</l>
+   <l>Quam quod nunc proc<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>dis opus tam diuite venâ?</l>
+   <l>Quem potuit decuisse magis tot scribere fumos,</l>
+   <l>Fulmina cum ventis, tempestates{que} sonoras,</l>
+   <l>Vnde repente ruit lapis ille c<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>aunius atris</l>
+   <l>Nubibus excussus, cum <hi>Iupiter</hi> intonat altè;</l>
+   <l>Quis melius nimbos &amp; roscida tempora dicat,</l>
+   <l>Atque pruinosos grumos, cùm stiria pendet</l>
+   <l>Et glacies per quam tecti suggrundia squalent;</l>
+   <l>Aeris &amp; quicquid dat contignatio triplex,</l>
+   <l>Quâ <hi>Natura</hi> locans aeterni frigoris arcem</l>
+   <l>Rorat agros, atque vnde <hi>Iouis</hi> distringitur ira:</l>
+   <l>Quam qui fers <hi>Hyemis</hi> nomen? quippe ille putatur</l>
+   <l>Nimborum{que} niuis{que} pater pluuialibus astris.</l>
+   <l>
+      <hi>Phoebus</hi> auus, <hi>Tellus</hi> mater, matertera nubes,</l>
+   <l>Aër circus, vbi sese haec miracula pandunt,</l>
+   <l>Quo natura suam solet exercere palestram.</l>
+   <l>Macte; tuum vatem vates imitare priorem,</l>
+   <l>Floribus ornatus vernantia tempora posthaec</l>
+   <l>Persequere, vt qui nunc nobis tot dira minando</l>
+   <l>Luxuriem mundi{que} decus frondare videris;</l>
+   <l>Obstrictis ventis, &amp; factus, mitior auras</l>
+   <l>Dando salutares, dicare <hi>Salustius</hi> alter.</l>
+   <closer>
+      <signed>Io. Sanfordus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

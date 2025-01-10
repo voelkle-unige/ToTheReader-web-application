@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In praise of the Translator.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115671_Fr1_7_15</idno>
+           <idno type="DLPS">A17832</idno>
+           <idno type="STC">4510.8</idno>
+           <idno type="ESTC">S115671</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In praise of the Translator.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Britain, or A chorographicall description of the most flourishing kingdomes, England, Scotland, and Ireland, and the islands adjoyning, out of the depth of antiquitie : beautified vvith mappes of the severall shires of England: vvritten first in Latine by William Camden Clarenceux K. of A. Translated newly into English by Philémon Holland Doctour in Physick: finally, revised, amended, and enlarged with sundry additions by the said author</title>
+                 <author>Camden, William</author>
+                 <imprint>
+                    <distributor>Latham (Lathum, Lautham), George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 <publisher>Bishop, Elizabeth.</publisher>
+                            <publisher>Kingston, Felix.</publisher>
+                            <publisher>Legat, John 2.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>16, 822, 233, 59 pages, 50 plates, mostly folded, illustrations, maps, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In praise of the Translator.</head>
+   <l>
+      <hi>CAmden</hi> unto the learned did discover,</l>
+   <l>What <hi>Holland</hi> to the <hi>Whol-land</hi> doth recite;</l>
+   <l>Who can but read an <hi>English Author</hi> over,</l>
+   <l>May thereby reape much profit with delight,</l>
+   <l>Viewing the manners, lawes, rites situation,</l>
+   <l>Of his owne native soile, explain'd so well;</l>
+   <l>With all can be desir'd of <hi>British Nation,</hi>
+   </l>
+   <l>That now <hi>Great Britaine</hi> hath no <hi>Parralell</hi>:</l>
+   <l>So richly deck't, that her faire beautious blaze,</l>
+   <l>By matchlesse Art of thine industrious spirit,</l>
+   <l>Adornes the World, like <hi>Phoebus</hi> golden raies.</l>
+   <l>Thou and thy workes eternall fame doe merit</l>
+   <l>Anagr.</l>
+   <l>Thou <hi>Onli-homland-help</hi> in admiration,</l>
+   <l>Like that rare <note n="*" place="margin">
+         <hi>Lady beth <gap reason="illegible" resp="#pdcc" extent="1 word">
+               <desc>〈◊〉</desc>
+            </gap> Mothe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+            <gap reason="illegible" resp="#pdcc" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap> now <gap reason="illegible" resp="#pdcc" extent="1 word">
+               <desc>〈◊〉</desc>
+            </gap> Georg<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> Berkl<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+         </hi>
+      </note>
+      <hi>Phoenix</hi> cause of this translation.</l>
+   <closer>
+      <signed>
+         <hi>THOMAS MERIELL
+Master of Arts.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

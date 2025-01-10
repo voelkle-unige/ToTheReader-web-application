@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN DOMINI SIMONIS WASTELLI opusculum.</title>
+           <author>H., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119487_Fr1_6</idno>
+           <idno type="DLPS">A14802</idno>
+           <idno type="STC">25103</idno>
+           <idno type="ESTC">S119487</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN DOMINI SIMONIS WASTELLI opusculum.</title>
+                 <author>H., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A true Christians daily delight : being the summe of euery chapter of the Old and New Testaments, set downe alphabetically, in English verse, that the Scriptures we reade may more happily be remembred, and the things forgotten more easily recalled. By Simon Wastel, sometimes of Queenes Colledge in Oxford, now schoole-master of the Free-schoole in Northampton</title>
+                 <author>Shaw, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Milbourne (Milburne, Mylbourne), Robert</publisher>
+                        </imprint>
+                 <extent>16, 196, 4 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="T H" type="encomium">
+   <pb facs="7"/>
+   <head>IN DOMINI SIMONIS WASTELLI opusculum.</head>
+   <l>NOn ego lascivos ausim d<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>fendere Vates,</l>
+   <l>Falsa{que} fucatis dissimulare modis:</l>
+   <l>Sed pia <hi>Wastelli</hi> laudare Poëmata fa<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> est,</l>
+   <l>Vnde patent certis fas{que} nefas{que} locis.</l>
+   <l>Sic petitur Coelum. <hi>Simeonis</hi> gaudia cantet</l>
+   <l>Qui facilem Christi callet ad astra viam.</l>
+   <closer>
+      <signed>T. H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

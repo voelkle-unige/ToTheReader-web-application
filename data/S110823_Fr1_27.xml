@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In duo Poetarum lumina, Bartam &amp; Sylveste∣rum, carmen Asclepiadeum Gliconicum, dicol. Distroph.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110823_Fr1_27</idno>
+           <idno type="DLPS">A11395</idno>
+           <idno type="STC">21651</idno>
+           <idno type="ESTC">S110823</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In duo Poetarum lumina, Bartam &amp; Sylveste∣rum, carmen Asclepiadeum Gliconicum, dicol. Distroph.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Du Bartas his deuine weekes and workes translated: and dedicated to the Kings most excellent Maiestie by Iosuah Syluester</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Johnson (Jonson), Arthur.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>32, 697, 6, 698-819, 47, 87, 9 pages, 1 leaf of plates, illustrations, portraits (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="13"/>
+   <head>In duo Poetarum lumina, <hi>Bartam &amp; Sylveste<g ref="char:EOLhyphen"/>rum, carmen Asclepiadeum Gliconicum, dicol. Distroph.</hi>
+   </head>
+   <lg>
+      <l>TE <hi>Barta</hi> caneret Melpomenes melos,</l>
+      <l>Vel Germana soror nympha Polymnia,</l>
+      <l>Musarúmu<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> potens pater,</l>
+      <l>Pulsans plectra sonantia.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Syluestere,</hi> meam tusuperas lyram,</l>
+      <l>Et linguam modulum, dum rudis obstrepit:</l>
+      <l>Vatem commeruit decus</l>
+      <l>Illustrem ingenij tui.</l>
+   </lg>
+   <lg>
+      <l>Nemo fronte ger<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ns Daphnidis arborem,</l>
+      <l>Vel Martem valuit scribere bellicum</l>
+      <l>Digne, vel Veneris rosae</l>
+      <l>Vultum purpureae parem:</l>
+   </lg>
+   <lg>
+      <l>Nec vestram valeo tollere versibus</l>
+      <l>Laudem ter geminam Sicaelidum meis</l>
+      <l>Sacra progenies satis;</l>
+      <l>Non vos aequiparem modis.</l>
+   </lg>
+   <lg>
+      <l>Gallorum D<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>uidas hospites arborum</l>
+      <l>
+         <hi>Bartas</hi> grandiloqui carminis alite</l>
+      <l>Praestat: noster amat sui</l>
+      <l>Ponti vincere Naiadas:</l>
+   </lg>
+   <lg>
+      <l>Ambo sic proprias viribus ingenî</l>
+      <l>Divas ruricolas ponticolas simul</l>
+      <l>Vicistis, trivij meum</l>
+      <l>Vicistis miserum melos.</l>
+   </lg>
+   <lg>
+      <l>Coelum percutiat Gallia vertice,</l>
+      <l>Ipsos coelicolas terra Britannica,</l>
+      <l>Quae vates tulerint duos</l>
+      <l>Claros prae reliquis novos.</l>
+   </lg>
+   <closer>
+      <signed>G. B. Cantabrig.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

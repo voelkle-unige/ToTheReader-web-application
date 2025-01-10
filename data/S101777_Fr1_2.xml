@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101777_Fr1_2</idno>
+           <idno type="DLPS">A13631</idno>
+           <idno type="STC">23914</idno>
+           <idno type="ESTC">S101777</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Theologicall logicke: or the third part of the Tryall of truth : wherein is declared the excellency and æquity of the Christian faith, and that it is not withstood and resisted; but assisted and fortified by all the forces of right reason, and by all the aide that artificiall logicke can yeeld. ... By Iohn Terry Minister of the Word of God at Stocton</title>
+                 <author>Terry, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>2, 229, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="2"/>
+   <q>
+      <bibl>2 THESS. 3. 1.</bibl>
+      <p>Furthermore brethren, pray for vs, that the word of God may haue a free current, and be glorified as it is with you: and that we may be deliuered from vnreasonable and wicked men; for all haue not faith.</p>
+   </q>
+   <q>
+      <bibl>AVG. DE TRIN. l. 4. c. 6.</bibl>
+      <p>
+         <hi>Against reason no sober man, (that is himselfe in his right wits) against Scripture no Christian man (that is of a sound and orthodoxe faith,) against the Church no man of a peaceable spirit, (that is not a Schisma<g ref="char:EOLhyphen"/>ticke, or at the least, somewhat schismatically affected) will reason or dispute.</hi>
+      </p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

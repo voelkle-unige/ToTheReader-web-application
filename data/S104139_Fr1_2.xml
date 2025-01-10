@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104139_Fr1_2</idno>
+           <idno type="DLPS">A12367</idno>
+           <idno type="STC">22685</idno>
+           <idno type="ESTC">S104139</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A preparatiue to mariage : The summe whereof was spoken at a contract, and inlarged after. Whereunto is annexed a treatise of the Lords Supper, and another of vsurie. By Henrie Smith</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>12, 116, 208 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Religious</term>
+                    <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>
+      <pb facs="2"/>
+NOBILISSIMO VIRO GVILIELMO CE<g ref="char:EOLhyphen"/>cilio, Equiti aurato, Baroni <hi>Burgh<g ref="char:EOLhyphen"/>leiensi, summo Angliae Thesaurario, &amp;</hi> Cantabrigiensis Academiae Cancellario, <hi>Henricus Smithus</hi> haec tria pignota in grati animi testimonium consecrauit.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           <author>Dowland, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106689_Fr1_3</idno>
+           <idno type="DLPS">A20693</idno>
+           <idno type="STC">7096</idno>
+           <idno type="ESTC">S106689</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 <author>Dowland, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third and last booke of songs or aires : Newly composed to sing to the lute, orpharion, or viols, and a dialogue for a base and meane lute with fiue voices to sing thereto. By Iohn Dowland, Bacheler in Musicke, and lutenist to the most high and mightie Christian the fourth by the grace of God king of Denmark and Norwey, &amp;c</title>
+                 <author>Dowland, John</author>
+                 <imprint>
+                    <distributor>Adams, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Morley, Thomas, Assignee (with assent, etc.) of.</publisher>
+                            <publisher>Short, Peter</publisher>
+                        </imprint>
+                 <extent>48 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>The Epistle to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>HE applause of them that iudge, is the incourage<g ref="char:EOLhyphen"/>ment
+of those that write: My first two bookes of
+aires speed so well that they haue produced a third,
+which they haue fetcht far from home, and brought
+euen through the most perilous seas, where hauing
+escapt so many sharpe rocks, I hope they shall not be
+wrackt on land by curious and biting censures.
+As in a hiue of bees al labour alike to lay vp hon<g ref="char:EOLhyphen"/>ny
+opposing themselues against none but fruitles drones; so in the house of
+learning and fame, all good indeuourers should striue to ad somewhat that
+is good, not malicing one an other, but altogether bandying against the i<g ref="char:EOLhyphen"/>dle
+and malicious ignorant. My labours for my part I freely offer to eue<g ref="char:EOLhyphen"/>rie
+mans iudgement, presuming, that fauour once attayned, is more easily
+encreased then lost.</p>
+   <closer>
+      <signed>IOHN DOWLAND.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

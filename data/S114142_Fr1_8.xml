@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>E.P. Theologus, amico suo ARAHAMO HOLLANDO, D. PHILEMONIS F. in NAVMACHIAM suam.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114142_Fr1_8</idno>
+           <idno type="DLPS">A03455</idno>
+           <idno type="STC">13579</idno>
+           <idno type="ESTC">S114142</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>E.P. Theologus, amico suo ARAHAMO HOLLANDO, D. PHILEMONIS F. in NAVMACHIAM suam.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Hollandi post-huma : A funerall elegie of King Iames: With a congratulatory salve to King Charles. An elegie of the magnanimous Henry Earle of Oxford. A description of the late great, fearefull and and [sic] prodigious plague: and divers other patheticall poemes, elegies, and other lines, on divers subiects. The post-humes of Abraham Holland, sometimes of Trinity-Colledge in Cambridge. The authors epitaph, made by himselfe</title>
+                 <author>Holland, Abraham</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas.</publisher>
+                            <publisher>Holland, Henry</publisher>
+                        </imprint>
+                 <extent>128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>
+      <hi>E.P.</hi> Theologus, amico suo ARAHAMO HOLLANDO, D. PHILEMONIS F. in <hi>NAVMACHIAM</hi> suam.</head>
+   <l>
+      <hi>NAumachiam</hi> lustrando tuam, <hi>mihi</hi> flumine visus,</l>
+   <l>Iugenij placido desperijsse tui:</l>
+   <l>Arma virum, tabulas Guleas, &amp; Scuta per <gap reason="illegible: blotted" extent="2 letters">
+         <desc>••</desc>
+      </gap>das</l>
+   <l>Aspicio, &amp; mens est Carmine mersa simul.</l>
+   <l>Emergo! &amp; tabulas votiuas dedico Musae,</l>
+   <l>Docte <hi>HOLLANDE</hi> tua, quae bene facta canit.</l>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

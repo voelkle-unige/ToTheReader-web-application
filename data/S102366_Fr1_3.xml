@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102366_Fr1_3</idno>
+           <idno type="DLPS">A01005</idno>
+           <idno type="STC">11110</idno>
+           <idno type="ESTC">S102366</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Church conquerant ouer humane wit. Or The Churches authority demonstrated by M. VVilliam Chillingvvorth (the proctour for vvit against her) his perpetual contradictions, in his booke entituled, The religion of Protestants a safe vvay to saluation</title>
+                 <author>Floyd, John</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>193, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="12" facs="7"/>
+   <head>An Aduertisement to the Reader.</head>
+   <p>THis Treatise, Good Reader, was to the last word and syllable thereof, finished, reuiewed, and ready for the Print longe since, euen in April of this yeere <hi>1638.</hi> so that it might haue been printed, and published, and haue come to thy sight in the last Trinity Tearme, but for the tem<g ref="char:EOLhyphen"/>pests and stormes of warre, which infested vltra-marine Coun<g ref="char:EOLhyphen"/>tries neere vnto England, and were no where more boisterous then ouer that place, where this Treatise should haue been pres<g ref="char:EOLhyphen"/>sed into the light. For this thundering noise of <hi>Mars</hi> frigh<g ref="char:EOLhyphen"/>ted workemen, and droue them away into other calmer coastes, and afterward brought sharpe and longe sickenesse, both on the Printer and Authour, which hath been the cause it commeth so late vnto publique view. I hope this remissnes, and tardity will be recompenced, and satisfyed by ensuing speed and dili<g ref="char:EOLhyphen"/>gence, in deliuering vnto the world other Treatises, which haue been also longe since ready for the Print, against this cunning and close Vnderminer of <hi>Christian Religion,</hi> whiles he pre<g ref="char:EOLhyphen"/>tendes to be an opposer but of the <hi>Catholique Roman.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

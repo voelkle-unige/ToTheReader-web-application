@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his much esteemed Friend, and fellow Souldier, the Author.</title>
+           <author>Wheatley, Andrew</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101043_Fr1_12</idno>
+           <idno type="DLPS">A04919</idno>
+           <idno type="STC">1506</idno>
+           <idno type="ESTC">S101043</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his much esteemed Friend, and fellow Souldier, the Author.</title>
+                 <author>Wheatley, Andrew</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Military discipline: or, the yong artillery man : Wherein is discoursed and showne the postures both of musket and pike: the exactest way, &amp;c. Together with the motions which are to be used, in the exercising of a foot-company. With divers and severall formes and figures of battell; with their reducements; very necessary for all such as are studious in the art military. By William Barriff</title>
+                 <author>Barriffe, William</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Mab (Mabbe), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>24, 326, 10 pages, plates, illustrations, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>To his much esteemed Friend, and fellow Souldier, the <hi>Author.</hi>
+   </head>
+   <lg>
+      <l>
+         <seg rend="decorInit">C</seg>Ritticke, observe thy distance, censure not,</l>
+      <l>Nor spend thy judgement like an Ideot</l>
+      <l>That nothing knows; If knowing, know thou then,</l>
+      <l>Thou must be rank't amongst the Envious men.</l>
+      <l>If once thou dost attempt to contradict</l>
+      <l>The matter that this Booke conteins in it:</l>
+      <l>The Method's plaine; not deckt with complements,</l>
+      <l>Those frivolous, idle, needlesse supplements.</l>
+      <l>
+         <pb facs="12"/>
+The substance ponderous is; no fond conceit</l>
+      <l>Affronts thee, friend. With shame they shall retreit;</l>
+      <l>And so retrit, as not to charge againe</l>
+      <l>In Front, in Reere, or Flanks. Thou shalt disdaine</l>
+      <l>All Formalists, that faine would Souldiers seeme;</l>
+      <l>Who much expressive are, in judgement greene.</l>
+   </lg>
+   <closer>
+      <signed>Andrew Wheatley. Ex Hospitio Gray.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

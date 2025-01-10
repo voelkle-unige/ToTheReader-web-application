@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the curteous Reader.</title>
+           <author>D., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116525_Fr1_3</idno>
+           <idno type="DLPS">A20818</idno>
+           <idno type="STC">7199</idno>
+           <idno type="ESTC">S116525</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the curteous Reader.</title>
+                 <author>D., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The harmonie of the church : Containing, the spirituall songes and holy hymnes, of godly men, patriarkes and prophetes: all, sweetly sounding, to the praise and glory of the highest. Now (newlie) reduced into sundrie kinds of English meeter: meete to be read or sung, for the solace and comfort of the godly. By M.D</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <distributor>Jones (Jhones, Johnes), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the curteous Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, my meaning is not with the varie<g ref="char:EOLhyphen"/>tie of verse to feede any vaine humour, neither to trouble thee with deuises of mine owne inuention, as carieng an ouerweening of mine owne wit: but here I present thee with these Psalmes or Songes of praise, so exactly translated as the prose would permit, or sence would any way suffer me: which (if thou shalt be the same in hart thou art in name, I mean a Christian) I doubt not, but thou wilt take as great delight in these, as in any Poetical fiction. I speak not of <hi>Mars,</hi> the god of Wars, nor of <hi>Venus,</hi> the goddesse of loue, but of the Lord of Hostes, that made heauen and earth: Not of Toyes in Mount <hi>Ida,</hi> but of triumphes in Mount <hi>Sion</hi>: Not of Vanitie, but of Veritie: not of Tales, but of Truethes.</p>
+   <p>Thus submitting my selfe vnto thy clemencie, and my labours vnto thy indifferencie, I wish thee as my selfe.</p>
+   <closer>
+      <signed>Thine, as his owne. M. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

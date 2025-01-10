@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In posthumum libellum .</title>
+           <author>P., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114529_Fr1_8</idno>
+           <idno type="DLPS">A09447</idno>
+           <idno type="STC">19734</idno>
+           <idno type="ESTC">S114529</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In posthumum libellum .</title>
+                 <author>P., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Guilielmi Perkinsi Problema de Romanæ fidei ementito Catholicismo : Estq́ [ue] antidotum contra Thesaurum Catholicum Iodoci Coccij. Et propaideiæ [sic] iuventutis in lectione omnium patrum. Editum post mortem authoris operâ &amp; studio Samuelis Wardi</title>
+                 <author>Perkins, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1604</date>
+                 <publisher>Legat (Legate, Legatt), John 1.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>12, 244, 12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>In posthumum libellum <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <lg>
+      <l>VT fallit malè-suada suos synagoga Papalis,</l>
+      <l>Dum veterum assensum clamita<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> vnanimem▪</l>
+      <l>Vnanimem? at falso: nam nec sententia Christi est</l>
+      <l>Vna audita illi, nec veterum vnanimis.</l>
+      <l>Uin' scire hoc? muliùm hunc evolve revolue libellum,</l>
+      <l>Dicito &amp; harmonicum quid sonat ista lyra?</l>
+   </lg>
+   <closer>
+      <signed>G. P.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

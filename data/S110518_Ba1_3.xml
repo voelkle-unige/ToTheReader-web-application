@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem. F. Y.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1571</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110518_Ba1_3</idno>
+           <idno type="DLPS">A09789</idno>
+           <idno type="STC">20057.5</idno>
+           <idno type="ESTC">S110518</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem. F. Y.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A president for parentes, teaching the vertuous training vp of children and holesome information of yongmen. Written in greke by the prudent and wise phylosopher Choeroneus [sic] Plutarchus, translated and partly augmented by Ed. Grant: very profitable to be read of all tho that desire to be parents of vertuous children. Anno. 1571. Seene and allowed according to the Quenes iniunctions</title>
+                 <author>Plutarch</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1571</date>
+                 </imprint>
+                 <extent>152 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="73"/>
+   <head>Ad Lectorem. F. Y.</head>
+   <lg>
+      <l>HEc ego cum vigili legissem scripta labore</l>
+      <l>Impressa in libro quae praeeunte vide<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Nil aliquando fui visus reperire, quod vllo</l>
+      <l>Esset par illis vtilitate modo.</l>
+      <l>Quisquis enim quanto virtus sit, quaeris, honore,</l>
+      <l>Te{que} lubens eius, participare cupis,</l>
+      <l>Hunc legito librū, quae dant haec scripta memēto,</l>
+      <l>Versato{que} diu quae meminisse voles.</l>
+      <l>Haec bene scripta leg as, bene qui vis dicere mores,</l>
+      <l>Qui pius esse voles, haec bene scripta legas.</l>
+      <l>Virtutis quicun{que} tenet praecepta, suprema</l>
+      <l>Ill'é potest magni scandere regna Iouis,</l>
+      <l>Est homo qui nouit, qui nescit moribus vti</l>
+      <l>Non homo, sub specie, sed fera bruta, viri.</l>
+      <l>Vnde feni laudes? Iuueni laus vnde lato<gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </l>
+      <l>Ʋnde fuit Fabio gloria tanta duci?</l>
+      <l>Multa viris sedem virtus elegit in illis,</l>
+      <l>Iunctus &amp; ingenua cum grauitate pudor.</l>
+      <l>Quod si sint mores &amp; tanto pondere virtus,</l>
+      <l>Hic liber exigui ponderis esse nequit</l>
+      <l>Quod Plutarchus enim Graecis prius, ille Bri<g ref="char:EOLhyphen"/>tannis</l>
+      <l>Transtulit, &amp; scriptis amplificauit opus.</l>
+      <l>Desine propterea <hi>Momi</hi> stirps tota loquacis</l>
+      <l>Immeritam verbis rem violare malis</l>
+      <l>
+         <pb facs="73"/>
+Si laudes cessent, cessent male vulnera hij quae</l>
+      <l>
+         <hi>Mome</hi> tuae, &amp; linguae scommata <hi>Mome</hi> tuae.</l>
+      <l>Hoc eteniu<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> quaecun{que} vides inscripta libello</l>
+      <l>Non nisi cum magno scripta labore vides.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

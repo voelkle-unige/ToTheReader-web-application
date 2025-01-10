@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Contents of this Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115164_Fr1_4</idno>
+           <idno type="DLPS">A01449</idno>
+           <idno type="STC">11572</idno>
+           <idno type="ESTC">S115164</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Contents of this Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A booke of angling, or fishing : Wherein is shewed, by conference with scriptures, the agreement betweene the fishermen, fishes, fishing of both natures temporall, and spirituall. By Samuel Gardiner Doctor of Diuinitie</title>
+                 <author>Gardiner, Samuel</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>8, 162 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="contents_in_verse">
+   <pb facs="5"/>
+   <head>The Contents of this Booke.</head>
+   <p>The summe of this following Treatise is abridged in these two Verses:
+<q>
+         <l>Ecclcsiam pro naue rego: mihi climata mundi</l>
+         <l>sunt mare: scripturae retia: piscis homo.</l>
+      </q>
+   </p>
+   <p>Which I deliuer in English thus:
+<q>
+         <l>The Church I gouerne as a shippe,</l>
+         <l>VVee, seas with world compare,</l>
+         <l>The scritures are the enclosing nettes,</l>
+         <l>And men the fishes are.</l>
+      </q>
+   </p>
+   <p>Wee will follow this diuision, and con<g ref="char:EOLhyphen"/>taine our selues within these limmited bounds.</p>
+</div>
+        </body>
+  </text>
+</TEI>

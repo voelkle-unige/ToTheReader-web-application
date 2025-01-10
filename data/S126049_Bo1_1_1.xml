@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S126049_Bo1_1_1</idno>
+           <idno type="DLPS">B01015</idno>
+           <idno type="STC">4485</idno>
+           <idno type="ESTC">S126049</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The foundation of the [Uni] versitie of Cambridge : vvith a catalogue of the principall founders and [spe] ciall benefactours of all the colledges, and totall number of students, magistrates and officers therein being, anno 1634</title>
+                 <author>University of Cambridge</author>
+                 <imprint>
+                    <distributor>Scot, John 2</distributor>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1634</date>
+                 <publisher>Cambridge University—Printers.</publisher>
+                            <publisher>Peake, Sir Robert 2</publisher>
+                        </imprint>
+                 <extent>1 sheet (1 page), 1°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <p>¶ To the right honourable THOMAS Earl of <hi>Arundell</hi> and <hi>Surrey,</hi> Primier Earl of <hi>England,</hi> and Earl Marshall of the same Kingdome, Baron <hi>Howard, Mowbray, Segrave, Brus,</hi> of <hi>Gower, Fitzallen, Clun, Oswaldstree</hi> and <hi>Mautravers</hi>; Knight of the most nobe Order of the Garter, and one of the Lords of his MAJESTIES most honourable privie Counsell, JOHN SCOT wisheth all increase of honour and felicitie.</p>
+</div>
+        </body>
+  </text>
+</TEI>

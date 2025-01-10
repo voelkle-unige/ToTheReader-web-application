@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>G., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114010_Fr1_6</idno>
+           <idno type="DLPS">A10311</idno>
+           <idno type="STC">20596</idno>
+           <idno type="ESTC">S114010</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>G., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The glorie of man consisting in the excellencie and perfection of woman : Gathered out of Holie Scriptures, and most renowned wryters; as well ancient, as moderne; ecclesiaticall, as morall. Wherevnto is annexed The duetie of husbands</title>
+                 <author>Raban, Edward</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>16, 911, that is 119, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>To the Author.</head>
+   <lg>
+      <l>IN representing to the whole Worldes view,</l>
+      <l>The lyuelie Pourtrait of the Worldes Ad<g ref="char:EOLhyphen"/>mir'd:</l>
+      <l>Yea, Natures Darling, with Her Pray<g ref="char:EOLhyphen"/>ses due:</l>
+      <l>With louelie Grace, and Merits Rayes attir'd:</l>
+      <l>The Worth and Vertue of that Sacred Frame,</l>
+      <l>Thy humble Service doeth thy Presse com<g ref="char:EOLhyphen"/>pell,</l>
+      <l>To vindicate, and blaze abroade Her Fame.</l>
+      <l>Each one must say, Thou hast deserved well.</l>
+   </lg>
+   <closer>
+      <signed>M. I. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

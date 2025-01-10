@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD PONTICVM, Cleonem insignisimum.</title>
+           <author>N., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112665_Fr1_3</idno>
+           <idno type="DLPS">A08887</idno>
+           <idno type="STC">19168</idno>
+           <idno type="ESTC">S112665</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD PONTICVM, Cleonem insignisimum.</title>
+                 <author>N., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Panacea: or, Select aphorismes, diuine and morall</title>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>52 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>
+      <hi>AD PONTICVM,</hi> Cleonem insignis<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>imum.</head>
+   <lg>
+      <l>POntice, <hi>quid nostrum</hi> laceras <hi>uesane libellum?</hi>
+      </l>
+      <l>
+         <hi>An quia te</hi> rodit, <hi>tetra{que} facta</hi> notat?</l>
+      <l>
+         <hi>Ah (miser) in anis: tuate</hi> Mens <note n="*" place="margin">
+            <hi>Nil ego peccaui: tua te</hi> mala <hi>cognita produnt.</hi> Ovid.</note>
+         <hi>saùcia</hi> prodit:</l>
+      <l>
+         <hi>Quin, caue ne</hi> perdat <hi>sontica Barbaries.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>S N. Cantabrigiensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Amplissimum doctissimum virum D. Parkinsonium, S. R. Magnae Britanniae Botano∣graphum, quum absolutissimum Herba∣rium suum ederet.</title>
+           <author>Leet, I. D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121875_Fr1_5_10</idno>
+           <idno type="DLPS">A09011</idno>
+           <idno type="STC">19302</idno>
+           <idno type="ESTC">S121875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Amplissimum doctissimum virum D. Parkinsonium, S. R. Magnae Britanniae Botano∣graphum, quum absolutissimum Herba∣rium suum ederet.</title>
+                 <author>Leet, I. D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Theatrum botanicum: The theater of plants. Or, An herball of a large extent : containing therein a more ample and exact history and declaration of the physicall herbs and plants that are in other authours, encreased by the accesse of many hundreds of new, rare, and strange plants from all the parts of the world, with sundry gummes, and other physicall materials, than hath beene hitherto published by any before; and a most large demonstration of their natures and vertues. Shevving vvithall the many errors, differences, and oversights of sundry authors that have formerly written of them; and a certaine confidence, or most probable conjecture of the true and genuine herbes and plants. Distributed into sundry classes or tribes, for the more easie knowledge of the many herbes of one nature and property, with the chiefe notes of Dr. Lobel, Dr. Bonham, and others inserted therein. Collected by the many yeares travaile, industry, and experience in this subject, by Iohn Parkinson apothecary of London, and the Kings herbarist. And published by the Kings Majestyes especiall priviledge</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 1652, 1663-1755, 3 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>Ad Amplissimum doctissimum virum D. <hi>Parkinsonium,</hi> S. R. Magnae Britanniae Botano<g ref="char:EOLhyphen"/>graphum, quum absolutissimum Herba<g ref="char:EOLhyphen"/>rium suum ederet.</head>
+   <l>
+      <seg rend="decorInit">I</seg>Nter res, quibus in divina potentia ludit</l>
+   <l>Mira modis, merito primas quis dixerit herbas.</l>
+   <l>Quis varias formas, vires, discrimina, causas,</l>
+   <l>Explicet aut cunctos usus distinguere possit?</l>
+   <l>Tentatum multis, quorum monumenta supersunt,</l>
+   <l>Sudarunt Graij atque <hi>Itali, Germania, Galli</hi>
+   </l>
+   <l>
+      <hi>Angligenae, Belgae;</hi> nullis labor improbus illo</l>
+   <l>Gentibus intactus: Lucem <note n="*" place="margin">Parkinsonius.</note>
+      <hi>Parsonius</hi> adfert</l>
+   <l>Jngentem, posset jam perfecisse videri.</l>
+   <l>Jn queis deficiunt alij, paucissima restant.</l>
+   <l>Quid tibi pro meritis tantis, vir magne, precemur▪</l>
+   <l>Alma Ceres tibi farra dicat, tibi dulcia vin<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>
+      <hi>Bacchus,</hi> &amp; omnimodos fructus Pomona ministret:</l>
+   <l>Caetera, que spondet jam Nomen; Rex tuus, addet,</l>
+   <l>Posteritas famam, quantam mernisse fatetur;</l>
+   <closer>
+      <signed>Tui observantissimus I. D. Leet Lugdum Batavorum.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

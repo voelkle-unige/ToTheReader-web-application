@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>CARMEN EMBLE∣maticum
+in aureum G. Vaughanni saltum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111527_Fr1_5</idno>
+           <idno type="DLPS">A14293</idno>
+           <idno type="STC">24610</idno>
+           <idno type="ESTC">S111527</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>CARMEN EMBLE∣maticum
+in aureum G. Vaughanni saltum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The golden-groue : moralized in three bookes: a worke very necessary for all such, as would know how to gouerne themselues, their houses, or their countrey. Made by W. Vaughan, Master of Artes, and student in the ciuill law</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>416 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="6"/>
+   <head>CARMEN EMBLE<g ref="char:EOLhyphen"/>maticum
+in aureum G. Vaughanni saltum.</head>
+   <l>AVreum longe nemus hoc amoenos</l>
+   <l>Vincit hortos Hesperidum nitore:</l>
+   <l>Aureos fructus par<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>unt quotannis</l>
+   <l>Arbores: coelo radios ab alto</l>
+   <l>Hic habent frondes. Locus hic amoenus,</l>
+   <l>Quo Deum Musae recolunt sub vmbris,</l>
+   <l>Quo canune laetae volucres sub vmbris,</l>
+   <l>Quo nouum lumen rutilat sub vmbris:</l>
+   <l>Non vepres, spinae, tribuli, inyricae</l>
+   <l>Hic vigent, Musis locus est dicatus.</l>
+   <l>Aureas plantas alit hic sacrato</l>
+   <l>Rore Vaug hannus, pretatis hortus</l>
+   <l>Crescite plantis: pretatis Author</l>
+   <l>Seruet has plantas, precor, a malorum fulmine tutas.</l>
+   <closer>
+      <signed>
+         <hi>Iohannes Williams,</hi> S. Theologiae
+Doctor, &amp; publicus: professor in
+Academia Oxoniensi.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

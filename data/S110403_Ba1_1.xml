@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110403_Ba1_1</idno>
+           <idno type="DLPS">A09203</idno>
+           <idno type="STC">19513.5</idno>
+           <idno type="ESTC">S110403</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The period of mourning : Disposed into sixe visions. In memorie of the late prince. Together vvith nuptiall hymnes, in honour of this happy marriage betweene the great princes, Frederick Count Palatine of the Rhene, and the most excellent, and aboundant president of all virtue and goodnes Elizabeth onely daughter to our soueraigne, his Maiestie. Also the manner of the solemnization of the marriage at White-Hall, on the 14. of February, being Sunday, and St. Valentines day. By Henry Peacham, Mr. of Arts</title>
+                 <author>Peacham, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <publisher>Helme (Helmes), John.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>62 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Wedding pamphlets</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="advertisement">
+   <pb facs="30"/>
+   <head>An Aduertisement to the Reader.</head>
+   <p>REader, I attribute the name of <hi>Casimire</hi> in some pla<g ref="char:EOLhyphen"/>ces
+to the <hi>Palsgraue,</hi> which thou happily maiest ima<g ref="char:EOLhyphen"/>gine
+to be the Sir-name of that Familie, which was but
+an addition to the Christen-name of some later of the
+Earles, from the Marquesse of <hi>Brandenburge,</hi> that <hi>Io<g ref="char:EOLhyphen"/>hannes</hi>
+or <hi>Frederick Casimire,</hi> is no more then <hi>Henry
+Frederick, Iohn Maria, Petrus Andraeas.</hi> or the like:
+but by reason of the remarkable worth an<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>vertues of
+those his late Grandsires, I haue vsed it <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>: beside,
+the nature of the Verse could not admit the Name <hi>Frede<g ref="char:EOLhyphen"/>rick,</hi>
+so often, or so well.</p>
+</div>
+        </body>
+  </text>
+</TEI>

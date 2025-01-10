@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To The Right Worshipfull, his much Honoured friend THOMAS PARKS, Esquier.</title>
+           <author>Parkes, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124820_Bo1_6</idno>
+           <idno type="DLPS">A72989</idno>
+           <idno type="STC">19303.3</idno>
+           <idno type="ESTC">S124820</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To The Right Worshipfull, his much Honoured friend THOMAS PARKS, Esquier.</title>
+                 <author>Parkes, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The rose, and lily : Delivered at the lecture, in Ashby de-la-zouch in the county of Leicester. By William Parks, Master of Arts, and curat of Chelaston in the county of Derby</title>
+                 <author>Parks, William, curat of Chelaston</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Man, Samuel.</publisher>
+                            <publisher>Norton, John 2.</publisher>
+                            <publisher>Wilne, George</publisher>
+                        </imprint>
+                 <extent>4, 48, 2, 41, 5, 44, 4, 41, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="78"/>
+   <head>
+      <hi>To</hi> The Right Worshipfull, his much Honoured friend THOMAS PARKS, <hi>Esquier.</hi>
+   </head>
+   <opener>
+      <salute>SIR.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>F <hi>Elisha</hi> were at a stand, when hee considered what the good <hi>Shuna<g ref="char:EOLhyphen"/>mite</hi> had done for <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>im, that hee askes<note n="a" place="margin">2 Kings 4.13.</note>. What to bee done againe for her? sAnd <hi>Ahasuerus</hi> for <hi>Mor<g ref="char:EOLhyphen"/>decay,</hi>
+      <pb facs="79"/>when hee had recea<g ref="char:EOLhyphen"/>ved a good turne from him that hee saies<note n="b" place="margin">
+         <hi>Esther.</hi> 6.3.</note>, What hath beene done to him for this? How much more maie I saie of you, you have been beneficiall to mee from my Youth, what du<g ref="char:EOLhyphen"/>tie and service shall J re<g ref="char:EOLhyphen"/>turne to you againe? J confesse that if there bee anie thing in these my weake labours that maie deserue acceptance, you maie justlie challenge it as your owne, Without whose bountie I had not lived in the <hi>Univer<g ref="char:EOLhyphen"/>sity,</hi> nor attained to that small measure of knowledge that J have. And therefore (be<g ref="char:EOLhyphen"/>ing able to doe nothing else)
+<pb facs="79"/>J commit this <hi>Sermon</hi> to your Patronage and protection, and your selfe, your fruitfull Vine, and Olive branches to the pro<g ref="char:EOLhyphen"/>tection of the <hi>Almighty,</hi> de<g ref="char:EOLhyphen"/>siring him to give you the bles<g ref="char:EOLhyphen"/>sings of his Right hand, and of his left, to fill you with the blessing of grace heere, and of glorie hereafter.</p>
+   <closer>
+      <signed>Yours, to be commanded in Christ Jesus WILLIAM PARKES.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

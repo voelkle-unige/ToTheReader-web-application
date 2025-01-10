@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Noctuam Draytoni.</title>
+           <author>Grenewai, A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1539_Fr1_5</idno>
+           <idno type="DLPS">A20832</idno>
+           <idno type="STC">7213</idno>
+           <idno type="ESTC">S1539</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Noctuam Draytoni.</title>
+                 <author>Grenewai, A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The owle. By Michaell Drayton Esquire</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <distributor>Ling (Lyng), Nicholas</distributor>
+                            <distributor>White, Edward 1</distributor>
+                        </imprint>
+                 <extent>54 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="5"/>
+   <head>In Noctuam <hi>Draytoni.</hi>
+   </head>
+   <lg>
+      <l>QVae noua Lemniacas deturbant tela Volucres?</l>
+      <l>Quis furor aligero perstringit corpore Graios</l>
+      <l>Transfixo, proceres? Posita Paeantius irâ</l>
+      <l>Contulit Herculeas ad Troïca fata pharetras.</l>
+      <l>Fallimur? an puro tonuit pater altus Olympo?</l>
+      <l>Aut tremuit sonitu Phoebaej Caelifer arcus?</l>
+      <l>Novimus augurium: tanto Deus ille tumultu</l>
+      <l>Sacrorum exagitat mortalia pectora vatum.</l>
+      <l>Hinc furor in syluas <hi>Draytouum</hi> mittit: oberrat</l>
+      <l>Hinc saltus nullo signatos tramite Musa:</l>
+      <l>Hinc &amp; in aëriam libratur machina gentem:</l>
+      <l>Quae ferit immemores (iterato verbere) reges:</l>
+      <l>Proterit &amp; Vulgus (audaci more) profanum.</l>
+      <l>Eia, age: dum crebrò fugiat tremebundus abictu</l>
+      <l>Immitis seruus vitij, dece dat aboris</l>
+      <l>
+         <hi>Anglorum</hi> longè: lustratis lampade sancta</l>
+      <l>Cujus conjuncti exultant fulgore <hi>Britanni.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>A. GRENEVVAI.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Diuisio operis et modus procedendi per ordinem</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1511</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S5113_Fr1_4</idno>
+           <idno type="DLPS">A03486</idno>
+           <idno type="STC">13606.3</idno>
+           <idno type="ESTC">S5113</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Diuisio operis et modus procedendi per ordinem</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lac puerorum : M. Holti. Anglice mylke for chyldren</title>
+                 <author>Holte, John, grammarian</author>
+                 <imprint>
+                    <publisher>Back, Goovaert (Godfray)</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1511</date>
+                 </imprint>
+                 <extent>96 pages, illustrations (woodcuts), diagrams, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="3"/>
+   <head>Diuisio operis et modus procedendi per ordinem</head>
+   <lg>
+      <l>Neve tamenpossis dubitare quis ordo libelli</l>
+      <l>Huius erit paucis accipe versiculis</l>
+      <l>Hoc opus internas libuit distinguere partes</l>
+      <l>Quarum er qua{que} trium quid doceare loquar</l>
+      <l>Sermonum partes parti{que} cadentia / cui vis</l>
+      <l>Digerit in numeros pars tibi prima suos</l>
+      <l>Tum numerata prius diffiuit que{que} secunda</l>
+      <l>E{que} sua quod vis proprietate notat</l>
+      <l>Iungere terna docet sublata sas<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>e duarum.</l>
+      <l>Concordanciolis verba latina tribus.</l>
+      <l>Multa tamen varios &amp; verba et nomina casus</l>
+      <l>Diuerso{que} regunt imperiosa modo</l>
+      <l>Subdidit hec etiam neu quic{que} deesse queraris</l>
+      <l>Quod verbis decuit te didicisse tuis</l>
+      <l>Huc puer ad doctas o qui modo cun{que} litturas</l>
+      <l>Es rudis et velles non rudisesse veni</l>
+      <l>Quā satis in laudē es longe magis esse fatere.</l>
+      <l>Diues et ingenii diuitioris opus</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

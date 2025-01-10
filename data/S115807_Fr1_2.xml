@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>HONORATIS∣SIMO ET CELEBER∣RIMO DOCTISSIMORVM Iurisprudentium Collegio, Hospitij Lincolniensis Magistris Uenerabilibus, Socijsque universis, Auditoribus suis faventissimis,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115807_Fr1_2</idno>
+           <idno type="DLPS">A10659</idno>
+           <idno type="STC">20934</idno>
+           <idno type="ESTC">S115807</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>HONORATIS∣SIMO ET CELEBER∣RIMO DOCTISSIMORVM Iurisprudentium Collegio, Hospitij Lincolniensis Magistris Uenerabilibus, Socijsque universis, Auditoribus suis faventissimis,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Three treatises : of the vanity of the creature. The sinfulnesse of sinne. The life of Christ. Being the substance of severall sermons preached at Lincolns Inne: by Edward Reynoldes, preacher to that honourable society, and late fellow of Merton Colledge in Oxford</title>
+                 <author>Reynolds, Edward</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Bostock, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>20, 100, 99-535, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>HONORATIS<g ref="char:EOLhyphen"/>SIMO ET CELEBER<g ref="char:EOLhyphen"/>RIMO DOCTISSIMORVM Iurisprudentium Collegio, Hospitij <hi>Lincolniensis</hi> Magistris Uenerabilibus, Socijsque universis, Auditoribus suis faventissimis,</head>
+   <p>EDWARDVS REYNOLDES EIDEM HETAERIAE A SACRIS CONCIONIBVS; Tres hosce Tracta<g ref="char:EOLhyphen"/>tus:</p>
+   <list>
+      <item>De Rerum Secularium vanitate.</item>
+      <item>De Peccato supra modum peccante.</item>
+      <item>De Christi in Renatis vitâ ac vigore:</item>
+   </list>
+   <p>MINISTERII IBIDEM SVI <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> quaedam, Exile quidem &amp; per<g ref="char:EOLhyphen"/>exiguum, perpetuae tamen observan<g ref="char:EOLhyphen"/>tiae, Summae{que} in Christo Dilectionis pignus, Humiliter &amp; Devotè D. D. D.</p>
+</div>
+        </body>
+  </text>
+</TEI>

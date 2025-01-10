@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ACROSTICHON.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109108_Fr1_9</idno>
+           <idno type="DLPS">A04254</idno>
+           <idno type="STC">14373</idno>
+           <idno type="ESTC">S109108</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ACROSTICHON.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The essayes of a prentise, in the diuine art of poesie</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <publisher>Vautrollier, Thomas 1</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic_poem">
+   <pb facs="5"/>
+   <head>ACROSTICHON.</head>
+   <lg>
+      <l>
+         <hi>I</hi> Nsigne Auctoris vetuit praefigere nomen</l>
+      <l>
+         <hi>A</hi> uctorus cuncta pectus vacuum ambitione.</l>
+      <l>
+         <hi>C</hi> uius praeclaras laudes, heroica facta,</l>
+      <l>
+         <hi>O</hi> mnigenas{que} animi dotes, &amp; pectora verè</l>
+      <l>
+         <hi>B</hi> elligera, exornat coelestis gratia Musae.</l>
+      <l>
+         <hi>V</hi> era ista omnino est virtus, virtute{que} maior</l>
+      <l>
+         <hi>S</hi> ublimis regnat generoso inpectore Christus.</l>
+      <l>
+         <hi>S</hi> cottia fortunata nimis, bona situa nosses</l>
+      <l>
+         <hi>EX</hi> imij vatis, plectrum qui pollice docto</l>
+      <l>
+         <hi>T</hi> emperat, &amp; Musas regalem inducit in aulam:.</l>
+      <l>
+         <hi>V</hi> icturus post fata diu: Nam fama superstes</l>
+      <l>
+         <hi>S</hi> emper erit, semper florebit gloria vatis.</l>
+   </lg>
+   <closer>Pa. Ad. Ep. Sanct.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119151_Fr1_3</idno>
+           <idno type="DLPS">A68203</idno>
+           <idno type="STC">13585.5</idno>
+           <idno type="ESTC">S119151</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Motus Medi-terraneus. Or, A true relation of a fearefull and prodigious earthquake : which lately happened in the ancient citie of Couentrie, and some other places of the Kingdome, to the great amazement of the inhabitants. With a touch of some other occurrences, as well forraine as domestique</title>
+                 <author>Holland, Henry</author>
+                 <imprint>
+                    <distributor>Holland, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">S</seg>IR, If you bee courteous, you will giue me the publisher hereof thankes for my paines, and thinke your two pence or three pence, at the most, well bestowed: But if you be censorious, you will haply object at the Introduction, and say, it is larger than the Relation it selfe: If not with the in<g ref="char:EOLhyphen"/>troduction, then haply you will finde fault with the Enlargement, application, and conclusion: To both which, I must before-hand answer you; It hath beene the laudable custome in all Ages, vpon the publishing of any <hi>Prodigie,</hi> or <hi>extraordinarie worke of God,</hi> not to let it passe without <hi>Introduction</hi> and <hi>Application,</hi> to the end, that men may bee stirred vp the better, to make good vse of the Almighties handy-workes: which are neuer sent, but for our <hi>In<g ref="char:EOLhyphen"/>struction,</hi> And for the truth of the Relation it selfe, I trow no vnderstanding man can, or will make any question, when he hath read the Contents. And so farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

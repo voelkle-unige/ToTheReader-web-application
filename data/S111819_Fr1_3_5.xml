@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Herbert, Car.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111819_Fr1_3_5</idno>
+           <idno type="DLPS">A15870</idno>
+           <idno type="STC">26130</idno>
+           <idno type="ESTC">S111819</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Herbert, Car.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The doue: or Passages of cosmography : By Richard Zovche ciuillian, of New Colledge in Oxford</title>
+                 <author>Zouch, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <publisher>Norton, George.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <l>ASpice; non veneri est deuota Columba; mouetur</l>
+   <l>Illius, auspicijs, penna, Minerua, tuis.</l>
+   <l>Ergo Deae noctis studiosae Noctua cedat,</l>
+   <l>Dum tu gaudentem luce tueris auém.</l>
+   <closer>
+      <signed>Car. Herbert, <hi>N.C.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

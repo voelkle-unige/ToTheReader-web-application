@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author, his singular good Friend, Mr. William Wood.</title>
+           <author>W., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111764_Fr1_4</idno>
+           <idno type="DLPS">A15685</idno>
+           <idno type="STC">25957</idno>
+           <idno type="ESTC">S111764</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author, his singular good Friend, Mr. William Wood.</title>
+                 <author>W., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nevv Englands prospect· : A true, lively, and experimentall description of that part of America, commonly called Nevv England: discovering the state of that countrie, both as it stands to our new-come English planters; and to the old native inhabitants. Laying downe that which may both enrich the knowledge of the mind-travelling reader, or benefit the future voyager. By William Wood</title>
+                 <author>Wood, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <publisher>Bellamy, John.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 98, 6 pages, 1 folded leaf of plates, 1 map (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>To the Author, his singular good Friend, M<seg rend="sup">r</seg>. <hi>William Wood.</hi>
+   </head>
+   <l>THanks to thy travell, and thy selfe, who hast</l>
+   <l>Much knowledge in so small roome, comptly plac't<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>And thine experience thus amount do'st make,</l>
+   <l>From whence we may <hi>New Englands Prospect</hi> take,</l>
+   <l>Though many thousands distant: wherefore thou</l>
+   <l>Thy selfe shalt sit upon mount <hi>Prais<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </hi> her brow.</l>
+   <l>For if the man that shall the short cut find</l>
+   <l>Vnto the <hi>Indies,</hi> shall for that be shrin'd;</l>
+   <l>Sure thou deservest then no small prayse, who,</l>
+   <l>So short cut to <hi>New England</hi> here dost show;</l>
+   <l>And if then this small thankes, thou getst no more,</l>
+   <l>Of thankes I then will say the world's growne poore.</l>
+   <closer>
+      <signed>S. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

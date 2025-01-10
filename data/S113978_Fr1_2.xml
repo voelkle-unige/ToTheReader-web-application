@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Echlinus, David</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113978_Fr1_2</idno>
+           <idno type="DLPS">A21114</idno>
+           <idno type="STC">7479</idno>
+           <idno type="ESTC">S113978</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Echlinus, David</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Periurium officiosum: ad vere nobilem, et generosum, optiméq [ue] de me meritum virum, Robertum Aytonum equitem : Annæ foeliciss. mem. Magnæ Britanniæ, Fran. &amp; Hiber. regnæ secretarium. Homo homini Deus</title>
+                 <author>Echlin, David</author>
+                 <imprint>
+                    <publisher>Miller, George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>4, 9, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   
+   <pb facs="3"/>
+   
+   <opener>
+      <salute>VERE NOBILI ET generoso optimeque de me merito viro ROBERTO AYTONO <hi>equiti Annae foeliciss. mem. Magnae Britanniae Franc. &amp; Hib. Reginae Secretario.</hi>
+      </salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">M</seg>Vltos ante annos iuraueram, ami<g ref="char:EOLhyphen"/>cissime mihíq semper numinis instar colende AYTONE, nū<g ref="char:EOLhyphen"/>quam me iterum insaniturum. Hem periurum tua culpa, qui nihiltale de te meritum vltrò prouocasti officijs, beneficijs, eheu tam malè turò collocatis. Quippe quo<g ref="char:EOLhyphen"/>ties ego in rerum angustias redactus, vt iam propè conclamatum videretur, toties tu mihi repentètan quam Deus e machina; non tan<g ref="char:EOLhyphen"/>tùm consilio &amp; opera vt hodie vulgus amico<g ref="char:EOLhyphen"/>rum, de quo tamen plurima mehercle haben<g ref="char:EOLhyphen"/>da gratia, sed &amp; reapse amicus. Acsi peieran<g ref="char:EOLhyphen"/>dum, non regni, sed quae mea est ambitio, ami<g ref="char:EOLhyphen"/>citiae causa peierandum. Nec me terret criti<g ref="char:EOLhyphen"/>cus quisquis sit cum stylo suo, &amp; si ita deo pla<g ref="char:EOLhyphen"/>cet, spongia; dummodò omnem a me ingrati
+<pb facs="4"/>
+      animi suspicionem longè amoliar. Quinim<g ref="char:EOLhyphen"/>mo malim cum Cherylo versus leues atq lu<g ref="char:EOLhyphen"/>dicros bona fide, licet inuito Phoebo, ad ca<g ref="char:EOLhyphen"/>chinnum effutire, quàm silere in tanta erga me liberalitate tam{que} non vulgari; vt nunc fri<g ref="char:EOLhyphen"/>get charitas, regnant sordes. Siue hoc super<g ref="char:EOLhyphen"/>ciliosis deliriū videri potest aetatis huiusce, iam dehinc sensim fortè desipiscentis: siue potiùs empyreuma est quoddam, &amp; reliquiae pristini illius caloris sopiti, nondum prorsus extincti. Quicquid est, semel iterum insanire libet, &amp; certum est. Tibi faxit Deus vt diuturna sit mēs sana in corpore sano. Ego vero nihil nisi mo<g ref="char:EOLhyphen"/>rior, &amp; moriar cum cygnaeo hoc cantu;</p>
+   <closer>
+      <signed>Totus dum languentem hanc animam traham optimo iure tuus
+DAVID ECHLINVS Medicus Reginae.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

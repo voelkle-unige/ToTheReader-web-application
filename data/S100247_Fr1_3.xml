@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The preface to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1555</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100247_Fr1_3</idno>
+           <idno type="DLPS">A23454</idno>
+           <idno type="STC">987</idno>
+           <idno type="ESTC">S100247</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The preface to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The comentaries of Don Lewes de Auela, and Suníga, great master of Aranter : which treateth of the great vvars in Germany made by Charles the fifth Maximo Emperoure of Rome, King of Spain, against Iohn Frederike Duke of Saxon, and Philip the Lantgraue of Hesson with other gret princes and cities of the Lutherans, wherin you may see how god hath preserued this vvorthie and victorious emperor, in al his affayres against his enemyes Tra [n] slated out of Spanish into English</title>
+                 <author>Avila y Çuñiga, Luis de</author>
+                 <imprint>
+                    <publisher>Tottell (Tathyll, Tothill, Tottyl), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1555</date>
+                 </imprint>
+                 <extent>320 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>The preface to the <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">V</seg>Pon the sight of this Comentary in sōdry langua<g ref="char:EOLhyphen"/>ges I haue cōsi<g ref="char:EOLhyphen"/>dred what a lack it hath beē emō<g ref="char:EOLhyphen"/>gest so many En<g ref="char:EOLunhyphen"/>glish Bokes, as not to haue so nota<g ref="char:EOLhyphen"/>ble a hystory as this is. Wherfore I haue thought it good to be transla<g ref="char:EOLhyphen"/>ted, and although it be not so cury<g ref="char:EOLhyphen"/>ous as it might be, ne<gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap>rthelesse it is of a trueth and wort<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>y of a more excellēt stile thē this of mine, which yet may satisfie the mindes of suche as be desirous to knowe the successe and what hath folowed the doctrine of Luther through the supportaciō and mightye power of Duke Ihon
+<pb facs="3"/>
+Fredderike of Saxon and Philip the Launtgraue of Hesson with o<g ref="char:EOLhyphen"/>ther great Princes, of the furious and infinite people of Germany, as it appeareth in this and other stories which be written of the warres there made by Char<g ref="char:EOLhyphen"/>les y<seg rend="sup">e</seg> fifth, Maximo Em<g ref="char:EOLhyphen"/>perour of Rome, king of Spaine. An. M. D .xlvi.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Academicos &amp; suos salutem Longam, Epistolam breuem, mittit. I.R.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102199_Fr1_5</idno>
+           <idno type="DLPS">B15438</idno>
+           <idno type="STC">20601.5</idno>
+           <idno type="ESTC">S102199</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Academicos &amp; suos salutem Longam, Epistolam breuem, mittit. I.R.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>William Alablasters [sic] seuen motuies [sic] . Remoued and confuted by Iohn Racster</title>
+                 <author>Racster, John</author>
+                 <imprint>
+                    <publisher>Short, Peter</publisher>
+                    <distributor>Wise (Wythes), Andrew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>4, 43 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="5"/>
+   <head>Ad Academicos &amp; suos salutem <hi>Longam, Epistolam breuem, mittit.</hi> I.R.</head>
+   <p>
+      <hi>LVdunt quidam, qui nos ludos faciunt, male feriati ho<g ref="char:EOLhyphen"/>mines: Academiam in delphinum mutatam, in motu tantum quietem capere.</hi>
+      <note place="margin">Tertull. de virg. vel.</note>
+      <hi>Nae tu (motor) magnum ma<g ref="char:EOLhyphen"/>lae rei aedificans ad perniciē exemplum praebuisti, quod ve<g ref="char:EOLhyphen"/>teres scandalum dixerunt. Nostis vero vos (doctissimi viri) quod vt nec in acie nec in vita, multo minùs in fide licebit, iniussu summi imperatoris stationem relinquere. Verumtamen sicut in humano ita &amp; ciuili corpore, &amp; morbi sunt &amp; remedia ijs adhibenda: Cumque tota quo<g ref="char:EOLhyphen"/>rumcū{que} remediorum vis, adeo{que} medicina omnis duobus hisce consumatur: restitutione amissi, &amp; expulsione su<g ref="char:EOLhyphen"/>perflui: vestrum erit (Academici) si quid in Academia de<g ref="char:EOLhyphen"/>perditum sit restaurare, si quid supersit adhuc amoliri. Valete optimi optimè.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

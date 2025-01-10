@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the much deseruing Captaine, Iohn Smith.</title>
+           <author>Bucke, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111000_Fr1_5</idno>
+           <idno type="DLPS">A12469</idno>
+           <idno type="STC">22794</idno>
+           <idno type="ESTC">S111000</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the much deseruing Captaine, Iohn Smith.</title>
+                 <author>Bucke, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sea grammar : vvith the plaine exposition of Smiths Accidence for young sea-men, enlarged. Diuided into fifteene chapters: what they are you may partly conceiue by the contents. Written by Captaine Iohn Smith, sometimes gouernour of Virginia, and admirall of Nevv-England</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>12, 72, 83-86 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>To the much deseruing Captaine, Iohn Smith.</head>
+   <l>
+      <hi>I</hi> Hate to flatter thee, but in my heart</l>
+   <l>I honour thy faire worth and high desert;</l>
+   <l>And thus much I must say, thy merits claime</l>
+   <l>Much praise &amp; honor, both from Truth &amp; Fame.</l>
+   <l>What Iudge so <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>'re thy Actions ouer-looke,</l>
+   <l>Thou need'st not feare a triall by thy Booke.</l>
+   <closer>
+      <signed>Geor. Bucke.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

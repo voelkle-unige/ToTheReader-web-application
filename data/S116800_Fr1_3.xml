@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous Reader.</title>
+           <author>S., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116800_Fr1_3</idno>
+           <idno type="DLPS">A11524</idno>
+           <idno type="STC">21772</idno>
+           <idno type="ESTC">S116800</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous Reader.</title>
+                 <author>S., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The famous game of chesse-play : truely discouered, and all doubts resolued; so that by reading this small booke thou shalt profit more then by the playing a thousand mates. An exercise full of delight; fit for princes, or any person of what qualitie soeuer. Newly published by A.S. Gent</title>
+                 <author>Saul, Arthur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Jackson, Roger.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>64 pages, illustrations (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Here haue beene diuers which haue written of the game of <hi>Chesse-play,</hi> who haue neglected to write the particulars of the Game, but haue spoken some thing which is as much as nothing, for the instruction of the Reader: therefore doe I imagine they wrote all they knew, or otherwise, not so much as they might; wherefore Cour<g ref="char:EOLhyphen"/>teous Reader, if it shall please thee to read this small Booke, which to doe will soone be performed, thou shalt finde in it more then yet hath beene written by any other; in very briefe manner. In this booke shalt thou learne first; the manner how to place the men; next their quality or worth; after that to know how they ought to be playd: then followeth that you vnderstand the Lawes of the game rightly: and after I haue shewed thee some reasons that there can be no rule for this game (as some hold
+<pb facs="5"/>
+opinion) then shalt thou finde many plea<g ref="char:EOLhyphen"/>sing playes to giue thee delight and in<g ref="char:EOLhyphen"/>couragement to proceede in exercising this game Also thou shalt learne directly what a darke <hi>Mate</hi> is; and likewise what a <hi>Stale</hi> is, and how it falleth out that it is giuen; and lastly, how to giue a <hi>Mate</hi> all the men being in the field at two draughts without a guard, so that the King checked shall haue no couer nor meanes to relieue himselfe, but of force it shall bee mate.</p>
+   <closer>
+      <signed>Vale. A. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Voum Auctoris.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109421_Fr1_3</idno>
+           <idno type="DLPS">A19974</idno>
+           <idno type="STC">6410</idno>
+           <idno type="ESTC">S109421</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Voum Auctoris.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A new spring of divine poetrie. I. Day philomusus composuit - inest sua gratia parvis</title>
+                 <author>Day, James</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Blunden, Humphrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>8, 44, 8, 45-46, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>Vo<gap reason="illegible: faint" extent="1 letter">
+         <desc>•</desc>
+      </gap>um Auctoris.</head>
+   <lg>
+      <l>MOst mighty God, thou that alone canst save,</l>
+      <l>And raise a stinking <hi>Laz'rus</hi> from his grave,</l>
+      <l>That heal'st the sick, and let'st the tongue-tide speake,</l>
+      <l>That mak'st the weakest strong, and strongest weake,</l>
+      <l>Into my fainting Soule, doe thou infuse</l>
+      <l>Thy Spirit, make my tributary Muse,</l>
+      <l>Pay stipend at thy footestoole, let her be</l>
+      <l>No more <hi>Apolloes,</hi> onely now for thee,</l>
+      <l>Ope thou her sealed lips, that shee may bring</l>
+      <l>Thee glory: teach, O teach her how to sing.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Breton, Nicholas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105107_Fr1_3</idno>
+           <idno type="DLPS">A18995</idno>
+           <idno type="STC">5412</idno>
+           <idno type="ESTC">S105107</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Breton, Nicholas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The flower of phisicke : VVherein is perfectlie comprehended a true introduction and method for mans assured health: with three bookes of philosophie for the due temperature of mans life. In which easily may be perceiued the high &amp; wonderfull workes of God in the gouernance of all thinges. Written by W.C. as a glasse of true knowledge for the better direction of al willing [et] vertuous practitioners</title>
+                 <author>Clever, William</author>
+                 <imprint>
+                    <publisher>Ward, Roger</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>6, 122, that is 130 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Or that in this our age, sundry strange alterations in the elements distraming the bodily health of man vppon earth with manie vnusuall corruptions: and also for that man hath a proper inclination to grosse libertie, contagiously nou<g ref="char:EOLhyphen"/>rishing manie vncleane diseases in him selfe as a venemous serpent in his own bosome, for remedy whereof, as for the diligence and carefull furthe<g ref="char:EOLhyphen"/>rance of manie vnskilfull practicioners, with whome the world is ouercharged. I haue put forth this generall worke for the benefite of the common-wealth: and what profite may ensue heereof, time approueth the same: Remembring the olde prouerbe. <hi>Vino vendibili, non est opus sus<g ref="char:EOLhyphen"/>pensa hedera</hi>
+   </p>
+   <closer>
+      <salute>Fare you well.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

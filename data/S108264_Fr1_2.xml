@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108264_Fr1_2</idno>
+           <idno type="DLPS">A16565</idno>
+           <idno type="STC">3470</idno>
+           <idno type="ESTC">S108264</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A copie of a certaine letter written by a person of reputation, to a prelate of brabant, being at Brussels. The 25. of Februarie. 1599</title>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Wolfe (Woolfe), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">L</seg>Ouing Reader,</salute>
+   </opener>
+   <p>the Coppie of this Letter, beeing come to my hands, with the Annotations vppon the gifte or yeelding vp of the Ne<g ref="char:EOLhyphen"/>therlandes, to the Infanta of Spaine, which in my opinion, is not to he smothered in obscuritie, I thought good to put the same in Print, to the ende that all louers of the Netherlandish rights and priuileges, may the better vnderstand (what by the vertuous Catholiques them<g ref="char:EOLhyphen"/>selues is censured of these Spanish dealings.</p>
+</div>
+        </body>
+  </text>
+</TEI>

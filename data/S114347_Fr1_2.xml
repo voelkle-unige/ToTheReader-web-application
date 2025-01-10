@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Capel, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114347_Fr1_2</idno>
+           <idno type="DLPS">A09268</idno>
+           <idno type="STC">19582</idno>
+           <idno type="ESTC">S114347</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Capel, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The period of the Persian monarchie : VVherein sundry places of Ezra, Nehemiah and Daniel are cleered: extracted, contracted, and englished, much of it out of Doctor Raynolds, by the late learned and godly man William Pemble, of Magdalen Hall in Oxford. Published and enlarged since his death by his friend, Richard Capel</title>
+                 <author>Pemble, William</author>
+                 <imprint>
+                    <publisher>Young (Junius), Robert</publisher>
+                    <distributor>Bartlet, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>4, 84 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, The thing I must desire of thee, is, that as thou goest along, thou wouldest first reade the Texts of Scrip<g ref="char:EOLhyphen"/>ture, and the heads which are in the margin, else many things will be but cloudy and darke; the rather, because in some places the sentences are not so fitly distinguished as it were to be wished; as (for instance) may appeare in page <hi>56.</hi> the <hi>5.</hi> chap. ver. <hi>19.</hi> &amp; chap. <hi>13.</hi>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>er. <hi>15.</hi> Wherefore I intreat the Reader still to haue his eye on the mar<g ref="char:EOLhyphen"/>gin, and view first the contexts there, and then the explication will come to his hand with more clearenesse and perspicuity.</p>
+   <p>Also I am to begge of the Reader, that he will with his pen (ere he reade this Tract) mend the faults here noted, many whereof maimne the sense and lose the meaning, (occasioned by the Transcribers mistaking in the copying of it out) smaller matters, as mispointing and the like, I forbeare to trouble you with, as comming of themselues to euery mans obseruation.</p>
+   <closer>
+      <signed>RICH. CAPEL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114354_Fr1_2</idno>
+           <idno type="DLPS">A16308</idno>
+           <idno type="STC">3220</idno>
+           <idno type="ESTC">S114354</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The elements of armories</title>
+                 <author>Bolton, Edmund</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>16, 201, 15 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Heraldic works and genealogies</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>C. SALLVSTIVS CRISPVS.</p>
+   <p>Verumenimuerò is demùm mihi viuere, et frui animâ videtur, qui aliquo negotio intentus, praeclari fa<g ref="char:EOLhyphen"/>cinoris, aut <hi>ARTIS BONAE</hi> famam quaerit.</p>
+</div>
+        </body>
+  </text>
+</TEI>

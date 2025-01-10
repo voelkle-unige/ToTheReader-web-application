@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The subiect and order of these three Books.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116488_Fr1_2</idno>
+           <idno type="DLPS">A18501</idno>
+           <idno type="STC">5051</idno>
+           <idno type="ESTC">S116488</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The subiect and order of these three Books.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of wisdome : three bookes written in French by Peter Charro [n] Doctr of Lawe in Paris. Translated by Samson Lennard</title>
+                 <author>Charron, Pierre</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <distributor>Aspley, William</distributor>
+                            <distributor>Blount (Blunt), Edward</distributor>
+                        </imprint>
+                 <extent>38, 550, that is 554, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Arguments &amp; Summaries</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="summary">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <pb facs="3"/>
+   <head>The subiect and order of these three Books.</head>
+   <p>THe First Booke teacheth the knowledge of our selues and our humane condition, which is the foundation of Wisdome, by fiue great and principall considerations of man, and conteineth <hi>62.</hi> Chapters.</p>
+   <p>The Second conteineth the principall rules of Wisdome, the priuileges and proper qua<g ref="char:EOLhyphen"/>lities of a wise man, and hath <hi>12.</hi> Chap<g ref="char:EOLhyphen"/>ters.</p>
+   <p>The Third, in a Discourse of the foure Morall vertues, Prudence, Iustice, Fortitude, Temperance, setteth downe the particu<g ref="char:EOLhyphen"/>lar instructions of Wisdome in <hi>43.</hi> Chap<g ref="char:EOLhyphen"/>ters.</p>
+</div>
+        </body>
+  </text>
+</TEI>

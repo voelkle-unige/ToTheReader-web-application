@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Re, Pere</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108006_Ba1_4</idno>
+           <idno type="DLPS">A18922</idno>
+           <idno type="STC">5343</idno>
+           <idno type="ESTC">S108006</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Re, Pere</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Henoch Clapham his demaundes and answeres touching the pestilence : methodically handled, as his time and meanes could permit</title>
+                 <author>Clapham, Henoch</author>
+                 <imprint>
+                    <publisher>Schilders (Grapheus, Painter), Richard</publisher>
+                    <pubPlace>Belgium--Middelburg</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>32, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>Courteous Reader let me craue in kindnes, That what faultes thou
+findest, may not bee imputed to the Au<g ref="char:EOLhyphen"/>thour: but meere ignorance and oversight
+in th<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> Publisher.</p>
+   <p>Fare well.</p>
+   <closer>
+      <signed> Pere Re<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

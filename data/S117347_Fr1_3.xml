@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117347_Fr1_3</idno>
+           <idno type="DLPS">A68146</idno>
+           <idno type="STC">12915</idno>
+           <idno type="ESTC">S117347</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A theologicall discourse of the Lamb of God and his enemies : contayning a briefe commentarie of Christian faith and felicitie, together with a detection of old and new barbarisme, now commonly called Martinisme. Newly published, both to declare the vnfayned resolution of the wryter in these present controuersies, and to exercise the faithfull subiect in godly reuerence and duetiful obedience</title>
+                 <author>Harvey, Richard</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Ponsonby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>8, 194, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <p>T.D. Hexasticon, siue gratulatio <hi>in Theologicon R.H.</hi>
+   </p>
+   <q>
+      <l>Cedite sectarum primates, cedite puri,</l>
+      <l>Harueius patriae seruiet atque Deo.</l>
+      <l>Non curat fatuos, nō christomastigas audit</l>
+      <l>Non credit placitis principiis{que} nouis.</l>
+      <l>Perge, liber, certa ingenii praedictio recti,</l>
+      <l>Et patriae, &amp; populo, principibus{que} place</l>
+   </q>
+   <p>Vnio gemmarum Regina.</p>
+   <epigraph>
+      <q>
+         <bibl>
+            <hi>Mat. c.</hi> 9. <hi>v.</hi> 37, 38. <hi>Luke c.</hi> 10. <hi>v.</hi> 2.</bibl>
+         <p>The haruest is great but the labourers are fevve, pray ye therefore the Lord of the haruest that he vvould sende more labou<g ref="char:EOLhyphen"/>rers into his haruest.</p>
+      </q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

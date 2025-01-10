@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Amplissimo honoratissimo{que}, D. Edwardo Seamor militi, Baroni Beauchamp, Comiti Hertfordiae literarum fautori maximo.</title>
+           <author>Norden, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113233_Fr1_2</idno>
+           <idno type="DLPS">A08307</idno>
+           <idno type="STC">18637</idno>
+           <idno type="ESTC">S113233</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Amplissimo honoratissimo{que}, D. Edwardo Seamor militi, Baroni Beauchamp, Comiti Hertfordiae literarum fautori maximo.</title>
+                 <author>Norden, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>1598 Speculi Britan [n] iæ pars : the description of Hartfordshire by Iohn Norden</title>
+                 <author>Norden, John</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>8, 31, 1 page, 1 folded leaf of plates, coat of arms, map, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>Amplissimo honoratissimo{que},</hi> D. Edwardo Seamor militi, Baroni Beauchamp, Comiti Hertfordiae literarum fautori maximo.</head>
+   <p>
+      <seg rend="decorInit">S</seg>I hoc tibi (ornatissi<g ref="char:EOLhyphen"/>me) itinerarium, ali<g ref="char:EOLhyphen"/>cuius nouitatis pre<g ref="char:EOLhyphen"/>textu, vel rei non an<g ref="char:EOLhyphen"/>teactae vel praefatae obferreviderer: Non<g ref="char:EOLhyphen"/>nè tempus &amp; veritas ipsa hac in me <hi>sapientis</hi> irruant sententia: <hi>Nihil esse sub sole nouum?</hi> Imò vero mille homines in me testes insurgant, asserentes hoc opus meum tardé post non nullorum proficisci. Fac sit. Ego post omnes, hoc me<g ref="char:EOLhyphen"/>um incultissimum in lucem duco. Et cúm summi honoris tui tituli typum, in publi<g ref="char:EOLhyphen"/>cum secum fert▪ Officio me vinctum puta<g ref="char:EOLhyphen"/>bam tuae amplitudini primùm libēter ex<g ref="char:EOLhyphen"/>hibere, tuumque &amp; in opus &amp; operarium, vt praesidium digneris instanter obsecrare. Summis honoribus viuas, Summisque consolationibus a deo opt. max.</p>
+   <closer>
+      <signed>Tuae celcetudini paratus. I. Norden.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

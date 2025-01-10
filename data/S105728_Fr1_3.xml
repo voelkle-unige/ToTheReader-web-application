@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An admonition to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105728_Fr1_3</idno>
+           <idno type="DLPS">A01631</idno>
+           <idno type="STC">11762</idno>
+           <idno type="ESTC">S105728</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An admonition to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two common places taken out of Andreas Hyperius, a learned diuine, whereof, in the one, he sheweth the force that the sonne, moone and starres haue ouer men, &amp;c. In the other, whether the deuils haue bene the shewers of magicall artes, &amp;c. Translated into English by R.V</title>
+                 <author>Hyperius, Andreas</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>79, 40-55, 78-110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Religious</term>
+                    <term>Witchcraft, demonology, occult writings</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="5" facs="3"/>
+   <head>An admonition to the Reader.</head>
+   <p>THou art to consider gentle Reader that a translator is bounde as nighe as may be vnto his author that he pretendeth to translate, so that he is not onelye to shewe his sense and meaninge: but as farre forth as may be to shew his very wordes. Wherefore if in tur<g ref="char:EOLhyphen"/>ninge some places of the holy scripture by mine au<g ref="char:EOLhyphen"/>thor cited, I do not aunsweare thine expectation: thou maist, seing thou hast those places quoted vn<g ref="char:EOLhyphen"/>to thee, haue recourse if it please thee to thine owne translation, which peraduenture is plainelier done to thy capacitie, and because thou art accustomed thereunto, more to thy contentation. And so yel<g ref="char:EOLhyphen"/>dinge to <hi>Hyperius</hi> the prayse which he hath well deserued for his labors: thou mayst contente thy minde.</p>
+   <p>Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

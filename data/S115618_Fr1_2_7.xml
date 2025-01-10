@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Oan, A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115618_Fr1_2_7</idno>
+           <idno type="DLPS">A10411</idno>
+           <idno type="STC">20694</idno>
+           <idno type="ESTC">S115618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Oan, A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems : with the Muses looking-glasse: and Amyntas· By Thomas Randolph Master of Arts, and late fellow of Trinity Colledge in Cambridge</title>
+                 <author>Randolph, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1638</date>
+                 <publisher>Bowman, Francis.</publisher>
+                            <publisher>Lichfield, Leonard</publisher>
+                        </imprint>
+                 <extent>24, 128, 2, 93, 7, 114 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <lg>
+      <l>WHat need thy book crave any other fame,</l>
+      <l>It is enough that it beares <hi>Randolphs</hi> name.</l>
+      <l>
+         <pb facs="9"/>Who sees the title, and him understood,</l>
+      <l>Must much condemne himselfe, or say tis good.</l>
+      <l>Goe forth example to the Neophyte,</l>
+      <l>Who hence should learne to Catechize his wit.</l>
+      <l>And dresse his Phancy by this glasse: whose Muse</l>
+      <l>Welfavour'd is, should here her face peruse,</l>
+      <l>It will not flatter, 'twill reflect the grace</l>
+      <l>She takes from th'owner of a beuteous face:</l>
+      <l>But if a menstruous, and illiterate eye</l>
+      <l>Blast her, the various specks shall soone descry</l>
+      <l>The foule beholder, and proclaime her spoile</l>
+      <l>Not to result from thence, but his own foyle.</l>
+   </lg>
+   <closer>
+      <signed>ED. GAYTON. <hi>M. A: <gap reason="illegible" resp="#apex" extent="1+ letters">
+               <desc>•…</desc>
+            </gap>oan.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

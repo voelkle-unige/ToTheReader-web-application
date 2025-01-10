@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S92911_Fr1_2</idno>
+           <idno type="DLPS">B07733</idno>
+           <idno type="STC">13036</idno>
+           <idno type="ESTC">S92911</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise of auricular confession. Wherin is euidently shewen : the authoritie and power of Catholique, priests, for the forgiuing and remitting of sinnes. Against the Protestants bare and and only preaching of absolution unto the people</title>
+                 <author>Heigham, John</author>
+                 <imprint>
+                    <publisher>Boscard, Charles</publisher>
+                    <distributor>Heigham, John (Roger)</distributor>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>359, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <p>
+      <hi>
+         <seg rend="decorInit">N</seg>Emo sibi dicat, occulte ago, apud Deum ago &amp;c.</hi> Let no man say, I deale se<g ref="char:EOLhyphen"/>cretly, I deale with God, for there be some who imagin, that it is sufficient enough to their saluation, if they confes their sinnes to God only, to whom nothing is hid, and who knowes also our consciences. But I would not haue thee to be deceiued with this con<g ref="char:EOLhyphen"/>ceit, as to be confounded to confes before the vicar of Christ, ether fainting for shame, or too too stif-necked for indignation. For we must in like maner vndergoe and stand to his iudgment, whom our Lord doth vouchsafe to be his vicar. <hi>S. Aug. Hom.</hi> 49. <hi>ex</hi> 50. <hi>&amp; hom.</hi> 41. <hi>ex</hi> 50. <hi>&amp; lib.</hi> 2. <hi>de visita<g ref="char:EOLhyphen"/>tione infirmorum cap.</hi> 4. <hi>&amp; in Luc.</hi> 17. <hi>&amp; Matt.</hi> 8.</p>
+</div>
+        </body>
+  </text>
+</TEI>

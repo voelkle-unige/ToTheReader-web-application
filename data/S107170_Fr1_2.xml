@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ILLVSTRISSIMO,
+POTENTISSIMOQVE PRIN∣CIPI,
+FREDRICO QVINTO, RHENI
+COMITI PALATINO, DVCI BAVARIAE, &amp;c.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107170_Fr1_2</idno>
+           <idno type="DLPS">A17880</idno>
+           <idno type="STC">4546</idno>
+           <idno type="ESTC">S107170</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ILLVSTRISSIMO,
+POTENTISSIMOQVE PRIN∣CIPI,
+FREDRICO QVINTO, RHENI
+COMITI PALATINO, DVCI BAVARIAE, &amp;c.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Songs of mourning : bevvailing the vntimely death of Prince Henry. VVorded by Tho. Campion. And set forth to bee sung with one voyce to the lute, or violl: by Iohn Coprario</title>
+                 <author>Coperario, John</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Browne, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>20 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>ILLVSTRISSIMO,
+POTENTISSIMOQVE PRIN<g ref="char:EOLhyphen"/>CIPI,
+FREDRICO QVINTO, RHENI
+COMITI PALATINO, DVCI BAVARIAE, &amp;c.</head>
+   <l>
+      <seg rend="decorInit">C</seg>Ogimur; inuitis (Clarissime) parce quaerelis</l>
+   <l>Te saluo; laetis non sinit esse Deus:</l>
+   <l>Nec speratus Hymen procedit lumine claro,</l>
+   <l>Principis extincti nubila fata vetant.</l>
+   <l>Illius inferias maesto iam Musica cantu</l>
+   <l>Prosequitur, miseros haec Dea sola iuuat.</l>
+   <l>Illa suos tibi summittit (Dux inclite) quaestus,</l>
+   <l>Fraternus fleto quem sociauit amor.</l>
+   <l>Sed noua gaudia, sed tam dulcia foedera rupit</l>
+   <l>Fati infoelicis liuor, &amp; hora nocens.</l>
+   <l>Quod superest, nimios nobis omni arte dolores</l>
+   <l>Est mollire animus, spes meliora dabit:</l>
+   <l>Cunctatos{que} olim cantabimus ipsi Hymenaeos,</l>
+   <l>Laeta simul fas sit reddere vota Deo.</l>
+</div>
+        </body>
+  </text>
+</TEI>

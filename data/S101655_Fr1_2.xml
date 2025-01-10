@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101655_Fr1_2</idno>
+           <idno type="DLPS">A11573</idno>
+           <idno type="STC">21817</idno>
+           <idno type="ESTC">S101655</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Cornelius Shilander his chirurgerie : Contaning a briefe methode for the curing of woundes and ulcers, with an easie manner of drawing oyle out of wound-hearbes, turpentine, guincum and waxe. Translated out of Latin into English, and published for the benefite of all those that are studious in the arte. By S. Hobbes</title>
+                 <author>Schilander, Cornelius</author>
+                 <imprint>
+                    <publisher>Jones (Jhones, Johnes), Richard</publisher>
+                    <distributor>Burby, Cuthbert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>28 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Ere hast thou gentle Reader, a briefe and compendious methode of Chi<g ref="char:EOLhyphen"/>rurgerie, compiled by a most excel<g ref="char:EOLhyphen"/>lent Doctor, in maner of a Dialogue, wherein thou maist learne with ease the curation both of <hi>VVoundes</hi> and <hi>Vlcers,</hi> the vertue and operation of diuers <hi>Hearbes,</hi> with their preparations for Oyle, with extracting of diuers Oyles, most necessarie and profitable for all true and faithfull professors in the Art of Chirurgery. And although it was not meant at the first, to be pub<g ref="char:EOLhyphen"/>lished vnto the view of the world, but only for mine owne priuate practise; yet when I remembred that saying of <hi>Cicero,</hi> that we are not onlie borne to pro<g ref="char:EOLhyphen"/>fite our selues, but our countrie, parentes, and friends. I therefore thought it good to publish it for the bene<g ref="char:EOLhyphen"/>fite of euerie one that is desirous of the Arte. And the rather mooued thereunto, because I see manie that are professors, and allowed in their practise, and yet are scarse able to define of a simple Wound of which sort the worlde is too full, and poore patientes buy their practise at too deere a price: But I leaue them to bee more carefull both in studie and practise. And shal re<g ref="char:EOLhyphen"/>quest thee (gentle Reader) that whereas this booke is not altogether without imperfections and blemishes, yet if thou curteouslie and friendlie accept of it at this time, it may cause the same hereafter for thy further commoditie to be scoured, and better amended.</p>
+   <closer>
+      <signed>Farewell.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

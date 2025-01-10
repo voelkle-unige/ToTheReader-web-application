@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his deere and louing Vnkle, Maister Richard Gough, of the Citty of Hereford Gentleman.</title>
+           <author>Milton, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112778_Fr1_2</idno>
+           <idno type="DLPS">A07556</idno>
+           <idno type="STC">17939</idno>
+           <idno type="ESTC">S112778</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his deere and louing Vnkle, Maister Richard Gough, of the Citty of Hereford Gentleman.</title>
+                 <author>Milton, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Londons miserie, the countryes crueltie : with Gods mercie. Explained by remarkeable obseruations of each of them, during this last visitation. VVritten by Richard Milton</title>
+                 <author>Milton, Richard</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>4, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To his deere and louing Vnkle, Maister <hi>Richard Gough, of the Citty of</hi> Hereford Gentleman.</head>
+   <opener>
+      <salute>GOOD SIR,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">H</seg>Auing composed these few lines ensuing, by way of obseruation of this present Visita<g ref="char:EOLhyphen"/>tion, being an Eye-witnesse thereof; Doe humbly present the same to your view: If there be ought shall giue you content, I haue my desire; Accept my poore Labors, I pray you, So shall I not onely thinke it and time well spent, but shall further be encouraged to imploy the same hereafter, as occasion shall be offered. So with my prayers to the Al<g ref="char:EOLhyphen"/>mighty for the health and prosperitie of you and yours, I remaine till death</p>
+   <closer>
+      <signed>
+         <hi>Your Louing Kinseman,</hi> Richard Milton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

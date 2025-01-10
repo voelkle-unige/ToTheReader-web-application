@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right worshipfull Sir Iohn Hanbury, of Kelmarsh Knight peace externall, internall, supernall, eternall,</title>
+           <author>Symmer, Archibald</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111463_Fr1_2</idno>
+           <idno type="DLPS">A13283</idno>
+           <idno type="STC">23587</idno>
+           <idno type="ESTC">S111463</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right worshipfull Sir Iohn Hanbury, of Kelmarsh Knight peace externall, internall, supernall, eternall,</title>
+                 <author>Symmer, Archibald</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Rest for the vveary, or A briefe treatise tending to the comfort of a poore soule trulie humbled for sin : By Archibald Symmer, Aberdonen. minister of the Gospell</title>
+                 <author>Symmer, Archibald</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Norton, John 2.</publisher>
+                            <publisher>Sheares, William</publisher>
+                        </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right worshipfull Sir <hi>Iohn Hanbury,</hi> of Kelmarsh Knight peace externall, internall, supernall, eternall,</head>
+   <opener>
+      <salute>Right worshipfull,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">G</seg>Reat is the loue of Christ to his Saints,<note place="margin">1. Ioh. 3.16</note> and gra<g ref="char:EOLhyphen"/>cious is the effect thereof in them, which is their Christian charity one to another. This is not in word neither in tongue onely, but in deede, and in truth:<note place="margin">v. 18.</note> and such is that of your Wor<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap> to me. This is a comfort; but what shall I say? it inferres a difficulty, it must be mutu<g ref="char:EOLhyphen"/>all, loue requires a requitall, and how can <hi>Cleanthes</hi> re<g ref="char:EOLhyphen"/>quite a reall, a golden loue with the airie flore of his phan<g ref="char:EOLhyphen"/>tasie? For pouerty is the patrimony of the Muses. Noble sir, though <hi>Momus</hi> reckon, that letters are but the clouds of <hi>Helicon,</hi> yet in <hi>Apolloes</hi> esteeme they are durable ri<g ref="char:EOLhyphen"/>ches: yea so louely is learning,<note place="margin">Fauin. Parisien. in his Thea<gap reason="illegible" resp="#uom" extent="2 letters">
+            <desc>••</desc>
+         </gap>, Honor</note> and gracious are the Mu<g ref="char:EOLunhyphen"/>ses, that the Rose is become their liuery, and the Hierogly<g ref="char:EOLhyphen"/>phicke of such as loue them; and good reason, for most tried is the truth of that posie: Dignum laude virum Mu<g ref="char:EOLhyphen"/>sa vetat mori: Per
+<pb facs="3"/>
+      <q>
+         <l>Th' Immortall Sisters Chaplets in their Bowers,</l>
+         <l>They Wither not, as doe all other flowers.</l>
+      </q> Reict not therefore (I humbly intreate) this poore present of my rusti{que} muse, the testimony of my loue; so shall my litle infant being swadled in the gentle bands of your most worthy acceptance, batten at the last among men, and its parent shall be bound to continue.</p>
+   <closer>
+      <signed>
+         <hi>Your Wor. humble Orator at the Throne of Grace, euer in the Lord Iesus to be commanded</hi> Archibald Symmer.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

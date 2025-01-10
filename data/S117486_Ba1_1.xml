@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Knight, Roger</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117486_Ba1_1</idno>
+           <idno type="DLPS">A19747</idno>
+           <idno type="STC">6172</idno>
+           <idno type="ESTC">S117486</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Knight, Roger</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A protestation against popery by way of a confession of Christian religion collected for the benefit of private friends</title>
+                 <author>I. D.</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>2, 38 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the Reader.</head>
+   <l>THis little Booke for priuate vse,</l>
+   <l>was pen'd some time agoe;</l>
+   <l>And now diuulg'd for priuate freinds,</l>
+   <l>His Author wills it soe,</l>
+   <l>But if it come to others handes,</l>
+   <l>And they some profit gaine:</l>
+   <l>Then thanke his friends, that for their sakes,</l>
+   <l>He hath tooke all this paine.</l>
+   <closer>
+      <signed>ROGER KNIGHT.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

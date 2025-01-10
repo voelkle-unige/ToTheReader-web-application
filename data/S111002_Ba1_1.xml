@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errors escaped in the Printing, thus to be corrected.</title>
+           <author>Gostwick, Roger</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111002_Ba1_1</idno>
+           <idno type="DLPS">A12545</idno>
+           <idno type="STC">22869</idno>
+           <idno type="ESTC">S111002</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errors escaped in the Printing, thus to be corrected.</title>
+                 <author>Gostwick, Roger</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sir Thomas Smithes voiage and entertainment in Rushia : With the tragicall ends of two emperors, and one empresse, within one moneth during his being there: and the miraculous preseruation of the now raigning emperor, esteemed dead for 18. yeares</title>
+                 <author>Smith, Thomas, Sir</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Jaggard, William.</publisher>
+                            <publisher>Trundle, John.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="51"/>
+   <head>Errors escaped in the Printing, thus to be corrected.</head>
+   <p>IN the first page, for Chain Concatenation, read chain and Concatenation: for Neves, read Nerues: for al<g ref="char:EOLhyphen"/>lude read Allurde: for squred, read Squared.</p>
+   <list>
+      <item>In the eight page, for <hi>Dronia,</hi> read <hi>Dwyna.</hi>
+      </item>
+      <item>In the xv. page, for <hi>Coli<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>gro,</hi> read <hi>Colmagro.</hi>
+      </item>
+      <item>In the 31. page: for <hi>Meands,</hi> read <hi>Meades,</hi> and so in any other place where that word is found.</item>
+      <item>In the 56. p. for Comp. house, read companies house.</item>
+      <item>In the 66. p. read <hi>Boycrins.</hi>
+      </item>
+      <item>In the 67. pag. read <hi>Knees Pheodor,</hi> and <hi>Knees,</hi> &amp;c.</item>
+   </list>
+   <p>Reader, thou shalt vnderstand that the <hi>Godonoues</hi> is the name of the Royall family. A <hi>Prestave</hi> is a chiefe Offi<g ref="char:EOLhyphen"/>cer about the Emperour, whoe hath continuall accesse, and doth command prouision and lodging for any Am<g ref="char:EOLhyphen"/>bassador, &amp;c. A <hi>Verst,</hi> signifies a Myle. A <hi>Derevena,</hi> is a little village. These wordes because thou mayst doubt of them, I thought good to explaine.</p>
+   <pb facs="51"/>
+</div>
+        </body>
+  </text>
+</TEI>

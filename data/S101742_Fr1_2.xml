@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Terilo, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101742_Fr1_2</idno>
+           <idno type="DLPS">A13627</idno>
+           <idno type="STC">23909</idno>
+           <idno type="ESTC">S101742</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Terilo, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A piece of Friar Bacons brazen-heads prophesie. By William Terilo</title>
+                 <author>Terilo, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Creede, Thomas.</publisher>
+                            <publisher>Johnson (Jonson), Arthur</publisher>
+                        </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, is such a stale ti<g ref="char:EOLhyphen"/>tle
+to put vpon you, that not
+knowing your disposition to
+this same vniuersal gentlenes,
+and perhaps at this time, so
+ful of melancholy, as maks you vnfit for any
+such kindnes: I had rather say, you that read,
+if you haue so much idle time to passe a<g ref="char:EOLhyphen"/>way,
+as may be somewhat better then lost,
+in perusing this change, or rather dreame of
+the change of times, I pray you for this time
+to haue patience, and if an other time in this
+you take pleasure, I will as I can take a time
+to run a better course to your contentment.
+<hi>Friar Bacons</hi> Brazen head, was said (in lest) to
+haue spoken of three times: <hi>The time was,
+<pb facs="3"/>
+The Time is, and Time shall be:</hi> Now for my
+selfe, I cannot goe so farre: what was, at
+least of late, <hi>I</hi> haue a litle read, heard, and vn<g ref="char:EOLhyphen"/>derstood▪
+of the time presēt I only dreamed:
+but of what <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>s to come, <hi>I</hi> can say nothing:
+and therefore making no Chronicle of the
+first, and onely shewing my dreame of the
+second, I will make no Prophesie of the
+third, but leaue all to Gods pleasure: and so,
+leauing you to iudge of all times as you
+haue reason, <hi>I</hi> take my leaue of you at this
+time: but rest at all times.</p>
+   <closer>
+      <signed>Your friend as I find cause and time,
+<hi>William Terilo.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>DE Authore &amp; Jnterprete CARMEN.</title>
+           <author>Cruxonius, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112329_Fr1_4</idno>
+           <idno type="DLPS">A11503</idno>
+           <idno type="STC">21752</idno>
+           <idno type="ESTC">S112329</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>DE Authore &amp; Jnterprete CARMEN.</title>
+                 <author>Cruxonius, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Vindiciæ sacræ : A treatise of the honor and maintenance due to ecclesiasticall persons. Done out of the Latin, of that famous diuine of Holland, H. Saravia, sometime prebend of Canterbury</title>
+                 <author>Saravia, Adrien</author>
+                 <imprint>
+                    <distributor>Boler (Bowler), James 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 71, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="11"/>
+   <head>DE <hi>Authore &amp; Jnterprete</hi> CARMEN.</head>
+   <lg>
+      <l>QVae priùs in Latio</l>
+      <l>latuerunt, abdita vulgo,</l>
+      <l>Dogmata Semonis</l>
+      <l>sancta &amp; celebranda Bataui,</l>
+      <l>Haec sacer Interpres</l>
+      <l>pulcrè transfundit, &amp; ornat.</l>
+      <l>At qui sacrata</l>
+      <l>&amp; gemmata monilia Libro</l>
+      <l>Explicat aureolo,</l>
+      <l>Gemmam proponit in illo.</l>
+      <l>E. Gemmam. Ne sis</l>
+      <l>Aesopi (Lector) <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</l>
+   </lg>
+   <closer>
+      <signed>RICHARDVS CRVXONIVS <hi>Theologus.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

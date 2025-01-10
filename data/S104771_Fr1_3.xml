@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104771_Fr1_3</idno>
+           <idno type="DLPS">A68984</idno>
+           <idno type="STC">3671</idno>
+           <idno type="ESTC">S104771</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A murmurer</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Raworth, Robert.</publisher>
+                            <publisher>Wright, John 1</publisher>
+                        </imprint>
+                 <extent>100 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">L</seg>ET me intreat you (by
+the kindnes I hope in you)
+to bee perswaded that
+what I haue written in this little
+Tract, is rather done to reueale the
+follie of a malitious humor, then to
+taxe any person with the infection:
+The labour is not long, nor the sence
+obscure; the substance whereof, lea<g ref="char:EOLhyphen"/>uing
+to the censure of your discreti<g ref="char:EOLhyphen"/>on,
+or correction of your good pati<g ref="char:EOLhyphen"/>ence,
+with my loue to your kind de<g ref="char:EOLhyphen"/>sert,
+I rest as I find cause.</p>
+</div>
+        </body>
+  </text>
+</TEI>

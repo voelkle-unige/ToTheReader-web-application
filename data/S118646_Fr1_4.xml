@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118646_Fr1_4</idno>
+           <idno type="DLPS">A20943</idno>
+           <idno type="STC">7321</idno>
+           <idno type="ESTC">S118646</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise of the knovvledge of God, as excellently as compendiously handled by the famous and learned divine, Peter Du Moulin, late minister of the Reformed Church in Paris, and professor of theologie in the Vniversitie of Sedan. Faithfully translated out of the originall by Robert Codrington, Master of Arts</title>
+                 <author>Du Moulin, Pierre</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <publisher>Mathewes (Mathusius), Augustine.</publisher>
+                            <publisher>Sheares, William</publisher>
+                        </imprint>
+                 <extent>8, 72, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="5"/>
+   <p>ERrours are all but privations: the Translators ab<g ref="char:EOLhyphen"/>sence, and the Printers hast, gave these leave to ap<g ref="char:EOLhyphen"/>peare, which their review hath thus called in:</p>
+   <p>
+      <hi>Pag. 3, lin. 1. for <gap reason="foreign" resp="#oxf">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>, r. <gap reason="foreign" resp="#oxf">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>. pag. 5, lin. 12. for</hi> in<g ref="char:EOLhyphen"/>censed, <hi>r.</hi> insensed. <hi>pag. 6, lin. 9. for</hi> the great, <hi>r.</hi> the so great. <hi>pag. 8, lin. 2. for</hi> Devill, <hi>r.</hi> Devills. <hi>pag. 14, lin. 25. r.</hi> when addicted. <hi>pag. 15, lin. 25. r.</hi> doe differ. <hi>pag. 16, lin. 25. r.</hi> and tumults. <hi>pag. 19. lin. 15. for <gap reason="foreign" resp="#oxf">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> r. <gap reason="foreign" resp="#oxf">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>. pag. 32, lin. 2. for</hi> another, <hi>r.</hi> the other. <hi>ibid. l. 6. for</hi> those, <hi>r.</hi> these. <hi>pag. 35, lin. 2. for</hi> presse, <hi>r.</hi> know<g ref="char:EOLhyphen"/>ledge. <hi>ibid. lin. 1. for</hi> lazy, <hi>r.</hi> dusky. <hi>pag. 55, lin. 6. for</hi> squares, <hi>r.</hi> square. <hi>pag. 68, lin 9. for</hi> collect, <hi>r.</hi> draw. <hi>pag. 71, lin. 18. for</hi> le space, <hi>r.</hi> l'espace. <hi>lin. 21, for</hi> voire, <hi>r.</hi> voir.</p>
+   <p>Lighter faults there are too, which as your eye en<g ref="char:EOLhyphen"/>counters, are left unto your goodnesse, either to correct them, or excuse them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

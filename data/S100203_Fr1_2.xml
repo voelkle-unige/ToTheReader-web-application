@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100203_Fr1_2</idno>
+           <idno type="DLPS">A20739</idno>
+           <idno type="STC">712</idno>
+           <idno type="ESTC">S100203</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A true relation of the right Christianly departure, or death, of the most Noble Earle Philippus Lodouicus : Earle of Hanaw and Rieneck, Lord of Muntzenbergk, &amp;c. Vncle to the Count Palatine. Who blessedly deceased, in the Lord, on Sunday the ninth of August 1612. betwixt eight and nine of the clocke in the morning, being returned from his great ambassage for England. Faithfully penned by Ioannes Appelius preacher at Alten-Hasell. Translanted out of the Germane tongue by S.R</title>
+                 <author>Appelius, Joannes</author>
+                 <imprint>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Mab (Mabbe), Ralph.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Christian Reader.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hereas other men haue lau<g ref="char:EOLhyphen"/>dably described the Art of well liuing and well dying; I hope it will not be miscon<g ref="char:EOLhyphen"/>strued if wee doe verifie the same, by the examples of those, whom wee haue seene depart Christian<g ref="char:EOLhyphen"/>ly. Know you therefore (louing Reader) that the departure of my noble and gracious Lord (of blessed memory) is described by vs, to the end that it might serue vnto my Noble and Gracious Lady and her deare Children (as vn<g ref="char:EOLhyphen"/>to a distressed VVidow and Orphans) for a godly Instruction and Consolation vnto Pati<g ref="char:EOLhyphen"/>ence: considering also, that particular exam<g ref="char:EOLhyphen"/>ples moue the heart more effectually, then ge<g ref="char:EOLhyphen"/>nerall Precepts or Rules; and because the de<g ref="char:EOLhyphen"/>parture of my gracious Lord is full of Com<g ref="char:EOLhyphen"/>fort and Edification, we thought it not amisse
+<pb facs="3"/>
+(being induced by many religiously-affected mindes) to communicate the same also vnto others, which (no doubt) will be taken in good part by all religious Christians, as it is meant by vs.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+   <epigraph>
+      <bibl>TITVS 1. 15.</bibl>
+      <q>Vnto the pure are all things pure: but vnto them that are defiled and vnbeleeuing, is nothing pure, but euen their mindes and consciences are defiled.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

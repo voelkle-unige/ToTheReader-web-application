@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S91084_Fr1_2</idno>
+           <idno type="DLPS">B07393</idno>
+           <idno type="STC">3024</idno>
+           <idno type="ESTC">S91084</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The doctrine of the Bible: or, Rules of discipline : Briefelie gathered through the whole course of the scripture, by waie of questions and answers</title>
+                 <imprint>
+                    <publisher>Bradock, Richard</publisher>
+                    <distributor>Pavier, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>3, 236, 1 leave, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>Iudgements are prepared for Scorners, Prouerbs <hi>19:29.</hi>
+   </p>
+   <p>If any man long after life, and to see good dayes, let him refrain his tongue from euill, <hi>1:</hi> Pet: <hi>3:10:</hi>
+   </p>
+   <p>As you would that men should doe to <gap reason="illegible" resp="#murp" extent="2 letters">
+         <desc>••</desc>
+      </gap>u, so doe you to them. Luke <hi>:31.</hi>
+   </p>
+   <p>L<gap reason="illegible" resp="#keyers" extent="2 letters">
+         <desc>••</desc>
+      </gap>e couereth the multitude of f<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>alts. <hi>1.</hi> Pet. <hi>4:8.</hi>
+   </p>
+   <p>Hee that loueth not, knoweth not God, for God is loue: <hi>1:</hi> Iohn <hi>4:8.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

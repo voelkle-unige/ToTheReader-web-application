@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Breton, Nicholas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100864_Fr1_5</idno>
+           <idno type="DLPS">A04334</idno>
+           <idno type="STC">1445</idno>
+           <idno type="ESTC">S100864</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Breton, Nicholas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The nauigators supply : Conteining many things of principall importance belonging to nauigation, with the description and vse of diuerse instruments framed chiefly for that purpose; but seruing also for sundry other of cosmography in generall: the particular instruments are specified on the next page</title>
+                 <author>Barlow, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 <publisher>Barker, Robert.</publisher>
+                            <publisher>Bishop, George.</publisher>
+                            <publisher>Newbery (Nuberie), Ralph</publisher>
+                        </imprint>
+                 <extent>100 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the Reader.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">T</seg>His booke was written by a Bishops sonne,</l>
+      <l>And by affinitie to many Bishops kinne:</l>
+      <l>Himselfe a godly Pastour, prayse hath wonne,</l>
+      <l>In being diligent to conquer sinne.</l>
+   </lg>
+   <lg>
+      <l>If to thee (Reader) it may welcome bee,</l>
+      <l>The Critickes censure it will feare the lesse:</l>
+      <l>For being young from feare it is not free,</l>
+      <l>Which otherwise more courage might professe.</l>
+   </lg>
+   <lg>
+      <l>Reade, way, and try, but reade, and often trye</l>
+      <l>The rules of skill whereto it doth direct:</l>
+      <l>Triall may bring as much authoritie,</l>
+      <l>As newnesse hinder it of due respect.</l>
+   </lg>
+   <lg>
+      <l>But yet when time shall to it ripenesse giue,</l>
+      <l>It will haue credite of it selfe to liue.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120085_Fr1_2</idno>
+           <idno type="DLPS">A15506</idno>
+           <idno type="STC">25771</idno>
+           <idno type="ESTC">S120085</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The English martyrologe : conteyning a summary of the liues of the glorious and renowned saintes of the three kingdomes, England, Scotland, and Ireland. Collected and distributed into moneths, after the forme of a calendar, according to euery saintes festiuity. VVherunto i annexed in the end a catalogue of those, who haue suffered death in England for defence of the Catholicke cause, since King Henry the 8. his breach with the Sea Apostolicke, vnto this day. By a Catholicke priest</title>
+                 <author>Wilson, John</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>16, 356, 30 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="2"/>
+   <q>
+      <hi>Ecce Regni Anglia dulcis patriae excidiū dolendū &amp;c. Mar<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>yribus, Confessoribus, &amp;c.</hi> Behould the lamentable de<g ref="char:EOLhyphen"/>struction of England so pleasant a Countrey &amp;c. An Iland so shining with Martyrs. Confessours, and holy Vir<g ref="char:EOLhyphen"/>gins, that scarcely shall yow passe by any famous Village or streete, where yow shall not heare the glorious Name of some new Saint or other &amp;c. <bibl>
+         <hi>Matth. Paris. in Hist. Angl. Anno 1. Gul. Conquest.</hi>
+      </bibl>
+   </q>
+   <q>
+      <hi>NVsquam gentium, vt opinor, reperies. &amp;c.</hi> No where, I supose, shall yow find so many incorrupted bodyes of Saintes <hi>(as in England)</hi> resembling that their euerlasting incorruptibility. Which by diuine proui<g ref="char:EOLhyphen"/>dence, I thinke, to be therfore so ordayned; that a Nation situated almost out of the world, should by consideration of their incorruption, be more confidently animated to the hope of eternall Resurrection &amp;c.<bibl>
+         <hi>Author Continuat. Hist. Ven. Bedae l. 2. cap.</hi> 30. Vixit anno 1110.</bibl>
+   </q>
+   <q>EVery corner of S. <hi>Augustines</hi> Monastery at Cāterbury lieth full of the bodyes of Sayntes, and those of no small Name or merit; but euen of such, as one wherof alone were sufficient to make England famous. &amp;c. <bibl>
+         <hi>Idem eodem lib. cap.</hi> 33.</bibl>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

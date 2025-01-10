@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114099_Fr1_5</idno>
+           <idno type="DLPS">A11258</idno>
+           <idno type="STC">21523</idno>
+           <idno type="ESTC">S114099</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The touch-stone of prayer. Or A true and profitable exposition of the Lords prayer, according to the holy Hebrew of S. Mathews gospel : to which is prefixed certaine necessary circumstances to be obserued in prayer. Also thereunto is annexed a table shewing the agreement betweene the Lords prayer, and the ten commandements of Almighty God. By T.S</title>
+                 <author>S, Tho</author>
+                 <imprint>
+                    <publisher>Read, Richard</publisher>
+                    <distributor>Johnson (Jonson), Arthur</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>128 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <p>
+      <hi>To the secure and carelesse saith</hi> S. Iames.</p>
+   <q>Yee lust and haue not: because yee aske not. <bibl>
+         <hi>Iam.</hi> 4. <hi>verse.</hi> 2.</bibl>
+   </q>
+   <p>
+      <hi>To the lasciuious and carnall.</hi>
+   </p>
+   <q>Yee aske and receiue not: because yee aske amisse. <bibl>
+         <hi>verse</hi> 3.</bibl>
+   </q>
+   <p>
+      <hi>To the regenerate Christian saith</hi> S. Iohn.</p>
+   <q>This is the assurance that we haue in him, that if we aske any thing according to his will, he hea<g ref="char:EOLhyphen"/>reth vs. <bibl>
+         <hi>John.</hi> 5. <hi>verse</hi> 14. 15.</bibl>
+   </q>
+   <q>Before we crie will hee answere: and whilst wee speake will he heare vs. <bibl>
+         <hi>Jsa.</hi> 65. <hi>vers.</hi> 24.</bibl>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

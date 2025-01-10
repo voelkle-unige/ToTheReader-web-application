@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the curteous and freendly Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111282_Fr1_4</idno>
+           <idno type="DLPS">A12947</idno>
+           <idno type="STC">23239.5</idno>
+           <idno type="ESTC">S111282</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the curteous and freendly Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A breef discour [s] wherin is declared, of y [e] trauailes an [d] miseries of this painful life, &amp; that death is t [he] dissoluer of mans miserie. Gathered out of d [i] uers good writers, by Leonard Staueley. Wh [er] vnto is annexed the authors muse of this life, in English vearse and his prayse likewise of vertue, felicitie and true sentillitie</title>
+                 <author>Staveley, Leonard</author>
+                 <imprint>
+                    <publisher>Allde, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>¶ To the curteous and freendly <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">A</seg>S I haue seen by diuers and learned woorks (moste gentle Reader) that there was neuer yet any matter so handled / but some fault hath esca<g ref="char:EOLhyphen"/>ped, so for want of skill (in mine owne dooings, Lacking the benefit of exact knowledge) I haue rūne a Rouing w<seg rend="sup">t</seg>out any order in my wri<g ref="char:EOLhyphen"/>tinges. But such as it is I present to thy frendly reading, wherin I haue declared some parte of mans intolle<g ref="char:EOLunhyphen"/>rable passions &amp; frailtie, for redres wherof I say that <hi>death is the disoluer of his miserable misery.</hi>
+   </p>
+   <p>If I gain thy good woord I haue my desire, but if I reap thy reproch: thou shewest but thy noysom nature wherfore (hoping the best) I wish thee vse this til time afford better, &amp; as I heer of thy freendly report: so wil I write of other matters to thy contentation, profit and pleasure. <hi>et sic Vale.</hi>
+   </p>
+   <closer>
+      <signed>Savwel.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1551</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103647_Fr1_3</idno>
+           <idno type="DLPS">A15587</idno>
+           <idno type="STC">25852</idno>
+           <idno type="ESTC">S103647</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A compendious or short treatise, gathered out of the chyefe and principall authors of phisycke : conteynyuge certeyne preceptes necessary to the preseruacion of healthe, and longe continuaunce of the same: verye pleasaunte and profitable to reade</title>
+                 <author>Wingfield, Henry</author>
+                 <imprint>
+                    <publisher>Grafton, Richard</publisher>
+                    <distributor>Stoughton, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1551</date>
+                 </imprint>
+                 <extent>68 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Culinary arts</term>
+                    <term>Medical texts</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>Who so wyl haue his dayes in healthe long endure,</l>
+      <l>And wythout payne or griefe to lyue and fare well.</l>
+      <l>These preceptes let hym practise, or faythfully put in <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>re,</l>
+      <l>And of health he may be siker, &amp; sicke<g ref="char:EOLunhyphen"/>nes so expell.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

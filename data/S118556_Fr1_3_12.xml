@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Librum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118556_Fr1_3_12</idno>
+           <idno type="DLPS">A14007</idno>
+           <idno type="STC">24316a</idno>
+           <idno type="ESTC">S118556</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Librum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse against painting and tincturing of women : Wherein the abominable sinnes of murther and poysoning, pride and ambition, adultery and witchcraft are set foorth &amp; discouered. Whereunto is added The picture of a picture, or, the character of a painted woman</title>
+                 <author>Tuke, Thomas</author>
+                 <imprint>
+                    <publisher>Marchant, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>14, 62 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>Ad Librum.</head>
+   <lg>
+      <l>VAde, valéqueliber, soboles libertaparentis,</l>
+      <l>Ingenui proles ingenij, &amp; genij.</l>
+      <l>Exis, mentiri &amp; blandirinescius exis.</l>
+      <l>Sic Domino liber es par, similisque tuo.</l>
+      <l>Euge liber, fuci expers, dilne fucum.</l>
+      <l>Fucus eat, pereat, téque vigente cadat.</l>
+      <l>Horrescas obelis, in te omnis saeuiat vnguis,</l>
+      <l>Faemineâque licet dilacerêre manu.</l>
+      <l>Quicquiderit, linguae viris, virusùé malignae:</l>
+      <l>Sorstua verae simplicitatis erit.</l>
+      <l>Persta, insta, damna in faciem vsque atque fucum,</l>
+      <l>Quos stringis, stringunt ista, probiqué probant.</l>
+   </lg>
+   <byline>Aegid. Baden.</byline>
+</div>
+        </body>
+  </text>
+</TEI>

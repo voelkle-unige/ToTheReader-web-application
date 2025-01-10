@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST SACRED MAIESTIE.</title>
+           <author>Habington, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120588_Fr1_2</idno>
+           <idno type="DLPS">A02454</idno>
+           <idno type="STC">12586</idno>
+           <idno type="ESTC">S120588</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST SACRED MAIESTIE.</title>
+                 <author>Habington, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The historie of Edvvard the Fourth, King of England. By Wm. Habington Esquire</title>
+                 <author>Habington, William</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Cooke, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>4, 232 pages, plates, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE KINGS MOST SACRED MAIESTIE.</head>
+   <opener>
+      <salute>Sir,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">A</seg>N Humbler Dedication, would seeme to lessen the me<g ref="char:EOLhyphen"/>mory of that great Prince, whose History I here lay downe at your feete. Your Majestie is heire to those Crowns, his happy courage regain'd from the long and violent possession, of a most Potent Family: What can then by any Title appertaine to him, but must be injustice to offer to another? His life presents your eye with rugged times, yet smooth'd by a prevailing Fortune, and a just cause. Faction begot many tempests: but Soveraigntie found a happie calme, in the destruction (since no gent<g ref="char:EOLhyphen"/>ler way had authoritie) of mighty opposers.</p>
+   <p>
+      <pb facs="3"/>When we, your subjects, looke backe upon that age, how ought we to congratulate the present? Wherein, free even from the noyse of warre, we have hitherto by the excellent Wisedome of your Majesties government, lived safe and envied. The Almighty grant all your people knowledge of their owne felicity, and their mindes so dispo<g ref="char:EOLhyphen"/>sed, that their blessings may feele no interruption. May your Majestie long continue in peace, the comfort and honour of these times, and the best example for the future. But if you shall be forc't to draw your sword; may your enemies submit and tastpart of your mercy: if not; perish in your Victories. This is the prayer of your Majesties</p>
+   <closer>
+      <salute>Most Humble, most Loyall, and most Obedient Subject.</salute>
+      <signed>W<seg rend="sup">M</seg>. HABINGTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

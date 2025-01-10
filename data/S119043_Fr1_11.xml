@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Sadleri carmen ad
+praecedentia.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119043_Fr1_11</idno>
+           <idno type="DLPS">A14315</idno>
+           <idno type="STC">24631</idno>
+           <idno type="ESTC">S119043</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Sadleri carmen ad
+praecedentia.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The foure bookes of Flauius Vegetius Renatus : briefelye contayninge a plaine forme, and perfect knowledge of martiall policye, feates of chiualrie, and vvhatsoeuer pertayneth to warre. Translated out af [sic] lattine, into Englishe, by Iohn Sadler. Anno. 1572. Seene and allovved, accordinge to the order appointed</title>
+                 <author>Vegetius Renatus, Flavius</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 </imprint>
+                 <extent>10, 66, 8 leaves, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="10"/>
+   <head>Sadleri carmen ad
+praecedentia.</head>
+   <lg>
+      <l>CVius hae laudes nisi Brudenelli?</l>
+      <l>M<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>litis clari, at{que} equitis Britanni?</l>
+      <l>Cui{que}, si quid sit, meritò putetur</l>
+      <l>Maius honore?</l>
+   </lg>
+   <lg>
+      <l>Quicquid huius sit studi<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>, laboris:</l>
+      <l>Huius hortatu patriae tributum:</l>
+      <l>Vna causa, &amp; fons fuit iste primus,</l>
+      <l>Solus &amp; author.</l>
+   </lg>
+   <lg>
+      <l>Si tamen verum volumus fateri:</l>
+      <l>Nemo, preterquàm Deus ipse solus</l>
+      <l>Dignus est, sic cui tribuenda laus sit,</l>
+      <l>Omnis honor{que}.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

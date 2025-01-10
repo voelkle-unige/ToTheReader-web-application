@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Correction off thos faultes which might som∣what stay the reader the first nombre shewing the page / the second the line.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103071_Ba1_1</idno>
+           <idno type="DLPS">A15145</idno>
+           <idno type="STC">25442</idno>
+           <idno type="ESTC">S103071</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Correction off thos faultes which might som∣what stay the reader the first nombre shewing the page / the second the line.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A brieff discours off the troubles begonne at Franckford in Germany Anno Domini 1554 : Abowte the booke off off [sic] common prayer and ceremonies, and continued by the Englishe men theyre/ to thende off Q. Maries raigne, in the which discours, the gentle reader shall see the very originall and beginninge off all the contention that hathe byn, and what was the cause off the same</title>
+                 <author>Whittingham, William</author>
+                 <imprint>
+                    <publisher>Schirat, Michael</publisher>
+                    <pubPlace>Germany--Heidelberg</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>ii, ccxv, that is cvxi, i pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="108"/>
+   <head>Correction off thos faultes which might som<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>what stay the reader the first nombre shewing the page / the second the line.</head>
+   <p>PAge 2. line 18. enioned, reade enioyed. pag. 3. lin. 5. is. Re. yt. pag. 10. li. 22. your, R. yow. pag. 25. li. 12. discent. R. dissent. pag. 27. li. 4. parie R. partie. pag. 38. lin. 24. ende, R. tende. pa. 44· li. 9. ceri<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ine, R. certeine. pa. 47. li. 20. lette, R. letter. pa. 65. li. 17. subscription, R. superscription. pa. 72. l.. 36. world. R. would. pa. 76. li. 10. stucke the pastor, R. stucke to the pastor. Li. 15. wison, R. wilson. pag. 82. lin. 19. were, R. where. pag. 86. li. 5. congregagation, R. congregation. pag. 97. lin. 30. dinner, R. dynner. pag. 123. lin. 7. the, R. then Pa. 132. lin. 22. incompent, R. incompetent, pa. 179. l. 23. td, R. to. pag. 194. lin. 8. con<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ners, R. couseners, pag. 200. lin. 22. to R. the.</p>
+   <pb facs="108"/>
+</div>
+        </body>
+  </text>
+</TEI>

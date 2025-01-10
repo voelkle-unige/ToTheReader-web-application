@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119304_Fr1_3</idno>
+           <idno type="DLPS">A03966</idno>
+           <idno type="STC">14073</idno>
+           <idno type="ESTC">S119304</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lot's little one. Or Meditations on Gen. 19. vers. 20 : Being the substance of severall sermons sometimes delivered by William Ince Mr in Arts, late senior fellow of Trinitie Colledge Dublin. Published since his death, by R.I</title>
+                 <author>Ince, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Crooke, John.</publisher>
+                            <publisher>Raworth, John.</publisher>
+                            <publisher>Sergier, Richard 2</publisher>
+                        </imprint>
+                 <extent>8, 168 pages, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>Reverendissimo in Christo Patri LANCELO TO, Providentiâ divinâ D<seg rend="sup">•o</seg> Archi<g ref="char:EOLhyphen"/>episcopo <hi>Dubliniensi</hi> Hiberniae Primati &amp; Metropo<g ref="char:EOLhyphen"/>litae, Has, fratris charissimi <hi>Gulielmi Ince,</hi> in artibus magistri, Colegii Sanctae <hi>Trinitatis Dublin</hi> nuper socii senioris, lucubrationes post<g ref="char:EOLhyphen"/>humas, igni ab authore devotas, è Sybillinis veluti foliis (ut plu<g ref="char:EOLhyphen"/>rimum) collectas, amore &amp; curâ fraternis, luce &amp; corpore donatas, in meritissimae, Tam authoris dum viveret, quam fratris superstitis ob<g ref="char:EOLhyphen"/>servantiae testimonium, L. M. D. D. D. Clementiae vestrae servus à sacris addictissimus.</p>
+   <p>
+      <hi>Randulphus Ince.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

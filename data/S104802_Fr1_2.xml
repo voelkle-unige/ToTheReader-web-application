@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>N., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104802_Fr1_2</idno>
+           <idno type="DLPS">A16757</idno>
+           <idno type="STC">3664</idno>
+           <idno type="ESTC">S104802</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>N., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>I vvould, and would not</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Bushell, Thomas.</publisher>
+                            <publisher>Creede, Thomas.</publisher>
+                            <publisher>Wright, John 1</publisher>
+                        </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>Ou that reade, what you would
+be, I know not; what you would
+not be, you know your selfe: But
+what you should be, God knowes:
+But for my selfe, I haue founde
+what is best to be, and so wishe
+other, except they neither knowe what they should
+be: nor well what they would, or would not be: Scorne
+i<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> not, because it is in verse, or rime, for if you will
+reade it, you maie perhaps finde more pleasure and
+profit in it, then a worse piece of prose: not to per<g ref="char:EOLhyphen"/>swade
+you to any thing, further then your liking;
+I leaue the censure of it, to your discretion, and my
+better Labours as they fall out, to your further con<g ref="char:EOLhyphen"/>tent.
+And so, loath to make you beleeue more, then
+perhaps you shall finde, hoping, that no man will be
+angry with his owne shadowe, nor saie (meaning
+m<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>) when hee com<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>s to a f<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>le point: But take the best
+and leaue the worst, and break none of the pal<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>; as
+kinde hearts doe in the Countrey: I rest, as you may
+see in my Discourse, what <hi>I</hi> would, and would not
+bee: and without would not, would bee as <hi>I</hi> should
+be.</p>
+   <closer>
+      <signed>Your friend and well-willer,
+<hi>B. N.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

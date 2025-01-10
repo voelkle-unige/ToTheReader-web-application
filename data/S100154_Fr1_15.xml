@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A direction to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100154_Fr1_15</idno>
+           <idno type="DLPS">A19142</idno>
+           <idno type="STC">555</idno>
+           <idno type="ESTC">S100154</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A direction to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A fresh suit against human ceremonies in Gods vvorship. Or a triplication unto. D. Burgesse his rejoinder for D. Morton. The first part</title>
+                 <author>Ames, William</author>
+                 <imprint>
+                    <publisher>Thorp, Giles, Successors of</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>124, 156, 531, 13, 64 pages, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="56"/>
+   <pb facs="56"/>
+   <head>A direction to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He author being constrayned to be absent from the presse, by reason of vrgent occa<g ref="char:EOLhyphen"/>sions and being altogither destitute of any help from ot<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>er, w<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>o were willing and able to correct the Impression (as it is the common Lott to poore men vnder pressures to be forsaken of freinds and meanes) there be many faults escaped, in the printing, &amp; some such, which pervert the sense, and will preiudice the truth, and Reader: and therfore he is to be intreated, before he read the book to mend the grosser mistakes with his penn: or else so at<g ref="char:EOLhyphen"/>tend and <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>onsider of them, that he may have recourse to them as occasion shall serve: the other faults which are of lesse consequence, common curtesy will easily pardon and passe by.</p>
+</div>
+        </body>
+  </text>
+</TEI>

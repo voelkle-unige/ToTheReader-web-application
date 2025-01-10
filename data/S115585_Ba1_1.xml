@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epilogue]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115585_Ba1_1</idno>
+           <idno type="DLPS">A10368</idno>
+           <idno type="STC">20647</idno>
+           <idno type="ESTC">S115585</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epilogue]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The life and death of Mahomet : the conquest of Spaine together with the rysing and ruine of the Sarazen Empire. Written by Sr. Walter Raleigh Kt</title>
+                 <author>Raleigh, Walter, Sir</author>
+                 <imprint>
+                    <publisher>Hodgkinson, Richard</publisher>
+                    <distributor>Frere (Fryer), Daniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>12, 274, 2 pages, portraits (metal cut), 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epilogue">
+   <pb facs="146"/>
+   <p>THIS Writing of the life of <hi>Jacob Almanzor</hi> was finished in the Castle of the City of Cufa, on the <hi>4<seg rend="sup">th</seg>
+      </hi> day of the Moone of Rabek the first, in the <hi>110<seg rend="sup">th</seg>
+      </hi> yere. <hi>Praised be God</hi>
+   </p>
+   <closer>Amen.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

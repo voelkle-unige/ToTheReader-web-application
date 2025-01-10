@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Sclater, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116820_Fr1_3</idno>
+           <idno type="DLPS">A11596</idno>
+           <idno type="STC">21838</idno>
+           <idno type="ESTC">S116820</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Sclater, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A key to the key of Scripture: or An exposition with notes, vpon the Epistle to the Romanes; the three first chapters : begun at Walsall in Staffordshire, continued at Pitmister in Somerset. By William Sclater Batchelar in Diuinitie, and minister of the Word of God at Pitmister in Somerset</title>
+                 <author>Sclater, William</author>
+                 <imprint>
+                    <distributor>Norton, George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Bonian (Bunnian), Richard.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 284, 283-329, 332-388, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, thou hast here some part of that paynes, so long expected, so much desired. As <hi>Caleb</hi> and <hi>Iosua</hi> sent forth to bring tidings and tast of the promised land; so these, to tast the acceptance, the rest shall expect, from the Church of God. My desire was, to haue forth-sent them, with greater company, and better furniture: if either mine owne incessant imployments, would haue permitted more, or friends restlesse opportunitie, had not ex<g ref="char:EOLhyphen"/>torted these. Where I fault, smite me friendly: it shall be as balme to mine head, and perhaps an Antidote to preuent the like, in that which followeth. Be in<g ref="char:EOLhyphen"/>treated to conferre the Text with the glosse: and if I be not deceiued, thou shalt finde the fruit, such as needs not to be repented. Now the Lord, sole giuer of increase to our Labours, make it fruitfull, to the comfort of thy conscience, and furtherance of thy faith. <hi>Amen.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>Thine in Christ</hi> William Sclater.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

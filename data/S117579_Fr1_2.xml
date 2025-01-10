@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Gentle Readers.</title>
+           <author>W., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117579_Fr1_2</idno>
+           <idno type="DLPS">A02103</idno>
+           <idno type="STC">12245</idno>
+           <idno type="ESTC">S117579</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Gentle Readers.</title>
+                 <author>W., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes, groats-vvorth of witte, bought with a million of repentance : Describing the follie of youth, the falshood of makeshifte flatterers, the miserie of the negligent, and mischiefes of deceiuing courtezans. Written before his death and published at his dyeing request</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <distributor>Wright, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 <publisher>Danter, John.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>46 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Printer to the Gentle Readers.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Haue published here Gentle men for your mirth and be<g ref="char:EOLhyphen"/>nefite <hi>Greenes</hi> groates worth of wit. VVith sundry of his pleasant discourses, ye haue beene before delighted: But nowe hath death giuen a period to his pen? onely this happened into my handes which I haue published for your pleasures: Accept it fauourably because it was his last birth and not least worth? In my poore opinion. But I will cease to praise that which is aboue my conceipt, &amp; leaue it selfe to speak for it selfe? and so abide your learned censuring.</p>
+   <closer>
+      <signed>Yours VV. VV.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

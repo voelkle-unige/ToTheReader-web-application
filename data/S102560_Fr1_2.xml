@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right Honourable, George, Marquisse, and Earle of Buckingham, vicount VILLIERS, Barron of Whaddon, Lord high Admirall of England, Iustice in Eyre of al his Maies. Forrests, Parkes, and Chases beyond Trent, Mr. of his Maies. horse, Knight of the most noble Order of the Garter, and one of his Maiesties most honourable priuie Counsell.</title>
+           <author>Man, Stephen</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102560_Fr1_2</idno>
+           <idno type="DLPS">A06803</idno>
+           <idno type="STC">17239</idno>
+           <idno type="ESTC">S102560</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right Honourable, George, Marquisse, and Earle of Buckingham, vicount VILLIERS, Barron of Whaddon, Lord high Admirall of England, Iustice in Eyre of al his Maies. Forrests, Parkes, and Chases beyond Trent, Mr. of his Maies. horse, Knight of the most noble Order of the Garter, and one of his Maiesties most honourable priuie Counsell.</title>
+                 <author>Man, Stephen</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A relation of certaine things in Spaine : worthy of obseruation: Set forth by Stephen Man, one of the yeomen of his Maiesties chamber</title>
+                 <author>Man, Stephen</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Browne, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>4, 30+ pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right Honourable, <hi>George,</hi> Marquisse, and Earle of <hi>Buckingham,</hi> vicount VILLIERS, Barron <hi>of</hi> Whaddon, <hi>Lord high Admirall of</hi> England, Iustice in Eyre of al his Ma<seg rend="sup">ies</seg>. Forrests, Parkes, and Chases beyond <hi>Trent,</hi> M<seg rend="sup">r</seg>. <hi>of his Ma<seg rend="sup">ies</seg>. horse, Knight</hi> of the most noble Order of the Garter, and one of his Maiesties most honourable priuie Counsell.</head>
+   <opener>
+      <salute>Right Honourable Lord:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">S</seg>Ince your Lo. Ver<g ref="char:EOLhyphen"/>tues are such, as they haue a Title to all mens labours, both by your honourable ap<g ref="char:EOLhyphen"/>ceptation and fauour, as your value, and iudgement of them: It is an honest ambition of my humbleness<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#uom" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+      <pb facs="3"/>
+to adde something to the heape is dayly offered to your altar, with pro<g ref="char:EOLhyphen"/>testation, that nothing is brought thither with sincerer hands then this small gift of mine owne collecti<g ref="char:EOLhyphen"/>ons in Spaine: which if they retayne but a good odour in your receiuing, and that your Honour will take the minde wherewith they are done, it will be a grace, that shall euer ena<g ref="char:EOLhyphen"/>ble my industry, to the study of ser<g ref="char:EOLhyphen"/>uing and honouring your Lordship, in the name of your Lordship</p>
+   <closer>
+      <signed>most bounden, <hi>Stephen Man.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

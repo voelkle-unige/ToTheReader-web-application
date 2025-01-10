@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Woodyates, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113140_Fr1_2</idno>
+           <idno type="DLPS">A04985</idno>
+           <idno type="STC">15134</idno>
+           <idno type="ESTC">S113140</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Woodyates, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sermons vvith some religious and diuine meditations. By the Right Reuerend Father in God, Arthure Lake, late Lord Bishop of Bath and Wells. Whereunto is prefixed by way of preface, a short view of the life and vertues of the author</title>
+                 <author>Lake, Arthur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Stansby, William.</publisher>
+                            <publisher>Stansby, William.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                            <distributor>Butter, Nathaniel</distributor>
+                            <distributor>Butter, Nathaniel</distributor>
+                        </imprint>
+                 <extent>36, 80, 91-250, 281-547, 3, 298, 295-322, 187, 53 pages, 1 leaf of plates, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>VENERABILI VIRO DOMINO IOHANNI YONG SS. THEOL. DOCT. DIGNISSIMO ECCLESIAE <hi>WINTONIENSIS DECANO.</hi>
+   </p>
+   <p>HAS REVERENDI IN CHRISTO PATRIS ARTHVRI LAKE, <hi>BATHONIENSIS</hi> ET <hi>WELLENSIS</hi> OLIM EPISCOPI PIAS ET DOCTAS <hi>CONCIONES.</hi>
+   </p>
+   <p>Obseruantiae ergo</p>
+   <closer>
+      <dateline>
+         <date>L. M. D. D. D.</date>
+      </dateline>
+      <signed>
+         <list>
+            <item>PHILIPPVS MAHAT.</item>
+            <item>IOHANNES COOTH.</item>
+            <item>THOMAS WOODYATES.</item>
+         </list>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

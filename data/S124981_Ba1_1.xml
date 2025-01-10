@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124981_Ba1_1</idno>
+           <idno type="DLPS">A72253</idno>
+           <idno type="STC">12923.5</idno>
+           <idno type="ESTC">S124981</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Three sermons vpon some portions of the former lessons appointed for certaine Sabbaths : The first containing, a displaying of the wilfull deuises of wicked and vaine vvorldlings. Preached at Tanridge in Surrey the first of February 1597. The two latter describing the dangers of discontentment and disobedience. Preached the one at Tanridge and the other at Crowhurst in Iuly then next following. By Simon Harwarde</title>
+                 <author>Harward, Simon</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>Jones (Jhones, Johnes), Richard.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>156 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="80"/>
+   <head>Errata.</head>
+   <p>In the first Sermon, for strong, r. stong, for porti<g ref="char:EOLhyphen"/>nus, r. protinus. In the second sermon, fol. 3. b. r. moshegnim, fol. 5. b.r. effecting of some, fol. 18. a. r. Longins. fol. 14. a. actions that can be. In the third, for honoradi. r. honorandi.</p>
+   <p>
+      <hi>The often sudden changing of the Cha<g ref="char:EOLhyphen"/>racter, was the Printers conceipt, in the absence of the Author.</hi>
+   </p>
+   <pb facs="80"/>
+</div>
+        </body>
+  </text>
+</TEI>

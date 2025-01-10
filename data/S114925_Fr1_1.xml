@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To mine approoued Friende Andro Hart.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114925_Fr1_1</idno>
+           <idno type="DLPS">A03942</idno>
+           <idno type="STC">1405</idno>
+           <idno type="ESTC">S114925</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To mine approoued Friende Andro Hart.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The nature &amp; effects of the new-found well at Kinghorne: declared by William Barclay, Master of Artes and Doctour of Physicke, and written in a letter to my lord the Earle of Dumfermeling, and Chancellar of Scotland</title>
+                 <author>Barclay, William</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>14 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_printer">
+   <pb facs="1"/>
+   
+   <pb facs="1"/>
+   
+   <head>To mine approoued Friende <hi>Andro Hart.</hi>
+   </head>
+   <p>
+      <hi>
+         <seg rend="decorInit">M</seg>ASTER HART,</hi> beeing at <hi>KING<g ref="char:EOLhyphen"/>HORNE,</hi> bearing company to my deare and sickly Nephew, who is come thither to craue helpe from this recently laureate Master Doctor, <hi>the new-found, much celebrated Well,</hi> I haue penned a little Discourse, containing in a Let<g ref="char:EOLhyphen"/>ter <hi>To my Lord Chancellar,</hi> the Nature and Effectes of this Water. But I am wonderfully
+<pb facs="2"/>
+      importuned, either writing or diting Copies of the same. For the which cause I sende to you, as to a Common Father of Letters, the principall piece: that you maye giue it the Cognissance of your Characters, and a patent Pasport vnder the Seale of your Presse. So constrained to cut short, by the clamour of Mariners calling to the Tide, I take my leaue at Leith this 8. of August, <hi>anno 1618.</hi>
+   </p>
+   <closer>
+      <signed>Your most affectio<g ref="char:EOLhyphen"/>nate friende BARCLAY, Doct. Med.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

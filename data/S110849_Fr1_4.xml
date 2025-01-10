@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SONNET,</title>
+           <author>F., V.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110849_Fr1_4</idno>
+           <idno type="DLPS">A11417</idno>
+           <idno type="STC">21671</idno>
+           <idno type="ESTC">S110849</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SONNET,</title>
+                 <author>F., V.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The historie of Iudith : in forme of a poeme. Penned in French, by the noble poet, G. Salust. Lord of Bartas. Englished by Tho. Hudson</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1584</date>
+                 <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Vautrollier, Thomas 1</publisher>
+                        </imprint>
+                 <extent>8, 35, 35-92, 11 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="sonnet">
+   <pb facs="5"/>
+   <head>SONNET,</head>
+   <l>The <hi>Muses</hi> nyne haue not reueald to me</l>
+   <l>What sacred seedes are in their gardens sowne</l>
+   <l>Nor how their <hi>Salust</hi> gaines the <hi>Laurer</hi> tre</l>
+   <l>Which throw thy toyle in <hi>Brittain</hi> groūd is grown</l>
+   <l>But sith they se thy trauell treuly showne</l>
+   <l>In verteus skoole th'expyring tyme to spend</l>
+   <l>So haue they to his hienes made it knowne</l>
+   <l>Whose Princely power may dewly the defend</l>
+   <l>Then yow that on the <hi>Holy mount</hi> depend</l>
+   <l>In christall ayr and drinks the cleared spring</l>
+   <l>Of <hi>Poetrie</hi> I do yow recommend</l>
+   <l>To the protection of this godly King</l>
+   <l>VVho for his verteus and his gifts deuyne</l>
+   <l>Is only <hi>Monark</hi> of the <hi>Muses</hi> nyne.</l>
+   <trailer>FINIS.</trailer>
+   <closer>
+      <signed>M. V. F.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD LECTOREM. L. A.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1571</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110518_Ba1_4</idno>
+           <idno type="DLPS">A09789</idno>
+           <idno type="STC">20057.5</idno>
+           <idno type="ESTC">S110518</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD LECTOREM. L. A.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A president for parentes, teaching the vertuous training vp of children and holesome information of yongmen. Written in greke by the prudent and wise phylosopher Choeroneus [sic] Plutarchus, translated and partly augmented by Ed. Grant: very profitable to be read of all tho that desire to be parents of vertuous children. Anno. 1571. Seene and allowed according to the Quenes iniunctions</title>
+                 <author>Plutarch</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1571</date>
+                 </imprint>
+                 <extent>152 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>AD LECTOREM. L. A.</head>
+   <lg>
+      <l>MOmus abesto procul, mordaces cedite linguae,</l>
+      <l>Cedite mordac<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>s, Momus abesto procul.</l>
+      <l>Zoilus abscedat, vacuas latratibus auras</l>
+      <l>Impleat, haud istum diruet ore librum.</l>
+      <l>Brachia virtutis latissima tollere neseit,</l>
+      <l>In vetito virtus tramite tentat iter.</l>
+      <l>
+         <hi>Traiani</hi> praeceptor erat <hi>Plutarchus,</hi> at illum</l>
+      <l>Effigiem viuam principis esse liquet.</l>
+      <l>
+         <hi>Plutarchum</hi> hi<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>c constat quoddā scripsisse volu<g ref="char:EOLhyphen"/>men,</l>
+      <l>Ad quod <hi>Traiani</hi> docta iuuenta fuit.</l>
+      <l>Quē <hi>Grantus</hi> patriae linguae studiosus, et auctor,</l>
+      <l>(Quandoquidē pueros posse iuuare videt:)</l>
+      <l>Ad nos è Graecis in nostros transtulit vsus,</l>
+      <l>Disceret vt mores nostra inuenta bonos.</l>
+      <l>Excipiant igitur <hi>Grantum, Granti{que}</hi> libellum,</l>
+      <l>Queis virtus, mores, queis bona facta placent.</l>
+      <l>Moribus egregijs animo quicun{que} studebi<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Egregij mores vnde parentur habes.</l>
+      <l>Authorem defende libri, defende libellum,</l>
+      <l>Grandius et posthaec forte volumen erit.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

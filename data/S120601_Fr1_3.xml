@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the freendly
+Reader.</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120601_Fr1_3</idno>
+           <idno type="DLPS">A07896</idno>
+           <idno type="STC">18268</idno>
+           <idno type="ESTC">S120601</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the freendly
+Reader.</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A courtly controuersie, betweene looue and learning : Pleasauntlie passed in disputation, betweene a ladie and a gentleman of Scienna. Wherein is no offence offered to the vertuous nor any ill motion to delight the vicious</title>
+                 <author>Munday, Anthony</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <distributor>Carre, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <pb facs="6"/>
+   <head>To the freendly
+Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>T were needlesse gen<g ref="char:EOLhyphen"/>tle</hi>
+Reader, to vse a
+large preamble in
+so breefe a purpose:
+or to trifle the time
+in tediousnes, when a woord
+or twaine may suffise. It is a
+custome, and I would be loth
+to breake it, to desire thy freend<g ref="char:EOLhyphen"/>ship,
+in reading this little fan<g ref="char:EOLhyphen"/>cie:
+which how farre it is from
+any ill intent, so farre I wish
+euill suspect may be from thy
+minde. This is all my reque<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>,
+to read with aduise, rewarde
+with gentlenes: and then take
+thy choyse, either of Looue or
+Learning.</p>
+   <closer>
+      <signed>Thy freend. <hi>A. Munday.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

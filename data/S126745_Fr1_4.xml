@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO The Illustrious Majesty OF Great Brittaines Monarchesse, Our most Gratious Queen, MARIE.</title>
+           <author>Lenton, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S126745_Fr1_4</idno>
+           <idno type="DLPS">B07802</idno>
+           <idno type="STC">15464.5</idno>
+           <idno type="ESTC">S126745</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO The Illustrious Majesty OF Great Brittaines Monarchesse, Our most Gratious Queen, MARIE.</title>
+                 <author>Lenton, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A piece of the world : painted in proper colours. Presented to the illusterous majesty of our most gracious Queene Mary. By Francis Lenton gent. Her Majesties poet</title>
+                 <author>Lenton, Francis</author>
+                 <imprint>
+                    <publisher>Raworth, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>168 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="7"/>
+   <head>TO The Illustrious Majesty OF <hi>Great Brittaines Monarchesse,</hi> Our most Gratious Queen, <hi>MARIE.</hi>
+   </head>
+   <opener>
+      <salute>MADAM.</salute>
+   </opener>
+   <lg>
+      <l>MInerva now hath lent a Birth,</l>
+      <l>In waggish Prose to give your Grace some Mirth,</l>
+      <l>In which both Iuvenall and Martiall,</l>
+      <l>Meet, and doe mixe their honey with their gall;</l>
+      <l>Here I adventured to cut a Sluce</l>
+      <l>Into the Times enormious abuse,</l>
+      <l>I point at no Man single, but Truth knowes</l>
+      <l>That horse is gall'd that winches as he goes:</l>
+      <l>Laugh then (blest Lady) and amongst the rest,</l>
+      <l>Protect this Pamphlet peeping out in jest.</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>Your Graces servant,</hi> Fran: Lenton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

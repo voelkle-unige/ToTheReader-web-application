@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AV LECTEVR.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108288_Fr3_2</idno>
+           <idno type="DLPS">A04260</idno>
+           <idno type="STC">14379</idno>
+           <idno type="ESTC">S108288</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AV LECTEVR.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>His Maiesties poeticall exercises at vacant houres</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1591</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>124 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="51"/>
+   <pb facs="51"/>
+   <head>AV LECTEVR.</head>
+   <p>
+      <seg rend="decorInit">L</seg>ECTEVR, ne pense point qu'un desir d'augmēter ma reputation m'ait pous<g ref="char:EOLhyphen"/>sé à trauailler apres ceste versiō. Quel<g ref="char:EOLhyphen"/>que poureté d'espritqu'il y ait en moy, si suis-je, par la grace de Dieu, beau<g ref="char:EOLhyphen"/>coup plus fecond en matiere, qu'en motz: &amp; l'inuention me couste moins, que l'elocution. C'est pourquoy i'auoy fait voeu à mes plus sainctes Mu<g ref="char:EOLhyphen"/>ses, de ne mettre jamais la main à traduction ou para<g ref="char:EOLhyphen"/>phrase quelcōque. Mais, que ne pourroit sur moy, je ne dis pas la grandeur, ains l'admirable esprit du Roy d'Es<g ref="char:EOLhyphen"/>cosse? La graue douceur, la belle &amp; artificieuse liaison, les viues &amp; parlantes descriptions de sa Lepāthe m'ont tellement rauy, que j'ay este contraint de fausser mon serment. Accepte donques, ie te prie, ceste plante que l'Apollon de nostre temps a semé de sa propre main, &amp; les Graces ont arrousé du nectar plus diuin qui coule de leur bouche. Et bien que pour estre transportée en autre solage, elle ait perdu ses plus belles fleurs: toutes<g ref="char:EOLhyphen"/>fois son estoc, ses branches, &amp; la plus part de ses fueil<g ref="char:EOLhyphen"/>les luy sont demeurées. Le peintre peut bien exprimer &amp; le pourfil, &amp; les couleurs d'un beau visage: mais non l'air, le geste, &amp; moins encor la parolle. Que si mesme quand au sens tu trouues que cest extraict ne respond point entierement à son original, propose toy que cest ouurage ne faisoit que sortir encores tout bluetāt de la forge Royale, quand je luy donnay la façon françoise: &amp; que depuis sa Majesté l'a rebattu, &amp; relimé, &amp; breffait tel, qu'il semble estre sorti de la boutique d'Homere.</p>
+</div>
+        </body>
+  </text>
+</TEI>

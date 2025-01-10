@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE PRINCE.</title>
+           <author>Ayscu, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100373_Fr1_2</idno>
+           <idno type="DLPS">A00142</idno>
+           <idno type="STC">1014</idno>
+           <idno type="ESTC">S100373</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE PRINCE.</title>
+                 <author>Ayscu, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A historie contayning the vvarres, treaties, marriages, and other occurrents betweene England and Scotland : from King William the Conqueror, vntill the happy vnion of them both in our gratious King Iames. With a briefe declaration of the first inhabitants of this island: and what seuerall nations haue sithence setled them-selues therein one after an other</title>
+                 <author>Ayscu, Edward</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>16, 108, 113-396 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE PRINCE.</head>
+   <p>
+      <seg rend="decorInit">M</seg>OST sweete Prince (giue mee leaue to sa<g ref="char:EOLhyphen"/>lute you,<note place="margin">
+         <hi>Plinie</hi> in his Preface to his na<g ref="char:EOLhyphen"/>turall hi<g ref="char:EOLhyphen"/>storie.</note> reseruing the title of <hi>Great</hi> to your royall Father, as <hi>Plinie</hi> the worlds Historifier saluted <hi>
+         <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>itus,</hi> whome the Senate and People called <hi>Or<g ref="char:EOLhyphen"/>bis amorem,</hi> and <hi>Delicias humani ge<g ref="char:EOLhyphen"/>neris.</hi>) This Booke at first intended to do you honour, cōmeth now to beg some honour of you. Intended to do you honour, by reuiuing and bringing to fresh memorie, the many leagues and happy mariages
+<pb facs="3"/> betweene the two kingdomes of this Iland: to worke a better con<g ref="char:EOLhyphen"/>ceit of either to other, then I found in most men, for the more easie &amp; harty receiuing (in the fulnesse of time) of your excellent house, the common bloud of both nations, to raigne ouer vs: but that we might readily and ioyfully imbrace that, which many ages had sought, none found,<note place="margin">Shame and confusion to the <hi>ingra<g ref="char:EOLhyphen"/>tis.</hi>
+      </note> and now was <hi>gratis</hi> offered vnto vs. But while I vvas framing this vvorke to this end, the vn<g ref="char:EOLhyphen"/>expected time preuented my de<g ref="char:EOLhyphen"/>signes: and let me see hovv farre Gods vvisdome and goodnesse, ex<g ref="char:EOLhyphen"/>ceeds poore mens mistie cogita<g ref="char:EOLhyphen"/>tions and deuises, filling our soules vvith comfort, by the generall ap<g ref="char:EOLhyphen"/>plause of all men, for the most
+<pb facs="3"/> happy issue of so dangerous an alteration in our state. Since which time, my Booke hath lien neglected as needlesse to the world, his end attained, and date expired.</p>
+   <p>Yet for as much as some of my friends doe censure mee for sup<g ref="char:EOLhyphen"/>pressing that which may do some good seruice (though not the great principally intended) when it is now entring the view of men, it commeth first to beg this ho<g ref="char:EOLhyphen"/>nour of you, to grace the <hi>fronti<g ref="char:EOLhyphen"/>spice</hi> with your most Gratious name, and sheild it with your pa<g ref="char:EOLhyphen"/>tronage. And since by your Princely and powrefull aspect (without deminution of his su<g ref="char:EOLhyphen"/>per-eminent Maiestie, whence
+<pb facs="4"/> you deriue it) you resemble the Sunne in the firmanent, which receaueth light from none (the Creator excepted) but giueth light and life to all inferiour bo<g ref="char:EOLhyphen"/>dies: vouchsafe the beames of your fauour vpon it, to illustrate the obscuritie of the Author, and the meanesse of the worke. So shall my heart be more inflamed (if yet that be possible) with your loue, and my booke more wel<g ref="char:EOLhyphen"/>come to all mens reading. I rest euer to be commanded by your Highnesse.</p>
+   <closer>
+      <signed>EDWARD AYSOV.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

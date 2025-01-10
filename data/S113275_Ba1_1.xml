@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An aduertisement.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113275_Ba1_1</idno>
+           <idno type="DLPS">A08326</idno>
+           <idno type="STC">18658</idno>
+           <idno type="ESTC">S113275</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An aduertisement.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An antidote or treatise of thirty controuersies : vvith a large discourse of the Church. In which the soueraigne truth of Catholike doctrine, is faythfully deliuered: against the pestiferous writinges of all English sectaryes. And in particuler, against D. Whitaker, D. Fulke, D. Reynolds, D. Bilson, D. Robert Abbot, D. Sparkes, and D. Field, the chiefe vpholders, some of Protestancy, some of puritanisme, some of both. Deuided into three partes. By S.N. Doctour of Diuinity. The first part</title>
+                 <author>S. N. (Sylvester Norris)</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>20, 335, 1, 8, 207, that is 307, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="179"/>
+   <head>An aduertisement.</head>
+   <p>GENTIL Reader, wheras M. <hi>D. Bilson</hi> hath printed his booke <hi>Of Christian Subiection,</hi> both in <hi>quarto,</hi> and in <hi>octauo;</hi> these are to aduertise thee, that most commonly I doe cite that in <hi>quarto:</hi> as also the other of <hi>M. Whitaker de Scriptura, &amp; Ecclesia,</hi> as they were printed, before they were last compiled togeather in one volume; for that the quotations of page &amp; leafe do otherwise disagree.</p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Dedicatory Epistle, intended to Q. Elizabeth Written by Sir. Francis Drake, deceased. To the Queenes most excellent Maiestie, my Most dread Soueraigne.</title>
+           <author>Drake, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110153_Fr1_3</idno>
+           <idno type="DLPS">A08210</idno>
+           <idno type="STC">18544</idno>
+           <idno type="ESTC">S110153</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Dedicatory Epistle, intended to Q. Elizabeth Written by Sir. Francis Drake, deceased. To the Queenes most excellent Maiestie, my Most dread Soueraigne.</title>
+                 <author>Drake, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sir Francis Drake reuiued : calling vpon this dull or effeminate age, to folowe his noble steps for golde &amp; siluer, by this memorable relation, of the rare occurrances (neuer yet declared to the vvorld) in a third voyage, made by him into the West-Indies, in the yeares 72. &amp; 73. when Nombre de Dios was by him and 52. others only in his company, surprised. Faithfully taken out of the reporte of Mr· Christofer Ceely, Ellis Hixon, and others, who were in the same voyage with him. By Philip Nichols, preacher. Reviewed also by Sr. Francis Drake himselfe before his death, &amp; much holpen and enlarged, by diuers notes, with his owne hand here and there inserted. Set forth by Sr Francis Drake Baronet (his nephew) now liuing</title>
+                 <author>Nichols, Philip</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>8, 94, 2 pages, 1 portrait, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>The Dedicatory Epistle, intended to Q. <hi>Elizabeth</hi> Written by S<seg rend="sup">ir.</seg>
+      <hi>Francis Drake,</hi> deceased. To the Queenes most excellent Maiestie, my Most dread Soueraigne.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Adam, seeing diuers haue di<g ref="char:EOLhyphen"/>uersly reported, and written, of these voyages and actions which J haue attempted and made, eue<g ref="char:EOLhyphen"/>ry one endeuoring to bring to light, whatsoeuer inklings or coniectures they haue had; whereby many vntruthes haue bene published, and the certaine truth concealed: as I haue thought it necessary my selfe, as in a <hi>Card</hi> t<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap> pricke the principall Points of the counsailes taken, at<g ref="char:EOLhyphen"/>tempts made, &amp; successe had, during the whole course of my imployment in these seruices a<g ref="char:EOLhyphen"/>gainst the <hi>Spaniard,</hi> not as setting sayle, for maintainnig my reputatiō in mens iudgement, but onely as sitting at Helme if occation shall be, for conducting the like actions hereafter: So J haue accounted it my duty, to present this Discourse to your Ma<seg rend="sup">tie.</seg> as of right, either for
+<pb facs="4"/>
+it selfe, being the first fruits of your seruants Pen, or for the matter, being seruice done to your Ma<seg rend="sup">ti.</seg> by your poore vassall against your great enemy, at such times, in such places, and after such sorte, as may seeme strange to those, that are not acquainted with the whole cariage thereof: but will be a pleasing remembrance to your Highnesse, who take th'aparent height of th'almighties fauour towards you, by these euents, as truest instruments, humbly submit<g ref="char:EOLhyphen"/>ting my selfe to your Gracious censure, both in writing &amp; presenting: that posterity be not depriued of such help, as may happily be gay<g ref="char:EOLhyphen"/>ned hereby, and our present age (at least) may be satisfied, in the rightfulnes of these actions, which hitherto haue beene silenced, and your Seruants labour not seeme altogether lost, not onely in Trauell by Sea and Land, but also in writing the Reporte thereof, a worke to him no lesse troublesome, yet made pleasant and sweet, in that it hath beene, is and shall be, for your Ma<seg rend="sup">•ies</seg> content; to whome J haue deuoted my selfe, liue or dye.</p>
+   <closer>
+      <signed>Francis Drake.</signed>
+      <dateline>
+         <date>Ian. <hi>1. 1592.</hi>
+         </date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

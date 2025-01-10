@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Postscript]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107365_Ba1_1</idno>
+           <idno type="DLPS">A17500</idno>
+           <idno type="STC">4318</idno>
+           <idno type="ESTC">S107365</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Postscript]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Dutch suruay : VVherein are related and truly discoursed, the chiefest losses and acquirements, which haue past betweene the Dutch and the Spaniards, in these last foure yeares warres of the Netherlands, with a comparatiue ballancing and estimation of that which the Spaniards haue got in the Dutchies of Cleeue and Iuliers, with that which they haue lost vnto the Dutch and Persians, in Brasilia, Lima, and Ormus. VVhereunto are annext the Mansfeldian motiues, directed vnto all colonels, lieuzanant-colonels, sergeant majors, priuate captaines, inferiour officers and souldiers, whose seruice is engag'd in this present expedition, vnder the conduct and commaund of the most illustrious Prince Ernestus, Earle of Mansfield</title>
+                 <author>W. C.</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>8, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <p>GEntle Reader, you shall vnderstand that
+since the Writing and Imprinting of this re<g ref="char:EOLhyphen"/>lation,
+<hi>Goch</hi> hath beene recouered by the Prince
+of <hi>Oranges</hi> Forces; which makes the Dutch ac<g ref="char:EOLhyphen"/>quirements
+by so much the greater, and the Spa<g ref="char:EOLhyphen"/>nish
+losses since the expiration of the last truce, by
+so much the more grieuous in those Countries of
+<hi>Cleeue</hi> and <hi>Juliers.</hi>
+   </p>
+   <trailer>FINIS.</trailer>
+   <pb facs="23"/>
+</div>
+        </body>
+  </text>
+</TEI>

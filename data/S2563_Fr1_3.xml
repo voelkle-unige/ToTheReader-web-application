@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Buchanan, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2563_Fr1_3</idno>
+           <idno type="DLPS">A19504</idno>
+           <idno type="STC">5933.3</idno>
+           <idno type="ESTC">S2563</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Buchanan, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A preparatiue for the new Passeouer : very profitable to be perused and read of all those who are called to the holy table of our Lord by Maister William Cowper</title>
+                 <author>Cowper, William</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Ferbrand (Firebrand, Forbrand), William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>124 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <lg>
+      <l>GOe conquest credit from a heauenly heart,</l>
+      <l>Thou little volumne of a larger light:</l>
+      <l>Thy worthy Patrone, soone will take thy part,</l>
+      <l>For Sympathie, fore thou come in his sight,</l>
+      <l>The Eagle mounts by other Fowles in flight,</l>
+      <l>So doth this Preacher in his subiect soare:</l>
+      <l>His spirit transported, runnes the race aright,</l>
+      <l>Vnto that feast that lasts for euermore.</l>
+      <l>Get vp, good Reader, follow him therefore,</l>
+      <l>That thou may meete with th y Bridegroome a<g ref="char:EOLhyphen"/>boue,</l>
+      <l>Addresse thee heere, with duety to adore,</l>
+      <l>Thy King, thy crowne, thy light, thy life, thy loue,</l>
+      <l>Reade and reuolue, reuolue againe and reede,</l>
+      <l>Heere let thy soule on heauenly Manna feede.</l>
+      <closer>
+         <signed>M. W. Buchanan.</signed>
+      </closer>
+   </lg>
+   <lg>
+      <l>IF any <hi>Icare</hi> in this earthly <hi>Crete,</hi>
+      </l>
+      <l>Imprisoned in the <hi>Labyrinth</hi> of sinne:</l>
+      <l>Lyes famished for hunger, at the feete</l>
+      <l>Ofspirituall <hi>Minos,</hi> that hath lock't him in:</l>
+      <l>Come, heer's a <hi>Dedall</hi> that will make him meete,</l>
+      <l>With heauenly winges, sinnes deadly clowdes to twin</l>
+      <l>And set him at Gods Table there to dine,</l>
+      <l>On God with God, by soules repast Diuine.</l>
+      <closer>
+         <signed>Iohn Stewart.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

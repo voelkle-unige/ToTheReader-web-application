@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>R., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110756_Fr1_2</idno>
+           <idno type="DLPS">A11131</idno>
+           <idno type="STC">21398</idno>
+           <idno type="ESTC">S110756</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>R., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Looke to it: for, Ile stabbe ye</title>
+                 <author>Rowlands, Samuel</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <distributor>Ferbrand (Firebrand, Forbrand), William</distributor>
+                            <distributor>Loftus (Loftis), George</distributor>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <l>THere is a Humour vs'd of late,</l>
+   <l>By eue'ry Rascall swagg'ring mate,</l>
+   <l>To giue the Stabbe: Ile Stabbe (sayes hee)</l>
+   <l>Him that dares take the wall of me.</l>
+   <l>If you to pledge a health denie,</l>
+   <l>Out comes his Poniard; there you lie.</l>
+   <l>If his Tabacco you dispraise,</l>
+   <l>He sweares, a Stabbe shal end your daies.</l>
+   <l>If you demaund the Debt he owes,</l>
+   <l>Into your guts his Dagger goes.</l>
+   <l>Death seeing this, doth take his Dart,</l>
+   <l>and he performes the Stabbing part.</l>
+   <l>he spareth none, be who it will:</l>
+   <l>his lisence is the World to kill.</l>
+   <closer>
+      <signed>S. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

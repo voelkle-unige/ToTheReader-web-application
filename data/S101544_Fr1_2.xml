@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101544_Fr1_2</idno>
+           <idno type="DLPS">A10279</idno>
+           <idno type="STC">20561</idno>
+           <idno type="ESTC">S101544</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Visions, or Hels kingdome : and the worlds follies and abuses, strangely displaied by R.C. of the Inner Temple Gent. Being the first fruits of a reformed life</title>
+                 <author>Quevedo, Francisco de</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Burton, Simon.</publisher>
+                            <publisher>Griffin, Edward 2</publisher>
+                        </imprint>
+                 <extent>12, 209, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE
+RIGHT WORSHIPFULL
+S<seg rend="sup">r</seg>. <hi>Thomas Metham,</hi>
+OF
+<hi>Metham</hi> in the County
+of <hi>Yorke</hi> Knight.</p>
+   <p>
+      <hi>Richard Croshawe</hi> dedi<g ref="char:EOLhyphen"/>cates
+these his first
+Fruits, as the reall
+intentions of a re<g ref="char:EOLhyphen"/>formed
+life.</p>
+</div>
+        </body>
+  </text>
+</TEI>

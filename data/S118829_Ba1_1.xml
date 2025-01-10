@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement to the READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118829_Ba1_1</idno>
+           <idno type="DLPS">A01656</idno>
+           <idno type="STC">11796</idno>
+           <idno type="ESTC">S118829</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement to the READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The wars in Germany : vvith the taking of the seuerall townes by the Marquesse Spynola, and the present estate of the whole armie now on foote, in right of the emperour, sent from the Pope. Emperour. King of Spaine. Archduke. The cardinals. And Germaine prelasts. Together with the present estate of the contrary armie, conducted by Graue Maurice of Nassau, and the townes by him taken. Truely translated out of Dutch and French into English: and printed at Antvverpe the third of September. 1614</title>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Snodham, alias East, Thomas.</publisher>
+                            <publisher>Trundle, John</publisher>
+                        </imprint>
+                 <extent>4, 23, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="14"/>
+   <pb facs="14"/>
+   <head>An Aduertisement to the <hi>READER.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle READER, I haue giuen thee here the first and fullest tastes of these high and strange preparations in <hi>Germany,</hi> with that true plainenesse and want of flatterie, as I did receiue them imprinted by especiall Au<g ref="char:EOLhyphen"/>thoritie in <hi>Antwerpe;</hi> and as more shall come to my hands so I will present them vnto thee
+<pb facs="15"/> with all integritie and soundnes of truth: holding it an vnpar<g ref="char:EOLhyphen"/>donable sinne to adde to the Names or Actions of such Mightie and Sacred Persons, the least falsehood or scandall that may any way bee imagined.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+   <pb facs="15"/>
+</div>
+        </body>
+  </text>
+</TEI>

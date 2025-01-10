@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>EGREGIO VIRO PETRO TRYON, OR∣NATISSIMI VIRI MOSIS TRYON Armigeri filio natu maximo .</title>
+           <author>Fawkner, Antonius</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101884_Fr1_3</idno>
+           <idno type="DLPS">A00584</idno>
+           <idno type="STC">10722</idno>
+           <idno type="ESTC">S101884</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>EGREGIO VIRO PETRO TRYON, OR∣NATISSIMI VIRI MOSIS TRYON Armigeri filio natu maximo .</title>
+                 <author>Fawkner, Antonius</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nicodemus for Christ, or The religious moote of an honest lawyer: deliuered in a sermon, preached at the assises at Okeham, in the county of Rutland, March. 10. 1627. By Antony Favvkner, Master of Arts, and late student in Iesus Colledge in Oxford</title>
+                 <author>Fawkner, Antony</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>6, 24, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>EGREGIO VIRO <hi>PETRO TRYON,</hi> OR<g ref="char:EOLhyphen"/>NATISSIMI VIRI MOSIS TRYON Armigeri filio natu maximo <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ei priuatae satago: Nec humili fortunae competit inuitâ quo<g ref="char:EOLhyphen"/>dammodo Lucinâ, faetum quem vix peperisse ausa est in apricum seueriori Criticorum fronti ex<g ref="char:EOLhyphen"/>ponere. Satiùs familiari gra<g ref="char:EOLhyphen"/>tandum est lari, tutiusque tyro<g ref="char:EOLhyphen"/>nibus domestic â declamare in porticu. Equidem lubentiùs labiorum vitulos fecissem in salutem Maecenatis quàm literas hasce publicâssem in ipsius gratiam; nisi quòd nobis, dignitatem tuam (Ge<g ref="char:EOLhyphen"/>nerose vir) <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> istius nostrae vectigal iure proprio vendicâsse, solutumque parumper in hoc Xeniolo censu<g ref="char:EOLhyphen"/>que modico tributum aequi consultum iri, meridianâ lu<g ref="char:EOLhyphen"/>ce clariùs innotuisset. Ad teipsum quod attinet, ne quae è casto &amp; syncero deprompta sunt pectore, adulterina videantur &amp; fucata adulantis ingenij deliramenta, rem paucis expediam. Depositis collo Bullâ Laribusque ad<g ref="char:EOLhyphen"/>huc sub vmbonis candidi priuilegio mediâ iuuentute egisti virum, adeoque subitaneo virtutis incremento mi<g ref="char:EOLhyphen"/>nutatim defluentes annorum &amp; aetatis fefellisti moras,
+<pb facs="4"/>
+vtpraecoce quâdam maturescente indole gradatim quasi &amp; pedetentim sequaces Naturae gressus praeuenisse videa<g ref="char:EOLhyphen"/>ris. Mucos ergo emungant proprios rugosae Hypercri<g ref="char:EOLhyphen"/>ticorum sannae. Vacillans adhuc nostrae Theologiae solo<g ref="char:EOLhyphen"/>les haec &amp; decidua, pene dixerim primis infantiae vagi<g ref="char:EOLhyphen"/>ens incunabulis, sub tuis modò succreuerit auspicijs, abundè mihi videbitur conclamatum <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, fruarque votis vsque ad inuidiam foelicibus</p>
+   <closer>
+      <signed>Sigillatim tuus,<lb/>
+         <hi>Antonius Fawkner.</hi>
+      </signed>
+      <dateline>Ex Musaeo meo vndecimo Kalend. <date>Septemb. 1629.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

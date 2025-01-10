@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1544</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108436_Fr1_1_1</idno>
+           <idno type="DLPS">A05295</idno>
+           <idno type="STC">15440</idno>
+           <idno type="ESTC">S108436</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Assertio inclytissimi Arturij Regis Britanniae : Ioanne Lelando antiquario autore. Ad candidos lectores</title>
+                 <author>Leland, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1544</date>
+                 <publisher>Herford (Hereford, Hertford), John.</publisher>
+                            <publisher>Wolfe, Reyner (Reginald)</publisher>
+                        </imprint>
+                 <extent>4, 39, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_to_the_reader">
+   <l>Ad candidos lectores.</l>
+   <l>Delituit certè multis Arturius annis</l>
+   <l>Vera Britannorum gloria, lumen, honos.</l>
+   <l>Dispulit obscuras alacer Lelandius umbras,</l>
+   <l>Sidereum mundo restituitq́ue iubar.</l>
+   <l>Plaudite lectores studiosa caterua diserti,</l>
+   <l>Praestitit officium candidus ille suum.</l>
+   <l>Hinc procul at fugiāt Codrino felle tumētes.</l>
+   <l>Ne proprio crepitent ilia rupta malo.</l>
+   <p>LONDINI. ANNO 1544.</p>
+</div>
+        </body>
+  </text>
+</TEI>

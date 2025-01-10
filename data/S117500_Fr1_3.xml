@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>D., F.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117500_Fr1_3</idno>
+           <idno type="DLPS">A19938</idno>
+           <idno type="STC">6368</idno>
+           <idno type="ESTC">S117500</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>D., F.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A catechisme : wherin is contained the true grounds of the articles of the Christian faith, contained in the Lords prayer and the Creed, by way of question and answer betweene Protestant and Papist. Diuided into twenty Saboth exercises, for children to learne the Christia religion</title>
+                 <author>Davis, Francis</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader since that I haue heeretofore set forth some of my workes, and finding of your kinde receit of them, it hath stirred me vp into farther matters, whereof this small vo<g ref="char:EOLhyphen"/>lume is one, wherein is decla<g ref="char:EOLhyphen"/>red the true ground of the Ar<g ref="char:EOLhyphen"/>ticles of the Christian faith, contained in the Lords prayer and the Creede, whereunto I haue set out the Papist to aske the Question and the Protestant to re<g ref="char:EOLhyphen"/>solue it, which it doth also serue for youth to learne, and the Minister to aske the Question, and the Child to answere. It is but a small price for to buy this book, and the Child to learne in the weeke dayes but so much as I haue marked from one Sunday to another, and euery Sunday the Minister of euery parish to but call the Children afore him, euery Sunday but one howre, and to examine them vppon them few points, and no doubt but they will labour and striue in the weeke dayes, to get in their mindes by root of heart to answere him, and no doubt but it will encrease in time to some comfort to the soules health. Thus Reader wishing you well, and desiring you to follow these few Instructions, in order as I haue declared them, but I leaue it to thy owne consideration, and thy better meditation, So with my praier for the same to the Almighty God, I end.</p>
+   <closer>
+      <signed>Your freind F. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

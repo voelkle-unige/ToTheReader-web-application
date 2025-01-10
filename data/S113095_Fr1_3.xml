@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Nashe, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113095_Fr1_3</idno>
+           <idno type="DLPS">A08002</idno>
+           <idno type="STC">18368</idno>
+           <idno type="ESTC">S113095</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Nashe, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Christs teares ouer Ierusalem : Whereunto is annexed a comparatiue admonition to London. By Tho. Nash</title>
+                 <author>Nash, Thomas</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>8, 190, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">N</seg>IL nisi flere libet;</hi> Gentles here is no ioi<g ref="char:EOLhyphen"/>full subiect towards, if you will weepe, so it is: I haue nothing to spend on you but passion. A hundred vnfortunate farewels to fantasticall Satirisme: In those vaines here-to-fore haue I mispent my spirit, and prodigally conspir'd against good houres. Nothing is there now so much in my vowes, as to be at peace with al men, and make submissiue amends where I haue most displeased.</p>
+   <p>As the Title of this Booke is <hi>Christs Teares,</hi> so be this Epistle the Teares of my penne. Many things haue I vainly set forth, whereof now it repenteth me. S. <hi>Augustine</hi> writ a whole booke of his Retractations. Nothing so much doe I retract, as that wherein-soeuer I haue scandaliz'd the mea<g ref="char:EOLhyphen"/>nest. Into some spleanatiue vaines of wantonnesse, hereto<g ref="char:EOLhyphen"/>fore haue I foolishly relapsed, to supply my priuate wants: of them no lesse doe I desire to be absolued then the rest, and to God and man doe I promise an vnfained conuersion.</p>
+   <p>To a little more wit haue my increasing yeeres reclaimed mee then I had before: Those that haue beene peruerted by any of my workes, let them reade this, and it shall thrice more benefit them. The Autumne I imitate, in sheading my leaues with the trees, and so doth the Peacock shead his taile. Buy who list, contemne who list, I leaue euery Reader his free liberty. If the best sort of men <hi>I</hi> content, <hi>I</hi> am satisfiedly succes-full. Farewell all those that wish me well, others wish <hi>I</hi> more wit to.</p>
+   <closer>
+      <signed>Tho. Nash.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Goad, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120194_Fr29_4</idno>
+           <idno type="DLPS">A68126</idno>
+           <idno type="STC">12635b</idno>
+           <idno type="ESTC">S120194</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Goad, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vvorks of Ioseph Hall Doctor in Diuinitie, and Deane of Worcester : With a table newly added to the whole worke</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>10, 468, 6, 13, 3, 471-960, 3, 894-967, 7, 1043-1208, 6, 1231-1397, 29 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="244"/>
+   <lg>
+      <l>IN aede <hi>Pauli,</hi> dé{que} <hi>Pauli</hi> oraculis,</l>
+      <l>Pro concione praeuiâ Synodo Jacrae,</l>
+      <l>
+         <hi>Varias ab vno Spiritu, Domino, Deo</hi>
+      </l>
+      <l>
+         <hi>Distinctiones esse donorum</hi> probans,</l>
+      <l>Ostendis, <hi>Halle,</hi> quanta spiritalium,</l>
+      <l>Quàm multiformis dos tibi fluat affatim,</l>
+      <l>Charismatum{que} multiplex peculium.</l>
+      <l>Quae nempe tractas, per tui specimen doces.</l>
+   </lg>
+   <lg>
+      <l>Theologe nate pulpitis, calami potens,</l>
+      <l>Cui suauitatis conscius semper stylus,</l>
+      <l>Cui pectus almi condus est sacrarij,</l>
+      <l>Et lingua promus pectoris, cujus latus</l>
+      <l>Loquentis ambit auribus rapax cohors,</l>
+      <l>Humeris{que} densa; non sat est semel tua</l>
+      <l>Hausisse vocis impetu fugacia.</l>
+      <l>Ni perlegendo te recognosci sinas,</l>
+      <l>Auri inuidebit oculus, &amp; Templo Schola.</l>
+      <l>Nosti <hi>Decane</hi> flexanime, quàm terecens</l>
+      <l>Jam tunc ab ipso ambone redeuntem, manu</l>
+      <l>Prensum, rogator vellicaui feruidus,</l>
+      <l>Manare fineres haec in absentum sinus,</l>
+      <l>Reliquis{que} nostri fratribus Cleri dari.</l>
+      <l>Quid mirum? vbi ipsi postmodùm cudi typis</l>
+      <l>Prouinciales postulant Episcopi.</l>
+   </lg>
+   <lg>
+      <l>Audin' Iosephe? Nolo iam: te nil peto.</l>
+      <l>Non est, amicus quod roget. Domini regunt.</l>
+      <l>Parere justum est: parere te certum est: age.</l>
+      <l>Quàm facilis isthic obstetricanti labor?</l>
+      <l>Post tam verenda iussa quid restat mihi,</l>
+      <l>Nisi vt adprecantis suppleam idiotae locúm,</l>
+      <l>
+         <hi>Amen</hi> sacrato succinens Patrum choro?</l>
+   </lg>
+   <closer>
+      <dateline>
+         <hi>Lambethae</hi>
+         <date>
+            <hi>Febr. 21. 1623.</hi>
+         </date>
+      </dateline>
+      <signed>
+         <hi>sic approbauit</hi> Tho: Goadus S.T.D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

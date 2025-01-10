@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101878_Bo1_2</idno>
+           <idno type="DLPS">A00601</idno>
+           <idno type="STC">10737</idno>
+           <idno type="ESTC">S101878</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A second parallel : together with a vvrit of error sued against the appealer</title>
+                 <author>Featley, Daniel</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>16, 95, 1, 97, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_to_the_reader">
+   <pb n="95" facs="56"/>
+   <head>An Aduertisement to the Reader.</head>
+   <p>THe Errors of the <hi>Appealer</hi> are of three sorts, <hi>Po<g ref="char:EOLhyphen"/>pish,
+Arminian,</hi> and of a third kinde, <hi>multi-for<g ref="char:EOLhyphen"/>miter
+deformes.</hi> Of the first sort I haue giuen
+thee a taste: Of the second thou shalt haue a Synopsis in
+the Tablet ensuing: The third thou shalt finde in the Writ
+of Errour. In all kindes I haue pretermitted some, <hi>Non
+amore erroris, sed errore amoris: Not for any loue I
+beare to his errors, but through an error of loue.</hi> Part<g ref="char:EOLhyphen"/>ly
+because I hope they are rather slips in his pen, than
+downfalls in his iudgement: partly also because they are
+discouered by others; whose writings had I seene before
+my papers were ingaged in the Presse: <hi>Aiax hic meus in
+spongiam incubuisset.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

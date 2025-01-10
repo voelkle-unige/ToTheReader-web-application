@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118155_Ba1_2</idno>
+           <idno type="DLPS">A68802</idno>
+           <idno type="STC">23830.5</idno>
+           <idno type="ESTC">S118155</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Iaphets first publique perswasion into Sems tents: or Peters sermon, which was the first generall calling of the Gentiles, preached before Cornelius. Expounded in Cambridge by Thomas Taylor, and now published for the further vse of the Church of God</title>
+                 <author>Taylor, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1612</date>
+                 <publisher>Legge (Legg), Cantrell.</publisher>
+                            <publisher>Mab (Mabbe), Ralph</publisher>
+                        </imprint>
+                 <extent>8, 366, 14 pages, folded leaf, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>Good Reader the faults escaped in printing are some, but neither many nor much marring the sence, I will there<g ref="char:EOLhyphen"/>fore referre either the passing by, or amending them to thy owne curtesie.</p>
+   <pb facs="207"/>
+</div>
+        </body>
+  </text>
+</TEI>

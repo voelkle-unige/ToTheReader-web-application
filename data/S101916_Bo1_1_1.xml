@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>HVMBLY DEDICATED</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101916_Bo1_1_1</idno>
+           <idno type="DLPS">A09289</idno>
+           <idno type="STC">19600</idno>
+           <idno type="ESTC">S101916</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>HVMBLY DEDICATED</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A perfect table declaring the assise or weight of bread, by Troy and Avoirdupois weights. Extracted and taken out of the new booke entituled Artachthos, by the composer thereof. Not only for the service of the citie of London, but for the whole realme; to the end that everi one, as well poore as rich, may trie the weight of the bakers bread, by the sort of weight, and finding it too light, complaine to the magistrate, or present them at the sessions of the peace, coort-leet, or elsewhere</title>
+                 <author>Penkethman, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Bishop, Richard.</publisher>
+                            <publisher>Griffin, Anne</publisher>
+                        </imprint>
+                 <extent>1 sheet (1 page), 1°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>HVMBLY DEDICATED</head>
+   <p>To the Right Honourable the Lord Maior of the Citie of London, and his right worthy Successors for their owne particular, annuall, successive Mansions
+in that eminent Office. As also respectively commended to all other Magistrates and Officers, whose dutie it is to looke unto the just Assise and weight
+and generally all others whom it may concerne.</p>
+</div>
+        </body>
+  </text>
+</TEI>

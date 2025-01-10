@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Libri Auctorem.</title>
+           <author>James, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109344_Fr1_12</idno>
+           <idno type="DLPS">A19903</idno>
+           <idno type="STC">6333</idno>
+           <idno type="ESTC">S109344</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Libri Auctorem.</title>
+                 <author>James, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Microcosmos : The discovery of the little world, with the government thereof. By Iohn Davies</title>
+                 <author>Davies, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1603</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Barnes, Joseph</publisher>
+                        </imprint>
+                 <extent>16, 254, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>In Libri Auctorem.</head>
+   <lg>
+      <l>PHilosophi laudes, laudes meruêre poêtae;</l>
+      <l>Davisius vatem, philosophum{que} refert.</l>
+      <l>Ergo Parnassi lauro, lauro{que} Lycaei,</l>
+      <l>Philosopho, &amp; vati cinge Britanne caput.</l>
+      <l>Nam quorum Pylios vnum dare postulat annos,</l>
+      <l>Haec effecta duo sedulus ille dedit.</l>
+   </lg>
+   <lg>
+      <l>MIrum in modum, Men did wonder-maze,</l>
+      <l>Which wonderment, this later worke of thine</l>
+      <l>(Not by detracting from it) doth deface.</l>
+      <l>How so? by giving out a greater shine:</l>
+      <l>The soules Horizon that made light whil-ere,</l>
+      <l>But this inlightens her whole Hemispheare.</l>
+      <l>
+         <pb facs="6"/>Blest be thou Sunne frō whēce this light doth spring</l>
+      <l>And blessed be this little World of light</l>
+      <l>By which who walkes, perforce must be a King,</l>
+      <l>King of a little World, in Fortunes spight;</l>
+      <l>For force, and vertue, in the soule doe sitte,</l>
+      <l>And they doe raigne that ruled are by it.</l>
+      <l>Thē raigne thou in Mens thoughts, thou thoughtful Soule,</l>
+      <l>Whil'st thy rare Worke among their Workes shall raigne;</l>
+      <l>For, it in passion, passion doth controule,</l>
+      <l>Then mightie is thy grace, thine Arte, thy paine:</l>
+      <l>As thou for writing faire art most renownd,</l>
+      <l>So, writing thus, thou must be Lawrell cround.</l>
+   </lg>
+   <signed>IOHN IAMES</signed>
+</div>
+        </body>
+  </text>
+</TEI>

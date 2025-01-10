@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Brew, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124650_Fr1_2</idno>
+           <idno type="DLPS">A73560</idno>
+           <idno type="STC">3717.3</idno>
+           <idno type="ESTC">S124650</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Brew, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The bloudy mother, or The most inhumane murthers, committed by Iane Hattersley vpon diuers infants, the issue of her owne bodie : &amp; the priuate burying of them in an orchard with her araignment and execution. As also, the most loathsome and lamentable end of Adam Adamson her Master, the vnlawfull begetter of those vnfortunate babes being eaten and consumed aliue with wormes and lice. At east Grinsted in Sussex neere London, in Iuly last. 1609</title>
+                 <author>T. B. (Thomas Brewer)</author>
+                 <imprint>
+                    <distributor>Busby, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Johnson (Jonson), Arthur</publisher>
+                        </imprint>
+                 <extent>22 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>Ou haue heere no translated wonder, no far fetcht matter, no English lie, to passe for an outlandish truth: but a true relati<g ref="char:EOLhyphen"/>on of that that many tongues can wit<g ref="char:EOLhyphen"/>nes to those that ambiguously shal stand to withstand it. If it broght not with it that probabili<g ref="char:EOLhyphen"/>tie that it doth, I could not blame any that shold haue a ielosie or mistrust of the certaintie of it; for we haue had some peices that haue had faire stampes, but the stuffe has bin counterfeite. But this I cannot suspect can be suspected by any (after they haue read it:) For first, the nearnesse of the place where these cruelties were executed: secondly the time: thirdly the rumour hath bin spread of it: and lastly the names of those that at the bench gaue euidence against them, persons (for the most part) of good sufficiencie, yet liuing, cannot but inforce a beleefe in any that haue sence to sen<g ref="char:EOLhyphen"/>sure vpon such manyfest markes of veritie.</p>
+   <p>Such it is, as mothers with wet eyes, and Fathers with grieu'd hearts may receiue: for with the cheife of many precedent soule-confounding mischeifes, this may stand, to shevv (with terror) the bloody and most dangerous events of lust, and such libidinous liuing.</p>
+   <closer>
+      <signed>Tho. Brew.</signed>
+   </closer>
+   <pb facs="3"/>
+   <gap reason="duplicate" resp="#oxf" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <gap reason="duplicate" resp="#oxf" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

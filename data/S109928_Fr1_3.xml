@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Mason, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109928_Fr1_3</idno>
+           <idno type="DLPS">A07216</idno>
+           <idno type="STC">17616</idno>
+           <idno type="ESTC">S109928</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Mason, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe discourse of the Nevv-found-land : with the situation, temperature, and commodities thereof, inciting our nation to goe forward in that hopefull plantation begunne</title>
+                 <author>Mason, John</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>OR as much as there bee sun<g ref="char:EOLhyphen"/>drie relations of the New-found<g ref="char:EOLhyphen"/>land and the commodities thereof, Some too much extolling it, some too much debasing it, preferring the temperature of the aire there of before ours, the hopes of commodi<g ref="char:EOLhyphen"/>ties there without paines and mine<g ref="char:EOLhyphen"/>ralles, as if they were apparent (which as I deny to bee a veritie, yet I affirme not to bee impossible) with other narrations dissenting from the trueth, the which although done out of a good affection, yet had they better beene vndone. I haue therefore (gentle Reader) hoping of thy fauourable construction, set downe in few and plaine tearmes out of that experience I haue gained in three yeares and seuenth monthes residence there, the trueth, as thou shalt finde by proofe thereof, to the which I recommend thee and vs all to his Grace, that is able and will plant those that feare him in a better Kingdome.</p>
+   <closer>Farewell.
+<signed>Thine and his Countries in part, not whollie his owne.
+<hi>IOHN MASON.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

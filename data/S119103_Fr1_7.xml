@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ejusdem T. D. IN LAƲDEM OPERIS ET etiam auctoris ingenui amici{que} sui charissimi, H. H. Anglo-Batavo-Britanni carmen Heroicum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119103_Fr1_7</idno>
+           <idno type="DLPS">A03459</idno>
+           <idno type="STC">13582</idno>
+           <idno type="ESTC">S119103</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ejusdem T. D. IN LAƲDEM OPERIS ET etiam auctoris ingenui amici{que} sui charissimi, H. H. Anglo-Batavo-Britanni carmen Heroicum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Herōologia Anglica : hoc est clarissimorum et doctissimorum. aliqout [sic] Anglorum, qui floruerunt ab anno Cristi. M.D. vsq [ue] ad presentem annum M.D.C.XX viuæ effigies vitæ et esogia [sic] : duobus tomis. Authore. H.H. Anglo-Britanno: impensis Crispini Passæi calcograph [sic], et Iansonij bibliopolæ Arnhemiensis</title>
+                 <author>Holland, Henry</author>
+                 <imprint>
+                    <distributor>Holland, Henry</distributor>
+                    <pubPlace>Germany--Arnhem</pubPlace>
+                    <date>1620</date>
+                 <publisher>Jansson (Janssonius, Jansz), Jan 1.</publisher>
+                            <publisher>Passe (Paas), Crispin 1 van de</publisher>
+                        </imprint>
+                 <extent>20, 240, 2 pages, 5 plates, portraits (metal cuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Art and architecture</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>
+      <hi>Ejusdem</hi> T. D. IN LAƲDEM OPERIS ET etiam auctoris ingenui amici{que} sui charissimi, H. H. Anglo-Batavo-Britanni carmen Heroicum.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">M</seg>Ira loquor, sed vera loquor, miracula narro.</l>
+      <l>Multa reviviscunt Britannae lumina Gentis,</l>
+      <l>Invicti Reges, famâ super aethera noti</l>
+      <l>Semidei Heroes totius cymbala mundi,</l>
+      <l>Atque renascuntur Patres, vigiles{que} Sionis</l>
+      <l>Martyrio clari, varijs virtutibus aucti:</l>
+      <l>Hos videt, hos Europa stupet, pars optima mundi.</l>
+      <l>Papani certâ, trepidant, instante ruina,</l>
+      <l>Christicolae verò saltant, plausu{que} triumphant.</l>
+      <l>Laus te magna manet (solers, sed anonyme scriptor)</l>
+      <l>Defunctis vitam reddis, veras{que} figuras.</l>
+      <l>O, vivis vivos depinge coloribus Anglos,</l>
+      <l>Tales pensabit pietas Divina labores.</l>
+      <l>O tu (Lector amans) &amp; tu (Spectator amice)</l>
+      <l>Suscipe veridicum Scriptorem (utcun{que} latentem)</l>
+      <l>Aemulus, Heröum descriptas perlege vitas</l>
+      <l>Tum fortasse novam prolem prodire videbis.</l>
+   </lg>
+   <p>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111423_Fr1_4</idno>
+           <idno type="DLPS">A13441</idno>
+           <idno type="STC">23748</idno>
+           <idno type="ESTC">S111423</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A dog of vvar, or, The trauels of Drunkard, the famous curre of the Round-Woolstaple in Westminster : His seruices in the Netherlands, and lately in France, with his home returne. By Iohn Taylor. The argument and contents of this discourse is in the next page or leafe</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>46 pages, illustrations (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <l>REader, if you expect from hence,</l>
+   <l>For ouerplus of Witt or Sence,</l>
+   <l>I deale with no such Traffique:</l>
+   <l>
+      <hi>Heroicks</hi> and <hi>Iambiks</hi> I,</l>
+   <l>My Buskinde Muse hath layd them by,</l>
+   <l>Pray be content with <hi>Saphicke.</hi>
+   </l>
+   <l>
+      <pb facs="7"/>
+      <hi>Durunkard</hi> the <hi>Dog</hi> my Patron is,</l>
+   <l>And he doth loue me well for this,</l>
+   <l>Whose loue I take for Guerdon;</l>
+   <l>And hee's a Dog of <hi>Mars,</hi> his Traine.</l>
+   <l>Who hath seene men and Horses slaine,</l>
+   <l>The like was neuer heard on.</l>
+</div>
+        </body>
+  </text>
+</TEI>

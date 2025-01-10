@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>HONORATISSIMO PHILIPPO Comiti Pem∣brochiae, &amp; Montgom: Illu∣strissimi Ordinis periscelidis E∣quiti: Regiae Familiae Archica∣merario: nec non Maj∣stau Regiae à secretiori∣bus Consiliis, &amp;c.</title>
+           <author>Jeanes, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103351_Fr1_2</idno>
+           <idno type="DLPS">A04365</idno>
+           <idno type="STC">14480</idno>
+           <idno type="ESTC">S103351</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>HONORATISSIMO PHILIPPO Comiti Pem∣brochiae, &amp; Montgom: Illu∣strissimi Ordinis periscelidis E∣quiti: Regiae Familiae Archica∣merario: nec non Maj∣stau Regiae à secretiori∣bus Consiliis, &amp;c.</title>
+                 <author>Jeanes, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise concerning a Christians carefull abstinence from all appearance of evill : gathered for the most part out of the schoolemen, and casuists: wherein the questions and cases of conscience belonging unto the difficult matter of scandall are briefly resolved: By Henry Jeanes, Mr of Arts, lately of Hart-Hall in Oxon, and rector of the church of Beere-Crocombe in Somerset-shire</title>
+                 <author>Jeanes, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1640</date>
+                 <publisher>Curteyne, Henry.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>4, 151, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>HONORATISSIMO PHILIPPO Comiti Pem<g ref="char:EOLhyphen"/>brochiae, &amp; Montgom: Illu<g ref="char:EOLhyphen"/>strissimi Ordinis periscelidis E<g ref="char:EOLhyphen"/>quiti: Regiae Familiae Archica<g ref="char:EOLhyphen"/>merario: nec non Maj<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>stau Regiae à secretiori<g ref="char:EOLhyphen"/>bus Consiliis, &amp;c.</head>
+   <opener>
+      <salute>Honoratissime Comes,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>Gnoscar, precor, lae<g ref="char:EOLhyphen"/>sus honor, tam so<g ref="char:EOLhyphen"/>lenni tanti nominis convicio, &amp; impunè liceat augustam illam &amp; praenobi<g ref="char:EOLhyphen"/>lem titulorum seriem vili huic, &amp; alioqui periturae, chartulae praefigere. Ea si<g ref="char:EOLhyphen"/>quidem obscura est Autho<g ref="char:EOLhyphen"/>ris simul &amp; Operis infirmi<g ref="char:EOLhyphen"/>tas, ut prorsus metuat sine validiore praesidio in publi<g ref="char:EOLhyphen"/>cum prodire, &amp; perenni gau<g ref="char:EOLhyphen"/>deat lucis fugâ, ni precario &amp; praepotente potiatur fa<g ref="char:EOLhyphen"/>voris
+<pb facs="3"/>radio: vestro sc, qui malignos quoscunque Cri<g ref="char:EOLhyphen"/>ticorum halitus cohibere valet, &amp; praetenues hasce studiorum Primitias Laetio<g ref="char:EOLhyphen"/>ri messe secundare. Aggre<g ref="char:EOLhyphen"/>ditur, sat scio, parvulus hic Liber, materiam lubricam &amp; ancipitem, de abstinentia ab omni specie mali, seu de fuga scandali, verendumq, est, ne apud Censores duri<g ref="char:EOLhyphen"/>usculos scandalū sibi creet, &amp; fastidium. Attamen qua<g ref="char:EOLhyphen"/>lis, qualis est, tuo stipatus patrocinio securè prodit, nec iniqua moratur malevo<g ref="char:EOLhyphen"/>lorum scandala, modò ne sit dignitati vestrae justo of fendiculo.</p>
+   <closer>
+      <signed>Amplitudini tuae Sacel<g ref="char:EOLhyphen"/>lanus, &amp; Servus omni of<g ref="char:EOLhyphen"/>ficii genere obstrictus, HEN: JEANES.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Kenedum Authorem.</title>
+           <author>Farley, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109277_Fr1_4_3</idno>
+           <idno type="DLPS">A04796</idno>
+           <idno type="STC">14929</idno>
+           <idno type="ESTC">S109277</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Kenedum Authorem.</title>
+                 <author>Farley, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The historie of Calanthrop and Lucilla : Conspicuously demonstrating the various mutabilities of fortune in their loves, with every severall circumstance of ioyes and crosses, fortunate exploites, and hazardous adventures, which either of them sustained before they could attaine the prosperous event of their wished aimes. By Iohn Kennedie</title>
+                 <author>Kennedy, John</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>120 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>In Kenedum Authorem.</head>
+   <lg>
+      <l>
+         <hi>GOrdius</hi> a <hi>Kenedo</hi> laxatur nodus amoris,</l>
+      <l>Nexibus haud ruptis ense, sed arte datis,</l>
+      <l>Pingitur alma <hi>Venus</hi> non sic pinxisset <hi>Apelles,</hi>
+      </l>
+      <l>Ced cut <hi>Naso,</hi> splendet amoris Epos.</l>
+      <l>Nil miri expertum quod cantet amator amorem</l>
+      <l>Cura quûm <hi>Musas</hi> perpete captus amet.</l>
+   </lg>
+   <closer>
+      <signed>R. Fairlaeus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

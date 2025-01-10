@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107401_Fr1_2</idno>
+           <idno type="DLPS">A17571</idno>
+           <idno type="STC">4352</idno>
+           <idno type="ESTC">S107401</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The altar of Damascus or the patern of the English hierarchie, and Church-policie obtruded upon the Church of Scotland</title>
+                 <author>Calderwood, David</author>
+                 <imprint>
+                    <publisher>Thorp, Giles</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>2, 222 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <hi>I</hi> Have drawen this paterne of the En<g ref="char:EOLhyphen"/>glish
+Altar obtruded upon us, out of
+their owne Tables of the Hierarchy
+and Church policie, Muckets book, their
+Canons and Constitutions Ecclesiasticall,
+the statutes of the Realme, the admonitions,
+petitions, assertions, treatises, answers and
+replies of those who sue for reformation,
+the confessions of their opposites in their
+own defences. I have followed the order of
+the Tables translated out of Latine, and
+printed with a letter different from the
+rest. I intended not a full refutation: for
+I thought, to discover it onely, was to re<g ref="char:EOLhyphen"/>fute
+it sufficiently, to any man of sound
+judgement; saving that sometime there i<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+a light touch, or poynting at any corruption
+where I suspected the simpler sort migh<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+be miscaried.</p>
+</div>
+        </body>
+  </text>
+</TEI>

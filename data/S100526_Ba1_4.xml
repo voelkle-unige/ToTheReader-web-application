@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Tetrastichon eiusdem in librum Bakeri.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100526_Ba1_4</idno>
+           <idno type="DLPS">A01943</idno>
+           <idno type="STC">1209</idno>
+           <idno type="ESTC">S100526</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Tetrastichon eiusdem in librum Bakeri.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The composition or Making of the moste excellent and pretious oil called oleum magistrale : First published by the commaundement of the King of Spain, vvith the maner hovv to apply it particulerly. The which oyl cureth these diseases folowi [n] g ... Also the third book of Galen of curing of pricks and wounds of sinowes. A method for curing of vvounds in the ioynts, and the maner how to place them. Abreef [sic] gathering togither of certain errours which the common chirurgians dayly vse ... Faithfully gathered and translated into English by George Baker chirurgian. 1574</title>
+                 <author>Baker, George</author>
+                 <imprint>
+                    <publisher>Allde, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>16, 51, 3 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="71"/>
+   <head>¶ Tetrastichon eiusdem in librum Bakeri.</head>
+   <l>¶ Mistica magnoperé quicun{que} Chirurgica</l>
+   <l>huc debes posita saepe venire mora.</l>
+   <l>Hac studij fructus: doctissima multa videbis captas</l>
+   <l>abdita quae longo delituere die.</l>
+   <l>At nunc sic lucent, vt si laudare pararem,</l>
+   <l>in mare tunc videar, fūdere ineptus aquas</l>
+   <l>Ergo Bakere tuum superabit sidera nomen,</l>
+   <l>at{que} aliqua semper parte superstes eris.</l>
+</div>
+        </body>
+  </text>
+</TEI>

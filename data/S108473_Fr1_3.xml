@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle of the French Au∣thour to the Queene Mother of the King.</title>
+           <author>Loirk, Peter de</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108473_Fr1_3</idno>
+           <idno type="DLPS">A05303</idno>
+           <idno type="STC">15448</idno>
+           <idno type="ESTC">S108473</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle of the French Au∣thour to the Queene Mother of the King.</title>
+                 <author>Loirk, Peter de</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise of specters or straunge sights, visions and apparitions appearing sensibly vnto men : Wherein is delivered, the nature of spirites, angels, and divels: their power and properties: as also of witches, sorcerers, enchanters, and such like. With a table of the contents of the severall chapters annexed in the end of the booke. Newly done out of French into English</title>
+                 <author>Loyer, Pierre le</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Lownes, Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>8, 145, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Witchcraft, demonology, occult writings</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="4"/>
+   <head>The Epistle of the French <hi>Au<g ref="char:EOLhyphen"/>thour to the Queene Mother</hi> of the King.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Adame, albeit the first subiect moouing me to write this Treatise of Specters, was principally to confute certaine auncient Philosophers, Atheists and Libertines, who did hold and maintaine this opinion, that there were not any substances in being, but such on<g ref="char:EOLhyphen"/>ly as were corporall and having bodies: Yet so it is, that I have not herein imployed my pen agaynst those whom both all the Bookes of the whole worlde, and venerable antiquitie, and even Nature it selfe have condemned: so much as I have done agaynst certaine perverse spi<g ref="char:EOLhyphen"/>rits and brainsicke persons of our age, who have inven<g ref="char:EOLhyphen"/>ted most strange and variable opinions: as also agaynst some new Dogmatists, who to the intent they might se<g ref="char:EOLhyphen"/>cretly insinuate (as I<note n="*" place="margin">This is but a suppose; For it is no consequence, because the soules of dead men appeare not, that ther<g ref="char:EOLhyphen"/>fore they are not.</note> suppose) into the minds of men, an error of the Epicures: That the soules of men have no being after death) have altogether denied their ap<g ref="char:EOLhyphen"/>parition. Howbeit, that all the Doctours of the Church doe confute them: and Saint Ierome particularly hath written thereof, a certaine Booke agaynst Vigilantius the Gaule: wherein he sheweth by lively reasons, that the soules of the Saints after their dissolution may haunt or frequent these inferiour places. Now (Madame, I
+<pb facs="4"/>knowing that you have in detestation all such Dogma<g ref="char:EOLhyphen"/>tists, and that your desire is above all things, that our France should be purged of such monsters: which (as the same Saint Ierome writeth to Vigilantius) could ne<g ref="char:EOLhyphen"/>ver endure or suffer such persons: My desire was that this woorke of mine shoulde come foorth vnder the name of your Highnesse, to the intent the same might march the more hardily vnder your fauour throughout France, in despite of all detractions, and malignant per<g ref="char:EOLhyphen"/>sons: who will so much the more feare to assaile or re<g ref="char:EOLhyphen"/>prove it, when they shall see that it is vnder your pro<g ref="char:EOLhyphen"/>tection and defence: and that you have with a gratious countenance receyved it. Madame, I pray God the Creator to give you long life, with encrease of greatnesse and prosperitie.</p>
+   <closer>
+      <dateline>From Angiers <date>this 21. of Iune 1586.</date>
+      </dateline>
+      <signed>Your most humble subiect: PETER DE LOIRK.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

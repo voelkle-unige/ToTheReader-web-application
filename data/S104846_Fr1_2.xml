@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO MY VERY GOOD friends, Iohn Zouch, and Ed∣ward Fittn, Esquiers.</title>
+           <author>C., E.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104846_Fr1_2</idno>
+           <idno type="DLPS">B11895</idno>
+           <idno type="STC">4268</idno>
+           <idno type="ESTC">S104846</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO MY VERY GOOD friends, Iohn Zouch, and Ed∣ward Fittn, Esquiers.</title>
+                 <author>C., E.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Emaricdulfe : Sonnets written by E.C. Esquier</title>
+                 <author>E. C., esquier</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 <publisher>Law (Lawe), Matthew.</publisher>
+                            <publisher>Orwin, Joan</publisher>
+                        </imprint>
+                 <extent>48 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>TO MY VERY GOOD friends, <hi>Iohn Zouch,</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward Fitt<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>n, Esquiers.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">B</seg>Oth louing friends, forasmuch as by reason of an ague, I was inforced to keepe my chamber, and to abandon idlenes, I tooke in hande my pen to fi<g ref="char:EOLhyphen"/>nish an idle worke I had begun, at the command and seruice of a faire Dame, being most exqui<g ref="char:EOLhyphen"/>sitly well featured, and of as excellent good car<g ref="char:EOLhyphen"/>riage, adorned with vertue: and vnderstanding the storie, and knowing you both to be of suffi<g ref="char:EOLhyphen"/>cient valour, wit, and honestie, presumed to dedi<g ref="char:EOLhyphen"/>cate the same to you, not doubting but that you will vouchsafe for my sake, to maintaine the ho<g ref="char:EOLhyphen"/>nour of so sweete a Saint. Thus crauing you my deare friends to be patrones of these fewe Son<g ref="char:EOLhyphen"/>nets: being well perswaded you will excuse my
+<pb facs="4"/> unlearned writing, in regard you may be assured I am no scholler, as dooth appeare by this my worthles verse: hoping you will receiue my good<g ref="char:EOLhyphen"/>will with content, as I my selfe shall be then best satisfied. And so wishing you both as much comfortable happines, as to my soule: I bid you heartily farewell.</p>
+   <closer>
+      <signed>Yours in all true friend<g ref="char:EOLhyphen"/>ship. E. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

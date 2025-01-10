@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117853_Fr1_3</idno>
+           <idno type="DLPS">A03632</idno>
+           <idno type="STC">13757</idno>
+           <idno type="ESTC">S117853</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A godly confession and protestacion of the christian fayth, made and set furth by Ihon Hooper, wherin is declared what a christia [n] manne is bound to beleue of God, hys Kyng, his neibour, and hymselfe</title>
+                 <author>Hooper, John</author>
+                 <imprint>
+                    <publisher>Day, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1550</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>ssone as I perused this con<g ref="char:EOLhyphen"/>fession,
+and protestation of
+my faythe after the prynt, I
+perceyued wordes, and silla<g ref="char:EOLhyphen"/>bles
+euil placed. And in y<seg rend="sup">t</seg> let<g ref="char:EOLhyphen"/>ter
+G. the sixt face, and syxte
+lyne, both agaynst my copye
+and the state and argumante
+of my matter, ther is printed
+Saynt Paule confesseth, for s. Paule confuteth, an
+affirmatiue for a negatiue, as thou mayst vnder<g ref="char:EOLhyphen"/>stande
+by the place, howe the worde prynted, semeth
+to affirme, that the place denieth. But suche faultes
+escapeth some times, contrary aswel to the Printers
+as the authours mynde. Thus the Lorde be wyth
+the &amp; pardon al our faultes, for the death of Christ.</p>
+   <closer>
+      <dateline>At London <date>the. xxvi
+Decem. An. M. D. l.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

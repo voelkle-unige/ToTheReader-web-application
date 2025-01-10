@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104233_Fr1_4</idno>
+           <idno type="DLPS">A03681</idno>
+           <idno type="STC">13806</idno>
+           <idno type="ESTC">S104233</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Black-Fryers</title>
+                 <author>Hord, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Grismand (Grismond), John.</publisher>
+                            <publisher>Marriot, John</publisher>
+                        </imprint>
+                 <extent>4, 11, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>Ad Lectorem.</head>
+   <l>EXiguo quod mens Epigrammate condere coepit,</l>
+   <l>Fit, dum scribendi ducor amore, Liber.</l>
+   <l>Sic amor &amp; studium Lectoris crescat in horas</l>
+   <l>Scriptori pretium grande laboris erit.</l>
+</div>
+        </body>
+  </text>
+</TEI>

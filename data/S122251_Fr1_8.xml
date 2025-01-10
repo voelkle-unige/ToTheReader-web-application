@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The subject of the book.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122251_Fr1_8</idno>
+           <idno type="DLPS">A20992</idno>
+           <idno type="STC">7366</idno>
+           <idno type="ESTC">S122251</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The subject of the book.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The art of warre, or Militarie discourses : of leavying, marching, encamping; and embattailing an armie. Of building, defending, and expugning forts and fortified cities. Of ordinance, petards, and fireworks. Of the severall duties of officers, and souldiers. Of the Grecian, and Romane militia, and forming of battaillons; &amp;c. By the Lord of Praissac. Englished by I.C</title>
+                 <author>Du Praissac, sieur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1639</date>
+                 <publisher>Daniel, Roger.</publisher>
+                            <publisher>Williams, John</publisher>
+                        </imprint>
+                 <extent>10, 202, 4, 8 pages, woodcut diagrams, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="5"/>
+   <head>The subject of the book.</head>
+   <p>The subject of this book is the Art of Warre, which hath two parts, Prepara<g ref="char:EOLhyphen"/>tion and action.</p>
+   <p>Preparation there must be of men, money, instruments, and victuall.</p>
+   <p>The action is performed in the field or in fortresses.</p>
+   <p>That which is performed in the field, con<g ref="char:EOLhyphen"/>sidereth the marching, encamping, and embattailing of the armie.</p>
+   <p>And that of fortresses considereth their fa<g ref="char:EOLhyphen"/>brick, guard, expugning, defence, and re<g ref="char:EOLhyphen"/>leef.</p>
+   <p>The generall heads have their particular dependences, being the common pra<g ref="char:EOLhyphen"/>ctices which are daily observed; as the examples, the figures, and the chapters following do shew.</p>
+</div>
+        </body>
+  </text>
+</TEI>

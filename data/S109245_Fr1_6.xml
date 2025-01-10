@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>K., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109245_Fr1_6</idno>
+           <idno type="DLPS">A04785</idno>
+           <idno type="STC">14917</idno>
+           <idno type="ESTC">S109245</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>K., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A defensatiue against the plague : contayning two partes or treatises: the first, shewing the meanes how to preserue vs from the dangerous contagion thereof: the second, how to cure those that are infected therewith. Whereunto is annexed a short treatise of the small poxe shewing how to gouerne and helpe those that are infected therewith. Published for the loue and benefit of his countrie by Simon Kellwaye Gentleman</title>
+                 <author>Kellwaye, Simon</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>6, 48, 2 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="7"/>
+   <head>To the Reader.</head>
+   <p>ANd for such faultes as by the Printer are o<g ref="char:EOLhyphen"/>mitted, let me craue this fauour at thy handes, that before thou enter to reade this Booke, to bestow a little paines with thy pen to correct them, so shalt thou make the true meaning and sense of the matter the more playne vnto thee, and such faultes as by a scarborrowd ouer-reading I haue found, as also the correcting of the same, I haue here follow<g ref="char:EOLhyphen"/>ing specified.</p>
+   <closer>
+      <dateline>Farwell, from my house at Kingsmill in Deuon <date>the 8. of Aprill 1593.</date>
+      </dateline>
+      <signed>Thine in all friendly loue, <hi>S. K.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

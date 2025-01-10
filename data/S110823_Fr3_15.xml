@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the most Honourable, learned, and religious Gent. Mr. Anthony Bacone.</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110823_Fr3_15</idno>
+           <idno type="DLPS">A11395</idno>
+           <idno type="STC">21651</idno>
+           <idno type="ESTC">S110823</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the most Honourable, learned, and religious Gent. Mr. Anthony Bacone.</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Du Bartas his deuine weekes and workes translated: and dedicated to the Kings most excellent Maiestie by Iosuah Syluester</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Johnson (Jonson), Arthur.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>32, 697, 6, 698-819, 47, 87, 9 pages, 1 leaf of plates, illustrations, portraits (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="211" facs="123"/>
+   <head>To the most Honourable, <hi>learned, and religious Gent. M<seg rend="sup">r</seg>.</hi> Anthony Bacone.</head>
+   <p>{inverted ⁂}</p>
+   <lg>
+      <head>THE FVRIES.</head>
+      <l>BOund by thy Bounty, and mine own Desire,</l>
+      <l>To tender still new Tribute of my zeal</l>
+      <l>To Thee, whose fauour did the first repeal</l>
+      <l>
+         <hi>My proto-BARTAS</hi> from Self-doomed Fire:</l>
+      <l>Hauing new-tuned to <hi>du BARTAS</hi> Lyre</l>
+      <l>These tragik murmurs of His <hi>FVRIES</hi> fell,</l>
+      <l>Which (with the Horrors of an Earthly Hell)</l>
+      <l>The Sinn curst life of wretched Mortals tire:</l>
+      <l>To whom, but Thee, should I present the same?</l>
+      <l>Sith, by the breath of Thine incouragement,</l>
+      <l>My <hi>sacred fury</hi> thou didst first inflame</l>
+      <l>To prosecute This sacred Argument.</l>
+      <l>Such as it is, accept it, as a signe</l>
+      <l>Of Thankfull Loue, from Him, whose all is Thine.</l>
+   </lg>
+   <closer>
+      <signed>I. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

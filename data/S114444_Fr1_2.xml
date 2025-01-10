@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114444_Fr1_2</idno>
+           <idno type="DLPS">A16745</idno>
+           <idno type="STC">3653</idno>
+           <idno type="ESTC">S114444</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The figure of foure : wherein are sweet flowers, gathered out of that fruitfull ground, that I hope will yeeld pleasure and profit to all sorts of people. The second part</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Wright, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>24 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>His little fruit of no little labour, gathe<g ref="char:EOLhyphen"/>red together, and bound vp in this little paper, for the better vse of them, that can and will consider of the nature of eue<g ref="char:EOLhyphen"/>ry one in his right kind, I kindly commit to your acceptations, as<g ref="char:EOLhyphen"/>suring my selfe that being free from taxing of any, and far from abuse, but of abusers: hoping that some will receiue good in the memory of what they reade, and no Horse will kicke except
+<pb facs="3"/>
+his backe bee galled; I leaue it to the wide world to take such for<g ref="char:EOLhyphen"/>tune as will fall out. And so, loth to make a long Supper of a little meat, wishing you to take the best and leave the worst, and breake none of the pale, I rest,</p>
+   <closer>
+      <signed>Your well-willer in a greater matter, N. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

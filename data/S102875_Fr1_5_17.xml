@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Eiusdem de eodem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102875_Fr1_5_17</idno>
+           <idno type="DLPS">A01514</idno>
+           <idno type="STC">11636</idno>
+           <idno type="ESTC">S102875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Eiusdem de eodem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The posies of George Gascoigne Esquire</title>
+                 <author>Gascoigne, George</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <distributor>Smith (Smyth), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>36, clviij, 2, 4, 36, 45-76 pages, 77-86, 85-106 leaves, 107-173, 3, 175-290, 10 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>Eiusdem de eodem.</head>
+   <l>QVi quondam graue Martis opus, sub gente nefanda,</l>
+   <l>Militiam{que} tuli, non vno nomine duram</l>
+   <l>Arma quibus laetabar, Ego Tritonia Pallas,</l>
+   <l>Pallas ego trado arma tibi, &amp; nunc per iuga Cynthi</l>
+   <l>Per sacrum te Hellicona tuus, per Thessala Tempe</l>
+   <l>Insequor, aeternum{que} sequar, dum sydera mundum,</l>
+   <l>Dum deus aeternos, certo moderamine Coelos</l>
+   <l>Dirigat, aethereas{que} animas &amp; sydera Coeli.</l>
+   <l>O quae felices caelesti nectare mentes</l>
+   <l>Perfundis, Diuûm{que} doces nos dicere Cantus,</l>
+   <l>Quale<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> Aonias inter celiberrima turbas</l>
+   <l>Calliopaea canit, vel gestis Clio loquendis</l>
+   <l>Nata. (Nouenarum pars ingens Clio sororum.)</l>
+   <l>Da Regina tuis ad<gap reason="illegible" resp="#murp" extent="2 letters">
+         <desc>••</desc>
+      </gap>is, antris{que} recepto</l>
+   <l>Cantari vates inter, d<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ci{que} Britannos.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>H., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1553</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4517_Ba1_1</idno>
+           <idno type="DLPS">A13934</idno>
+           <idno type="STC">2424.6</idno>
+           <idno type="ESTC">S4517</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>H., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>All such psalmes of Dauid as T. Sternehold didde in his life time draw into English metre</title>
+                 <author>Sternhold, Thomas</author>
+                 <imprint>
+                    <publisher>Whitchurch (Whytchurch), Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1553</date>
+                 </imprint>
+                 <extent>84+ pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="35"/>
+   <head>To the Reader.</head>
+   <p>THou hast here (gentle reader) vnto the psalmes that were drawen in<g ref="char:EOLhyphen"/>to English metre by maister Sterne<g ref="char:EOLhyphen"/>hold .vii. mo adioyned: not to thentent thei shuld be fathered on the dead mā, and so through his estimation, be the more highly estemed. But to chiefely fill vp a place, whiche elles shoulde haue bene voyde, that the boke maye rise to his iuste volume. And partlye for that thei are fruitful and comfor<g ref="char:EOLhyphen"/>table vnto a christian minde. Where<g ref="char:EOLhyphen"/>fore if thou (good reader) shalt ac<g ref="char:EOLhyphen"/>cept and take this my doinge in good part, I haue my hear<g ref="char:EOLhyphen"/>tes desyre herein. Farewel.</p>
+   <closer>
+      <signed>I. H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

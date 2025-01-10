@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108067_Fr1_5</idno>
+           <idno type="DLPS">A18974</idno>
+           <idno type="STC">5393</idno>
+           <idno type="ESTC">S108067</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Hērō-paideia, or The institvtion of a yovng noble man : by James Cleland</title>
+                 <author>Cleland, James</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>16, 1-246, 251-271, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="8"/>
+   <p>Moreover as the Tradesmē of <hi>Greece</hi> put euer some hide<g ref="char:EOLhyphen"/>ous thing or other in the beginning of their workes, to deturne the eie-bytings, and enchantments of the envious; so I (friendly Reader) in craving pardon of my faults, and desiring that you would bear with my oversights, haue here set downe of my errours, that you may see this worke is <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, as <hi>Philostratus</hi> saith of <hi>A<g ref="char:EOLhyphen"/>ristides</hi> his. <hi>Nam cauis fest<gap reason="illegible" resp="#keyers" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>s coe<gap reason="illegible" resp="#keyers" extent="2 letters">
+            <desc>••</desc>
+         </gap>s parit cat<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>los.</hi>
+   </p>
+   <p>Read then Chap. 5. for Chap. 6. pag. 25. &amp; 269. Pupil for Pulpil. p. 55. read mutual for natural p. 125. l. 16. read feids for fends. p. 155 leaving the rest to your owne correction.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Authour.</title>
+           <author>Tod, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103342_Fr1_12</idno>
+           <idno type="DLPS">A01930</idno>
+           <idno type="STC">12067</idno>
+           <idno type="ESTC">S103342</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Authour.</title>
+                 <author>Tod, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first booke of the famous historye of Penardo and Laissa : other ways callid the warres, of love and ambitione. Wherein is described Penardo his most admirable deeds of arms, his ambition of glore his contempt of loue, with loves mighte assalts &amp; ammorus temptations: Laissas feareful inchantment hir releif hir trauells and lastly loves admirabel force, in hir releiving Penardo from ye fire, doone in heroik verse, by Patrik Gordon</title>
+                 <author>Gordon, Patrick</author>
+                 <imprint>
+                    <publisher>Waters (Walters), Joris (George)</publisher>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>280 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="11"/>
+   <head>To the Authour.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">D</seg>Emereits <hi>Maro</hi> from proud <hi>Mars</hi> his throne</l>
+      <l>A freindlie look, or yit a thankfull sho?</l>
+      <l>Deserueth <hi>Naso</hi> from young <hi>Venus</hi> sone</l>
+      <l>A cheirfull smyll? (if they can haue no mo)</l>
+      <l>Yes faith: I pray then what should be thy hyre?</l>
+      <l>Who maks all men thir monarch gods admyre.</l>
+   </lg>
+   <lg>
+      <l>Has not thy Pen proclaim'd att lairge to all,</l>
+      <l>Sterne <hi>Mars</hi> his soldier great <hi>Penardo</hi> strong?</l>
+      <l>Has not thy layes learn'd how <hi>Laissa's</hi> thrall</l>
+      <l>To craftie loues allurments too too long?</l>
+      <l>Then both the warreou<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>s, &amp; the wanton's theam<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Should spare no pains, to aeterneize thy name,</l>
+   </lg>
+   <closer>
+      <signed>William. Tod.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD VTRAMQVE ACADEMIAM, DE BENIAMIN IONSONIO.</title>
+           <author>Randolph, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112455_Fr1_3_6</idno>
+           <idno type="DLPS">A04632</idno>
+           <idno type="STC">14752</idno>
+           <idno type="ESTC">S112455</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD VTRAMQVE ACADEMIAM, DE BENIAMIN IONSONIO.</title>
+                 <author>Randolph, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The workes of Beniamin Ionson</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Meighen, Richard.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>12, 1015, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>AD VTRAMQVE ACADEMIAM, DE BENIAMIN IONSONIO.</head>
+   <l>HIc ille est primus, qui doctum drama <hi>Britannis</hi>,</l>
+   <l>
+      <hi>Graiorum</hi> antiqua, &amp; <hi>Latij</hi> monimenta Theatri,</l>
+   <l>
+      <hi>Tanquam explorator</hi> versans, foelicibus ausis</l>
+   <l>Prebebit: Magnis coeptis <hi>Gemina astra</hi> fauete.</l>
+   <l>Alterutrâ veteres contenti laude: <hi>Cothurnum</hi> hic,</l>
+   <l>At{que} pari <hi>soccum</hi> tractat <hi>Sol scenicus</hi> arte,</l>
+   <l>Das <hi>VOLPONE</hi> iocos, fletus <hi>SEIANE</hi> dedisti.</l>
+   <l>At si <hi>IONSONIAS</hi> mulctatas limite <hi>Musas</hi>
+   </l>
+   <l>Angustâ plangent quiquam: Vos, dicite, contrà,</l>
+   <l>O nimiùm miseros quibus <hi>ANGLIS ANGLICA</hi> lingua</l>
+   <l>Aut non sat nota est; aut queis (sen trans mare natis)</l>
+   <l>Hand nota omnino: Vegetet cum tempore Vates,</l>
+   <l>Mutabit patri<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>m, fiêt{que} ipse <hi>ANGLVS APOLLO.</hi>
+   </l>
+   <closer>
+      <signed>
+         <hi>E. BOLTON.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

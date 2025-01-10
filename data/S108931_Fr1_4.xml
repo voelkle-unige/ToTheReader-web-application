@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Iohan. xx. ¶
+Peace be wyth you. Lyke as my father sent me / euen so sende I you. And whē he had saide that / he breathed vp¦pon thē / ād sayde vnto them. Receaue the holy ghoost / whose synnes soeuer ye remytte they are remitted vnto them and whose synnes soe∣uer ye retayne / they are retayned.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1548</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108931_Fr1_4</idno>
+           <idno type="DLPS">A06520</idno>
+           <idno type="STC">16992</idno>
+           <idno type="ESTC">S108931</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Iohan. xx. ¶
+Peace be wyth you. Lyke as my father sent me / euen so sende I you. And whē he had saide that / he breathed vp¦pon thē / ād sayde vnto them. Receaue the holy ghoost / whose synnes soeuer ye remytte they are remitted vnto them and whose synnes soe∣uer ye retayne / they are retayned.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A ryght notable sermon, made by Doctor Martyn Luther, vppon the twenteth chapter of Iohan, of absolution and the true vse of the keyes : full of great co [m] forte. In the which also it is intreated of the mynysters of the Church, and of scolemaisters, what is dewe vnto them. Ande of the hardnes and softenes of the harte of manne</title>
+                 <author>Luther, Martin</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Ipswich</pubPlace>
+                    <date>1548</date>
+                 <publisher>Scoloker, Anthony.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>48 pages, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="4"/>
+   <p>
+      <figure>
+         <figDesc>depiction of the biblical verses, John
+20.21-23</figDesc>
+         <head>
+            <q>
+               <bibl>¶ Iohan. xx. ¶</bibl>
+               <p>Peace be wyth you. Lyke as my father sent me / euen so sende I you. And whē he had saide that / he breathed vp<g ref="char:EOLunhyphen"/>pon thē / ād sayde vnto them. Receaue the holy ghoost / whose synnes soeuer ye remytte they are remitted vnto them and whose synnes soe<g ref="char:EOLhyphen"/>uer ye retayne / they are retayned.</p>
+            </q>
+         </head>
+         <p>Recea<g ref="char:EOLhyphen"/>ve the holy gh<gap reason="illegible" resp="#oxf" extent="1+ letters">
+               <desc>•…</desc>
+            </gap>. Gospell.</p>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

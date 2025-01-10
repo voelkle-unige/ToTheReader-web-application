@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>HERODIAN'S IMPERIALL HISTORY</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104000_Fr1_1</idno>
+           <idno type="DLPS">A03096</idno>
+           <idno type="STC">13223</idno>
+           <idno type="ESTC">S104000</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>HERODIAN'S IMPERIALL HISTORY</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Herodian of Alexandria his Historie of tvventy Roman Cæsars, and emperors (of his time.) : Together with the most solemne deification of the Roman emperors and empresses. Interpreted out of the Greeke originall</title>
+                 <author>Herodian</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Taunton (Tanton), Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>12, 216, 219-434 pages, 1 leaf of plates, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="engraved_title_page_with_verse_explanation">
+   <pb facs="1"/>
+   <lg>
+      <l>This Heav'n-aspiring <hi>Tree's th'Imperiall State,</hi>
+      </l>
+      <l>Whose <hi>Branches,</hi> shaken by the Hand of <hi>Fate,</hi>
+      </l>
+      <l>Let fall their rip'ned <hi>Monarchs,</hi> which appeare</l>
+      <l>The same in <hi>Vrns,</hi> as on their <hi>Thrones</hi> they were;</l>
+      <l>
+         <hi>Herodian</hi> observ'd, and having tooke</l>
+      <l>Their sev'rall <hi>Lives,</hi> hee weighs them with his <hi>Booke;</hi>
+      </l>
+      <l>Hee findes them weight; Then recommends their <hi>Story</hi>
+      </l>
+      <l>To <hi>Fame; Fames Trumpet</hi> sounds their <hi>Shame;</hi> their <hi>Glory.</hi>
+      </l>
+   </lg>
+   <p>
+      <pb facs="1"/>
+      <figure>
+         <head>HERODIAN'S IMPERIALL HISTORY</head>
+         <figDesc>engraved title page</figDesc>
+         <p>
+            <figure>
+               <figDesc>depiction of Herodian</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Fate shaking the tree of state</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Fame with her trumpet</figDesc>
+               <q>Non ficti pravi{que} tenax <lb/> sed nuntia vero</q>
+            </figure>
+         </p>
+         <p>
+            <hi>London</hi> printed for <hi>Hen: Taunton</hi> and are to be sold at his shop in S<seg rend="sup">t</seg>. Dunstons Church yard Fleetstreete. 1635</p>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

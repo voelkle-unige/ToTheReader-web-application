@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>N., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104795_Fr1_2</idno>
+           <idno type="DLPS">A16749</idno>
+           <idno type="STC">3657</idno>
+           <idno type="ESTC">S104795</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>N., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Grimellos fortunes, vvith his entertainment in his trauaile : A discourse full of pleasure</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>GRimellos</hi> Fortunes were more then were spoken of, and such as are, you may easily consider of: Who runnes many courses, is some-time out of the way, and so was hee, and euery man cannot thriue, no more did he: yet his will was good, so may be yours: But his Fortune was so so, so may be yours. But what became of him in the end, is not spoken: and what you meane to doe, I cannot Iudge. Him I had litle acquaintance with, and you lesse: on<g ref="char:EOLhyphen"/>ly his name I haue reade, but yours I know not, that I haue heard of: Of him I heare no euill, nor wish to heare any of you: Him I finde wittie, and you I hope to finde wise; if not, I shall be sorrie for your witte, as mine owne Fortune, to let my labours fall into your hands. But I will thinke the best, and so in the best thought I rest in hope of your patience.</p>
+   <closer>
+      <signed>Your friend, <hi>B. N.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

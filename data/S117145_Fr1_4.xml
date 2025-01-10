@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Autor calumniatoribus.</title>
+           <author>Greene, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117145_Fr1_4</idno>
+           <idno type="DLPS">A18707</idno>
+           <idno type="STC">5211</idno>
+           <idno type="ESTC">S117145</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Autor calumniatoribus.</title>
+                 <author>Greene, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true trauaile of all faithfull Christians, hovve to escape the daungers of the vvicked vvorld : VVhereunto is added a christian exercise for priuate housholders</title>
+                 <author>Chub, William</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>144 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="7"/>
+   <head>Autor calumniatoribus.</head>
+   <l>NOn ego conticui, iacui ne{que} desidiose,</l>
+   <l>lingua licit fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>uit penna locuta fuit:</l>
+   <l>Nec me delituisse putes, reticente talentum,</l>
+   <l>En patet officii, cura, laborque mei</l>
+   <l>Fatur, et in seculum conscriptus sermo perenne</l>
+   <l>Viuit, et in longa posteritate manet.</l>
+   <l>Vade liber, causa domini, damnabere forsan:</l>
+   <l>Sed quos, sunt docti, consulit ille prius</l>
+   <l>Inuidiat, pro me, vel si te nauseat vllus</l>
+   <l>Dic, sibi quod nullum scripserat autor opus</l>
+   <l>Sim licet indoctus, tibi dico perlege, disce</l>
+   <l>te{que} monere mouet me, tua causa, lege</l>
+   <l>Meué alios legito si fit tibi cura salutis</l>
+   <l>Sera nisi capiat te Metanaea nimis.<note place="margin">
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </note>
+   </l>
+   <l>Plurima nam{que} fluunt totum peccata per orbem</l>
+   <l>et genus humanum crimine polluitur.</l>
+   <closer>
+      <signed>VV. Ch.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

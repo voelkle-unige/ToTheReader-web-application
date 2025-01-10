@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad P. I. huius opellae  T. H. Medicinae Doctoris Hexasticon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112501_Fr1_4</idno>
+           <idno type="DLPS">A07400</idno>
+           <idno type="STC">17784</idno>
+           <idno type="ESTC">S112501</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad P. I. huius opellae  T. H. Medicinae Doctoris Hexasticon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine briefe, and speciall instructions for gentlemen, merchants, students, souldiers, marriners, &amp;c. employed in seruices abrode, or anie way occasioned to conuerse in the kingdomes, and gouernementes of forren princes</title>
+                 <author>Meyer, Albrecht</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 </imprint>
+                 <extent>8, 21, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <head>Ad <hi>P. I.</hi> huius opellae <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+      <hi>T. H.</hi> Medicinae Doctoris Hexasticon.</head>
+   <l>EXiguum precio, nummisque <hi>(Philippe)</hi> volumen,</l>
+   <l>Imprimis, at fructu grandius illud erit.</l>
+   <l>Instruit ad bellum veluti armatura paratos,</l>
+   <l>Sic proficiscentes haec <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> tua.</l>
+   <l>Et proficiscenti Comitem hunc commendo Libellum,</l>
+   <l>Lautior esse potest, nescio an vtilior.</l>
+</div>
+        </body>
+  </text>
+</TEI>

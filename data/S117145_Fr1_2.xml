@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worshipfull Ma. Iohn Thinne Esquier, his very good Patrone and Master.</title>
+           <author>Chub, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117145_Fr1_2</idno>
+           <idno type="DLPS">A18707</idno>
+           <idno type="STC">5211</idno>
+           <idno type="ESTC">S117145</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worshipfull Ma. Iohn Thinne Esquier, his very good Patrone and Master.</title>
+                 <author>Chub, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true trauaile of all faithfull Christians, hovve to escape the daungers of the vvicked vvorld : VVhereunto is added a christian exercise for priuate housholders</title>
+                 <author>Chub, William</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>144 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right worshipfull Ma. Iohn Thinne Esquier, his very good Patrone and Master.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He continuall fauoure I haue found at your han<g ref="char:EOLhyphen"/>des (right worshipfull) especially of late in Lon<g ref="char:EOLunhyphen"/>don, as well hy writing as by your personall trauel, doth charge my minde with so many gnawing co<g ref="char:EOLhyphen"/>gitations, that I can neuer expresse a sufficient thankfulnes, nor render some token of a partepay, such is the hardnes of my happe and the straightnes of pre<g ref="char:EOLunhyphen"/>sent time, that nowe I can not match wishing with wyll, nor sufficiency with desire. How be it, I yeelde my selfe to your accustomed acceptation, and my hope which shalbe a pledge <hi>de attica fide,</hi> do I bequeath vnto future time. I holde you so firme my good freende, that notwithstanding the subtiltye of interceptors, you stand vngaged, to my no small comfort, wherefore seeing
+<pb facs="3"/> I haue no thankfull signification of good wyll, I present vnto your worship a portion of my profession, not as a suf<g ref="char:EOLhyphen"/>ficient workmanship for your worthi<g ref="char:EOLhyphen"/>nes, but as a token of my grateful mind It is <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> and therefore the vntimely hatching may bring foorth sickly Byrds. But I humbly beseech you worship that as you are already patrone of my poore liuing, so you will freendly allowe of the patronage of my selfe, &amp; this my slender worke, and so I shall not onely be so much beholding to you as processe of time cannot weare away the remembrance, but euermore bound in harty prayers that the Lorde may prosper your affayres, and daily blesse your selfe and all yours to whose merci<g ref="char:EOLunhyphen"/>full tuition I commend you.</p>
+   <closer>
+      <signed>
+         <hi>Your worships to be com<g ref="char:EOLhyphen"/>manded during life most faithfull</hi> W. Chub.</signed>
+      <dateline>From <hi>Zelwoode</hi>
+         <date>the <hi>8.</hi> of September.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

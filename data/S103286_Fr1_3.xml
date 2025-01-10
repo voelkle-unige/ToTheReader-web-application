@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Prayer]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103286_Fr1_3</idno>
+           <idno type="DLPS">A01975</idno>
+           <idno type="STC">12117</idno>
+           <idno type="ESTC">S103286</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Prayer]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A guide to goe to God: or, An explanation of the perfect patterne of prayer, the Lords prayer. By William Gouge, B. in D. and minister of Gods Word in Black-Friers London</title>
+                 <author>Gouge, William</author>
+                 <imprint>
+                    <distributor>Brewster (Bruster), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Badger, Richard 1.</publisher>
+                            <publisher>Miller, George</publisher>
+                        </imprint>
+                 <extent>18, 276, 279-340, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="4"/>
+   <p>
+      <seg rend="decorInit">O</seg>VR Father which art
+in Heauen, Hallowed
+be thy Name. Thy
+Kingdome come. Thy
+will be done in earth
+as it is in heauen. Giue
+vs this day our dayly Bread. And for<g ref="char:EOLhyphen"/>giue
+vs our trespasses, as we forgiue them
+that trespasse against vs. And leade vs
+not into temptation: But deliuer vs from
+euill. For thine is the Kingdome, and the
+Power and the Glorie, for euer. Amen.</p>
+</div>
+        </body>
+  </text>
+</TEI>

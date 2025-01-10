@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>INSIGNISSIMO VIRO, AC OMNI VIR∣tutum genere clarissimo Magistro Henrico Nocllo, Carolus Turn∣bullus salutem ac foelicita∣tem perpetuam com∣precatur.</title>
+           <author>Dering, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118700_Fr1_2</idno>
+           <idno type="DLPS">A14030</idno>
+           <idno type="STC">24337</idno>
+           <idno type="ESTC">S118700</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>INSIGNISSIMO VIRO, AC OMNI VIR∣tutum genere clarissimo Magistro Henrico Nocllo, Carolus Turn∣bullus salutem ac foelicita∣tem perpetuam com∣precatur.</title>
+                 <author>Dering, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A perfect and easie treatise of the vse of the colestiall globe : written aswell for an introduction of such as bee yet vnskilfull in the studie of astronomie: as the practise of our countriemen, which bee exercised in the art of nauigaton. Compiled by Charles Turnbull: and set out with as much plainnes as the author could: to the end it might of euery man be vnderstood</title>
+                 <author>Turnbull, Charles</author>
+                 <imprint>
+                    <publisher>Robinson, George</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>64 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>INSIGNISSIMO VIRO, AC OMNI VIR<g ref="char:EOLhyphen"/>tutum genere clarissimo Magistro Henrico Nocllo, Carolus Turn<g ref="char:EOLhyphen"/>bullus salutem ac foelicita<g ref="char:EOLhyphen"/>tem perpetuam com<g ref="char:EOLhyphen"/>precatur.</head>
+   <p>
+      <seg rend="decorInit">C</seg>VM antiquissimorum scripto<g ref="char:EOLhyphen"/>rum singularem industriam in studijs Mathematicis iam an<g ref="char:EOLhyphen"/>te seriùs, accuratiúsque cogno<g ref="char:EOLhyphen"/>uerim: &amp; recentium quorun<g ref="char:EOLhyphen"/>dam deprauatam lectionem summa cura, summáque diligentia viderim &amp; obseruaue<g ref="char:EOLhyphen"/>rim: ne infestus error damnum inferret gra<g ref="char:EOLhyphen"/>uius: curaui (vir insignissime) ea faciliùs ex<g ref="char:EOLhyphen"/>plicare, quae si fideliter discantur, omnis er<g ref="char:EOLhyphen"/>roris tollent difficultatem. Eorum verò te pa<g ref="char:EOLhyphen"/>tronum esse volui, vt meo exemplo ad eadem vota multos inuitem, tanquam indicem te, in florentissimo hoc regno non solùm tanti nego<g ref="char:EOLhyphen"/>tij virum celeberrimum: sed omnium regia<g ref="char:EOLhyphen"/>rum virtutum laudúmque patronum. Ita<g ref="char:EOLhyphen"/>que
+<pb facs="3"/> minusculam opus hoc A<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>, qualecunque sit, (quod scio quam sit indi<g ref="char:EOLhyphen"/>gnum) tibi dedico: vt qui imposterum non solum obseruationes astronomicas elaboratas magis, minúsque vsitatas: (siue sint theorica siue horalogica) sed opticas quoque &amp; qua sunt geometriae communis praecepta, (vt tem<g ref="char:EOLhyphen"/>pus postulat) sis receptarus. Quibus vt es spi<g ref="char:EOLhyphen"/>ritus nobilissimi: ita mirificè quoque delecta<g ref="char:EOLhyphen"/>ris. Vnum hoc interim precibus etiam at<g ref="char:EOLhyphen"/>que etiam obsecrans: vt qua huma<g ref="char:EOLhyphen"/>nitate erga me semper vsus es. (cum maxime possis:) eadem iam indies confirmata magis (libertissime quoque velis patroci<g ref="char:EOLhyphen"/>nari.</p>
+   <closer>
+      <salute>Vale.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

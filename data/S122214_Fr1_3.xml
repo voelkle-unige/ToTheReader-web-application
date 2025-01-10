@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122214_Fr1_3</idno>
+           <idno type="DLPS">A00759</idno>
+           <idno type="STC">10885</idno>
+           <idno type="ESTC">S122214</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A defence of the liturgie of the Church of England, or, Booke of common prayer : In a dialogue betweene Nouatus and Irenæus. By Ambrose Fisher, sometimes of Trinitie Colledge in Cambridge</title>
+                 <author>Fisher, Ambrose</author>
+                 <imprint>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Milbourne (Milburne, Mylbourne), Robert.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>24, 309, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>TO THE Reader.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hat Master <hi>Fisher</hi> was, these three <hi>Epitaphs</hi> may further show: <hi>Two</hi> in <hi>Latine:</hi> the <hi>Last</hi> in <hi>English,</hi> On his-<hi>Marble</hi> (in <hi>VVestminster Great-Cloisters,</hi> neare the <hi>Librarie)</hi> they could not be engraued. This <hi>Booke</hi> (his <hi>truer Monument)</hi> may preserue them too. The first <hi>Latine One</hi> was made by
+<pb facs="5"/> that Honorable Knight Sir <hi>Robert Ayton,</hi> then Secretarie to Queene <hi>Anne,</hi> and now to Queene <hi>Mary:</hi> The other by <hi>D<seg rend="sup">r</seg>. Thory,</hi> that Wor<g ref="char:EOLhyphen"/>thy <hi>French Physician:</hi> the <hi>English</hi> by a <hi>True Louer,</hi> and <hi>Knower</hi> of this Authour, Master <hi>Iohn Harris,</hi> sometimes one of the <hi>King's Schol<g ref="char:EOLhyphen"/>lers</hi> in <hi>VVestminster,</hi> and afterwards of <hi>Christ's Church</hi> in <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

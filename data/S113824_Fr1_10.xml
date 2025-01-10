@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Epig. cognati, &amp; amici explorati Gu Gamage.</title>
+           <author>Flecknoe, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113824_Fr1_10</idno>
+           <idno type="DLPS">A01428</idno>
+           <idno type="STC">11545</idno>
+           <idno type="ESTC">S113824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Epig. cognati, &amp; amici explorati Gu Gamage.</title>
+                 <author>Flecknoe, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Linsi-woolsie. Or Two centuries of epigrammes. Written by William Gamage Batchelour in the Artes</title>
+                 <author>Gamage, William</author>
+                 <imprint>
+                    <distributor>Bell, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Epig. cognati, &amp; amici explorati Gu Gamage.</head>
+   <lg>
+      <l>SI<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>cinè disparibus lusisti moribus orbem,</l>
+      <l>Innumeris Numeris (trux Epigramma) tuis?</l>
+      <l>Rustieus Vrbanus, quid vis? Bellosus, Amator,</l>
+      <l>Magmatibus nitidis Aulicus? hoc &amp; habet.</l>
+      <l>
+         <hi>Chaire</hi> suum cuique est, nec vot<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> ludimus vno,</l>
+      <l>His diuersa placent: quid culis? hoc &amp; habes.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

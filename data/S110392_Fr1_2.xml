@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Percy, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110392_Fr1_2</idno>
+           <idno type="DLPS">A09307</idno>
+           <idno type="STC">19618</idno>
+           <idno type="ESTC">S110392</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Percy, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sonnets to the fairest Coelia</title>
+                 <author>Percy, William</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <distributor>Ponsonby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>26 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, whereas I was
+fullie determined to haue con<g ref="char:EOLhyphen"/>cealed
+my Sonnets, as thinges
+priuie to my selfe, yet of courte<g ref="char:EOLhyphen"/>sie
+hauing lent them to some,
+they were secretlie committed to the Presse,
+and almost finished, before it came to my
+knowledge. Wherefore making, as they say,
+<hi>Vertue of necessitie,</hi> I did deeme it most
+conuenient to praepose mine Epistle, onely to
+beseech you to account of them as of toyes and
+amorous deuises, and ere long, I will impart
+<pb facs="3"/>
+vnto the world another Poeme which shall be
+both more fruitfull and ponderous. In the
+meane while I commit these as a pledge
+vnto your indifferent cen<g ref="char:EOLhyphen"/>sures.
+London,
+1594.</p>
+   <closer>
+      <signed>W. Percy.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

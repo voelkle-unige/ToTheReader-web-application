@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101905_Fr1_6</idno>
+           <idno type="DLPS">A00617</idno>
+           <idno type="STC">10753</idno>
+           <idno type="ESTC">S101905</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The counseller : a treatise of counsels and counsellers of princes, written in Spanish by Bartholomew Phillip, Doctor of the ciuill and cannon lawe. Englished by I.T. graduate in Oxford</title>
+                 <author>Filippe, Bartholomeu</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 <publisher>Charlewood, John.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>12, 191, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Errata.</head>
+   <p>The first number signifieth the page, the second, the line: this lettern. betokeneth the marginall note, and this word, Item before a number betokeneth the same page, and without a number, the same line.</p>
+   <p>4, 2. read▪ Vencejo. Item. 4. to passe. 6, 2. error. Item, 2. note Lotinus, Item, the fift note, Antonium. 10. 33. Clichtoueus. 12. 8. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. Item, 12. would. 14. n. 5. di<g ref="char:EOLhyphen"/>gestorum. Item, §. Ita{que}. 19. <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>. enquired. 25. 29. en platica. Item, n. 5. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> 27, 3. tosse. Item, 6, quiereis. Item, Pide lo. Item. 23. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. Item, 32. then. 29. 11. blindeth. item, 29. And then that friend. 31. 1. ought to be. 34. n. 3. discursu. 5. Petrus: &amp;c. 35. n. 1. Petrus. 38. 12. &amp; 14. Thucidides. 43, n. 1. §. 6. 48. n. 1. Men<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>. 57. 36. Counseller. 58. n. the last. locum in summi. 59. n. 9. §. Plebei. 60. note the last. pristinae. 63. 12. Conanus. Item, 23. Mittendarij. Item, note the first. accidere. 64. 12. they ought to. item, n. 1. §. hoc. 81. 7. serue. 85, <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>0. and moouing of their bodies, maruail at their subtiltie of wit and greatdesse of iudge<g ref="char:EOLhyphen"/>ment, and that, &amp;c. 88. 9. so accustomed. 94, 30. no<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> can deceiue. 131. 34. op<g ref="char:EOLhyphen"/>pose. 140. 10. share them▪ 151. n. 4. timere. 152. 33. y vn dia. 155. 29. axeltr<gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap>▪ 167 4. Aquei. and Etholi.</p>
+</div>
+        </body>
+  </text>
+</TEI>

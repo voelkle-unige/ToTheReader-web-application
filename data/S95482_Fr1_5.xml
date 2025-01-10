@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Yeo, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S95482_Fr1_5</idno>
+           <idno type="DLPS">B08155</idno>
+           <idno type="STC">23759</idno>
+           <idno type="ESTC">S95482</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Yeo, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A funerall elegie, in memory of the rare, famous, and admired poet, Mr. Benjamin Jonson deceased. Who dyed the sixteenth day of August last</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <publisher>Purslowe, Elizabeth</publisher>
+                    <distributor>Gosson, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>(unpaged), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <l>O living dead man if man may be so,</l>
+   <l>Death could but take thy body, thy workes show,</l>
+   <l>What slender wounds the Fates to vertue give,</l>
+   <l>When they conspire her death, alas shee'l live</l>
+   <l>Beyond the reach of Fate, <hi>Ben Ionson's</hi> dead,</l>
+   <l>Yet lives with him, by whom his workes are read;</l>
+   <l>How many would desire thy Fate to have,</l>
+   <l>If they might live as thou dost in the grave,</l>
+   <l>I that durst never Poetize before,</l>
+   <l>Dare write these of thee though I write no more.</l>
+   <closer>
+      <signed>WILLIAM YEO.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

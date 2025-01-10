@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>READER.</title>
+           <author>Orandus, Eirenaeus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102276_Fr1_4</idno>
+           <idno type="DLPS">A68054</idno>
+           <idno type="STC">11027</idno>
+           <idno type="ESTC">S102276</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>READER.</title>
+                 <author>Orandus, Eirenaeus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nicholas Flammel, his exposition of the hieroglyphicall figures which he caused to bee painted vpon an arch in St. Innocents Church-yard, in Paris. Together with the secret booke of Artephius, and the epistle of Iohn Pontanus: concerning both the theoricke and the practicke o the philosophers stone. Faithfully, and (as the maiesty of the thing requireth) religiously done into English out of the French and Latine copies. By Eirenæus Orandus, qui est, vera veris enodans</title>
+                 <author>Flamel, Nicolas</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Walkley, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>12, 240, 8 pages, folding plates, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <pb facs="6"/>
+   <head>READER.</head>
+   <div type="epigram">
+      <q>
+         <l>—<gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>,</l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>.—</l>
+      </q>
+      <q>
+         <l>Haec partim ipse tuo perpendes pectore tecum,</l>
+         <l>Partem Diuum aliquis tibi suggeret.—</l>
+      </q>
+      <q>
+         <l>Part of these things thy mind shal prompt thee to,</l>
+         <l>And part, some God shall teach thee how to doe.</l>
+      </q>
+   </div>
+   <div type="epigram">
+      <head>Againe.</head>
+      <q>
+         <l>Si te fata vocant, aliter non viribus vllis</l>
+         <l>Vincere, nec duro poteris conuellere ferro.</l>
+      </q>
+      <q>
+         <l>If Fates thee call, else with no violence,</l>
+         <l>Nor hardest Iron canst thou dig them thence.</l>
+      </q>
+   </div>
+   <div type="poem">
+      <pb facs="7"/>
+      <head>Once againe, and so farewell.</head>
+      <lg>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>,</l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>,</l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>:</l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>.</l>
+         <l>
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>.</l>
+      </lg>
+      <lg>
+         <l>Fortuna vices lubrica versat</l>
+         <l>Varias docilis sum<gap reason="illegible: blotted" extent="1 letter">
+               <desc>•</desc>
+            </gap>re formas.</l>
+         <l>Inopina Dei plurima peragunt;</l>
+         <l>Non succedunt quae fore speras,</l>
+         <l>Quae fore nemo posse putaret,</l>
+         <l>Saepe expediunt numina. Qualem</l>
+         <l>Haec sortita est res mihi finem.</l>
+      </lg>
+      <lg>
+         <l>Many shapes of Fate there bee</l>
+         <l>Much done beyond our hope, we see:</l>
+         <l>What we thinke sure, God often stayes,</l>
+         <l>And findes, for things vndream't▪ of, wayes.</l>
+         <l>For so did this succeed to mee,</l>
+         <l>And so I wish it may to thee.</l>
+      </lg>
+   </div>
+   <closer>
+      <signed>Eirenaeus Orandus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

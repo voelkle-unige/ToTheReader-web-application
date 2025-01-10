@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Alphabet 2.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101748_Ba1_2</idno>
+           <idno type="DLPS">A12094</idno>
+           <idno type="STC">22397</idno>
+           <idno type="ESTC">S101748</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Alphabet 2.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The motiues of Richard Sheldon pr. for his iust, voluntary, and free renouncing of communion with the Bishop of Rome, Paul the 5. and his Church : Published by authority</title>
+                 <author>Sheldon, Richard</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Hall, William.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>32, 160, 55, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Alphabet 2.</head>
+   <p>Page 7. may it please thee Courteous Reader, after the tenth verse in English to insert these which through the Authors ab<g ref="char:EOLhyphen"/>sence were left out.</p>
+   <q>
+      <l>Make haste, le<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>sire be brought with speede;</l>
+      <l>these cruell beasts to tame.</l>
+   </q>
+   <p>And in the same page in the third Latine verse for <hi>ne lanient,</hi> r. <hi>lanient ne,</hi> pag. 19. lin. 3. for speake r. speaketh, p<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>g 23. lin 6. for <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>gnati<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>n <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>. Ign<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>tianed I doubt diuers more, like faults haue escaped, the which it may please the Courteous Reader to correct.</p>
+</div>
+        </body>
+  </text>
+</TEI>

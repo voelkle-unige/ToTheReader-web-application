@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114001_Bo1_37</idno>
+           <idno type="DLPS">A06128</idno>
+           <idno type="STC">16613</idno>
+           <idno type="ESTC">S114001</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Romane historie vvritten by T. Livius of Padua. Also, the Breviaries of L. Florus: with a chronologie to the whole historie: and the Topographie of Rome in old time. Translated out of Latine into English, by Philemon Holland, Doctor in Physicke</title>
+                 <author>Livy</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>12, 804, 809-1351, 1354-1403, 43 pages, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="1234" facs="623"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Rom the five and fortith booke forward, all the rest of Li<g ref="char:EOLhyphen"/>vie (to the great maine &amp; blemish of the Latin tongue, and no small griefe of learned men) is lost, even 100 bookes wanting five, like as those ten betweene the tenth and one &amp; twentith books, commonly called the second Decade. For as it appeareth by L. Florus the Epitomist, there were in all 140: and the arguments of so many remaine at this day, by him collected. But if it be true that Frauncis Petrarch saith, Livie wrote in all 142: and as Charles Sigonius probably coniectureth, the 36 and 37 Breviaries of L. Florus be wanting of this latter number. How all these complete bookes of T. Livius should miscarrie, it is not certen<g ref="char:EOLhyphen"/>ly knowne. Some hope there is, that they are but mis-cast and laid out of the way. For like as within these hundred yeeres some frag<g ref="char:EOLhyphen"/>ments of the storie were discovered in Magunce: and the last five bookes now extant, found by Simon Grinaeus in the Librarie of a monasterie over-against the citie of Wormbs, and dedicated by E<g ref="char:EOLhyphen"/>rasmus of Roterdam unto Charles, the son of William Lord Mont<g ref="char:EOLhyphen"/>joy, in the reigne of Henrie the eight of famous memorie K. of En<g ref="char:EOLhyphen"/>gland, &amp;c. so wee are not to despaire of the rest. In the meane time, we must make much of these briefe summaries left unto us. Even as therefore. I have inserted those ten Breviaries in stead of the bookes: so I thought it not amisse (in hope that one day the verie bookes themselves will come to light) to proceed in the rest follow<g ref="char:EOLhyphen"/>ing: and the rather, for that neither bee that translated Livie into the Tuscane language, nor they who have done him into French (as farre as I could ever see) have taken that paines.</p>
+</div>
+        </body>
+  </text>
+</TEI>

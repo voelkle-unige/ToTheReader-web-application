@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>D., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116460_Fr1_3</idno>
+           <idno type="DLPS">A20169</idno>
+           <idno type="STC">6604</idno>
+           <idno type="ESTC">S116460</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>D., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The monument or tombe-stone: or, A sermon preached at Laurence Pountnies Church in London, Nouemb. 21. 1619 : at the funerall of Mrs. Elizabeth Iuxon, the late wife of Mr. Iohn Iuxon. By Stephen Denison minister of Gods word, at Kree-Church in the honourable citie of London</title>
+                 <author>Denison, Stephen</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>10, 124 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, I haue bene exceedingly impor<g ref="char:EOLhyphen"/>tuned, and that by many worthy Christians, for the markes which our worthy sister deceassed left behind her. I could not tell how so well to satisfie the religious request of my brethren in this thing, as by making publike for the common good both the Sermon and the Markes. Here therefore I offer them to thy Christian consideratio<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>; reade them with a single eye: weigh them well; and if thou reape any benefite, giue the whole glory to God, and remember the vnworthy writer in thy prayers.</p>
+   <closer>
+      <signed>Thine in the Lord, S. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

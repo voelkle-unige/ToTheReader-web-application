@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Laudem operis.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111064_Fr1_6</idno>
+           <idno type="DLPS">A12313</idno>
+           <idno type="STC">22631</idno>
+           <idno type="ESTC">S111064</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Laudem operis.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The new-yeeres gift : presented at court, from the lady Parvula to the Lord Minimus, (commonly called Little Jefferie) Her Majesties servant, with a letter as it was penned in short-hand: wherein is proved little things are better then great. Written by Microphilus</title>
+                 <author>Slater, master</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <publisher>Okes (Oakes), John.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>12, 116, 4 pages, portraits (metal cut), 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <head>In Laudem operis.</head>
+   <q>
+      <gap reason="illegible: in gutter" extent="1 letter">
+         <desc>•</desc>
+      </gap>uta solet parvis rebus inesse fi<g ref="char:EOLhyphen"/>des. <bibl>W. Short.</bibl>
+   </q>
+   <q>
+      <pb facs="6"/>
+      <p>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</p>
+      <bibl>Aris<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap> V. cap. XI.</bibl>
+   </q>
+   <q>
+      <p>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</p>
+      <bibl>Aristot. de repub. Lib. V. cap VIII.</bibl>
+   </q>
+   <q>
+      <p>Sunt quae ob id ipsum grat<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap> quod minuta, veluti gemmae <gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap> sculpturae: idem us<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap> venit in ep<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>stolis et libris, qui non raro ip<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap> brevitate redduntur commendat<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>ores. Sunt in delic<gap reason="illegible" extent="2 letters">
+            <desc>••</desc>
+         </gap>s et pumili<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>nes non ob aliud quam insigne<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap> corporis parvitatem.</p>
+      <bibl>Erasmus Adag.</bibl>
+   </q>
+   <q>
+      <p>In minimis rebus omnia an<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap> quae consuetudinis monumēta se<gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>vanda.</p>
+      <bibl>Valerius Maximus Lib. I</bibl>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

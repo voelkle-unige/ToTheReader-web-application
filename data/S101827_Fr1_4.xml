@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Book]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101827_Fr1_4</idno>
+           <idno type="DLPS">A00619</idno>
+           <idno type="STC">10755</idno>
+           <idno type="ESTC">S101827</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Book]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Resolues, diuine, morall, politicall b Owin Felltham</title>
+                 <author>Felltham, Owen</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <distributor>Seile (Seale, Seely, Seyle), Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>20, 327, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_book">
+   <pb facs="9"/>
+   <lg>
+      <pb facs="10"/>
+      <l>Ad Librum:</l>
+      <l>—Quid miser egi?</l>
+      <l>Quid volui? Dices.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

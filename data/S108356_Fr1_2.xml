@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The  Dedicatory Epistle.</title>
+           <author>Theophilus, </author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108356_Fr1_2</idno>
+           <idno type="DLPS">A05172</idno>
+           <idno type="STC">15309</idno>
+           <idno type="ESTC">S108356</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The  Dedicatory Epistle.</title>
+                 <author>Theophilus, </author>
+              </analytic>
+              
+              <monogr>
+                 <title>Divine and politike observations nevvly translated out of the Dutch language, vvherein they vvere lately divulged. Upon some lines in the speech of the Arch. B. of Canterbury, pronounced in the Starre-Chamber upon 14. June, 1637. Very expedient for preventing all prejudice, which as well through ignorance, as through malice and flattery, may be incident to the judgement which men make thereby, either of his Graces power over the Church, and with the King, or of the equity, justice, and wisdome of his end in his said speech, and of the reasons used by him for attainin to his said end</title>
+                 <author>Theophilus</author>
+                 <imprint>
+                    <publisher>‘Richt Right’ Press</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>8, 62, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The <gap reason="illegible" resp="#pdcc" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> Dedicatory Epistle.</head>
+   <p>
+      <seg rend="decorInit">I</seg>F it may please Your Gr: Your A<g ref="char:EOLhyphen"/>pologie and defence of <hi>Innovati<g ref="char:EOLhyphen"/>ons</hi> in divers Church matters, made or approved by your Gr: lately publi<g ref="char:EOLhyphen"/>shed in our language, hath occasioned many both different and strange discourses and scannings of it, amongst such of my Countreymen, as doe not consider that the discourses and vvri<g ref="char:EOLhyphen"/>tings of men so much busied as your Gr: in mat<g ref="char:EOLhyphen"/>ters of state, are hardly to be understood, or obvi<g ref="char:EOLhyphen"/>ous to the Iudgement of vulgar capacities. And because there may be much mistaking, incident to the Iudgement of those, that through either pre<g ref="char:EOLhyphen"/>sumption or rashnesse measure the expressions of so great a man as your <hi>Gr</hi>: by the rule that the speeches or vvritings of men of common and ordi<g ref="char:EOLhyphen"/>nary sence and condition ought to be squared by. I have therefore adventured to lay at your feet, o<g ref="char:EOLhyphen"/>pen to your Cracious vievv, the Iudgement vvhich is made of your Graces said speech by men of bes<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> understanding and moderation, asvvell in hope to give your <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>r: contentment hereby, as in confi<g ref="char:EOLhyphen"/>dence to give satisfaction to such as by your <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>r:
+<pb facs="3"/>
+greatnesse are either scared to looke upon, or af<g ref="char:EOLhyphen"/>frighted to iudge of the Misteries both of Reli<g ref="char:EOLhyphen"/>gion and Politike government vvhich your Gr: said gracious speech implyeth</p>
+   <closer>
+      <signed>
+         <hi>Your Gr: true Friend, though unknowne</hi> Theophilus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

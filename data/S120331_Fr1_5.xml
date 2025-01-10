@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A short forme of prayer, very fit to be vsed of euery regular student in this Arte.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120331_Fr1_5</idno>
+           <idno type="DLPS">A07312</idno>
+           <idno type="STC">17700</idno>
+           <idno type="ESTC">S120331</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A short forme of prayer, very fit to be vsed of euery regular student in this Arte.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The golden art, or The right way of enriching : Comprised in ten rules, proued and confirmed by many places of holy Scripture, and illustrated by diuers notable examples of the same. Very profitable for all such persons in citie or countrie, as doe desire to get, increase, conserue, and vse goods with a good conscience. By I.M. Maister in Arts</title>
+                 <author>Maxwell, James</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Leake, William 1</publisher>
+                        </imprint>
+                 <extent>14, 213, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="7"/>
+   <head>A short forme of prayer, very fit to be vsed of euery regular student <hi>in this Arte.</hi>
+   </head>
+   <p>
+      <note place="margin">1. <hi>Sam.</hi> 2.7.</note>
+      <seg rend="decorInit">L</seg>ORD, thou that art the giuer of riches, and sender of pouerty, incline mine heart vn<g ref="char:EOLhyphen"/>to thy testimonies,<note place="margin">
+         <hi>Psa.</hi> 119.36. <hi>Pro.</hi> 30.8, 9.</note> and not to co<g ref="char:EOLhyphen"/>uetousnesse; Giue me not pouerty nor riches too much, feede mee with foode conuenient for mee, lest I bee full, and deny thee, and say, who is the Lord, or least I be poore, and steale and take the name of my God in vaine. <hi>Amen.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

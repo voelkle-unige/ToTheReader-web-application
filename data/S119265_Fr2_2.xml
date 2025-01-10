@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE EPISTLE.</title>
+           <author>Bidle, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119265_Fr2_2</idno>
+           <idno type="DLPS">A14498</idno>
+           <idno type="STC">24821</idno>
+           <idno type="ESTC">S119265</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE EPISTLE.</title>
+                 <author>Bidle, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Virgil's Bucolicks Engished [sic] . VVhereunto is added the translation of the two first satyrs of Iuvenal. By Iohn Bidle</title>
+                 <author>Virgil</author>
+                 <imprint>
+                    <publisher>Legat, John 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>62 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="21"/>
+   <head>THE EPISTLE.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Arvell not, Readers, that I set be<g ref="char:EOLhyphen"/>fore
+you but this Pittance: I was
+loth to cloy your Appetites at the
+first, knowing (on the one side)
+that mens quesy and squemish stomacks rellish
+better the poinant suckets of a Love-Sonnet, or
+the Iulips of a frothy Epigram, than a Homely
+(though holesom) dish of Satyricall stuffe: And
+fearing withall (on t'other side) lest having coo<g ref="char:EOLhyphen"/>ked
+a great deale of this hard and sower-Meat
+ill, I might have so distasted a truely judicious
+Palat, as to have made it even sicke with Loa<g ref="char:EOLhyphen"/>thing,
+being not able by Reason of the Quality
+(much more the Quantity) without great an<g ref="char:EOLhyphen"/>noyance,
+to concoct it. In this therefore (in coo<g ref="char:EOLhyphen"/>king
+I meane) if I have greatly failed, I will
+willingly cry <hi>Peccavi,</hi> and herein offend no
+more: if not, (God helping) present you with
+the second and third course. In the mean-time,
+Gentlemen, rest you consent.</p>
+   <closer>
+      <signed>Iohn Bidle.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

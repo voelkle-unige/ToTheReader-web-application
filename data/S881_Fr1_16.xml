@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN DIVINA INTEGER∣rimi viri D. ZACHARIAE BODII Ecclesiastae non è multis meditamen∣ta. cum è desperatâ valetudine ad pristinam salutem reva∣lurat.</title>
+           <author>Rayus, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S881_Fr1_16</idno>
+           <idno type="DLPS">A16539</idno>
+           <idno type="STC">3447</idno>
+           <idno type="ESTC">S881</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN DIVINA INTEGER∣rimi viri D. ZACHARIAE BODII Ecclesiastae non è multis meditamen∣ta. cum è desperatâ valetudine ad pristinam salutem reva∣lurat.</title>
+                 <author>Rayus, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The last battell of the soule in death : diuided into eight co [n] ferences. ... VVhereby are showne the diuerse skirmishes that are betweene the soule of man on his death-bedde, and the enemies of our saluation. Carefullie digested for the comfort of the sicke: by Mr. Zacharie Boyd, preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>2 volumes (22, 747, 1, 38, 748-1270, 3 pages), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="12"/>
+   <head>IN DIVINA INTEGER<g ref="char:EOLhyphen"/>rimi viri D. ZACHARIAE BODII <hi>Ecclesiastae non è multis meditamen<g ref="char:EOLhyphen"/>ta.</hi> cum è desperatâ valetudine <hi>ad pristinam salutem reva<g ref="char:EOLhyphen"/>lu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>rat.</hi>
+   </head>
+   <lg>
+      <l>FRustra veternum sollicitas meum</l>
+      <l>Bodi Thaliae ad munta; barbitos</l>
+      <l>Obmutet, exurdante nostras</l>
+      <l>Voce Scholae str<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>perâ Camoenas.</l>
+   </lg>
+   <lg>
+      <l>Iam colligendas sarcinulas monet</l>
+      <l>Quae vulsit aurem Mors modo pallida:</l>
+      <l>Laureta Cyrrhae, Musicasque</l>
+      <l>Thespiadum fugito choreas.</l>
+   </lg>
+   <lg>
+      <l>Tu perge Homeri carminis alite</l>
+      <l>Laudande quò te mens ammi vocat,</l>
+      <l>Qui baccare, &amp; lauro revinctos</l>
+      <l>Castalio lavis amne crines.</l>
+   </lg>
+   <lg>
+      <l>Fatalis ex quo crudâ Hecates manu</l>
+      <l>Attonsa pene est caesaries tibi</l>
+      <l>Fato superstes reditusque</l>
+      <l>Incolumis, renovas duellum.</l>
+   </lg>
+   <lg>
+      <pb facs="13"/>
+      <l>De morte partam appendis adoream,</l>
+      <l>Vtque Hydra secto corpore fortior</l>
+      <l>Crevit, revîxti ter triumpho</l>
+      <l>Clarior, &amp; spolijs opimis.</l>
+   </lg>
+   <lg>
+      <l>Qualis Caystri fluminis accola</l>
+      <l>Morti propinquus dulciter incinit.</l>
+      <l>Melos supremum, talis ista</l>
+      <l>Naenia, quâ superos remulces.</l>
+   </lg>
+   <lg>
+      <l>Macte indole istâ, macte faventiâ,</l>
+      <l>Excude fructus uberis ingenî.</l>
+      <l>O aureum vere libellum</l>
+      <l>Melle sacro, &amp; sale temperatum.</l>
+   </lg>
+   <closer>
+      <dateline>Hoc amoris ergò scri<g ref="char:EOLhyphen"/>bebat</dateline>
+      <signed>
+         <hi>Io. Rayus</hi> ludi publici litterarii Mó<g ref="char:EOLhyphen"/>derator <hi>Edinburgi</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

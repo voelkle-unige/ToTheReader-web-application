@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>R., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106233_Fr1_2</idno>
+           <idno type="DLPS">A15471</idno>
+           <idno type="STC">25738</idno>
+           <idno type="ESTC">S106233</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>R., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A comfortable meditation of humane frailtie, and divine mercie : in tvvo sermons upon Psalme 146.4. and Psalme. 51.17. The one chiefly occasioned by the death of Katharine, youngest daughter of Mr. Thomas Harlakenden of Earles-Cone in Essex</title>
+                 <author>Williamson, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Boler (Bowler), James 1.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>8, 39, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <l>SIC te, sic solare tuas; sic Iusta bentae</l>
+   <l>Solve tuae, nullo dissoluenda die.</l>
+   <l>Nec me cognatae, <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> salisque laboris,</l>
+   <l>Nec natae poterit poenituisse patrem.</l>
+   <l>Ipse oculos madidus, nobis detergis ocellos,</l>
+   <l>Consortemque <gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>enes, quâ potesusque tuam.</l>
+   <l>Non satis est viva prolis quod imagine vivit</l>
+   <l>Phoenix Materno quae velut orta rogo est;</l>
+   <l>Ipsam sed superesse velis, dum plectra Davidis</l>
+   <l>Tang<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>, Threicia plus va<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>ra lyrâ.</l>
+   <l>Iam Mausolaei superasti dona sepulchri,</l>
+   <l>Hoc saxa officium vincit, &amp; aera tuam.</l>
+   <l>Non aurum, nec ebur; sed qua Sacraria condis</l>
+   <l>Sacra est materies, nobiliorque tibi.</l>
+   <l>Nempè dècet castam casta requiescere iniurna,</l>
+   <l>Et quem viva locum semper amavit, habet</l>
+   <l>Scripturis tumulata sacris, ubi conditur urna</l>
+   <l>Carmen, &amp; artifices exsuperante manus.</l>
+   <l>Sigeneris, formaevè canam, morumvè decorem,</l>
+   <l>Vile, ait, hoc Sanctus mun<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>, &amp; imp<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> honor.</l>
+   <l>Singula deliban<gap reason="illegible" resp="#oxf" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> plenum mutilabit acervum,</l>
+   <l>Hujus &amp; enumerans plurima, parous erit:</l>
+   <l>Innumeras meliùs dictura silentia laudes.</l>
+   <l>Sed tu perge viam, fide marite, sacram.</l>
+   <l>Et si quae facimus sanctissima sentiat umbra,</l>
+   <l>Non aliter vellet te meminisse sui.</l>
+   <l>Mors indignatur, dehinc frustra &amp; fata minantur,</l>
+   <l>Dum parat, amissam qui dolet, ipse mori,</l>
+   <l>Vivere te suadente mori est: Dum <hi>Spiritus exit</hi>
+   </l>
+   <l>Ʋitâ ego sperarim liberiore frui.</l>
+   <l>Non ego lectorem moror ultrâ, maxima cujus</l>
+   <l>Ingenii pars est officiosus amor.</l>
+   <closer>
+      <signed>T. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

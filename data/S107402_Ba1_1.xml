@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107402_Ba1_1</idno>
+           <idno type="DLPS">A17576</idno>
+           <idno type="STC">4359</idno>
+           <idno type="ESTC">S107402</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The pastor and the prelate, or reformation and conformitie shortly compared by the word of God, by antiquity and the proceedings of the ancient Kirk, by the nature and use of things indifferent, by the proceedings of our ovvne Kirk, by the vveill of the Kirk and of the peoples soules, and by the good of the commonvvealth and of our outvvard estate : with the answer of the common &amp; chiefest objections against everie part: shewing vvhether of the tvvo is to be follovved by the true Christian and countrieman</title>
+                 <author>Calderwood, David</author>
+                 <imprint>
+                    <pubPlace>Netherlands</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>GEntle Reader be intreated favourablie to passe by some slips in printing: as when one let<g ref="char:EOLhyphen"/>ter
+is put for another, as <hi>n</hi> for <hi>r Scacarium</hi> pag. 28. lin. à fine 6. or one letter is wanting
+as pag. 20. in margine <hi>Aerianum:</hi> or a letter abounds, as pag. 63. in margine <hi>Bodin. repi.</hi> or
+when a siliable is wanting pag. 26. lin. ult. <hi>became.</hi> pag. 41. in marg. <hi>Scoticana.</hi> or altered
+pag. 64. in marg. <hi>savitia.</hi> or a word is misplaced, pag. 25. med. <hi>&amp; the daughter had devou<g ref="char:EOLhyphen"/>ted
+the mother.</hi> and some other the like.</p>
+   <pb facs="37"/>
+</div>
+        </body>
+  </text>
+</TEI>

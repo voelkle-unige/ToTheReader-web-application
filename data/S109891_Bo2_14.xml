@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To sir Iohn Swinerton Knight, and one of the Aidermen of the Citie of London.</title>
+           <author>Drayton, Michael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109891_Bo2_14</idno>
+           <idno type="DLPS">A20836</idno>
+           <idno type="STC">7216</idno>
+           <idno type="ESTC">S109891</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To sir Iohn Swinerton Knight, and one of the Aidermen of the Citie of London.</title>
+                 <author>Drayton, Michael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems: by Michaell Draiton Esquire</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Ling (Lyng), Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>8, 144, 149-159, 5 pages, 104 leaves, 124 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="126"/>
+   <head>To sir Iohn Swinerton Knight, <hi>and one of the Aidermen of</hi> the Citie of London.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">V</seg>Orthy Sir, so much mistrust I my owne abili<g ref="char:EOLhyphen"/>tie, to doe the least right to your vertues, that I could gladly wish any thing that is truely mine, were woorthy to beare your name, so much (reucrend Sir) I esteeme you, and so ample interest haue you in my loue; To some honourable friends haue I deaicated these Poemes (with whom I ranke you: may I escape prejumption) Like not this Britaine the worse, though after some former Impressions he be lastly to <gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>crated; in this like an honest man that would part<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> his owne woorth, before he would presume his <gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>ronage, with whom you shall euer commaund my <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>, and haue my best wishes.</hi>
+   </p>
+   <closer>
+      <signed>That loue you truely,
+Mich: Drayton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

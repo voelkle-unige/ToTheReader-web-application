@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Foyle, James</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113648_Ba1_2</idno>
+           <idno type="DLPS">A22193</idno>
+           <idno type="STC">860</idno>
+           <idno type="ESTC">S113648</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Foyle, James</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The description of heaven. Or, A diuine and comfortable discourse of the nature of the eternall heaven : the habitation of God, and all the Elect. Composed in Latine, by Cunradus Aslachus. And conuerted into English, by Raph Iennings</title>
+                 <author>Aslakssøn, Cort</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Bramridge (Barmeridge), John.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>4, 85, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="46"/>
+   <l>THy better part obscur'd by th'radiance</l>
+   <l>Of Light celestiall, detected is.</l>
+   <l>Proceed, and be thou free, the Criticke glance</l>
+   <l>Of slothfull Ignorance there's none can misse.</l>
+   <l>Translated is that man from Enuies sting,</l>
+   <l>Whose industry in morning yeares doth spring.</l>
+   <closer>
+      <signed>IAMES FOYLE.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

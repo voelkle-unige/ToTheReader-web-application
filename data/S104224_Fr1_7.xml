@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To Mr. Jonson.</title>
+           <author>Tounley, Zouch</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104224_Fr1_7</idno>
+           <idno type="DLPS">B14092</idno>
+           <idno type="STC">13798</idno>
+           <idno type="ESTC">S104224</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To Mr. Jonson.</title>
+                 <author>Tounley, Zouch</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Q. Horatius Flaccus: his Art of poetry. Englished by Ben: Jonson. With other workes of the author, never printed before</title>
+                 <author>Horace</author>
+                 <imprint>
+                    <publisher>Okes (Oakes), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <distributor>Benson, John</distributor>
+                            <distributor>Lee (Ley), William 3</distributor>
+                        </imprint>
+                 <extent>24, 82, 69-104, 4, 95-138, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>To Mr. <hi>Jonson.</hi>
+   </head>
+   <l>
+      <hi>BEn:</hi> the world is much in debt and though it may</l>
+   <l>Some petty reck'nings to small Poets pay:</l>
+   <l>Pardon if a<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>hy glorious summe they stick,</l>
+   <l>Being too large for their Arithmeticke.</l>
+   <l>If they could prize the Genius of a Scene,</l>
+   <l>The learned sweat that makes a language cleane,</l>
+   <l>Or understand the faith of ancient skill,</l>
+   <l>Drawn from the Tragick, Comick, Lyrick quille</l>
+   <l>The Greek and Roman denison'd by thee,</l>
+   <l>And both made richer in thy Poetry.</l>
+   <l>This they may know, and knowing this still grudge</l>
+   <l>That yet they are not fit of thee to judge.</l>
+   <l>I prophesie more strength to after time,</l>
+   <l>Whose joy shall call this Isle the Poets Clime,</l>
+   <l>Because 'twas thine, and unto thee returne</l>
+   <l>The borrowed flames, with which thy Muse shal burn.</l>
+   <l>Then when the stocke of others Fam<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap> is spent,</l>
+   <l>Thy Poetry shall keep its owne old rent.</l>
+   <closer>
+      <signed>Zouch Tounley.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD CAROLVM PRINCIPEM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103187_Fr1_4</idno>
+           <idno type="DLPS">A11383</idno>
+           <idno type="STC">21641</idno>
+           <idno type="ESTC">S103187</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD CAROLVM PRINCIPEM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Clavis ad portam, or a key fitted to open the gate of tongues : Wherein you may readily finde the Latine and French for any English word necessary for all young schollers</title>
+                 <author>Saltonstall, Wye</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1634</date>
+                 <publisher>Sparke (Sparkes, Wreichionen), Michael 1.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>94 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_Prince_Charles">
+   <pb facs="5"/>
+   <head>AD CAROLVM PRINCIPEM.</head>
+   <l>POrta tibi (Princeps) linguarum sola patebat</l>
+   <l>Te intrato pueris janna clausa fuit.</l>
+   <l>Tu commune bonum es, &amp; Portam hanc esse volebas</l>
+   <l>Communem, vt pueris vtilis inde fiat.</l>
+   <l>Hanc igitur Clavem vestram super incude finxi</l>
+   <l>Nam Porta haec vestra est, vestraque clavis erit.</l>
+</div>
+        </body>
+  </text>
+</TEI>

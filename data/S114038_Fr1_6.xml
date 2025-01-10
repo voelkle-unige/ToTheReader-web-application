@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114038_Fr1_6</idno>
+           <idno type="DLPS">A09039</idno>
+           <idno type="STC">19332</idno>
+           <idno type="ESTC">S114038</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Laquei ridiculosi: or Springes for vvoodcocks : Caueat emptor</title>
+                 <author>Parrot, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <publisher>Busby, John 2.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>256 pages, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <pb facs="8"/>
+   <l>MY honest friends that reades, I you bes<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ec<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>To make the best construction of each lett<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>And not to blame my lauishnesse of speech,</l>
+   <l>In paying soundly where I am a debter:</l>
+   <l>My word and credit else you should infringe,</l>
+   <l>Which was to catch the <hi>Woodcocke</hi> in a Spring</l>
+</div>
+        </body>
+  </text>
+</TEI>

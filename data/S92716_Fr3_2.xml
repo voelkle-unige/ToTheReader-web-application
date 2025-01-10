@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectori cuicunque beneuolo.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S92716_Fr3_2</idno>
+           <idno type="DLPS">B07702</idno>
+           <idno type="STC">11989</idno>
+           <idno type="ESTC">S92716</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectori cuicunque beneuolo.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The trve choice of a friend : Shevving the comfort of a faithfull friend</title>
+                 <author>Goldwell, Charles</author>
+                 <imprint>
+                    <distributor>Fisher, Benjamin</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>12, 174, 12, 68, 6, 28 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="135"/>
+   <head>Lectori cuicunque beneuolo.</head>
+   <lg>
+      <l>Excipe (quod fas est) Nebu<g ref="char:EOLhyphen"/>lonem tolle Nouatum.</l>
+      <l>Integer, &amp; ounctis, Author, amicus erit</l>
+      <l>Neutamen nisanus videar, nec<g ref="char:EOLhyphen"/>posse vouere.</l>
+      <l>Omnes sic vellem, me redama<g ref="char:EOLhyphen"/>re pios.</l>
+      <byline>Tui cupientis. C. G.</byline>
+   </lg>
+   <p>FRiendly Reader, there bee a great many whom I desire to haue occasion to know by the name of friends: which neuertheles I would not choose to carry in my bosome, nor make them my familiars: I haue re<g ref="char:EOLhyphen"/>solued
+<pb facs="136"/>thee why. I desire whatsoeuer thou art, no exceptions may be taken, but if thy conscience check thee, amend: know<g ref="char:EOLhyphen"/>ing it is more laudable to be a <hi>Damon,</hi> then a <hi>Da<g ref="char:EOLhyphen"/>mocles,</hi> a firme friend, then a fawning flatterer. I haue taxed none in particular, (which to doe I euer counted enuious, odious) but made it knowne, that there are some false, selfe<g ref="char:EOLhyphen"/>louing, temporizing, of all sorts, with whom I will in no sort, if I can choose, be sorted.</p>
+   <closer>
+      <salute>Farwell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Amici cuiusdam, ad Authorem Carmen Hexametrum.</title>
+           <author>M., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1567</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101952_Fr1_4</idno>
+           <idno type="DLPS">A03432</idno>
+           <idno type="STC">1356.1</idno>
+           <idno type="ESTC">S101952</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Amici cuiusdam, ad Authorem Carmen Hexametrum.</title>
+                 <author>M., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Certaine tragicall discourses : writtten [sic] oute of Frenche and Latin, by Geffraie Fenton, no lesse profitable then pleasaunt, and of like necessitye to al degrees that take pleasure in antiquityes or forreine reapportes</title>
+                 <author>Bandello, Matteo</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1567</date>
+                 </imprint>
+                 <extent>10, 294, 296-306, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <pb facs="8"/>
+   <head>Amici cuiusdam, ad Authorem Carmen Hexametrum.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">F</seg>Loruit antiquo Galfridus tempore Chaucer</l>
+      <l>Scripsit &amp; eximio permagna volumina versu</l>
+      <l>Et multi viguere viri, quos vnica virtus,</l>
+      <l>Nefandos facile effecit tolerare labores.</l>
+      <l>Vixerunt: &amp; sola manet, nunc fama Sepultis</l>
+      <l>At tua nunc primum, (Galfride) virescere virtus</l>
+      <l>Incipit, &amp; teneras cum spe producere plantas:</l>
+      <l>Quae (scio) quàm primumradices caeperit altos,</l>
+      <l>Efferet egregios cum magno foenore, fructus.</l>
+      <l>Ergo quisquis erit, qui fortè reuoluerit ista,</l>
+      <l>(Cuius mens liuore nequit nec amore moueri,</l>
+      <l>Et sapit) haud dubito, quin te dignabitur illa</l>
+      <l>Laude, tuo quam tu magno sudore parasti.</l>
+      <l>Sin minus: hoc vno tibi sat (Fentone) tulisti,</l>
+      <l>Quod Domina est cui des, dono dignissima tanto.</l>
+      <closer>
+         <signed>TVVS M. M.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

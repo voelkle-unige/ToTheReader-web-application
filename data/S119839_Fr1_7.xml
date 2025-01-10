@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aliud.</title>
+           <author>Valesius, Michael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119839_Fr1_7</idno>
+           <idno type="DLPS">B14820</idno>
+           <idno type="STC">18063</idno>
+           <idno type="ESTC">S119839</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aliud.</title>
+                 <author>Valesius, Michael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true crucifixe for true Catholickes or The way for true Catholickes to haue the true crucifixe. By Sr. William Moore, To: of Rovvallane Knight</title>
+                 <author>Mure, William, Sir</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>16, 238, that is 239, 7 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>Aliud.</head>
+   <l>
+      <seg rend="decorInit">C</seg>Hristicolis, <hi>Christi crux,</hi> est quae gloria cunctis,</l>
+   <l>Nomine non vno est gloria, <hi>More</hi> tibi,</l>
+   <l>Mente <hi>crucem Christi</hi> dum pura amplecteris ipse,</l>
+   <l>Dum{que} alios quae sit <hi>crux</hi> quo{que} vera doces,</l>
+   <l>Materies tanto ingenio, tanto{que} <hi>Poeta,</hi>
+   </l>
+   <l>Tam docti calamum, digna subire metri.</l>
+   <l>Frustra alii, blandae afflavit quos aura <hi>Camoena,</hi>
+   </l>
+   <l>Ingenium nugis, eloquium{que} terunt.</l>
+   <l>At tibi, divini qui carminis, alite sacro,</l>
+   <l>Altius humanis tollis in astra caput,</l>
+   <l>Entheusest <hi>metris</hi> vigor, &amp; caelestis origo,</l>
+   <l>Et verus veris <hi>vatibus</hi> aptus bonos.</l>
+   <l>Perge altiexerere ingenii monumenta, paratu<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Hâc decus, hâc fama, hâc itur ad astra via.</l>
+   <closer>
+      <signed>Haec in laudem Stauropticae à D. <hi>GVLIELMO MORO aedita</hi> MICHAEL VALESIVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

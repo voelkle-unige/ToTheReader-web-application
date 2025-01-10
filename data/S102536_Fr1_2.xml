@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Queene.</title>
+           <author>Denis, S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102536_Fr1_2</idno>
+           <idno type="DLPS">A07431</idno>
+           <idno type="STC">17818</idno>
+           <idno type="ESTC">S102536</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Queene.</title>
+                 <author>Denis, S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A congratulation to France : vpon the happy alliance with Spaine. Dedicated to the Queene. With the order and challenge of the knights of fame, to their opposites</title>
+                 <author>Menantel, François de</author>
+                 <imprint>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1612</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Eld (Elide), George</publisher>
+                        </imprint>
+                 <extent>5, 2-15, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Queene.</head>
+   <opener>
+      <salute>MADAME.</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">F</seg>Rance</hi> hath not without cause had recourse to your
+Maiesty as to her sole remedy, and now Spaine intreats you to adorne her
+Crowne with our <hi>Flower de Luces,</hi> for it seemeth that Heauen hath
+made you the gardian of peace, and placed you in this world as the true Queene
+vnto whome hee hath appointed the totall gouern<g ref="char:EOLhyphen"/>ment thereof; shewing vs
+there by, that his plea<g ref="char:EOLhyphen"/>sure is, that as one <hi>MARY</hi> brought peace into
+the world, so your Maiesty should distri<g ref="char:EOLhyphen"/>bute it to vs. For this cause
+Madame, your <pb facs="3"/>
+Maiesty maybe pleased to giue me leaue to pro<g ref="char:EOLhyphen"/>clame the glories
+thereof, and sing them on the Theater of my labours, that the whole world may
+be acquainted with our happinesse. My selfe being your Maiesties</p>
+   <closer>
+      <signed>
+         <hi>Most humble and obedient subiect and
+seruant. F. de Menantel. S. Denis.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

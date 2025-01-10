@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1568</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101769_Ba1_2</idno>
+           <idno type="DLPS">A00457</idno>
+           <idno type="STC">10590</idno>
+           <idno type="ESTC">S101769</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The castle of Christianitie : detecting the long erring estate, asvvell of the Romaine Church, as of the Byshop of Rome: together with the defence of the catholique faith: set forth, by Lewys Euans</title>
+                 <author>Evans, Lewis</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1568</date>
+                 </imprint>
+                 <extent>12, 72, 4 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="85"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>OV haue seene here what a number of lewde men, were Bishops of Rome. And yet some peraduen<g ref="char:EOLhyphen"/>ture will saye, that their liues and wickednesse can stand in no force, to barre them of their dignitie, of their vsurped title of prima<g ref="char:EOLhyphen"/>cie. No can? Can any bee a member of Christ his Church, who is so voyde of the holye Ghost, that hee hath in him dwelling the right riches of Satan, simo<g ref="char:EOLhyphen"/>nie, I meane, ambition, pride, murther, and crueltie? if such then maye not bee called a member, howe shall wee tearme him, how shall he claime to be the chief, the head, the supreme? Iudge indiffe<g ref="char:EOLhyphen"/>rentlye, for so you shall profite your selues, and easily be eased from the clog of bondage, wherewith▪agaynst all rea<g ref="char:EOLhyphen"/>son, good authoritie, and Scripture, you haue bene tyed. Farewell, and iudge of me as these my writings deserue.</p>
+   <pb facs="86"/>
+   <q>Examini, &amp; iudicio verae ecclesiae, quae fidelium, sanctorum, &amp; electorum societas est, &amp; com<g ref="char:EOLhyphen"/>munio, constans fide, spe, dilectione, ac spiritu Christi, hoc ego opusculum humiliter ac demissè subijcio:</q>
+   <p>I doe with humilitie, and lowlinesse sub<g ref="char:EOLhyphen"/>mit this small worke, to the iudgement and examination of the true Church, which is the society, and communion of the faithfull, holy, and elected, the same being knowen, and agreeing in fayth, hope, charitie, and the spirite of Christ.</p>
+   <bibl>Appollodorus.</bibl>
+   <q>Good men vse fewe wordes: neyther<note place="margin">Stobaeus serm. 34.</note> needeth the truth much babling.</q>
+</div>
+        </body>
+  </text>
+</TEI>

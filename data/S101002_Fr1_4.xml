@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Rodolphi Waddingtoni decasticon in Psal∣morum encomion &amp; huius operis</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101002_Fr1_4</idno>
+           <idno type="DLPS">A13065</idno>
+           <idno type="STC">23359</idno>
+           <idno type="ESTC">S101002</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Rodolphi Waddingtoni decasticon in Psal∣morum encomion &amp; huius operis</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A proceeding in the harmonie of King Dauids harpe : That is to say, an exposition of 13. psalmes of the princely prophet Dauid, from the 22. vnto the 35. psalme, being a portion of the psalmes expounded by the reuerend Doctor Victorinus Strigelius, professor in Diuinity i the Vniuersity of Lipsia in Germany. Translated out of Latin into English by Richard Robinson, citizen of London. Anno Christi 1591. Seene and allovved</title>
+                 <author>Strigel, Victorinus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 <publisher>Charlewood, John.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>8, 174, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <head>Rodolphi Waddingtoni decasticon in Psal<g ref="char:EOLhyphen"/>morum encomion &amp; huius operis</head>
+   <l>SVnt animae morbi varij dum corpore clausa est,</l>
+   <l>Quae scelerum premitur colluuione graui.</l>
+   <l>Horum qui quaerit sibi plene dulce leuamen,</l>
+   <l>Hic Dauidis Psalmos nocte dieque legat.</l>
+   <l>Lectio Psalmorum psallit solatia vera:</l>
+   <l>Hinc mens fracta malis se leuat atque fouet</l>
+   <l>Gratia prima Deo, Dauidi sit proxima regi,</l>
+   <l>Strigeliusque petit, ne sua laus pereat.</l>
+   <l>Ordine postremus Robinsonus licet extat,</l>
+   <l>Tu tamen O Lector viue Richarde, canas.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>On his other Poems.</title>
+           <author>Suckling, I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109308_Fr1_6</idno>
+           <idno type="DLPS">A19878</idno>
+           <idno type="STC">6304</idno>
+           <idno type="ESTC">S109308</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>On his other Poems.</title>
+                 <author>Suckling, I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Madagascar : with other poems. By W. Davenant</title>
+                 <author>D'Avenant, William, Sir</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <distributor>Walkley, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>22, 141, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>On his other Poems.</head>
+   <lg>
+      <l>THou hast redeem'd us, <hi>will;</hi> and future Times,</l>
+      <l>Shall not account unto the Age's crimes</l>
+      <l>Dearth of pure Wit: since the great Lord of i<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>(<hi>Donne</hi>) parted hence, no Man has ever writ</l>
+      <l>So neere him, in's owne way: I would-commend</l>
+      <l>Particulars, but then, how should I end</l>
+      <l>Without a Volume? Ev'ry Line of thine</l>
+      <l>Would aske (to praise it right) Twenty of mine.</l>
+   </lg>
+   <closer>
+      <signed>I. Suckling.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

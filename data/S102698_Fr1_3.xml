@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Ward, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102698_Fr1_3</idno>
+           <idno type="DLPS">A14809</idno>
+           <idno type="STC">25109</idno>
+           <idno type="ESTC">S102698</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Ward, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The controversie debated about the reuerend gesture of kneeling : in the act of receiuing the holy communion. By Iames Wats, minister of Gods word at Woodnosborough in Kent: and sometime fellow of Magdalene Colledge in Cambridge</title>
+                 <author>Wats, James</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Jaggard, William</publisher>
+                        </imprint>
+                 <extent>42 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <lg>
+      <l>
+         <hi>QVi genua, admissus mensae conuiua tremendae,</hi>
+      </l>
+      <l>
+         <hi>Flectere nescit (&amp; hoc nescire est nolle proteruis)</hi>
+      </l>
+      <l>
+         <hi>Prauum, quod didicit, dediscere discat; &amp; harum,</hi>
+      </l>
+      <l>
+         <hi>Queis <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap> inest, rationum ponderepressus,</hi>
+      </l>
+      <l>
+         <hi>Submittat rigidos curuato poplite neruos.</hi>
+      </l>
+      <l>
+         <hi>Pondus habent haec tela; grauant, frangunt{que} columnas</hi>
+      </l>
+      <l>
+         <hi>Se non flectentes. Lector, si for sitan anceps,</hi>
+      </l>
+      <l>
+         <hi>His cessure, Vale, vel responsure Responsis.</hi>
+      </l>
+   </lg>
+   <closer>De hoc libello sic iudicat.
+<signed>T.G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

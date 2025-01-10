@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Librum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104781_Fr1_5</idno>
+           <idno type="DLPS">A16742</idno>
+           <idno type="STC">3649</idno>
+           <idno type="ESTC">S104781</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Librum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An excellent poeme, vpon the longing of a blessed heart : which loathing the world, doth long to be with Christ. With an addition, vpon the definition of loue. Compiled by Nicholas Breton, Gentleman</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>Browne, John 1.</publisher>
+                            <publisher>Deane, John</publisher>
+                            <distributor>Browne, John 1</distributor>
+                            <distributor>Deane, John</distributor>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <head>Ad Librum.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">G</seg>Oe Booke, and balke those eyes,</l>
+      <l>That loue but shadowes sightes:</l>
+      <l>And let them gape for flyes,</l>
+      <l>That make but Buzzards flights.</l>
+   </lg>
+   <lg>
+      <l>And tell the humble heart,</l>
+      <l>That longes in better loue,</l>
+      <l>To him thou wilt impart</l>
+      <l>Thy spirits Turtle doue.</l>
+   </lg>
+   <lg>
+      <l>Whose flesh, the soule doth feed,</l>
+      <l>With that eternall sweet,</l>
+      <l>Wherein hearts eies may reed,</l>
+      <l>How life and loue doe meet,</l>
+   </lg>
+   <lg>
+      <l>To make the blessed see</l>
+      <l>The loue, that longeth best:</l>
+      <l>And what those longinges bee,</l>
+      <l>VVhose loue is neuer blest.</l>
+   </lg>
+   <lg>
+      <l>That loue not misconceiu'd in thought,</l>
+      <l>May neuer longe for that is nought.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Carmina R: Stedmani, profes. Theologiae Oxoniensis, in laudem Authoris.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104220_Fr1_7</idno>
+           <idno type="DLPS">A03653</idno>
+           <idno type="STC">13783</idno>
+           <idno type="ESTC">S104220</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Carmina R: Stedmani, profes. Theologiae Oxoniensis, in laudem Authoris.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Speculum topographicum: or The topographicall glasse : Containing the vse of the topographicall glasse. Theodelitus. Plaine table, and circumferentor. With many rules of geometry, astronomy, topography perspectiue, and hydrography. Newly set forth by Arthur Hopton Gentleman</title>
+                 <author>Hopton, Arthur</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>16, 203, 9 pages, 2 folded leaves of plates, illustrations, maps, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>Carmina R: Stedmani, profes. Theologiae Oxoniensis, in laudem Authoris.</head>
+   <l>EDidit <hi>Arthurus</hi> librum generosus amicus:</l>
+   <l>Qui feret eximijs lumina clara viris.</l>
+   <l>Est iuuenis florens suanuis flos gloria patrum:</l>
+   <l>Mirificis monstrans inelita facta modis.</l>
+   <l>Lucida nubiferi decantat corpora coeli,</l>
+   <l>Lucentis solis commoda magna canit.</l>
+   <l>Commemorat fluvios magno cum murmure iactos,</l>
+   <l>Attribuens cunctis grandia summa viris.</l>
+   <l>Scriptoris memorat celeberrima facta recentis:</l>
+   <l>Flammiferumque noua continet arte iubar.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the generall Reader.</title>
+           <author>Marston, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112294_Fr1_2</idno>
+           <idno type="DLPS">A07083</idno>
+           <idno type="STC">17488</idno>
+           <idno type="ESTC">S112294</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the generall Reader.</title>
+                 <author>Marston, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vvonder of vvomen or The tragedie of Sophonisba : as it hath beene sundry times acted at the Blacke Friers. Written by Iohn Marston</title>
+                 <author>Marston, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Cotton, William.</publisher>
+                            <publisher>Edgar, Eleazar.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>56 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the generall Reader.</head>
+   <p>
+      <seg rend="decorInit">K</seg>Now, that I haue not labored in this poeme, to tie my selfe to relate any thing as an historian but to inlarge euery thing as a Poet, To transcribe Authors, quote authorities, &amp; translate Latin prose orations into English black-verse, hath in this subiect beene the least aime of my studies. Then (equall Reader) peruse me with no prepared dislike, and if ought shall displease thee thanke thy selfe, if ought shall please thee thanke not me, for I confesse in this it was not my onely end.</p>
+   <closer>
+      <signed>Io. Marston.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

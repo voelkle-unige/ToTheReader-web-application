@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Postscript.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115613_Fr1_3</idno>
+           <idno type="DLPS">A16218</idno>
+           <idno type="STC">3143</idno>
+           <idno type="ESTC">S115613</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Postscript.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The arte of logick : Plainely taught in the English tongue, according to the best approued authors. Very necessary for all students in any profession, how to defend any argument against all subtill sophisters, and cauelling schismatikes, and how to confute their false syllogismes, and captious arguments. By M. Blundevile</title>
+                 <author>Blundeville, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Lownes, Matthew.</publisher>
+                            <publisher>Stansby, William.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>16, 197, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <pb facs="4"/>
+   <head>A Postscript.</head>
+   <p>THough I wrote this Booke many yeeres past, whil'st I sojourned with my most deare Brother in Law, <hi>M. William Hurnell,</hi> a man of most singu<g ref="char:EOLhyphen"/>lar humanitie, and of great hospitalitie, at his house in Winkborne in Nottinghamshire, not farre from South<g ref="char:EOLhyphen"/>well: yet notwithstanding vpon diuers necessarie consi<g ref="char:EOLhyphen"/>derations (as I thought) since that time mouing me thereunto, I still stayed it from the Presse, vntill now of late that I was fully perswaded by diuers of my learned friends, to put it in print, who hauing diligently perused the same, and liking my playne order of teaching vsed therein, thought it a most necessary Booke for such Mi<g ref="char:EOLhyphen"/>nisters as had not beene brought vp in any Vniuersitie: to many of which Ministers though God had giuen the gift of vtterance, and great good zeale to set forth in good speech the true Christian doctrine: yet, if they should haue to deale with subtill Sophisters and caue<g ref="char:EOLhyphen"/>ling Schismatikes (whereof in these dayes, the more is the pitty, there are too many) they were not able with<g ref="char:EOLhyphen"/>out the helpe of Logike, to defend the truth of Gods Word, and orderly to confute such false Conclusions as peruerse Schismatikes and Heretikes are wont to gather out of the very wordes of holy Scripture: wherefore, through my said friends perswasions, I haue now at length committed my said Booke to the Presse, praying all those that shall vouchsafe to reade it, as thankefully to accept the same, as of my part it is friendly offered: <hi>Vale.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

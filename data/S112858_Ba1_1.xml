@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note To The Reader]</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112858_Ba1_1</idno>
+           <idno type="DLPS">A08882</idno>
+           <idno type="STC">19163</idno>
+           <idno type="ESTC">S112858</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note To The Reader]</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first part of the no lesse rare, then excellent and stately historie, of the famous and fortunate prince Palmerin of England : Declaring the birth of him, and Prince Florian du Desart his brother, in the forrest of great Brittaine: the course of their liues afterward, in pursuing knightly aduentures, and performing incomparable deedes of chiualrie. Wherein gentlemen may finde choyse of sweete inuentions, and gentlewomen be satisfied in courtly expectations. Translated out of French, by A.M. one of the messengers of her Maiesties chamber</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Creede, Thomas</publisher>
+                        </imprint>
+                 <extent>890 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_to_the_reader">
+   <pb facs="219"/>
+   <p>
+      <seg rend="decorInit">T</seg>Hus Gentlemen, you haue heard the first
+part of our English Princes labors, wher<g ref="char:EOLhyphen"/>in,
+if you find the Translation altered, or
+the true sence in some place of a matter
+impaired, let this excuse answere his de<g ref="char:EOLhyphen"/>fault
+in that case. A worke so large, is
+sufficient to tire so simple a workeman as
+himselfe: and beside, the Printer may in
+some place let an error escape. So betweene these two rea<g ref="char:EOLhyphen"/>sons,
+let the Author passe vncontrowled, which will hasten
+him the sooner to send you the second part: wherein he dares
+promise you, such plentifull varietie of choice conceits, as
+cannot be so long expected, as they will bee thought worthy
+of a welcome, Meane while, he reposeth himselfe on your
+wonted courtesies: desiring to heare nothing, that may dis<g ref="char:EOLhyphen"/>harten
+him from his intent, or hinder you from the end of so
+braue a Historie.</p>
+   <trailer>FINIS.</trailer>
+   <closer>
+      <signed>Anthony Munday.</signed>
+Patere aut abstine.</closer>
+   <pb facs="219"/>
+   <pb facs="220"/>
+   <pb facs="220"/>
+</div>
+        </body>
+  </text>
+</TEI>

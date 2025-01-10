@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Vidard, M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118585_Fr1_6</idno>
+           <idno type="DLPS">A18903</idno>
+           <idno type="STC">5326</idno>
+           <idno type="ESTC">S118585</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Vidard, M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A true and admirable historie, of a mayden of Confolens, in the prouince of Poictiers : that for the space of three yeeres and more hath liued, and yet doth, vvithout receiuing either meate or drinke. Of whom, his Maiestie in person hath had the view, and, (by his commaund) his best and chiefest phisitians, haue tryed all meanes, to find, whether this fast &amp; abstinence be by deceit or no. In this historie is also discoursed, whether a man may liue many dayes, moneths or yeeres, without receiuing any sustenance. Published by the Kings especiall priuiledge</title>
+                 <author>Citois, François</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>8, 51, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Ordinances, edicts, proclamations</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>SI quando leuibus fama pinnulis vehens,</l>
+      <l>Nullis puellam victitare ferculis,</l>
+      <l>Sitis arid<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>, atque tristis exortem famis</l>
+      <l>Narrauit, omnes commodùm pallescere,</l>
+      <l>Omenque lauum deprecari prodigi,</l>
+      <l>Ʋnus veniret confidenti pectore</l>
+      <l>Hygieia iussit Pallas: Ille protinus</l>
+      <l>Sibi optiones filias sumens Iouis,</l>
+      <l>Gnauus remouit alta mundi moeni<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Auiaque Naturae penetra<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>it loca,</l>
+      <l>Hic vnde rerum semina, vnde profluant</l>
+      <l>Marisque fontes, sluminùmque limpida,</l>
+      <l>Animaeque ventûm praepetes, quibus modi<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Hyemesque, solstitiaque dispernat Deus:</l>
+      <l>
+         <pb facs="5"/>
+Qui causa frugum succulentis germinet</l>
+      <l>Mandata glebis, quóue sustentans cib<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Inolescat animal, siue sensibus cluit</l>
+      <l>Auctum, negatis siue sensibus caret,</l>
+      <l>Hic vidit vsquam quicquid est: Quod vt grau<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Pauore mentis solueret, doctissimis</l>
+      <l>Citoeus infit explicare schedijs,</l>
+      <l>Quae quisquis olim legerit, caelestium</l>
+      <l>Opera videri scripta confitebitur.</l>
+      <signed>M. VIDARD Procurator Regius Pict.</signed>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

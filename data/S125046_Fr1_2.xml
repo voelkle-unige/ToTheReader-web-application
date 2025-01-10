@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           <author>I., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125046_Fr1_2</idno>
+           <idno type="DLPS">A72410</idno>
+           <idno type="STC">14058.3</idno>
+           <idno type="ESTC">S125046</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 <author>I., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Two treatises, one of the latter day of iudgement: the other of the ioyes of Heauen</title>
+                 <author>I. S.</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>4, 131, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Epistle to the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, my de<g ref="char:EOLhyphen"/>sire hath bene of a long time, to set downe vn<g ref="char:EOLhyphen"/>to thee, the <hi>Excellent,</hi> the <hi>Decaied,</hi> and the <hi>Re<g ref="char:EOLhyphen"/>stored Estate of man;</hi> if by Gods grace, I might, or may as yet in good time performe it. Wherof I haue finished a great part, the which if God giue good successe, in due time, shall be added to that which is al<g ref="char:EOLhyphen"/>readie published: wherein I haue set downe the <hi>Excellent Estate of man:</hi> by de<g ref="char:EOLhyphen"/>claring how God created him after his Image.</p>
+   <p>The thing that I haue aimed at, both in that, and this, or any thing else, that hereafter I shall do, is only to profit and to do good. And therefore at this time, and according to this time, and trouble<g ref="char:EOLhyphen"/>some &amp; dangerous dayes of this world; prognosticating the vtter ruine and de<g ref="char:EOLhyphen"/>cay
+<pb facs="3"/>thereof, I haue thought good by this Treatise of the Latter Iudgement, to put you in remembrance, that you may be ready and prepared, when the Trumpet shall blowe, and when we shall be called to our account. That euery one of vs in the meane time, may haue this in our minde, and in our mouth; <hi>Good Lord pre<g ref="char:EOLhyphen"/>pare vs to thy kingdom, and shorten the daies of sinne. Ezekias</hi> desired to haue his dayes prolonged. And vnto <hi>Iosias,</hi> it was pro<g ref="char:EOLhyphen"/>nounced for a blessing, that his time should be shortned. Which of these two was the better choyce, that I leaue to thy resolutiō: perswading thee to that, which I take to be best.</p>
+   <q>
+      <l>Suprema cogita; Cor sit in aethere:</l>
+      <l>Foelix qui potuit mundum contemnere.</l>
+   </q>
+   <closer>
+      <signed>Thine to his power, <hi>S. I.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

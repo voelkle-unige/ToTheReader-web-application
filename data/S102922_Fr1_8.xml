@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102922_Fr1_8</idno>
+           <idno type="DLPS">A01545</idno>
+           <idno type="STC">11670</idno>
+           <idno type="ESTC">S102922</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of the nature and vse of lots : a treatise historicall and theologicall; written by Thomas Gataker B. of D. sometime preacher at Lincolnes Inne, and now pastor of Rotherhith</title>
+                 <author>Gataker, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 <publisher>Bladen, William.</publisher>
+                            <publisher>Griffin, Edward 1</publisher>
+                        </imprint>
+                 <extent>12, 360 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <pb facs="8"/>
+   <p>Occolampadius de scriptis suis.</p>
+   <lg>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</l>
+   </lg>
+   <lg>
+      <l>Sibenè quid scripsi, Christo gratare datori:</l>
+      <l>Si malè quid scripsi, noveris esse meum.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

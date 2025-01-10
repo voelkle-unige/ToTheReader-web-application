@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100154_Fr1_12</idno>
+           <idno type="DLPS">A19142</idno>
+           <idno type="STC">555</idno>
+           <idno type="ESTC">S100154</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A fresh suit against human ceremonies in Gods vvorship. Or a triplication unto. D. Burgesse his rejoinder for D. Morton. The first part</title>
+                 <author>Ames, William</author>
+                 <imprint>
+                    <publisher>Thorp, Giles, Successors of</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>124, 156, 531, 13, 64 pages, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <p>
+      <hi>GEntle reader take no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ice that through some oversight or casualty, there are the seco<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>d and third answers wan<g ref="char:EOLhyphen"/>ting in the</hi> 16. <hi>page of the first part, neare t<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>e beginning of the</hi> 3. <hi>chap. which the author finding after the impression, he sayd he would supply after, but death now preventing speach with him, I cannot as yet finde it in his papers.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

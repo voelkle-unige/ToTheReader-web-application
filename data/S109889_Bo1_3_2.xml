@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Michalem Draytonem.</title>
+           <author>Sapperton, Beale</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109889_Bo1_3_2</idno>
+           <idno type="DLPS">A20831</idno>
+           <idno type="STC">7210</idno>
+           <idno type="ESTC">S109889</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Michalem Draytonem.</title>
+                 <author>Sapperton, Beale</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Muses Elizium : lately discouered, by a new way ouer Parnassus. The passages therein, being the subiect of ten sundry nymphalls, leading three diuine poemes, Noahs floud. Moses, his birth and miracles. David and Golia. By Michael Drayton Esquire</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Waterson, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>8, 207, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb n="119" facs="63"/>
+   <head>Ad Michalem Draytonem.</head>
+   <lg>
+      <l>
+         <hi>DVm reluctantem</hi> Pharium IEHOVAE</l>
+      <l>
+         <hi>Drayton,</hi> &amp; fractum canis, &amp; rubentes</l>
+      <l>Diuidis fluctus, equites reductaet</l>
+      <l>obruis vnda:</l>
+   </lg>
+   <lg>
+      <l>Instruis quanto monumenta nisu?</l>
+      <l>Quam sacra nomen tibi crescit aede?</l>
+      <l>Pyramis cedit peritura: cedit</l>
+      <l>tota{que} Memphis.</l>
+   </lg>
+   <lg>
+      <l>Cedit, &amp; quicquid posuere reges</l>
+      <l>Molibus fisi nimium superbis.</l>
+      <l>O sacer vatis laber! a rapaci</l>
+      <l>tempore tutus.</l>
+   </lg>
+   <closer>
+      <signed>BEALE SAPPERTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Preface.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1534</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109046_Fr1_2</idno>
+           <idno type="DLPS">A68433</idno>
+           <idno type="STC">17113</idno>
+           <idno type="ESTC">S109046</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Preface.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Constitutions p [ro] uincialles, and of Otho, and Octhobone, translated in to Englyshe. Cum priuilegio</title>
+                 <imprint>
+                    <publisher>Redman, Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1534</date>
+                 </imprint>
+                 <extent>12, 136 157-184 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <head>The Preface.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Ere after en<g ref="char:EOLhyphen"/>suen the Consti<g ref="char:EOLhyphen"/>tucions prouin<g ref="char:EOLhyphen"/>cialles, and of Otho, &amp; Octho<g ref="char:EOLhyphen"/>bone, whiche be nat put forthe to bynde any of our moste gracious soueraygne lorde the kynges subiectes / but to the only entent that y<seg rend="sup">e</seg> people of this realme of Englande shulde know them, suche as they be. For the clergy of this realme (whome co<g ref="char:EOLhyphen"/>menly we haue vsed to call the churche, or the spiritaltie) with<g ref="char:EOLhyphen"/>out thassent of y<seg rend="sup">e</seg> kyng{is} hyghnes, the nobilite, and comens of this realme, haue neuer had ne yet haue any iuste and lauful power,
+<pb facs="2"/> to make any Constitutions or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>awes ouer any of our sayde soue<g ref="char:EOLunhyphen"/>
+      <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>aygne lorde the kyng{is} subiectes. Therfore, suche as they ben so receiue &amp; vse them / &amp; gyue laudes and thankes to almyghty god / and pray for the translatour that he may come to the blysse y<seg rend="sup">t</seg> neuer <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>hall ceasse. So be it.</p>
+</div>
+        </body>
+  </text>
+</TEI>

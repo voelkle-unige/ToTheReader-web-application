@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement to the Reader▪</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120914_Ba1_1</idno>
+           <idno type="DLPS">A03590</idno>
+           <idno type="STC">13713</idno>
+           <idno type="ESTC">S120914</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement to the Reader▪</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of the lavves of ecclesiasticall politie : eight bookes. By Richard Hooker</title>
+                 <author>Hooker, Richard</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>4, 207, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_regarding_deferred_publication">
+   <pb facs="108"/>
+   <head>An Aduertisement to the Reader▪</head>
+   <p>I Haue for some causes, (gentle Reader) thought it at this time, more fit to let goe these first foure Bookes by themselues, then to stay both them and the rest, til the whole might together be published. Such generalities of the cause in question as here are handled, it will be perhaps not amisse to consider apart, as by way of introduction vnto the bookes that are to follow concerning par<g ref="char:EOLhyphen"/>ticulars. In the meane while thine helping hand must be craued, for the amend<g ref="char:EOLhyphen"/>ment of such faultes committed in printing, as (omitting others of lesse mo<g ref="char:EOLhyphen"/>ment) I haue set downe.</p>
+   <div type="errata">
+      <p>
+         <table>
+            <row>
+               <cell role="label">
+                  <hi>Pag.</hi>
+               </cell>
+               <cell role="label">
+                  <hi>line</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Fault▪</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Correction</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Pag.</hi>
+               </cell>
+               <cell role="label">
+                  <hi>line</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Fault</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Correction</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>25</cell>
+               <cell>37</cell>
+               <cell>be ordained</cell>
+               <cell>he ordained</cell>
+               <cell>138</cell>
+               <cell>19</cell>
+               <cell>still</cell>
+               <cell>stay</cell>
+            </row>
+            <row>
+               <cell>31</cell>
+               <cell>23</cell>
+               <cell>if any</cell>
+               <cell>of any</cell>
+               <cell>139</cell>
+               <cell>19</cell>
+               <cell>It is for nothing</cell>
+               <cell>It is not for nothing</cell>
+            </row>
+            <row>
+               <cell>51</cell>
+               <cell>mar.</cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>157</cell>
+               <cell>33</cell>
+               <cell>wash</cell>
+               <cell>waste</cell>
+            </row>
+            <row>
+               <cell>55</cell>
+               <cell>mar.</cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>162</cell>
+               <cell>32</cell>
+               <cell>pretious should</cell>
+               <cell>pretious body should</cell>
+            </row>
+            <row>
+               <cell>64</cell>
+               <cell>mar.</cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>180</cell>
+               <cell>43</cell>
+               <cell>meerenes</cell>
+               <cell>neerenes</cell>
+            </row>
+            <row>
+               <cell>66</cell>
+               <cell>19</cell>
+               <cell>manifest reason</cell>
+               <cell>manifest law of reasō</cell>
+               <cell>183</cell>
+               <cell>39</cell>
+               <cell>vrine</cell>
+               <cell>vaine</cell>
+            </row>
+            <row>
+               <cell>83</cell>
+               <cell>12</cell>
+               <cell>or that</cell>
+               <cell>of that</cell>
+               <cell>184</cell>
+               <cell>ma.</cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+               <cell>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </cell>
+            </row>
+            <row>
+               <cell>87</cell>
+               <cell>24</cell>
+               <cell>ase such</cell>
+               <cell>are such</cell>
+               <cell>185</cell>
+               <cell>18</cell>
+               <cell>do (I doubt) not presume,</cell>
+               <cell>do(I doubt not) pre<g ref="char:EOLhyphen"/>sume</cell>
+            </row>
+            <row>
+               <cell>91</cell>
+               <cell>44</cell>
+               <cell>holy worke</cell>
+               <cell>holy word</cell>
+               <cell>186</cell>
+               <cell>mar.</cell>
+               <cell>sticke</cell>
+               <cell>strike</cell>
+            </row>
+            <row>
+               <cell>130</cell>
+               <cell>38</cell>
+               <cell>seuerally</cell>
+               <cell>seueraltie.</cell>
+               <cell>202</cell>
+               <cell>3</cell>
+               <cell>worde</cell>
+               <cell>world</cell>
+            </row>
+         </table>
+      </p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

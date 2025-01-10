@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106155_Ba1_1</idno>
+           <idno type="DLPS">A16651</idno>
+           <idno type="STC">3556</idno>
+           <idno type="ESTC">S106155</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Barnabees journall : under the names of Mirtilus &amp; Faustulus shadowed: for the travellers solace lately published, to most apt numbers reduced, and to the old tune of Barnabe commonly chanted. By Corymboeus</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>450 pages, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="224"/>
+   <p>
+      <seg rend="decorInit">G</seg>Ood Reader, if this Impression have errors in it, excuse it: The Copy was obscure; neither was the <hi>Author,</hi> by reason of his distance, and imployments of higher conse<g ref="char:EOLhyphen"/>quence, made acquainted with the pub<g ref="char:EOLhyphen"/>lishing of it.</p>
+   <q>
+      <l>His <hi>Patavinus</hi> erravit pr<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>lis,</l>
+      <l>Authorem suis lacerando telis.</l>
+      <bibl>Philander.</bibl>
+   </q>
+   <pb facs="224"/>
+</div>
+        </body>
+  </text>
+</TEI>

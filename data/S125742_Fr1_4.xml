@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD THOMAM IENEIVM EPIGRAMMA.</title>
+           <author>Rogerius, D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1568</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125742_Fr1_4</idno>
+           <idno type="DLPS">B08033</idno>
+           <idno type="STC">21315</idno>
+           <idno type="ESTC">S125742</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD THOMAM IENEIVM EPIGRAMMA.</title>
+                 <author>Rogerius, D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A discours of the present troobles in Fraunce, and miseries of this tyme : compyled by Peter Ronsard gentilman of Vandome, and dedicated unto the quene mother, translated in to English by Thomas Ieney gentilman</title>
+                 <author>Ronsard, Pierre de</author>
+                 <imprint>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1568</date>
+                 </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="5"/>
+   <head>AD THOMAM IENEIVM EPIGRAMMA.</head>
+   <l>Gallica si laudem Ronsardi Musa meretur,</l>
+   <l>Dum deflet patriis patria fata sonis:</l>
+   <l>Et tua, digna suis Ieneie est laudibus, eius</l>
+   <l>Anglorum in numeros dum breue cogis opus:</l>
+   <l>Nam tibi materia est eadem, decurris eodem</l>
+   <l>Tramite, Pieriae doctus vterque lyrae.</l>
+   <l>Ille canit patriae moestus fera damna ruentis,</l>
+   <l>Tingit &amp; Aoniis Gallica verba fauis:</l>
+   <l>Tuque sequens vates Musae vestigia Gallae,</l>
+   <l>Sollicitas doctis plectra Britanna modis.</l>
+   <l>Gratia quaéque illum comitatur blanda canentem,</l>
+   <l>Emicat, in versu nec minor illa tuo est.</l>
+   <l>Sic vatem vates vertens, quas ille meretur,</l>
+   <l>Efficis vt laudes sint quoque iure tuae.</l>
+   <closer>
+      <signed>D. ROGERIVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

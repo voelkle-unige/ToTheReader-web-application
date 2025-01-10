@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Evans, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101798_Fr1_2</idno>
+           <idno type="DLPS">B13494</idno>
+           <idno type="STC">10597</idno>
+           <idno type="ESTC">S101798</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Evans, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A translation of the booke of nature, into the vse of grace : Performed and principally intended for the benefit of those who plead ignorance, or they are not book-learned, or that they want teachers and so thinke to excuse themselues in their sinnes. By William Evans, Mr of Arts of St Mary Hall in Oxford</title>
+                 <author>Evans, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1633</date>
+                 <publisher>Huggins, Thomas.</publisher>
+                            <publisher>Lichfield, John</publisher>
+                        </imprint>
+                 <extent>8, 95, 9 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <gap reason="missing" resp="#oxf" extent="2 pages">
+      <desc>〈2 pages missing〉</desc>
+   </gap>
+   <pb facs="2"/>
+   <p>time fishing with <hi>one bait,</hi> and sometime with <hi>another;</hi> some<g ref="char:EOLhyphen"/>time vsing one forme of speech, and sometime another; and all to <hi>prepare the way of the Lord, and to make his paths straight, and plaine</hi> for men to walke in. And hauing tried all the <hi>waies</hi> and <hi>baits, and meanes</hi> that I could thinke of, and were allowable for me to <hi>vse</hi> for that purpose, At last I found that <hi>saying</hi> to be true,
+<q>
+         <l>Segnius irritant animos, demissa per aures,</l>
+         <l>Quam quae sunt oculis subiecta fidelibus.
+<note place="margin">Horat. Art. Poet</note>
+         </l>
+      </q> That <hi>ignorant people</hi> are sooner <hi>perswaded</hi> by plaine <hi>simi<g ref="char:EOLhyphen"/>litudes</hi> and familiar <hi>examples,</hi> then with <hi>subtill reasons,</hi> and <hi>accurate discourses:</hi> And finding it so, I fell, and set vpon this <hi>worke,</hi> which I call, <hi>A Translation of the Booke of Na<g ref="char:EOLhyphen"/>ture into the vse of Grace.</hi> And here least any man should thinke, that in thus doing, <hi>I attribute</hi> too much to <hi>Naturall reason</hi> and <hi>Philosophie;</hi> as if the points of <hi>Religion</hi> might be sufficiently <hi>proued,</hi> and demonstrated thereby; I shall desire you to doe me that <hi>favour,</hi> as first to <hi>heare</hi> what I <hi>say;</hi> and <hi>see</hi> what I <hi>doe,</hi> and then <hi>Iudge.</hi> For <hi>Philosophie, I</hi> neither alto<g ref="char:EOLhyphen"/>gether seclude her out of the <hi>Church,</hi> as some would doe; nei<g ref="char:EOLhyphen"/>ther would I willingly suffer her to advance her selfe aboue <hi>Divinity,</hi>
+      <note place="margin">Naturalistae.</note> as others would haue. I reverence <hi>Divinity,</hi> as the <hi>Mistres,</hi> I respect <hi>Philosophy,</hi> as the <hi>Hand-maide</hi> to this <hi>Mistres. Moses,</hi> and the <hi>Prophets,</hi> and the <hi>Apostles,</hi> Men of vnquestionable iudgement haue done so: And so I haue ranked them in this <hi>Treatise,</hi> giving <hi>Divinity</hi> the <hi>priority,</hi> to speake in every thinge; and then <hi>Philosophy</hi> the next place, to speake and to <hi>illustrate</hi> the matter. If I had let <hi>naturall reason,</hi> and <hi>Philosophy,</hi> speake in these things alone, then thou mightest iustly <hi>except</hi> against me,
+<note place="margin">
+         <hi>Aquinas</hi> 1 <hi>part. quaest.</hi> 1. <hi>art.</hi> 10.</note> and say with the <hi>Schooleman, Theo<g ref="char:EOLhyphen"/>logia symbolica non est per se argumentatiua:</hi> Or if I had let <hi>reason</hi> and <hi>Philosophy</hi> speake in the <hi>first place,</hi> I might likewise haue beene iustly <hi>blameable,</hi> for as the <hi>Schoolemen</hi> say well, <hi>Rationes praecedentes minuunt fidem,</hi> reasons going before faith, weaken faith: But inasmuch as I haue made <hi>Rea<g ref="char:EOLhyphen"/>son</hi> to speake, and to serue in the <hi>second place,</hi> &amp; like a <hi>Hand<g ref="char:EOLhyphen"/>maide,</hi>
+      <pb facs="2"/>to haue alwayes her eyes toward her <hi>Mistres Divinity,</hi> howsoeuer thou iudgest of it, certainely the <hi>Schoolemen</hi> will say, <hi>Rationes subsequentes augent fidem,</hi> that reasons com<g ref="char:EOLhyphen"/>ming after faith, doe strengthen faith. <hi>Reason</hi> makes not the matter more sure, <hi>ex parte veritatis dictantis,</hi> in respect of God the speaker: but <hi>ex parte intellectus assentientis,</hi> in respect of the weakenesse of our vnderstanding, which by the acesse of farther knowledge is more confirmed. But these things happly allowed, here againe it may be farther said, that I am too <hi>Copious,</hi> and frequent in this kinde of <hi>argument:</hi> or else ha<g ref="char:EOLhyphen"/>ving set vpon it, that my <hi>Translation</hi> is not so full, and perfect, as it should be. For the <hi>first,</hi> my <hi>frequencie</hi> in this kinde of teaching, the <hi>Hebrew verily</hi> shall speake for me, wherein as the <hi>learned obserue,</hi> almost every word hath a <hi>Metaphoricall sense,</hi> and doth illustrate by some allusion: <hi>imo Haebrei quod<g ref="char:EOLhyphen"/>vis sapienter &amp; subobscurè dictum maximè quod est de ho<g ref="char:EOLhyphen"/>minis siue naturâ, siue officio,</hi>
+      <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+      <hi>Maschal id est simili<g ref="char:EOLhyphen"/>tudinem appellant, hoc enim sensu Dicta Salomonis Ethica, quae Proverbia vulgò appellamus,</hi>
+      <note place="margin">Piscat. in Mat. c. 15.S.</note>
+      <hi>nominantur</hi>
+      <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+      <hi>Mischlé shelomó, id est, parabolae Salomonis.</hi> And for the <hi>second,</hi> I humbly acknowledge it, but yet that shall not <hi>deterre</hi> me from my intended purpose; <hi>Malim enim aliquid a<g ref="char:EOLhyphen"/>gendo, majorem à me doctrinam, &amp; sapientiam desiderari, quàm nihil agendo, prudentior, doctiòr{que} judicari:</hi> having receiued a <hi>talent</hi> from the <hi>Lord,</hi> I know my selfe bound, and that by a straight <hi>charge,</hi> to <hi>negotiate</hi> therewith,
+<note place="margin">Luk. 19.13. Mat. 25.27.</note> and to put it to the vttermost <hi>profit,</hi> I had rather then, by doing some good, lay open my infirmities to the censures of men; then by <hi>idlenesse,</hi> to hide my <hi>talent</hi> in the earth, and so to incurre the <hi>indignation</hi> of my <hi>Lord.</hi> Besides if I had prosecuted this <hi>argu<g ref="char:EOLhyphen"/>ment</hi> at this time euer so farre, and euer so exactly, yet I know I should not (no more then my betters) escape the <hi>lash</hi> of <hi>cen<g ref="char:EOLhyphen"/>sure,</hi> especially of <hi>deficient minds,</hi> and such as knowe, or doe least, whose property is, to seeke by <hi>censuring,</hi> to be accounted <hi>wise,</hi> and to get themselues grace by disgracing of others.</p>
+   <p>But howeuer whether by <hi>grace</hi> or <hi>disgrace,</hi> or to vse the words
+<pb facs="3"/>of the <hi>Apostle,</hi>
+      <note place="margin">2. Cor. 6. v. 8.</note> Whether by <hi>honour or dishonour, euill report or good report, thus farre I am contented at this time,</hi> to trauell abroad for the common good: And in speciall for your good,
+<note place="margin">Gal. 4.19.</note>
+      <hi>little Children, of whome I travell in birth, till Christ be formed in you:</hi> If I find that this my travell likes you, and that any good comes of it, I shall be ready to goe on farther for you in this kinde: In the meane space desiring your acceptance, in way of recompence, <hi>I commend you to God, and to the word of his grace, and rest</hi>
+   </p>
+   <closer>
+      <signed>Yours, according to my Talent, both to <hi>Preach, and to pray for you. WILLIAM EVANS.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

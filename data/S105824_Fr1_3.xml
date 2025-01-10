@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers, Health.</title>
+           <author>Greene, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105824_Fr1_3</idno>
+           <idno type="DLPS">A02121</idno>
+           <idno type="STC">12261</idno>
+           <idno type="ESTC">S105824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers, Health.</title>
+                 <author>Greene, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes vision : vvritten at the instant of his death. Conteyning a penitent passion for the folly of his pen</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Newman, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Gentlemen Readers, Health.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, in a vision before my death, I foresee that I am like to sustaine the shame of many follies of my youth, when I am shrowded in my winding sheete. O let not iniurious tongues tri<g ref="char:EOLhyphen"/>umph ouer a dead carcase. Now I am sick, and sorrow hath wholy sea<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>d on me: vaine I haue beene, let not other men shewe themselues vaine in reproching my vanitie. I craue pardon of you all, if I haue offended any of you with laciuious Pamphle<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ing. Many things I haue wrote to get money, which I could otherwise wish to be supprest: Pouertie is the father of innume<g ref="char:EOLhyphen"/>rable infirmities: in seeking to salue priuate wantes, I haue made my selfe a publique laughing stock. Hee that commeth in Print, setteth himselfe vp as a com<g ref="char:EOLhyphen"/>mon marke for euery one to shoote at: I haue shotte at many abuses, ouer s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>o<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>e my selfe in describing of some: where truth failed, my inuention hath stood my friend. God forgiue me all my misdeameanours: now in the best lust of my yeares, death I feare will depriue me of any further proceeding in securitie. This booke hath many things, which I would not haue written
+<pb facs="4"/>
+on my Tombe: I write this last, let it be my last will and testament. Farewell, if I liue you shall heare of me in deuinitie, in the meane time, accept the will for the deede, and speake well of me when I am dead.</p>
+   <closer>
+      <signed>
+         <hi>Yours dying.</hi> Robert Greene.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

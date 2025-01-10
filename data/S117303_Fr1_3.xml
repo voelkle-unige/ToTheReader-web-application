@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Courteous Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117303_Fr1_3</idno>
+           <idno type="DLPS">A12127</idno>
+           <idno type="STC">22435</idno>
+           <idno type="ESTC">S117303</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Courteous Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The martyr'd souldier : as it was sundry times acted with a generall applause at the Private House in Drury lane, and at other publicke theaters. By the Queenes Majesties servants. The author H. Shirley Gent</title>
+                 <author>Shirley, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Eglesfield, Francis.</publisher>
+                            <publisher>Okes (Oakes), John</publisher>
+                        </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O make too large an expla<g ref="char:EOLhyphen"/>nation of this following Poem, were but to beguile thy appetite, and somewhat dull thy expectation; but the worke it selfe being now an Orphant, and wan<g ref="char:EOLhyphen"/>ting him to protect that first begot it, it were an iniury to his memory to passe him unspoken of: For the man, his Muse was much Courted, but no com<g ref="char:EOLhyphen"/>mon mistresse; and though but seldome seene abroad, yet ever much <hi>admired</hi> at: This worke not the meanest of his la<g ref="char:EOLhyphen"/>bours has much adorned not only one, but many Stages, with such a generall ap<g ref="char:EOLhyphen"/>plause;
+<pb facs="4"/>
+as it hath drawne even the Ri<g ref="char:EOLhyphen"/>gid Stoickes of the Time, who though not for pleasure, yet for profit, have gathered something out of his plentifull Vineyard. My hopes are, it wil prove no lesse pleasing to the <hi>Reader,</hi> then it has formerly beene to the <hi>Spectators;</hi> and so prooving, I have my aime and full desire, fare-well.</p>
+</div>
+        </body>
+  </text>
+</TEI>

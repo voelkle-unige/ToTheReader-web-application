@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ejusdem in interpretem, &amp; opus HEXASTICON.</title>
+           <author>S., E.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113658_Fr1_5_2</idno>
+           <idno type="DLPS">A08636</idno>
+           <idno type="STC">18947</idno>
+           <idno type="ESTC">S113658</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ejusdem in interpretem, &amp; opus HEXASTICON.</title>
+                 <author>S., E.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ovids heroical epistles, Englished by Iohn Sherburne. Gent</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 2</publisher>
+                    <distributor>Cooke, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>12, 144 pages, 1 leaf of plates, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Ejusdem in interpretem, &amp; opus HEXASTICON.</head>
+   <lg>
+      <l>
+         <hi>ANglia, quos meritis, ingrata negavit honores</hi>
+      </l>
+      <l>
+         <hi>Roma, iterum Publi, reddidit alma, tuis.</hi>
+      </l>
+      <l>
+         <hi>Ecce ut conversâ florent tua carmina linguâ!</hi>
+      </l>
+      <l>
+         <hi>Nec minus haec dederint, quam decus illa tibi.</hi>
+      </l>
+      <l>
+         <hi>Romanos fertur</hi> Cantare Britannia Versus:</l>
+      <l>
+         <hi>Discet at Angliacos Roma superba modos.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>E. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

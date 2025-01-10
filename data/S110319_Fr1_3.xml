@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader Salute.</title>
+           <author>Junior, Crispian de Passe</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110319_Fr1_3</idno>
+           <idno type="DLPS">A09144</idno>
+           <idno type="STC">19459</idno>
+           <idno type="ESTC">S110319</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader Salute.</title>
+                 <author>Junior, Crispian de Passe</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A garden of flovvers : vvherein very liuely is contained a true and perfect discription of al the flovvers contained in these foure followinge bookes. As also the perfect true manner of colouringe the same vvith theire naturall coloures ... All vvhich to the great charges and almost incredible laboure and paine, the diligent authore by foure yeares experience, hath very laboriously compiled, and most excellently performed, both in theire perfect lineaments in representing them in theire coper plates: as also after a most exquisite manner and methode in teachinge th practisioner te [sic] painte them even to the liffe. Faithfully and truely translated out of the Netherlandish originall into English for the comon benifite of those that vnderstand no other languages, and also for the benifite of others nevvly printed both in the Latine and French tongues all at the charges of the author</title>
+                 <author>Passe, Crispijn van de</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Utrecht</pubPlace>
+                    <date>1615</date>
+                 <publisher>Passe, Crispin 2 van de.</publisher>
+                            <publisher>Roy, Salomon de</publisher>
+                        </imprint>
+                 <extent>28, 4 pages, plates, oblong 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the Reader Salute.</head>
+   <p>FOr the avoydinge of all confusion, I haue thought it good. (gentle Reader) in this description of the Coloures, to follovv the order of the flovvers, like as they are noted and marked by theire Cypher or letter in this Booke, Follovvinge herein the tyme and season of the yeare. First begininge vvith those flovvers vv<seg rend="sup">ch</seg> are presented vnto vs in the springe tyme, in regard that by the Consent of all vvryters, it is placed as the begininge of the yeare, even as Nature it selffe teacheth vs the sa<g ref="char:EOLhyphen"/>me. For the Earth beinge burthened, then Laboureth and trauaileth daily to be deliuered of that Burthen of her marvailouse and admirable fruites, the vv<seg rend="sup">ch</seg> for a longe tyme had bene suppressed by the violence of the vvynters colde. Thereby addinge the greater delight to the vnderstandinge &amp; occuler aspection, by that vvonderfull and maruailous alteration and multiplicities of varieties, vv<seg rend="sup">ch</seg> therein may be observed. Intreatinge both the Courteouse readers and also the diligent practi<g ref="char:EOLhyphen"/>sioners acceptably to receaue and entertaine these my laboures, and profitably to make vse of them.</p>
+   <closer>
+      <salute>Fare vvell.</salute>
+      <dateline>
+         <hi>From Vtrecht</hi>
+         <date>
+            <hi>this 23.<seg rend="sup">th</seg> of Aprill 1614. Stilo magnae Brittaniae.</hi> Saint George's day.</date>
+      </dateline>
+      <signed>Youres in these or the like to doe you all Service. <hi>Crispian de passe Iunior.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

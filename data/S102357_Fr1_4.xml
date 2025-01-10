@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable Roger Earle of Rutland, &amp;c.</title>
+           <author>Birnie, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102357_Fr1_4</idno>
+           <idno type="DLPS">A00991</idno>
+           <idno type="STC">11098</idno>
+           <idno type="ESTC">S102357</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable Roger Earle of Rutland, &amp;c.</title>
+                 <author>Birnie, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A vvorlde of wordes, or Most copious, and exact dictionarie in Italian and English : collected by Iohn Florio</title>
+                 <author>Florio, John</author>
+                 <imprint>
+                    <publisher>Hatfield, Arnold</publisher>
+                    <distributor>Blount (Blunt), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>20, 462, 2 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="9"/>
+   <head>To the Right Honorable <hi>Roger</hi> Earle of Rutland, &amp;c.</head>
+   <l>In Italie your Lorship vvell hath seene</l>
+   <l>Their manners, monuments, magnificence,</l>
+   <l>Their language learn't in sound, in stile, in sence,</l>
+   <l>Proouing by profiting, where you haue beene;</l>
+   <l>Bemantling graue conceits in colours greene:</l>
+   <l>A Dictionarie yet, which might dispence</l>
+   <l>Of euery worde, the true intelligence</l>
+   <l>Of that toong, erst of toongs the Peerelesse-Queene</l>
+   <l>You saw not there: Now see and ioy the sight,</l>
+   <l>It matcht, and ore-matcht by an English mate:</l>
+   <l>That he, whom in good grace your Honor placeth,</l>
+   <l>Graced by you, may grace you with your right.</l>
+   <l>
+      <hi>"By ancient manners stood the Romane state;</hi>
+   </l>
+   <l>From th' ancient stock yong Manors England gra<g ref="char:EOLhyphen"/>ceth.</l>
+   <closer>
+      <signed>Il Candido.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

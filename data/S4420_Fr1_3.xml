@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4420_Fr1_3</idno>
+           <idno type="DLPS">A09869</idno>
+           <idno type="STC">20135.3</idno>
+           <idno type="ESTC">S4420</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>VVant of charitie iustly charged : on all such Romanists, as dare (without truth or modesty) affirme, that Protestancie destroyeth salvation. In answer to a late popish pamphlet intituled Charity mistaken &amp;c. By Christopher Potter D.D. chaplaine to his Maty in ordinary, and provost of Queenes Colledge in Oxford</title>
+                 <author>Potter, Christopher</author>
+                 <imprint>
+                    <publisher>Oxford University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>24, 128, 120 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <opener>
+      <salute>Reader,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>His Answer had beene pub<g ref="char:EOLhyphen"/>lique some Moneths agoe, if it had not beene delayed, partly by sicknesse, and the indisposition of my Body, (and of my Minde also, which was ever averse from Contentions in Divinity, and now rather desirous to spend in Devotion the few and evill dayes of my life that remaine:) and partly out of the hope I had to see a second Edition of the <hi>Mistakers Work,</hi> which the strong report of that Part pro<g ref="char:EOLhyphen"/>mised, or rather threatned. But that hope failing, and being loath to seeme to faile in my Observance, I now commend it (such as it is,) to the blessing of God, and to the use and judgement of the Church. My Answers, without further affectation, are true and modest: I speake to the Cause not to the Person.
+<pb facs="5"/>
+VVhosoever the Mistaker be, he hath my pitty and my prayers. He thinkes unwor<g ref="char:EOLhyphen"/>thily of Truth, that beleeves it to have need of our Passions. My desire is, all Personall Defects may be charged on my Selfe, none on the Cause. I haue not fol<g ref="char:EOLhyphen"/>lowed the Mistaker in all his wandrings. But let Him not take that for a pretext of clamour. For, if He will be ingenuous, He must confesse, that I have not omitted without Answer, any one thing of mo<g ref="char:EOLhyphen"/>ment in all his Discourse. Or, if He will not, Our <hi>Readers</hi> will confesse it, I have onely neglected his repetitions, declama<g ref="char:EOLhyphen"/>tory and injurious speeches, and the like impertinencies: which being set apart, the true Summary of the rest, is this that followes.</p>
+</div>
+        </body>
+  </text>
+</TEI>

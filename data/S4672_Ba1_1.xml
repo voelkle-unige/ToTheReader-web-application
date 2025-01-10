@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           <author>Falckenburgius, I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4672_Ba1_1</idno>
+           <idno type="DLPS">A00533</idno>
+           <idno type="STC">10674.3</idno>
+           <idno type="ESTC">S4672</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 <author>Falckenburgius, I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Iacobi à Falckenburgk, Germani, Casimirus, siue, De concertatione Eliæ cum Baalistis paraphrasis sacra : pro cultus solius Iehovæ viui defensione &amp; idololatriæ detestatione cupidiss, ad sereniss augustiss. q [uae] principem ac Dominam Dn. Elizabetham Angliæ, Franciæ &amp; Hiberni Reginam gloriosiss. fidei defensatricem opt. max. Dominam suam longè clementiss. : in secundos &amp; prosperrimos regiminis anni 21 incarnationis Christi 1579, auspicij, Maiestatem ipsius illustrissimo Palatino Rheni Iohanne Casimiro Duce Bauariæ, foeliciss. illo ex belli Belgici Castris accedente, &amp; aliquot Europæ procerum legatis de rebus Christianitatis grauissimis consultationum nomine apud eandem præsentibus successus, subiectionis humilimæ adeoq [ue] afflictorum commiserationis ergò F.D.P</title>
+                 <author>Falckenburg, Jakob</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 <publisher>Graphaeus, Richardus, pseud.</publisher>
+                            <publisher>Schilders (Grapheus, Painter), Richard</publisher>
+                        </imprint>
+                 <extent>14 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <p>His pro tempore breuiss. reliqua cum caeteris copiosius ad integrum tractatum reseruans, <hi>Autor,</hi> non animo diuagandi non furore er<g ref="char:EOLhyphen"/>roneo non scurrarum more nec scelere, sed spe opt. max. vltro libenter{que}, obitu C.S. fra<g ref="char:EOLhyphen"/>tris desiderio, Christiani nominis nomine, philosophiae sobriae studio, honoris, conscien<g ref="char:EOLhyphen"/>tiae{que} saluae amore, inconstantia, vi &amp; iniuria temporum huc &amp; in terram pace Religio<g ref="char:EOLhyphen"/>ne{que} beatiss. pulsus,</p>
+   <closer>
+      <signed>I. Falckenburgius.</signed>
+   </closer>
+   <pb facs="8"/>
+</div>
+        </body>
+  </text>
+</TEI>

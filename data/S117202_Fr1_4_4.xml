@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In hunc librum qui quinque exquisitissimos Tractatus continet, à R. SHELFORD summa cum cura elaboratos.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117202_Fr1_4_4</idno>
+           <idno type="DLPS">A12099</idno>
+           <idno type="STC">22400</idno>
+           <idno type="ESTC">S117202</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In hunc librum qui quinque exquisitissimos Tractatus continet, à R. SHELFORD summa cum cura elaboratos.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Five pious and learned discourses : 1. A sermon shewing how we ought to behave our selves in Gods house. 2. A sermon preferring holy charity before faith, hope, and knowledge. 3. A treatise shewing that Gods law, now qualified by the Gospel of Christ, is possible, and ought to be fulfilled of us in this life. 4. A treatise of the divine attributes. 5. A treatise shewing the Antichrist not to be yet come. By Robert Shelford of Ringsfield in Suffolk priest</title>
+                 <author>Shelford, Robert</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>12, 326, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="5"/>
+   <head>In hunc librum qui quinque exquisitissimos Tractatus continet, à R. SHELFORD summa cum cura elaboratos.</head>
+   <l>FElici liber hic prodeat alite,</l>
+   <l>Veri praesidio tutus inania</l>
+   <l>Vulgi praecipit is murmura rideat,</l>
+   <l>Nec curet rigidi fata supercilî:</l>
+   <l>Lectores habeat non animo leves,</l>
+   <l>Vel frontispicii quos fug at umbra, vel</l>
+   <l>Spectatum veniunt qui <note n="*" place="margin">Martial. lib. 2. Epigr. 6.</note>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <l>Lectores habeat judicio graves,</l>
+   <l>Non praejudicii quos malesana mens</l>
+   <l>Raptos turbine latura per invias</l>
+   <l>(Ignotas aliis &amp; sibi) sit vias.</l>
+   <l>Non hîc, quae metuat saxa Capharea</l>
+   <l>(Erroris scopuli) per mare turbidum</l>
+   <l>Incertis animi fluctibus appetens</l>
+   <l>Coelestem trepidus navita patriam.</l>
+   <l>Hîc sincera Patrum dogmata, veritas</l>
+   <l>Non fucata, suis nuda coloribus:</l>
+   <l>Hîc Templi decor, hîc unica numine</l>
+   <l>Summo relligio digna, per improbam</l>
+   <l>Gentis sacrilegae saepius (ô scelus!)</l>
+   <l>Subnervata fidem.—</l>
+   <l>Non neglecta Fides, spreta Scientia,</l>
+   <l>Spes calcata, trias nobilis, inclyta:</l>
+   <l>Quin hîc, ut decuit, regia Charitas</l>
+   <l>Primas obtinuit. Caetera non loquar,</l>
+   <l>Quae fundata sacris omnia literis,</l>
+   <l>Sustentata Patrum munific â manu,</l>
+   <l>Felici liber hic praebeat alite.</l>
+   <closer>
+      <signed>
+         <hi>Rich. Watson,</hi> Caio-Gon.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

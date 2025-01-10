@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115279_Ba1_4</idno>
+           <idno type="DLPS">A17298</idno>
+           <idno type="STC">4140.7</idno>
+           <idno type="ESTC">S115279</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A divine tragedie lately acted, or A collection of sundry memorable examples of Gods judgements upon Sabbath-breakers, and other like libertines, in their unlawfull sports, happening within the realme of England, in the compass only of two yeares last past, since the booke was published : worthy to be knowne and considered of all men, especially such, who are guilty of the sinne or arch-patrons thereof</title>
+                 <author>Burton, Henry</author>
+                 <imprint>
+                    <publisher>Stam, Jan Fredericksz</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>10, 46, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="29"/>
+   <q>
+      <bibl>Psal. 119. 120.</bibl>
+My flesh trembleth for feare of thee, and I am afraid of thy Iudgements.</q>
+   <q>
+      <bibl>Levit. 26. 27. 28.</bibl>
+      <p>And if ye will not for all this hearken unto me, but walke contray unto me:</p>
+      <p>Then I will walke contrary unto you also in fury, and I, even I will chastise you seven times more for you sinnes.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

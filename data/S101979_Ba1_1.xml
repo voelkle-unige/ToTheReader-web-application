@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Publisher'S Advertisement]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101979_Ba1_1</idno>
+           <idno type="DLPS">A00681</idno>
+           <idno type="STC">10815</idno>
+           <idno type="ESTC">S101979</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Publisher'S Advertisement]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The present state of the affaires betwixt the Emperor and King of Bohemia, and their confederates : as it hath beene very truely related, by certaine letters sent by persons of extraordinary qualitie, &amp;c. Together vvith the occurrents lately happened in the armies of Generall Veere, and the princes of the Vnion, and Spinola. Translated out of the French, and High Dutch coppies</title>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>2, 22, 16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publishers_advertisement">
+   <pb facs="21"/>
+   <p>AN ANSWERE TO THE QVESTION: Whether the Emperour that now is, can bee Iudge in the BOHEMIAN Controuersie or no?</p>
+   <p>
+      <hi>Together with the Extract taken out of</hi> the Acts of the Dyet at Auspurghe, in the yeare 1584: Concerning the Kingdome of <hi>Bohemia.</hi>
+   </p>
+   <p>M.D.C.XX.</p>
+</div>
+        </body>
+  </text>
+</TEI>

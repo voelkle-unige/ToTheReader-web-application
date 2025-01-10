@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courtious and friendle.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106218_Fr1_3</idno>
+           <idno type="DLPS">A14821</idno>
+           <idno type="STC">25118</idno>
+           <idno type="ESTC">S106218</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courtious and friendle.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An ould facioned love. Or a loue of the ould facion : By I.T. gent</title>
+                 <author>Watson, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 <publisher>Mattes, William.</publisher>
+                            <publisher>Short, Peter</publisher>
+                        </imprint>
+                 <extent>6, 39, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the courtious and friendl<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>e.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Fter many cunning and well
+penned poems, you may par<g ref="char:EOLhyphen"/>haps
+maruell (gentlemen)
+what follie, or rather fu<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ie
+should draw mee to diuulge
+this poore pastor all conceipte: The truth is,
+that perusing (at idle howers) the author of
+<hi>Amintas</hi> ioyes, I found it in latine, a pas<g ref="char:EOLhyphen"/>sion
+much answerable to my purpose both for
+the matter and manner, and for the apt dis<g ref="char:EOLhyphen"/>couery
+of honest plaine meaning affection, not
+vnpleasāt nor vnmeete to be clothed with an
+English suit as well as others of like nature
+and condition, whose translations remaine to
+<pb facs="4"/>
+their praise though my selfe neither seeke nor
+deserue, standing rather to intreat your par<g ref="char:EOLhyphen"/>dons
+then to hope for praise. If ought be to
+your liking I reioyce: if ought amisse, attribut
+it to youth as not stepped to the place of sound
+iudgement: or if you determine otherwise, I
+leaue my selfe and it, to your fauorable cen<g ref="char:EOLhyphen"/>sures,
+praying yet that you will please to mea<g ref="char:EOLhyphen"/>sure
+the matter according to the mind of the
+author which in all intention is faultles.</p>
+   <closer>Fare you well.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

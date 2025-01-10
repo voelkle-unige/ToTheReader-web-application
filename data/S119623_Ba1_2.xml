@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In the Text.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119623_Ba1_2</idno>
+           <idno type="DLPS">A68832</idno>
+           <idno type="STC">24508.5</idno>
+           <idno type="ESTC">S119623</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In the Text.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe vievve of the weake grounds of popery : as it was propounded to D. Norrice, priest, by T.V. gent: and returned without answere</title>
+                 <author>Udall, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Cooke, Matthew.</publisher>
+                            <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Macham, Samuel 1</publisher>
+                        </imprint>
+                 <extent>24, 101, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="67"/>
+   <p>LEt me request thee, Courteous reader, to take no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ice, that the Texts of Scripture, and testi<g ref="char:EOLhyphen"/>monies of the Fathers (cited by me in this Trea<g ref="char:EOLhyphen"/>tise) should all haue been set downe in a different letter, from the rest of the matter wherewith they are ranked; accordingly as you see performed in the Preface, and in the later halfe of the booke. Now, by meanes of my absence, and want of di<g ref="char:EOLhyphen"/>rection giuen, in this point, it could not be discer<g ref="char:EOLhyphen"/>ned by the Printer, howe farre the wordes of the Text and Testimonies (so to bee distinguished) might reach. And therefore I cannot but free him from that blame; as likewise (<hi>2.</hi> or <hi>3.</hi> literal escapes only excepted) from imputation of any the faults hereunder specified: some of them being commit<g ref="char:EOLhyphen"/>ted, in my Copie; and the rest, through difficulty and darknes of the hand, might easily be mistaken.</p>
+   <div type="part">
+      <head>In the Text.</head>
+      <p>Page 5. line 7. for, allured: reade allowed. pag. 8. l. 17. Trations, Traditions. p. 11, l. 19. Priests: proofe. p. 29. l. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>6. addeth: alleageth. p. 29. l. 17. tehimony: testimony p. 31. l. 2. for, 25: 15. p. 33. l. 7. fault: fable. p. 40. l. 9. ch<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ice: chiefe. p. 72. l. 8. cannot: which can<g ref="char:EOLhyphen"/>not. p. 89. l. 1. sense: the sense.</p>
+   </div>
+   <div type="part">
+      <head>In the Margent.</head>
+      <p>
+         <hi>Pag.</hi> 7. for, De Bapt. c. 6. li. 1. reade, De Bapt. cont. Don. li. 3. <hi>pag.</hi> 7. prat. <hi>reade</hi> pont. <hi>pag.</hi> 8. 1. Thes. 2. Thes. <hi>pag.</hi> 12. 1. Pet. 2.18. 1. Pet. 1.18. <hi>pag.</hi> 20. Aug. in Frut. Aug. in Enar. <hi>pag.</hi> 14. de fulta: de falsa. <hi>pag.</hi> 35. li. 1. cap. 22. li 1. cap 23. <hi>pag.</hi> 36. Tim. Tit. <hi>pag.</hi> 52. Epist. 16, 7. Epist. 167. <hi>pag.</hi> 59. (against Pope <hi>Coelestine</hi>) C. laudab. de con<g ref="char:EOLhyphen"/>uers. Infidel, <hi>is omitted.</hi>
+      </p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104709_Fr1_3</idno>
+           <idno type="DLPS">A16733</idno>
+           <idno type="STC">3635</idno>
+           <idno type="ESTC">S104709</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Characters vpon essaies morall, and diuine : written for those good spirits, that will take them in good part, and make vse of them to good purpose</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Gwillim, John</publisher>
+                        </imprint>
+                 <extent>62 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>EAD what you list, and vnderstand what you can: Characters are not euery mans construction, though they be writ in our mother tongue: and what I haue written, being of no other nature, if they fit not your hu<g ref="char:EOLhyphen"/>mor, they may please a better: I make no comparison, because I know you not, but if you will vouchsafe to looke into them, it may bee you may finde something in them; their na<g ref="char:EOLhyphen"/>tures are diuers, as you may see, if your eyes bee open, and if you can make vse of them to good purpose,
+<pb facs="7"/>
+your wits may prooue the better: In briefe, fearing the foole will bee put vpon me, for being too busie with matters too farre aboue my vnder<g ref="char:EOLhyphen"/>standing, I will leaue my imperfe<g ref="char:EOLhyphen"/>ction to pardon, or correction, and my labour to their liking, that will not thinke ill of a well meaning: and so rest</p>
+   <closer>
+      <signed>Your well-willing friend, <hi>N.B.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

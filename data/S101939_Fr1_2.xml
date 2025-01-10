@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the RIGHT HONORABLE ROBERT Earle of Warwicke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101939_Fr1_2</idno>
+           <idno type="DLPS">A00643</idno>
+           <idno type="STC">10779</idno>
+           <idno type="ESTC">S101939</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the RIGHT HONORABLE ROBERT Earle of Warwicke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The souls looking-glasse : lively representing its estate before God: with a treatise of conscience; wherein the definitions and distinctions thereof are unfolded, and severall cases resolved: by that reverend and faithfull minister of the Word, William Fenner, B.D. sometimes fellow of Pembroke-hall in Cambridge, and late parson of Rochford in Essex</title>
+                 <author>Fenner, William</author>
+                 <imprint>
+                    <distributor>Rothwell, John 2</distributor>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1640</date>
+                 <publisher>Daniel, Roger.</publisher>
+                            <publisher>Eliot’s Court Press</publisher>
+                        </imprint>
+                 <extent>22, 323, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the RIGHT HONORABLE ROBERT Earle of <hi>Warwicke.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">T</seg>He late wife of the de<g ref="char:EOLhyphen"/>ceased, in thankfull acknowledgment of your Lordships ma<g ref="char:EOLhyphen"/>ny favours to her deare husband, humbly presents this small treatise.</p>
+</div>
+        </body>
+  </text>
+</TEI>

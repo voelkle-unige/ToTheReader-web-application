@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Another.</title>
+           <author>B., Z.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S881_Fr1_5</idno>
+           <idno type="DLPS">A16539</idno>
+           <idno type="STC">3447</idno>
+           <idno type="ESTC">S881</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Another.</title>
+                 <author>B., Z.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The last battell of the soule in death : diuided into eight co [n] ferences. ... VVhereby are showne the diuerse skirmishes that are betweene the soule of man on his death-bedde, and the enemies of our saluation. Carefullie digested for the comfort of the sicke: by Mr. Zacharie Boyd, preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>2 volumes (22, 747, 1, 38, 748-1270, 3 pages), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Another.</head>
+   <lg>
+      <l>This Life O <hi>Prince</hi> is like an raging Sea,</l>
+      <l>Where froathy mounts are heaued vp on hie:</l>
+      <l>Our painted Ioys in blinks that are ful warme</l>
+      <l>Are like <hi>Raine-bowes</hi> forerunners of a storme:</l>
+      <l>All flesh with griefe is prickt within without.</l>
+      <l>Crownes carie cares and compasse them about.</l>
+      <l>Your State is great, your place is high: What then?</l>
+      <l>God calls you gods, but ye shall die like men.</l>
+   </lg>
+   <closer>
+      <signed>Your Majesties most hum<g ref="char:EOLhyphen"/>ble and most obedient Sub<g ref="char:EOLhyphen"/>ject &amp; Seruant, <hi>M. Z. B.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

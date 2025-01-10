@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SEQVENTIA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115985_Fr1_6_3</idno>
+           <idno type="DLPS">A10829</idno>
+           <idno type="STC">21102</idno>
+           <idno type="ESTC">S115985</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SEQVENTIA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The admirable life of Saint VVenefride virgin, martyr, abbesse. Written in Latin aboue 500. yeares ago, by Robert, monke and priour of Shrewsbury, of the ven. Order of S. Benedict. Deuided into two bookes. And now translated into English, out of a very ancient and authenticall manuscript, for the edification and comfort of Catholikes. By I.F. of the Society of Iesus</title>
+                 <author>Robert, Prior of Shrewsbury</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>34, 275, 13 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="sequence">
+   <pb facs="14"/>
+   <head>SEQVENTIA.</head>
+   <lg>
+      <l>VIrgo vernans velut Rosa,</l>
+      <l>Agni Sponsa speciosa,</l>
+      <l>Martyr Christi pretiosa,</l>
+      <l>
+         <hi>Wenefreda</hi> floruit.</l>
+   </lg>
+   <lg>
+      <l>Ex Britannis oriunda,</l>
+      <l>Fide firma, spe iocunda,</l>
+      <l>Actu sancta, mente munda,</l>
+      <l>Mundi mendâ caruit.</l>
+   </lg>
+   <lg>
+      <l>Hanc occidit <hi>Carodocus,</hi>
+      </l>
+      <l>Quem mox sorbet Orci focus,</l>
+      <l>Qui prauorum extat locus,</l>
+      <l>Quo Sathan exuitur.</l>
+   </lg>
+   <lg>
+      <l>Huius argumento rei,</l>
+      <l>
+         <hi>Fons</hi> ebullit nutu Dei,</l>
+      <l>Rubricatae speciei,</l>
+      <l>Quo caput praeciditur.</l>
+   </lg>
+   <lg>
+      <l>Mira multa hic patrantur,</l>
+      <l>Caeci vident, muti fantur,</l>
+      <l>Morbi omnes effugantur.</l>
+      <l>Cum fide petentium.</l>
+   </lg>
+   <lg>
+      <l>Gloriosa <hi>Wenefreda,</hi>
+      </l>
+      <l>Maris fluctus nobis seda,</l>
+      <l>Ne fiamus hosti praeda,</l>
+      <l>Pia fer praesidium▪ Amen.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Amicum Ioannem Parkinsonum Pharmacopaeum, &amp; Archibotanicum Londinensem.</title>
+           <author>Brodus, Guilielmus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115360_Fr1_7</idno>
+           <idno type="DLPS">A09010</idno>
+           <idno type="STC">19300</idno>
+           <idno type="ESTC">S115360</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Amicum Ioannem Parkinsonum Pharmacopaeum, &amp; Archibotanicum Londinensem.</title>
+                 <author>Brodus, Guilielmus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Paradisi in sole paradisus terrestris. or A garden of all sorts of pleasant flowers which our English ayre will permitt to be noursed vp : with a kitchen garden of all manner of herbes, rootes, &amp; fruites, for meate or sause vsed with vs, and an orchard of all sorte of fruitbearing trees and shrubbes fit for our land together with the right orderinge planting &amp; preseruing of them and their vses &amp; vertues collected by Iohn Parkinson apothecary of London 1629</title>
+                 <author>Parkinson, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>12, 612, 16 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="William Brodus" type="encomium">
+   <pb facs="6"/>
+   <head>Ad Amicum <hi>Ioannem Parkinsonum</hi> Pharmacopaeum, &amp; Archibotanicum Londinensem.</head>
+   <l>
+      <seg rend="decorInit">A</seg>Frica quas profert Plantas, quas India mittit,</l>
+   <l>Quas tua dat tellus, has tuus hortus habet:</l>
+   <l>Atque harum Species, florendi tempora, vires,</l>
+   <l>Et varias formas iste libellus habet:</l>
+   <l>Nescio plus librum talem mirabor, an hortum</l>
+   <l>Totus inest horto mundus; at iste libro.</l>
+   <l>
+      <hi>Parkinsone</hi> tuus liber, &amp; labor, &amp; tua sit laus,</l>
+   <l>Herbas dum nobis das; datur herba tibi.</l>
+   <closer>
+      <signed>Guilielmus Brodus Pharmacopaeus ac Philobotanicus Londinensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

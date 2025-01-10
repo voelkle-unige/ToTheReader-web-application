@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113439_Fr1_3</idno>
+           <idno type="DLPS">A02883</idno>
+           <idno type="STC">13022</idno>
+           <idno type="ESTC">S113439</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The seconde parte of the Domesticall or housholde sermons : for a godly housholder to his childre [n] and familie: compyled by the godly learned man Christopher Hegendorffine, doctor most necessarye for all faythefull housholders: now first translated out of laten in to English by Henry Reiginalde [sic]</title>
+                 <author>Hegendorph, Christoph</author>
+                 <imprint>
+                    <publisher>Oswen, John</publisher>
+                    <pubPlace>Great Britain--England--Worcester</pubPlace>
+                    <date>1549</date>
+                 </imprint>
+                 <extent>80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <p>The first and second sermon of the belief, be prynted in the first parte.</p>
+</div>
+        </body>
+  </text>
+</TEI>

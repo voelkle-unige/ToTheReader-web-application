@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Elogium in Theatrum Botanicum Iohannis Parkinsoni</title>
+           <author>Mauritius, Johannes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121875_Fr1_5_7</idno>
+           <idno type="DLPS">A09011</idno>
+           <idno type="STC">19302</idno>
+           <idno type="ESTC">S121875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Elogium in Theatrum Botanicum Iohannis Parkinsoni</title>
+                 <author>Mauritius, Johannes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Theatrum botanicum: The theater of plants. Or, An herball of a large extent : containing therein a more ample and exact history and declaration of the physicall herbs and plants that are in other authours, encreased by the accesse of many hundreds of new, rare, and strange plants from all the parts of the world, with sundry gummes, and other physicall materials, than hath beene hitherto published by any before; and a most large demonstration of their natures and vertues. Shevving vvithall the many errors, differences, and oversights of sundry authors that have formerly written of them; and a certaine confidence, or most probable conjecture of the true and genuine herbes and plants. Distributed into sundry classes or tribes, for the more easie knowledge of the many herbes of one nature and property, with the chiefe notes of Dr. Lobel, Dr. Bonham, and others inserted therein. Collected by the many yeares travaile, industry, and experience in this subject, by Iohn Parkinson apothecary of London, and the Kings herbarist. And published by the Kings Majestyes especiall priviledge</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 1652, 1663-1755, 3 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>Elogium in Theatrum Botanicum Iohannis Parkinsoni</head>
+   <l>NE amplius nobis indet Cratevam, Andream, Dioscoridem</l>
+   <l>Graecia, sua, suosque tantum mirari solita;</l>
+   <l>Ecce, ex ultimo Occidente,</l>
+   <l>Et penitus toto divisis òrbe <hi>Britannis,</hi>
+   </l>
+   <l>Exoritur nobis jam diu ex optatus</l>
+   <l>Sol alter <hi>Botanicorum,</hi>
+   </l>
+   <l>Qui alios omnes luce sua praestrinxit,</l>
+   <l>Et, tanquam nanus humeris gigant e<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> sublatus,</l>
+   <l>Plus aliis vidit:</l>
+   <l>Nec id orbi literato in oide<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>,</l>
+   <l>Meliore omnia ordine, methodoque accuratiore digessit,</l>
+   <l>Quaeque alii strictim, sparsimque, in unum congessit,</l>
+   <l>Tibique, Lector, uno intuitu</l>
+   <l>Spectanda proposuit,</l>
+   <l>Itaque disposuit,</l>
+   <l>Ʋt, quae mole usuque maxima sint,</l>
+   <l>Ordine &amp; methodo quasi modica allubescant.</l>
+   <l>Sileat aetas avorum, nostraque,</l>
+   <l>Tragum, Matthiolum, Fuchsium, Gesnerum, Dodonaeum, Lobelium,</l>
+   <l>Alios item quotcumque, qualescunque;</l>
+   <l>Vnus jnstar omnium <hi>Parkinsonus,</hi>
+   </l>
+   <l>Columna <hi>Britannicus,</hi> cui vere inscribas licet</l>
+   <l>Nil ultra.</l>
+   <l>Jn quem felice &amp; perquam rara <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <l>Tam veterum, quam recentium omnium Botanicorum animum in unum commigrasse jures.</l>
+   <l>Hoc operi landis vectigal,</l>
+   <l>Autori amicitiae tesseram,</l>
+   <l>Et cultus testimonium,</l>
+   <l>Non tam amori, quam veritati obsequens</l>
+   <l>Persolvit. <hi>L. M.</hi>
+   </l>
+   <closer>
+      <signed>Iohannes Mauritius.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

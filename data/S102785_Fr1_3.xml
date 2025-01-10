@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>GVALTERVS HADDONVS Cantabrigiensis, Legum Doctor.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1551</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102785_Fr1_3</idno>
+           <idno type="DLPS">A15542</idno>
+           <idno type="STC">25809</idno>
+           <idno type="ESTC">S102785</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>GVALTERVS HADDONVS Cantabrigiensis, Legum Doctor.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The rule of reason, conteinyng the arte of logique, set forth in Englishe, by Thomas Vuilson</title>
+                 <author>Wilson, Thomas</author>
+                 <imprint>
+                    <publisher>Grafton, Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1551</date>
+                 </imprint>
+                 <extent>336 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="9"/>
+   <head>GVALTERVS HADDONVS Cantabrigiensis, Legum Doctor.</head>
+   <l>Grammatice, lingua nos est affata Britanna,</l>
+   <l>Curreret ut Latiis lingua Latina rotis.</l>
+   <l>Nunc <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>enit, &amp; nostris se uocibus ef<g ref="char:EOLhyphen"/>fert,</l>
+   <l>Vt ratio nostros possit habere sonos<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Ant<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>, peregrinis linguis instructa fuisti</l>
+   <l>Anglia, nunc propria discere uoce potes.</l>
+   <l>Grāmaticen laudant omnes, quia uerba poliuit:</l>
+   <l>Qualis erit <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> nos ratione regens?</l>
+   <l>Attulit hàc, nostras Thomas wilsonus ad aures</l>
+   <l>Vtilis &amp; patriae sic suit ille suae.</l>
+   <pb facs="9"/>
+</div>
+        </body>
+  </text>
+</TEI>

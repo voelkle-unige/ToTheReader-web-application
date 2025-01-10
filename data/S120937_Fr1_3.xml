@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous, not captious Reader, health.</title>
+           <author>V., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120937_Fr1_3</idno>
+           <idno type="DLPS">A14334</idno>
+           <idno type="STC">24649</idno>
+           <idno type="ESTC">S120937</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous, not captious Reader, health.</title>
+                 <author>V., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The beame of brightnesse. Or The three faire sisters of Christendome : Containing: a disputation betweene the three famous citties in Europe. Viz. Venice, Paris and London, with their differences. Composed by William Venner, gentleman</title>
+                 <author>Fennor, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Wright, John 1</publisher>
+                        </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the courteous, not captious Reader, health.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Make no doubt, but there are many of my countrymen which haue seene the beautie and riches both of Paris and Venice, who may happily blame me for my breefe description. But gentle rea<g ref="char:EOLhyphen"/>der I answere it thus, I could Willing<g ref="char:EOLhyphen"/>ly haue giuen them a larger praise, had their merrit beene equall with <hi>Londons:</hi> And this moreouer I desire those which shall mislike my Labour to mend it, and none shall be more willing and ready to applaude them then my selfe. I haue begun the foundation, if any please to build vppon it, I shall thanke him for beautyfiing my rough building, But hoping they will iudge of me, as I would doe of them in this case, I leaue it to their mildest and most fauourable censure.</p>
+   <closer>
+      <signed>Your friend, VV. V.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

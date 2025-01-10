@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>HENRICVS PRINCEPS</title>
+           <author>Browne, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1372_Fr1_2</idno>
+           <idno type="DLPS">A13454</idno>
+           <idno type="STC">23760.5</idno>
+           <idno type="ESTC">S1372</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>HENRICVS PRINCEPS</title>
+                 <author>Browne, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Great Britaine, all in blacke : for the incomparable losse of Henry, our late worthy prince / by John Taylor</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Wright, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>24 pages, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <p>
+      <pb facs="2"/>
+      <figure>
+</figure>
+   </p>
+   <p>
+      <pb facs="2"/>
+      <figure>
+         <head>HENRICVS PRINCEPS</head>
+      </figure>
+   </p>
+   <lg>
+      <l>SEe here the portraite of that matcheles wight</l>
+      <l>Whose valour paralel'd the God of fight:</l>
+      <l>At Tilt, at Barriers, both with sword and speare</l>
+      <l>He made his hopefull prowesse oft apeare:</l>
+      <l>His shadow's here, the world his substance misses</l>
+      <l>That was this Isles <hi>Achilles</hi> and <hi>Vlisses.</hi>
+      </l>
+      <l>His soul's inthroan'd aboue Heauen's spangled frame,</l>
+      <l>And earth's adorn'd with his resounding fame.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

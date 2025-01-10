@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101472_Ba1_1</idno>
+           <idno type="DLPS">A07868</idno>
+           <idno type="STC">1824</idno>
+           <idno type="ESTC">S101472</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Iesuites antepast : conteining, a reply against a pretensed aunswere to the Downe-fall of poperie, lately published by a masked Iesuite Robert Parsons by name, though he hide himselfe couertly vnder the letters of S.R. which may fitly be interpreted (a sawcy rebell.)</title>
+                 <author>Bell, Thomas</author>
+                 <imprint>
+                    <publisher>Jaggard, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>8, 184, 193-224, 229-231, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>GEntle Reader by reason of the Authors absence and
+mis-vnderstanding the Copy in the 49. page, these
+two lines are thus rightly to be corrected. <hi>Ex conclusione
+posita, &amp; probationibus, quae à patre à Castro affirmantur, colli<g ref="char:EOLhyphen"/>gitur,
+cautè legendum esse Caietanum dicentem, &amp;c.</hi>
+   </p>
+   <pb facs="119"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="119"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="120"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="120"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

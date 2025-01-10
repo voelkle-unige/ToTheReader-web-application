@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Preface]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1538</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108752_Bo1_1</idno>
+           <idno type="DLPS">A22780</idno>
+           <idno type="STC">9290</idno>
+           <idno type="ESTC">S108752</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Preface]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Institutions in the lawes of Englande : cum priuilegio</title>
+                 <imprint>
+                    <publisher>Byddell, alias Salisbury, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1538</date>
+                 </imprint>
+                 <extent>110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">T</seg>He lawe is the ministra<g ref="char:EOLhyphen"/>cion
+of iustice / and iustice
+is a constante and aper<g ref="char:EOLhyphen"/>manent
+mynde &amp; wyll to
+render vnto euery {per}sone his ryght
+and dutye. The prudencye of lawe
+is a knowlege of diuyne &amp; humane
+thynges / a science and perfyte no<g ref="char:EOLhyphen"/>tice
+of equite and iniquite / of rygh<g ref="char:EOLhyphen"/>tuousnes
+and vnryghtuousnes.</p>
+   <p>And forasmoch as a great porcion
+of the prudencye of y<seg rend="sup">e</seg> lawes of this
+realme cōsisteth in the {per}fyte know<g ref="char:EOLhyphen"/>lege
+of estates, in landes and tene<g ref="char:EOLhyphen"/>mentes:
+we shall fyrst as compen<g ref="char:EOLhyphen"/>diously,
+and as simply and playnly
+as we can treate of estates.</p>
+</div>
+        </body>
+  </text>
+</TEI>

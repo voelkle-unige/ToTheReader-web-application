@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100244_Fr1_4</idno>
+           <idno type="DLPS">A21681</idno>
+           <idno type="STC">799</idno>
+           <idno type="ESTC">S100244</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The seduction of Arthington by Hacket especiallie : with some tokens of his vnfained repentance and submission. Written by the said Henrie Arthington, the third person, in that wofull tragedie</title>
+                 <author>H. A. (Henry Arthington)</author>
+                 <imprint>
+                    <publisher>Bourne, Robert</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 </imprint>
+                 <extent>8, 63, 9 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <opener>
+      <salute>To the vvell disposed Reader, <hi>The peace of a good Consci<g ref="char:EOLhyphen"/>ence.</hi> {etc}.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, I am to giue thee to vnderstand, that the Epistle before, and the booke following, were both perused and allowed by authoritie: and after sent mee agayne to examine, that I might see and testifie what vpright dealing I found therein. In verie trueth, I finde nothing in substance added to the originall, but certaine wordes and sentences chan<g ref="char:EOLhyphen"/>ged for the better. The rest (I protest) is mine owne do<g ref="char:EOLhyphen"/>inges, as I was directed by the spirite of God: concer<g ref="char:EOLhyphen"/>ning the which worke, I doe onely craue thus much: that thou wilt take some time to peruse the same, And if God perswade thy hart, that I haue delt faithful<g ref="char:EOLhyphen"/>ly in displaying hys mercies and mine owne vnwor<g ref="char:EOLhyphen"/>thines; that thou wilt not forget to sound out his prai<g ref="char:EOLhyphen"/>ses, and further to intreate hys almightie Maiestie, euen still to preserue hys vnworthiest seruaunt, that my life and deathe may redound to hys glorie so much as is possible, by giuing foorth testimonies of vnseyned repentance, dayly more and more.</p>
+   <p>The verie speciall ende, why the Lord God doth
+<pb facs="4"/>
+spare and prolong my life, concluding with this wor<g ref="char:EOLhyphen"/>thie sentence of saint <hi>Paule,</hi> (which I may with com<g ref="char:EOLhyphen"/>fort and a good conscience iustifie, so long as I liue) <hi>viz. That Christ Iesus came into this world to saue sinners,</hi>
+      <note n="a" place="margin">1. Tim. 1.15.</note>
+      <hi>of whome, (I am chiefe)</hi> beseech<g ref="char:EOLhyphen"/>ing his goodnesse, that (as my fearefull fall, may be a warning to all people, to beware and auoyd the practi<g ref="char:EOLhyphen"/>ses of <hi>Satan</hi>) So my true repentance may giue a good example for euerie one to imitate. And so I commend thy desires and indeuours vnto his moste gratious di<g ref="char:EOLhyphen"/>rection and blessing, who is able and willing to helpe all suche as call vppon his name in spirite, and in trueth, Amen.</p>
+   <closer>
+      <signed>
+         <hi>Thy poore welwiller, vnwor<g ref="char:EOLhyphen"/>thy the name of</hi> thy brother in Christ. <hi>Henry Arthington,</hi> Prisoner.</signed>
+   </closer>
+   <trailer type="illustration">
+      <figure>
+         <figDesc>stylized lion</figDesc>
+      </figure>
+   </trailer>
+</div>
+        </body>
+  </text>
+</TEI>

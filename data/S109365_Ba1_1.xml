@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109365_Ba1_1</idno>
+           <idno type="DLPS">B14290</idno>
+           <idno type="STC">14781</idno>
+           <idno type="ESTC">S109365</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Poetaster or The arraignment : as it hath beene sundry times priuately acted in the Blacke Friers, by the children of her Maiesties Chappell. Composed, by Ben. Iohnson</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <publisher>Bradock, Richard</publisher>
+                    <distributor>Lownes, Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>98 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="54"/>
+   <head>❧ To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">H</seg>ERE (Reader) in place of the</hi> E<g ref="char:EOLhyphen"/>pilogue, <hi>was meant to thee an</hi> A<g ref="char:EOLhyphen"/>pology <hi>from the Author, with his reasons for the publishing of this booke: but (since he is no lesse restrain'd, then thou depriu'd of it, by Authoritie) hee praies thee to thinke charitably of what thou hast read, till thou maist heare him speake what hee hath written.</hi>
+   </p>
+   <trailer>FINIS.</trailer>
+   <pb facs="54"/>
+</div>
+        </body>
+  </text>
+</TEI>

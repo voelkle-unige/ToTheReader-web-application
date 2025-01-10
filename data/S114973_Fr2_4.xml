@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ADMONITIO
+ad lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114973_Fr2_4</idno>
+           <idno type="DLPS">A09845</idno>
+           <idno type="STC">20109</idno>
+           <idno type="ESTC">S114973</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ADMONITIO
+ad lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pontici Virvnnii viri doctissimi Britannicæ historiæ libri sex : magna et fide et diligentia conscripti: ad Britannici codicis fidem correcti, &amp; ab infinitis mendis liberati: quibus præfixus est catalogus regum Britanniæ: per Dauidem Pouelum, S. Theolog. professorem</title>
+                 <author>Geoffrey, of Monmouth, Bishop of St. Asaph</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 <publisher>Bollifant, alias Carpenter, Edmund.</publisher>
+                            <publisher>Denham, Henry.</publisher>
+                            <publisher>Newbery (Nuberie), Ralph</publisher>
+                        </imprint>
+                 <extent>14, 284, 6 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="56" facs="36"/>
+   <head>ADMONITIO
+ad lectorem.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Oc te vnum (humanissime lec<g ref="char:EOLhyphen"/>tor)
+admonitum esse velim: in
+hoc authore aedendo mihi ali<g ref="char:EOLhyphen"/>quando
+consultum fuisse, fabu<g ref="char:EOLhyphen"/>las
+omnes, &amp; absurda miracula, ad sacrifi<g ref="char:EOLhyphen"/>corum
+auaritiam conficta, penitus reseca<g ref="char:EOLhyphen"/>re:
+Verùm cùm amicos hac de re consulu<g ref="char:EOLhyphen"/>issem,
+vna voce omnes clamitant, meum
+illud propositum ab antiqua fide longè a<g ref="char:EOLhyphen"/>lienum
+esse, eáque ratione quám plurimos
+fore, qui authorem à me mutilatum atque
+diminutum esse iure quererentur. Vnde
+prudentiori eorum consilio acquiescens, sa<g ref="char:EOLhyphen"/>tius
+esse duxi illum integrum cum omnibus
+suis <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in lucem emittere, quàm fidem
+violare: praesertìm cùm intelligerem, veri<g ref="char:EOLhyphen"/>tatis
+aduersarios his suis ridiculosis &amp; ab<g ref="char:EOLhyphen"/>surdis
+fabulis (quas pro vero Christi
+euangelio populo obtrudere
+conantur) redargui, &amp; su<g ref="char:EOLhyphen"/>is
+proprijs quasi te<g ref="char:EOLhyphen"/>lis
+confici.</p>
+</div>
+        </body>
+  </text>
+</TEI>

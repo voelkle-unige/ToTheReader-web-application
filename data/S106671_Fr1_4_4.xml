@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Authoris .</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1559</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106671_Fr1_4_4</idno>
+           <idno type="DLPS">A19700</idno>
+           <idno type="STC">6119</idno>
+           <idno type="ESTC">S106671</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Authoris .</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cosmographical glasse : conteinyng the pleasant principles of cosmographie, geographie, hydrographie, or nauigation. Compiled by VVilliam Cuningham Doctor in Physicke</title>
+                 <author>Cuningham, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1559</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>Day, John 1.</publisher>
+                            <publisher>Day, John 1.</publisher>
+                            <publisher>Stationers’ Company, London</publisher>
+                        </imprint>
+                 <extent>12, 202, 10 pages, 2 folded leaves of plates, illustrations, portraits, maps, table, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Authoris <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>Vis Terrae Tractus? Pelagi vis noscere fluxus?</l>
+   <l>Hoc tibi descripsi (candide lector) opus.</l>
+</div>
+        </body>
+  </text>
+</TEI>

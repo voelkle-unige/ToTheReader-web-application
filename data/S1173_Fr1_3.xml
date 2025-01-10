@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the deuout READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1173_Fr1_3</idno>
+           <idno type="DLPS">A05817</idno>
+           <idno type="STC">1602</idno>
+           <idno type="ESTC">S1173</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the deuout READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The practise of pietie : directing a Christian how to walke that he may please God</title>
+                 <author>Bayly, Lewis</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Hodgets, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>36, 1031, 1 page</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="13"/>
+   <pb facs="13"/>
+   <head>To the deuout READER.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Had not pur<g ref="char:EOLhyphen"/>posed to en<g ref="char:EOLhyphen"/>large the <hi>last Edition,</hi> saue that the <hi>importunitie</hi> of many <hi>deuoutly</hi> disposed, preuailed with mee, to <hi>adde</hi> some points, and to <hi>amplifie</hi> others. To satisfie whose godly requests, I haue done my best <hi>inde<g ref="char:EOLhyphen"/>uour</hi>: and with all <hi>finished</hi>
+      <pb facs="14"/>
+all that I entend in this <hi>argument.</hi> If thou shalt hereby reape any more <hi>profit,</hi> giue God the more <hi>praise</hi>: and remember him in thy <hi>Prayers,</hi> who hath vowed both his <hi>life</hi> and his <hi>labours</hi> to further <hi>thy saluation</hi> as his <hi>owne.</hi> Farewell in the <hi>Lord Iesus.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114520_Fr1_2</idno>
+           <idno type="DLPS">A19613</idno>
+           <idno type="STC">6045</idno>
+           <idno type="ESTC">S114520</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>To his sacred maiestie, the lords spiritual, and temporal, and the House of Commons in this present Parliament assembled</title>
+                 <author>Crokey, Benjamin</author>
+                 <imprint>
+                    <publisher>Alsop, Bernard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <p>
+      <hi>Crokey</hi> being sorie if hee shall offend by the tedi<g ref="char:EOLhyphen"/>ousnesse hereof, a more briefe then which, he knew not how to compose, considering the so long, so many and vexatious Suites wrongfully prosecuted against him; And in that <hi>Crokey</hi> hath in many pla<g ref="char:EOLhyphen"/>ces referred one place to another, according to the Sections and proofes, he hath done it the better to explaine and giue light to euery particular, which otherwise might have rested doubtful and obscure to the Reader.</p>
+</div>
+        </body>
+  </text>
+</TEI>

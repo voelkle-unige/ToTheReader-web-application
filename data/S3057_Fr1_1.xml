@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer t Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3057_Fr1_1</idno>
+           <idno type="DLPS">A06307</idno>
+           <idno type="STC">16779.12</idno>
+           <idno type="ESTC">S3057</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer t Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>To the Kinges most excellent Majestie : the humble petition of of two and twentie preachers in London and the suburbs thereof</title>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace/>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>1 sheet (1 page), 1/fol</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="1"/>
+   
+   <head>
+      <hi>The Printer t<gap reason="illegible: missing" extent="2 words">
+            <desc>〈◊◊〉</desc>
+         </gap> Reader.</hi>
+   </head>
+   <p>Hearing that many are desirous to see the London ministers petition, and fea<gap reason="illegible: missing" extent="3 letters">
+         <desc>•••</desc>
+      </gap>g least
+some corruptions might be spread, in sundry written copies: I thought it m<gap reason="illegible: missing" extent="2 letters">
+         <desc>••</desc>
+      </gap>te to
+prevent the one, and to remoue the other, by giuinge the<gap reason="illegible: missing" extent="1 letter">
+         <desc>•</desc>
+      </gap> a true and faithfull copie
+therof in print, hoping that none wilbe offended by p<gap reason="illegible: missing" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ting it, seeing that <gap reason="illegible: under-inked" extent="1 letter">
+         <desc>•</desc>
+      </gap>o|
+thing was meant by the first penning of it, neither is, by the present publish<g ref="char:EOLhyphen"/>inge
+of the same, but that which is good and duetifull.</p>
+</div>
+        </body>
+  </text>
+</TEI>

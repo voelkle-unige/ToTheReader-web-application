@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Saltonstall, Wye</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113811_Fr1_3</idno>
+           <idno type="DLPS">A08674</idno>
+           <idno type="STC">18979</idno>
+           <idno type="ESTC">S113811</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Saltonstall, Wye</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ouids Tristia : containinge fiue bookes of mournfull elegies which hee sweetly composed in the midst of his aduersitie, while hee liu'd in Tomos a cittie of Pontus where hee dyed after seauen yeares banishment from Rome. Translated into English by. W.S</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Grove, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>130 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>
+      <gap reason="missing" extent="1+ pages">
+         <desc>〈1+ pages missing〉</desc>
+      </gap>
+to your protection this translati<g ref="char:EOLhyphen"/>on of <hi>Ovids</hi> Elegies, who I thinke was even rockt in his cradle by the Muses, and fed with Sugar and Helliconian water, which made him have so sweet a veine of Poetry. So that the name of <hi>Ovid</hi> is a sufficient commendati<g ref="char:EOLhyphen"/>on for any worke of his, if my English can but like the Eccho, send backe the soft Musicke of his lines. And indeede if he write best of love that hath beene in love; and that there is a certaine <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> or efficacie in his words that feeles the affection; I doubt not but my owne sorrow hath learnt me how to translate <hi>Ovids</hi> sorrow. For I confesse I was ne<g ref="char:EOLhyphen"/>ver in Fortunes Books, and there<g ref="char:EOLhyphen"/>fore am not much indebted to her, neyther doe I care for her frownes; but I am greeved for one who is my brother in mis<g ref="char:EOLhyphen"/>fortune,
+<pb facs="2"/>
+who is <hi>exul in patria,</hi> be<g ref="char:EOLhyphen"/>ing enforced to let that skill and experience which he hath gotten abroad in marine affaires, and which hath beene approved of both by the English and Dutch nations in severall long voyages, lye dead in him for want of im<g ref="char:EOLhyphen"/>ployment which is the life of practicall knowledge: and though he must be compelled by his pre<g ref="char:EOLhyphen"/>sent fates to accept of the imploy<g ref="char:EOLhyphen"/>ment of forraine nations, yet if a way might be opened unto him he is more willing (as he is bound by dutie) to serve his native King and Countrey, which desire of his I know your generous dispo<g ref="char:EOLhyphen"/>sition cannot but cherish, and ap<g ref="char:EOLhyphen"/>prove of my love towards him. This Booke <hi>Ovid</hi> sent to the Cit<g ref="char:EOLhyphen"/>ty of <hi>Rome</hi> as appeares by the first verse, <hi>Parve nec invideo, &amp;c.</hi> and I am now to send it forth into a
+<pb facs="3"/>
+Citty abounding with Critticks, and therefore it desires your wor<g ref="char:EOLhyphen"/>thy patronage and defence; for which (if <hi>Ovid</hi> lived) he would make his fluent Muse expresse his thankefulnesse: But I for any fa<g ref="char:EOLhyphen"/>vour which you shall shew unto this translation, must acknowledge my selfe bound unto your vertue, which I wish may shine forth in prosperous actions, untill your fame be equall to <hi>Caesars</hi> who ba<g ref="char:EOLhyphen"/>nisht <hi>Ovid.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>The Servant of your Vertues,</hi> W. SALTONSTALL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

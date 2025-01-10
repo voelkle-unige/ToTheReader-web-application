@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Ramsey, L.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119771_Fr1_1</idno>
+           <idno type="DLPS">A10387</idno>
+           <idno type="STC">20665</idno>
+           <idno type="ESTC">S119771</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Ramsey, L.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The practise of the diuell : The auncient poisoned practises of the diuell, in his papistes, against the true professors of Gods holy worde, in these our latter daye. Newlie set forth by L. Ramsey</title>
+                 <author>Ramsay, Laurence</author>
+                 <imprint>
+                    <distributor>Rider, Timothy</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1577</date>
+                 <publisher>Charlewood, John.</publisher>
+                            <publisher>Jones (Jhones, Johnes), Richard.</publisher>
+                            <publisher>Kirkham, Henry</publisher>
+                        </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="1"/>
+   <head>To the Reader.</head>
+   <p>
+      <gap reason="missing" resp="#uom" extent="1+ pages">
+         <desc>〈1+ pages missing〉</desc>
+      </gap>minated, and him selfe decyphered, by the infallyble woorde of God: he nowe (I saye) doubles &amp; tryples his inuentions, (as by the sequell shall appeare) twentie tymes tenne folde, to subuert and ouerthrowe the true professours of the same VVherefore, as in a myrrour, I delyuer this vnto thee, (gentle and loouing Rea<g ref="char:EOLhyphen"/>der) manifesting by this my emulation, most of his leger demaynes, against God, and our lawfull Kings and Gouernors. Farewell.</p>
+   <closer>
+      <signed>L. Ramsey.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

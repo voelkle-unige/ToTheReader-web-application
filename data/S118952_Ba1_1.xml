@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Royal Thanks]</title>
+           <author>King James I</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118952_Ba1_1</idno>
+           <idno type="DLPS">A14241</idno>
+           <idno type="STC">24555</idno>
+           <idno type="ESTC">S118952</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Royal Thanks]</title>
+                 <author>King James I</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A speech delivered in the castle-chamber at Dublin, the XXII. of November, anno 1622 : At the censuring of certaine officers, who refused to take the Oath of Supremacie. By Iames Bishop of Meath</title>
+                 <author>Ussher, James</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>—Irish Stock.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>2, 12, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="royal_thanks">
+   <pb facs="8"/>
+   <opener>
+      <signed>IAMES <hi>REX.</hi>
+      </signed>
+   </opener>
+   <p>
+      <hi>RIght Reverend Father in God, and Right trusty and welbeloved Counsellor, wee greet you well. You have not deceived our expectation, nor the gracious opinion we ever conceived both of your abilities in learning, and of your faithfull<g ref="char:EOLhyphen"/>nesse to us and our service. Whereof as we have received sundry testimonies both from our prece<g ref="char:EOLhyphen"/>dent Deputies, as likewise from our Right trusty &amp; welbeloved Cousin &amp; Counsellor the</hi> Viscount Falkland <hi>our present Deputy of that Realm; so have we now of late in one particular had a fur<g ref="char:EOLhyphen"/>ther evidence of your duty and affection well ex<g ref="char:EOLhyphen"/>pressed by your late carriage in our Castle-Cham<g ref="char:EOLhyphen"/>ber there, at the censure of those disobedient Magi<g ref="char:EOLhyphen"/>strates, who refused to take the oath of Supremacy. Wherein your zeale to the maintenance of our just and lawfull power, defended with so much lear<g ref="char:EOLhyphen"/>ning and reason, deserves our Princely and graci<g ref="char:EOLhyphen"/>ous thankes; which we doe by this our letter unto you, and so bid you farewell. </hi>
+   </p>
+   <closer>
+      <dateline>Given under our Sig<g ref="char:EOLhyphen"/>net at our Court at White-hall <date>the eleventh of Ianuary, 1622.</date> In the 20. yeare of our Raigne of great Brittaigne, France and Ireland.</dateline>
+      <salute>To the right Reverend Father in God, and our right trusty and welbeloved Counsellor, the <hi>Bishop of Meath.</hi>
+      </salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

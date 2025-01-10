@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Bas, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104514_Fr1_3</idno>
+           <idno type="DLPS">A05407</idno>
+           <idno type="STC">1556</idno>
+           <idno type="ESTC">S104514</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Bas, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Three pastoral elegies : of Anander, Anetor, and Muridella. By William Bas</title>
+                 <author>Basse, William</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Barnes, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <l>REade one, and say, tis good: I beare the name:</l>
+   <l>Reade one, and say, tis ill, I beare the shame:</l>
+   <l>If thou sayst, good, and think'st it too in heart,</l>
+   <l>Sweetely farewell, no matter who thou art:</l>
+   <l>If thou sayst, meane, thou iudgest like a frend,</l>
+   <l>I would be so, because I meane to mend:</l>
+   <l>If thou sayst, ill, and doost in heart dispraise it,</l>
+   <l>I yeeld not till I know a Wiseman saies it.</l>
+   <l>Thus quit me, or condemne me, Ile not grudge,</l>
+   <l>So that I know a foole be not my Iudge.</l>
+   <signed>Yours, William bas.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

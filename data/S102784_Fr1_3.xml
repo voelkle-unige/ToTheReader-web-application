@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Virgilius de litera Pythagorea.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102784_Fr1_3</idno>
+           <idno type="DLPS">A01389</idno>
+           <idno type="STC">11509</idno>
+           <idno type="ESTC">S102784</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Virgilius de litera Pythagorea.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An answer to VVithers motto : Without a frontispice. Wherein, Nec habeo, nec careo, nec curo, are neither approued, nor confuted: but modestly controuled, or qualified</title>
+                 <author>T. G., esquire</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1625</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Sparke (Sparkes, Wreichionen), Michael 1.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>92 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="3"/>
+   <head>Virgilius de litera Pythagorea.</head>
+   <l>LItera Pythagorae discrimine secta bicorni</l>
+   <l>Humanae vitae speciem praeferre videtur.<note place="margin">
+         <gap reason="illegible" resp="#tech" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </note>
+   </l>
+   <l>Nam via virtutis dextrum petit ardua callem,</l>
+   <l>Difficilem{que} aditum primū spectantibus offert,</l>
+   <l>Sed requiem praebet fessis in vertice summo:</l>
+   <l>Molle ostendat iter via lata, sed vltima meta</l>
+   <l>Praecipitat captos, voluit{que} per ardua saxa:</l>
+   <l>Quisquis enim duros casus virtutis amore</l>
+   <l>Vicerit, ille sibi laudem{que} decus{que} parabit:</l>
+   <l>At quidedsiam, luxum{que} sequetur inertem,</l>
+   <l>Dum fugit oppositos incauta mente labores,</l>
+   <l>Turpis inops{que} simul miserabile transiget aevum.</l>
+</div>
+        </body>
+  </text>
+</TEI>

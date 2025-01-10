@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD CANDIDVM LICTORIM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1569</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110560_Fr1_2</idno>
+           <idno type="DLPS">A10244</idno>
+           <idno type="STC">20523</idno>
+           <idno type="ESTC">S110560</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD CANDIDVM LICTORIM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The praise and dispraise of women : very fruitfull to the well disposed minde, and delectable to the readers therof. And a fruitfull shorte dialogue vppon the sentence, know before thou knitte. C. Pyrrye</title>
+                 <author>Pyrrye, C.</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1569</date>
+                 <publisher>How (Howe, Haw), William.</publisher>
+                            <publisher>Serle (Searl), Richard</publisher>
+                        </imprint>
+                 <extent>64 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>AD CANDIDVM LICTORIM.</head>
+   <lg>
+      <l>VItuper at laudat{que} genus breuis iste libellus,</l>
+      <l>Foemineum legito, commoda multa feras.</l>
+      <l>Perlege non etenim, cui{que}uam res lecta nocebit,</l>
+      <l>Perlege, fortassis lecta iuuare queat.</l>
+      <l>Lecta iuuare queat, fi corde animo reuoluas,</l>
+      <l>Si mea dicta tenes, lecta iuuare queat.</l>
+      <l>Lecta iuuare queat, si laudabilia tent<gap reason="illegible" resp="#uom" extent="2 letters">
+            <desc>••</desc>
+         </gap>,</l>
+      <l>Virtutes{que} sequi, lecta iuuare queat.</l>
+      <l>Lecta iuuare queat, si quae mala crimina sentis,</l>
+      <l>Euitare cupis, lecta iuuare queat.</l>
+      <l>Lecta iuuare queat, mala si peccata malorum,</l>
+      <l>Te faciunt cautum, lecta iuuare queat.</l>
+      <l>Lecta iuuare queat, videas si exempla bouarum,</l>
+      <l>Visa{que}ue facta petis, lecta iuuare queat.</l>
+      <l>Quis nisi mentis inops, videat quin gramina terre,</l>
+      <l>Et flores apibus, reddere fructus, humi.</l>
+      <l>Quis nisi continua, sit stoliditate repletus.</l>
+      <l>Omne quin exemplum, scit forè fructiferum.</l>
+      <l>Perlegere ergo velim, quia scripta sequentia prosunt,</l>
+      <l>Delectant{que}ue animum, non sine fruge bonum.</l>
+   </lg>
+   <closer>
+      <salute>VALE.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

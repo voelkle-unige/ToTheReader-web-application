@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE NOBLE LOVER, (and deseruedly beloued) of the Muses, LODOVVICK CARLELL, Esquire, Gentleman of the BOVVES, and Groome of the King, and Queenes Priuy-Chamber.</title>
+           <author>Dekker, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105283_Fr1_3</idno>
+           <idno type="DLPS">A20088</idno>
+           <idno type="STC">6529</idno>
+           <idno type="ESTC">S105283</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE NOBLE LOVER, (and deseruedly beloued) of the Muses, LODOVVICK CARLELL, Esquire, Gentleman of the BOVVES, and Groome of the King, and Queenes Priuy-Chamber.</title>
+                 <author>Dekker, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A tragi-comedy: called, Match mee in London : As it hath beene often presented; first, at the Bull in St. Iohns-street; and lately, at the Priuate-House in Drury-Lane, called the Phoenix Written by Tho: Dekker</title>
+                 <author>Dekker, Thomas</author>
+                 <imprint>
+                    <distributor>Seile (Seale, Seely, Seyle), Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>4, 76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>TO THE NOBLE LOVER, (and deseruedly beloued) of the Muses, LODOVVICK CARLELL, Esquire, Gentleman of the BOVVES, and Groome of the King, and Queenes Priuy-Chamber.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">T</seg>Hat I am thus bold to sing a Dramatick Note in your Eare, is no wonder, in regard you are a Chorister in the Quire of the Muses. Nor is it any Over-daring in mee, to put a Play-Booke into your hands, being a Courtier;</hi> Ro<g ref="char:EOLhyphen"/>man <hi>Poets did so to their Emperours, the</hi> Spa<g ref="char:EOLhyphen"/>nish, <hi>(Now) to their Grandi'es, the</hi> Italians <hi>to their Illustrissi<gap reason="illegible: indecipherable" extent="1 letter">
+            <desc>•</desc>
+         </gap>Noes, and our owne Nation, to the Great-ones.</hi>
+   </p>
+   <p>
+      <hi>I haue beene a Priest in</hi> APOLLO'S <hi>Temple, many yeares; my voyce is decaying with my Age, yet yours being cleare and aboue mi ne, shall much honour mee, if you but listen to my old Tunes. Are they set Ill! Pardon them; Well! Then receiue them.</hi>
+   </p>
+   <p>
+      <pb facs="3"/>
+      <hi>Clad will you make mee, if by your Meanes, the King of</hi> Spaine, <hi>speakes our Language in the Court of</hi> England; <hi>yet haue you wrought as great A wonder, For the Nine sacred Sisters, by you, are (There) become Courtiers, and talke with sweet Tongues, Instructed by your Delian Eloquence. You have a King to your Master, a Queene to your Mistresse, and the Musse your Play fellowes. I to them a Servant: And yet, what Duty soeuer I owe them, some part will I borrow to waite vpon you, And to Rest</hi>
+   </p>
+   <closer>
+      <signed>Ever, So devoted.
+THO: DEKKER.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

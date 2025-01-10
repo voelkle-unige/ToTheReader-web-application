@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author To The Reader]</title>
+           <author>P., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114973_Fr1_2</idno>
+           <idno type="DLPS">A09845</idno>
+           <idno type="STC">20109</idno>
+           <idno type="ESTC">S114973</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author To The Reader]</title>
+                 <author>P., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Pontici Virvnnii viri doctissimi Britannicæ historiæ libri sex : magna et fide et diligentia conscripti: ad Britannici codicis fidem correcti, &amp; ab infinitis mendis liberati: quibus præfixus est catalogus regum Britanniæ: per Dauidem Pouelum, S. Theolog. professorem</title>
+                 <author>Geoffrey, of Monmouth, Bishop of St. Asaph</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 <publisher>Bollifant, alias Carpenter, Edmund.</publisher>
+                            <publisher>Denham, Henry.</publisher>
+                            <publisher>Newbery (Nuberie), Ralph</publisher>
+                        </imprint>
+                 <extent>14, 284, 6 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="2"/>
+   <p>Historiam veterum BRITANNORVM
+(quos huius insulae antiquissimos incolas
+fuisse constat) duabus potissimum de
+causis conseruare aequum
+est:</p>
+   <p>Primò, vt antiquitatis studiosi, qui patriam
+debito prosequuntur amore, originalem
+eius historiam perficiant, in ídque totis vi<g ref="char:EOLhyphen"/>ribus
+incumbant.</p>
+   <p>Secundò, vt ij qui minùs candidè de hac hi<g ref="char:EOLhyphen"/>storia
+sentiunt, praecipiti nimis iudicio eam
+condemnantes; aut illam (quatenus ei con<g ref="char:EOLhyphen"/>tradici
+non possit) admittant, aut (ea reiec<g ref="char:EOLhyphen"/>ta)
+meliorem proferant.</p>
+   <p>Ego facilè de sententia &amp; proposito
+decessurum me profiteor, si quem
+posthac aut veriora aut probabilio<g ref="char:EOLhyphen"/>ra
+vel sensisse vel protulisse compe<g ref="char:EOLhyphen"/>rero.</p>
+   <closer>
+      <signed>D. P.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

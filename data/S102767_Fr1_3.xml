@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AN ADVERTISEMENT TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102767_Fr1_3</idno>
+           <idno type="DLPS">A15512</idno>
+           <idno type="STC">25779</idno>
+           <idno type="ESTC">S102767</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AN ADVERTISEMENT TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A modest briefe discussion of some points taught by M. Doctour Kellison in his treatise of the ecclesiasticall hierarchy. By Nicholas Smyth</title>
+                 <author>Knott, Edward</author>
+                 <imprint>
+                    <publisher>—Recusant</publisher>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>8, 205, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>AN ADVERTISEMENT TO THE READER.</head>
+   <p>BE pleased (gentle Reader) to know that the Authour of this <hi>Discussion,</hi> while he liued, was wholy against the publishing thereof. But he being departed to a better life, the lay gentleman, a worthy, and vertuous Catholick, at whose request it was written, and whome the Au<g ref="char:EOLhyphen"/>thour by reason of distance could not satisfy by word of mouth, finding <hi>M. Doctour Kellisons Trea<g ref="char:EOLhyphen"/>tise,</hi> to be much dispersed, among all sorts of per<g ref="char:EOLhyphen"/>sons, many of which are not able of themselues, to iudge of some points therein contained, as they deserue, caused it, as thou seest, to be prin<g ref="char:EOLhyphen"/>ted, for the right information, &amp; common good of Catholicks in England.</p>
+</div>
+        </body>
+  </text>
+</TEI>

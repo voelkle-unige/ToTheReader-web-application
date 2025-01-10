@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To IDEA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105266_Fr1_6</idno>
+           <idno type="DLPS">A19526</idno>
+           <idno type="STC">5956</idno>
+           <idno type="ESTC">S105266</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To IDEA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The amorose songes, sonets, and elegies: of M. Alexander Craige, Scoto-Britane</title>
+                 <author>Craig, Alexander</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="7"/>
+   <head>To IDEA.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Any times from the Table of my Chamber (matchlesse <hi>Idea</hi>) haue my dearest Friends, both by them selues, and my Ser<g ref="char:EOLhyphen"/>uant (whom I sometimes em<g ref="char:EOLhyphen"/>ployed to write for mee) stole the inuentions of my wanton vaine, those amo<g ref="char:EOLhyphen"/>rous Ditties, such as they best liked: and for which hauing, thereby serued the humour of my passion, I cared no more; wherein their gaine and my losse were all one. But now, by printing my then scattered, and now lately collected Scrowles (the most and best part whereof, I can not finde) I haue thought good to ease my selfe, and satisfie (but with the first, your Ladiship) my friendes. The noble <hi>Romans</hi> were from all antiquitie, accustomed to leaue those Kinges whom they had vanquished, in the possessions of their kingdomes, that Kings
+<pb facs="7"/>
+by them made slaues, might be instruments to vprayse the tropheis of their glorie. Thou knowest (Diuine <hi>Idea</hi>) I am thine by conquest; and yet thou allowest mee the seeming fruiti<g ref="char:EOLhyphen"/>on of my libertie, while in deed I must pay the eternall tribute of vnfaigned Loue: For as <hi>Car<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ades</hi> the <hi>Cyrenean</hi> Philosopher said of <hi>Chry<g ref="char:EOLhyphen"/>sippus</hi>; And <hi>Chrysippus</hi> were not, I could not bee▪ my beeing is by thy munificence. Take this in good part: and still I rest,</p>
+   <closer>
+      <signed>
+         <hi>Idea's</hi> euer obleged and vnmanumissible slaue, <hi>Ad Ideam.</hi>
+      </signed>
+   </closer>
+   <postscript>
+      <l>
+         <hi>O bona non tractanda homini bona digna rapina,</hi>
+      </l>
+      <l>
+         <hi>Caelic<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>lum, superis o bona digna locis.</hi>
+      </l>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

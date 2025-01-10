@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author to the Reader.</title>
+           <author>Andrewes, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115930_Fr1_1</idno>
+           <idno type="DLPS">A19494</idno>
+           <idno type="STC">592</idno>
+           <idno type="ESTC">S115930</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author to the Reader.</title>
+                 <author>Andrewes, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A celestiall looking-glasse : to behold the beauty of heauen. Directed vnto all the elect children of God, very briefly composed, and authentically penned, that it may be effectually gained</title>
+                 <author>Andrews, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Andrewes, John.</publisher>
+                            <publisher>Okes (Oakes), John.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>14, 38, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="1"/>
+   <head>The Author to the Reader.</head>
+   <p>I Beseech you to peruse this little Booke of my owne making: imprinted at my own cost &amp; charges. Which I humbly intreat you to ac<g ref="char:EOLhyphen"/>cept at my hands: not weighing the worth, but re<g ref="char:EOLhyphen"/>specting my good will. And deale therein (in your <hi>ver<g ref="char:EOLhyphen"/>tuous disposition, and Christian loue and charity</hi>) as God shall moue your minde.</p>
+   <closer>
+      <signed>
+         <hi>I. A.</hi> Minister and Prea<g ref="char:EOLhyphen"/>cher of Gods Word.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In secundi Diei primae Heb∣domadis versionem.</title>
+           <author>Lapworth, Ed.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110833_Fr1_5</idno>
+           <idno type="DLPS">A11402</idno>
+           <idno type="STC">21659</idno>
+           <idno type="ESTC">S110833</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In secundi Diei primae Heb∣domadis versionem.</title>
+                 <author>Lapworth, Ed.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second day of the First vveeke of the most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done out of French into English heroicall verse by Thomas VVinter, Maister of Artes</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Shaw, James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>8, 40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>In secundi Diei primae Heb<g ref="char:EOLhyphen"/>domadis versionem.</head>
+   <l>FRendis <hi>Salusti</hi> mutatio tanta diei</l>
+   <l>Quod sit facta tuae? quod quae lux vnica <hi>Gallis</hi>
+   </l>
+   <l>Emicuit primò: tandem suffulserit <hi>Anglis</hi>?</l>
+   <l>Improbus iniustè praecordia liuor adurit,</l>
+   <l>Et te <hi>Naturae</hi> capiunt obliuia sacrae,</l>
+   <l>Quae de vicino fieri vult lumine lumen.</l>
+   <l>Et tamen hos oculo si quis conspexerit aequo</l>
+   <l>
+      <hi>Winteri</hi> radios, quibus est lux addita luci,</l>
+   <l>Dixerit in Gallis micuisse crepuscula verbis,</l>
+   <l>Sed medium fulsisse diem sub sole Britanno.</l>
+   <closer>
+      <signed>Ed. Lapworth.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

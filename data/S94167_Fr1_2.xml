@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Vpon the Author.</title>
+           <author>Dow, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S94167_Fr1_2</idno>
+           <idno type="DLPS">B07947</idno>
+           <idno type="STC">17828.5</idno>
+           <idno type="ESTC">S94167</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Vpon the Author.</title>
+                 <author>Dow, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Bon-Acords decorement. Or, Newes from the North : Wherein is truely expressed the forme (or situation) of the famous citie of new Aberdeene, the vertues of the honourable and renowned governours thereof, together with these Grampians anagrames. Wherewith is adjoyned the proofe, and praise of chast beautie, and the scorne of idols. By William Mercer</title>
+                 <author>Mercer, William</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>56 pages, illustrations (woodcut), 19 cm (4°)</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>Vpon the Author.</head>
+   <lg>
+      <l>THryse happie <hi>Abria,</hi> to whose lasting Fame,</l>
+      <l>Right valiant <hi>Mercers</hi> Muse hath vndergone:</l>
+      <l>To gild, in rich encomiums each mans name,</l>
+      <l>Like <hi>Mars,</hi> and <hi>Maro,</hi> both combynd in one,</l>
+      <l>For to your praise what hee hath pend in word,</l>
+      <l>Hee bravely vowes for to maintaine by sword.</l>
+   </lg>
+   <closer>
+      <signed>W. Dow.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

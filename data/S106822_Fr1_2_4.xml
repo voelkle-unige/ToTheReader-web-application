@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>EDVVARDI BVRNELLI , AD LECTOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106822_Fr1_2_4</idno>
+           <idno type="DLPS">A16838</idno>
+           <idno type="STC">374</idno>
+           <idno type="ESTC">S106822</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>EDVVARDI BVRNELLI , AD LECTOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ptōchomuseion [sic] . = The poore mans librarie : Rapsodiæ G.A. Bishop of Exceter vpon the first epistle of saint Peter, red publiquely in the cathedrall church of saint Paule, within the citye of London. 1560. Here are adioyned at the end of euery special treatie, certaine fruitful annotacions which may properly be called miscellanea, bicause they do entreate of diuerse and sundry matters, marked with the nombre and figures of Augrime. 2</title>
+                 <author>Alley, William</author>
+                 <imprint>
+                    <publisher>Day, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>2, 292, 138, 16 leaves, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>EDVVARDI BVRNELLI <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, AD LECTOREM.</head>
+   <l>HVnc eme multifluum librum tibi, candide lector,</l>
+   <l>Si paginae sacrae te pia cura mouet.</l>
+   <l>Hic liber illa tenet quae magna volumina tractant,</l>
+   <l>Fert varios flores, fert liber iste rosas.</l>
+   <l>Hoc duce, de rebus varijs poteris <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>,</l>
+   <l>Hic potes e siliquis, carpere grana cauis.</l>
+   <l>Ergo eme, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>? aes profer &amp; accipe librum,</l>
+   <l>Qui tibi paruo emptus, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> dabit.</l>
+</div>
+        </body>
+  </text>
+</TEI>

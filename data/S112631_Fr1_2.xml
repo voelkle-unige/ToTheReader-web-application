@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Dedicatorium.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112631_Fr1_2</idno>
+           <idno type="DLPS">A12223</idno>
+           <idno type="STC">22533a</idno>
+           <idno type="ESTC">S112631</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Dedicatorium.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Panegyricon inaugurale : honoratissimi &amp; amplissimi Domini prætoris regii, sive majoris nobilissimæ &amp; florentissimæ urbis Londinensis, a forma reipublicæ breviter conscriptum</title>
+                 <author>Sictor, Jan</author>
+                 <imprint>
+                    <publisher>Daniel, Roger</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Dedicatorium.</head>
+   <q xml:lang="lat">
+      <l>Aurea luce redit solennis Pompa diei,</l>
+      <l>Illa Magistratûs Sparta decúsque pii:</l>
+      <l>Ne spernas humiles, Praetor Venerande, Camaenas,</l>
+      <l>Dum vovet auspiciis prospera quísque tuis.</l>
+      <l>Unadies cunctis tot gaudia corde ministrat;</l>
+      <l>Totius est anni sed labor ille gravis.</l>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

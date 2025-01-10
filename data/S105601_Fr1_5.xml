@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The names of the bookes of this Authour.</title>
+           <author>W. W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105601_Fr1_5</idno>
+           <idno type="DLPS">A00755</idno>
+           <idno type="STC">10881</idno>
+           <idno type="ESTC">S105601</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The names of the bookes of this Authour.</title>
+                 <author>W. W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A short discours of the excellent doctour and knight, maister Leonardo Phiorauanti Bolognese vppon chirurgerie : VVith a declaration of many thinges, necessarie to be knowne, neuer written before in this order: whervnto is added a number of notable secretes, found out by the saide author. Translated out of Italyan into English, by Iohn Hester, practicioner in the arte of distillation</title>
+                 <author>Fioravanti, Leonardo</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 </imprint>
+                 <extent>8, 64 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="by_the_same_author">
+   <head>The names of the bookes of this Authour.</head>
+   <list>
+      <item>
+         <hi>A discourse vpon Chy<g ref="char:EOLhyphen"/>rurgerie, beeing this booke.</hi>
+      </item>
+      <item>
+         <hi>Caprici medicinalle.</hi>
+      </item>
+      <item>
+         <hi>Il compendio dei secre<g ref="char:EOLhyphen"/>ti rationalle.</hi>
+      </item>
+      <item>
+         <hi>Il spechio del scientia v<g ref="char:EOLhyphen"/>niuersalle.</hi>
+      </item>
+      <item>
+         <hi>Il Regimēte de la peste.</hi> béeing sette foorth al<g ref="char:EOLhyphen"/>ready, and is entitu<g ref="char:EOLhyphen"/>led, <hi>The ioyful Iuel.</hi>
+      </item>
+      <item>
+         <hi>Il Thesoro de la vita humana.</hi>
+      </item>
+      <item>
+         <hi>La Chirurgia del Phio<g ref="char:EOLhyphen"/>rauanti.</hi>
+      </item>
+      <item>
+         <hi>La Phisica del Phiora<g ref="char:EOLhyphen"/>uanti.</hi>
+      </item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA SIC CORRIGE.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2953_Ba1_2</idno>
+           <idno type="DLPS">A14612</idno>
+           <idno type="STC">24924.5</idno>
+           <idno type="ESTC">S2953</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA SIC CORRIGE.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The contrition of a Protestant preacher, converted to be a Catholiqve scholler : conteyning certayne meditations vpon the fourth penitentiall psalme, Miserere composed by Iames Waddesworth, Bachlour of Diuinitie in the Vniversity of Cambridge, &amp; late parson of Cotton, and of Great-Thorneham in the County of Suffolke, who went into Spaine with the Kinges Maiesties first Embassadour-Legier, as his chaplayne</title>
+                 <author>Wadsworth, James</author>
+                 <imprint>
+                    <publisher>Boscard, Charles</publisher>
+                    <pubPlace/>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>2, 112, 7 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="72"/>
+   <head>ERRATA SIC CORRIGE.</head>
+   <list>
+      <item>Pag. 4. <hi>in titulo</hi> Sect. 2. <hi>forme,</hi> read <hi>former.</hi>
+      </item>
+      <item>Pag. 12. <hi>in titulo Sect.</hi> 4. read <hi>Sect.</hi> 5.</item>
+      <item>Pag. 14. <hi>in titulo Sect.</hi> 5. read <hi>Sect.</hi> 6.</item>
+      <item>Pag. 15. <hi>in titulo Sect.</hi> 6. read <hi>Sect.</hi> 7.</item>
+      <item>Pag. 17. <hi>in titulo Sect.</hi> 7. read <hi>Sect.</hi> 8.</item>
+      <item>Pag. 28. <hi>in titulo Paraphasticall,</hi> read <hi>Paraphrasticall.</hi>
+      </item>
+      <item>Pag. 32. <hi>in titulo</hi> is omitted the Section, which should be the <hi>First</hi> in number, &amp; so the rest in that Meditation are to follow in order, to wit, the 5. must be the 6. the 6. must be the 7. the 7. must be the 8▪ the 8. must be the 9. the ninth must be the tenth Section.</item>
+   </list>
+   <p>
+      <hi>Other Errours of lesse moment, I desire the courteous Reader to correct of his charity, the Author himselfe being farre absent, when it was printed.</hi>
+   </p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

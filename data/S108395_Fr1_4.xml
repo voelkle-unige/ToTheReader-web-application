@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           <author>Layfield, Edmund</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108395_Fr1_4</idno>
+           <idno type="DLPS">A05198</idno>
+           <idno type="STC">15333</idno>
+           <idno type="ESTC">S108395</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 <author>Layfield, Edmund</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The mappe of mans mortality and vanity : A sermon, preached at the solemne funerall of Abraham Iacob Esquire, in the church of St. Leonards-Bromley by Stratford-Bow. May. 8. 1629. By Edmund Layfielde Bachelour in Divinity, and preacher there</title>
+                 <author>Layfield, Edmund</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>10, 95, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <pb facs="5"/>
+   <head>To the Christian Reader.</head>
+   <opener>
+      <salute>
+         <hi>Christian Reader</hi>
+         <note n="a" place="margin">Quid lenius, quid clementius, viri fratres? conciliabat auditorem ut commendaret salva<g ref="char:EOLhyphen"/>torem. <hi>S. Aug. Tom. 10. Ser. de diversis. 51.</hi>
+         </note>.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>N this <hi>pestilentiall-season,</hi> and time of <hi>vanity;</hi> the <hi>meditation</hi> of <hi>mans mortality</hi> and <hi>vanity,</hi> is an <hi>ap<g ref="char:EOLhyphen"/>proved Antidote</hi> to <hi>preserve</hi> thy soule from the over-spreading <hi>contagion</hi> of the <hi>one,</hi> and <hi>prepare</hi> thee to <hi>conquer</hi> the violent as<g ref="char:EOLhyphen"/>sault of the <hi>other,</hi> by making thy <hi>peace</hi> with God. The <hi>Cordiall</hi> is so <hi>prepared</hi> that each <hi>vulgar-stomacke</hi> may be <hi>refreshed</hi> by it: and to gratifie the <hi>learned Physitians,</hi> the <hi>ingredi<g ref="char:EOLhyphen"/>ents</hi> are specified in the <hi>margent</hi> apart. <hi>That</hi> was done to benefit <hi>many, this</hi> to delight a <hi>few,</hi> and tender account unto <hi>all</hi>
+      <note n="b" place="margin">Nos certè studtijs memoriam proferamus; &amp; quatenus nobis dene<g ref="char:EOLhyphen"/>gatur diù vivere: re<g ref="char:EOLhyphen"/>linquamus aliquid quo nos vixisse testemur. <hi>Zethner. simil. Biblic. ex Plin. lib. 3. epist. 51. Wisdom. 5.13. Psal. 9.6.</hi>
+      </note> of what is <hi>admini<g ref="char:EOLhyphen"/>stred.</hi> Whatsoever came not to the <hi>eare</hi> in that <hi>short-scantling</hi> of time allotted for the delivery, is here <hi>presented</hi> to thy <hi>eye.</hi> Accept it with the same <hi>right-hand</hi> of <hi>love</hi> wherewith it is reached: and let our <hi>prayers</hi> meet at the <hi>Throne of grace</hi> for the <hi>prosperity</hi> of the <hi>Gospell,</hi> and the <hi>af<g ref="char:EOLhyphen"/>flicted-Church</hi> of <hi>Christ.</hi> In whom I am</p>
+   <closer>
+      <signed>Thine, <hi>ED: LAYFIELDE.</hi>
+      </signed>
+      <dateline>S. Leonards-Bromley. From my Study, <date>Iuly 1. 1630.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

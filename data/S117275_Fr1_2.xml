@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Barksted, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117275_Fr1_2</idno>
+           <idno type="DLPS">A04139</idno>
+           <idno type="STC">1428</idno>
+           <idno type="ESTC">S117275</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Barksted, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Hiren: or The faire Greeke: By William Barksted, one of the seruants of his Maiesties revels</title>
+                 <author>Barksted, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Barnes, Roger.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <opener>
+      <salute>TO THE HEROICKE HE<g ref="char:EOLhyphen"/>ros,
+HENRY Earle of Oxenford,</salute>
+Vicount Bulbeck, &amp;c.</opener>
+   <l>SIr, if my vnpolish't pen, that dedicates now</l>
+   <l>The bashfull vtterance of a maiden Muse,</l>
+   <l>May gracefully arriue onely to you,</l>
+   <l>Which for her virgin sake, do not refuse,</l>
+   <l>Time, and more studious howers shall we vow,</l>
+   <l>To sing your vertues, which are now profuse.</l>
+   <l>Kings haue drunke water from a louing hand,</l>
+   <l>And truth's accepted, though we paint her poore.</l>
+   <l>The Poets say, the Gods that can command,</l>
+   <l>Haue feasted gladly on a poore mans store,</l>
+   <l>Whereby great, Sir, we haue to vnderstand,</l>
+   <l>That humble Riuers adde to the sea shore.</l>
+   <l>Liue long and happy, and with gray haires crown'd,</l>
+   <l>Reade thy youths acts, which fame shall euer sound.</l>
+   <closer>
+      <signed>Your honors obseruant seruant, WIL. BARKSTED.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

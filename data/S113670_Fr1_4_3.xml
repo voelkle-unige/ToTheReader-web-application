@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>I dem in eundem.</title>
+           <author>Paent, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113670_Fr1_4_3</idno>
+           <idno type="DLPS">A08677</idno>
+           <idno type="STC">18981</idno>
+           <idno type="ESTC">S113670</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>I dem in eundem.</title>
+                 <author>Paent, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Publ [sic] Ovid. De tristibus: or Mour nefull [sic] elegies : in five bookes: composed in his banishment, part at sea, and part at Tomos, a city of Pontus. Translated into English verse by Zachary Catlin, Mr. of Arts. Suffolke</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Bellamy, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>14, 95, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>I dem in eundem.</head>
+   <lg>
+      <l>
+         <hi>Et Lwri, frontemque tuam Laurus tegat: Ardet</hi>
+      </l>
+      <l>
+         <hi>
+            <gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>am bat ut ima tuous dum mea Musa pedes.</hi>
+      </l>
+      <l>
+         <hi>V<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>l laudeat Hederae vappam Musam, Tibi Musa</hi>
+      </l>
+      <l>
+         <hi>Massica qua rutilat; non ego laudo, colo.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>Robert Pa<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>ent.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

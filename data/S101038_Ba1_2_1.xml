@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>REVERENDO, CLA∣RISSIMO, ET AMPLIS, SIMO DOMINO, DN. ALEXANDRO GLADSTONIO, ACADEMIAE RECTORI MAGNIFICO, ARCHIDIACONO AN∣DREAPOLITANO, Et Pastori nostro Dignissimo; VIRO Acri ingenio, judicio ingenti, &amp; eximia morum indole conspicuo;</title>
+           <author>Baronius, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101038_Ba1_2_1</idno>
+           <idno type="DLPS">A04826</idno>
+           <idno type="STC">1496</idno>
+           <idno type="ESTC">S101038</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>REVERENDO, CLA∣RISSIMO, ET AMPLIS, SIMO DOMINO, DN. ALEXANDRO GLADSTONIO, ACADEMIAE RECTORI MAGNIFICO, ARCHIDIACONO AN∣DREAPOLITANO, Et Pastori nostro Dignissimo; VIRO Acri ingenio, judicio ingenti, &amp; eximia morum indole conspicuo;</title>
+                 <author>Baronius, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Philosophia theologiæ ancillans : hoc est, pia &amp; sobria explicatio quæstionum philosophicarum in disputationibus theologicis subinde occurrentium. Auctore Roberto Baronio</title>
+                 <author>Baron, Robert</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Saint Andrews</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>24, 71, 3, 73-167, 5, 169-341, 5 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="180"/>
+   <pb n="73" facs="180"/>
+   <head>REVERENDO, CLA<g ref="char:EOLhyphen"/>RISSIMO, ET AMPLIS, SIMO DOMINO, DN. ALEXANDRO GLADSTONIO, ACADEMIAE RECTORI MAGNIFICO, ARCHIDIACONO AN<g ref="char:EOLhyphen"/>DREAPOLITANO, Et Pastori nostro Dignissimo; VIRO Acri ingenio, judicio ingenti, &amp; eximia morum indole conspicuo;</head>
+   <div type="section">
+      <head>Cui</head>
+      <p>QVòd Reip. literaria commodis tantoperè stu<g ref="char:EOLhyphen"/>duerit, &amp; illius n<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>gotia tantâ fide procu<g ref="char:EOLhyphen"/>rarit, Alma Mater <hi>Academia</hi> multum se de<g ref="char:EOLhyphen"/>bere fatetur;</p>
+   </div>
+   <div type="section">
+      <pb n="74" facs="181"/>
+      <head>Hanc</head>
+      <p>Secundam dissertationem, amantis &amp; observantis animi pignus, reverenter consecrat, &amp; dicat,</p>
+      <closer>
+         <signed>Magnificentiae ejus observantissimus R. <hi>BARONIVS,</hi> PHILOSOPHIAE PROFESSOR.</signed>
+      </closer>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103644_Fr1_8</idno>
+           <idno type="DLPS">A15824</idno>
+           <idno type="STC">26085</idno>
+           <idno type="ESTC">S103644</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A modell of divinitie, catechistically composed : Wherein is delivered the matter and method of religion, according to the creed, ten Commandements, Lords Prayer, and the Sacraments. By Iohn Yates, Bachelour in Diuinitie, and minister of Gods word in St Andrewes in Norvvich</title>
+                 <author>Yates, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <publisher>Clifton, Fulke.</publisher>
+                            <publisher>Dawson, John 1</publisher>
+                        </imprint>
+                 <extent>36, 335, 1 page, folded table, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="19"/>
+   <head>ERRATA.</head>
+   <p>Some faults escaped in Printing, which I in<g ref="char:EOLhyphen"/>treat thee courteous Reader to correct; the <hi>mate<g ref="char:EOLhyphen"/>riall</hi> ones are these following.</p>
+   <p>PAge 2. line 33. <hi>weakened</hi> for <hi>wakened.</hi> p. 6. l. 1. <hi>our</hi> for <hi>the</hi> pa. 7. l. 3. <hi>at</hi> for <hi>as.</hi> p. 22. l. 8. <hi>our conuersion</hi> for <hi>our conuersation,</hi> p. 43. l. 7. <hi>to it selfe</hi> for <hi>in themselues.</hi> p. 64.7. <hi>most excellent</hi> for <hi>the most excellent.</hi> p. 73. l. 36 <hi>deadly</hi> for <hi>dead.</hi> p. 149. l. 32. <hi>as diaptron</hi> for <hi>as a diaptron.</hi> p. 153. l. 34. <hi>flie</hi> for <hi>shie.</hi> p. 189. l. 16. <hi>found</hi> for <hi>sound.</hi> p. 200 l. 33. <hi>art</hi> for <hi>act.</hi> p 223. l 3 take out <hi>othor.</hi> p. 232. l. 3. <hi>require</hi> for <hi>acquire.</hi> p. 256. l. 32. <hi>fit</hi> for <hi>vnfit.</hi> p. 263. l. 2.9. <hi>embatement</hi> for <hi>embasement</hi> l. 34 <hi>rigorous</hi> for <hi>vigorous.</hi> p. 262 13. <hi>receiued</hi> for <hi>reviewed</hi> p. 266. l. 12. <hi>authenticall, Ierome</hi> for <hi>authenticall Ierome.</hi> p. 268. l. 5. <hi>babes</hi> for <hi>bagges.</hi> p. 292. l. 24. <hi>ouercome</hi> for <hi>ouercome it.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

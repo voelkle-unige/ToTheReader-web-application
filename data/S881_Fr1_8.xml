@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A LA ROYNE.</title>
+           <author>B., Z.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S881_Fr1_8</idno>
+           <idno type="DLPS">A16539</idno>
+           <idno type="STC">3447</idno>
+           <idno type="ESTC">S881</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A LA ROYNE.</title>
+                 <author>B., Z.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The last battell of the soule in death : diuided into eight co [n] ferences. ... VVhereby are showne the diuerse skirmishes that are betweene the soule of man on his death-bedde, and the enemies of our saluation. Carefullie digested for the comfort of the sicke: by Mr. Zacharie Boyd, preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>2 volumes (22, 747, 1, 38, 748-1270, 3 pages), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="encomium">
+   <pb facs="9"/>
+   <head>A LA ROYNE.</head>
+   <l>Fille de <hi>France</hi> de Royale race,</l>
+   <l>Perle de prix dieu vous face grace:</l>
+   <l>DIEV le vuelle que ceste nation</l>
+   <l>Sans fin vous loue en benediction:</l>
+   <l>Portezl' absence &amp; de pere &amp; mere,</l>
+   <l>Car pour eux mariage prospere</l>
+   <l>Voux produira bonne succession</l>
+   <l>* Si vous reuerez La <hi>RELIGION.</hi>
+   </l>
+   <closer>
+      <signed>M. Z. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

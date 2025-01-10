@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Nye, Philip</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117273_Fr1_3</idno>
+           <idno type="DLPS">A12167</idno>
+           <idno type="STC">22476</idno>
+           <idno type="ESTC">S117273</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Nye, Philip</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Bovvels opened, or, A discovery of the neere and deere love, union and communion betwixt Christ and the Church, and consequently betwixt Him and every beleeving soule : Delivered in divers sermons on the fourth fifth and sixt chapters of the Canticles. By that reverend and faithfull minister of the Word, Doctor Sibs, late preacher unto the honourable societie of Grayes Inne, and Master of Katharine Hall in Cambridge. Being in part finished by his owne pen in his life time, and the rest of them perused and corrected by those whom he intrusted with the publishing of his works</title>
+                 <author>Sibbes, Richard</author>
+                 <imprint>
+                    <distributor>Edwards, George 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Edwards, George 2.</publisher>
+                            <publisher>Miller, George</publisher>
+                        </imprint>
+                 <extent>22, 116, 116-126, 1, 127-181, 1, 182-205, 205-240, 240-251, 253-269, 1, 270-286, 286-299, 1, 300-313, 313-495, 25 pages, portraits (metal cut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>HONORATISSIMO DOMINO,
+DOMINO
+EDVARDO <hi>VICE-COMITI</hi>
+MANDEVILLE
+<hi>QVEM, VT</hi>
+VERAE NOBILITATIS
+DELICIAS CANDORIS NI<g ref="char:EOLhyphen"/>VEM,
+IN RES
+<hi>CHRISTI, ET</hi>
+ALIORVM COMMODA
+EFFVSISSIMVM
+SUSPICIMUS, COLIMUS;
+<hi>VNAQVE</hi>
+CONCIONES HAS <hi>IN</hi> CANTICA
+POSTHVMAS
+<hi>IN</hi>
+AMORIS GRATIAM QVO AVTHOREM
+IPSE COMPLEXUS EST NOSTRAE<g ref="char:EOLhyphen"/>QVE
+IN DNEM ILLIVS MERITISSIMAE
+<hi>OBSERVANTI<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>E TESTIMONIVM</hi>
+   </p>
+   <p>
+      <hi>D. D.</hi>
+   </p>
+   <signed>THOMAS GOODWIN.
+PHILIPPVS NYE.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

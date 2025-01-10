@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106969_Fr1_4</idno>
+           <idno type="DLPS">A17306</idno>
+           <idno type="STC">4153</idno>
+           <idno type="ESTC">S106969</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A plea to an appeale : trauersed dialogue wise. By H.B</title>
+                 <author>Burton, Henry</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>24, 93, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>Good Reader, correct these faults with thy pen, with others of smaller note. The rest are noted in the end of the booke. Amend first, then reade.</p>
+   <p>Page 7, line 19, reade <hi>scantling.</hi> l. 28, r. <hi>Doctrines.</hi> p. 51, l. 13. r. <hi>preuifion</hi> p. 52, l 6, r. <hi>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ss<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>s.</hi> p. 54. l. 21. r. 4. 5. l. 29, r. <hi>s<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>scos.</hi> p. 82. l. 3, 1. <hi>
+         <gap reason="illegible" resp="#apex" extent="5 letters">
+            <desc>•••••</desc>
+         </gap>ude</hi> 10. l. 9, 1. <hi>vn <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> &amp;c. Whence.</hi> l. 13, 1. <hi>anima.</hi> l. 24, 1. <hi>pr<gap reason="illegible" resp="#apex" extent="3 letters">
+            <desc>•••</desc>
+         </gap>ceth.</hi> p. 83, l. 15, r. <hi>the beginn<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ng</hi> p. 84. l. 35, 1. <hi>in<g ref="char:EOLhyphen"/>to him.</hi> p. 85, l. 24, r. <hi>quomodo.</hi> p. 87 l, 13, 1. <hi>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>xecrated.</hi> p. 91, l. 30, 1 <hi>ground of hope.</hi> l. 35, r. <hi>his Maiesties.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

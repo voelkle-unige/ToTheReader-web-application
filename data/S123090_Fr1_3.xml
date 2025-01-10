@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE COM∣MISSION.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123090_Fr1_3</idno>
+           <idno type="DLPS">A01794</idno>
+           <idno type="STC">11929</idno>
+           <idno type="ESTC">S123090</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE COM∣MISSION.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A neaste of vvaspes : latelie found out and discouered in the Law-countreys [sic], yealding as sweete hony as some of our English bees</title>
+                 <author>Goddard, William</author>
+                 <imprint>
+                    <publisher>Waters (Walters), Joris (George)</publisher>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>58 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="commission">
+   <pb facs="3"/>
+   <head>THE COM<g ref="char:EOLhyphen"/>MISSION.</head>
+   <lg>
+      <l>A Broade my Waspes, in to the world goe flie</l>
+      <l>make knowne your natures to all men you spie</l>
+      <l>Searche eu'ry creeke; goe flie you round aboute</l>
+      <l>let noe wretche rest vntil y'aue found him out,</l>
+      <l>And hauinge found him, styng him: None forbeare</l>
+      <l>but stinge em all, for all growne wic<g ref="char:EOLhyphen"/>ked are,</l>
+      <l>My <hi>Loue</hi> excepte, at which, if some re<g ref="char:EOLhyphen"/>pine</l>
+      <l>saie thinges you muste not touche that are devine</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

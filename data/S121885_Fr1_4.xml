@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Smith, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121885_Fr1_4</idno>
+           <idno type="DLPS">A12458</idno>
+           <idno type="STC">22787</idno>
+           <idno type="ESTC">S121885</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Smith, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Advertisements for the unexperienced planters of New-England, or any where. Or, The path-way to experience to erect a plantation : With the yearely proceedings of this country in fishing and planting, since the yeare 1614. to the yeare 1630. and their present estate. Also how to prevent the greatest inconveniences, by their proceedings in Virginia, and other plantations, by approved examples. With the countries armes, a description of the coast, harbours, habitations, land-markes, latitude and longitude: with the map, allowed by our royall King Charles. By Captaine Iohn Smith, sometimes governour of Virginia, and admirall of Nevv-England</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Haviland, John.</publisher>
+                            <publisher>Milbourne (Milburne, Mylbourne), Robert</publisher>
+                        </imprint>
+                 <extent>8, 40 pages, folded plates, map, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>HONEST READER,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">A</seg>Pelles</hi> by the proportion of a foot, could make the whole proportion of a man: were hee now living, he might goe to schools for now are thousands can by opinion proportion Kingdomes, Cities, and Lordships, that never durst adventure to see them. Ma<g ref="char:EOLhyphen"/>lignancy, I expect from those, have lived 10. or 12. yeares in those actions, and returne as wise as they went, claiming time and experience for their tutor, that can neither shift Sun nor Moone, nor say their Compasse, yet will tell you of more than all the world, betwixt the <hi>Exchange, Pauls</hi> and <hi>Westminster:</hi> so it be newes, it matters not what, that will passe currant when truth must be stayed with an ar<g ref="char:EOLhyphen"/>my of conceits that can make or marre any thing, and tell as well what all England is by seeing but <hi>Milford</hi> haven, as what <hi>Apelles</hi> was by the picture of his great too. Now because exam<g ref="char:EOLhyphen"/>ples give a quicker impression than arguments, I have writ this discourse to satisfie understanding, wisdome, and honesty, and not such as can doe nothing but finde fault with that they neither know nor can amend. So I rest</p>
+   <closer>
+      <signed>Your friend
+Iohn Smith.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

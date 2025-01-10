@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102576_Fr1_2</idno>
+           <idno type="DLPS">A10156</idno>
+           <idno type="STC">20432</idno>
+           <idno type="ESTC">S102576</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The prompters packet of private and familar letters : fitted (in sundrie formes) to mens seuerall occasions and according to the qualitie of persons. Not vnworthy imitation of the most: but most necessarie for such as want either facultie or facilitie to endight</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Bradwood, Melchisidec.</publisher>
+                            <publisher>Macham, Samuel 1</publisher>
+                        </imprint>
+                 <extent>79 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Any there are, vnto whom is not giuen a spirit inuentiue e<g ref="char:EOLhyphen"/>nough for their occasi<g ref="char:EOLhyphen"/>ons, so that they are alwaies to seeke when the necessitie of their affaires cals them to write. Againe there are o<g ref="char:EOLhyphen"/>thers in whom is no such defect of con<g ref="char:EOLhyphen"/>ceit, but yet are as much troubled a<g ref="char:EOLhyphen"/>bout the manner of deliuering their minds. To direct either and both of these then what and how to write, was this Worke especially vndertaken, in hope neuerthelesse it would not prooue
+<pb facs="3"/> altogether so vnusefull for such abler iudgements as feele not these others want in themselues, but that they may meet with something in it whose ex<g ref="char:EOLhyphen"/>ample may doe them seruice. So much concerning the generall frame of the Worke. For the Letters in particular, there is not added vnto euery one a su<g ref="char:EOLhyphen"/>perscription or subscription, but only to so many as might suffice to instance with some variety what is proper and best fashionable in that kinde. And for their Contents, they are expressed in a Table heere following; whereunto ha<g ref="char:EOLhyphen"/>uing recourse, a man may finde dire<g ref="char:EOLhyphen"/>ction there to any such Letter as shall neerest agree with the nature of the businesse he hath in hand.</p>
+</div>
+        </body>
+  </text>
+</TEI>

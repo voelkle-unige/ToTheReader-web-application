@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An aduertisement to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108369_Fr1_3</idno>
+           <idno type="DLPS">A05186</idno>
+           <idno type="STC">15320</idno>
+           <idno type="ESTC">S108369</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An aduertisement to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of ghostes and spirites walking by nyght : and of strange noyses, crackes, and sundry forewarnynges, whiche commonly happen before the death of menne, great slaughters, [and] alterations of kyngdomes. One booke, written by Lewes Lauaterus of Tigurine. And translated into Englyshe by R.H</title>
+                 <author>Lavater, Ludwig</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Watkins, Richard</publisher>
+                        </imprint>
+                 <extent>16, 220 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Witchcraft, demonology, occult writings</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_regarding_errata">
+   <pb facs="3"/>
+   <head>An aduertisement to the Reader.</head>
+   <p>GEntle Reader, before thou enter any further, I haue thought good to aduertise thee of cer<g ref="char:EOLhyphen"/>tayne faultes escaped in the Printing, whyche are sette forthe in the Page afore going, desiring thee to beare with them, and to pardon the Prin<g ref="char:EOLhyphen"/>ter. For thou knowest: <hi>Quando{que} bonus dormitat Ho<g ref="char:EOLhyphen"/>merus.</hi> Although some of our Printers be not Ho<g ref="char:EOLhyphen"/>mers, neyther seene in Greeke nor Latine, nor sometime exactly in Englishe, yet can they nod and take a nap, as well as any Homer. Howebeit in deede they are herein pardonable, bycause the Copie was somewhat obscurely written, as be<g ref="char:EOLhyphen"/>ing the first originall. Fare well.</p>
+</div>
+        </body>
+  </text>
+</TEI>

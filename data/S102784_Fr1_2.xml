@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Booke to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102784_Fr1_2</idno>
+           <idno type="DLPS">A01389</idno>
+           <idno type="STC">11509</idno>
+           <idno type="ESTC">S102784</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Booke to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An answer to VVithers motto : Without a frontispice. Wherein, Nec habeo, nec careo, nec curo, are neither approued, nor confuted: but modestly controuled, or qualified</title>
+                 <author>T. G., esquire</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1625</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Sparke (Sparkes, Wreichionen), Michael 1.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>92 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Booke to the Reader.</head>
+   <p>WEll may you muse why I came
+no sooner to light, but lay ob<g ref="char:EOLhyphen"/>scure
+so long; vnderstand there<g ref="char:EOLhyphen"/>fore
+that I haue in time past sought to
+come vnder the presse, to shew my selfe
+to publike view, but by M<seg rend="sup">r</seg>. <hi>Wither's</hi>
+meanes, who sought to smoother mee in
+my birth, haue lyen sometime hid, but
+now hauing got strength to come forth
+to declare my selfe to the world, I leaue
+thee to censure the rest.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the righte noble Sir Henry Clinton Knight Lord Clinton and Saye, Maister of the Hart Houndes to the Queenes most excellent Maiestie, long life, with encrease of honor to the pleasure of the Al∣mightie</title>
+           <author>B., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121817_Fr1_3</idno>
+           <idno type="DLPS">A14021</idno>
+           <idno type="STC">24328</idno>
+           <idno type="ESTC">S121817</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the righte noble Sir Henry Clinton Knight Lord Clinton and Saye, Maister of the Hart Houndes to the Queenes most excellent Maiestie, long life, with encrease of honor to the pleasure of the Al∣mightie</title>
+                 <author>B., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The noble arte of venerie or hvnting : VVherein is handled and set out the vertues, nature, and properties of fiutene sundrie chaces togither, with the order and maner how to hunte and kill euery one of them. Translated and collected for the pleasure of all noblemen and gentlemen, out of the best approued authors, which haue written any thing concerning the same: and reduced into such order and proper termes as are vsed here, in this noble realme of England. The contentes vvhereof shall more playnely appeare in the page next followyng</title>
+                 <author>Gascoigne, George</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <distributor>Barker, Christopher</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>10, 202, 359-362, 205-248, 4 pages, illustrations (woodcuts), music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>To the righte noble Sir Henry Clinton Knight Lord Clinton and Saye, Maister of the Hart Houndes to the Queenes most excellent Maiestie, long life, with encrease of honor to the pleasure of the Al<g ref="char:EOLhyphen"/>mightie</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Noble, myne espe<g ref="char:EOLhyphen"/>ciall trust is that your ho<g ref="char:EOLhyphen"/>nor will pardon my bold<g ref="char:EOLhyphen"/>nesse in dedicating this Booke to your honorable name. For when I had with some charge ca<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>sed the same to be collected and tran<g ref="char:EOLhyphen"/>slated out of sundry good authorities, and thought that it could not but generally de<g ref="char:EOLhyphen"/>light all Noblemen and Gentlemen of this Realm. I made also diligent searche to knowe what particular personage were meetest to be presented with the same: and being enformed by my friend (the Tran<g ref="char:EOLhyphen"/>slator)
+<pb facs="3"/>
+that the office of the Hart Hoūds perteyned vnto youre Lordship, I thought it my duetie, and was glad that I shoulde thereby haue iust occasion to dedicate so noble an Arte vnto your honorable name, most humbly beseeching your honor to ac<g ref="char:EOLhyphen"/>cept it in good part, and to be assured that whatsoeuer I coulde procure to be written of this excellent Arte of Venerie or Hun<g ref="char:EOLhyphen"/>ting, either out of straunge Authors, or by conference of our countrey Huntsmen, is here in this Booke diligently and sensibly declared. I cā no more but present it with humble intente, and beseeche the fa<g ref="char:EOLhyphen"/>ther of Heauē euermore to blesse your good Lordship with the spirite of his grace.</p>
+   <closer>Amen.</closer>
+   <closer>
+      <signed>Your honors most humble. C. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

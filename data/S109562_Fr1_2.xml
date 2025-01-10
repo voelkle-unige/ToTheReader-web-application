@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Worshipfull Syr Iohn Hart Knight, all health and Happines.</title>
+           <author>Busbie, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109562_Fr1_2</idno>
+           <idno type="DLPS">A06163</idno>
+           <idno type="STC">16654</idno>
+           <idno type="ESTC">S109562</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Worshipfull Syr Iohn Hart Knight, all health and Happines.</title>
+                 <author>Busbie, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Catharos. Diogenes in his singularitie : Wherein is comprehended his merrie baighting fit for all mens benefits: christened by him, a nettle for nice noses. By T.L. of Lincolns Inne, Gent: 1591</title>
+                 <author>Lodge, Thomas</author>
+                 <imprint>
+                    <distributor>Busby, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 <publisher>Chettle, Henry.</publisher>
+                            <publisher>Danter, John.</publisher>
+                            <publisher>Hoskins, William</publisher>
+                        </imprint>
+                 <extent>2, 31, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Worshipfull Syr <hi>Iohn Hart Knight, all health</hi> and Happines.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Eathen people (Right Wor<g ref="char:EOLhyphen"/>shipfull) lead by Nature, ab<g ref="char:EOLhyphen"/>horred nothing more than a man Ingratefull: The Christians taught from Heauen, com<g ref="char:EOLhyphen"/>mand nothing oftner than to be thanke<g ref="char:EOLhyphen"/>full. To auoid the reproofe of the one, and obey the charge of the other, I pre<g ref="char:EOLhyphen"/>sent your Worship (in signe of my sin<g ref="char:EOLhyphen"/>cere affect) with this small conceit, pend by a Gentleman my deare friend. The matter may at the first sight (I graunt) seeme nothing graue, but in the procee<g ref="char:EOLhyphen"/>ding it will prooue Gratious: <hi>Diogenes</hi> reprooues the vitious, commendes the vertuous, vnmasks sinne, and sets downe remedies. If you accept it and forget my boldnes, my desire is satisfied, and the Author no lesse pleased.</p>
+   <closer>
+      <signed>Your VVorships humbly Iohn Busbie.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

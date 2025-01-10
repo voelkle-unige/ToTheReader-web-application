@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Pett, Peter</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110438_Fr1_3</idno>
+           <idno type="DLPS">A09538</idno>
+           <idno type="STC">19818</idno>
+           <idno type="ESTC">S110438</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Pett, Peter</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Times iourney to seeke his daughter Truth : and Truths letter to Fame of Englands excellencie</title>
+                 <author>Pett, Peter</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>52 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O intreate their fauour that cannot be
+discourteous, were superfluous: to craue
+fauour of the churlish, were friuolous.
+VVhat thou art, I know not; but if thou
+meanest to peruse my <hi>Muses</hi> labour, ex<g ref="char:EOLhyphen"/>pect
+no great matters, least thy expectation be frustrated.
+It were folly to tell thee of my weakenes, hauing laide it
+open to euery eye: neither will I excuse it to thee; because
+I am ignorant of thy disposition. I am no <hi>Satyre</hi> to
+scourge thee, if thou snarle at me: yet feare I not the most
+piercing fang of peeuish enuie; being sufficiently armed
+against all censures, and therefore not to be harmed by
+thy censure.</p>
+   <closer>
+      <signed>Peter Pett.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

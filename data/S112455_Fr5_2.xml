@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE VERTVOVS, AND MY WORTHY FRIEND, Mr. Richard Martin.</title>
+           <author>Jonson, Ben</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112455_Fr5_2</idno>
+           <idno type="DLPS">A04632</idno>
+           <idno type="STC">14752</idno>
+           <idno type="ESTC">S112455</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE VERTVOVS, AND MY WORTHY FRIEND, Mr. Richard Martin.</title>
+                 <author>Jonson, Ben</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The workes of Beniamin Ionson</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Meighen, Richard.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>12, 1015, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="149"/>
+   <pb n="273" facs="149"/>
+   <head>TO THE VERTVOVS, AND MY WORTHY FRIEND, M<seg rend="sup">r.</seg> Richard Martin.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">S</seg>Ir</hi>, A thankefull man owes a courtesie euer: the vnthanke<g ref="char:EOLhyphen"/>full, but when he needes it. To make mine owne marke appeare, and shew by which of these seales I am known, I send you this peece of what may liue of mine; for whose innocence, as for the Authors, you were once a noble and timely vndertaker, to the greatest Iustice of this kingdome. Enioy now the delight of your good<g ref="char:EOLhyphen"/>nesse; which is to see that prosper, you preseru'd: and posteritie to owe the reading of that, without offence, to your name; which so much ignorance, and malice of the times, then conspir'd to haue supprest.</p>
+   <closer>
+      <signed>
+         <hi>Your true louer, BEN. IONSON.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

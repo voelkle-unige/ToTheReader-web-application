@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epitaph]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115012_Fr1_3</idno>
+           <idno type="DLPS">B13519</idno>
+           <idno type="STC">10715</idno>
+           <idno type="ESTC">S115012</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epitaph]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The second report of Doctor Iohn Faustus, containing his appearances, and the deedes of Wagner. VVritten by an English gentleman student in VVittenberg an Vniuersity of Germany in Saxony. Published for the delight of all those which desire nouelties by a frend of the same gentleman</title>
+                 <author>English gentleman student</author>
+                 <imprint>
+                    <publisher>Jeffes, Abel</publisher>
+                    <distributor>Burby, Cuthbert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epitaph">
+   <p>Hic iaceo Iohannes Faustus, Doctor diuini iuris in dignissimus, qui pro amore magiae Dia<g ref="char:EOLhyphen"/>bolicae scientiae vanissimè cecidi ab amore Dei: O Lector pro me miserrimo damnato homine ne preceris, nam preces non iuuant quem De<g ref="char:EOLhyphen"/>us condemnauit: O pie Christiane memento mei, &amp; saltem vnam pro infiducia mealachry<g ref="char:EOLhyphen"/>mulam exprime, &amp; cui non potes mederi, eius miserere, et ipse caue.</p>
+</div>
+        </body>
+  </text>
+</TEI>

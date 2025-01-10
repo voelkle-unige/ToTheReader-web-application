@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶Ioan. Rituissi. Tetrastichon.</title>
+           <author>Treneris, Petrum</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1529</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121275_Bo1_4</idno>
+           <idno type="DLPS">A19129</idno>
+           <idno type="STC">5542.3</idno>
+           <idno type="ESTC">S121275</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶Ioan. Rituissi. Tetrastichon.</title>
+                 <author>Treneris, Petrum</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Rudimenta grammatices et docendi methodus : non tam scholæ Gypsuichianæ per reuerendissimum. D. Thoma [m] cardinale [m] Ebo⁻r. feliciter institutæ q [uam] o [mn] ibus aliis totius Anglie scholis prescripta</title>
+                 <author>Colet, John</author>
+                 <imprint>
+                    <publisher>Treveris, Peter</publisher>
+                    <pubPlace>Great Britain--England--London--Southwark</pubPlace>
+                    <date>1529</date>
+                 </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomia">
+   <div type="poem">
+      <head>¶Ioan. Rituissi. Tetrastichon.</head>
+      <l>Viuere perpetuis si possunt nomina chartis:</l>
+      <l>Ac cineri quen{quam} est fas superesse suo,</l>
+      <l>Crede tuo hoc Lili, doctrinenae munere claro.</l>
+      <l>Dignus es aeterno posteritate frui.</l>
+   </div>
+   <div type="poem">
+      <head>¶Richardus Vernamus Pauline scholae alumnus.</head>
+      <l>Quisquisadest latiam cupiens contexere linguam,</l>
+      <l>Nostra{que} doctiloquis verba referre modis,</l>
+      <l>Hunc emat, hunc tenero perstringat corde libellum,</l>
+      <l>Pollice quem facili Lilius aediderat.</l>
+   </div>
+   <div type="poem">
+      <head>¶Richardus Gunsonus.</head>
+      <l>Quae tibi grammatici scriptis peperere uetusti,</l>
+      <l>Ecce refert eadem tam breuis iste liber.</l>
+      <l>Quem si forte velis studiosa euoluere mente.</l>
+      <l>Ipse puer credo {quod} cito doctus eris.</l>
+      <closer>
+         <signed>¶Excusum per me Petrum Treneris</signed>
+         <dateline>
+            <date>anno verbi incarnati Milesimo quingētesimo v<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gesimo .ix. die mēsis lunii quarto.</date>
+         </dateline>
+      </closer>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

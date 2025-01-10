@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE BOOKE TO HIS READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103059_Fr1_4</idno>
+           <idno type="DLPS">A01600</idno>
+           <idno type="STC">11728</idno>
+           <idno type="ESTC">S103059</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE BOOKE TO HIS READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The life and death of Mr. Edmund Geninges priest, crowned with martyrdome at London, the 10. day of Nouember, in the yeare M.D.XCI</title>
+                 <author>Geninges, John</author>
+                 <imprint>
+                    <publisher>Boscard, Charles</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>102, 2, 103-110 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_the_reader">
+   <pb n="4" facs="3"/>
+   <head>THE BOOKE TO HIS READER.</head>
+   <lg>
+      <l>AFfected wordes, or Courtly complement,</l>
+      <l>Do not expect, who euer reades this story;</l>
+      <l>Vertu's my ground, it needs no ornament,</l>
+      <l>And to deceyue you so, I should be sory.</l>
+      <l>If any such there be, post to King <note n="*" place="margin">
+            <hi>a Book so called.</hi>
+         </note> Liere,</l>
+      <l>He hath applause, seeke not contentment heere.</l>
+   </lg>
+   <lg>
+      <l>Poets may paynt, and diuersely adorne</l>
+      <l>Theyr feygned passions, and Chymera's strange;</l>
+      <l>Teaching theyr pennes to weepe as one forlorne,</l>
+      <l>And vp and downe in barren deserts range.</l>
+      <l>But if true griefe do once possesse theyr mind,</l>
+      <l>They feele theyr combats in another kind.</l>
+   </lg>
+   <lg>
+      <l>My authour's playne, nor is his griefe a fiction,</l>
+      <l>The world can witnesse what himselfe doth proue;</l>
+      <l>Read that ensues, t'is writ for thy direction,</l>
+      <l>And ease thy passion, as desert shall mooue.</l>
+      <l>It it be pen'd according to thy fancy,</l>
+      <l>Then learne to suffer by his constancy.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

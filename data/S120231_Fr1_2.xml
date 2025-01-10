@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE STATIONER to the Reader.</title>
+           <author>Norton, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120231_Fr1_2</idno>
+           <idno type="DLPS">A15642</idno>
+           <idno type="STC">25907</idno>
+           <idno type="ESTC">S120231</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE STATIONER to the Reader.</title>
+                 <author>Norton, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Fidelia. Newly corrected and augmented, by George Withers of Lincolnes Inne Gentleman</title>
+                 <author>Wither, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Walkley, Thomas</publisher>
+                        </imprint>
+                 <extent>64 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="stationer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>THE STATIONER to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>His Epistle intituled <hi>Fidelia,</hi> was long since, imprinted to the vse of the Author, who by the intreaty of some of his acquaintance was content to bestow it on such as had voluntarily requested it in way of an Aduenture. But hauing dispersed many, and remembring how farre it would be from his disposition to lay claime to proffered gratuities, he wholy repented himselfe of what indeed he neuer well approued of, and how iustly soeuer he might haue challenged, more then many would haue lost, yet in steed of being behol<g ref="char:EOLhyphen"/>ding, is resolued, rather to make those that haue receiued any of his Bookes a litle beholding to him, in freely forgiuing them their unvrged promi<g ref="char:EOLhyphen"/>ses:
+<pb facs="3"/>
+And forasmuch as he perceiues that it hath delighted some, and is neuer likely to preiudice any, it hath pleased him that I should publish it to my owne benefit, so long as I shall in the imprinting thereof carefully respect his credit, which as I neuer intend to faile of, on my part, so (hoping you that shall read it, will on your behalfes censure it with as litle ill meaning to him as he had malice towards you in the composing thereof) I commit it to your discretions, and wish I could as well present you with all he hath bin Author of.</p>
+   <closer>
+      <signed>Yours, GEORGE NORTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

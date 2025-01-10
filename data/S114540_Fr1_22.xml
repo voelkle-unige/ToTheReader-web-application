@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>How to finde out the distance of degrees or Miles betweene two Citties, or any other Places.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114540_Fr1_22</idno>
+           <idno type="DLPS">A07439</idno>
+           <idno type="STC">17824</idno>
+           <idno type="ESTC">S114540</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>How to finde out the distance of degrees or Miles betweene two Citties, or any other Places.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Historia mundi: or Mercator's atlas : Containing his cosmographicall description of the fabricke and figure of the world. Lately rectified in divers places, as also beautified and enlarged with new mappes and tables; by the studious industry of Iudocus Hondy. Englished by W S. generosus, &amp; Coll. Regin. Oxoniæ</title>
+                 <author>Mercator, Gerhard</author>
+                 <imprint>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Cartwright, Samuel.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 922, that is 932, 32 pages, 1 folded plates, maps, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="directions_for_distance_tables">
+   <pb facs="10"/>
+   <head>How to finde out the distance of degrees or Miles betweene two Citties, or any other Places.</head>
+   <p>
+      <seg rend="decorInit">W</seg>E have added scales of Miles to all the Tables, by which thou mayst easily finde out the distance of all places in this mannner.</p>
+   <p>Take a paire of Compasses, and open them untill the <hi>2</hi> feete doe touch the extreame points of the places given, then appy them without any alteration to the scale of miles, and the numerall figures noted there<g ref="char:EOLhyphen"/>on will give the distance.</p>
+   <p>But if the Distance of places doth exceede the length of the Scale, then with thy compasses thou shalt take the length of the Scale, and thou shalt turne the Compasses from one place to another, as farre as the distance of places will permit, and then reckon the miles together. But because the length of miles in all Countryes is unknowne, thou shalt more certainely take the distance of places with thy Compasses, and apply the Compasses without variation to the degrees of Latitude, which will give the true distance, by multiplying them by the Miles of the knowne Country.</p>
+   <p>But the Miles doe differ much in divers Countries, and therefore I will here insert their difference in the chief Countryes.</p>
+   <list>
+      <label>Of common German Miles; which we Hollan<g ref="char:EOLhyphen"/>ders doe also use</label>
+      <item>
+         <hi>15</hi> doe answere to one Degree.</item>
+      <label>Of the middle sort of German Miles</label>
+      <item>
+         <hi>12</hi> doe answere to one Degree.</item>
+      <label>Of great German Miles</label>
+      <item>
+         <hi>10</hi> doe answere to one Degree.</item>
+      <label>Of common French Miles</label>
+      <item>
+         <hi>25</hi> doe make one degree.</item>
+      <label>Of great French Miles</label>
+      <item>
+         <hi>20</hi> doe make one degree.</item>
+      <label>Of Italian Miles</label>
+      <item>
+         <hi>60</hi> are contained in one Degree.</item>
+      <label>Of English Miles as many, or as some will have it</label>
+      <item>
+         <hi>50</hi> contained in every Degree.</item>
+      <label>Of English Leagues</label>
+      <item>
+         <hi>20</hi> do make one degree.</item>
+      <label>Of Spanish Leagues</label>
+      <item>
+         <hi>17</hi> do make one degree.</item>
+      <label>Houre-Leagues, and Itinerarie houres</label>
+      <item>
+         <hi>20</hi> do make one degree.</item>
+      <label>Of Swedish and Danish Miles</label>
+      <item>
+         <hi>10</hi> do make one degree.</item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125021_Fr1_6</idno>
+           <idno type="DLPS">A72861</idno>
+           <idno type="STC">17215</idno>
+           <idno type="ESTC">S125021</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Nevves from Malta : written by a gentleman of that iland, to a friend of his in Fraunce. Shewing the desperate assault and surprising of two castles of the Turkes, by the Italians forces, vpon the eight day of September last past. Translated according to the Italian copie</title>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <distributor>Hippon, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>2, 3, 1, 88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="5"/>
+   <head>The Printer to the <hi>Reader.</hi>
+   </head>
+   <p>
+      <hi>
+         <seg rend="decorInit">G</seg>ENTLE READER, IF THOV</hi> finde any Imperfection in this woork either for the matter in substance or els for the deuision, the maner and forme therof I trust thou wilt alow a r<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>asona<g ref="char:EOLhyphen"/>ble excuse aswel vnto the <hi>Author</hi> as vnto m<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>e, be<g ref="char:EOLhyphen"/>twen whome thy blame is otherwise to be deuided. Thou knowest that to write and reporte a thing at the mouth of the Speaker asketh a nimble ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>d and a great memory, if a man had his Tooles ready for the purpose which yet this <hi>Author</hi> had not ready for nothing so like as any such matter, and therfore was forced to put his braine-pan in trust withall, and to write it in his way homeward.</p>
+   <p>In dooing wherof his care was greater to couch the matter truely in substance: then to parte or to de<g ref="char:EOLhyphen"/>uide or otherwise to digest the same. Which he refer<g ref="char:EOLhyphen"/>red vnto mee, and which also I haue doon as y<seg rend="sup">e</seg> short<g ref="char:EOLhyphen"/>nes of the time gaue me leaue. Both which excu<g ref="char:EOLhyphen"/>ses, if it please thee to admit: thou maist in time to come receiue it in more perfecti<g ref="char:EOLhyphen"/>on aswel for his part beeing the matter in substance wher<g ref="char:EOLhyphen"/>of I dout not much hath escaped him. and also for the diuisi<g ref="char:EOLhyphen"/>on beeing mine. Farwell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

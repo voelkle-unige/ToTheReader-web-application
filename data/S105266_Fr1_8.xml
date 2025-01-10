@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To LITHOCARDIA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105266_Fr1_8</idno>
+           <idno type="DLPS">A19526</idno>
+           <idno type="STC">5956</idno>
+           <idno type="ESTC">S105266</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To LITHOCARDIA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The amorose songes, sonets, and elegies: of M. Alexander Craige, Scoto-Britane</title>
+                 <author>Craig, Alexander</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="8"/>
+   <head>To LITHOCARDIA.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Feare to prefixe (Hono. Lady) to these few Poyems, a long Epistle, least some <hi>Diogenes</hi> should bid mee shut the Portes of <hi>Minda</hi> ere the Towne runne out. Let mee this much kindly pray, &amp; preuaile with your La. as to vouchsafe them some place in the bench of your bibliothek. <hi>Xerxes,</hi> whose Armies obumbrate all <hi>Hellespont,</hi> was faine in a small Fish<g ref="char:EOLhyphen"/>bote for safetie of his life, to <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>lie from <hi>Greece.</hi> So may you at some idle howers deigne, and discende to behold my rusticke Rymes, and kindly excuse his errours, who ere long, hath purpose to present and please you with some bette<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> Poyem. Till when, and euer,</p>
+   <closer>
+      <signed>I am your La. owne. <hi>Ad Lithocardiam.</hi>
+      </signed>
+   </closer>
+   <postscript>
+      <l>
+         <hi>Vt nullae cunctis formosa est faemina tantum,</hi>
+      </l>
+      <l>
+         <hi>sic nulla est misero tantum adamata mihi.</hi>
+      </l>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

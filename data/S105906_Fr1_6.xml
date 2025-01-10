@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ON THE BOOKE.</title>
+           <author>A., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105906_Fr1_6</idno>
+           <idno type="DLPS">A17027</idno>
+           <idno type="STC">3905</idno>
+           <idno type="ESTC">S105906</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ON THE BOOKE.</title>
+                 <author>A., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The new invention, intituled, calligraphia: or, the arte of faire writing : vvherein is comprehended the whole necessarie rules thereof; by which anie who is capable and carefull to learne, may without the helpe of any other teacher, under God, both bee informed concernin the right writing of the most usuall characters in the world; and perfectly instructed how to write one of the most frequent in Europe, called the secretarie. ... By His Majesties scribe, Master David Browne</title>
+                 <author>Browne, David</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Saint Andrews</pubPlace>
+                    <date>1622</date>
+                 <publisher>Burdon, John.</publisher>
+                            <publisher>Raban, Edward</publisher>
+                        </imprint>
+                 <extent>54, 216 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="8"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="8"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="9"/>
+   <head>ON THE BOOKE.</head>
+   <lg>
+      <l>WHerefore, <hi>O SCOTLAND,</hi> art thou called so <gap reason="illegible" resp="#keyers" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+      </l>
+      <l>Since in Thee such aboundance of Vertues breede?</l>
+      <l>All sortes of Policie, rare and singular Men,</l>
+      <l>And having such plentie, wherewith thine owne to <gap reason="illegible" resp="#keyers" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+      </l>
+      <l>Nations haue at thine high Cedars admired;</l>
+      <l>Such as <hi>Wallace, Buchanan,</hi> and manie one n<gap reason="illegible" resp="#keyers" extent="2 letters">
+            <desc>••</desc>
+         </gap>:</l>
+      <l>Some for Valiantnesse▪ some for Learning revered,</l>
+      <l>And manie other Giftes; which some haue yet also,</l>
+      <l>With whom, why may not this worthie <hi>One</hi> be <gap reason="illegible" resp="#keyers" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+      </l>
+      <l>Whose charitable Travels heere are worthie of prayse?</l>
+      <l>For hath bee not all before him farre surmounted▪</l>
+      <l>In this most renown'd, and profitable exercise?</l>
+      <l>By which he honoreth his Coūtrey, Friēds, &amp; N<gap reason="illegible" resp="#keyers" extent="2 letters">
+            <desc>••</desc>
+         </gap>
+      </l>
+      <l>Beside the winning to himselfe of endlesse Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>e.</l>
+   </lg>
+   <closer>
+      <signed>D. A.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

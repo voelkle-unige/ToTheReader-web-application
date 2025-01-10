@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The summe of this Booke consisteth in these 6. particulars following.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100248_Fr1_3</idno>
+           <idno type="DLPS">A21158</idno>
+           <idno type="STC">7512</idno>
+           <idno type="ESTC">S100248</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The summe of this Booke consisteth in these 6. particulars following.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cure of all sorts of fevers : both generall, and particular, with their definition, kindes, differences, causes, signes, prognostication, and manner of cure, with a prespectation, their intentions curative, with their symptoms, and divers other things herein very necessarie to be judiciously observed in every fever. Lately compiled by Ed. Edvvards Doctor in Physick. Ann. Dom. 1637</title>
+                 <author>Edwards, Edward, doctor in physick</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Harper, Thomas.</publisher>
+                            <publisher>Sheares, William.</publisher>
+                            <publisher>Thrale, Richard</publisher>
+                        </imprint>
+                 <extent>8, 53, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="text">
+   <pb facs="5"/>
+   <head>The summe of this Booke consisteth in these 6. particulars following.</head>
+   <list>
+      <item>1 <hi>First, what a Fever is.</hi>
+      </item>
+      <item>2 <hi>Secondl<gap reason="illegible: blotted" resp="#apex" extent="2 letters">
+               <desc>••</desc>
+            </gap>
+            <gap reason="illegible: blotted" resp="#apex" extent="1 letter">
+               <desc>•</desc>
+            </gap>he number of Fevers be</hi>
+         <list>
+            <item>1 <hi>generally, iii.</hi>
+            </item>
+            <item>2 <hi>particularly</hi> 20.</item>
+         </list>
+      </item>
+      <item>3 <hi>Thirdly, an Explication or Exposition of all Fevers.</hi>
+      </item>
+      <item>4 <hi>Fourthly, of Fevers by Inflammation of the spirits one<g ref="char:EOLhyphen"/>ly without putrifaction of humours.</hi>
+      </item>
+      <item>5 <hi>Fifthly, of Fever putrida, of putri<g ref="char:EOLhyphen"/>faction of humours both</hi>
+         <list>
+            <item>1 <hi>simple,</hi>
+            </item>
+            <item>2 <hi>compound.</hi>
+            </item>
+         </list>
+      </item>
+      <item>6 <hi>Sixthly, of Fever Hectick, of unnaturall heat kindled in the solid parts of the body, the iii. kindes.</hi>
+      </item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

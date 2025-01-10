@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem libri, G: Atters: de Sacramentis T. H. carmen protrepticum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115827_Fr1_5</idno>
+           <idno type="DLPS">A22474</idno>
+           <idno type="STC">889</idno>
+           <idno type="ESTC">S115827</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem libri, G: Atters: de Sacramentis T. H. carmen protrepticum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The badges of Christianity. Or, A treatise of the sacraments fully declared out of the word of God : Wherein the truth it selfe is proued, the doctrine of the reformed churches maintained, and the errors of the church of Rome are euidently conuinced: by pervsing wherof the discreet reader may easily perceiue, the weak and vnstable grounds of the Roman religion, and the iust causes of our lawfull separation. Diuided into three bookes: 1. Of the sacraments in generall. 2. Of Baptisme. 3. Of the Lords Supper. Hereunto is annexed a corollarie or necessary aduertisement, shewing the intention of this present worke, opening the differences among vs about the question of the supper, discouering the idolatry and diuisions of the popish cleargy, ... By William Attersoll, minister of the Word of God</title>
+                 <author>Attersoll, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Fosbrooke, Nathaniel.</publisher>
+                            <publisher>Jaggard, William</publisher>
+                        </imprint>
+                 <extent>22, 395, that is 392, 48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="poem">
+   <pb facs="7"/>
+   <head>Ad Lectorem libri, G: Atters: de <hi>Sacramentis T. H. carmen</hi> protrepticum.</head>
+   <l>ATRI dum tenebras praebent sine lumine SOLES,</l>
+   <l>AT-TER-SOL radios sparsit vbique suos.</l>
+   <l>Nec mirum: <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> caelest is luminis author,</l>
+   <l>Misit in atratum lumina sacra solum.</l>
+   <l>Alba manet sterilis plerunque, &amp; languidatellus,</l>
+   <l>Dum pingue est atrum, frugiferumque solum.</l>
+   <l>Hortulus est, liber hic qui dulces fragrat odores</l>
+   <l>Sacra dei multa fertilitate ferens.</l>
+   <l>Ergo leg as (bone lector) et hic, pastor que fidelis</l>
+   <l>Quisque, dei sacro gramine pascat oues.</l>
+   <l>Flores ac fructus, fluuios, herbasque salubres,</l>
+   <l>Quicquid et expect as, hie paradisus hahet.</l>
+   <l>Sacramenta (precor modo) sacra mente feruntor:</l>
+   <l>Dilige scriptorem: perlege, scripta:</l>
+   <closer>
+      <signed>vale.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

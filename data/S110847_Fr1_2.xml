@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD ILLVSTRISSIMVM HEROA, CAROLVM NOTINGHAMIAE COMI∣tem, Equitem Georgianum, Regineae Ma∣iestati Regni consultum, magnum An∣gliae Admirallium, &amp;c.</title>
+           <author>Insula, Guilielmus de</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110847_Fr1_2</idno>
+           <idno type="DLPS">A11416</idno>
+           <idno type="STC">21670</idno>
+           <idno type="ESTC">S110847</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD ILLVSTRISSIMVM HEROA, CAROLVM NOTINGHAMIAE COMI∣tem, Equitem Georgianum, Regineae Ma∣iestati Regni consultum, magnum An∣gliae Admirallium, &amp;c.</title>
+                 <author>Insula, Guilielmus de</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The colonies of Bartas : VVith the commentarie of S.G.S. in diuerse places corrected and enlarged by the translatour</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Man, Thomas 1</publisher>
+                        </imprint>
+                 <extent>4, 77, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedicatory_poem">
+   <pb facs="2"/>
+   <head>AD ILLVSTRISSIMVM HEROA, CAROLVM NOTINGHAMIAE COMI<g ref="char:EOLhyphen"/>tem, Equitem Georgianum, Regineae <hi>Ma<g ref="char:EOLhyphen"/>iestati Regni consultum, magnum</hi> An<g ref="char:EOLhyphen"/>gliae Admirallium, &amp;c.</head>
+   <p>
+      <figure>
+         <figDesc>anchor and lion</figDesc>
+         <head>PAR MER ET PAR TERRE</head>
+      </figure>
+   </p>
+   <l>Multa audire nequis per summa negotia Regni,</l>
+   <l>Qui Leo per terram es, Ancora qui per aquas.</l>
+   <l>Viue igitur praelustris (vtes) <hi>Terraque Marique,</hi>
+   </l>
+   <l>Et liber hic tibi sit gratus, vt alter erat.</l>
+   <l>Viue &amp; vince hostem, vicisti vt semper, Iberum:</l>
+   <l>Semper &amp; in Christo (Carole Magne) vale.</l>
+   <closer>
+      <signed>Tui Nominit studiosissimus <hi>Guilielmus de Insula.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

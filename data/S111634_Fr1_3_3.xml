@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>F., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111634_Fr1_3_3</idno>
+           <idno type="DLPS">A14917</idno>
+           <idno type="STC">25225</idno>
+           <idno type="ESTC">S111634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>F., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Faunus and Melliflora or, The original of our English satyres. Iohn Weeuer</title>
+                 <author>Weever, John</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>70 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <lg>
+      <l>MEthinks I heare some foule-mouth'd Memus say,</l>
+      <l>What haue we here? a shepheards roundelay?</l>
+      <l>More loue-truks yet? will this geare neuer end,</l>
+      <l>But slight lasciuious toyes must still bee pend?</l>
+      <l>Content thee M<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>mus, thou hast lost thy sight,</l>
+      <l>For this is neither vaine, obsceane, nor slight.</l>
+   </lg>
+   <lg>
+      <l>If for to write o' Loue and Loues delights,</l>
+      <l>Be not fit obiects for the grauer sights,</l>
+      <l>Then stil admired <hi>Chaucer,</hi> thou maist rue</l>
+      <l>And write thy auncient stories all anew:</l>
+      <l>And that same Fayry Muse may rise a<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>aine,</l>
+      <l>To blot those works that with vs do remaine.</l>
+   </lg>
+   <lg>
+      <l>Then feare not <hi>Weeuer</hi> let thy Muse go on,</l>
+      <l>Thy ma<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>den Muse, thy chaste <hi>Endimeon:</hi>
+      </l>
+      <l>To blazon forth the loue of shepheard swaines,</l>
+      <l>As well in Cottage as in Court Loue raines.</l>
+      <l>And whosoeuer shall chance thy booke to see,</l>
+      <l>In it shall reade ripe wit, sweet Poetrie.</l>
+      <signed>I. F.</signed>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AdD. D. BARCLAYVM Medicinae &amp; Philologi professorem.</title>
+           <author>Neaberdeanus, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100818_Fr1_12</idno>
+           <idno type="DLPS">A03932</idno>
+           <idno type="STC">1404</idno>
+           <idno type="ESTC">S100818</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AdD. D. BARCLAYVM Medicinae &amp; Philologi professorem.</title>
+                 <author>Neaberdeanus, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Guil: Barclayi amoeniorum artium, &amp; medicinæ doctoris, judicium, de certamine G. Eglisemmii cum G. Buchanano, pro dignitate paraphraseos Psalmi CIIII : Non violandi manes. Adjecta sunt, Eglisemmii ipsum iudicium, ut editum fuit Londini, typis Eduardi Aldæi, ann. Dom. 1619: et in gratiam studiosæ iuventutis, ejusdem Psalmi elegans paraphrasis Thomae Rhaedi</title>
+                 <author>Barclay, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>32, 61, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Discourses on government and political theory</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="12"/>
+   <head>AdD. D. BARCLAYVM Medicinae &amp; Philologi<gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap> professorem.</head>
+   <l>HOcvetus est dictum, Medici praebete medelā</l>
+   <l>Uos vobis, maniam non levat arte suam</l>
+   <l>Doctor Eglissemius, medicastrum quis putet arte</l>
+   <l>Praestare in medicâ? quis feret alter op<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>m?</l>
+   <l>Rem magnam aggrederis medicorum gloria, gentis</l>
+   <l>Et decus, &amp; Clarii gloria magna chori,</l>
+   <l>Mi Bartlaye, tuâ poteris nedicabile vulnus</l>
+   <l>Arte levare, animi quislevet arte luem?</l>
+   <l>Tollere s<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>poteris, fueris mbi magnus Apollo,</l>
+   <l>Fama perennis erit, si <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>otis arte leves.</l>
+   <l>Adlimam rev<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>cas incon<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>ta car mina Maevi,</l>
+   <l>Qui tentat Davidis reciere modos.</l>
+   <l>Advivum resecas; propro te ar<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>abit Iambo,</l>
+   <l>Sipergat rabidus roore dulce melos</l>
+   <l>Dente Theonino, si inte<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>repat anser olores,</l>
+   <l>Morte Lycaembaea <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>imina tanta luet.</l>
+   <closer>
+      <signed>G. W. Neaberdeanus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

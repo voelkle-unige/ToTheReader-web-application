@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In librum Foulconis Robartesij de rediti∣bus Euangelij.</title>
+           <author>C., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115987_Fr1_4</idno>
+           <idno type="DLPS">A10796</idno>
+           <idno type="STC">21069</idno>
+           <idno type="ESTC">S115987</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In librum Foulconis Robartesij de rediti∣bus Euangelij.</title>
+                 <author>C., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The reuenue of the Gospel is tythes, due to the ministerie of the word, by that word. Written by Foulke Robartes Batchelour of Diuinitie</title>
+                 <author>Robartes, Foulke</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>8, 142, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <head>
+      <hi>In librum</hi> Foulconis Robartesij <hi>de rediti<g ref="char:EOLhyphen"/>bus</hi> Euangelij.</head>
+   <l>EIa homo! num totum Christus totus tibi lucrum?</l>
+   <l>Pars{que} Dei tua pars? pars tua, Dextra Dei?</l>
+   <l>Detrahit &amp; lucrum partis, partemve lucellj</l>
+   <l>A Christi mystâ Dextera christicola?</l>
+   <l>Quin docto potius, pand<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>nti numine dextro</l>
+   <l>Recta{que} suadenti, crede Robertesio.</l>
+   <l>Dat merit ò decimas Christo, quicun{que} meretur,</l>
+   <l>Quam rem cun{que} facit, dummodo rem faciat.</l>
+   <l>Sunt habitus abitus{que} homini varij, Deus idem</l>
+   <l>Vnde habet, huic Reditus, vnde abit, huc Reditus.</l>
+   <closer>
+      <signed>R. Per. Bac. Theol. C. C. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

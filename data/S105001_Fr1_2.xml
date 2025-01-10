@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Heywood, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105001_Fr1_2</idno>
+           <idno type="DLPS">A19260</idno>
+           <idno type="STC">5673</idno>
+           <idno type="ESTC">S105001</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Heywood, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes Tu quoque, or, The cittie gallant : As it hath beene diuers times acted by the Queenes Maiesties seruants. Written by Io. Cooke Gent</title>
+                 <author>Cooke, Jo</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Trundle, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O gratulate the loue and memory of my wor<g ref="char:EOLhyphen"/>thy friend the Author, and my entirely belo<g ref="char:EOLhyphen"/>ued Fellow, the Actor, I could not chuse being in the way <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ust <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>hen this Play was to be pub<g ref="char:EOLhyphen"/>lished in Pr<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ut, but to prefixe some token of my affection to either in the frontispire of the Booke. For the Gentleman that wrote it, h<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s Poem it selfe can bet<g ref="char:EOLhyphen"/>ter speake his praise, then any Oratory from me. Nor can I tell whether this worke was diuulged with his consent or no: but howsoeuer, since it hath past the Test of the stage with so generall an applause, pitty it were but it should likewise haue the honour of the Presse. As for Maister <hi>Greene,</hi> all that I will speake of him (and that without flattery) is this (if I were worthy to censure) there was not an Actor of his nature in his time of better ability in per<g ref="char:EOLhyphen"/>formance of what he vndertooke; more applaudent by the Audience, of greater grace at the Court, or of more general loue in the Citty, and so with this briefe character of his memory, I commit him to his rest.</p>
+   <closer>
+      <signed>Thomas Heywood.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

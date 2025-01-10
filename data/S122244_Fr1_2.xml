@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122244_Fr1_2</idno>
+           <idno type="DLPS">A16698</idno>
+           <idno type="STC">3603</idno>
+           <idno type="ESTC">S122244</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A verye fruitful exposicion vpon the syxte chapter of Saynte Iohn : diuided into. x. homelies or sermons: written in Latin by the ryghte excellente clarke Master Iohn Brencius, [and] tra [n] slated into English by Richard Shirrye, Londoner</title>
+                 <author>Brenz, Johannes</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1550</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>Seres, William 1</publisher>
+                        </imprint>
+                 <extent>320 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <lg>
+      <l>Inclyte Ioannes Germane gloria gentis</l>
+      <l>Qui toties magno resonasti pectore Christum,</l>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ternum viuis: non inuida tempora nomen</l>
+      <l>Obscutare tuum poterunt per secula foelix.</l>
+      <l>O quàm dulce fluit colamus tibitum bone Brēti,</l>
+      <l>Cum seruatorem placidus depingis Iēsum.</l>
+      <l>Quae tu Germanis, Anglis ego munera grata</l>
+      <l>Ferre meis curiens, sermones transfero denos</l>
+      <l>Quos conscripsisti sextum in caput alti Ioannis.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Florio, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111840_Fr1_5</idno>
+           <idno type="DLPS">A68475</idno>
+           <idno type="STC">18042</idno>
+           <idno type="ESTC">S111840</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Florio, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Essayes : vvritten in French by Michael Lord of Montaigne, Knight of the Order of S. Michael, gentleman of the French Kings chamber: done into English, according to the last French edition, by Iohn Florio reader of the Italian tongue vnto the Soueraigne Maiestie of Anna, Queene of England, Scotland, France and Ireland, &amp;c. And one of the gentlemen of hir royall priuie chamber</title>
+                 <author>Montaigne, Michel de</author>
+                 <imprint>
+                    <publisher>Bradwood, Melchisidec</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <distributor>Barrett, William</distributor>
+                            <distributor>Blount (Blunt), Edward</distributor>
+                        </imprint>
+                 <extent>12, 630, 2 pages, portraits (metal cut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">E</seg>Nough, if not too much, hath been sayd of this Translation. If the faults found euen by my selfe in the first impression, be now by the Printer corre<g ref="char:EOLhyphen"/>cted, as he was directed, the worke is much amen<g ref="char:EOLhyphen"/>ded: If not, know, that through mine attendance on hir Maiestie, I could not intend-it; and blame not <hi>Neptune</hi> for thy second shipwracke. Let me conclude with this worthie mans daughter of alliance: <hi>Que t'en semble donc lecteur?</hi>
+   </p>
+   <closer>
+      <signed>Still resolute IOHN FLORIO.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

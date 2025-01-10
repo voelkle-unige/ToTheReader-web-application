@@ -1,0 +1,29 @@
+.content {
+    margin: 0;
+}
+
+p {
+
+}
+
+.metadata {
+    max-width: 400px;
+    font-style: italic;
+    
+}
+
+.list dt {
+    font-size: 75%;
+    vertical-align: top;
+}
+
+.metadata p {
+    margin-top: 0;
+}
+
+.metadata-heading {
+    margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+    /* letter-spacing: 1px; */
+    color:  #0082a8;
+}

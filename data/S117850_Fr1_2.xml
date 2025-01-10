@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title> in God, IOHN Lord Bishop of Norwich, all health and happinesse.</title>
+           <author>Ston, Matthew</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117850_Fr1_2</idno>
+           <idno type="DLPS">A12996</idno>
+           <idno type="STC">23289</idno>
+           <idno type="ESTC">S117850</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title> in God, IOHN Lord Bishop of Norwich, all health and happinesse.</title>
+                 <author>Ston, Matthew</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise on the First Psalme. By Mathew Stonham. Minister and preacher in the cittie of Norwich</title>
+                 <author>Stoneham, Mathew</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Burre, Walter</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>4, 151, 150-32, that is 232, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <gap reason="illegible" resp="#apex" extent="1 line">
+         <desc>〈1 line〉</desc>
+      </gap> in God, IOHN Lord Bishop of Norwich, <hi>all health and happinesse.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">S</seg>Ome priuate reasons moouing mee <hi>(Right Reuerend)</hi> to publish this my Treatise vpon the first <hi>Psalme:</hi> your Lordship by best reason, first aboue all other, came into my minde, to whom I mought dedicate it. <hi>Praece<g ref="char:EOLhyphen"/>dens beneficium, sequatur officium.</hi> Among many other inducements, your Lordships speciall loue toward my selfe, and respect<g ref="char:EOLhyphen"/>iue care for my good, hath necessarily chalenged this duty at my hand: <hi>Si grate hoc qualecun<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> non beneficium sed of<g ref="char:EOLhyphen"/>ficium</hi>
+      <note place="margin">Sen<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>c. de B<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>i lib. 2. cap. 22.</note>
+      <hi>meum accipias, non primam, sed totam eius pens<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>nem soluisti.</hi> Your Lordships acceptation, shall be my sole sa<g ref="char:EOLhyphen"/>tisfaction. The bond of my duty hath this onely bound of my hope.</p>
+   <p>The God of heauen so vouchsafe, to water you and yours with the dew of heauen; that you may with the Godly man in this <hi>Psalme,</hi> prosper, <hi>is trees of his planting,</hi> and so <hi>bring forth fruites in due season</hi> in this life, that at the end of this life, your reward may bee the beginning of this <hi>Psalme,</hi> euen, <hi>true blessednesse.</hi> Thus in all dutifull humility, I take my leaue.</p>
+   <closer>
+      <signed>Your Lordshipps Chaplen▪ most bounden in duty and <gap reason="illegible" resp="#apex" extent="3 letters">
+            <desc>•••</desc>
+         </gap>e, MATTH. STON<gap reason="illegible" resp="#apex" extent="3 letters">
+            <desc>•••</desc>
+         </gap>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

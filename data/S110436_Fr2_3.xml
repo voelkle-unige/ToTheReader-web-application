@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Queenes highnes</title>
+           <author>Blundeville, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1561</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110436_Fr2_3</idno>
+           <idno type="DLPS">A09799</idno>
+           <idno type="STC">20063.5</idno>
+           <idno type="ESTC">S110436</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Queenes highnes</title>
+                 <author>Blundeville, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Three [morall] treatises : no lesse pleasau [nt] than necessary for all men to read [e,] wherof the one is called the learned prince, the other the fruites of foes, the thyrde the porte of rest</title>
+                 <author>Plutarch</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1561</date>
+                 <publisher>Seres, William 1.</publisher>
+                            <publisher>Tottell (Tathyll, Tothill, Tottyl), Richard</publisher>
+                        </imprint>
+                 <extent>140 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="14"/>
+   <head>To the Queenes highnes</head>
+   <lg>
+      <l>SVch Newyeres giftes as most mē do prepare</l>
+      <l>To geue your grace, it passeth far my powre.</l>
+      <l>For golde ne pearle, ne such lyke costly ware,</l>
+      <l>Can I possesse: sith fortune styll doth lowre.</l>
+   </lg>
+   <lg>
+      <l>As she on me hath hereto euer done,</l>
+      <l>Which had me brought at length to great distresse</l>
+      <l>But that the hope, which in your grace alone</l>
+      <l>I alwayes fixt: my griefes did oft redresse.</l>
+   </lg>
+   <lg>
+      <l>Which hope I say, euen now doth make me bolde</l>
+      <l>Your royall state, with this so small a queyre</l>
+      <l>For to present: yea more, that hope me tolde,</l>
+      <l>From this day forth, I should no more dispeire.</l>
+      <l>For loe, (saith she) the golden worlde at hande,</l>
+      <l>And Iustice raignes again within this lande.</l>
+   </lg>
+   <closer>
+      <signed>Your maiesties most humble seruant. Thomas Blundeuille.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

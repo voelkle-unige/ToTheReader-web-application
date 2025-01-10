@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Explication of the Title.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107356_Fr1_2</idno>
+           <idno type="DLPS">A14357</idno>
+           <idno type="STC">24675.5</idno>
+           <idno type="ESTC">S107356</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Explication of the Title.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>M. le Hucher minister of Amyens in France compelled to fly from the pure word of holy write; strucke dumme; and made to runne away : Vppon the subiect of the B. Sacrament of the altar. By F. Francis Veron of the Society of Iesus, encountring him with the Bible of Geneua only. In the presence of the Duke de Longueuille. VVith a briefe and easie meanes, by which each Catholike may, in like manner, put to flight any minister or sectarie. Sent from Sieur de la Tour one of the sayd Dukes gentlemen, to Sieur de Rotois, gentleman of the Kings game</title>
+                 <author>Véron, François</author>
+                 <imprint>
+                    <publisher>Kellam, Marguerite</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>96 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>Explication of the Title.</head>
+   <p>This Conference was held three seuerall times. In the first the Father of the Society; compelled the Mini<g ref="char:EOLhyphen"/>ster to abandone the pure word of the holie scripture; In the 2. he putt him to silence; In the 3. he made him runne away.</p>
+</div>
+        </body>
+  </text>
+</TEI>

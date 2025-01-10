@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104139_Fr3_2</idno>
+           <idno type="DLPS">A12367</idno>
+           <idno type="STC">22685</idno>
+           <idno type="ESTC">S104139</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A preparatiue to mariage : The summe whereof was spoken at a contract, and inlarged after. Whereunto is annexed a treatise of the Lords Supper, and another of vsurie. By Henrie Smith</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>12, 116, 208 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Religious</term>
+                    <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="132"/>
+   <pb facs="132"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Eere thou hast the Ser<g ref="char:EOLhyphen"/>mons which haue bin of<g ref="char:EOLhyphen"/>ten desired, because of the matter fit for this Citie. One sayth, that he would neuer speake to Vsurers, and Bribe<g ref="char:EOLhyphen"/>mongers, but when they be vpon their death beds: for he which liueth by sin, resolueth to sin, that he may liue. But when he goeth to hanging, <hi>Iudas</hi> will <note place="margin">Mat. 27. 4.</note> say, <hi>I haue sinned.</hi> If I speake not to Vsurers vppon their death-bed, yet I speake to Vsurers which shall lye vppon their death-bed. Three things do giue me hope. One is, that all harts are in the hands of God, to call them at what houre <note place="margin">Act. 9. 15.</note> he list, and therefore <hi>Saul</hi> may become an Apostle. The next is, that the third crow doth waken moe then the former,
+
+
+<pb facs="133"/>
+and therefore after the crowing of o<g ref="char:EOLhyphen"/>ther, this crow may happily be heard. The last is, that there is no sinne, but some men haue bin reclaimed from it, and so may Vsurers from their sinne.</p>
+   <p>Therefore goe my booke like <hi>Dauid</hi> against <hi>Goliah,</hi> and sight the Lords <note place="margin">1. Sam. 17. 51.</note> battells against Vsurers. The Lord giue that successe to his doctrine in these leaues, that it may consume Vsurers, as <hi>Ioshuah</hi> droue out the <hi>Chananites</hi> before him. If I could take but this one <note place="margin">Iosh. 5. 1.</note> weede out of the Londoners Garden, I were answered for my health and my strength spent amongst them. Reade with thy best minde, and thou shal pro<g ref="char:EOLhyphen"/>fit more.</p>
+   <closer>
+      <signed>Thine
+H. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

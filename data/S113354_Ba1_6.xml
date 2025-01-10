@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In the margine of the 124. Page, for priuita. read, priuata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113354_Ba1_6</idno>
+           <idno type="DLPS">B14172</idno>
+           <idno type="STC">14296.5</idno>
+           <idno type="ESTC">S113354</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In the margine of the 124. Page, for priuita. read, priuata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Manuductions to the pallace of trueth by F.B. Obseruant</title>
+                 <author>Jackson, Bonaventure</author>
+                 <imprint>
+                    <publisher>Jaye (Jaey), Henry</publisher>
+                    <pubPlace>Belgium--Mechelen</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>16, 139, 138-139, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>In the margine of the 124. Page, for <hi>priuita.</hi> read, <hi>priuata.</hi>
+   </head>
+   <p>If the Reader chance to obserue some faultes in Orthography, or ill poynting, or any such like, by mee ouerpassed, I shall in<g ref="char:EOLhyphen"/>treate his paynes to amend them, or his pati<g ref="char:EOLhyphen"/>ence to dissemble them. And in requitall, I shal pray that God may direct him in the way of TRVETHE.</p>
+</div>
+        </body>
+  </text>
+</TEI>

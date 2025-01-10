@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Ward, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103500_Fr1_2</idno>
+           <idno type="DLPS">A14761</idno>
+           <idno type="STC">25058</idno>
+           <idno type="ESTC">S103500</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Ward, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Short grounds of catechisme : delivered by way of question and answer, with plaine proofes for the answer set downe at large. By William Ward minister of the word at Guysbrough in Cleave land within Yorkshire</title>
+                 <author>Ward, William</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>4, 96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Lthough there be Catechismes enough, whom I might have followed in teaching our Chil<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#murp" extent="3 letters">
+         <desc>•••</desc>
+      </gap> yet I though: fitter to choose that, which our Mo<g ref="char:EOLhyphen"/>ther the Church hath com<g ref="char:EOLhyphen"/>mended to us for that purpose, and which in truth, containes the grounds as rightly deci<g ref="char:EOLhyphen"/>phered and truely disposed as any other; so as for all manner of Explanation, Confirmation, and Enlargement, I could not have followed a better Guide: Having therefore conceived such Questions as I thought fittest to explaine the severall foundations of Catechisme, and sought out according to my weake ability some places of Scripture, (the onely true foundation of our Faith) to confirme the conscience <gap reason="illegible" resp="#murp" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> very point, both of Faith and of Obedience, desiring that the Youth might learne and have in memory, as well the holy Scriptures confir<g ref="char:EOLhyphen"/>ming, as the Doctrines thereby confirmed, I perceived it was both a wearisome trouble to
+<pb facs="3"/> them to search and w<gap reason="illegible" resp="#murp" extent="3 letters">
+         <desc>•••</desc>
+      </gap>
+      <gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>ut so many places, (and our lazie daies are hardly drawne to la<g ref="char:EOLhyphen"/>borious workes especially in matters of Religi<g ref="char:EOLhyphen"/>on) and also the places, though truely quoted, were often so unfuly and obscurely extracted through their weakenesse, as it required a se<g ref="char:EOLhyphen"/>cond labour to unteach their mistakings: for this onely purpose I resolved, (to which other<g ref="char:EOLhyphen"/>wise I should never have been drawne) to offer it to the Presse; h<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>ping that (seeing custome hath bred a willingnesse to commit Catechismes to memorie) it will be no small instruction to youth, to have in readines in their hearts plain places of holy Scripture, to confirme every maine point of our Profession. For my doing herein, I have for president Bucaeus, who hath in like sort done; this excepted, that I have neither with him brought in any testimo<g ref="char:EOLhyphen"/>nie without the Scriptures, nor (except verie seldome) from the Apochryphall, as beeing in<g ref="char:EOLhyphen"/>sufficient for foundation, howsoever of holy and profitable instruction. What is done for thy good take in good part, and the Lord blesse it to thy edification for his Christs sake.</p>
+   <closer>
+      <signed>Thine in the Lord, W. WARD.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

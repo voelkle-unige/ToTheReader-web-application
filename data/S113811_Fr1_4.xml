@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113811_Fr1_4</idno>
+           <idno type="DLPS">A08674</idno>
+           <idno type="STC">18979</idno>
+           <idno type="ESTC">S113811</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ouids Tristia : containinge fiue bookes of mournfull elegies which hee sweetly composed in the midst of his aduersitie, while hee liu'd in Tomos a cittie of Pontus where hee dyed after seauen yeares banishment from Rome. Translated into English by. W.S</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Grove, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>130 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>T is now growne a common cu<g ref="char:EOLhyphen"/>stome to seeke thy good will by an Epistle, and therein to move thy affection to be favourable to the present worke, wherein I neede not bestow any great paines, for this is a translation of <hi>Ovids</hi> last booke which he writ in banishment; and therefore if you would set before your eyes the present estate wherein he then lived, it would exceedingly move your pitty towards him. Ima<g ref="char:EOLhyphen"/>gine that you saw <hi>Ovid</hi> in the Land of <hi>Pontus,</hi> where he whose companie was so much desired, was now banisht from all companie; he that was once the Darling of the Muses, now made the subject of miserie; he that dranke choise wines, now drinks spring water; he that wore a wreath of Bayes, now weares a wreath of Cypresse: and to conclude, he that was once so famous, was now
+<gap reason="missing" extent="1+ pages">
+         <desc>〈1+ pages missing〉</desc>
+      </gap>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

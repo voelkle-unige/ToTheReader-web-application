@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE SACRED MAIESTIE OF CHARLES,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122115_Fr1_3</idno>
+           <idno type="DLPS">A07328</idno>
+           <idno type="STC">17715</idno>
+           <idno type="ESTC">S122115</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE SACRED MAIESTIE OF CHARLES,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The reigne of King Henry the Second : written in seaven bookes. By his Majesties command</title>
+                 <author>May, Thomas</author>
+                 <imprint>
+                    <distributor>Fisher, Benjamin</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>216 pages, portraits (metal cut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE SACRED MAIESTIE OF CHARLES,</head>
+   <p>BY THE GRACE OF GOD, KING OF GREAT BRITTAINE, FRANCE, AND IRELAND, DEFEN<g ref="char:EOLhyphen"/>DER OF THE FAITH, <hi>&amp;c.</hi>
+   </p>
+   <p>THIS HISTORICALL POEM, BORNE BY HIS COMMAND, AND NOT TO LIVE BVT BY HIS GRATIOVS ACCEPTA<g ref="char:EOLhyphen"/>TION, IS HVMBLY DEDICATED BY THE AVTHOR,</p>
+   <p>His Majesties most obedient Subject and Servant</p>
+   <p>THO. MAY.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1554</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109833_Fr1_1</idno>
+           <idno type="DLPS">A69102</idno>
+           <idno type="STC">5157</idno>
+           <idno type="ESTC">S109833</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A soueraigne cordial for a Christian conscience : Content thi selfe with pacience, with Christ to bear the cros of paine which can wil the rec [m] pence, a thousand fold with ioyes againe let nothig cause thi hart to quail lau [n] ch out thi bote, hoise vp the sail put from the shore. And thou sure thou shalt atain vnto the port that shall remayne, for euermore</title>
+                 <imprint>
+                    <publisher>Day, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1554</date>
+                 </imprint>
+                 <extent>24 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="1"/>
+   <p>A SO<g ref="char:EOLunhyphen"/>VERAIGNE CORDIAL FOR a Christian Conscience.</p>
+   <lg>
+      <l>Content thi selfe with pacience,</l>
+      <l>with Christ to bear the cros of paine</l>
+      <l>which can and wil the recōpence,</l>
+      <l>A thousand fold with ioyes againe</l>
+      <l>Let nothīg cause thi hart to quail</l>
+      <l>Laūch out thi bote, hoise vp the sail</l>
+      <l>Put from the shore.</l>
+      <l>And be thou sure thou shalt atain</l>
+      <l>Vnto the port that shall remayne,</l>
+      <l>For euermore.</l>
+   </lg>
+   <closer>
+      <dateline>From Roane <date>the. xi. day of May Anno Domi. M. D. Liiii.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

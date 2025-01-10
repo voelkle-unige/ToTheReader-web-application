@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Afterword]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1547</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104878_Ba1_2</idno>
+           <idno type="DLPS">A14146</idno>
+           <idno type="STC">24457</idno>
+           <idno type="ESTC">S104878</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Afterword]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The parable of the wycked mammon : Compiled in the yere of our lorde .M.d.xxxvi. W.T</title>
+                 <author>Tyndale, William</author>
+                 <imprint>
+                    <publisher>Day, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1547</date>
+                 </imprint>
+                 <extent>142 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="afterword">
+   <pb facs="70"/>
+   <p>BE not offēded most dere Reader that diuers thynges are ouersene thorowe neglygence in thys litle treatise. For verely the chaunce was such, that I maruayle y<seg rend="sup">t</seg> it is so wel as it is Moreouer it becometh the boke e u<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>n so to come as a morner and in vyle apparayle to wayte on h<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>s master which sheweth him selfe nowe agayne not in honoure and glory, as betwene Mo<g ref="char:EOLhyphen"/>ses and H<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>ly as: but in rebuke and shame as betwene two mor<g ref="char:EOLhyphen"/>therars, to trye hys true frendes and to proue whe<g ref="char:EOLhyphen"/>ther there by any fayth on the erth.</p>
+</div>
+        </body>
+  </text>
+</TEI>

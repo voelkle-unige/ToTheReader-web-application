@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1563</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114630_Fr1_4</idno>
+           <idno type="DLPS">A09568</idno>
+           <idno type="STC">19849</idno>
+           <idno type="ESTC">S114630</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe chronicle of the foure principall empyres : To witte, of Babilon, Persia, Grecia, and Rome. Wherein, very compendiously, the whole course of histories are conteined. Made by the famous and godly learned man Iohn Sleidan, and englished by Stephan Wythers</title>
+                 <author>Sleidanus, Johannes</author>
+                 <imprint>
+                    <publisher>Hall, Rowland</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1563</date>
+                 </imprint>
+                 <extent>9, 105 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="7"/>
+   <head>To the Reader.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">S</seg>Ith no mans doings, can auoyde,</l>
+      <l>Reproch at Momus hand:</l>
+      <l>I iudge it nedeles to craue ayde,</l>
+      <l>The same for to gaine stand.</l>
+   </lg>
+   <lg>
+      <l>Wherefore I will contented be,</l>
+      <l>The same to ouerronne:</l>
+      <l>With silence and simplicitie,</l>
+      <l>As many moe haue donne.</l>
+   </lg>
+   <lg>
+      <l>Trusting that such as be of skill,</l>
+      <l>Hereat wyll not disdayne:</l>
+      <l>But it in gre, they accept will,</l>
+      <l>To recompence my payne.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

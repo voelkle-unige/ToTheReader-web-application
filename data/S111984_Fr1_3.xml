@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111984_Fr1_3</idno>
+           <idno type="DLPS">A21064</idno>
+           <idno type="STC">7432</idno>
+           <idno type="ESTC">S111984</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at Paules Crosse the 19. of Iuli 1579 : setting forth the excellencye of Gods heauenlye worde: The exceeding mercye of Christ our Sauiour: the state of this world: A profe of the true Church: A detection of the false Church: or rather malignant rable: A confutation of sundry hæresies: and other thinges necessary to the vnskilfull to be knowen. By Iohn Dyos. Seene and allowed</title>
+                 <author>Dyos, John</author>
+                 <imprint>
+                    <publisher>Day, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 </imprint>
+                 <extent>8, 79 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <lg>
+      <pb facs="9"/>
+      <l>COntio Dios celebrata crebris</l>
+      <l>Vocibus, flexit populum potentem,</l>
+      <l>At{que} plebeios animos rigauit</l>
+      <l>Nectare suaui.</l>
+   </lg>
+   <lg>
+      <l>Pauit aeternis epulis Iehouae</l>
+      <l>Indigas mentes: sitibunda prata:</l>
+      <l>Rore diuino, fluuio{que} sparsit</l>
+      <l>Corda salubri.</l>
+   </lg>
+   <lg>
+      <l>Fregit &amp; vires Latij Tyranni,</l>
+      <l>Praescidit cristas: triplicem coronam</l>
+      <l>Contudit: fido Salios salaces</l>
+      <l>Arguit ore.</l>
+   </lg>
+   <lg>
+      <l>Inuidi Momi malesuada lingua</l>
+      <l>Putreat: corui lanient dolosos</l>
+      <l>Zoilos: Laruae valeant: facessat</l>
+      <l>Dira Megaera.</l>
+   </lg>
+   <p>ק. ב</p>
+</div>
+        </body>
+  </text>
+</TEI>

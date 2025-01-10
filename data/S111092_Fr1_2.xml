@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Maxwel, J.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111092_Fr1_2</idno>
+           <idno type="DLPS">A20983</idno>
+           <idno type="STC">7359</idno>
+           <idno type="ESTC">S111092</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Maxwel, J.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Emblema animæ or Morrall discourses reflecting upon humanitie. Written by John du Plesis now Cardinall of Richleu. Translated by I.M. Also varietie of obseruations delightfull to the minde</title>
+                 <author>Richelieu, Armand Jean de Plessis, duc de</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Okes (Oakes), John.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>10, 195, 7, 197-270 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <opener>
+      <salute>Courteous Reader:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>Here are three sorts of Men. <hi>Naturall, Morall, Divine;</hi> and all are partakers of <hi>Blessings,</hi> though not alike: The <hi>Naturall</hi> has that of Beasts, he lives, he feeds, and dyes before he can be said to be. The <hi>Mo<g ref="char:EOLhyphen"/>rall</hi> that of Men, which is in<g ref="char:EOLhyphen"/>dued with Reason, which <hi>guides</hi>
+      <pb facs="3"/>him to the knowledge of <hi>Artes,</hi> of <hi>Wisedome,</hi> of the perfection of <hi>Nature,</hi> the Solace of the <hi>Body,</hi> and Tranquillity of <hi>Minde.</hi> And hee lives the life of a Worthy man, and leaves behind him a lasting Memory. The <hi>Divine,</hi> hee flies a higher pitch then all, his <hi>Soule</hi> is moun<g ref="char:EOLhyphen"/>ted on the Wings of <hi>Contempla<g ref="char:EOLhyphen"/>tion,</hi> and having already all <hi>Morall instructions,</hi> hee soares with the Eagle to attaine those Heavenly <hi>Mysteries,</hi> which <hi>GOD</hi> himselfe hath Revealed, and never leaves till hee hath seated himselfe by a prepared flight, and happy death in the high Tribunall of that Holy of Holies.</p>
+   <p>Courteous Reader, the Au<g ref="char:EOLhyphen"/>thor of this little Booke (who writ it, though long since, in French) had liberall Education
+<pb n="245" facs="3"/>which diverted him from pitch<g ref="char:EOLhyphen"/>ing upon the first. And the Controversies of the Times would not permit his Free <hi>soule</hi> to instruct the last. So that Re<g ref="char:EOLhyphen"/>tiring himselfe into a meane betwixt them both, hee writ this little Booke, and Intituled it <hi>Emblema Animae,</hi> which though <hi>Morall,</hi> yet hee that Understands, may finde both <hi>GOD</hi> and <hi>Nature</hi> in it, and in mine opinion, hee makes the best Concord, that joynes these together, where we may finde <hi>Man</hi> in <hi>Nature,</hi> that in <hi>Him,</hi> and <hi>GOD</hi> in them both.</p>
+   <p>The Wri<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>er or Composer of this little Volumne, being a man of great Eminency and Learning, whose Fame divul<g ref="char:EOLhyphen"/>geth it selfe daily to the World. I hope, is enough to commend
+<pb facs="4"/>it without my weake applause. For my part, as I was the Trans<g ref="char:EOLhyphen"/>latour, I assume nothing to my selfe; but onely desire for my labour, that it may bee intertai<g ref="char:EOLhyphen"/>ned friendly, and cersured cha<g ref="char:EOLhyphen"/>ritably: this is all that I shall re<g ref="char:EOLhyphen"/>quire at thy hand, gentle Rea<g ref="char:EOLhyphen"/>der, and in lieu whereof, thou shalt ever have my Wishes, that what hee hath Writ may worke happy effects in thee; and this is the part of a Friend.</p>
+   <closer>
+      <signed>J. MAXVVEL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

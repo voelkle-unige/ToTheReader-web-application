@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4824_Fr1_6</idno>
+           <idno type="DLPS">A09645</idno>
+           <idno type="STC">19910.5</idno>
+           <idno type="ESTC">S4824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Paraphrase vpon the seaven penitentiall [sic] psalmes of the kingly prophet : Translated out of Italian by I.H</title>
+                 <imprint>
+                    <publisher>Pinchon (Pinson), Gerard</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>8 pages l, 240 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="7"/>
+   <p>THE courteous Reader, vpon notice that the Printer of this Treatise vnderstoode no English, will easily pardon what errours he finds against orthograph<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>e, the ioy<g ref="char:EOLhyphen"/>ninge of two wordes together, or dis - ioyninge the same word into two, &amp;c. Wherefore I onely desire without puttinge accordinge to cō<g ref="char:EOLhyphen"/>mon course a table of Errata's, that he will please to vnderstand in the 36. page and fift line, the wordes <hi>not through the workes of contrition, for<g ref="char:EOLhyphen"/>mally.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

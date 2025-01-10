@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Afterword]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102393_Ba1_1</idno>
+           <idno type="DLPS">A09093</idno>
+           <idno type="STC">19390</idno>
+           <idno type="ESTC">S102393</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Afterword]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Llyfr y resolusion : yr hvvn sydd yn dysguini bawb wneuthur ein goreu, a rhoi cwbl o'n bryd a'n meddwl ar fod yn wir Gristianogion, hynny ydyw ar ymadael a'n drwg uchedd, a throi ar ddaioni a duwioldeb; Wedi ei gyfieithu yn Gymraeg y gan I.D. er lles i'w blwyfolion</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Davies, John, of Mallwyd</publisher>
+                        </imprint>
+                 <extent>12, 520, 8 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="cy">Welsh</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="afterword">
+   <pb facs="276"/>
+   <p>MAddeuwch i mi yr beiau a ddiang<g ref="char:EOLhyphen"/>odd gan y gweithwyr, eisieu gwy<g ref="char:EOLhyphen"/>bod yr iaith; ac yn y tu cyntaf i'r ddalen <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>83, darllennwch y geiriau diwethaf fel hyn, <hi>o'r lle y bydd rhaid iddynt hwy fyned ymaith i'r lle, &amp;c.</hi>
+   </p>
+   <pb facs="276"/>
+   <pb facs="277"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="277"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

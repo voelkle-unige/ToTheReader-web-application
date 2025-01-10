@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN DIVINAM, DOCTISSIMAMQVE D. GVLIELMI MORI, de verâ crucis CHRISTI contem∣platione POESIN.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119839_Fr1_6</idno>
+           <idno type="DLPS">B14820</idno>
+           <idno type="STC">18063</idno>
+           <idno type="ESTC">S119839</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN DIVINAM, DOCTISSIMAMQVE D. GVLIELMI MORI, de verâ crucis CHRISTI contem∣platione POESIN.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The true crucifixe for true Catholickes or The way for true Catholickes to haue the true crucifixe. By Sr. William Moore, To: of Rovvallane Knight</title>
+                 <author>Mure, William, Sir</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>16, 238, that is 239, 7 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="8"/>
+   <head>IN DIVINAM, DOCTISSIMAMQVE D. <hi>GVLIELMI MORI,</hi> de verâ crucis CHRISTI contem<g ref="char:EOLhyphen"/>platione <hi>POESIN.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">D</seg>VM tu, <hi>More,</hi> sacri divinâ carminis arte,</l>
+   <l>Effigiem veram <hi>crucifixi</hi> ostendis <hi>Iesu.</hi>
+   </l>
+   <l>Non auro, argento-ve, nec aere, aut marmore sculptā</l>
+   <l>Qualia, vana superstitio sibi fingit <hi>idola,</hi>
+   </l>
+   <l>Humanae figmenta manus, inventaque mentis;</l>
+   <l>Sed quam divini pingunt proeconia <hi>verbi,</hi>
+   </l>
+   <l>Corporis haud oculis, fidei sed luce videndam,</l>
+   <l>Non collo, manibus ve, pio sed corde ferendam:</l>
+   <l>In terris, nomen tibi, de Cruce <hi>Musa,</hi> parabit,</l>
+   <l>Marmoreis statuis, omni{que} perennius aere,</l>
+   <l>
+      <hi>Crux</hi> ipsa, in coelis, vitae immortalis honorem.</l>
+</div>
+        </body>
+  </text>
+</TEI>

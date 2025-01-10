@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Zoilum.</title>
+           <author>Sandaeus, Pat.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104449_Fr1_8</idno>
+           <idno type="DLPS">A06768</idno>
+           <idno type="STC">17207</idno>
+           <idno type="ESTC">S104449</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Zoilum.</title>
+                 <author>Sandaeus, Pat.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Buckler of bodilie health : whereby health may bee defended, and sickesse repelled: consecrate by the au [thor] the vse of his cou [...] [...] shing from his heart (though it were to his hurt) to see the fruites of his labour on the constant wellfare of all his countrie-men. By Mr. Iohn Makluire, Doctor in Medicine</title>
+                 <author>Makluire, John</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>14, 133, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Zoilum.</head>
+   <lg>
+      <l>TEntas <hi>Maklurii</hi> incassum discerpere nomen,</l>
+      <l>Livide, praeclarum iam super astra volat.</l>
+      <closer>
+         <signed>Pat. Sandaeus.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

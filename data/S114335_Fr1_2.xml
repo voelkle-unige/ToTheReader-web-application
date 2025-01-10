@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>H., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114335_Fr1_2</idno>
+           <idno type="DLPS">A16192</idno>
+           <idno type="STC">3115.3</idno>
+           <idno type="ESTC">S114335</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>H., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at the Charterhouse : before the Kings Maiestie, on Tuesday, the tenth of May. 1603. By D. Blague, Deane of Rochester, the Kings chaplaine</title>
+                 <author>Blague, Thomas</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>32 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">B</seg>Onum, quò communius, eò melius.</hi> Few persons in respect heard this Sermon, the place would not otherwise afford it: But one being present at that time, tooke the notes of it, &amp; supposing it to be so comfortable a doctrine to others, as he found it delightfull to himselfe, as well in regard of the matter deliuered, as the graue and methodicall deli<g ref="char:EOLhyphen"/>uery thereof, was hold to make many others partakers of it, hoping there is little, or no difference betwixt the publishing of it now, and the preaching of it then: Howsoeuer, ac<g ref="char:EOLhyphen"/>cept his endeuour, being willing that all the Lords people should prophecy, and reape whole<g ref="char:EOLhyphen"/>some instruction and comfort thereby.</p>
+   <closer>
+      <signed>Farewell in the Lord,
+<hi>H. H.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

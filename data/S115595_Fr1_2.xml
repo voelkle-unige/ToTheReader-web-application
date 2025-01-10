@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Currantiers to the Readers.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115595_Fr1_2</idno>
+           <idno type="DLPS">A08143</idno>
+           <idno type="STC">18507.277</idno>
+           <idno type="ESTC">S115595</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Currantiers to the Readers.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Numb [er] . 1. An abstract of some speciall forreigne occurrences, brought down to the weekly newes, of the 20 of December. Or, The severall passages and novels which have happened in Germany, France, Spaine, Italy, and other places some few moneths since</title>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <distributor>Bourne, Nicholas</distributor>
+                            <distributor>Butter, Nathaniel</distributor>
+                        </imprint>
+                 <extent>96 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Currantiers to the Readers.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Readers, this Intelligen<g ref="char:EOLhyphen"/>cer the <hi>Curranto</hi> having been long silenced, and now permit<g ref="char:EOLhyphen"/>ted by Authority to speake a<g ref="char:EOLhyphen"/>gain, presents you here at first with such things as passed some months since, not because we conceive that they are absolutely No<g ref="char:EOLhyphen"/>vels unto you, but first because there is fraud in generalities, we thought fit to acquaint you with each particular; and secondly, that by these Ante<g ref="char:EOLhyphen"/>cedents you may the better understand the Conse<g ref="char:EOLhyphen"/>quents, which wee shall now publish weekely as heretofore.</p>
+   <div type="part">
+      <pb facs="3"/>
+      <head>Amongst other speciall Avisoes, these:</head>
+      <p>THe famous battell betwixt D. <hi>Bernard Weymar,</hi> and Generall <hi>Gotz</hi> at the black Wood in <hi>Iuly</hi> last past.</p>
+      <p>The battell of the Prince <hi>Palatine,</hi> and Gene<g ref="char:EOLhyphen"/>rall <hi>Hartzfield</hi> in Westphalia neere Minden, where Prince <hi>Robert,</hi> and the Lord <hi>Craven</hi> were taken prisoners.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

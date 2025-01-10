@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104251_Fr1_3</idno>
+           <idno type="DLPS">A03724</idno>
+           <idno type="STC">13848</idno>
+           <idno type="ESTC">S104251</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The ambassador</title>
+                 <author>Hotman, Jean, seigneur de Villers-Saint-Paul</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Shaw, James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>158 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">G</seg>Entle Reader,</salute>
+   </opener>
+   <p>the learned Au<g ref="char:EOLhyphen"/>thor of this Treatise, account<g ref="char:EOLhyphen"/>ing it a subiect fitte onely for the view of high spirites, and such as already were, or in time might be called to the great affaires of the common wealth: suffered no other copies to be extant then those which he dispersed to his priuate friends, as himselfe affirmeth. A Gentleman hauing recouered one of them, did at the re<g ref="char:EOLhyphen"/>quest of some particular friends, turne it into English, supposing that the scribled copie, which, through haste, and want of leasure, was taken as hee read it out of the originall, might satisfie his iudicious &amp; learned frinds. By reason whereof, the Printer following the same, hath committed some errors, through want of the Authors worke, and other vsuall assistance; which he neuerthelesse hopeth wil be excused with the great desire hee had to please the worthy learned &amp; noble Readers, to whom as he accounteth the Treatise pro<g ref="char:EOLhyphen"/>perly to belong: so he hopeth that his readi<g ref="char:EOLhyphen"/>nesse therein will be vnto them most accep<g ref="char:EOLhyphen"/>table.</p>
+   <pb facs="5"/>
+   <p>His
+<list>
+         <item>Behauiour,</item>
+         <item>Charge,</item>
+         <item>Priuileges,</item>
+         <item>Familie.</item>
+      </list>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

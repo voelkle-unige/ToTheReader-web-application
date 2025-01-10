@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right excellent and most honorable Ladie, the La∣die Marie, Countesse of Pembroke.</title>
+           <author>Fraunce, Abraham</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118719_Fr1_1</idno>
+           <idno type="DLPS">A01224</idno>
+           <idno type="STC">11338</idno>
+           <idno type="ESTC">S118719</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right excellent and most honorable Ladie, the La∣die Marie, Countesse of Pembroke.</title>
+                 <author>Fraunce, Abraham</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Arcadian rhetorike: or The præcepts of rhetorike made plaine by examples : Greeke, Latin, English, Italian, French, Spanish, out of Homers Ilias, and Odissea, Virgils Aeglogs, [...] and Aeneis, Sir Philip Sydnieis Arcadia, songs and sonets [...] By A. Fraunce</title>
+                 <author>Fraunce, Abraham</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <publisher>Gubbin (Gubbins), Thomas.</publisher>
+                            <publisher>Newman, Thomas.</publisher>
+                            <publisher>Orwin, Thomas</publisher>
+                        </imprint>
+                 <extent>152+ pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dialectics and rhetoric</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="1"/>
+   <head>To the Right excellent and most honorable Ladie, the La<g ref="char:EOLhyphen"/>die Marie, Countesse of <hi>Pembroke.</hi>
+   </head>
+   <l>VOi, pia nympha, tuum, quem tolse la morte, Philippū,</l>
+   <l>AEdentem llenas coelestis melle palabras.</l>
+   <l>Italicum lumen, flowre of Fraunce, splendor Iberus,</l>
+   <l>Italicus Tasso, French Salust, Boscan Iberus,</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> Virgil, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>,</l>
+   <l>Greekish Homer, tanto lati iunguntur <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</l>
+   <closer>
+      <signed>Your Honors most <hi>affectionate.</hi> Abraham Fraunce.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE WORTHIE Knight Sir Peter Manwood.</title>
+           <author>Markham, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108474_Fr1_2</idno>
+           <idno type="DLPS">A68345</idno>
+           <idno type="STC">15485</idno>
+           <idno type="ESTC">S108474</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE WORTHIE Knight Sir Peter Manwood.</title>
+                 <author>Markham, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Low-Country common wealth : contayninge an exact description of the eight vnited Prouinces. Now made free. Translated out of french by Ed· Grimeston</title>
+                 <author>Le Petit, Jean François</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>8, 303, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE WORTHIE Knight Sir <hi>Peter Manwood.</hi>
+   </head>
+   <opener>
+      <salute>Sir.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">A</seg>Fter the Edition of the <hi>Ne<g ref="char:EOLhyphen"/>therland</hi> Historie, I was in<g ref="char:EOLhyphen"/>treated to peruse and translate this discourse, being a descrip<g ref="char:EOLhyphen"/>tion of the vnited Prouinces, written by <hi>Iohn Francis Pe<g ref="char:EOLhyphen"/>tit,</hi> one of the cheefe Authors of that Historie; who (as he himselfe doth auerre) hath made a particular suruay of all the Prouinces, townes and forts, which are now vnder the gouernment of the Confederate Estates. And finding it likely to giue some contentment to the Reader, and necessarie, as well for his better vnderstanding of the Historie, as for his knowledge of the strength and state of those Prouinces, which haue maintained so long and difficult a warre, against so potent a Monarke: I haue spent
+<pb facs="3"/>
+such houres, as I could well spare, from my more neces<g ref="char:EOLhyphen"/>sarie imployments (since my comming into <hi>France)</hi> in the traduction thereof, that it might bee printed as an Appendix to the History. The which I cannot re<g ref="char:EOLhyphen"/>commend to any Gentleman better deseruing of mee then your selse, vnto whom I am much bound for many kind fauors and respects. Accept it good <hi>Sir,</hi> though not worthy of your view, yet as a testymonie of his loue and thankefullnesse, who will alwaies remaine</p>
+   <closer>
+      <signed>Yours, deuoted to doe<lb/>
+you seruice.
+<hi>Edward Grimeston.</hi>
+      </signed>
+      <dateline>Orleans <date>Aprill <hi>10.</hi>
+            <lb/>
+stilo nouo. <hi>1609.</hi>
+         </date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

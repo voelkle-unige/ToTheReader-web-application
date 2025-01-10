@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN SERENISSIMI ET POTENTISSIMI MONARCHAE, IACOBI Magnae Britanniae, Fran∣ciae &amp; Hiberniae Regis, feli∣cem in Scotiam reditum.</title>
+           <author>C., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117591_Fr1_2</idno>
+           <idno type="DLPS">A21130</idno>
+           <idno type="STC">7487</idno>
+           <idno type="ESTC">S117591</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN SERENISSIMI ET POTENTISSIMI MONARCHAE, IACOBI Magnae Britanniae, Fran∣ciae &amp; Hiberniae Regis, feli∣cem in Scotiam reditum.</title>
+                 <author>C., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nostōdia : In serenissimi, potentissimi, et inuictissimi monarchae, Iacobi Magnæ Britanniæ, Franciæ &amp; Hiberniæ Regis, fidei defensoris, &amp;c. felicem in Scotiam reditum, Academiæ Edinburgensis congratulatio</title>
+                 <author>University of Edinburgh</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>50, 6 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedicatory_poem">
+   <pb facs="2"/>
+   <pb n="3" facs="2"/>
+   <head>IN SERENISSIMI ET POTENTISSIMI MONARCHAE, IACOBI Magnae Britanniae, Fran<g ref="char:EOLhyphen"/>ciae &amp; Hiberniae Regis, feli<g ref="char:EOLhyphen"/>cem in Scotiam reditum.</head>
+   <l>
+      <seg rend="decorInit">C</seg>AEsaribus quondam posuit quos Roma triumphos,</l>
+   <l>Augusto hos reduci Scotia laeta suo.</l>
+   <l>Sed magno majora auso quae digna Monarchae?</l>
+   <l>(Qui tulit inuictâ tanta trophaea manu)</l>
+   <l>Ante triumphales currus Ecclesia praeses,</l>
+   <l>Iustitia &amp; pietas cingit vtrumque latus.</l>
+   <l>Inter regales fulget Clementia turmas,</l>
+   <l>Virtutum glomerans agmine tota cohors.</l>
+   <l>Relligionis apex purae, Babylonica pellex</l>
+   <l>Vindice quo Herculeo robore victa jacet▪</l>
+   <l>Ingredere, O felix multùm, felicior exi,</l>
+   <l>(Si Phoebi radiis non licet vsque frui)</l>
+   <l>Et quàm optatus ades, Regum lux maxima, tanto</l>
+   <l>Major &amp; eclipsis, noxque recessus erit.</l>
+   <closer>
+      <signed>R. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

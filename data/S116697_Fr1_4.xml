@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116697_Fr1_4</idno>
+           <idno type="DLPS">A11516</idno>
+           <idno type="STC">21762</idno>
+           <idno type="ESTC">S116697</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of the Councel of Trent : Conteining eight bookes. In which (besides the ordinarie actes of the Councell) are declared many notable occurrences, which happened in Christendome, during the space of fourtie yeeres and more. And, particularly, the practises of the Court of Rome, to hinder the reformation of their errors, and to maintaine their greatnesse. Written in Italian by Pietro Soaue Polano, and faithfully translated into English by Nathanael Brent</title>
+                 <author>Sarpi, Paolo</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 <publisher>Bill, John 1.</publisher>
+                            <publisher>Norton, Bonham</publisher>
+                        </imprint>
+                 <extent>12, 881, that is 879, 17 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, thou shalt see in this Booke greater va<g ref="char:EOLhyphen"/>rietie of remarkeable accidents, then, before the reading of it, thou couldest haue possibly imagined. The state of re<g ref="char:EOLhyphen"/>ligion quite altered, in diuers Kingdomes and Countreys of Christendome; the <hi>Grandies</hi> sometimes diuided and armed one against another, sometimes ioyned in confederations and leagues; the <hi>Ecclesiastikes</hi> oppressed; the <hi>Protestants</hi> per<g ref="char:EOLhyphen"/>secuted; the <hi>Bishops</hi> of <hi>Rome,</hi> as it were, acting their parts, and most liuely deciphered in their naturall colours. If learning will content thee, marke the disputations of the Theologues, and the deepe discourses of the Author him<g ref="char:EOLhyphen"/>selfe. If policie will please thee, thou shalt finde it in the consultations and treaties of Princes, managed, with admirable dexterity, by their Am<g ref="char:EOLhyphen"/>bassadors and Ministers; and generally no delight will bee wanting to thee, which thy curiositie can desire, or any other Historie affoord. But consider, aboue all, in what a strange manner the Conciliarie Acts of this assembly in <hi>Trent</hi> were caried. By reading of those few words of thy Countrey-man <hi>Edmond Campian,</hi> below in this page, thou maist perceiue in what repute the Papalins doe hold it; and after, when thou hast read the Booke, thou wilt know how much it is ouer-valued. Compare thy iudicious censure with his that is partiall, and thou shalt finde them to agree as white with blackenesse, darkenesse with light. Farewell.</p>
+   <div xml:lang="lat" type="quotation">
+      <head>Verba <hi>Edmundi Campiani,</hi> ratione quarta, reddita <hi>Academicis.</hi>
+      </head>
+      <p>
+         <seg rend="decorInit">T</seg>Ridentina Synodus quo magis inueterascet, eò magis indies ebque perennius efflores<g ref="char:EOLhyphen"/>cet. Bone Deus, quae gentium varietas, qui delectus Episcoporum totius orbis, qui regum &amp; rerumpublicarum splendor, quae medulla Theologorum, quae sanctitas, quae lachrymae, quae ieiunia, qui flores Academici, quae linguae, quanta subtilitas, quantus labor, quam infinita lectio, quanta virtutum &amp; studiorum diuitiae augustum illud Sacrarium im<g ref="char:EOLhyphen"/>pleuerunt?</p>
+   </div>
+   <div type="translation">
+      <head>The words of <hi>Edmond Campian</hi> in his fourth reason giuen <hi>to the Vniuersities.</hi>
+      </head>
+      <p>
+         <seg rend="decorInit">T</seg>He Synod of <hi>Trent</hi> the older it waxeth, the more it will flourish, Good God, what varietie of Nations, what choice of Bishops of the whole world, what splendor of Kings and Common-wealths, what marrow of Theologues, what sanctitie, what weepings, what fasts, what Academicall flowres, what languages, what subtilties, what labour, what infinite reading, what riches of vertues and studies did fill vp that Maiesticall sacred place?</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Euripides Helena.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124946_Fr4_3</idno>
+           <idno type="DLPS">A72143</idno>
+           <idno type="STC">11652b.5</idno>
+           <idno type="ESTC">S124946</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Euripides Helena.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine sermons, first preached, and after published at severall times, by M. Thomas Gataker B. of D. and pastor at Rotherhith. And now gathered together into one volume: the severall texts and titles whereof are set downe in the leafe following</title>
+                 <author>Gataker, Thomas</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <distributor>Griffin, Anne</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>8, 347, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Euripides Helena.</head>
+   <lg>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>,</l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</l>
+   </lg>
+   <lg>
+      <l>Imple tuorum vota, dum refers pii</l>
+      <l>Mores parentis: nam{que} honoris culmen hoc</l>
+      <l>Summum, parente siquis editus pio</l>
+      <l>Pietate patrem &amp; ipse prosequitur pium.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

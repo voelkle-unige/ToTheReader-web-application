@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The preface to the reader.</title>
+           <author>M., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1548</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106358_Fr1_2</idno>
+           <idno type="DLPS">A06681</idno>
+           <idno type="STC">17137</idno>
+           <idno type="ESTC">S106358</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The preface to the reader.</title>
+                 <author>M., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A breife recantacion of maystres Missa : and howe she accuseth the slouthfulnesse of her chapleyns, with her lamentable departyng vnto her father the Pope. 1.5 4.8</title>
+                 <author>I. M.</author>
+                 <imprint>
+                    <publisher>Wyer (Wyre), Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1548</date>
+                 </imprint>
+                 <extent>12 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface_to_the_reader">
+   <pb facs="3"/>
+   <head>¶ The preface to the reader.</head>
+   <head type="sub">
+      <hi>A.S.I.M.S.D.F.</hi>
+   </head>
+   <p>BE thou not moued gen<g ref="char:EOLhyphen"/>ryll Reader bycause that I haue not obserued y<seg rend="sup">e</seg> due order of a Recanta<g ref="char:EOLunhyphen"/>cion, for it is not onely a recantacion, but also an accusacion or complaynte of the flouthfulnes of her Chaplaynes that haue so longe tyme orsceyued her, and borne her in hande that she had al her powre of the scripture, and now in tyme of nede neuer one of them will stande to the proufe of it, but lette it passe as though they hat neuer ben cō<g ref="char:EOLhyphen"/>sentynge to the same as thou mayste more playnly perce yue in readynge the booke.</p>
+   <closer>
+      <salute>Fare well the.i. of Iune.</salute>
+      <signed>By me. <hi>I. M.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

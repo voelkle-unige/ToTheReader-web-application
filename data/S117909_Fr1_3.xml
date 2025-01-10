@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Introduction]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117909_Fr1_3</idno>
+           <idno type="DLPS">A13073</idno>
+           <idno type="STC">23366</idno>
+           <idno type="ESTC">S117909</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Introduction]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The forme of the agreement made at Strumsdorff : Of the truce for twenty six yeares to come, concluded betwixt the high and mighty prince, the Kings Majesty of Poland, great Duke of Lettow, &amp;c. as also of the kingdome of Poland, and great dukedome of Lettow; on tbe [sic] one party. And the high and mighty princesse, the Queenes Maiestie, and kingdome of Sweden; on the other partie. Comprised in twenty foure articles</title>
+                 <author>Poland</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <distributor>Bourne, Nicholas</distributor>
+                            <distributor>Butter, Nathaniel</distributor>
+                        </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Ordinances, edicts, proclamations</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="introduction">
+   <pb facs="3"/>
+   <p>
+      <seg rend="decorInit">V</seg>Ladislaus IV. Dei gratia Poloniae, Magnus Dux Lithuaniae, &amp;c. Significa<g ref="char:EOLhyphen"/>mus, &amp;c. Dedisse Nos Commissarios nostros plena potestate ac mandatis Jnstructos ad Tractan<g ref="char:EOLhyphen"/>dum, (interveniente mediatione Sere<g ref="char:EOLhyphen"/>nissimorum Galliae &amp; Magnae Bri<g ref="char:EOLhyphen"/>tanniae Regum, aliorumque Principū) de pace aut Jnauciis cum Serenissima Principe, ac Domina Christina, Sue<g ref="char:EOLhyphen"/>corum, Gothorum, Ʋandolorumque de<g ref="char:EOLhyphen"/>signata Reginâ, Magna Principe Fin<g ref="char:EOLhyphen"/>landiae, &amp;c. consanguinea nostra, &amp; Regno Sueciae. Qui congressi cum Sere<g ref="char:EOLhyphen"/>nitacis eius, &amp; Regni Sueciae Commis<g ref="char:EOLhyphen"/>sariis;
+<pb facs="4"/>sequentia Pacta, (uti verbote<g ref="char:EOLhyphen"/>nus infra sunt expressa &amp; inserta) ini<g ref="char:EOLhyphen"/>erunt, statuerunt, ac concluserunt.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116181_Fr2_2</idno>
+           <idno type="DLPS">A11058</idno>
+           <idno type="STC">21324</idno>
+           <idno type="ESTC">S116181</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An exposition on the fourteene first chapters of Genesis, by way of question and answere : Collected out of ancient and recent writers: both briefely and subtilly propounded and expounded. By Abraham [sic] Rosse of Aberden, preacher at St. Maries neere South-Hampton, and one of his Maiesties chaplaines</title>
+                 <author>Ross, Alexander</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas.</publisher>
+                            <publisher>Uphill, Anthony</publisher>
+                        </imprint>
+                 <extent>16, 116, 6, 241, that is 214, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="69"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">W</seg>Aspes we know can sting, although they can neither make honie nor waxe: so now adaies there are many carpin<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>
+      </hi> Critickes, <hi>who can reproue and cen<g ref="char:EOLhyphen"/>sure the workes of other men, when in the meane while, either they can not, or at least they will not bring forth the like fruits, whereby they may profite the Church and Common-wealth.</hi> Nil tam facilè quam otiosum &amp; dormientem de aliorum labore &amp; vigilijs disputa<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>e. Hieron. in Oseam. <hi>These men saith</hi> Augustin, Magis amant vi<g ref="char:EOLhyphen"/>tuperare<note place="margin">Aug. <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> dom. in mo<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>.</note> &amp; damnare quam emendare &amp; corrigere, quod vitium vel est superbiae vel invidiae. <hi>Therefore I doubt not but such</hi> Viti<g ref="char:EOLhyphen"/>litigatores
+<pb facs="70"/>
+      <hi>will giue their sensure of this booke, before they reade it: affirming that be<g ref="char:EOLhyphen"/>cause some haue written already of this subiect, therefore there is no vse of it, but I desire them first to reade and conferre this with others, for according to the Greeke prouerbe,</hi>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, <hi>then after they haue read and conferred let them censure. For</hi>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+      <hi>is a foule vice, and let them remem<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> that the pro<g ref="char:EOLhyphen"/>uerbe is true:</hi>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</p>
+</div>
+        </body>
+  </text>
+</TEI>

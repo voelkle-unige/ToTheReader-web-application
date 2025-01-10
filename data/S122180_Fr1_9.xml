@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122180_Fr1_9</idno>
+           <idno type="DLPS">A23279</idno>
+           <idno type="STC">972</idno>
+           <idno type="ESTC">S122180</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Devotionis Augustinianae flamma, or, Certaine devout, godly, and learned meditations (written, by the excellently-accomplisht gentleman, William Austin, of Lincolnes-Inne, Esquire. The particulars whereof, the reader may finde in the page following;) set forth, after his decease, by his deare wife and executrix, Mrs. Anne Austin, as a surviving monument of some part of the great worth of her ever-honoured husband, who changed his life, Ian 16. 1633</title>
+                 <author>Austin, William</author>
+                 <imprint>
+                    <publisher>Legat, John 2</publisher>
+                    <distributor>Mab (Mabbe), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>8, 30, 2, 31-54, 3, 56-95, 3, 97-292 pages, illustrations (woodcut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="7"/>
+   <p>DEO OPTIMO MAXIMO, ET ECCLESIAE CATHOLICAE,
+HVIVSQVE FILIAE CASTISSIMAE, SANCTIS<g ref="char:EOLhyphen"/>SIMAEQVE, ECCLESIAE ANGLICANAE, (MATRI SVAE PIENTISSIMAE) HAS SVAS THEOLOGICAS LVCVBRATIONES, PIETATIS ERGO (CVM ADHVC IN VIVIS ESSET) DI<g ref="char:EOLhyphen"/>CAVIT, CONSECRAVIT, ET TESTAMEN<g ref="char:EOLhyphen"/>TO LEGAVIT, VIR OMNI VIRTV<g ref="char:EOLhyphen"/>TVM GENERE CONSVMMA<g ref="char:EOLhyphen"/>TISSIMVS, GVILIELMVS AVGVSTINVS AR<g ref="char:EOLhyphen"/>MIGER.</p>
+</div>
+        </body>
+  </text>
+</TEI>

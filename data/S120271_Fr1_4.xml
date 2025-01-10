@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An aduertisement to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120271_Fr1_4</idno>
+           <idno type="DLPS">A15724</idno>
+           <idno type="STC">25997</idno>
+           <idno type="ESTC">S120271</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An aduertisement to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discouerie of sundrie errours and faults daily committed by lande-meaters, ignorant of arithmetike and geometrie, to the damage, and preiudice of many her Maiesties subiects : with manifest proofe that none ought to be admitted to that function, but the learned practisioners of those sciences: written dialoguewise, according to a certaine communication had of that matter. By Edward Worsop, Londoner. Euery one that measureth land by laying head to head, or can take a plat by some geometricall instrument, is not to be accounted therfore a sufficient landmeater, except he can also prooue his instruments, and measurings, by true geometricall demonstrations</title>
+                 <author>Worsop, Edward</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 <publisher>Middleton, Henry.</publisher>
+                            <publisher>Seton, Gregory</publisher>
+                        </imprint>
+                 <extent>76 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="advert_for_geometrical_instruments">
+   <pb facs="5"/>
+   <head>An aduertisement to the Reader.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Cales, compasses, and sundry sorts of Geomatricall instruments in metall, are to be had in the house of Humfrey Cole, neere vnto the North dore of Paules, and at the house of Iohn Bull at the Exchange gate: in wood, at Iohn Reades in Hosier Lane, at Iames Lockersons dwelling neere the Conduite at Dowe<g ref="char:EOLhyphen"/>gate, and at Iohn Reynolds at Tower Hill. Euery figure in this Treatise is drawen according to some Scale, therefore the hauing of scales and compasses, and applying them to those figures, will make the demonstrations, and proofes herein very easie to the rea<g ref="char:EOLhyphen"/>ders thereof, though they vnderstand litle or nothing in Geometrie. I haue thought good to giue aduertisement hereof, because many that would prouide such things, knowe not where to haue them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

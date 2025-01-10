@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the most Excellent, mightie, and gracious Queene, ELIZABETH by the grace of God Queene of England, Fraunce, and Ireland, defender of the true Christian faith, grace and mercie from God our Faher, and from our Lorde Iesus Christ.</title>
+           <author>Renniger, Mihael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1587</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106425_Fr1_2</idno>
+           <idno type="DLPS">A10614</idno>
+           <idno type="STC">20888</idno>
+           <idno type="ESTC">S106425</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the most Excellent, mightie, and gracious Queene, ELIZABETH by the grace of God Queene of England, Fraunce, and Ireland, defender of the true Christian faith, grace and mercie from God our Faher, and from our Lorde Iesus Christ.</title>
+                 <author>Renniger, Mihael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise conteining two parts : 1 An exhortation to true loue, loyaltie, and fidelitie to her Maiestie. 2 A treatise against treasons, rebellions, and such disloyalties. Written by Michael Renniger</title>
+                 <author>Renniger, Michael</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1587</date>
+                 </imprint>
+                 <extent>308 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>❧ To the most Excellent, <hi>mightie, and gracious Queene,</hi> ELIZABETH by the grace of God Queene <hi>of England, Fraunce, and Ireland, defender of the</hi> true Christian faith, grace and mercie from God our Faher, and from <hi>our Lorde Iesus Christ.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">M</seg>OST Humblie I beseech your gracious Maiestie, to vouchsafe the accepting of this small treatise, of one of your Maiesties old sworne seruantes of houshoulde, and (althouge of the least and most vnwor<g ref="char:EOLhyphen"/>thyest) of the association. The great occasion of the late occurentes, hath induced me to sounde the trumpet of exhortation out of the worde of God, in a good and acceptable season (I trust) to doe good to all subiectes of your Maiestie, which shall read or heare the same. Most hartelie I pray God the fa<g ref="char:EOLhyphen"/>ther of our Lorde Iesus Christ, to vouchsafe by it (as the ordinarie meanes of his blessed
+<pb facs="3"/>
+will) with his spirite to worke good in th heares of all subiectes to your Maiestie, t<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> whose handes or eares it shal come. And that his tender mercie in Christ, will continuallie set the watch and gard of his prouidence, a<g ref="char:EOLhyphen"/>bout the royall person and estate of your Ma<g ref="char:EOLhyphen"/>iestie, and keepe you as the apple of an eye, (as <hi>Dauid</hi> prayeth) and vnder the couert of his owne winges, from all conspiracies, trea<g ref="char:EOLhyphen"/>sons, and plattes of practises, at home or a<g ref="char:EOLhyphen"/>broade, of al enemies whatsoeuer: And blesse your Maiestie, with longe life, prosperous reigne, and victorie ouer all your enemyes.</p>
+   <closer>
+      <signed>Your Maiesties Most humble and faithfull subiect, and seruant <hi>Mihael Renniger.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

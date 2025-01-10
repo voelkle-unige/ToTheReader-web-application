@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE BOOKE TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114627_Fr1_2</idno>
+           <idno type="DLPS">A00549</idno>
+           <idno type="STC">10687</idno>
+           <idno type="ESTC">S114627</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE BOOKE TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An East-India colation; or A discourse of travels : set forth in sundry obseruations, briefe and delightfull; collected by the author in a voyage he made unto the East-Indies, of almost foure yeares continuance. Written by C.F</title>
+                 <author>Farewell, Christopher</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>8, 69, 1, 24 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>THE BOOKE TO THE READER.</head>
+   <lg>
+      <l>MY Author for his Love, his Cost,</l>
+      <l>and vertuous <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>,</l>
+      <l>Desires but Love for love</l>
+      <l>of you his Cour<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>eous Reader;</l>
+      <l>Whose Nature bountifull, I need not,</l>
+      <l>(nor is't my intent)</l>
+      <l>Here t'unfold; being knowne to all</l>
+      <l>to be magnificent;</l>
+      <l>The smaller that I seeme in worth,</l>
+      <l>the greater is the praise</l>
+      <l>Of love in him, whose bounteous deeds</l>
+      <l>transcend desert alwayes.</l>
+      <l>Greatnesse will shew greatnesse ever,</l>
+      <l>and what so great as love?</l>
+      <l>Or what so much as guifts (of Grace)</l>
+      <l>doth this grand vertue prove?</l>
+      <l>If reading in me, any good (perhaps)</l>
+      <l>you chance to find</l>
+      <l>Make use thereof, reteyne it well,</l>
+      <l>and love him for't in mind.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

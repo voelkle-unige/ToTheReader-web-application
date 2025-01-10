@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LIBER AD LEC∣TOREM.</title>
+           <author>Ward, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1562</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105152_Fr1_2</idno>
+           <idno type="DLPS">A19788</idno>
+           <idno type="STC">6214</idno>
+           <idno type="ESTC">S105152</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LIBER AD LEC∣TOREM.</title>
+                 <author>Ward, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The pleasaunt and vvittie playe of the cheasts renewed : with instructions both to learne it easely, and to play it well. Lately translated out of Italian into French: and now set furth in Englishe by Iames Rowbothum</title>
+                 <author>Damiano, da Odemira</author>
+                 <imprint>
+                    <publisher>Hall, Rowland</publisher>
+                    <distributor>Rowbotham (Robothum), James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1562</date>
+                 </imprint>
+                 <extent>112 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>LIBER AD LEC<g ref="char:EOLhyphen"/>TOREM.</head>
+   <l>HVne ego pingo iocū lusori fraude carentē</l>
+   <l>Caetera sunt variis omnia plena dolis.</l>
+   <l>Nobilis hic iocus est, vllas nec suscitat iras,</l>
+   <l>Atrae nec quicquam bilis inesse potest.</l>
+   <l>Caetera sē{per} habēt fucos, hic sem{per} <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <l>Caetera fraus ornat, nullus in hoc dolus est.</l>
+   <l>Etsi flexibili ligno latrunculus omnis</l>
+   <l>Cultro excindatur, stet{que} carens anima</l>
+   <l>Hic tamen armati nunc militis induit arma</l>
+   <l>Belligeri{que} gerit ligneus effigiem.</l>
+   <l>Sunt hic regis omnis qui suscepere regendi</l>
+   <l>Penthesilea quibus prima locata loco est,</l>
+   <l>Sūt comites, equites, elephātes, sunt pedites{que}</l>
+   <l>Ex quibus est acies ordine structa bono.</l>
+   <l>Ludite nunc reges, animis secludite curas</l>
+   <l>Regali{que} ioco tempora conterite:</l>
+   <l>Ludice nūc proceres, nūc anglica lude iuuētus</l>
+   <l>Et mercatores ludite, lude puer.</l>
+   <l>Vxor lude, rogo, colludas at{que} marite</l>
+   <l>Et simul innuptae ludite pierides</l>
+   <l>Ludite ductores, ludat quo{que} miles in armis.</l>
+   <l>Ludite milltiae, ludite vterque domi.</l>
+   <l>Si quis in hoc abaco cupiat {per}discere quicquā</l>
+   <l>Me legat vt le<gap reason="illegible: faint" extent="3 letters">
+         <desc>•••</desc>
+      </gap> doctior esse queat.</l>
+   <closer>
+      <signed>W. Ward.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

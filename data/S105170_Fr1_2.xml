@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To Sir Reynald Argal Knight.</title>
+           <author>C., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105170_Fr1_2</idno>
+           <idno type="DLPS">A09745</idno>
+           <idno type="STC">20005</idno>
+           <idno type="ESTC">S105170</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To Sir Reynald Argal Knight.</title>
+                 <author>C., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ten sermons preached by that eloquent divine of famous memorie, Th. Playfere Doctor in Divinitie</title>
+                 <author>Playfere, Thomas</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>8, 270 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To Sir Reynald Argal Knight.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Worshipfull and my especiall good freind: How desirous I haue bin to answer som part of your worthy curtesies, at least by laying them open to the world, this small remembrance may testifie for me: and how vnable I am to equall de<g ref="char:EOLhyphen"/>seruings, the same remembrance testi<g ref="char:EOLhyphen"/>fieth against me, whether I will or no; be<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>ing borrowed from the monuments of a dead man, the onely glorie of his times while he liued. But it was fit that a farre greater gift then mine owne should aspire to be the instrument of your honour: and the testimonie of the dead, I tooke to be meeter euen in this
+<pb facs="3"/>
+regard, because that is as vnsuspected, as your kindnesse toward my sel<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>e hath beene euermore vncorrupted. And no further disturbing the harmonie of your best thoughts, or as you are wont to account it, dimini<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>hing the reward which is laid vp for you in heauen, by vntimely blazing merits vpon earth, I commit this <hi>depositum</hi> to your fauour and Patronage, my selfe also, and my en<g ref="char:EOLhyphen"/>deauours; resting alwaies at</p>
+   <closer>
+      <signed>Your Worships disposition
+D. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

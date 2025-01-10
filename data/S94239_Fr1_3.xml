@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S94239_Fr1_3</idno>
+           <idno type="DLPS">B14844</idno>
+           <idno type="STC">18155</idno>
+           <idno type="ESTC">S94239</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Six excellent treatises of life and death, collected (and published in French) by Philip Mornay, Sieur du Plessis: and now (first) translated into English</title>
+                 <author>Mornay, Philippe de, seigneur du Plessis-Marly</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Lownes, Matthew</publisher>
+                        </imprint>
+                 <extent>540 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <head>The Translator to the Reader.</head>
+   <p>Here knowe, that the first Discourse, mentioned in the Aduertisement ensu<g ref="char:EOLhyphen"/>ing, is none of these sixe here set down; but another precedent to these, and formerly translated by the Countesse of Pembroke.</p>
+</div>
+        </body>
+  </text>
+</TEI>

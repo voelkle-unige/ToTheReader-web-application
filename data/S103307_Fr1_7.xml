@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Epitaphium Concubinae.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103307_Fr1_7</idno>
+           <idno type="DLPS">A01850</idno>
+           <idno type="STC">11992</idno>
+           <idno type="ESTC">S103307</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Epitaphium Concubinae.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Leuites reuenge : containing poeticall meditations vpon the 19. and 20. chapters of Iudges. By R. Gomersall</title>
+                 <author>Gomersall, Robert</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Marriot, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>18, 76, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epitaph">
+   <pb facs="8"/>
+   <div xml:lang="lat" type="version">
+      <head>Epitaphium Concubinae.</head>
+      <l>Quae tristis ignes, <hi>Gibeah,</hi> passa est tuos,</l>
+      <l>Cultrumquè sponsi, cuius amplexum peti<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Non vnus ardor, ecce in amplexu perit,</l>
+      <l>Non vna facta victima &amp; multus rogus.</l>
+      <l>Discant puellae formasit quantum Nihil,</l>
+      <l>Virtus venusta est, pulchramens solus decor.</l>
+   </div>
+   <div xml:lang="eng" type="version">
+      <head>Englished thus.</head>
+      <l>Who suffer'd <hi>Gibeahs</hi> Lust, and her Lords knife,</l>
+      <l>Whom not one Suitor would haue had to wise;</l>
+      <l>By many Suitors perishing, here lyes,</l>
+      <l>A not-one Course, and many sacrifice.</l>
+      <l>O who would trust in formes, that houres impayre</l>
+      <l>Vertue's true shape, and onely Goodnesse fayre:</l>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

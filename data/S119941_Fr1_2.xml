@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous Reader.</title>
+           <author>P., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119941_Fr1_2</idno>
+           <idno type="DLPS">A09036</idno>
+           <idno type="STC">19328</idno>
+           <idno type="ESTC">S119941</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous Reader.</title>
+                 <author>P., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Cures for the itch : Characters. Epigrams. Epitaphs. By H.P</title>
+                 <author>Parrot, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Eliot’s Court Press.</publisher>
+                            <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Jones, Thomas 2</publisher>
+                        </imprint>
+                 <extent>144 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>T is now almost two yeares expired when (li<g ref="char:EOLhyphen"/>uing in the Country that long Vacation) I wrote these Epi<g ref="char:EOLhyphen"/>grams, and Epitaphs adioining, which then, nor since I would con<g ref="char:EOLhyphen"/>sent (nor was it fit indeed they should bee published) till now on times more prosperous opportunity. These Characters besides (though first here mentioned) were now of later times by me composed, which
+<pb facs="3"/>
+not so fully perfected, as was meant, I did not thinke should haue past the presse. If any thing howeuer may proue acceptable, I shal a little seem more glad, being so much lesse discredited by these vaine houres of mine mis-spent, which should haue beene (you will say) on better exercises. You cannot possibly dislike the one, more then I willing would reforme the other. <hi>Si tantum de<g ref="char:EOLhyphen"/>tur mihi libera potestas &amp; oc<g ref="char:EOLhyphen"/>casio</hi>: Meane while submitting to your fauourable Censures, I hum<g ref="char:EOLhyphen"/>bly rest,</p>
+   <closer>
+      <signed>Yours to be commanded, <hi>H. P.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

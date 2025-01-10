@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Readers.</title>
+           <author>D., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S5142_Fr1_3</idno>
+           <idno type="DLPS">A00977</idno>
+           <idno type="STC">11082.5</idno>
+           <idno type="ESTC">S5142</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Readers.</title>
+                 <author>D., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The purple island, or The Isle of Man : together with Piscatorie eclogs and other poeticall miscellanies· By P.F</title>
+                 <author>Fletcher, Phineas</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>14, 181, 5, 130, 2 pages, 1 leave of plates, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Readers.</head>
+   <p>
+      <seg rend="decorInit">H</seg>E that would learn <hi>Theologie,</hi> must first stu<g ref="char:EOLhyphen"/>die <hi>Autologie.</hi> The way to God is by our selves: It is a blinde and dirty way; it hath many windings, and is easie to be lost: This Poem will make thee understand that way; and there<g ref="char:EOLhyphen"/>fore my desire is, that thou maist understand this Poem. Peruse it as thou shouldst thy self, from thy first sheet to thy last. The first view, perchance, may runne thy judgement in debt; the second will pro<g ref="char:EOLhyphen"/>mise payment; and the third will perform promise. Thou shalt finde here <hi>Philosophie,</hi> and <hi>Moralitie,</hi> two curious handmaids, dressing the Kings daughter, whose garments smell of Myrrhe and Cassia, and being wrought with needlework, and gold, shall make thee take pleasure in her beautie. Here are no blocks for the purblinde; no snares for the timerous; no dangers for the bold: I invite all sorts to be readers; all readers to be understanders; all understanders to be happie.</p>
+   <closer>
+      <signed>DANIEL FEATLY. D. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

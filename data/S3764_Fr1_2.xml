@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A note to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1578</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3764_Fr1_2</idno>
+           <idno type="DLPS">A02885</idno>
+           <idno type="STC">13029</idno>
+           <idno type="ESTC">S3764</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A note to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The catechisme or manner how to instruct and teach children and others in the Christian faith : Appointed to bee read in all the lands and dominions of the late right and mightie prince, Frederike, countie palatine of the Rhein, one of the electors of the holy Empire, and duke in Bauier. Newly translated out of Latin and Dutch into Englishe</title>
+                 <imprint>
+                    <publisher>Middleton, Henry</publisher>
+                    <distributor>Harrison (Harison), John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1578</date>
+                 </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>A note to the Reader.</head>
+   <p>The firste number of the notes in the margent signifieth the Chapter: The se<g ref="char:EOLhyphen"/>conde number betokeneth the verse: as they are vsually marked in the Bibles.</p>
+</div>
+        </body>
+  </text>
+</TEI>

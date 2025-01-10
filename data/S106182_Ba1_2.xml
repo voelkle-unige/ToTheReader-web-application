@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Deus &amp; Rex.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106182_Ba1_2</idno>
+           <idno type="DLPS">A16631</idno>
+           <idno type="STC">3538.5</idno>
+           <idno type="ESTC">S106182</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Deus &amp; Rex.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Learned: Tico Brahæ his astronomicall coniectur, of the new and much admired [star] which appeared in the year 1572</title>
+                 <author>Brahe, Tycho</author>
+                 <imprint>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas.</publisher>
+                            <publisher>Nealand (Nayland), Samuel</publisher>
+                        </imprint>
+                 <extent>12, 26, 2 pages, illustrations (metalcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="in_honor_of_Gustavus">
+   <pb facs="20"/>
+   <pb facs="21"/>
+   <head>Deus &amp; Rex.</head>
+   <lg>
+      <l>This King of <hi>Swed, Gustavus</hi> is by Name,</l>
+      <l>And both words doe include an Anagram.</l>
+      <l>For <hi>SVVED</hi> is <hi>DEVS, GVSTAVVS,</hi> it doth make</l>
+      <l>
+         <hi>Augustus,</hi> shewing that hee doth pertake</l>
+      <l>
+         <hi>Of Gods</hi> great power, and of <hi>Augustus</hi> Fame</l>
+      <l>Which both this <hi>Starre,</hi> and <hi>Titles</hi> doe proclaime,</l>
+      <l>Besides <hi>God-acre-field,</hi> which hee did winne</l>
+      <l>Where God did give the Victorie to the King.</l>
+   </lg>
+   <closer>Deus &amp; Rex.</closer>
+   <pb facs="21"/>
+</div>
+        </body>
+  </text>
+</TEI>

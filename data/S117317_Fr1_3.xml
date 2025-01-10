@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Harflete, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117317_Fr1_3</idno>
+           <idno type="DLPS">A02643</idno>
+           <idno type="STC">12771</idno>
+           <idno type="ESTC">S117317</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Harflete, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The hunting of the fox: or, Flattery displayed : The flatterers devise; a water-man looking one way, and rowing another, with this motto mel in ore, fel in corde. By H. H. Grayens</title>
+                 <author>Harflete, Henry</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <distributor>Meredith, Christopher</distributor>
+                            <distributor>Stephens, Philemon</distributor>
+                        </imprint>
+                 <extent>10, 80 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, I have written nothing but the truth, but I know Truth brings forth a bad daugh<g ref="char:EOLhyphen"/>ter, <hi>Hatred, Veritas odium,</hi> but I wish that she might be an abor<g ref="char:EOLhyphen"/>tive; I hope none through ha<g ref="char:EOLhyphen"/>tred will give too hard a censure of mee for writing the truth: I have writ the truth in love and charity: I have covered naked truth with her sister Charity. I hope (gentle Reader) that Ha<g ref="char:EOLhyphen"/>tred, the daughter of Truth, will passe by her Mother, and not
+<pb facs="4"/>
+know her in that attire; the<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> judge favourably of mee, and <hi>quo animo legis, obserua, quo obser<g ref="char:EOLhyphen"/>vas, serua:</hi> Reade it that th<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> mayst remember it, and remem<g ref="char:EOLhyphen"/>bring, practise not flattery, but true amity; hoping for no lesse, and praying to God for this, I leave thee to God.</p>
+   <closer>
+      <signed>Thy friend, no flatterer, <hi>HEN. HARFLETE.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

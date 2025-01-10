@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧EPIGRAMMA AVTO∣RIS IN SVVM LIBRVM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1532</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106702_Fr1_2</idno>
+           <idno type="DLPS">A01998</idno>
+           <idno type="STC">12143</idno>
+           <idno type="ESTC">S106702</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧EPIGRAMMA AVTO∣RIS IN SVVM LIBRVM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Io. Gower de confessione amantis</title>
+                 <author>Gower, John</author>
+                 <imprint>
+                    <publisher>Berthelet (Barthelet), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1532</date>
+                 </imprint>
+                 <extent>8, 191, 1 leave, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraph">
+   <pb facs="2"/>
+   <head>❧EPIGRAMMA AVTO<g ref="char:EOLhyphen"/>RIS IN SVVM LIBRVM.</head>
+   <l>Torpor, hebes sensus, schola parua, labor minimus{que}</l>
+   <l>Causant, quo minus ipse minora canam.</l>
+   <l>Qua tum Engisti lingua canit insula Bruti,</l>
+   <l>Anglica Carmente metra iuuante loquar.</l>
+   <l>Ossibus ergo carens, quae conterit ossa loquelis,</l>
+   <l>Absit, et interpres stet procul, oro, malus.</l>
+</div>
+        </body>
+  </text>
+</TEI>

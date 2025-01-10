@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ALL' AVGVSTA MAESTA DI ANNA, Seren.ma▪ REGINA d' Inghilterra, di Scotia, di Francia, &amp; d' Irlanda, &amp;c.</title>
+           <author>Candido, Il</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111840_Fr1_4</idno>
+           <idno type="DLPS">A68475</idno>
+           <idno type="STC">18042</idno>
+           <idno type="ESTC">S111840</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ALL' AVGVSTA MAESTA DI ANNA, Seren.ma▪ REGINA d' Inghilterra, di Scotia, di Francia, &amp; d' Irlanda, &amp;c.</title>
+                 <author>Candido, Il</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Essayes : vvritten in French by Michael Lord of Montaigne, Knight of the Order of S. Michael, gentleman of the French Kings chamber: done into English, according to the last French edition, by Iohn Florio reader of the Italian tongue vnto the Soueraigne Maiestie of Anna, Queene of England, Scotland, France and Ireland, &amp;c. And one of the gentlemen of hir royall priuie chamber</title>
+                 <author>Montaigne, Michel de</author>
+                 <imprint>
+                    <publisher>Bradwood, Melchisidec</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <distributor>Barrett, William</distributor>
+                            <distributor>Blount (Blunt), Edward</distributor>
+                        </imprint>
+                 <extent>12, 630, 2 pages, portraits (metal cut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="ita" type="dedicatory_poem">
+   <pb facs="3"/>
+   <head>ALL' AVGVSTA MAESTA DI ANNA, <hi>Seren.<seg rend="sup">ma</seg>▪</hi> REGINA <hi>d</hi>' Inghilterra, <hi>di</hi> Scotia, <hi>di</hi> Francia, <hi>&amp; d</hi>' Irlanda, &amp;c.</head>
+   <p>
+      <seg rend="decorInit">C</seg>
+   </p>
+   <lg>
+      <l>He si può dir di <hi>VOI,</hi> somma <hi>REGINA,</hi>
+      </l>
+      <l>Che non sia detto delle più lodate</l>
+      <l>Di Magnanimità, Ʋirtù, Beltate,</l>
+      <l>Incomparabile, Sopra-diuina?</l>
+      <l>Anzi, che stile tanto si raffina,</l>
+      <l>Che non sia vinto dalla Maestate,</l>
+      <l>L' Altezza, la Chiarezza, la Bontate,</l>
+      <l>Alla qual' ogni cuor di-cuor s' inchina?</l>
+      <l>La qual di tutti honori'l specchio mostra,</l>
+      <l>La qual' il pregio Sour a tutte tiene;</l>
+      <l>
+         <hi>ANNA,</hi> l' anello della Gioia nostra.</l>
+      <l>La nostra sicurtà, la nostra spene;</l>
+      <l>
+         <hi>VIEN DALL' ECCELSO LA GRANDEZZA</hi> vo<g ref="char:EOLhyphen"/>stra;</l>
+      <l>Dalla <hi>GRANDEZZA</hi> vostra'l nostro bene.</l>
+   </lg>
+   <closer>
+      <signed>Il Candido</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

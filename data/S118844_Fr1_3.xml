@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>W. B. To the reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1562</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118844_Fr1_3</idno>
+           <idno type="DLPS">A17157</idno>
+           <idno type="STC">4035</idno>
+           <idno type="ESTC">S118844</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>W. B. To the reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A comfortable regiment, and a very wholsome order against the moste perilous pleurisi : whereof many doe daily die within this citee of London, and other places: and what the cause is of the same, doen by William Bulleyn, December. 8. Anno salutis 1562</title>
+                 <author>Bullein, William</author>
+                 <imprint>
+                    <publisher>Kingston, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1562</date>
+                 </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>
+      <hi>W.</hi> B. To the reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Ood reader, through the synnes of this wicked worlde, <hi>GOD</hi> al<g ref="char:EOLhyphen"/>mightie haue placed ouer vs, ii. mightie sharpe plagues, whiche he dooe threate vs with all. The one from colde Saturne, in the <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>unciente house of sickenesse, threatnyng to the aged and Melancholike, many euils to the bo<g ref="char:EOLhyphen"/>die, as Quartaines, Consumption. &amp;c. And hor rible bloodie Mars. crepeth into the house of death, armeth hym self with Fire and Darte▪ threatnyng the Chollorike with short, hote, and painfull death. &amp;c. These are twoo euill neigh<g ref="char:EOLhyphen"/>bours to dwel in one yere so nere together, God of his mercie gouerne them, whiche haue al thin ges in his handes, bothe life and death, and de<g ref="char:EOLhyphen"/>fende vs from soche vengaunce, as we haue de<g ref="char:EOLhyphen"/>serued. And graunte that this little Regiment, maie dooe pleasure and comforte vnto the<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>m, whiche dooe reade it: and with diligence so<g ref="char:EOLhyphen"/>berlie obserue it to Goddes glorie, their owne helpe, againste this daun<g ref="char:EOLhyphen"/>gerous plague. <hi>GOD</hi> of his mercie graunte it, and that wee maie amende, and remem<g ref="char:EOLhyphen"/>ber our ende.</p>
+   <closer>AMEN.</closer>
+   <epigraph>
+      <q>
+         <bibl>Deu. xxviii</bibl> The Lorde shall smite thee with swellyng▪ with feuers, heate, burnyng, and with the sworde. &amp;c.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

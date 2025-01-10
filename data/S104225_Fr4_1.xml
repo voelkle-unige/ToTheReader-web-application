@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT WORSIP∣full, Sr. RICHARD HVTTON, Knight, one of his Maiesties Iustices in the Court of Common Pleas.</title>
+           <author>Ashmore, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104225_Fr4_1</idno>
+           <idno type="DLPS">A03671</idno>
+           <idno type="STC">13799</idno>
+           <idno type="ESTC">S104225</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT WORSIP∣full, Sr. RICHARD HVTTON, Knight, one of his Maiesties Iustices in the Court of Common Pleas.</title>
+                 <author>Ashmore, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Certain selected odes of Horace, Englished; and their arguments annexed. VVith poems (antient and modern) of divers subiects, translated. Whereunto are added, both in Latin and English, sundry new epigrammes. Anagramms. Epitaphes</title>
+                 <author>Horace</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Moore (More), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>8, 96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="verse_dedication">
+   <pb facs="48"/>
+   <pb n="89" facs="48"/>
+   <head>TO THE RIGHT WORSIP<g ref="char:EOLhyphen"/>full, S<seg rend="sup">r</seg>. RICHARD HVTTON, <hi>Knight, one of his Maiesties</hi> Iustices in the Court of <hi>Common Pleas.</hi>
+   </head>
+   <lg>
+      <l>
+         <seg rend="decorInit">I</seg>F my Hopes harvest, <hi>Worthy Sir,</hi> had not</l>
+      <l>Been blasted with the Breath of dull Despaire,</l>
+      <l>My Muse (ne'r branded with the hatefull blot</l>
+      <l>Of cheap Ingratitude, freed from base Care)</l>
+      <l>The Tribute of her Love (for Causes iust)</l>
+      <l>Would not so long have smothered in the Dust.</l>
+   </lg>
+   <lg>
+      <l>Yet lookes Shee for one Sun-shine Day: Mean while,</l>
+      <l>Accept these Gleanings, gathered in the Fields</l>
+      <l>Of good Free-holders, in the blessed <hi>Ile,</hi>
+      </l>
+      <l>Where each one shewes (as his Affection yeelds)</l>
+      <l>Who is most blest: which none can better tell,</l>
+      <l>Then the sweet Singer doth of <hi>Israel.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>Your Worships, in his best indeavors to command, IOH: ASHMORE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

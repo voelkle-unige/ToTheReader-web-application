@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Reader.</title>
+           <author>Bradwell, Stephen</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115636_Fr1_2</idno>
+           <idno type="DLPS">A16629</idno>
+           <idno type="STC">3537</idno>
+           <idno type="ESTC">S115636</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Reader.</title>
+                 <author>Bradwell, Stephen</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A vvatch-man for the pest : Teaching the true rules of preservation from the pestilent contagion, at this time fearefully over-flowing this famous cittie of London. Collected out of the best authors, mixed with auncient experience, and moulded into a new and most plaine method; by Steven Bradvvell of London, Physition. 1625</title>
+                 <author>Bradwell, Stephen</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Dawson, John 1.</publisher>
+                            <publisher>Thrale, Richard.</publisher>
+                            <publisher>Vincent, Anne.</publisher>
+                            <publisher>Vincent, George 2</publisher>
+                        </imprint>
+                 <extent>4, 57, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>¶ To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>IPPOCRATES saith,<note place="margin">Li. de Pro<g ref="char:EOLhyphen"/>bitate Me<g ref="char:EOLhyphen"/>dici boni, ad tempus appo<g ref="char:EOLhyphen"/>siti sunt, ad occasionem eripiendum accōmodati.</note>
+      <hi>That good Physitians doe applie themselues to the present Time, and to take hold of the Occasion.</hi> The <hi>present Time</hi> (good Reader) is <hi>Woefull,</hi> &amp; the <hi>Occasion, Dangerous</hi>: I know it was not his mea<g ref="char:EOLhyphen"/>ning that we should onely grieue for the first, and flee from the latter; but to lend our assistance to the necessitie of the Times ca<g ref="char:EOLhyphen"/>lamitie. I haue but little water to draw, yet would I gladly bring my bucket-full to the quenching of this contagious flame; and if it be but kindly regar<g ref="char:EOLhyphen"/>ded; I am friendly rewarded: for I professe, not af<g ref="char:EOLhyphen"/>fectation, but true affection; not a hope of prayse, but a heart of pittie, draws me (or rather driues me) to offer my counsell in this case. LONDON is my Mother; in her wombe had I both Birth and Bree<g ref="char:EOLhyphen"/>ding. What Sonne can see his Mother woefully af<g ref="char:EOLhyphen"/>flicted, dangerously sicke, and desperately forsaken; but he must needs weepe for her teares, labour her recovery, and lend a hand (at least) to hold her vp? I may not take vpon me to cure the Sicke, because I meddle not with the Sicknesse (for to practise on
+<pb facs="3"/>
+the <hi>Plague</hi> now, would proue a plague to my Practise hereafter) but I must labour to preserue the sound; because by profession I am a Physition. Therefore I call this Booke, <hi>A Watch-man for the Pest,</hi> because it doth onely (as if it were a Warder) stand at the dore without, and deliver things necessary for preserva<g ref="char:EOLhyphen"/>tion to those within; but neither enters the infected house, nor meddles with the Cure of the Contagi<g ref="char:EOLhyphen"/>ous. I expect from diverse conceits diverse Censures of this Booke. It is too long, too short, too solid, too idle, too full, too slender; and I know not what. Yet I hope the judicious will vouchsafe it the rea<g ref="char:EOLhyphen"/>ding; and the wise, the observing: as for the rest, I will neither favour the Frivolous, feare the Envious, nor flatter the Curious. I know though <hi>Hercules</hi> la<g ref="char:EOLhyphen"/>bour his heart out, he shall not be able to appease a <hi>Iuno,</hi> nor please an <hi>Eurystheus.</hi> Therefore if I be not relished, I shall thinke the mouth is out of taste, since there is scarce a word, but I can proue his worth from good Authoritie. If I be gratefull to thy palate (good Reader) I will not be vngratefull to thy person; But if ever thou wilt vse me, thou shalt finde me</p>
+   <closer>
+      <dateline>From my Study in <hi>Mugwell</hi>-street. <date>
+            <hi>Iuly</hi> 18. 1625.</date>
+      </dateline>
+      <signed>
+         <hi>Ready to my power to do thee any pleasure,</hi> STEPHEN BRADVVELL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

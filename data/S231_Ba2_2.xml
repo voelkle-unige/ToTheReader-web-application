@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S231_Ba2_2</idno>
+           <idno type="DLPS">A16649</idno>
+           <idno type="STC">3555.7</idno>
+           <idno type="ESTC">S231</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Barnabæ itinerarium, Mirtili &amp; Faustuli nominibus insignitum : viatoris solatio nuperrimè editum, aptissimis numeris redactum, veterique Tono Barnabæ, publicè decantatum</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>85 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="43"/>
+   <head>In Errata.</head>
+   <l>INter <hi>Accipitrem</hi> et <hi>Buteonem,</hi>
+   </l>
+   <l>Iuxta phrasem percommunem,</l>
+   <l>Spectans ista typis data,</l>
+   <l>Haec comperui <hi>Errata;</hi>
+   </l>
+   <l>Quaesi corrigas (Candide Lector)</l>
+   <l>Plena coronet pocula nectar.</l>
+   <div type="errata">
+      <head>Errata Part. II.</head>
+      <p>
+         <hi>PAg 22. lin. 5. pro</hi> limi, <hi>lege</hi> lini. <hi>pag. 30. lin. 2. pro</hi> caeruleum, <hi>lege</hi> coeruleum. <hi>pag. 40. lin. 1. pro</hi> vani, <hi>lege</hi> veni.</p>
+      <p>
+         <hi>Errando disco.</hi>
+      </p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

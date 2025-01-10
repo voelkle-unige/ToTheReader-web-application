@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IOANNES CLERCVS
+LECTORI. S.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1545</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111690_Fr1_3</idno>
+           <idno type="DLPS">A18991</idno>
+           <idno type="STC">5408</idno>
+           <idno type="ESTC">S111690</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IOANNES CLERCVS
+LECTORI. S.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Opusculum plane divinum de mortuorum resurrectione et extremo iuditio, in quatuor linguis succincte conscriptum. Authore Ioanne Clerco. Latyne. Englysshe. Italian. Frenche</title>
+                 <author>Clerk, John</author>
+                 <imprint>
+                    <publisher>Herford (Hereford, Hertford), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1545</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="2"/>
+   <head>IOANNES CLERCVS
+LECTORI. S.</head>
+   <p>
+      <seg rend="decorInit">H</seg>AEC in publicū edidi pere<g ref="char:EOLhyphen"/>grinis
+eloquiis, ea gratia quò
+uulgarior daretur legendi oc<g ref="char:EOLhyphen"/>casio,
+&amp; crebra deinceps le<g ref="char:EOLhyphen"/>ctione
+<gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in
+compluribus citius perglisce<g ref="char:EOLhyphen"/>ret.
+Si quid ad stomachum non faciat, meam
+candidus accipe uiua uoce sentenciam ulteri<g ref="char:EOLhyphen"/>orem.
+Ego quidem a peritioribus nequaquam
+renitar instrui.</p>
+</div>
+        </body>
+  </text>
+</TEI>

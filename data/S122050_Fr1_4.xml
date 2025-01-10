@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD ƲTRAMQVE ACA∣DEMIAM, De BENIAMIN IONSONIO.</title>
+           <author>B., E.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122050_Fr1_4</idno>
+           <idno type="DLPS">B14292</idno>
+           <idno type="STC">14783</idno>
+           <idno type="ESTC">S122050</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD ƲTRAMQVE ACA∣DEMIAM, De BENIAMIN IONSONIO.</title>
+                 <author>B., E.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ben: Ionson his Volpone or The foxe</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Eld (Elide), George</publisher>
+                        </imprint>
+                 <extent>120 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="6"/>
+   <head>
+      <hi>AD ƲTRAMQVE</hi> ACA<g ref="char:EOLhyphen"/>DEMIAM, De BENIAMIN IONSONIO.</head>
+   <l>HIc ille est primus, qui doctum drama <hi>BRITANNIS,</hi>
+   </l>
+   <l>
+      <hi>GRAIORVM</hi> antiqua, et <hi>LATII</hi> monimenta Theatri,</l>
+   <l>
+      <hi>Tanquam explorator</hi> versans, foelicibus ausis</l>
+   <l>Prebebit: Magnis ceptis <hi>Gemina astra</hi> fauete.</l>
+   <l>Alterutrâ veteres contenti laude: <hi>Cothurnum</hi> hic,</l>
+   <l>At{que} pari <hi>soccum</hi> tractat <hi>Sol scenicus</hi> arte;</l>
+   <l>Das <hi>VOLPONE</hi> iocos, fletus <hi>SEIANE</hi> dedisti.</l>
+   <l>At si <hi>IONSONIAS</hi> mulctatas limite <hi>MVSAS</hi>
+   </l>
+   <l>Angustâ plangent quiquam: Ʋos, dicite, contrà,</l>
+   <l>O nimiùm miseros quibus <hi>ANGLIS ANGLICA</hi> lingua</l>
+   <l>Aut non sat nota est; aut queis (seu trans mare natis)</l>
+   <l>Haud nota omninò: Vegetet cum tempore Vates,</l>
+   <l>Mutabit patriam, fiet{que} ipse <hi>ANGLVS APOLLO.</hi>
+   </l>
+   <closer>
+      <signed>E. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

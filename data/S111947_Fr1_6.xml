@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Authorem, amicum suum, vt plura det.</title>
+           <author>Palfraeium, Guilielmum</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111947_Fr1_6</idno>
+           <idno type="DLPS">A20782</idno>
+           <idno type="STC">7160</idno>
+           <idno type="ESTC">S111947</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Authorem, amicum suum, vt plura det.</title>
+                 <author>Palfraeium, Guilielmum</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The iaylors conuersion : Wherein is liuely represented, the true image of a soule rightlye touched, and conuerted by the spirit of God. The waightie circumstances of which supernaturall worke, for the sweete amplifications, and fit applications to the present time, are no set downe for the comfort of the strong, and confirmation of the weake. By Hugh Dowriche Batch. of Diuinitie</title>
+                 <author>Dowriche, Hugh</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>12, 26, that is 28 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <lg>
+      <pb facs="12"/>
+      <head>Ad Authorem, amicum <hi>suum, vt plura det.</hi>
+      </head>
+      <l>P<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>rge, mi: quidnam titubas eundo?</l>
+      <l>
+         <hi>Hic labor certé, hoc opus est,</hi> Catenas</l>
+      <l>
+         <hi>Nocte subnigra, miseré</hi> Reclusis</l>
+      <l>Rumpere <hi>tetras.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Siue diuinas,</hi> Calamo, <hi>loquelas</hi>
+      </l>
+      <l>
+         <hi>Pingis, aut sacrum</hi>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> Ore <hi>pandis:</hi>
+      </l>
+      <l>Pingis &amp; pandis veneranda, pulchré,</l>
+      <l>Dogmata Iouae.</l>
+   </lg>
+   <lg>
+      <l>Hinc, &amp; hinc, laudes (mihi crede) celsae</l>
+      <l>Te manent: Sedes manet ampla: vtrin{que}</l>
+      <l>Digna praeclaris, (quid enim recusas?)</l>
+      <l>Proemia factis.</l>
+   </lg>
+   <lg>
+      <l>Plura des nobis igitur, Iehouae</l>
+      <l>Seruiens, nobis, patriae, tibi{que},</l>
+      <l>Et mihi: Da, quos voluisse dix'ti</l>
+      <l>Dare, libellos.</l>
+   </lg>
+   <lg>
+      <pb facs="12"/>
+      <l>Diuites (Dowrich <hi>per-amice)</hi> Dotes</l>
+      <l>Si tui cunctis animi paterent,</l>
+      <l>(Pluribus notae:) At taceo tacendi <note place="margin">Aposiopesis</note>
+      </l>
+      <l>Nomen Amici.</l>
+   </lg>
+   <lg>
+      <l>Ergo, mi: nunquam titubes eundo:</l>
+      <l>
+         <hi>Hic labor certé, hoc opus est,</hi> Cateruas</l>
+      <l>
+         <hi>Quas</hi> Catenatas <hi>tenet atra nigri</hi>
+      </l>
+      <l>Ianua Ditis,</l>
+      <l>Soluere vinclis.</l>
+   </lg>
+   <p>Quo pede coepisti, sic benè semper eas.</p>
+   <closer>
+      <signed>Per <hi>Guilielmum Palfraeium,</hi> Gener. Lin-colniensis Hospitij Socium.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

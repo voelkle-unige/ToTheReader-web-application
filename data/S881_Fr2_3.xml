@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE MOST EXCELLENT PRINCESSE ELIZABETH Queene of Bohemia, &amp;c.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S881_Fr2_3</idno>
+           <idno type="DLPS">A16539</idno>
+           <idno type="STC">3447</idno>
+           <idno type="ESTC">S881</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE MOST EXCELLENT PRINCESSE ELIZABETH Queene of Bohemia, &amp;c.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The last battell of the soule in death : diuided into eight co [n] ferences. ... VVhereby are showne the diuerse skirmishes that are betweene the soule of man on his death-bedde, and the enemies of our saluation. Carefullie digested for the comfort of the sicke: by Mr. Zacharie Boyd, preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>2 volumes (22, 747, 1, 38, 748-1270, 3 pages), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="656"/>
+   <head>
+      <hi>TO</hi> THE MOST EXCELLENT <hi>PRINCESSE</hi> ELIZABETH Queene of <hi>Bohemia, &amp;c.</hi>
+   </head>
+   <opener>
+      <salute>MADAME,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>N corporall</hi> troubles <hi>let vs seeke for spirituall</hi> Comfortes: <hi>Dayes of sorrow are</hi> dayes of drousinesse: <hi>For the remeede of such sor<g ref="char:EOLhyphen"/>rowes</hi>
+      <pb facs="657"/>
+      <hi>heere followeth a Discourse of</hi> heauens Happinesse, <hi>with diuerse other Christian comforts which I must humblie and heartilie dedicate to your</hi> Majestie.</p>
+   <p>
+      <hi>If</hi> MADAME <hi>I were more able to present your</hi> Majestie <hi>with some mat<g ref="char:EOLhyphen"/>ter<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> of greater worth, my will should not bee deficient to mine</hi> Abilitie.</p>
+   <p>Thus presuming out of your Royall bountie that this little Of<g ref="char:EOLhyphen"/>fer from One of SCOTLAND your Majesties natiue Soyle shall bee graciouslie accepted, I most humblie present it to your Majestie for to bee receiued and shrouded vnder your Royall safe-gard and louing protection.</p>
+   <p>After manie feruent and vnfained prayers made to God for the esta blishment of the Crowne vpon your Majesties Royall Heads, and also for spirituall Graces to bee aboundantlie powred vpon you, and vpon the rest of these Royall</p>
+   <p>
+      <pb facs="657"/>Plants, which by the great mercie of God haue branched from You both, I humblie take my leaue.</p>
+   <closer>
+      <signed>Your Majesties <hi>most humble and most obedient Oratour and Seruant:</hi>
+M. ZACHARIE BOYD Preacher of GODS word at <hi>Glasgow.</hi>
+      </signed>
+      <dateline>
+         <hi>From</hi> Glasgow <date>
+            <hi>the</hi> 12. <hi>day of Februrie</hi> 1629.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

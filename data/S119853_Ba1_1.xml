@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Reidus, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119853_Ba1_1</idno>
+           <idno type="DLPS">A15052</idno>
+           <idno type="STC">25356</idno>
+           <idno type="ESTC">S119853</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Reidus, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The tree of humane life, or, The bloud of the grape : Prouing the possibilitie of maintaining humane life from infancy to extreme old age without any sicknesse by the use of wine. By Tobias Whitaker Doctor in Physick of London</title>
+                 <author>Whitaker, Tobias</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Dawson, John 2.</publisher>
+                            <publisher>Overton, Henry</publisher>
+                        </imprint>
+                 <extent>16, 73, 5 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="46"/>
+   <pb facs="46"/>
+   <p>PVlchrum tuum, vir clarissime, ac doctum de vine tractatum non oscitanter perlegi, ac tibi remitto. Ab isto subjecto Noacho ag<g ref="char:EOLhyphen"/>nomen obtigissê existimo; Quum isto fuerit gentilium Ianus bifrons nullus dubito. Nota illi fuere, &amp; quae ante diluvium gesta, &amp; quae aliquot anno<g ref="char:EOLhyphen"/>rum centurijs post illud accidêre. Ille à liberaliore vini potu pudenda detexit; tu ab ingenio vini arcana in publicum bonum revelas. Si quis sitqui ex assi<g ref="char:EOLhyphen"/>dua Authorum lectione qui tibi viam praeruêre, existimet se quae ad hanc materiam pertinent abundè percepisse nae ego illum existimo latè falli. In<g ref="char:EOLhyphen"/>veniet in tuo opusculo non pauca ha<g ref="char:EOLhyphen"/>ct<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>nus non observata, quibus instru<g ref="char:EOLhyphen"/>ctus possit, &amp; quae in rem suam sunt pervidere, &amp; aliorum sanitati consu<g ref="char:EOLhyphen"/>lere.
+<pb facs="47"/>Quamobrem fra<gap reason="illegible" resp="#keyers" extent="2 letters">
+         <desc>••</desc>
+      </gap>o <gap reason="illegible" resp="#murp" extent="3 letters">
+         <desc>•••</desc>
+      </gap>lign<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#murp" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> voris dente perge <gap reason="illegible" resp="#murp" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> iui glori<g ref="char:EOLhyphen"/>am aternitati consecrare.</p>
+   <closer>
+      <dateline>Scribebam Londini <date>
+            <hi>7</hi> Calend. Mart. anni. ab<g ref="char:EOLhyphen"/>exhibito incarne Messiâ supra mil<g ref="char:EOLhyphen"/>lesimum sexcentesimum trigesimi sexti.</date>
+      </dateline>
+      <signed>Tui si quis alius studiosus, <hi>Alexander Reidus.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

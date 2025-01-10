@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>R., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110762_Fr1_2</idno>
+           <idno type="DLPS">A11114</idno>
+           <idno type="STC">21382</idno>
+           <idno type="ESTC">S110762</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>R., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Good nevves and bad nevves. By S.R</title>
+                 <author>Rowlands, Samuel</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <publisher>Bell, Henry.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">A</seg>S oftentimes as friend his friend doth meet,</l>
+      <l>And with salute each other kindly greet,</l>
+      <l>The second speech that commonly they vse</l>
+      <l>Is to enquire straight, <hi>Pray what Good newes?</hi>
+      </l>
+      <l>The eare for nouelties still harkens out</l>
+      <l>After the tales which tongues doe spread about,</l>
+      <l>And many a one most wicked doth deuise,</l>
+      <l>To feed the world, with false deluding lies;</l>
+      <l>Because men are so apt for to inquire,</l>
+      <l>And after rumours haue so great desire:</l>
+      <l>But heer's no imitation of such men,</l>
+      <l>
+         <hi>Good newes, and bad,</hi> presented by a pen,</l>
+      <l>That to your view such humours doth present,</l>
+      <l>As by the good you may the bad preuent:</l>
+      <l>Heer's choise and change of both sorts to be had▪</l>
+      <l>
+         <hi>Full of variety, Good newes, and Bad.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>S. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

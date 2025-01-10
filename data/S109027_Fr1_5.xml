@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Christian Reader.</title>
+           <author>F., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109027_Fr1_5</idno>
+           <idno type="DLPS">A10170</idno>
+           <idno type="STC">2045</idno>
+           <idno type="ESTC">S109027</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Christian Reader.</title>
+                 <author>F., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The other parte of Christian questions and answeares : which is concerning the sacraments, writte [n] by Theodore Beza Vezelian: to which is added a large table of the same questions. Translated out of Latine into Englishe by Iohn Field</title>
+                 <author>Bèze, Théodore de</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <distributor>Woodcock, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 </imprint>
+                 <extent>334 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="22"/>
+   <head>¶ <hi>To the Christian</hi> Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>ENTLE Rea<g ref="char:EOLhyphen"/>der, concernyng the words of arte contained in this booke, I muste pray thee to take a litle paines, by the circumstan<g ref="char:EOLhyphen"/>ces to gather the meaning of thē. If I shoulde, as some other haue done, make them speake English, yet if thou be ignorant of the arts, they woulde in myne opinion haue bene as darke to thy vnder<g ref="char:EOLhyphen"/>standing, and muche darker then they be nowe. And that may easi<g ref="char:EOLhyphen"/>ly appeare by those curious heads that haue gone about too make Logique speake Englishe, both to the disagracing of it, and also to the lessening of the force and
+<pb facs="23"/> signification of those woordes of Art, which al Artes haue &amp; must haue proper and peculiar to them selues: but if thou will marke the matter diligently, that which go<g ref="char:EOLhyphen"/>eth before and followeth, it shall bee easie for thee, to vnderstande what the Authour meaneth. In meane tyme, I for my parte haue done the best I can, and will bee glad to learne at the feete of any that shall teach me better. The Lorde Iesus increase our know<g ref="char:EOLhyphen"/>ledge, and giue vs Fayth in him for euer. Amen.</p>
+   <closer>
+      <salute>Farewell,</salute>
+      <date>the 3. of May. 1580.</date>
+      <signed>I. F.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Acrostic Poem]</title>
+           <author>Sp, Ra.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117735_Fr1_3</idno>
+           <idno type="DLPS">A12750</idno>
+           <idno type="STC">23058</idno>
+           <idno type="ESTC">S117735</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Acrostic Poem]</title>
+                 <author>Sp, Ra.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A mouzell for Melastomus, the cynicall bayter of, and foule mouthed barker against Euahs sex. Or an apologeticall answere to that irreligious and illiterate pamphlet made by Io. Sw. and by him intituled, The arraignement of women. By Rachel Speght</title>
+                 <author>Speght, Rachel</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Archer, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>14, 38, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic_poem">
+   <pb facs="4"/>
+   <lg>
+      <l>I f Reason had but curb'd thy witlesse will,</l>
+      <l>O r feare of God restrain'd thy rauing quill,</l>
+      <l>S uch venime fowle thou would'st haue blusht to spue,</l>
+      <l>E xcept that Grace haue bidden thee adue:</l>
+      <l>P rewesse disdaines to wrastle with the weake,</l>
+      <l>H eathenish affected, care not what they speake.</l>
+   </lg>
+   <lg>
+      <l>S educer of the vulgar sort of men,</l>
+      <l>W as Sathan crept into thy filthie Pen,</l>
+      <l>E nflaming thee with such infernall smoake,</l>
+      <l>T hat (if thou had'st thy will) should women choake?</l>
+      <l>N efarious fiends thy sence heerein deluded,</l>
+      <l>A nd from thee all humanitie excluded,</l>
+      <l>M onster of men, worthie no other name,</l>
+      <l>For that thou did'st assay our Sex to shame.</l>
+   </lg>
+   <signed>RA. SP.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

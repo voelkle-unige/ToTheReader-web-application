@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115844_Fr1_4</idno>
+           <idno type="DLPS">A22897</idno>
+           <idno type="STC">937</idno>
+           <idno type="ESTC">S115844</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A little pamphlet entituled the ladder of paradise : Very worthy and needful to be read of every Christian that is willing to tread the steps which lead to heauen</title>
+                 <imprint>
+                    <publisher>Allde, John</publisher>
+                    <distributor>Aggas, Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="8"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>Am not ignorāt that as well this, as many other books which are numbered, reputed and printed among the workes of Augu<g ref="char:EOLhyphen"/>stine Bishop of Hippo are th<g ref="char:EOLhyphen"/>ought of māy not to be his, wher<g ref="char:EOLunhyphen"/>in as I mean not to contend, but regarding more the matter thē the man, and also finding the same amōg the rest of his works not only in the later editions but in the prints of such olde tīe as hardly cā be red but of those which are vsed to read antiqui<g ref="char:EOLhyphen"/>ties, wherof I my selfe haue one to shew. I thought it good ther fore (leauing the censure to such
+<pb facs="9"/>
+as are learned) to make no que<g ref="char:EOLunhyphen"/>stiō therof, specially seeing this Ladder of Paradise long be fore the time of Augustine was set vp by Christe Iesus for his chosen and elected children to ascend into those mantions which he hath prepared for them, not only in the kingdōe, but also in the house of God his father.</p>
+</div>
+        </body>
+  </text>
+</TEI>

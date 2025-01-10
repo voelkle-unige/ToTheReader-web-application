@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE HONOR OF HIM, to whom the Noble Fraternity of Drapers, his Worthy Brothers haue Consecrated their loues in Magnificent Tryumphs, the Right Honorable CUTHBERT HACKEY Lord Major of the City of LONDON.</title>
+           <author>Middleton, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110007_Fr1_1</idno>
+           <idno type="DLPS">A07512</idno>
+           <idno type="STC">17898</idno>
+           <idno type="ESTC">S110007</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE HONOR OF HIM, to whom the Noble Fraternity of Drapers, his Worthy Brothers haue Consecrated their loues in Magnificent Tryumphs, the Right Honorable CUTHBERT HACKEY Lord Major of the City of LONDON.</title>
+                 <author>Middleton, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The triumphs of health and prosperity : A noble solemnity performed through the city, at the sole cost and charges of the Honorable Fraternity of Drapers, at the inauguration of their most worthy brother, the Right Honorable, Cuthbert Hacket, Lord Major of the famous city of London. By Tho. Middleton Gent</title>
+                 <author>Middleton, Thomas</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <head>TO THE HONOR OF HIM, to whom the Noble Fraternity of <hi>Drapers,</hi> his Worthy Brothers haue Consecrated their loues in Magnificent Tryumphs, the Right Honorable CUTHBERT HACKEY Lord Major of the City of LONDON.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">T</seg>HE Cities choyce, thy Companies free loue,</l>
+      <l>This Dayes vnlookt for Tryumph, all three proue,</l>
+      <l>The Happinesse of thy life to be most great;</l>
+      <l>Adde to these, Justice, and thou art Compleate.</l>
+   </lg>
+   <closer>
+      <signed>At your Lordships Command, Thomas Middleton.</signed>
+   </closer>
+   <pb facs="2"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="2"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

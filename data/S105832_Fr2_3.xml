@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>o the Gentlemen Readers health.</title>
+           <author>Greene, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105832_Fr2_3</idno>
+           <idno type="DLPS">A02111</idno>
+           <idno type="STC">12253</idno>
+           <idno type="ESTC">S105832</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>o the Gentlemen Readers health.</title>
+                 <author>Greene, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes neuer too late. Or, A powder of experience: sent to all youthfull gentlemen : to roote out the infectious follies, that ouer-reaching conceits foster in the spring time of their youth. Decyphering in a true English historie, those particular vanities, that with thei frostie vapours nip the blossoms of euery ripe braine, from atteining to his intended perfection. As pleasant, as profitable, being a right pumice stone, apt to race out idlenesse with delight, and follie with admonition. Rob. Greene in artibus Magister</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 <distributor>Busby, John 1</distributor>
+                            <distributor>Ling (Lyng), Nicholas</distributor>
+                        </imprint>
+                 <extent>8, 56, 49-62, 2, 84 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="45"/>
+   <head>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>o the Gentlemen Readers health.</head>
+   <p>
+      <seg rend="decorInit">I</seg>F (Gentlemen) I had not promised the further dis<g ref="char:EOLhyphen"/>course of <hi>Francescos</hi> for<g ref="char:EOLhyphen"/>tunes, this Pamphlet had not come to the presse: but seeing promise vvas debt, and sundrie made challenge at the Stationers shoppe, that I should bee a man of my word. To satisfie therefore al my well wishers, I haue written what befell <hi>Francesco</hi> after he had forsaken his <hi>Infida,</hi> no great aduentures, but you may see plotted downe many passions full of repentant sorrowes, and reade many of his Sonnets that hee made in remorse of minde; such as they bee they are yours, or what my pen can doo, but looke for it in more deeper matters.</p>
+   <closer>
+      <signed>Yours, Robert Greene.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

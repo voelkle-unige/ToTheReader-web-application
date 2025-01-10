@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ANAGRAME</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110319_Fr2_3</idno>
+           <idno type="DLPS">A09144</idno>
+           <idno type="STC">19459</idno>
+           <idno type="ESTC">S110319</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ANAGRAME</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A garden of flovvers : vvherein very liuely is contained a true and perfect discription of al the flovvers contained in these foure followinge bookes. As also the perfect true manner of colouringe the same vvith theire naturall coloures ... All vvhich to the great charges and almost incredible laboure and paine, the diligent authore by foure yeares experience, hath very laboriously compiled, and most excellently performed, both in theire perfect lineaments in representing them in theire coper plates: as also after a most exquisite manner and methode in teachinge th practisioner te [sic] painte them even to the liffe. Faithfully and truely translated out of the Netherlandish originall into English for the comon benifite of those that vnderstand no other languages, and also for the benifite of others nevvly printed both in the Latine and French tongues all at the charges of the author</title>
+                 <author>Passe, Crispijn van de</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Utrecht</pubPlace>
+                    <date>1615</date>
+                 <publisher>Passe, Crispin 2 van de.</publisher>
+                            <publisher>Roy, Salomon de</publisher>
+                        </imprint>
+                 <extent>28, 4 pages, plates, oblong 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="anagram">
+   <head>ANAGRAME</head>
+   <lg>
+      <l>
+         <hi>Du nom de l'auteur.</hi>
+      </l>
+      <l>
+         <hi>Sur son liure de rares Fleurs.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>CRISPIAN DE PASE.</l>
+      <l>PRIS DE SAPIANCE.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Timante en peignent son enorme Cyclope.</hi>
+      </l>
+      <l>
+         <hi>Apelles sa Venus, Zeuxe sa Penelope.</hi>
+      </l>
+      <l>
+         <hi>Nom aquis tel renom parleur divine science.</hi>
+      </l>
+      <l>
+         <hi>Que</hi> DE PASE <hi>en ses Fleurs qu'ale</hi> PRIS DE SAPIANCE.</l>
+   </lg>
+   <byline>Iacques Chioze. Orangenis.</byline>
+</div>
+        </body>
+  </text>
+</TEI>

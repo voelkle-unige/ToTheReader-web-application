@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To her sacred Maiestie.</title>
+           <author>Jonson, Ben</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109223_Fr1_2</idno>
+           <idno type="DLPS">B14289</idno>
+           <idno type="STC">14778</idno>
+           <idno type="ESTC">S109223</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To her sacred Maiestie.</title>
+                 <author>Jonson, Ben</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The masque of queenes : celebrated from the house of fame: by the most absolute in all state, and titles. Anne Queene of Great Britaine, &amp;c. With her honourable ladies. At VVhite Hall, Febr. 2. 1609. Written by Ben: Ionson</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <distributor>Bonian (Bunnian), Richard</distributor>
+                            <distributor>Walley, Henry</distributor>
+                        </imprint>
+                 <extent>42 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="holograph_dedication">
+   <pb facs="2"/>
+   <head>To her sacred Maiestie.</head>
+   <opener>
+      <salute>Most excellent of Queenes,</salute>
+   </opener>
+   <p>The same zeale, that studied to make this Invention worthy of yo<seg rend="sup">r</seg> Maiestyes Name, hath since bene carefull to give it life, and authority: that, what could then be obiected to sight but of a few, might not be defrauded of the applause due to it from all. And, because Princes (out of a religious respect to they<seg rend="sup">r</seg> modesty) may wiselye refuse to be the publique patrons of they<seg rend="sup">r</seg> owne actions; I chose him, that is the next yo<seg rend="sup">r</seg> sacred Person, and might the worthiest of Mankind give it proper, and naturall defence. The rather since it was his Highnesse command, to haue mee adde this second labor of annotation to my first of Invention: and both to the honor of yo<seg rend="sup">r</seg> Maiesty.</p>
+   <closer>Wherein a hearty desire to please deserues not to offend. By
+<signed>the most loyall, and zealous, to y<seg rend="sup">or</seg> Ma<seg rend="sup">ties</seg>
+         <unclear>seruice, Ben Jonson</unclear>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

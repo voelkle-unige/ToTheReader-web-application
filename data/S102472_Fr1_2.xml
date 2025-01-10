@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102472_Fr1_2</idno>
+           <idno type="DLPS">A01089</idno>
+           <idno type="STC">11201</idno>
+           <idno type="ESTC">S102472</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The art of dialling : by a new, easie, and most speedy way. Shewing, how to describe the houre-lines upon all sorts of plaines, howsoever, or in what latitude soever scituated: as also, to find the suns azimuth, whereby the sight of any plaine is examined. Performed by a quadrant, fitted with lines necessary to the purpose. Invented and published by Samuel Foster, professor of astronomie in Gresham Colledge</title>
+                 <author>Foster, Samuel</author>
+                 <imprint>
+                    <publisher>Dawson, John 2</publisher>
+                    <distributor>Eglesfield, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>6, 32, 2, 33-39, 1 page, 1 leaf of folded plates, diagrams, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>READER,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">H</seg>Ere is presented to
+thy view a short
+and plaine Trea<g ref="char:EOLhyphen"/>tise;
+it was written
+for mine owne use,
+it may become
+thine if thou like it; The subject
+indeed is old; but the manner of
+the Worke is all new. If any be de<g ref="char:EOLhyphen"/>lighted
+with recreation of this na<g ref="char:EOLhyphen"/>ture,
+and yet have not much time
+to spend, they are here fitted, the
+<pb facs="3"/>
+instrument will dispatch present<g ref="char:EOLhyphen"/>ly.
+If they feare to lose themselves
+in a wildernesse of lynes, or to out<g ref="char:EOLhyphen"/>runne
+the limits of a Plaine, by in<g ref="char:EOLhyphen"/>finite
+excursions (two inconveni<g ref="char:EOLhyphen"/>ences
+unto which the common
+wayes are subject) they are here ac<g ref="char:EOLhyphen"/>quitted
+of both, having nothing
+to draw but the Diall it selfe, con<g ref="char:EOLhyphen"/>tracted
+within a limited equicru<g ref="char:EOLhyphen"/>rall
+triangle. If want of skill in the
+Mathematicks should deterre any
+from this subject, let them know
+that here is little or none at all re<g ref="char:EOLhyphen"/>quired,
+but what the most ignorant
+may attaine. If others shall thinke
+the Canons more exact; so doe I,
+but not so easie to bee understood,
+not so ready for use, not so speedy
+in performance, nor so well fitting
+<pb facs="3"/>
+all sorts of men: and withall an
+instrument in part must bee used,
+this will doe all, and is accurate e<g ref="char:EOLhyphen"/>nough.
+If it must needs be disliked,
+let a better be shewed and I will dis<g ref="char:EOLhyphen"/>like
+it too; It is new, plaine, briefe,
+exact, of quicke dispatch. Accept
+it, and use it, till I present thee with
+some other thing, which will bee
+shortly.</p>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

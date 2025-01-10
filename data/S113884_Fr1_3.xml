@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the AUTHOR, on his Conceits.</title>
+           <author>Rawlins, T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113884_Fr1_3</idno>
+           <idno type="DLPS">B12023</idno>
+           <idno type="STC">4942</idno>
+           <idno type="ESTC">S113884</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the AUTHOR, on his Conceits.</title>
+                 <author>Rawlins, T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Conceits, clinches, flashes, and whimzies : Newly studied, with some collections, but those never published before in this kinde</title>
+                 <author>Chamberlain, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Frere (Fryer), Daniel.</publisher>
+                            <publisher>Hodgkinson, Richard</publisher>
+                        </imprint>
+                 <extent>138 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>To the AUTHOR, on his <hi>Conceits.</hi>
+   </head>
+   <lg>
+      <l>FRiend, thy conceits flown from the dow<g ref="char:EOLhyphen"/>ney nest,</l>
+      <l>Of thy rich fancy, lighted on my brest.</l>
+      <l>Where (let me tell thee true, for 'twere a sin</l>
+      <l>To flatter any, much more flatter him</l>
+      <pb facs="4"/>
+      <l>I hold my friend) I found such ample store,</l>
+      <l>In thy pure Mine of gold and silver ore</l>
+      <l>I became conscious that I sure was bound</l>
+      <l>Now to disclose toth' world what I had found.</l>
+      <l>And render to the readers no close end,</l>
+      <l>Could stop me from being theirs or thy true friend.</l>
+   </lg>
+   <closer>
+      <signed>T. Rawlins.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

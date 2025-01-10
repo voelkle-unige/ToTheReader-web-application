@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106176_Fr1_2</idno>
+           <idno type="DLPS">A03330</idno>
+           <idno type="STC">13450</idno>
+           <idno type="ESTC">S106176</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nevv-Englands plantation. Or, A short and true description of the commodities and discommodities of that countrey. Written by Mr. Higgeson, a reuerend diuine now there resident. Whereunto is added a letter, sent by Mr. Graues an enginere, out of New-England</title>
+                 <author>Higginson, Francis</author>
+                 <imprint>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eader, do not disdaine to reade this Relation; and looke not here to haue a large Gate and no building within; a full-stuffed Title with no matter in the Booke: But here reade the truth, and that thou shalt find without any frothy bum<g ref="char:EOLhyphen"/>basted words, or any quaint new-deuised ad<g ref="char:EOLhyphen"/>ditions, onely as it was written (not intended for the Presse) by a reuerend Diuine now there liuing, who onely sent it to some Friends here, who were desirous of his Relations; which is an Epitomy of their proceedings in the Plantation. And for thy part if thou meanest to be no Planter nor Venturer, doe but lend thy good Prayers for the furthrance of it. And so I rest a well-wisher to all the good designes both of them which are gone, and of them that are to goe.</p>
+   <closer>
+      <signed>M. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

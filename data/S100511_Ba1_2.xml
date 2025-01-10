@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100511_Ba1_2</idno>
+           <idno type="DLPS">A00887</idno>
+           <idno type="STC">11</idno>
+           <idno type="ESTC">S100511</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The life and gate of Christianitie : entreating of the sacrament of baptisme, deuided into five bookes. Contayning the effects, the mater, the forme, the baptiser, and the partie baptised: with the reasons and use of all the auntient rites and ceremonies. ... Composed, gathered, and written by O.A</title>
+                 <author>Almond, Oliver</author>
+                 <imprint>
+                    <publisher>Auroi (Ouroy), Pierre</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>22, 202, 8 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                    <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>The errors, thus correct. pag. <hi>50.</hi> lin <hi>23.</hi> whit. with. pag. <hi>51.</hi> lin <hi>15.</hi> whit, with. pag. <hi>62.</hi> lin. <hi>4.</hi> absoutlie, absolutlie pag. <hi>68.</hi> lin <hi>32.</hi> ba, be. pag. <hi>98.</hi> lin. <hi>1.</hi> bing, being. &amp; ibid lin. <hi>1. 2.</hi> it no, it, is no. pag. <hi>101.</hi> lin. <hi>12.</hi> thee, three. pag. <hi>108.</hi> lin. <hi>7.</hi> tui, tu. ibid lin. <hi>12.</hi> kind, king. ibid lin <hi>28.</hi> And were, and we were. pag. <hi>110.</hi> lin <hi>28.</hi> wiched wicked. pag. <hi>
+         <gap reason="illegible" resp="#keyers" extent="2 letters">
+            <desc>••</desc>
+         </gap>5.</hi> lin. <hi>31.</hi> grawing, gnavving. pag. <hi>148.</hi> lin. <hi>8.</hi> fait, faith. pag. <hi>153.</hi> lin <hi>30.</hi> die did. pag. <hi>154.</hi> lin <hi>32.</hi> stat<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>e, flatte. pag. <hi>167.</hi> lin. <hi>19.</hi> yet, that, Ibid lin <hi>23.</hi> yet, that.</p>
+   <p>Some other faultes which are of lesser importan<g ref="char:EOLhyphen"/>ce, I dout not but thou thy selfe in the reading, wilt castlie correct them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

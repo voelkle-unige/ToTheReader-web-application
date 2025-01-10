@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The POETS Apologie.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109403_Fr1_3</idno>
+           <idno type="DLPS">A05322</idno>
+           <idno type="STC">15465</idno>
+           <idno type="ESTC">S109403</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The POETS Apologie.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Great Britains beauties, or, The female glory : epitomized, in encomiastick anagramms, and acrostiches, upon the highly honoured names of the Queenes most gracious Majestie, and the gallant lady-masquers in her Graces glorious grand-masque. Presented at White-Hall on Shrove-Tuesday at night, by the Queenes Majestie and her ladies. With disticks, and illustrations, upon their severall anagramms, being in number fifteene, whose names ensure in order on the next side. Published by authoritie. Framed, and formed, by the humble pen of Francis Lenton, the Queenes poet</title>
+                 <author>Lenton, Francis</author>
+                 <imprint>
+                    <publisher>Parsons, Marmaduke</publisher>
+                    <distributor>Becket, James</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>8, 31, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="apology">
+   <lg>
+      <head>The <hi>POETS</hi> Apologie.</head>
+      <l>VVHere Coelique vertue shines, my Muses layes,</l>
+      <l>Freely, and fearlesse, may divulge their Praise,</l>
+      <l>But where foule vice doth raigne (in Honors hight)</l>
+      <l>My Pen shall scorne to be their Parasite:</l>
+      <l>In these rare Princely Dames (of precious lot)</l>
+      <l>No eye could ever spie, least taint, or spot.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN MANVDVCTIONES Ven. P. F. B.</title>
+           <author>Midleton, Theodorus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113354_Fr1_3</idno>
+           <idno type="DLPS">B14172</idno>
+           <idno type="STC">14296.5</idno>
+           <idno type="ESTC">S113354</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN MANVDVCTIONES Ven. P. F. B.</title>
+                 <author>Midleton, Theodorus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Manuductions to the pallace of trueth by F.B. Obseruant</title>
+                 <author>Jackson, Bonaventure</author>
+                 <imprint>
+                    <publisher>Jaye (Jaey), Henry</publisher>
+                    <pubPlace>Belgium--Mechelen</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>16, 139, 138-139, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="6"/>
+   <head>IN MANVDVCTIONES Ven. P. F. B.</head>
+   <l>QVisquis in errorum Labyrintho deuius errat,</l>
+   <l>Accedat, tutum hac semita mon<g ref="char:EOLhyphen"/>strat iter.</l>
+   <l>Non opus est <hi>Filo,</hi> vt caeco duce, <hi>Theseos</hi> instar,</l>
+   <l>Insidiatrices transeat arte vias.</l>
+   <l>Ecce nouum <hi>Filum,</hi> quod non <hi>Minoidis</hi> arte,</l>
+   <l>Sed recto <hi>Fidei</hi> tramite, pandet iter.</l>
+   <l>Cede <hi>Ariadne,</hi> tuum quid nobis <hi>Thesea</hi> jactas?</l>
+   <l>Vinceris: &amp; plus haec Pagina laudis habet.</l>
+   <l>Ars tua te celebret, sed solùm profuit vni,</l>
+   <l>Haec est mille animis vera futura salus.</l>
+   <l>Tu benè <hi>Thessêos</hi> gressus, haec Pagina mentes,</l>
+   <l>Ingeniumque sua doctior arte, reget.</l>
+   <closer>
+      <signed>F. Theodorus Midleton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

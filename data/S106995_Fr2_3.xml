@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the curteous Reader.</title>
+           <author>Byrd, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106995_Fr2_3</idno>
+           <idno type="DLPS">B11892</idno>
+           <idno type="STC">4256</idno>
+           <idno type="ESTC">S106995</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the curteous Reader.</title>
+                 <author>Byrd, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Songs of sundrie natures : some of grauitie, and others of myrth, fit for all companies and voyces. Lately made and composed into musicke of 3.4.5. and 6. parts: and published for the delight of all such as take pleasure in the exercise of that art. By VVilliam Byrd, one of the Gentlemen of the Queenes Maiesties honorable chappell</title>
+                 <author>Byrd, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 <publisher>Byrd, William, Assignee of.</publisher>
+                            <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>East (Est, Este), Thomas</publisher>
+                        </imprint>
+                 <extent>268 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_courteous_reader">
+   <pb facs="35"/>
+   <head>To the curteous Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Inding that my last Impression of Musicke (most gentle Reader) through thy curtesie and fauor, hath had good passage and vtterance: and that since the publishing ther<g ref="char:EOLhyphen"/>of, the exercise and loue of that Art to haue exceedingly encreased. I haue bene encouraged thereby, to take fur<g ref="char:EOLhyphen"/>ther paines therein, and to make thee pertaker thereof, be<g ref="char:EOLhyphen"/>cause I would shew my selfe gratefull to thee for thy loue, and desirous to delight thee with varietie, whereof (in my opinion) no Sci<g ref="char:EOLhyphen"/>ence is more plentifully adorned then Musicke. For which purpose I do now publish for thee, songs of 3. 4. 5. and 6. parts, to serue for all companies and voyces: whereof some are easie and plaine to sing, other more hard and difi<g ref="char:EOLhyphen"/>cult, but all, such as any yong practicioner in singing, with a little foresight, may easely performe If I finde thy curtesie to extend aswell to these my present trauells, as it hath done to my former endeuors, I will make my selfe endebted to thee during my lyfe, of whatsoeuer is in me, to yeeld thy delight in Musick, any satisfaction.</p>
+   <closer>
+      <signed>The most affectionate freend to all that loue or learne Musick William Byrd.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

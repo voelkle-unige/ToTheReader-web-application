@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117422_Fr1_2</idno>
+           <idno type="DLPS">A12481</idno>
+           <idno type="STC">22808</idno>
+           <idno type="ESTC">S117422</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sermons of the Right Reuerend Father in God Miles Smith, late Lord Bishop of Glocester. Transcribed out of his originall manuscripts, and now published for the common good</title>
+                 <author>Smith, Miles</author>
+                 <imprint>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Allde, Elizabeth.</publisher>
+                            <publisher>Allde, Elizabeth.</publisher>
+                            <publisher>Crooke, Andrew 1.</publisher>
+                            <publisher>Legat, John 2</publisher>
+                        </imprint>
+                 <extent>14, 287, 3, 289-305, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>NOBILISSIMIS, ACPIETATE, ET PRVDENTIA SPECTATISSIMIS DOMINIS.</p>
+   <list>
+      <item>DN. <hi>HENRICO</hi> COMITI DANBIENSI, ET</item>
+      <item>DN. <hi>EDVARDO</hi> COMITI, NORVICENSI,</item>
+   </list>
+   <p>HAS <hi>Reuerendi in Christo Patris, &amp; doctissimi Praesulis, Milonis</hi> SMITHI, <hi>Gloucestrensis nuper Episcopi Conciones.</hi>
+   </p>
+   <p>Humillimè dedicat qui <hi>D. V.</hi> plurimum debet.</p>
+   <closer>
+      <signed>I. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

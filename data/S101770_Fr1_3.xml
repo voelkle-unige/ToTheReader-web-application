@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SERENISSIMAE PRINCIPI MARIAE, AN∣GLIAE, SCOTIAE, FRANCIAE, ET HIBERNIAE REGINAE,</title>
+           <author>Venerus, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101770_Fr1_3</idno>
+           <idno type="DLPS">A14325</idno>
+           <idno type="STC">24641</idno>
+           <idno type="ESTC">S101770</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SERENISSIMAE PRINCIPI MARIAE, AN∣GLIAE, SCOTIAE, FRANCIAE, ET HIBERNIAE REGINAE,</title>
+                 <author>Venerus, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The baths of Bathe: or, A necessary compendious treatise concerning the nature, vse and efficacie of those famous hot vvaters : published for the benefit of all such, as yeerely for their health, resort to those baths: with an aduertisement of the great vtilitie that commeth to mans body, by the taking of physick in the spring, inferred vpon a question mooued, concerning the frequencie of sicknesse, and death of people more in that season, then in any other. Whereunto is also annexed a censure, concerning the water of Saint Vincents rocks neere Bristoll, which begins to grow in great request and vse against the stone. By To. Venner, Doctor in Physick in Bathe</title>
+                 <author>Venner, Tobias</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Moore (More), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>4, 24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>SERENISSIMAE PRINCIPI MARIAE, AN<g ref="char:EOLhyphen"/>GLIAE, SCOTIAE, FRANCIAE, ET HIBERNIAE REGINAE,</head>
+   <p>HOC DE THERMIS BATHONI<g ref="char:EOLhyphen"/>ENSIBVS OPVSCVLVM HVMIL<g ref="char:EOLhyphen"/>limè dedicat &amp; consecrat</p>
+   <closer>
+      <signed>THO. VENERVS <hi>Med. D<seg rend="sup">r</seg>.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

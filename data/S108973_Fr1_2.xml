@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>London, Edwinus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108973_Fr1_2</idno>
+           <idno type="DLPS">A06492</idno>
+           <idno type="STC">16965</idno>
+           <idno type="ESTC">S108973</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>London, Edwinus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A commentarie of M. Doctor Martin Luther vpon the Epistle of S. Paul to the Galathians : first collected and gathered vvord by vvord out of his preaching, and novv out of Latine faithfully translated into English for the vnlearned. Wherein is set forth most excellently th glorious riches of Gods grace</title>
+                 <author>Luther, Martin</author>
+                 <imprint>
+                    <publisher>Vautrollier, Thomas 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>8, 208, 211-282 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>HIS booke being brought vnto me to peruse and to consider of, I thought it my part, not onely to al<g ref="char:EOLhyphen"/>lovve of it to the print, but also to commend it to the Reader, as a treatise most comfortable to all af<g ref="char:EOLhyphen"/>flicted consciences exercised in the Schole of Christ. The Author felt vvhat he spake, and had experience of vvhat he vvrote, and therefore able more liuely to expresse both the as<g ref="char:EOLhyphen"/>saultes and the saluing, the order of the battell, and the meane of the victory. Satan is the enemy, the victorie is by onely faith in Christ, as Iohn recordeth. If Christe iustifie, vvho can con<g ref="char:EOLhyphen"/>demne, saith S. Paule. This most necessarye doctrine the au<g ref="char:EOLhyphen"/>thor hath most substantially cleared in this his comment. VVhich being vvritten in the Latine tounge, certaine godly learned men haue most sincerely translated into our language, to the great be<g ref="char:EOLhyphen"/>nefite of all such as vvith humbled hartes vvil diligently reade the same. Some beganne it according to such skill as they had. O<g ref="char:EOLhyphen"/>thers godly affected, not suffering so good a matter in handling to be marred, put to their helping hands for the better framing and furthering of so vvorthy a vvorke. They refuse to be named, seeking neither their ovvne gaine nor glory, but thinking it their happines, if by any meanes they may releue afflicted mindes, &amp; doe good to the church of Christ, yealding all glory vnto God, to vvhom all glory is due.</p>
+   <closer>
+      <dateline>
+         <date>Aprilis. 28. 1575.</date>
+      </dateline>
+      <signed>Edvvinus London.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

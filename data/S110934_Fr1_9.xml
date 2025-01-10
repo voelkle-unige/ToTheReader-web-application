@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ineruditissmum D. Andr. Laurentij Tractatum Anglicè versum, .</title>
+           <author>Pagit, Ephraim</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110934_Fr1_9</idno>
+           <idno type="DLPS">A20928</idno>
+           <idno type="STC">7304</idno>
+           <idno type="ESTC">S110934</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ineruditissmum D. Andr. Laurentij Tractatum Anglicè versum, .</title>
+                 <author>Pagit, Ephraim</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A discourse of the preseruation of the sight: of melancholike diseases; of rheumes, and of old age. Composed by M. Andreas Laurentius, ordinarie phisition to the King, and publike professor of phisicke in the Vniuersitie of Mompelier. Translated out of French into English, according to the last edition, by Richard Surphlet, practitioner in phisicke</title>
+                 <author>Du Laurens, André</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Jackson (Jacson), Ralph 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>16, 194 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Ineruditissmum D. Andr. Laurentij Tractatum <hi>Anglicè versum,</hi>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>DAs Surphlette tuis longaeuae munera vitae,</l>
+   <l>Quid melius nobis viuere vita dabit?</l>
+   <l>Obstas ne stygij per lurida transtra Charontis</l>
+   <l>Ferali Parcâ corpora raptamigrent.</l>
+   <l>Cumque dolent homine, illis das rite valer<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Attollens morbos. Pharmaca sana doce<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Extremis obstare malis, vitaeque labantis</l>
+   <l>Arte grauescentes multiplicare dies.</l>
+   <l>Omnia quid referam? neque enim bona nouimus illa:</l>
+   <l>Deficit ars artes sat celebrate tuas.</l>
+   <l>Hac mortale genus, licet, immortale videtur:</l>
+   <l>Si quid in hac vita, vincere fata valet.</l>
+   <closer>
+      <signed>EPHRAIM PAGIT.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

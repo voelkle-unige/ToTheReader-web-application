@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTORI.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1570</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105738_Fr1_2</idno>
+           <idno type="DLPS">A01792</idno>
+           <idno type="STC">11927</idno>
+           <idno type="ESTC">S105738</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTORI.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse of the great crueltie of a widowe towardes a yong gentleman, and by what meanes he requited the same. Set forth in English verse by Iohn God</title>
+                 <author>God, John</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1570</date>
+                 </imprint>
+                 <extent>80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>LECTORI.</head>
+   <l>
+      <hi>I</hi> Incipe nec sistes totum percurre libellum:</l>
+   <l>
+      <hi>O</hi> Omnia lecta docent, quae, nisi lecta iuuāt?</l>
+   <l>
+      <hi>A</hi> Ars docet, et veterū te lectio cūcta docebit,</l>
+   <l>
+      <hi>N</hi> Nulla tibi virtus clarior esse potest.</l>
+   <l>
+      <hi>N</hi> Nāc<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>pi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> à lectu, metu quod honestat acumē,</l>
+   <l>
+      <hi>E</hi> Electu vitae est pa<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ta diurna salus.</l>
+   <l>
+      <hi>S</hi> Salq cibos condit, sic condit maxima vitae</l>
+   <l>
+      <hi>G</hi> Gaudia, non spa<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>so lectio iusta sale.</l>
+   <l>
+      <hi>O</hi> Optima si cupias acquirere mella, studet<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>,</l>
+   <l>
+      <hi>D</hi> Disce loborosos voluere quaeso libros.</l>
+   <l>
+      <hi>D</hi> Disce puella precor, fuge, quod mea chartula narrat.</l>
+   <l>
+      <hi>V</hi> Vt melius possis imperitare viro.</l>
+   <l>
+      <hi>S</hi> Sed mendicanti da praemia quaeso libell<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Sic meliora queo, sit meliora dab<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>.</l>
+</div>
+        </body>
+  </text>
+</TEI>

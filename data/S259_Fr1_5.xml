@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S259_Fr1_5</idno>
+           <idno type="DLPS">A17297</idno>
+           <idno type="STC">4140.4</idno>
+           <idno type="ESTC">S259</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Conflicts and comforts of conscience : A treatise, shewing how the conscience, in cases of deepest distresse and distraction, may recollect it selfe, and recouer solid and sound comfort. Collected from priuate proofe, for publike profit. By H.B. Rector of St. Mathews Friday street</title>
+                 <author>Burton, Henry</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>4, 16, 28, 278, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="23"/>
+   <head>Errata.</head>
+   <p>IN the Latine Epistle; <hi>page</hi> 2. <hi>line</hi> 13. <hi>for,</hi> intexuisse, <hi>read</hi> intexuerim. <hi>p.</hi> 3. <hi>l.</hi> 9. <hi>r.</hi> dedig<g ref="char:EOLhyphen"/>nabimini. <hi>p.</hi> 5. <hi>l.</hi> 7. <hi>r.</hi> misericor<g ref="char:EOLhyphen"/>diam. <hi>p.</hi> 8. <hi>l.</hi> 10. <hi>r.</hi> Sanctorum.</p>
+   <p>In the Booke; <hi>p.</hi> 57. <hi>l.</hi> 4. <hi>for</hi> Conflict <hi>r.</hi> cooler. <hi>p.</hi> 131. <hi>l.</hi> 19. <hi>r.</hi> credatis. <hi>p.</hi> 145. <hi>l.</hi> 9. <hi>f.</hi> corrup<g ref="char:EOLhyphen"/>tion <hi>r.</hi> corrupts. <hi>&amp; l.</hi> 24. <hi>f.</hi> com<g ref="char:EOLhyphen"/>ming <hi>r.</hi> winning. <hi>p.</hi> 161. <hi>l.</hi> 24. <hi>f.</hi> turning <hi>r.</hi> teaching. <hi>p.</hi> 180. <hi>l.</hi> 16 <hi>r.</hi> quid. <hi>p.</hi> 210. <hi>in the margent, l.</hi> 6. <hi>r.</hi> ardo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>. <hi>p.</hi> 270. <hi>l.</hi> 21. <hi>r.</hi> nuz<g ref="char:EOLhyphen"/>zle. Other lighter escapes the judicious Reader will easily correct.</p>
+</div>
+        </body>
+  </text>
+</TEI>

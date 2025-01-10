@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable my singuler good Lord and Maister William Earle of Bath: Lord Lieftenant of the Countye of Deuon:</title>
+           <author>Amner, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122343_Fr1_3</idno>
+           <idno type="DLPS">A19215</idno>
+           <idno type="STC">563</idno>
+           <idno type="ESTC">S122343</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable my singuler good Lord and Maister William Earle of Bath: Lord Lieftenant of the Countye of Deuon:</title>
+                 <author>Amner, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sacred hymnes : Of 3. 4. 5 and 6. parts for voyces &amp; vyols. Newly composed by Iohn Amner Bachelor of Musique, master of the choristers and organist of the cathedrall church of Ely</title>
+                 <author>Amner, John</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>152 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>To the Right Honorable my singuler good Lord and Maister <hi>William</hi> Earle of <hi>Bath:</hi> Lord Lieftenant of the <hi>Countye</hi> of <hi>Deuon:</hi>
+   </head>
+   <opener>
+      <salute>Right Honorable</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Shall euer acknowledge, that your most noble disposition and countenance, hath both held me vp, and bred me to that little learning and liuing, which I now enioy.</p>
+   <p>Wherefore to your Lordships fauourable acceptance and protecti<g ref="char:EOLhyphen"/>on, I do humbly offer this my pre<g ref="char:EOLhyphen"/>sent endeauours; first vndertaken in priuate zeale, after forwarded by th'aduise and encouragement of that worthie gentleman Mr. <hi>Thomas Hynson,</hi> your Lordships Allye and deuoted Seruant now deceased, and his sonne that now fol<g ref="char:EOLhyphen"/>lowes you with the same zeale and affection: Lastly published as a liuely sacrifice and signe in particuler of my vnfeigned ho<g ref="char:EOLhyphen"/>mage, and deuotion to your Lordship vniuersally honoured, as <hi>Patron</hi> of all goodnes and good studies. Thus hartilie praying for your Lordships health, and most happie daies, and humblie crauing continuance of your honourable fauours to me and mine: I remaine</p>
+   <closer>
+      <signed>At your Lordships pleasure to be Commanded, Io. AMNER.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

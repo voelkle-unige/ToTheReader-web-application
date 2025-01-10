@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN OPVS CVM VI∣ventibus tum Morienti∣bus vtilissimum A. D. ZACHARIA BODIO Glasguensis Ecclesiae Pastore adornatum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S881_Fr1_13</idno>
+           <idno type="DLPS">A16539</idno>
+           <idno type="STC">3447</idno>
+           <idno type="ESTC">S881</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN OPVS CVM VI∣ventibus tum Morienti∣bus vtilissimum A. D. ZACHARIA BODIO Glasguensis Ecclesiae Pastore adornatum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The last battell of the soule in death : diuided into eight co [n] ferences. ... VVhereby are showne the diuerse skirmishes that are betweene the soule of man on his death-bedde, and the enemies of our saluation. Carefullie digested for the comfort of the sicke: by Mr. Zacharie Boyd, preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>2 volumes (22, 747, 1, 38, 748-1270, 3 pages), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="epigram">
+   <pb facs="11"/>
+   <head>IN OPVS CVM VI<g ref="char:EOLhyphen"/>ventibus tum Morienti<g ref="char:EOLhyphen"/>bus <hi>vtilissimum A. D.</hi> ZACHARIA BODIO <hi>Glasguensis Ecclesiae Pastore</hi> adornatum.</head>
+   <head>AD LECTOREM. <hi>Epigramma.</hi>
+   </head>
+   <l>FOElix qui sancte potuit traducere vitam,</l>
+   <l>Et tandem extremum Sanctè obijsse diem▪</l>
+   <l>Haec duo qui didicisse cupis, tibi pandit vtrumque</l>
+   <l>Hic Liber, hunc animo volue revolue tuo.</l>
+</div>
+        </body>
+  </text>
+</TEI>

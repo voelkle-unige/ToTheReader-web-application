@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116224_Fr1_2</idno>
+           <idno type="DLPS">A16912</idno>
+           <idno type="STC">3802.5</idno>
+           <idno type="ESTC">S116224</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Aduertisements from Britany, and from the Lovv Countries. In September and October</title>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>2, 9, 3 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">L</seg>East that the better sorte shoulde
+be mis-ledde by the malicious,
+who hearing of some smalgarboyl
+betweene the French and Eng<g ref="char:EOLhyphen"/>lish,
+enlarged it so on Tenter<g ref="char:EOLhyphen"/>hookes,
+that they proclaimed it a
+ruin of both the armies. I thought
+it good to publish this <hi>Iournall</hi> of <hi>Aduertisements,</hi>
+which I receaued out of <hi>Brittanie,</hi> as well to make it
+knowen how well our slender and weake Forces daylie
+confront the enemie, as also with what good agreement
+(by the great wisdome of the Commaunders) the two
+Naeions ioyne in a common quarrell against a com<g ref="char:EOLhyphen"/>mon
+enemie.</p>
+   <p>If I may finde this to be acceptable to the Reader,
+I shall be willing to acquaint him with
+therest, as it shall come vnto
+my handes.</p>
+   <closer>Farewell.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

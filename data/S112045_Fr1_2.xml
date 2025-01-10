@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE PREFACE TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112045_Fr1_2</idno>
+           <idno type="DLPS">A10876</idno>
+           <idno type="STC">21142</idno>
+           <idno type="ESTC">S112045</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE PREFACE TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Christian mans guide : Wherein are contayned two treatises. The one shewing vs the perfection of our ordinary workes. The other the purity of intention we ought to haue in all our actions. Both composed in Spanish by the R.F. Alfonsus Rodriguez of the Society of Iesus Translated into English</title>
+                 <author>Rodríguez, Alfonso</author>
+                 <imprint>
+                    <publisher>Seutin, George</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>8, 80, 8, 81-182, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>THE PREFACE TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">G</seg>ENTLE Reader, I present thee here with two excell<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nt Treatises, writt<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> by the <hi>R. F. Alfonsus Rodri<g ref="char:EOLhyphen"/>guez</hi> of the Society of Iesus, that is to say, his second and third Treatise of his first part of Christian Perfection. The one teacheth vs, how by per<g ref="char:EOLhyphen"/>forming our Ordinary Actiōs with due diligēce, we may be<g ref="char:EOLhyphen"/>come
+<pb facs="3"/>
+perfect in a short tyme. The other, how we ought to haue our Intention Right and Pure in al our Actiōs, &amp; how necessary and profitable this care is. Both Treatises will sufficiently commend them<g ref="char:EOLhyphen"/>selues if they be read with at<g ref="char:EOLhyphen"/>tention, and an earnest desire to profit in the way of vertue. My mind was to haue added hereunto the first Treatise of the same Authour: but be<g ref="char:EOLhyphen"/>cause it is not yet ready, I dif<g ref="char:EOLhyphen"/>ferre it till a longer day, and in the meane tyme I present this to thy vse and benefit.</p>
+</div>
+        </body>
+  </text>
+</TEI>

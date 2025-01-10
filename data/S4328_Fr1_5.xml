@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Gregorium</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1568</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4328_Fr1_5</idno>
+           <idno type="DLPS">A02203</idno>
+           <idno type="STC">12345.5</idno>
+           <idno type="ESTC">S4328</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Gregorium</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Epigrams and sentences spirituall in vers, of Gregori Nazanzen, an auncient &amp; famous bishop in the Greke churche Englished by Tho. Drant</title>
+                 <author>Gregory, of Nazianzus, Saint</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1568</date>
+                 </imprint>
+                 <extent>93 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Ad Gregorium</head>
+   <lg>
+      <l>Dulces docta modos loqui</l>
+      <l>Dum Christum celebrat Calliope tua:</l>
+      <l>Dum tristis querulo temporis, &amp; loci</l>
+      <l>Defles carmine crimina:</l>
+   </lg>
+   <lg>
+      <pb facs="5"/>
+      <l>Praestans dum quatitur Chelis:</l>
+      <l>Dum certas fidibus non triuialibus:</l>
+      <l>Dum fundis numeros nobilis (O) bonos:</l>
+      <l>Vincis maxime Gregori.</l>
+   </lg>
+   <lg>
+      <l>Primae vos superas viros,</l>
+      <l>Et Maya genitus, Linus, &amp; Orpheus,</l>
+      <l>Alcaei taceat barbiton optimum:</l>
+      <l>Vincis barbiton Alcaei.</l>
+   </lg>
+   <lg>
+      <l>Dum pascis domini gregem,</l>
+      <l>(Est <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> tua sic cignia <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>)</l>
+      <l>Dulcis, dulcior es mellibus Atticis:</l>
+      <l>Claris clarior omnibus.</l>
+   </lg>
+   <lg>
+      <l>Agros flumine dum rigas:</l>
+      <l>Dum cogis pecudes montibus Israel:</l>
+      <l>Et dum manna fluit faucibus inclytis:</l>
+      <l>Fauces mella stipant tuum.</l>
+   </lg>
+   <lg>
+      <l>Viuis maxime Gregori,</l>
+      <l>Laetis, at{que} bonis aedite saeculis.</l>
+      <l>Acris, melli fluus, doctiloquus, pius,</l>
+      <l>Vincis maxime Gregori.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

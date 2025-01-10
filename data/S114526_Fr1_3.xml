@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE AVTHOR TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114526_Fr1_3</idno>
+           <idno type="DLPS">B12278</idno>
+           <idno type="STC">6044a</idno>
+           <idno type="ESTC">S114526</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE AVTHOR TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sad memoriall of Henry Curwen esquire : the most worthy and onely child of Sr Patricius Curwen Baronet of Warkington in Cumberland, who with infinite sorrow of all that knew him departed this life August: 21. being Sunday: 1636. In the fourteenth yeare of his age; and lyes interred in the Church of Amersham in Buckingham shire</title>
+                 <author>Croke, Charles</author>
+                 <imprint>
+                    <publisher>Turner, William</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>6, 32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>THE AVTHOR TO THE READER.</head>
+   <opener>
+      <salute>Gentle Reader,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>Hese papers have lien two years in <hi>Cumberland</hi> in a Manu<g ref="char:EOLhyphen"/>script, which privacie not sa<g ref="char:EOLhyphen"/>tisfying the great affection of Noble Parents towards their deceased Son, they are now come to thy view. The memory of the Gentleman (the mournfull subject) you will soone perceive was worthy all conti<g ref="char:EOLhyphen"/>nuance: <hi>Achilles</hi> is yet remembred for <hi>Ho<g ref="char:EOLhyphen"/>mer;</hi> but if I Be thought on, <hi>it is for wor<g ref="char:EOLhyphen"/>thy CURWEN; Achilles</hi> for the excel<g ref="char:EOLhyphen"/>lencie of the writer, I of the subject: for I freely acknowledge, the Penman will deserve little of his Reader, but the Gentleman that is described, <hi>all imitation. Fruere &amp; vale.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

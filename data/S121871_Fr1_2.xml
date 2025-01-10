@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD LECTOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121871_Fr1_2</idno>
+           <idno type="DLPS">A09047</idno>
+           <idno type="STC">19340.5</idno>
+           <idno type="ESTC">S121871</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD LECTOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pareus</title>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>AD LECTOREM.</head>
+   <p>NE quis error alicui obijceretur, lectorem hoc lo<g ref="char:EOLhyphen"/>co praemonendum censui, me in hoc Pareo de<g ref="char:EOLhyphen"/>scribendo sunimam argumenti fideliter retinuisse; sed tamen ornatus &amp; delectationis causa <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> quaedam, vt graeci vocant, excogitasse &amp; affinxisse. Quod quidem &amp; Aristotelis praecepta, &amp; optimorum Poetarum exempla secutus feci: at{que} ita vt nihil at<g ref="char:EOLhyphen"/>texuerim, quod non esset virisimile, aut ab argumenti natura abhorreret.</p>
+</div>
+        </body>
+  </text>
+</TEI>

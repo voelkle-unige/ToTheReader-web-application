@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Generoso Domino, Dauidi Mo∣rauio, Equiti aurato.</title>
+           <author>Gordonius, Patricius</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115999_Fr1_2</idno>
+           <idno type="DLPS">A01931</idno>
+           <idno type="STC">12068</idno>
+           <idno type="ESTC">S115999</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Generoso Domino, Dauidi Mo∣rauio, Equiti aurato.</title>
+                 <author>Gordonius, Patricius</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Neptunus britannicus Corydonis : De luctuoso Serenissimi Henrici (æternæ memoriæ) magnæ Britanniæ Principis, &amp;c. obitu. Et felicibus Serenissimi successoris Caroli. F. Ducis Eboracensis, &amp;c. auspicijs: queis intermixtus Serenissimi Friderici, Rhenani Principis Electoris, &amp;c &amp; Serenissimæ Elizabethæ magnæ Britanniæ, &amp;c. Infantis Hymenæus</title>
+                 <author>Gordon, Patrick</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <distributor>Budge, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>Generoso Domino, Dauidi Mo<g ref="char:EOLhyphen"/>rauio, Equiti aurato.</head>
+   <l>PRomisi, fateor, gratum dum vita maneret</l>
+   <l>Me fore: nunc vitae meta propinqua meae est:</l>
+   <l>Inuida sors quamuis ingratum viuere fecit,</l>
+   <l>Non sinet ingratum me pia Musa mori.</l>
+   <l>Accipe sed miti languentia carmina vultu,</l>
+   <l>Grata voluntatis signa futura meae.</l>
+   <l>Regia Majestas, vbi sim, si fortè requirat?</l>
+   <l>Pro patriâ pugnans in patriâ morior.</l>
+   <closer>
+      <signed>Patricius Gordonius</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lector benevole:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115862_Fr1_17</idno>
+           <idno type="DLPS">A20469</idno>
+           <idno type="STC">688</idno>
+           <idno type="ESTC">S115862</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lector benevole:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe introduction to syntax : Compendiously shewing the true vse, grounds, and reason of Latin construction. Collected for the most part out of Nabrissa his Spanish copie. With the concordance supplyed, by I.H. med. doct. Together with the more difficult assertions, proued by the vse of the learned languages</title>
+                 <author>Nebrija, Antonio de</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Emerson (Emondson, Edmonds), Godfrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>40, 110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="addenda">
+   <pb facs="20"/>
+   <head>Lector benevole:</head>
+   <p>Constructionis figuras (discentium maxi<g ref="char:EOLhyphen"/>ma impedimenta &amp; obices) corum com<g ref="char:EOLhyphen"/>modo, quantum in nobis situm est, consulentes, regulis Syntaxi nostrae insertis, hoc modo sup<g ref="char:EOLhyphen"/>plemus.</p>
+   <list>
+      <item>Appositio. p. <hi>8.</hi> l. <hi>10.</hi>
+      </item>
+      <item>Evocatio. p. <hi>1.</hi> l. <hi>14.</hi>
+      </item>
+      <item>Syllepsis. p. <hi>2.</hi> l. <hi>9.</hi>
+      </item>
+      <item>Zeugma. p. <hi>1.</hi> l. <hi>18.</hi>
+      </item>
+      <item>Synthesis p. <hi>4.</hi> l. <hi>13.</hi>
+      </item>
+      <item>Antiptosis p. <hi>4.</hi> l. <hi>2.</hi>
+      </item>
+      <item>Synechdocho p. <hi>16.</hi> l. <hi>12.</hi> &amp; alibi.</item>
+      <item>Ecclypsis p. <hi>89.</hi> l. <hi>12.</hi>
+      </item>
+      <item>Enallage ibid. l. <hi>18.</hi>
+      </item>
+   </list>
+   <p>Reliquas ad Rhetoricam potius spectantes, scientes omisimus. Vale &amp; fruere.</p>
+</div>
+        </body>
+  </text>
+</TEI>

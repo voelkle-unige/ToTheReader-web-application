@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1573</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1388_Fr1_3</idno>
+           <idno type="DLPS">A14064</idno>
+           <idno type="STC">24375</idno>
+           <idno type="ESTC">S1388</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Fiue hundreth points of good husbandry : vnited to as many of good huswiferie, first deuised, &amp; nowe lately augmented with diuerse approued lessons concerning hopps &amp; gardening, and other needefull matters together with an abstract before euery moneth, conteining the whole effect of the saide moneth with a table &amp; a preface in the beginning both necessary to be reade, for the better vnderstandinge of the booke: set forth by Thomas Tusser gentelman [sic], seruant to the honorable Lord Paget of Beudesert</title>
+                 <author>Tusser, Thomas</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <distributor>Tottell (Tathyll, Tothill, Tottyl), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1573</date>
+                 </imprint>
+                 <extent>2, 94 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Culinary arts</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <lg>
+      <l>In euery month, er in aught be begonne,</l>
+      <l>Read ouer y<seg rend="sup">e</seg> month, what auailes to be dōne</l>
+      <l>So neyther this trauel, shal seeme to be lost:</l>
+      <l>Nor thou to repent, of this trifeling cost.</l>
+   </lg>
+   <lg>
+      <l>The figure of abstract, &amp; month do agree,</l>
+      <l>Which one to another, relations bee,</l>
+      <l>The lessons that after those figures do stand:</l>
+      <l>Be points of them selues, to be taken in hand.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

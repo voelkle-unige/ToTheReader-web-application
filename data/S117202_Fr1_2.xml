@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117202_Fr1_2</idno>
+           <idno type="DLPS">A12099</idno>
+           <idno type="STC">22400</idno>
+           <idno type="ESTC">S117202</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Five pious and learned discourses : 1. A sermon shewing how we ought to behave our selves in Gods house. 2. A sermon preferring holy charity before faith, hope, and knowledge. 3. A treatise shewing that Gods law, now qualified by the Gospel of Christ, is possible, and ought to be fulfilled of us in this life. 4. A treatise of the divine attributes. 5. A treatise shewing the Antichrist not to be yet come. By Robert Shelford of Ringsfield in Suffolk priest</title>
+                 <author>Shelford, Robert</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>12, 326, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE RIGHT HONOURABLE THE LORD COVENTRY KNIGHT, BARON OF <hi>ALSBOROUGH,</hi> AND LORD KEEPER OF THE GREAT SEAL OF <hi>ENGLAND,</hi> AND TO HIS MOST VERTUOUS LADIE,<lb/>
+      <hi>ROBERT SHELFORD</hi> MINISTER OF THE CHURCH OF <hi>RINGSFIELD</hi> IN <hi>SUF<g ref="char:EOLhyphen"/>FOLK,</hi> DEVOTETH HIS BEST STUDIES AND SER<g ref="char:EOLhyphen"/>VICE, WITHOUT AM<g ref="char:EOLhyphen"/>BAGES UNFIT FOR SUPERIOURS.</p>
+</div>
+        </body>
+  </text>
+</TEI>

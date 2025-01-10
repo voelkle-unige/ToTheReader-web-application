@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Stationer to the Reader.</title>
+           <author>Walkley, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111186_Fr1_2</idno>
+           <idno type="DLPS">A11992</idno>
+           <idno type="STC">22305</idno>
+           <idno type="ESTC">S111186</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Stationer to the Reader.</title>
+                 <author>Walkley, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The tragoedy of Othello, the Moore of Venice : As it hath beene diuerse times acted at the Globe, and at the Black-Friers, by his Maiesties Seruants. Written by VVilliam Shakespeare</title>
+                 <author>Shakespeare, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Walkley, Thomas</publisher>
+                        </imprint>
+                 <extent>4, 80, 89-99, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="stationer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Stationer to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O set forth a booke without an Epistle,
+were like to the old English prouerbe, <hi>A
+blew coat without a badge,</hi> &amp; the Au<g ref="char:EOLhyphen"/>thor
+being dead, I thought good to take
+that piece of worke vpon mee: To com<g ref="char:EOLhyphen"/>mend
+it, I will not, for that which is good, I hope euery
+man will commend, without intreaty: and I am the bol<g ref="char:EOLhyphen"/>der,
+because the Authors name is sufficient to vent his
+worke. Thus leauing euery one to the liberty of iudge<g ref="char:EOLhyphen"/>ment:
+I haue ventered to print this Play, and leaue it
+to the generall censure.</p>
+   <closer>
+      <signed>
+         <hi>Yours,</hi>
+Thomas VValkley.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

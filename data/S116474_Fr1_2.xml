@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116474_Fr1_2</idno>
+           <idno type="DLPS">A19177</idno>
+           <idno type="STC">5589</idno>
+           <idno type="ESTC">S116474</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The parænese or admonition of Io. Coluille (laitly returnit to the Catholique Romane religion in vhilk he vas baptesit and brocht vp till he had full 14. years of age) vnto his cuntrey men. The contentes of this treatise is to be found after the epistles</title>
+                 <author>Colville, John</author>
+                 <imprint>
+                    <publisher>Prevosteau, Estienne (Stephanus)</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>84, 56, 59-15, that is 166, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="2"/>
+   <bibl>Hieremie 6.</bibl>
+   <q>This sayit the lord stand vpon the hie vayis and
+ask in the ancient streates vhilk is the Good vay, and
+valk thairin and you salt fynd refreching vnto your
+soules.</q>
+   <bibl>Prouerb. 22.</bibl>
+   <q>Transgres not the auld ter<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>cs vhilk thy fathers
+haue sett.</q>
+   <bibl>2. Thessal. 2.</bibl>
+   <q>Stand and hold the traditions vhilk you haue ler<g ref="char:EOLhyphen"/>nit
+ether by my sermon or my epistle.</q>
+   <bibl>1. Corint. 11.</bibl>
+   <q>I loue you that in all thingis you remeber on me
+holding my precepts as I haue by tradition geuin tham
+vnto you.</q>
+   <bibl>Rom. 16.</bibl>
+   <q>I besech you (my brethring) to mark thā yat bring
+in dissensiones and sklandres differing from the do<g ref="char:EOLhyphen"/>ctrin
+yat you haue lernit, and to declin from tham.</q>
+   <bibl>1. Corinth. 14.</bibl>
+   <q>Hes the vord of God procedit from you, or hes it
+cum amang you only.</q>
+</div>
+        </body>
+  </text>
+</TEI>

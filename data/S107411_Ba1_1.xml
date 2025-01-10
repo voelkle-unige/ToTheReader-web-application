@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107411_Ba1_1</idno>
+           <idno type="DLPS">A17870</idno>
+           <idno type="STC">4537</idno>
+           <idno type="ESTC">S107411</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A true reporte of the death &amp; martyrdome of M. Campion Iesuite and preiste, &amp; M. Sherwin, &amp; M. Bryan preistes, at Tiborne the first of December 1581 Observid and written by a Catholike preist, which was present therat Wheruuto [sic] is annexid certayne verses made by sundri persons</title>
+                 <author>Alfield, Thomas</author>
+                 <imprint>
+                    <publisher>Verstegan (Rowlands), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 </imprint>
+                 <extent>52 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>Good reader pardon all faultes escaped in the printing and beare with the woorkmanship of a strainger.</p>
+</div>
+        </body>
+  </text>
+</TEI>

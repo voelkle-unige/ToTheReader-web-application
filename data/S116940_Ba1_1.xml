@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Richardo Martino Hugo Hollandius Optimo Oratori Pessimus Poëta, veteris &amp; perfecti amoris ergò nouum sed imperfectum poëma mittit. Sonulus Hendecasyllabius.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116940_Ba1_1</idno>
+           <idno type="DLPS">A03470</idno>
+           <idno type="STC">13592</idno>
+           <idno type="ESTC">S116940</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Richardo Martino Hugo Hollandius Optimo Oratori Pessimus Poëta, veteris &amp; perfecti amoris ergò nouum sed imperfectum poëma mittit. Sonulus Hendecasyllabius.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pancharis : the first booke. Containing the preparation of the loue betweene Ovven Tudyr, and the Queene, long since intended to her maiden Maiestie: and now dedicated to the inuincible Iames, second and greater Monarch of great Britaine, King of England, Scotland, France, and Ireland, with the islands adiacent</title>
+                 <author>Holland, Hugh</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Knight, Clement</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>86 pages, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="39"/>
+   <head>Richardo Martino Hugo Hollandius Optimo Oratori Pessimus Poëta, veteris &amp; perfecti amoris ergò nouum sed imperfectum poëma mittit. Sonulus Hendecasyllabi<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>us.</head>
+   <lg>
+      <l>HOc Martine tibi vetus sodalis</l>
+      <l>Nuper mitto nouum poema coeptum,</l>
+      <l>Nec doctum satis id, nimisue ineptum:</l>
+      <l>Vester Pegasus est, nec opse talis</l>
+   </lg>
+   <lg>
+      <l>Qui t antis vehar incitatus alis.</l>
+      <l>Verùm me videor sat esse adeptum,</l>
+      <l>Si carmen tibi tale sit receptum:</l>
+      <l>Nec lectum tibi non fuisse malis.</l>
+   </lg>
+   <lg>
+      <l>Quod (si quid saperem) domo quiet â</l>
+      <l>Annus debuerat videre nonus:</l>
+      <l>O sed famâ ego gloria{que} spretâ</l>
+   </lg>
+   <lg>
+      <l>In pessum cecidi poeta pronus;</l>
+      <l>"Tanto pessimus omnium poeta,</l>
+      <l>"Quanto tu optimus omnium patronus.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

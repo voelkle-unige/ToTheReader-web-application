@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In laudem Libri, triplicis Har∣moniae, inscripti, a viro praeclaro, pererudito, &amp; summo Theologo Francisco Croyo scripti. EPIGRAMMA.</title>
+           <author>Ward, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121926_Fr1_4</idno>
+           <idno type="DLPS">A19675</idno>
+           <idno type="STC">6098</idno>
+           <idno type="ESTC">S121926</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In laudem Libri, triplicis Har∣moniae, inscripti, a viro praeclaro, pererudito, &amp; summo Theologo Francisco Croyo scripti. EPIGRAMMA.</title>
+                 <author>Ward, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The three conformities. Or The harmony and agreement of the Romish Church with gentilisme, Iudaisme and auncient heresies. VVritten in French by Francis de Croy G. Arth. and newly translated into English. Seene, perused and allowed</title>
+                 <author>Cro, François de</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Jones, William 3</publisher>
+                        </imprint>
+                 <extent>28, 130, 6, 131-177, 25, 179-258 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>In laudem Libri, triplicis <hi>Har<g ref="char:EOLhyphen"/>moniae, inscripti, a viro praeclaro,</hi> pererudito, &amp; summo Theologo <hi>Francisco Croyo scripti.</hi> EPIGRAMMA.</head>
+   <l>TEr sapies, voluens haec terna volumina, Lector,</l>
+   <l>Tot referunt terni dogmata sancta libri.</l>
+   <l>Quod si ter sapias resupina mente reductus,</l>
+   <l>Vita tibi sapiens tempus in omne fluet.</l>
+   <l>Quod si didiceris sapienter ducere vitam,</l>
+   <l>Vita tibi sapiens secta beata dabit.</l>
+   <l>Innumeros igitur ternos, sanctos{que} libellos</l>
+   <l>Qui numero terno tot bona, tanta ferunt!</l>
+   <l>Tergeminus, rarum, poteritiam viuere partus:</l>
+   <l>Trigeminos plus quàm trigemini{que} dare.</l>
+   <closer>
+      <signed>Iacobus Ortensius Consiliarius Regius Baeterrensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

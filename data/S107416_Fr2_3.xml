@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the Reader.</title>
+           <author>T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107416_Fr2_3</idno>
+           <idno type="DLPS">A17883</idno>
+           <idno type="STC">4549</idno>
+           <idno type="ESTC">S107416</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the Reader.</title>
+                 <author>T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Admirable events : selected out of foure bookes, vvritten in French by the Right Reverend, Iohn Peter Camus, Bishop of Belley. Together with morall Relations, written by the same author. And translated into English by S. Du Verger</title>
+                 <author>Camus, Jean-Pierre</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Brooks (Brooke), William.</publisher>
+                            <publisher>Harper, Thomas</publisher>
+                        </imprint>
+                 <extent>32, 357, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="85"/>
+   <head>The Translator to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O the end that I might avoyde reiterations, out of all the Au<g ref="char:EOLhyphen"/>thours large Preface unto this Booke of morrall relations, which would only have beene tedious, not pleasant to the Reader, I have only given you a little taste of the latter part, the reason chiefly is, that because I ioyne these singular Events, and Morrall relati<g ref="char:EOLhyphen"/>ons, in one volume, you have an Epistle at the beginning which at large informes you of his in<g ref="char:EOLhyphen"/>tents, reasons, and motives, which I think ma<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> suffice; my intents, and wishes shall ever equall, and accompany the Authours, in these his wor<g ref="char:EOLhyphen"/>thy, and my poore labours,</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+   <closer>
+      <signed>T. <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

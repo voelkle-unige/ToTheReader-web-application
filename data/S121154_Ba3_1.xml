@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Envoy]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1491</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121154_Ba3_1</idno>
+           <idno type="DLPS">B11684</idno>
+           <idno type="STC">3305</idno>
+           <idno type="ESTC">S121154</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Envoy]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>These ben the chapitres of thys tretyse of [the] seuen poyntes of trewe loue and euerlastynge wysdom drawen oute of [the] booke [that] is writen in latyn and cleped Orologium sapiencie</title>
+                 <imprint>
+                    <publisher>Caxton, William</publisher>
+                    <pubPlace/>
+                    <date>1491</date>
+                 </imprint>
+                 <extent>296 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Ordinances, edicts, proclamations</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="envoy">
+   <p>¶ Of your charite praye for the transla<g ref="char:EOLhyphen"/>tour of thys sayd treatyse / </p>
+</div>
+        </body>
+  </text>
+</TEI>

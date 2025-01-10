@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1569</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103274_Fr1_2</idno>
+           <idno type="DLPS">A14352</idno>
+           <idno type="STC">24671</idno>
+           <idno type="ESTC">S103274</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Most godly prayers compiled out of Dauids Psalmes by D. Peter Martyr. Translated out of Latine into English by Charles Glemhan. G. Seene and allowed according to the order appointed</title>
+                 <author>Vermigli, Pietro Martire</author>
+                 <imprint>
+                    <publisher>Seres, William 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1569</date>
+                 </imprint>
+                 <extent>512 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>Correct your Booke in the <hi>arguments of the .14. and 15. prayer as folo<g ref="char:EOLhyphen"/>weth.</hi>
+      </hi>
+   </p>
+   <p>Prayer .14. The argument therevnto set, be<g ref="char:EOLhyphen"/>longeth vnto the .15.</p>
+   <p>Prayer the .14. His proper argument: A praier for the grace of Christ against ori<g ref="char:EOLhyphen"/>ginall sinne.</p>
+</div>
+        </body>
+  </text>
+</TEI>

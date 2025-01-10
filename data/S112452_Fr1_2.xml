@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the King.</title>
+           <author>Mathieu, P.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112452_Fr1_2</idno>
+           <idno type="DLPS">A07272</idno>
+           <idno type="STC">17668</idno>
+           <idno type="ESTC">S112452</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the King.</title>
+                 <author>Mathieu, P.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Remarkeable considerations upon the life, and services of Mounsieur Villeroy. Together with certaine politicall observations upon the fall of Seianus. Translated out of the originals by Sr. T.H</title>
+                 <author>Matthieu, Pierre</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 2</publisher>
+                    <distributor>Emerson (Emondson, Edmonds), Godfrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>6, 79, 1, 2, 48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the King.</head>
+   <opener>
+      <salute>SIR,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">B</seg>Ehold here the ruines of an excellent Fabrique, whence goodly, and rare pieces may be taken to beautifie new buildings. They are the wise observations of the most an<g ref="char:EOLhyphen"/>cient of your Counsellors of state, during his six &amp; fifty years service in the greatest state-af<g ref="char:EOLhyphen"/>faires of your Crowne. They who account it no lesse glory to imitate merit, then to succeed to honours, wil make use of his ex<g ref="char:EOLhyphen"/>ample, as of a Torch enkindled
+<pb facs="3"/>by Truth, the eldest daughter of light. If they follow him, and the blast of passion, or Interest make them not dissolve, or slip aside, your Maiesties good in<g ref="char:EOLhyphen"/>tentions may be seconded with happy counsels, and your desires with great and glorious effects.</p>
+   <closer>
+      <signed>P. Mathieu.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Bas, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104511_Fr1_3</idno>
+           <idno type="DLPS">A05398</idno>
+           <idno type="STC">1555</idno>
+           <idno type="ESTC">S104511</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Bas, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Svvord and buckler, or, Seruing-mans defence. By William Bas</title>
+                 <author>Basse, William</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Lownes, Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE READER.</head>
+   <lg>
+      <l>REade if you will: And if you will not chuse,</l>
+      <l>My booke (Sir) shall be read though you refuse:</l>
+      <l>But if you doe, I pray commend my wit:</l>
+      <l>For by my faith 't is first that ere I writ.</l>
+      <l>Who reades and not commends, it is a rule</l>
+      <l>To hold him very wise, or very foole.</l>
+   </lg>
+   <lg>
+      <l>But whosoere commends, and doth not reede,</l>
+      <l>What ere the other is, he's a foole indeede:</l>
+      <l>But who doth neither reade nor yet commend,</l>
+      <l>God speed him well, his labour's at an end.</l>
+      <l>But reade, or praise, or not, or how it pas,</l>
+      <l>I rest your honest, carelesse friend,</l>
+   </lg>
+   <closer>
+      <signed>Will. Bas.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

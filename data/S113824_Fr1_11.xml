@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Zoylum.</title>
+           <author>Hughes, Gul.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113824_Fr1_11</idno>
+           <idno type="DLPS">A01428</idno>
+           <idno type="STC">11545</idno>
+           <idno type="ESTC">S113824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Zoylum.</title>
+                 <author>Hughes, Gul.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Linsi-woolsie. Or Two centuries of epigrammes. Written by William Gamage Batchelour in the Artes</title>
+                 <author>Gamage, William</author>
+                 <imprint>
+                    <distributor>Bell, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Zoylum.</head>
+   <lg>
+      <l>Tam benè compactos calamos vult dente repelli</l>
+      <l>Zoylus edax nostrum? subfugat, hoc nec habet.</l>
+      <l>Uult Numeris nostris includi moribus? ecce</l>
+      <l>Rem teneat; numeret furcifer: hoc &amp; habe.</l>
+   </lg>
+   <closer>
+      <signed>Gul Hughes, in Art. Bacc.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

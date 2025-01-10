@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>CYGNI NOSTER AMOR.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1545</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104109_Fr1_2</idno>
+           <idno type="DLPS">A68344</idno>
+           <idno type="STC">15444.5</idno>
+           <idno type="ESTC">S104109</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>CYGNI NOSTER AMOR.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Kykneion asma : = Cygnea cantio. Autore Ioanne Lelando antiquario</title>
+                 <author>Leland, John</author>
+                 <imprint>
+                    <publisher>Wolfe, Reyner (Reginald)</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1545</date>
+                 </imprint>
+                 <extent>164 pages, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>CYGNI NOSTER AMOR.</head>
+   <p>
+      <figure>
+</figure>
+   </p>
+   <lg>
+      <head>IN CYGN<gap reason="illegible" resp="#uot" extent="1 letter">
+            <desc>•</desc>
+         </gap>AM POMPAM.</head>
+      <l>Aspice qua pompa Tamesinis fertur in undis</l>
+      <l>Isiaca ueniens Cygnus speciosus ab urbe.</l>
+      <l>Vtque ducem placidè sequitur chorus almus ouantē.</l>
+      <l>Ille suas resono celebrabit carmine ripas,</l>
+      <l>Nomen &amp; Henrici Regis feliciter amplum</l>
+      <l>Concentor sublime feret super aethera laetus.</l>
+      <l>Praebeat attentas auditor musicus aures.</l>
+      <l>Rara quidem Cygnum res est audire canentem:</l>
+      <l>Concinuisse tamen doctorum turba uirorum</l>
+      <l>Praedicat, &amp; melicae uocis punctum omne tulisse.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

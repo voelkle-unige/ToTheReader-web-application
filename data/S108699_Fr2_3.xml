@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>C., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108699_Fr2_3</idno>
+           <idno type="DLPS">A19352</idno>
+           <idno type="STC">5775</idno>
+           <idno type="ESTC">S108699</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>C., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Essayes : By Sir William Corne-Waleys the younger, Knight</title>
+                 <author>Cornwallis, William, Sir</author>
+                 <imprint>
+                    <distributor>Mattes, Edmund</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 <publisher>Mattes, Edmund.</publisher>
+                            <publisher>Read, Richard.</publisher>
+                            <publisher>Stafford, Simon</publisher>
+                        </imprint>
+                 <extent>584 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="108"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Present thee Rea<g ref="char:EOLhyphen"/>der with no excel<g ref="char:EOLhyphen"/>lencies, to doe thee no harme is my Commendations, which if thou coūst vnprofitable, beleeue, it is against my will thou knowest it, for might I haue preuented the comming to thy knowledge, thou shouldst neuer haue knowne mee thus: but since a part of mee was out, though I trust not to their strength, yet their strength shall bee stronger by the rest, to liue together and dye toge<g ref="char:EOLhyphen"/>ther, becomming their neerenesse, they shall then goe together, and be all against my will in the power of your disposing.</p>
+   <closer>
+      <signed>W. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

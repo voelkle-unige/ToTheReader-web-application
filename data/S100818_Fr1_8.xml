@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad GOR: EGLISEMMIVM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100818_Fr1_8</idno>
+           <idno type="DLPS">A03932</idno>
+           <idno type="STC">1404</idno>
+           <idno type="ESTC">S100818</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad GOR: EGLISEMMIVM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Guil: Barclayi amoeniorum artium, &amp; medicinæ doctoris, judicium, de certamine G. Eglisemmii cum G. Buchanano, pro dignitate paraphraseos Psalmi CIIII : Non violandi manes. Adjecta sunt, Eglisemmii ipsum iudicium, ut editum fuit Londini, typis Eduardi Aldæi, ann. Dom. 1619: et in gratiam studiosæ iuventutis, ejusdem Psalmi elegans paraphrasis Thomae Rhaedi</title>
+                 <author>Barclay, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>32, 61, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Discourses on government and political theory</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="10"/>
+   <head>Ad G<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>OR: EGLISEMMIVM.</head>
+   <lg>
+      <l>TUnèsacros audes infensàvoce Poëtas</l>
+      <l>Spernere, Pierio non bene grata choro?</l>
+      <l>Saxa, feras{que} truces cantu Rhodopeius Orpheus,</l>
+      <l>Et pot<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>it Stygium perdomuisse canem.</l>
+      <l>Captus Arioniâ Delphin dulcedine vocis,</l>
+      <l>Illaesum placido tergore vexit onus.</l>
+      <l>Mellifluo Tyrios Amphion carmine montes</l>
+      <l>Transtulit, &amp; Lyricâ moenia struxit ope.</l>
+      <l>At tu si pergis vates contemnere, dicam;</l>
+      <l>Caucaseis saxis, durior <abbr>esq</abbr> feris.</l>
+   </lg>
+   <lg>
+      <head>In eundem.</head>
+      <l>QUem Galli, Hispani, Germana ac Itala telius</l>
+      <l>Uincere non pot<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>rant, tentat Eglishemius:</l>
+      <l>Impar congressus, dum Aquilam certare Leoni</l>
+      <l>Cernimus implumem: mox subit inde pudor.</l>
+   </lg>
+   <lg>
+      <head>Imparilitas.</head>
+      <l>Ut sublime volans tenuem secat aëra Falco;</l>
+      <l>Vt pascuntur humi Graculus, Anser, Anas:</l>
+      <l>Sic simmum scandit super aethera Bucchannanus:</l>
+      <l>Sic scit humi tantùm serpore Eglishemius.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the Reader.</title>
+           <author>Lindsay, David</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115092_Fr1_6</idno>
+           <idno type="DLPS">A07768</idno>
+           <idno type="STC">18147</idno>
+           <idno type="ESTC">S115092</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the Reader.</title>
+                 <author>Lindsay, David</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The mysterie of iniquitie: that is to say, The historie of the papacie : Declaring by what degrees it is now mounted to this height, and what oppositions the better sort from time to time haue made against it. Where is also defended the right of emperours, kings, and Christian princes, against the assertions of the cardinals, Bellarmine and Baronius. By Philip Morney, knight, Lord du Plessis, &amp;c. Englished by Samson Lennard</title>
+                 <author>Mornay, Philippe de, seigneur du Plessis-Marly</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>20, 661, 3 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="10"/>
+   <head>❧ To the Reader.</head>
+   <p>
+      <seg rend="decorInit">P</seg>Ope <hi>Paule</hi> the fift caused himselfe to be pourtrayed in the first page of diuers Bookes dedicated vnto him, printed at Rome and at Bolognia; as hath beene sayd in the Preface: The first words of the Latine inscription are, <hi>PAV<g ref="char:EOLhyphen"/>LO V. VICEDEO;</hi> take the numerall letters and you shall find the number of the Beast, <hi>Apocal. c. 13. v. 18.</hi>
+   </p>
+   <p>PAV<seg rend="below">5.</seg>L<seg rend="below">50.</seg>O V<seg rend="below">5.</seg>. V<seg rend="below">5.</seg>I<seg rend="below">1.</seg>C<seg rend="below">100.</seg>ED<seg rend="below">500.</seg>EO.</p>
+   <p>
+      <table>
+         <row>
+            <cell>5.</cell>
+         </row>
+         <row>
+            <cell>50.</cell>
+         </row>
+         <row>
+            <cell>5.</cell>
+         </row>
+         <row>
+            <cell>5.</cell>
+         </row>
+         <row>
+            <cell>1.</cell>
+         </row>
+         <row>
+            <cell>100.</cell>
+         </row>
+         <row>
+            <cell>500.</cell>
+         </row>
+         <row>
+            <cell role="total">666.</cell>
+         </row>
+      </table>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Haddonus, Gaulterus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1545</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104391_Fr1_2</idno>
+           <idno type="DLPS">A22011</idno>
+           <idno type="STC">837</idno>
+           <idno type="ESTC">S104391</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Haddonus, Gaulterus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Toxophilus : the schole of shootinge conteyned in tvvo bookes. To all gentlemen and yomen of Englande, pleasaunte for theyr pastyme to rede, and profitable for theyr use to folow, both in war and peace</title>
+                 <author>Ascham, Roger</author>
+                 <imprint>
+                    <publisher>Whitchurch (Whytchurch), Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1545</date>
+                 </imprint>
+                 <extent>8, 50, 22, 27-42 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="2"/>
+   <opener>
+      <signed>Gualterus Haddonus Cantabrigien.</signed>
+   </opener>
+   <l>Mittere qui celeres summa uelit arte sagittas,</l>
+   <l>Ars erit ex isto summa profecta libro.</l>
+   <l>Quicquid habent arcus rigidi, nerui{que} rotundi,</l>
+   <l>Sumere fi libet, hoc sumere fonte licet.</l>
+   <l>Aschamus est author, magnū quē fecit Apollo</l>
+   <l>Arte sua, magnum Pallas &amp; arte sua.</l>
+   <l>Docta man{us} dedit hūc, dedit hūc mēs doct a libellū:</l>
+   <l>Quae ui det Ars Vsus uisa, parata facit.</l>
+   <l>Optimus haec author quia tradidit optima scripta,</l>
+   <l>Conuenit bec uobis optima uelle sequi.</l>
+</div>
+        </body>
+  </text>
+</TEI>

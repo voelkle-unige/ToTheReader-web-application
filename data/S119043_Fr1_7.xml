@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In I. Sadlerum eiusque versionem
+Gulielmus Iacobus.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119043_Fr1_7</idno>
+           <idno type="DLPS">A14315</idno>
+           <idno type="STC">24631</idno>
+           <idno type="ESTC">S119043</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In I. Sadlerum eiusque versionem
+Gulielmus Iacobus.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The foure bookes of Flauius Vegetius Renatus : briefelye contayninge a plaine forme, and perfect knowledge of martiall policye, feates of chiualrie, and vvhatsoeuer pertayneth to warre. Translated out af [sic] lattine, into Englishe, by Iohn Sadler. Anno. 1572. Seene and allovved, accordinge to the order appointed</title>
+                 <author>Vegetius Renatus, Flavius</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 </imprint>
+                 <extent>10, 66, 8 leaves, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In I. Sadlerum eiusque versionem
+Gulielmus Iacobus.</head>
+   <lg>
+      <l>DVra quod vt nuper, nunc non sint scripta Veget<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Dic cuius studio, cuius &amp; ingenio?</l>
+      <l>Dic mihi quis castris Anglus, quis tantus in armis?</l>
+      <l>Sic quis ad arma vocet, sic sua crastra locet?</l>
+      <l>Dic quis tam doctus sic explicat omnia doctè,</l>
+      <l>Sic aptè loquitur, sic sua bella parat?</l>
+      <l>Deni{que} dic quis sit sapienter tempore in isto</l>
+      <l>Adfert qui patriae commoda tanta suae?</l>
+   </lg>
+   <lg>
+      <l>Vnus is èmultis, vel dicam, ex omnibus vnus,</l>
+      <l>Qui facit vt durum hoc non videatur opus:</l>
+      <l>Qui dedit effigiem belli quasi clarus in armis,</l>
+      <l>Bella paransisto commodiora modo:</l>
+      <l>Qui docte scripsit, posuit nec quid nisi rectè:</l>
+      <l>Qui prudens isto tempore bella parat:</l>
+      <l>Est is Sadlerus qui sic sentit{que} sapit{que}:</l>
+      <l>Hec fiunt studio cuius &amp; ingenio.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

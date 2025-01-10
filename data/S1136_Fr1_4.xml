@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1136_Fr1_4</idno>
+           <idno type="DLPS">A12589</idno>
+           <idno type="STC">22906</idno>
+           <idno type="ESTC">S1136</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A godly and shorte treatise of the sacraments. VVritten by Robert Some</title>
+                 <author>Some, Robert</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <distributor>Bishop, George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 </imprint>
+                 <extent>92 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="10"/>
+   <head>To the Reader.</head>
+   <p>SInce the printing of the first part of my Catechisme, I haue bin earnestly dealt with to write somewhat of the Sacraments. The request was verie equall, and I haue yeelded to it, as appea<g ref="char:EOLhyphen"/>reth by these Treatises. The course I haue taken in them is plaine and short: If they shall profite such as haue neede of in<g ref="char:EOLhyphen"/>struction, I will thanke God very humbly for it, and hereafier, by Gods assistance, set downe another short Treatise of the Scripture, and the Church and Confessi<g ref="char:EOLhyphen"/>on, for their further benefit. These points are waighty, but necessary arguments to be handled, yet very breesly: because the memories of the simple are verie shorte and long discourses are not easily dige<g ref="char:EOLhyphen"/>sted by them. God giue vs grace to in<g ref="char:EOLhyphen"/>crease in the knowledge of his truth, and to frame our liues accordingly, to his glo<g ref="char:EOLhyphen"/>rie and our comforte, through Iesus Christ.</p>
+</div>
+        </body>
+  </text>
+</TEI>

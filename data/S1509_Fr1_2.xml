@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1509_Fr1_2</idno>
+           <idno type="DLPS">A16173</idno>
+           <idno type="STC">3093</idno>
+           <idno type="ESTC">S1509</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The second part of the reformation of a Catholike deformed by Master W. Perkins</title>
+                 <author>Bishop, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>214, 2, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">G</seg>ENTLE Reader,</hi> I must needes intreate thy patience to beare with the late edition of this second part: because it is nowe more then two yeares, since it was giuen to be prin<g ref="char:EOLhyphen"/>ted. But, we that cannot haue thinges done when we will: must be content to take them when we may. And to tell thee the truth, some part of this being penned, was also by mischance lost; which is nowe repayred. Take it (I pray thee) simple as it is, in good part: and accept of his good will, that wisheth it much better, that it might giue thee the greater satisfaction.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

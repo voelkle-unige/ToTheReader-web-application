@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A l'istesso.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107086_Fr1_8</idno>
+           <idno type="DLPS">A16157</idno>
+           <idno type="STC">3075</idno>
+           <idno type="ESTC">S107086</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A l'istesso.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Eromena, or, Love and revenge. Written originally in the Thoscan tongue, by Cavalier Gio. Francesco Biondi, Gentleman extraordinary of his Majesties Privie Chamber. Divided into six books. And now faithfully Englished, by Ia. Hayvvard, of Graies-Inne Gent</title>
+                 <author>Biondi, Giovanni Francesco, Sir</author>
+                 <imprint>
+                    <publisher>Badger, Richard 1</publisher>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>16, 195, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="ita" type="encomium">
+   <pb facs="7"/>
+   <head>A l'istesso.</head>
+   <lg>
+      <l>FV l'<hi>Eromena</hi> parto felice</l>
+      <l>Del 'alto intendimento di <hi>Biondo,</hi>
+      </l>
+      <l>Et girava parte del mondo</l>
+      <l>Si tosto quasi che vidde luce.</l>
+   </lg>
+   <lg>
+      <l>In <hi>Inghilterra</hi> nacque, mandata</l>
+      <l>
+         <hi>Dipoi a</hi>
+         <note n="*" place="margin">Venetia.</note>
+         <hi>l'</hi> alma cittá donzella</l>
+      <l>Picciolina nelle fascie, ella</l>
+      <l>Diventó tutta <hi>Italianata.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>Il virtuoso <hi>Haüardo</hi> la trouava,</l>
+      <l>Et l' ha fatto parlar buon <hi>Inglese,</hi>
+      </l>
+      <l>Maternella lingua del paese,</l>
+      <l>Dove che primá l' aria spirava.</l>
+   </lg>
+   <closer>
+      <signed>IA. HOVVELL, <hi>Arm.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

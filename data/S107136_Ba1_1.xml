@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107136_Ba1_1</idno>
+           <idno type="DLPS">A17242</idno>
+           <idno type="STC">4093</idno>
+           <idno type="ESTC">S107136</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of the head-corner-stone: by builders still ouer-much omitted : that is; a forme of teaching Iesus Christ, out of all the Holy Scriptures, both of the Old Testament (that are canonicall) and of the New; ... The whole worke being digested into two seuerall tomes: eyther of which tomes, hauing two bookes therevnto appertaining: as more at large is to be seene in the next leafe. Togither with certaine tables of diuers sorts, for the better vnderstanding, and vse of these bookes; ... By Edm: Bunny, Batcheler of Diuinitie</title>
+                 <author>Bunny, Edmund</author>
+                 <imprint>
+                    <publisher>Jaggard, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>22, 577, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>To the Reader.</head>
+   <p>AS touching all such faults as haue escaped, eyther literall, or otherwise, they are therefore the more fauourablie to be censured, for that the Printer was by diuers so discouraged, after he had taken it in hand, that in that doubtfulnesse, many such escapes might the easier be let passe. And againe, whereas the Reader shall meet with sundry pla<g ref="char:EOLhyphen"/>ces which wanteth the Hebrue Characters, the reason thereof is, that we had not one so little, furnished with the points: wherefore, the Learned Reader, may easily make that supply with his Pen, either by writing them in the Hebrue Character, or turning them into Latine letters, as thus: Tomim, Tabagh, Tabaath, <hi>&amp;c.</hi>
+   </p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Lov, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115515_Fr1_5</idno>
+           <idno type="DLPS">A68624</idno>
+           <idno type="STC">20542</idno>
+           <idno type="ESTC">S115515</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Lov, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Emblemes : by Fra: Quarles</title>
+                 <author>Quarles, Francis</author>
+                 <imprint>
+                    <distributor>Eglesfield, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Dawson, John 2.</publisher>
+                            <publisher>Williams, John</publisher>
+                        </imprint>
+                 <extent>8, 381, 3 pages, illustrations (metal cuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <l>BY Fathers backt; by Holy Writ, led on,</l>
+   <l>Thou shewst away to Heav'n by <hi>Helicon▪</hi>
+   </l>
+   <l>The Muses Font is consecrate by Thee,</l>
+   <l>And Poefie, baptiz'd Divinitie:</l>
+   <l>Blest soule, that here embark'st: Thou sayl'st a pace,</l>
+   <l>'Tis hard to say, mov'd more by Wit, or Grace;</l>
+   <l>Each Muse so plyes her Oare: but O, the Sayle</l>
+   <l>Is fill'd from heav'n with a Diviner Cale:</l>
+   <l>When Poets prove Divines, why should not I</l>
+   <l>Approve, in Verse, this Divine Poetry?</l>
+   <l>Let this suffice to licence thee the Presse;</l>
+   <l>I must no more; nor could the Truth say lesse.</l>
+   <closer>
+      <signed>
+         <hi>Sic approbavit RICH. LOV<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> Procan. Cantabrigie<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>si<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

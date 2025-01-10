@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Booke to youth.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103396_Fr1_4</idno>
+           <idno type="DLPS">A02056</idno>
+           <idno type="STC">12201</idno>
+           <idno type="ESTC">S103396</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Booke to youth.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The store-house of breuitie in vvoorkes of arithemetike : containyng aswell the soundrie partes of the science in whole and broken numbers, with the rules of proportion, furthered to profitable vse: as also sunderie rules of breuitie of worke, of rare, pleasaunte, and commodious effecte, set forthe by Dionis Gray of London goldsmith. 1577</title>
+                 <author>Gray, Dionis</author>
+                 <imprint>
+                    <publisher>Kingston, John</publisher>
+                    <pubPlace/>
+                    <date>1577</date>
+                 <distributor>Harrison (Harison), John 1</distributor>
+                            <distributor>Norton, William</distributor>
+                        </imprint>
+                 <extent>8, 79, 72-88, 87-118 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_youth">
+   <head>The Booke to youth.</head>
+   <l>ALL little impes in commonweale,</l>
+   <l>whiche wisedome would attaine,</l>
+   <l>Applie your mindes with <hi>Apollo</hi> his traine,</l>
+   <l>and so to honour winne:</l>
+   <l>And reape the wealth more worth then gold</l>
+   <l>renoume shall bee your gaine:</l>
+   <l>With other lores as you frequent,</l>
+   <l>Arithemetique beginne,</l>
+   <l>And euery part from firste to laste,</l>
+   <l>to memorie call you in:</l>
+   <l>Whiche heare appeares in order sette,</l>
+   <l>muche profite to inlarge:</l>
+   <l>To suche as gaine them as they goe,</l>
+   <l>and heedyng this my charge.</l>
+</div>
+        </body>
+  </text>
+</TEI>

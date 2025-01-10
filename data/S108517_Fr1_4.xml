@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108517_Fr1_4</idno>
+           <idno type="DLPS">A05380</idno>
+           <idno type="STC">15536</idno>
+           <idno type="ESTC">S108517</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Heauen and earth, religion and policy. Or, The maine difference betweene religion and policy. Written by C.L</title>
+                 <author>Lever, Christopher</author>
+                 <imprint>
+                    <publisher>Ballard, Henry</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>8, 116, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Discourses on government and political theory</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>T is the common custome to intreate fauour from courteous Readers: the cu<g ref="char:EOLhyphen"/>stome is not good, and ther<g ref="char:EOLhyphen"/>fore I vse it not; for if the matter merit, or the men bee courteous, the sute of fauour will bee easily granted; if o<g ref="char:EOLhyphen"/>therwise, it is but a needelesse shame to beg a commendation where it is not. And therefore I (willingly) leaue to euery man the liberty of his iudge<g ref="char:EOLhyphen"/>ment, and expose this Tract to general censure.</p>
+   <p>
+      <hi>Faults escaped are corrected in the last Page.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

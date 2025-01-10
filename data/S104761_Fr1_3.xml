@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen studients and Scho∣lers of Oxforde.</title>
+           <author>Middleton, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104761_Fr1_3</idno>
+           <idno type="DLPS">A16778</idno>
+           <idno type="STC">3683</idno>
+           <idno type="ESTC">S104761</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen studients and Scho∣lers of Oxforde.</title>
+                 <author>Middleton, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The pilgrimage to paradise, ioyned with the Countesse of Penbrookes loue, compiled in verse by Nicholas Breton Gentleman</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1592</date>
+                 <publisher>Barnes, Joseph.</publisher>
+                            <publisher>Cooke (Coke), Toby.</publisher>
+                            <publisher>East (Est, Este), Thomas</publisher>
+                        </imprint>
+                 <extent>8, 102, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>To the Gentlemen studients and Scho<g ref="char:EOLhyphen"/>lers of Oxforde.</head>
+   <p>
+      <seg rend="decorInit">G</seg>ENTLEMEN, I am perswaded, yee will thinke it not a little f<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>lly in me, to haue entred into so great a presumption, as, before the <gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>ies of so many discreet iudgements, to aduenture the presse, with the simple fruites, of my imperfect labours. Yet when, I re<g ref="char:EOLhyphen"/>member, that vertue is the honour of all artes, and that my Muse hath not altogether straied, from the straine of that di<g ref="char:EOLhyphen"/>uine humor, I will rather hope of your vndeserued fauours, then looke for my desart in the contrary: the occasion, that made me first enter into this action, was to acquaint, the honest mindes of vertuous dispositions, with the heauenly Meditations, of an honourable Lady, the weake discourse whereof, farre short of her worthines, in true worth truely we<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>de, I haue heere rather aduentured to the correction of the learned, then els where woulde haue passed to the commendation of the ignorant giue me then leaue, with this booke to honour her: and for all other I will be ready to carie them after any of you, in witnes whereof, I haue hereto subscribed my name, this 12<seg rend="sup">th</seg> of Aprill. 1592.</p>
+   <closer>
+      <signed>A poore well willer to <hi>your worthines.</hi>
+NICHOLAS BRETON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

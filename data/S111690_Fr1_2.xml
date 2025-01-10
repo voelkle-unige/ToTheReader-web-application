@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1545</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111690_Fr1_2</idno>
+           <idno type="DLPS">A18991</idno>
+           <idno type="STC">5408</idno>
+           <idno type="ESTC">S111690</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Opusculum plane divinum de mortuorum resurrectione et extremo iuditio, in quatuor linguis succincte conscriptum. Authore Ioanne Clerco. Latyne. Englysshe. Italian. Frenche</title>
+                 <author>Clerk, John</author>
+                 <imprint>
+                    <publisher>Herford (Hereford, Hertford), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1545</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="dedication">
+   <pb facs="2"/>
+   <opener>Ie m' en vay.
+
+<salute>Au tresillustre seigneur Henry Conte
+de Surrey, uaillant Cheualier de
+l' ordre treshonorable
+du larrettier.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">C</seg>Eluy qui me composà tres<g ref="char:EOLhyphen"/>honnorè
+seigneur, est Clerc
+a uostre commaundement qui
+m'a controuue si compendi<g ref="char:EOLhyphen"/>eusement
+que luy fut possible
+&amp; m'abaillè tiltre de la resur<g ref="char:EOLhyphen"/>rection
+des mortz, &amp; du dernier iugement.
+Maintenant m'enuoye a uostre presence, tres<g ref="char:EOLhyphen"/>humblement
+a descouurir mon message. Sub
+haittāt que par uous soye receu de bon uisage.</p>
+</div>
+        </body>
+  </text>
+</TEI>

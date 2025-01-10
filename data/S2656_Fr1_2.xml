@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Advertisemnt.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2656_Fr1_2</idno>
+           <idno type="DLPS">A00272</idno>
+           <idno type="STC">10380.5</idno>
+           <idno type="ESTC">S2656</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Advertisemnt.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ar [c?] ticles to be inquired of, in the visitation of the most reverend father in God, Richard, by the providence of God, Lord Arch-bishop of Yorke, primate of England, and metropolitane : had in the yeere of our Lord God 1636</title>
+                 <author>Church of England, Province of York, Archbishop (1631-1640 : Neile)</author>
+                 <imprint>
+                    <publisher>Norton, John 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>16 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <pb facs="2"/>
+   <head>The Advertisem<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>nt.</head>
+   <p>THe Minister, and Church-wardens are to call unto them the Neyghboures of the Parish, and out of them to make choyce (according to the custome of the place) of two of the discreetest parishioners to be Side-men, and they al<g ref="char:EOLhyphen"/>together are to reade over these Articles divers times. Then, after they have duely considered of them, they are to write their answere or presentment unto every Article particularly, and truely, according to their consciences. Lastly, they are all of them to bring their presentments to the Visitation, and there the Church-wardens, and Side-men upon their oathes (but the Minister according to the Canon in that behalfe) are to deliver them up under their handes.</p>
+</div>
+        </body>
+  </text>
+</TEI>

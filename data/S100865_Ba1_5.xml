@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100865_Ba1_5</idno>
+           <idno type="DLPS">A09434</idno>
+           <idno type="STC">19724.3</idno>
+           <idno type="ESTC">S100865</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A godlie and learned exposition vpon the vvhole Epistle of Iude : containing threescore and sixe sermons: preached in Cambridge by that reuerend and faithfull man of God, Master William Perkins, and now, at the request of his executors, published by Thomas Taylor, preache of Gods Word. Wherunto is prefixed a large analysis, containing the summe and order of the whole booke, according to the authors owne method. To which are further added foure briefe tables, to direct the reader in the finding, of either; 1. Common places of religion. 2. More generall doctrines. 3. Questions determined. 4. Places of Scripture, either expounded, or cleered from corruption</title>
+                 <author>Perkins, William</author>
+                 <imprint>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Man, Jonas (Jonah).</publisher>
+                            <publisher>Man, Paul</publisher>
+                        </imprint>
+                 <extent>12, 57, 60-166, 4 pages, folded table, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>Christian Reader, s<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>ing my self could not attend the Pr<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ss<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>oules thou maies meet with<g ref="char:EOLhyphen"/>all; but seeing they are (the most of them) literall, such as <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> the most ocul<gap reason="illegible" resp="#pdcc" extent="3 letters">
+         <desc>•••</desc>
+      </gap> and diligent Pr<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>ter; and none of them such (so farre as I find) as much change of trouble the sense, I reserue the correction of them to thine owne humanitie.</p>
+   <div type="errata">
+      <head>ERRATA.</head>
+      <p>For <hi>Nesikius</hi> and <hi>Aleminus,</hi> reade <hi>Neskius</hi> and <gap reason="illegible" resp="#pdcc" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> and pag. 8▪ for <gap reason="illegible" resp="#pdcc" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> 13. reade <hi>Ioh.</hi> 1.<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>3. and pag. 165. margent, for <gap reason="illegible" resp="#pdcc" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>.</p>
+      <pb n="1" facs="93"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="94"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="1" facs="94"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="2" facs="95"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="3" facs="95"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="4" facs="96"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="5" facs="96"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="6" facs="97"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="7" facs="97"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="8" facs="98"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="9" facs="98"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="10" facs="99"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="11" facs="99"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="12" facs="100"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="13" facs="100"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="14" facs="101"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb n="15" facs="101"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

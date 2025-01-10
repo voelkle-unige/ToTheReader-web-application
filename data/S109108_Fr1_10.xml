@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>EIVSDEM AD LECTOREM</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109108_Fr1_10</idno>
+           <idno type="DLPS">A04254</idno>
+           <idno type="STC">14373</idno>
+           <idno type="ESTC">S109108</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>EIVSDEM AD LECTOREM</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The essayes of a prentise, in the diuine art of poesie</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <publisher>Vautrollier, Thomas 1</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="6"/>
+   <head>EIVSDEM AD LECTOREM</head>
+   <head type="sub">EPIGRAMMA.</head>
+   <l>SI quaeras quis sit tam compti carminis auctor,</l>
+   <l>Auctorem audebis Musa neg are tuum?</l>
+   <l>Ille quidem vetuit, cuite parere necesse est:</l>
+   <l>Quis tantum in Diuas obtinet imperium?</l>
+   <l>Cui parent Musae, Phoebus quo vate superbit,</l>
+   <l>Et capiti demit laurea serta suo.</l>
+   <l>Cui lauri, &amp; sceptri primi debentur honores,</l>
+   <l>Cui multa cingit laude tyara caput.</l>
+   <l>Quo duce spes certaest diuisis orbe Britannis,</l>
+   <l>Haud diuisa iterum regna futura duo.</l>
+   <l>Progenies Regum, Regnorum{que} vnicus haeres,</l>
+   <l>Scilicet obscurus delituisse potest!</l>
+</div>
+        </body>
+  </text>
+</TEI>

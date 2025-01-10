@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Reader.</title>
+           <author>S., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117654_Fr2_1</idno>
+           <idno type="DLPS">A12592</idno>
+           <idno type="STC">22909</idno>
+           <idno type="ESTC">S117654</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Reader.</title>
+                 <author>S., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A godly treatise containing and deciding certaine questions, mooued of late in London and other places, touching the ministerie, sacraments, and Church : Whereunto one proposition more is added. After the ende of this booke you shall finde a defence of such points as M. Penry hath dealt against: and a confutation of many grosse errours broched in M. Penries last treatise. Written by Robert Some Doctor of Diuinitie</title>
+                 <author>Some, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <publisher>Barker, Christopher, Deputy of (to).</publisher>
+                            <publisher>Bishop, George</publisher>
+                        </imprint>
+                 <extent>4, 36, 12, 53-200 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>¶ To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Wo sortes of Recusantes are in this land: the one Popish, the other Anabaptisticall. They giue out, that wee haue no ministery, no Sacraments, no visible Church. These men labour of two diseases: the one is great pride, the other grosse ignorance. Their pride appeares in their behauiour, which is voide of humilitie: their ignorance in their Arguments, which hang together like a sicke mans dreame. That her Maiestie may and ought to compell these Recusants to frequent our Church assemblies, I make no question. There is an other sorte, which either de<g ref="char:EOLhyphen"/>ny or doubt, whether vnpreaching ministers doe deliuer a Sa<g ref="char:EOLhyphen"/>crament: vpon better aduise, some of them confesse, that ig<g ref="char:EOLhyphen"/>norant ministers, doe administer a Sacrament: but they adde this, that such as receiue any Sacrament at their hands, doe sinne grossely and pollute thēselues. I will hope well of these men: for they erre, onely for want of iudgement. The holy Sacrament is one thing, the ministers ignorance is an other thing: the Lordes Sacrament brings singuler comfort to the worthie receiuer: the ministers ignorance can neither per<g ref="char:EOLhyphen"/>uert the Sacrament, nor pollute the receiuer. The Donatistes taught otherwise in the former time, and the Anabaptistes in our time: but they are notably confuted by two famous men, Augustine and Caluine. What account I make of igno<g ref="char:EOLhyphen"/>rant ministers, appeareth in this treatise. It pleased God to direct my heart and penne in this holy labour: therefore I assure my selfe of his gracious blessing.</p>
+   <closer>
+      <dateline>
+         <hi>London,</hi>
+         <date>
+            <hi>Maij. 6. 1588.</hi>
+         </date>
+      </dateline>
+      <signed>R. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

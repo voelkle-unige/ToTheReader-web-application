@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101056_Ba1_1</idno>
+           <idno type="DLPS">A05277</idno>
+           <idno type="STC">1542</idno>
+           <idno type="ESTC">S101056</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A breefe discourse, concerning the force and effect of all manuall weapons of fire : and the disability of the long bowe or archery, in respect of others of greater force now in vse. With sundrye probable reasons for the verrifying therof: the which I haue doone of dutye towards my soueraigne and country, and for the better satisfaction of all such as are doubtfull of the same. Written by Humfrey Barwick</title>
+                 <author>Barwick, Humfrey</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Oliffe (Olive), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 </imprint>
+                 <extent>7, 35 leaves, plates, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <pb n="35" facs="43"/>
+   <p>DIuers and sondrie opinions haue been deli<g ref="char:EOLhyphen"/>uered about the burning of this Treatise, wherby the Author hath bidden the bitter cen<g ref="char:EOLhyphen"/>sures of others onely, to his priuate friends, the truth thereof hath been manifest, but now that it may generally appeere that there was no such matter conteined in the same as was sup<g ref="char:EOLhyphen"/>posed, nor other then by him set downe of dutie and loue to his Countrey and Souereigne, to confirme the which, he hath at his own charges, caused the same to be newly Reprinted, before which time, it pleased some of the best calling to carrie a more better opinion of the same, then by others is deemed, so that now in conclusion he praieth of the Marshallest, equall iudgement, and of the Learned, pardon.</p>
+</div>
+        </body>
+  </text>
+</TEI>

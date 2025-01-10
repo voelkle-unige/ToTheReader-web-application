@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the READER.</title>
+           <author>Squire, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100545_Fr1_3</idno>
+           <idno type="DLPS">A12807</idno>
+           <idno type="STC">23114</idno>
+           <idno type="ESTC">S100545</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the READER.</title>
+                 <author>Squire, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A plaine exposition vpon the first part of the second chapter of Saint Paul his second epistle to the Thessalonians : Wherein it is plainly proved, that the Pope is the Antichrist. Being lectures, in Saint Pauls, by Iohn Squire priest, and vicar of Saint Leonards Shordich sometime fellow of Iesus Colledge in Cambridge</title>
+                 <author>Squire, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Waterhouse, Philip</publisher>
+                        </imprint>
+                 <extent>20, 383, 390-768, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, Let me com<g ref="char:EOLhyphen"/>mend these briefes to thy Christian Charitie. For this Booke; If my small judge<g ref="char:EOLhyphen"/>ment, and the eyes of many of my judi<g ref="char:EOLhyphen"/>cious friends, have not failed me: it may have some <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> but no <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>: some <hi>slips,</hi> no grosse <hi>Errours.</hi> For the <hi>Quotations,</hi> though some may seeme per<g ref="char:EOLhyphen"/>haps to have bin alleaged <hi>judicio errante,</hi> yet <hi>animo reluctante,</hi> not one: I may mis<g ref="char:EOLhyphen"/>understand some; but I mis report not one Author, by a voluntary falsification. For the <hi>Author,</hi> he is a thorough confor<g ref="char:EOLhyphen"/>mable member, &amp; <hi>Minister</hi> of the <hi>Church</hi> of <hi>England.</hi> And for the <hi>Scope,</hi> it is for the information and salvation of thy soule, and his owne soule. Take the <hi>Treatise,</hi> and give prayers, for</p>
+   <closer>
+      <signed>Thy fellow-member in Christ Iesus IOHN SQVIRE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

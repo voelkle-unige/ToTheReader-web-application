@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right VVorshipfull, S. S. Esquire.</title>
+           <author>R., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106600_Fr1_2</idno>
+           <idno type="DLPS">B15433</idno>
+           <idno type="STC">20587.5</idno>
+           <idno type="ESTC">S106600</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right VVorshipfull, S. S. Esquire.</title>
+                 <author>R., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Questions, concernyng conie-hood, and the nature of the conie : Of which, vnder the moderatorship of honie-mouth Stengler, conie-cacther: Merie-pate, the knaue of clubbes, being aunswerer. To take degree in the same facultie shalbe disputed: in the afternoon-hovvers, euenings &amp; night-times, amongst a great concourse of all studentes in the same facultie, these next eating, playing and bibbing kalendes, in the regent house of phantastiques. As they were studiouslie acted in Germanie. Read, vnderstand, iudge</title>
+                 <imprint>
+                    <publisher>Jones (Jhones, Johnes), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right VVorshipfull, S. S. Esquire.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">S</seg>Ir,</salute>
+   </opener>
+   <p>happening to finde by chance, among my Law-papers, the originall print of this Pamphlet, in Latin, as it was acted at <hi>Wit<g ref="char:EOLhyphen"/>tenberg</hi> in <hi>Germanie</hi> during my abode there and afterwardes sent ouer to a friende into <hi>England.</hi> I thought good, in asmuch as wise men ioyne all their pleasures with some profitable conse<g ref="char:EOLhyphen"/>quence, to deeme it worthie your view, wherewith your Worsh at time of your leysure with your recreation may beholde in the way of a iest, manie earnest absurdities of mens conuersations. May it please your W. to accept of it, I haue my wish.</p>
+   <closer>
+      <dateline>
+         <date>This 4. of Iune 1595.</date>
+      </dateline>
+      <signed>Your Worships deuoted. R. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

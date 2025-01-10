@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>More, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113368_Fr1_2</idno>
+           <idno type="DLPS">A07680</idno>
+           <idno type="STC">18069</idno>
+           <idno type="ESTC">S113368</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>More, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Principles for yong princes : Collected out of sundry authors, by George More, Esquire</title>
+                 <author>More, George, esquire</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>4, 66 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Onourable and courteous Reader, though I had no intention to publish this colle<g ref="char:EOLhyphen"/>ction, yet now vpon some considera<g ref="char:EOLhyphen"/>tion, and for that also I hold it as fit for yong Noblemen and Gentlemen to read, as for yong Princes to vnderstand, for that they may reap some profit thereby, I thought it not inconuenient to commit the same to the Presse, commending it to your good acceptance, and fauourable Censure, my meaning to you being of more value then my labour. And so I rest, denoted to doe you better seruice.</p>
+   <closer>
+      <signed>GEORGE MORE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

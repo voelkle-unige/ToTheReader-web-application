@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Printer'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110920_Fr1_3</idno>
+           <idno type="DLPS">A12229</idno>
+           <idno type="STC">22539</idno>
+           <idno type="ESTC">S110920</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Printer'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Countesse of Pembrokes Arcadia, written by Sir Philippe Sidnei</title>
+                 <author>Sidney, Philip, Sir</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Ponsonby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>4, 360 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printers_note">
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="5"/>
+   <p>THe diuision and summing of the Chapters was not of Sir <hi>Philip Sidneis</hi> dooing, but aduentured by the ouer-seer of the print, for the more ease of the Readers. He therfore submits himselfe to their iudgement, and if his labour answere not the worthi<g ref="char:EOLhyphen"/>nes of the booke, desireth pardon for it. As also if any defecct be found in the Eclogues, which although they were of Sir <hi>Phillip Sidneis</hi> writing, yet were they not perused by him, but left till the worke had bene fini<g ref="char:EOLhyphen"/>shed, that then choise should haue bene made, which should haue bene taken, and in what manner brought in. At this time they haue bene chosen and disposed as the ouer-seer thought best.</p>
+</div>
+        </body>
+  </text>
+</TEI>

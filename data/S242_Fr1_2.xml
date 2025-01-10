@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Brew, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S242_Fr1_2</idno>
+           <idno type="DLPS">A68989</idno>
+           <idno type="STC">3719.5</idno>
+           <idno type="ESTC">S242</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Brew, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Lord have mercy upon us : The vvorld, a sea, a pest-house. The one full of stormes, and dangers, the other full of soares and diseases. The observance from these, (though especially accomodated to the times of this heavy contagion,) fitted for all times. For all men, and al times are sicke, of the cause of this sicknesse. Lord haue mercy vpon vs</title>
+                 <author>T. B. (Thomas Brewer)</author>
+                 <imprint>
+                    <distributor>Gosson, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>4, 19, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">P</seg>Ʋnishment is the Companion of Sinne: and although (like a man and his mate) they doe not goe cheeke by joule, like a man and his shadow they doe: for like that shadow, it is still the associate of Sinne, and dogges his most private retyrements though as seldome thought on as wee thinke of our worthlesse shadow.</p>
+   <p>That it is thus, we see; though not, till we see it, to re<g ref="char:EOLhyphen"/>pent it: so bedazeled we are with the beauty, lustre and splendor that is spread by the World over sinne, and high<g ref="char:EOLhyphen"/>handed offences. While on the other side, it dimmes, and obfus<gap reason="illegible" resp="#keyers" extent="2 letters">
+         <desc>••</desc>
+      </gap>tes that, that were it visible, <hi>(Vertue)</hi> in his selfe hath beauty enough to attract, (as the Adamant the Iron) all hearts to admire, and desire it. That we may see <hi>this,</hi> and <hi>that,</hi> that is, <hi>Vertue,</hi> and <hi>Vice</hi> as we should doe, let us in this Picture of the <hi>World,</hi> presented as a <hi>Sea,</hi> and a <hi>Pest-house,</hi> endeavour so to see, as to know them; and knowing them, from thence learne to love, and loath, as we should doe.</p>
+   <p>This Lesson made perfect among us, we shall not so mis<g ref="char:EOLhyphen"/>place our affections: so follow the World, (the corrupt e<g ref="char:EOLhyphen"/>state and condition, that followed the fall of our first Pa<g ref="char:EOLhyphen"/>rents, <hi>Adam,</hi> and <hi>Eve:)</hi> Nor do<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>te on he<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> painted visor: for shee drinke<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> her most bitter potion to them, that make her their porti<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>n. Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> lest I too long keepe the sight of her vanities from you, desiring GOD to purge our Soules from her pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>gues, and our Bodies from the stroak of this An<g ref="char:EOLhyphen"/>gel, I conclude.</p>
+   <closer>
+      <signed>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>. Brevv.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

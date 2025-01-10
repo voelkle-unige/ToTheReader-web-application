@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author To The Reader]</title>
+           <author>Hall, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109324_Fr4_1</idno>
+           <idno type="DLPS">A05049</idno>
+           <idno type="STC">15192</idno>
+           <idno type="ESTC">S109324</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author To The Reader]</title>
+                 <author>Hall, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A most excellent and learned vvoorke of chirurgerie, called Chirurgia parua Lanfranci : Lanfranke of Mylayne his briefe: reduced from dyuers translations to our vulgar or vsuall frase, and now first published in the Englyshe prynte by Iohn Halle chirurgien. Who hath thervnto necessarily annexed. A table, as wel of the names of diseases and simples with their vertues, as also of all other termes of the arte opened. ... And in the ende a compendious worke of anatomie ... An historiall expostulation also against the beastly abusers, both of chyrurgerie and phisicke in our tyme: with a goodly doctrine, and instruction, necessary to be marked and folowed of all true chirurgie [n] s. All these faithfully gathered, and diligently set forth, by the sayde Iohn Halle</title>
+                 <author>Lanfranco, of Milan</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>32, 73, 23, 143, 25, 96, 64 pages, illustrations (woodcuts), portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="145"/>
+   <pb facs="145"/>
+   <opener>
+      <signed>IOHN HALLE CHIRVRGIEN,</signed>
+      <salute>vnto the yonge studentes of Chirurgerie,
+and to all the louing readers sendeth greting, be<g ref="char:EOLhyphen"/>gynnyng
+first with this sentence of
+the diuyne phylosophier
+Socrates.</salute>
+   </opener>
+   <epigraph>
+      <q>
+         <l>He that will seke, and knoweth not</l>
+         <l>Howe muche in more or lesse,</l>
+         <l>Can neuer tell whan he doth finde,</l>
+         <l>An ayde for his distres.</l>
+      </q>
+   </epigraph>
+   <p>
+      <seg rend="decorInit">T</seg>Herfore Galen, the Prince of phisiciens, in
+the .vi. boke of his therapeulike methode affir<g ref="char:EOLhyphen"/>meth,
+that Chirurgiens being ignorant of the
+Anatomie, may erre in many thinges, specially
+in their incisions. For (sayth he) if they knew
+what vnitie and combination the members of
+the body haue one with an other, &amp; howe they
+procede: If hurte happen vnto thē, thei might
+perceiue whether the nerues, or other mēbers
+hauing proper office or nedfull action be cut or
+not: and so to iudge truly of their worke, and to be certeyne in theyr
+incisions.</p>
+   <p>To the confirmation of whiche sentence, <hi>Henricus de Ermunda
+villa,</hi> compareth the chirurgien ignorant in Anatomy, to a blynde mā
+whiche would hewe a pece of tymber: For as a blynd man, that hew<g ref="char:EOLhyphen"/>eth
+on a logge, knoweth not howe muche he should hewe therof, nor in
+what maner, (and therfore commonly erreth, in hewyng more or lesse
+then he ought to doe:) so lykewyse doth the chyrurgien that worketh
+on the body of mā, not knowing the Anatomy. And that it is of neces<g ref="char:EOLhyphen"/>sitie,
+the chirurgien to knowe the Anatomie, the sayde Henry appro<g ref="char:EOLhyphen"/>ueth
+by an euident argument: for euery workeman (sayeth he) should
+knowe the subiect of his worke. But the subiect of chirurgerie is the
+body of man, whiche therfore ought to be knowne of the chirurgien.
+Whiche knowledge of mans body or any part therof, can no wayse be
+attained but by Anatomie.</p>
+   <p>
+      <hi>Anatome</hi> so called of the grecians is sayth <hi>Carolus Stephanus,</hi> the
+dissection of man his body, by reason and iudgement, administred as
+as well in the symple partes as in the cōpounde, to the perfect know<g ref="char:EOLhyphen"/>ledge
+of them. For truly, the perfect knowledge of partes doth chiefly
+consiste in indagacion or diligent exquisition, of substance, quantitie,
+forme, number, situation and connexion.</p>
+</div>
+        </body>
+  </text>
+</TEI>

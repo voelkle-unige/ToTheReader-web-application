@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122925_Fr1_2</idno>
+           <idno type="DLPS">A03343</idno>
+           <idno type="STC">13463</idno>
+           <idno type="ESTC">S122925</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>CLII lectures vpon Psalme LI : Preached, at Ashby-delazouch in Leicester-Shire. By that late, faithfull, and worthy minister of Iesus Christ, Mr. Arthur Hildersam</title>
+                 <author>Hildersam, Arthur</author>
+                 <imprint>
+                    <publisher>Miller, George</publisher>
+                    <distributor>Brewster (Bruster), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>36, 175, 178-755, 766-815, 13 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE RIGHT HONOVRABLE AND RELIGIOVS LADY, <hi>KATHARINE</hi> COVNTESSE OF <hi>CHESTERFIELD:</hi>
+   </p>
+   <p>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>AMUEL HILDERSAM presenteth this Book in testimony of his humble and thank<g ref="char:EOLhyphen"/>full acknowledgement of her noble favour and respect shewed to the Author both living and dying.</p>
+</div>
+        </body>
+  </text>
+</TEI>

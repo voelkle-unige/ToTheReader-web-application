@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE NOBLE LADY, D. Anne Campbell; Daughter to the Noble and Potent Earle, the Earle of Argyle, &amp;c.</title>
+           <author>Boyd, Zachary</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1824_Bo1_3</idno>
+           <idno type="DLPS">A16536</idno>
+           <idno type="STC">3446</idno>
+           <idno type="ESTC">S1824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE NOBLE LADY, D. Anne Campbell; Daughter to the Noble and Potent Earle, the Earle of Argyle, &amp;c.</title>
+                 <author>Boyd, Zachary</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A cleare forme of catechising, before the giving of the Sacrament of the Lords Supper : To this are subjoined two compends of the catechisme, fit for little children. By M. Zacharie Boyd, Preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Anderson, George</publisher>
+                    <pubPlace>Great Britain--Scotland--Glasgow</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>119, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="85" facs="48"/>
+   <head>TO THE NOBLE LADY, D. Anne Campbell; Daughter to the Noble and Potent Earle, the Earle of <hi>Argyle, &amp;c.</hi>
+   </head>
+   <opener>
+      <salute>MADAME,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Heere humbly dedicate unto your <hi>Ladiship,</hi> now of tender yeeres these two compends of the Catechisme.</p>
+   <p>Saint Iohn, the Cu<g ref="char:EOLhyphen"/>sin, and beloved Disciple of Iesus Christ, who for his high doctrine was compared to <hi>an Eagle</hi> that mounteth very high, dis<g ref="char:EOLhyphen"/>dained not to write unto <hi>Children.</hi> In one chapter of a short Epistle hee hath▪ <hi>I write unto you little children</hi>;<note place="margin">1 <hi>Joh.</hi> 2 12▪ <hi>vers.</hi> 13</note> and againe in the same words, <hi>I write unto you little children</hi>; of that his writing
+<pb n="86" facs="49"/>
+hee giveth two reasons; the one is in these words, <hi>because your sins are for<g ref="char:EOLhyphen"/>given you for his Names sake</hi>; the other reason is in these words, <hi>because yee have knowne the Father</hi>: For this end, Madame, have I written unto you these two compends, that yee may <hi>know the Father</hi>; whom I most humbly intreat to increase his graces begun in your <hi>Lady<g ref="char:EOLhyphen"/>ship</hi> in a good measure▪</p>
+   <closer>
+      <dateline>From <hi>Glasgow</hi>
+         <date>the 19. of <hi>Ianuar,</hi> 1639.</date>
+      </dateline>
+      <signed>Your Ladiships most humble Servant, <hi>M. ZACHARY BOYD.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

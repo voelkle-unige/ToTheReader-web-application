@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In eundem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105874_Fr1_4</idno>
+           <idno type="DLPS">A02216</idno>
+           <idno type="STC">12354.5</idno>
+           <idno type="ESTC">S105874</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In eundem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An oration or funerall sermon vttered at Roome, at the buriall of the holy Father Gregorie the 13. who departed in Iesus Christ the 11. of Aprill. 1585 : Conteyning his maners, life, deedes, and last wordes at his death concerning the affayres of this present time. Together with the lamentations of the cardinalles and whole clergie. Faithfully translated out of the French copie, printed at Paris for Peter Iobert, dwelling in Harpe streate. 1585. with the Kings priuiledge. Otherwise to be intituled: a sermon full of papisticall adulation and matter sufficient to procure the wise and vertuous minded to contemne such grosse and palpable blindnesse, and all persons to laugh at their absurde and erronious follies</title>
+                 <imprint>
+                    <publisher>Robinson, George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>6, 23, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>In <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>Ride Epicure deum, gere nescia pectore fati,</l>
+   <l>finge nihil caeli significare faces</l>
+   <l>Crede mihi, ad nigrum quando raptaberis orcum:</l>
+   <l>Hic tua quod plectat scommata Numen erit.</l>
+   <p>Sultum pecus est, non homo, quicunque Astronomiae stu<g ref="char:EOLhyphen"/>dio non tenetur: cuius neminem nisi deum authorem &amp; repertorem faciundum puto.</p>
+   <signed>Plato.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

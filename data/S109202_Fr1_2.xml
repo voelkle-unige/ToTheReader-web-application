@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109202_Fr1_2</idno>
+           <idno type="DLPS">A06772</idno>
+           <idno type="STC">1721</idno>
+           <idno type="ESTC">S109202</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The fortresse of the faythfull agaynst [ye] cruel assautes of pouertie and honger : newlye made for the comforte of poore nedye Christians, by Thomas Becon</title>
+                 <author>Becon, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1550</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>Seres, William 1</publisher>
+                        </imprint>
+                 <extent>184 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <pb facs="2"/>
+   <q>
+      <bibl>Dauid. P<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>al. xxxvii.</bibl>
+      <p>
+         <seg rend="decorInit">I</seg> Haue bene young, and am old,
+and yet sawe I neuer y<seg rend="sup">•</seg> right<g ref="char:EOLhyphen"/>ous
+forsaken, nor hys children
+beggyng theyre breade. The
+ryghtuous is euer merciful and lendeth,
+and yet shall hys children haue Godds
+plenty and ynough▪</p>
+   </q>
+   <q>
+      <bibl>Salomon <gap reason="illegible" resp="#tech" extent="3 letters">
+            <desc>•••</desc>
+         </gap>ouer .xxx.</bibl>
+      <p>Two thinges haue I required of the,
+O Lorde, that thou wylt not deny me be<g ref="char:EOLhyphen"/>fore
+I dye. Remoue frome vanytye and
+lyes. Geue me nether pouerte nor riches,
+only graunt me a necessarye lyuing, least
+if I be to full, I denye the and saye: who
+is the Lord? &amp; least I beinge constrained
+thorowe pouertie faul vnto stealing, and
+forswere the name of my God.</p>
+   </q>
+   <q>
+      <bibl>Christe. Math. vi.</bibl>
+      <p>Take no thought, saying, what shal we
+eat, or what shal we drynke, or wherwith
+shal we be clothed? after al these thynges
+seke the Hethē. For your heauenly father
+knoweth, that ye haue nede of all these
+thinges. But seke ye fyrste the kyngdom
+of God and the righteousnes therof and
+al these thinges shall be caste vnto you.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

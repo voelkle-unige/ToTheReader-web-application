@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106391_Fr1_2</idno>
+           <idno type="DLPS">A68278</idno>
+           <idno type="STC">14644</idno>
+           <idno type="ESTC">S106391</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>[The] troublesome raigne of Iohn King of England : with the discouerie of King Richard Cordelions base sonne (vulgarly named, the bastard Fawconbridge) : also the death of King Iohn at Swinstead Abbey. As it was (sundry times) publikely acted by the Queenes Maiesties Players, in the honourable citie of London</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 <publisher>Clarke, Sampson.</publisher>
+                            <publisher>Orwin, Thomas</publisher>
+                        </imprint>
+                 <extent>96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Gentlemen Readers.</head>
+   <l>YOu that with friendly grace of smoothed brow</l>
+   <l>Haue entertained the <hi>Scythian Ta<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>burlaine,</hi>
+   </l>
+   <l>And giuen applause vnto an Infidel:</l>
+   <l>Ʋouchsafe to welcome (with like curtesie)</l>
+   <l>A warlike Christian and your Co<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ntreyman.</l>
+   <l>For Christs true faith indur'd he many a storme.</l>
+   <l>And set himselfe against the Man of <hi>Rome.</hi>
+   </l>
+   <l>Ʋntill ase treason (by a damned wight)</l>
+   <l>Di<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap> all his former triumphs put to <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ight,</l>
+   <l>Accept of it (sweete Gentles) in good sort,</l>
+   <l>And thinke it was preparde for your di<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>port.</l>
+</div>
+        </body>
+  </text>
+</TEI>

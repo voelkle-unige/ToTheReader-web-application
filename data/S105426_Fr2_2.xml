@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Worshipfull Sir Thomas Gerard Knight.</title>
+           <author>East, Michael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105426_Fr2_2</idno>
+           <idno type="DLPS">A21098</idno>
+           <idno type="STC">7461</idno>
+           <idno type="ESTC">S105426</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Worshipfull Sir Thomas Gerard Knight.</title>
+                 <author>East, Michael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second set of madrigales to 3. 4. and 5. parts : apt for viols and voices. Newly composed by Michaell Est</title>
+                 <author>East, Michael</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Barley, William, Assignee(s etc.) of.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>4, xxii, 6, xxii, 6, xxii, 6, xxii, 6, xxii, 2 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="16"/>
+   <pb facs="16"/>
+   <head>To the Right Worshipfull <hi>Sir Thomas Gerard</hi> Knight.</head>
+   <p>
+      <seg rend="decorInit">S</seg>IR, it is not long, since it first pleased you to grace mee with your acquaintance. Yet in so littell time, I haue obserued great arguments, of your more then most singular loue, to this neuer sufficiently beloued and admired faculty of Mu<g ref="char:EOLhyphen"/>sick: as namely, the perfit pleasure and content<g ref="char:EOLhyphen"/>ment you seeme to take therein; Your indefati<g ref="char:EOLhyphen"/>gable assiduit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e in the priuate exercise thereof, which hath gayned you such a perfection that way, as is rare in a Gentelman of your ranck▪</p>
+   <p>And lastly your courteous and amiable deportment toward my poore selfe, and others, such as my selfe, the sonnes of Musick, when by chance you light among vs. Vnworthie were I then of that thrise worthie Mother, vn<g ref="char:EOLhyphen"/>worthie to be phrased a sonne of Musick, should I not hartely affect and ho<g ref="char:EOLhyphen"/>nour you, in such sort as I doe, whom I find so intirely to loue and honour hir. And hence it is, euen of my loue which you haue well deserued for loueing hir so well, <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> you out, among so many my worshipfull good friends▪ <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>nd labours, &amp; haue first presented them <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> and countenance they might passe ab<gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> therefore to entertaine them, <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>rable acceptance: which I assure <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> doe; especially since they come in so <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> new yeere, when vsually all gifts <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> whose abilitie will not reach to pre<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nd so I humbly take my leaue, from <hi>Ely</hi>
+      <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>
+   </p>
+   <closer>
+      <signed>
+         <hi>Yours in all loue and dutie,</hi> Michaell Est.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

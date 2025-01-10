@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN LAVDEM AVTHORIS.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108810_Fr1_5</idno>
+           <idno type="DLPS">A06199</idno>
+           <idno type="STC">16694</idno>
+           <idno type="ESTC">S108810</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN LAVDEM AVTHORIS.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Cum bono Deo : Raine from the clouds, vpon a choicke angel: or, A returned answere, to that common quæritur of our adversaries, VVhere was your church before Luther? Digested into several meditations, according to the difference of points. Extorted off the author, for stilling the vncessant, and no lesse clamorous coassation of some patmicke frogges, against the lawfulness of our calling</title>
+                 <author>Logie, Andrew</author>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>77, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>IN LAVDEM AVTHORIS.</head>
+   <l>SAepius externis pugnans <hi>LOGIAEVS</hi> in oris</l>
+   <l>Praevalidis rationum armis, <hi>Romana</hi> subegit</l>
+   <l>Arma, <abbr>ducesque</abbr> ipsos: Patriis quoque victor in oris</l>
+   <l>Exultat, <abbr>calcatque</abbr> hostes ratione, sagaci</l>
+   <l>Ingenio, <abbr>verboque</abbr> sacro, flammantis Olympi</l>
+   <l>Quod pater ipse dedit. Telo hoc<note n="*" place="margin">Hoc enim nomine se in<g ref="char:EOLhyphen"/>signari vult <hi>Georgius Les<g ref="char:EOLhyphen"/>taus,</hi> Romano Catholicus, Meletemata haec doctissi<g ref="char:EOLhyphen"/>ma Authori extorsit.</note>
+      <hi>Archangelus</hi> ipse</l>
+   <l>Confusus periet; <abbr>
+         <hi>Romanorumque</hi>
+      </abbr> phalanges,</l>
+   <l>
+      <abbr>Pontificemque</abbr> premet gladio hoc penetrante, ruinam</l>
+   <l>Dogmatibus falsis feret hoc. <hi>LOGIAEVS;</hi> hic omnes</l>
+   <l>Expediet nodos, quoscunque vet <hi>Itala</hi> tellus</l>
+   <l>Opposuit veris verbi praeconibus olim.</l>
+</div>
+        </body>
+  </text>
+</TEI>

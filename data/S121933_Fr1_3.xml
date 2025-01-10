@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121933_Fr1_3</idno>
+           <idno type="DLPS">A19676</idno>
+           <idno type="STC">6099</idno>
+           <idno type="ESTC">S121933</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Militarie instructions for the cavallrie: or Rules and directions for the service of horse : collected out of divers forrain authors ancient and modern, and rectified and supplied, according to the present practise of the Low-Countrey warres</title>
+                 <author>Cruso, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1632</date>
+                 <publisher>Alsop, Nicholas.</publisher>
+                            <publisher>Cambridge University—Printers</publisher>
+                        </imprint>
+                 <extent>10, 108 pages, 16 plates (7 folded), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">O</seg>F making many books there is no end,</hi>
+      <note place="margin">Eccles. 12.10.</note> said the wise King, many ages past; yet for some arts and fa<g ref="char:EOLhyphen"/>culties, I suppose (even in this printing age of ours) we may complain of scarcitie. For among so many au<g ref="char:EOLhyphen"/>thors ancient and modern, which have written of the Art Militarie, is it not strange that hardly any hath fully handled that which concerneth the Cavallrie? Among the ancients, <hi>Aelian</hi> hath somewhat touched upon the manner of ordering the horse, among the Grecians; and <hi>Vegetius</hi> (where he speaketh of the Romane Cavallrie) lightly passeth it over, and concludeth in<note n="a" place="margin">
+         <hi>Lib.</hi> 3. <hi>cap.</hi> 26.</note> these words, <hi>De equitatu sunt multa praecepta: sed cùm haec pars militiae usu exercitii, armorum genere, &amp; equorum nobilitate profecerit, ex libris nihil arbitror colligendum, cùm praesens doctrina suffici<g ref="char:EOLhyphen"/>at.</hi> Now the reason why they (bestowing their chief labour about the Infan<g ref="char:EOLhyphen"/>terie) left so little direction for the horse, may be, either because that (both with Grecians and Romanes) the<note n="b" place="margin">Magis reipublicae ne<g ref="char:EOLhyphen"/>cessarii pedites; qui pos<g ref="char:EOLhyphen"/>sunt ubique prodesse. <hi>Veg. lib. 2. cap. 1.</hi>
+      </note> foot were of greatest esteem (as that wherein their chief strength consisted, and whereon they principally relyed) &amp; so the lesse regard was had of the horse; or else because the service of horse was not<note n="c" place="margin">Equestris Romaneram militia imperfecta fuit, unde nostra jure potior existimanda est. <hi>Scipio Amiratus, Dissert: po<g ref="char:EOLhyphen"/>lit. lib. 19.</hi>
+      </note> grown to that perfection in those times, which it since attain<g ref="char:EOLhyphen"/>ed. For what great effect could be expected of horse using no<note n="d" place="margin">When they were to charge the enemie, they used to pull off their bridles <hi>T. Liv. lib.</hi> 4.</note> bridle, and having neither<note n="e" place="margin">Lip. ad Polyb. lib. <hi>3. 219. 220.</hi>
+      </note> saddle nor stirrops: bearing onely<note n="f" place="margin">Polyb. lib <hi>6.</hi>
+      </note> a weak slender pole (which the very motion of the horse would shake in pieces) and a little round target (as the Romanes manner was at first) or else a staffe or kinde of<note n="g" place="margin">Contus.</note> lance (which they afterward used in imitation of the Grecians) with three or foure darts? and having no surer stay to counterpoise their forced motion, what cer<g ref="char:EOLhyphen"/>taintie or violence could they use, either in charging or casting their weapons? and whereas they usually had of the light armed foot<note n="h" place="margin">
+         <hi>Caes. Com. lib.</hi> 1. <hi>cap.</hi> 17. So did the Ger<g ref="char:EOLhyphen"/>mans, of whose light armed foot <hi>Caesar</hi> re<g ref="char:EOLhyphen"/>porteth thus; <hi>Tanta erat horum exercitatio<g ref="char:EOLhyphen"/>ne celeritas, ut, jubis equorum sublevatis, cur sum adaequarent.</hi> Com. 1.10.</note> entermingled among them, how could they be so serried together for the shock as to do any great effect in making impressions upon their enemie? which surely was the cause they were often commanded<note n="i" place="margin">So did the Consul <hi>Valerius</hi> in the warre against the Sabines. <hi>Liv. lib.</hi> 3. And <hi>S. Tempanius,</hi> a<g ref="char:EOLhyphen"/>gainst the <hi>Volsci. idem lib</hi> 4. and many others.</note> to alight, and (forsaking their horses) to fight on foot. But for modern authors there is not the like reason: and yet of so many as have written, none have treated of rules and instructions for the Cavall<g ref="char:EOLhyphen"/>rie, untill lately <hi>George Basta,</hi> Count of the holy Empire, and <hi>Luys Mel<g ref="char:EOLhyphen"/>zo</hi> knight of <hi>Malta,</hi> wrote their books of Cavallrie. These works of theirs afford good directions: but yet it may be said of them as <hi>Aelian</hi> saith of those authors which had written before him,<note n="k" place="margin">Omnes ferè ità unani miter scripsisse, quasi do<g ref="char:EOLhyphen"/>cere homines vellent non ignaros, sed satìs earum rerum peritos, quas expli<g ref="char:EOLhyphen"/>care statuerent. <hi>Aelian. de instruend. acieb. cap. 1.</hi>
+      </note> That they had so written, as if none should read them but such as were alreadie skilfull in the art militarie. This defect one <hi>Walhausen</hi> taketh upon him to supply something he hath done in the motions, but for the first rudiments, for the handling of arms &amp;c. he (as all others) is silent. But these and the like being written in the forrain lan<g ref="char:EOLhyphen"/>guages, and among so many of our militarie pamphlets none treating of Ca<g ref="char:EOLhyphen"/>vallrie; I have adventured (though altogether unfit for such a task) to employ some idle houres in the diligent reading, and conferring of the said authors to<g ref="char:EOLhyphen"/>gether with such other books and informations as I could obtain out of the Low-countreys and other places, for my better satisfaction herein:<note n="l" place="margin">Lapides &amp; ligna ab aliis accipio, adificii tamen extructio &amp; forma, no<g ref="char:EOLhyphen"/>stra. Nec aranearum sa<g ref="char:EOLhyphen"/>nè textus ideo melior, quia ex se fila gignunt: nec noster vilior, quia ex alienis libamus, ut apes. <hi>Lips. Polit.</hi>
+      </note> endea<g ref="char:EOLhyphen"/>vouring
+<pb facs="4"/> to extract the marrow and quintessence of their prolixer discourses, and to digest them into such a method, as I conceived might afford brevi<g ref="char:EOLhyphen"/>tie and perspicuitie: wherein I have observed to go upon good grounds, affir<g ref="char:EOLhyphen"/>ming nothing of mine<note n="m" place="margin">Nihil mihi authoritatis assumo, sed horum, quos suprà retuli, ea quae di<g ref="char:EOLhyphen"/>spersa sunt, velut in ordi<g ref="char:EOLhyphen"/>nem epitomata conscribo. <hi>Veget. lib. 1. cap. 18.</hi>
+      </note> owne authoritie. It is true, I have sometimes made bold to dissent from others, but adding my reason, and leaving the judicious reader to his libertie. For the stile, I conceived the<note n="n" place="margin">Neque curiosam ali<g ref="char:EOLhyphen"/>quam verborum inanita<g ref="char:EOLhyphen"/>tem conquirentes, sed verbis tantùm communi<g ref="char:EOLhyphen"/>bus planísque usi, milita<g ref="char:EOLhyphen"/>rem dicendi formam po<g ref="char:EOLhyphen"/>tissimùm secuti sumus. <hi>Leo Tact. in Epilogo.</hi>
+      </note> bluntest and plainest to be most proper for this subject. If my annotations be displeasing to any, they may use them like countrey stiles, and step over them. To others they may serve to shew the truth of that assertion, That a<note n="o" place="margin">Proved at large by S<seg rend="sup">r</seg>. <hi>Cl. Edmonds,</hi> in his pre<g ref="char:EOLhyphen"/>face to <hi>Caesars commen<g ref="char:EOLhyphen"/>taries</hi> by him transla<g ref="char:EOLhyphen"/>ted.</note> meer practicall knowledge cannot make a perfect souldier: for had we not been beholding to<note n="p" place="margin">Apud veteres res mili<g ref="char:EOLhyphen"/>tatis in oblivionem saepi<g ref="char:EOLhyphen"/>us venit, sed à libris repe<g ref="char:EOLhyphen"/>tita est, postea ducum authoritate firmata. <hi>Veg. lib. 3. cap. 10.</hi>
+      </note> books, the militarie art (in all likelihood) had been utterly obscured from our know<g ref="char:EOLhyphen"/>ledge. For what is there in these modern warres, which is not borrowed from antiquitie? wherein we follow them step by step (<hi>mutatis mutandis,</hi> the later inventions of fire weapons, and the use and dependencie there of onely excepted) not onely in their manner, but even retaining their very words of command; as in this treatise is partly shewed, and would be more manifestly apparent if the subject were Infanterie; which no way disparageth the modern practise, but rather (for the antiquitie of it) gives it the more respect and estimation.</p>
+   <p>Now, lest the <hi>Tyro</hi> or untutored horseman should be deterred, and should judge his task to be overgreat; I have set down a table of the chapters, that so he may apply himself, onely to those things (at first) which are princi<g ref="char:EOLhyphen"/>pally necessarie for him to know and practise.</p>
+   <p>The defects of our trained bands of horse, will argue the work neither unne<g ref="char:EOLhyphen"/>cessarie nor unseasonable, had it but had the hap to light into the hands of a better workman. But as I have seen when an excellent musician could not be intreated to handle an instrument, some bungler hath fallen upon it; which caused the musician (out of impatience and indignation) to undertake it; so, if these essaies may be a means to incite some one or other, better able,<note n="q" place="margin">Nam cùm hoc opus, usús potiùs aliorum, quàm meae commendationis causâ ag<g ref="char:EOLhyphen"/>gressus sim, adjuvari me ab bis, qui aliquid illi astruent, non argui cre<g ref="char:EOLhyphen"/>dam <hi>Frontin. in praef</hi>
+      </note> to put pen to paper, I shall think my pains abundantly rewarded. In the mean time I desire they may be received with the right hand, as they are offered; and conclude in the words of the <hi>Poet,</hi>
+      <q>
+         <l>—<note n="r" place="margin">Horat. epist. <hi>6</hi> lib. <hi>1.</hi>
+            </note> Si quid novisti rectius istis,</l>
+         <l>Candidus imperti; si non, his utere mecum.</l>
+      </q>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

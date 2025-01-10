@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Zoilum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107425_Fr1_3</idno>
+           <idno type="DLPS">A04032</idno>
+           <idno type="STC">14089</idno>
+           <idno type="ESTC">S107425</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Zoilum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The secrets of numbers : according to theologicall, arithmeticall, geometricall and harmonicall computation. Drawne, for the better part, out of those ancients, as well neoteriques. Pleasing to read, profitable to vnderstand, opening themselues to the capacities of both learned and unlearned. Being no other than a key to lead a man to any doctrinall knowledge whatsoeuer. By William Ingpen, Gent</title>
+                 <author>Ingpen, William</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Parker, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>16, 100, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>In Zoilum.</head>
+   <l>Haec qui non calles, ne turpibus excipe sannis:</l>
+   <l>Est stolidi, ignotos carpere velle libros.</l>
+   <l>Si ve<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> ò dubitas, quasi non sum vera loquutus,</l>
+   <l>Adsis: soluentur scrupea tota tibi.</l>
+</div>
+        </body>
+  </text>
+</TEI>

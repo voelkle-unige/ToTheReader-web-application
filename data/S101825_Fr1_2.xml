@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101825_Fr1_2</idno>
+           <idno type="DLPS">A00538</idno>
+           <idno type="STC">10678</idno>
+           <idno type="ESTC">S101825</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Horologiographia : The art of dialling: teaching an easie and perfect way to make all kinds of dials vpon any plaine plat howsoeuer placed: vvith the drawing of the twelue signes, and houres vnequall in them all. Whereunto is annexed the making and vse of other dials and instruments, whereby the houre of the day and night is knowne. Of speciall vse and delight not onely for students of the arts mathematicall, but also for diuers artificers, architects, surueyours of buildings, free-Masons and others. By T. Fale</title>
+                 <author>Fale, Thomas</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>4, 60, 16 leaves, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>SINGVLIS ARTIVM MATHE<g ref="char:EOLhyphen"/>MATICARVM STVDIOSIS IN CELE<g ref="char:EOLhyphen"/>BERRIMA CANTABRIGIENSI ACADEMIA, THOMAS FALVS EIVSDEM ALVMNVS, ET VERAE MATHESEOS STVDIOSVS, EXIGVVM HOC GRATI ANI<g ref="char:EOLhyphen"/>MI MONVMENTVM DD. ANNO. 1593.</p>
+</div>
+        </body>
+  </text>
+</TEI>

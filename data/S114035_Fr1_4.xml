@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Bibliopolam.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114035_Fr1_4</idno>
+           <idno type="DLPS">A09040</idno>
+           <idno type="STC">19333</idno>
+           <idno type="ESTC">S114035</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Bibliopolam.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The mastiue, or Young-whelpe of the olde-dogge : Epigrams and satyrs</title>
+                 <author>Parrot, Henry</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <distributor>Jones, Thomas 2</distributor>
+                            <distributor>Meighen, Richard</distributor>
+                        </imprint>
+                 <extent>70 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="instruction_to_printer">
+   <pb facs="4"/>
+   <head>Ad Bibliopolam.</head>
+   <lg>
+      <l>PRinter or Stationer, or what ere thou prooue,</l>
+      <l>Shalt mee record to Times posteritie:</l>
+      <l>Ile not enioyne thee, but request in loue,</l>
+      <l>Thou so much deigne my Booke to dignifie;</l>
+      <l>As first it bee not with your Ballads mixt,</l>
+      <l>Next, not at Play-houses, mongst Pippins solde:</l>
+      <l>Then that on Pasts, by th' Eares it stand not fixt,</l>
+      <l>For euery dull-Mechanicke to beholde.</l>
+      <l>Last, that it come not brought in Pedlers packs,</l>
+      <l>To common Fayres, of Countrey, Towne, or Cittie:</l>
+      <l>Solde at a Booth mongst Pinnes and Almanacks;</l>
+      <l>Yet on thy hands to lye, thoult' say tw'er pittie;</l>
+   </lg>
+   <lg>
+      <l>Let it be rather for Tobacco rent,</l>
+      <l>Or Butchers-Wiues, next Clensing-weeke in Lent.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Escapes.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116532_Ba1_1</idno>
+           <idno type="DLPS">A02727</idno>
+           <idno type="STC">12858</idno>
+           <idno type="ESTC">S116532</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Escapes.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Messiah already come. Or Profes [sic] of Christianitie : both out of the Scriptures, and auncient rabbins, to convince the Iewes, of their palpable, and more then miserable blindnesse (if more may be) for their long, vaine, and endlesse expectation of their Messiah (a they dreame) yet for to come. Written in Barbarie, in the yeare 1610, and for that cause directed to the dispersed Iewes of that countrie, and in them to all others now groaning under the heavy yoake of this their long and intollerable captivitie, which yet one day shall have an end</title>
+                 <author>Harrison, John</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1619</date>
+                 <publisher>Jones, William 3.</publisher>
+                            <publisher>Thorp, Giles</publisher>
+                        </imprint>
+                 <extent>10, 68 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Escapes.</head>
+   <p>Pag. 22 line. 26. adde these words (<hi>Seeing, I say, so many signes and arguments at once con<g ref="char:EOLhyphen"/>curring together, I may well conclude as before.</hi>) pag. 51. l. 14 put out these words (<hi>of a trve Prophet? and consequently.</hi>) pag. 58. l 9. for, (<hi>in the,</hi> read, <hi>is the.</hi>) line 10. for, (<hi>was appeare,</hi> read, <hi>was to appeare.</hi>) line 12. for, (<hi>State,</hi> read, <hi>Starre.</hi>) With what other faulte else, I desire the judicious Reader to Correct with his Penne.</p>
+   <pb facs="40"/>
+</div>
+        </body>
+  </text>
+</TEI>

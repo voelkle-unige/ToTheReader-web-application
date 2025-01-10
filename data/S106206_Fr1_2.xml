@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106206_Fr1_2</idno>
+           <idno type="DLPS">A03244</idno>
+           <idno type="STC">13360</idno>
+           <idno type="ESTC">S106206</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The rape of Lucrece : A true Roman tragedie. With the seuerall songes in their apt places, by Valerius, the merrie lord amongst the Roman peeres. Acted by her Maiesties Seruants at the Red Bull, neere Clarken-well. VVritten by Thomas Heywood</title>
+                 <author>Heywood, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Busby, John 1.</publisher>
+                            <publisher>Butter, Nathaniel</publisher>
+                        </imprint>
+                 <extent>78 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Thath beene no custome in mee of all other men (curteous Readers) to commit my plaies to the presse the reason, though some may attribute to my own insufficiencie, I had rather subscribe in that to their seueare censure, then by seeling to auoide the imputation of weakenes, to incurre a greater suspition of honestie: for though some haue vsed a double sale of their la<g ref="char:EOLhyphen"/>bours, first to the Stage, and after to the presse, For my owne part I heere proclaime my selfe euer faithfull in the first, and ne<g ref="char:EOLhyphen"/>uer guiltie of the last: yet since some of my plaies haue (vnknown to me, and without any of my direction) accidentally come into the Printers handes, and therfore so corrupt and mangled, (cop<g ref="char:EOLhyphen"/>pied onely by the eare) that I haue bene as vnable to know them, as ashamde to chalenge them. This therefore I was the willing<g ref="char:EOLhyphen"/>er to furnish out in his natiue habit: first beeing by consent, next because the rest haue beene so wronged in beeing publisht in such sauadge and ragged ornaments: accept it Curteous Gentlemen, and prooue as fauourable Readers as wee haue found you gra<g ref="char:EOLhyphen"/>tious Auditors.</p>
+   <p>Yours <hi>T. H.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers.</title>
+           <author>N., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110123_Fr1_3</idno>
+           <idno type="DLPS">A08015</idno>
+           <idno type="STC">18380</idno>
+           <idno type="ESTC">S110123</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers.</title>
+                 <author>N., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vnfortunate traueller. Or, The life of Iacke Wilton. Tho. Nashe</title>
+                 <author>Nash, Thomas</author>
+                 <imprint>
+                    <distributor>Burby, Cuthbert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 <publisher>Scarlet, Thomas.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>112 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="3"/>
+   <head>To the Gentlemen Readers.</head>
+   <p>
+      <hi>GEntlemen, in my absence (through the Printers ouer<g ref="char:EOLhyphen"/>sight and my bad writing) in the leaues of</hi> C. <hi>and</hi> D. <hi>these errours are ouer-slipt:</hi>
+   </p>
+   <p>C. pag. 2. lin. 35. for sweating <hi>read</hi> sneaking. Pag. 3. li. 1. for hogges <hi>read</hi> barres. lin. 7. for Calipsus, <hi>read</hi> Rhaesus. Pag. 4 lin. 34. for Liue <hi>read</hi> I liue. Pag. 5. li. 14. for vpon his <hi>read</hi> vpon him his. Pag. 7. lin 13. for drild <hi>read</hi> dyu'd. lin. 22. for colour) <hi>read</hi> collar nor his hat-band).</p>
+   <p>D. Pag 1 lin. 2. for blacke <hi>read</hi> cape. lin. 5 for fastens <hi>read</hi> thirleth. lin 7. for badge <hi>read</hi> budge. lin. 8. for shinne <hi>read</hi> chinne. lin. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>1 for in this begun <hi>read</hi> thinking in. Pag. 3. lin 33. for increased then, <hi>read</hi> inclosed them. Pag. <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> lin. 8. for threed button, <hi>read</hi> brest like a thred bottom. Pag. 8 lin. 3. for Esla <hi>read</hi> Os<g ref="char:EOLhyphen"/>sa. lin 4. for dissolution <hi>read</hi> desolation lin 13 betweene also, <hi>and</hi> but <hi>read</hi> If you know Christianitie, you know the Fathers of the Church also. lin. 18. for quocunque <hi>read</hi> qua gente.</p>
+   <p>
+      <hi>Other literall faults there are which I omit.</hi>
+   </p>
+   <closer>
+      <signed>Yours <hi>T. N.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

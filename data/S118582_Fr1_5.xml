@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Libri &amp; Authoris Encomium.</title>
+           <author>G., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118582_Fr1_5</idno>
+           <idno type="DLPS">A02622</idno>
+           <idno type="STC">12750</idno>
+           <idno type="ESTC">S118582</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Libri &amp; Authoris Encomium.</title>
+                 <author>G., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Time is a turne-coate. Or Englands three-fold metamorphosis : VVherin is acted the pensiue mans epilogomena, to Londons late lamentable heroicall comi-tragedie. Also a panegyricall pageant-speech or idylion pronounced to the citie of London, vpon the entrance of her long expected comfort. Written by Iohn Hanson</title>
+                 <author>Hanson, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Hanson, John.</publisher>
+                            <publisher>Potter, George</publisher>
+                        </imprint>
+                 <extent>16, 71, 11 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Libri &amp; Authoris Encomium.</head>
+   <l>COgitur iste Liber (mel tanquam floribus) horte</l>
+   <l>Musaico, nitidis splendens lectis{que} coronis.</l>
+   <l>Tempore sis foelix, foelix Genio quoque tempus:</l>
+   <l>Lauriferas laudes sapiens cantabit Apollo.</l>
+   <l>Tempure confulges, insusus Palladis arte,</l>
+   <l>Tu quia Pernassimontes renouas{que}, ruinas.</l>
+   <l>Tempore virescis, brumali tempore flores,</l>
+   <l>Nectare perlautus, hauslisq, Aganyppidis vndis.</l>
+   <l>Tempore, frendit Aper, ringitq, Lupus, Leo rugit,</l>
+   <l>Tu tamen in mundo, vt splendet, lucebis, Eóus:</l>
+   <l>Tempora temporibus transuertis tabida firmis:</l>
+   <l>Foelici viridis decoret te tempore laurus.</l>
+   <closer>
+      <signed>T. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

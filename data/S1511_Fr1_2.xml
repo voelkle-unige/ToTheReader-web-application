@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1511_Fr1_2</idno>
+           <idno type="DLPS">A16435</idno>
+           <idno type="STC">3354</idno>
+           <idno type="ESTC">S1511</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Booke of pretty conceits : taken out of Latine, French, Dutch and English : very merry, and very pleasant and good to bee read of all such as doe delight in new and merry conceits</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Jones, William 3</publisher>
+                        </imprint>
+                 <extent>22 + pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <lg>
+      <l>VVHo so is bound for another mane debt,</l>
+      <l>doth bring himselfe in care:</l>
+      <l>And is compeld to pay the same,</l>
+      <l>though he be poore and bare.</l>
+      <l>In euery degree loue honesty,</l>
+      <l>be shamefac'd to doe euill:</l>
+      <l>Ill company see that thou fly,</l>
+      <l>as members of the Deuill.</l>
+   </lg>
+   <lg>
+      <l>A word once spoke it can returne no more,</l>
+      <l>But flies away, and oft thy bane doth breed,</l>
+      <l>A wiseman sets a hatch before the doore,</l>
+      <l>And whilst he may doth frame his words with heed.</l>
+      <l>The bird in hand we may at will restraine,</l>
+      <l>But being flown we call her back in vaine.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

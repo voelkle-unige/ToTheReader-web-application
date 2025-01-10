@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112858_Fr2_3</idno>
+           <idno type="DLPS">A08882</idno>
+           <idno type="STC">19163</idno>
+           <idno type="ESTC">S112858</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first part of the no lesse rare, then excellent and stately historie, of the famous and fortunate prince Palmerin of England : Declaring the birth of him, and Prince Florian du Desart his brother, in the forrest of great Brittaine: the course of their liues afterward, in pursuing knightly aduentures, and performing incomparable deedes of chiualrie. Wherein gentlemen may finde choyse of sweete inuentions, and gentlewomen be satisfied in courtly expectations. Translated out of French, by A.M. one of the messengers of her Maiesties chamber</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Creede, Thomas</publisher>
+                        </imprint>
+                 <extent>890 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="224"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Ccording to my promise, I haue finished the
+second part of <hi>Palmerins</hi> famous historie:
+how plētifully it is enriched with singular
+conceite, sweete inuention, and commenda<g ref="char:EOLhyphen"/>ble
+purposes, leaue to thy iudgement, not
+doubting but that thou <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> censnr<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> therof
+vnpartially. And least thou shouldest <gap reason="illegible" resp="#tech" extent="3 letters">
+         <desc>•••</desc>
+      </gap>edge, that this second
+part broakes off abruptly, not shewing what become of the Prin<g ref="char:EOLhyphen"/>ces,
+after they were conuayed by the <hi>Sage Aliart</hi> to the <hi>Peril<g ref="char:EOLhyphen"/>lous
+Isle:</hi> vnderstand, that the third part shall acquaint thee
+therewith, as also the full conclusion of euery matter herein
+handled, which if thou be desirous to haue, giue these two for<g ref="char:EOLhyphen"/>mer
+Bookes the friendlier welcome, and it will hasten the tran<g ref="char:EOLhyphen"/>slation
+of the other with the greater speede.</p>
+   <closer>
+      <signed>Thy vnfained friend to his power.
+A. Munday.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

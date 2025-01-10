@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad dignissimum, et claris∣simum Equitem Petrum Leigh.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115877_Fr1_4</idno>
+           <idno type="DLPS">A01475</idno>
+           <idno type="STC">11600</idno>
+           <idno type="ESTC">S115877</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad dignissimum, et claris∣simum Equitem Petrum Leigh.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two treatises : the first, entituled, The foode of the faithfull. The second Deaths welcome</title>
+                 <author>Garey, Samuel</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>14, 29, 3, 80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="5"/>
+   <head>Ad dignissimum, et claris<g ref="char:EOLhyphen"/>simum Equitem <hi>Petrum Leigh.</hi>
+   </head>
+   <lg>
+      <l>BEnignitate, gloria,</l>
+      <l>honore, claritudine,</l>
+      <l>tuum praeesse cateris</l>
+      <l>sit omen. Places Deo,</l>
+      <l>places patriae omnibusque:</l>
+      <l>faues literis, foues literatos:</l>
+      <l>hae metae honoris: macte:</l>
+   </lg>
+   <lg>
+      <l>A Spice laetanti librum (dignissime) vultu,</l>
+      <l>quo fallas vitae taedia longa breuis.</l>
+      <l>Hic Christus satiat sitibundas sanguine fauces,</l>
+      <l>et prandere iubet corpore famelicos.</l>
+      <l>Accipe gratuito caelestia fercula Christi</l>
+      <l>hospitium caelum, Christus et hospes erit.</l>
+      <l>Mensa itidem caelum, conuiuae deniquae sancti,</l>
+      <l>vt sedeas, gustes, prouocat ipse Deus.</l>
+      <l>Nilest quod renuas, nam dantur pharmaca mētis,</l>
+      <l>haec medicina animae, pharmacopola Deus.</l>
+      <pb facs="5"/>
+      <l>Qui te faelicem, lata<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>tem, glorifie antem,</l>
+      <l>corpore, mente, polo, per sua philtra dabit.</l>
+      <l>Ergo laudetur, placeat, metuatur, ametur,</l>
+      <l>hospès et hòspitium, phármacepola, Dèus.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

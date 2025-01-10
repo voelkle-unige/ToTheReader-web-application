@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114993_Fr1_5</idno>
+           <idno type="DLPS">A09909</idno>
+           <idno type="STC">20171</idno>
+           <idno type="ESTC">S114993</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>VVheresoeuer you see mee, trust vnto your selfe. Or, The mysterie of lending and borrowing : Seria iocis: or, the tickling torture. By Thomas Povvel, London-Cambrian</title>
+                 <author>Powell, Thomas</author>
+                 <imprint>
+                    <distributor>Fisher, Benjamin</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>8, 55, 58-60, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <lg>
+      <l>YOu see our Author goes not vpon trust,</l>
+      <l>And if the Title of his Booke beiust:</l>
+      <l>He bids you trust your selfe, where ere you see him,</l>
+      <l>So shall ye neuer fall to disagreeing.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

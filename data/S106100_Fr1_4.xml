@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE TRANSLATOR to the Reader.</title>
+           <author>G., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106100_Fr1_4</idno>
+           <idno type="DLPS">A09670</idno>
+           <idno type="STC">19940</idno>
+           <idno type="ESTC">S106100</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE TRANSLATOR to the Reader.</title>
+                 <author>G., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Virgin Maries life : Faithfully gathered out of auncient and holie fathers. Togeather with meditations and documents vpon the same. Writen first in Italien by the reuerend father Lucas Pinelli, of the Societie of Iesus. And now translated in to English by R.G</title>
+                 <author>Pinelli, Luca</author>
+                 <imprint>
+                    <publisher>Kellam, Laurence 1</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>16, 104 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="7"/>
+   <head>THE TRANSLATOR to the Reader.</head>
+   <p>
+      <hi>I</hi> Send thee, Benigne Reader, this little Treatise of the life of our blessed Ladie, vvhich I transtated out of Italian into English, as a paune of a bigger bulke concerning the same matter, remayning yet in my hands: vvhich ended, vvil giue thee, I hope such satisfaction and contentment, touching this point of her life togeather vvith manie other things, as therin may make for the spiritual good of thy sovvle, and further thee exceedinglie in deuotion and dutie to<g ref="char:EOLhyphen"/>vvards the Virgin mother of God and Queene of hea<g ref="char:EOLhyphen"/>uen, that thou shalt little neede hereafter, if I be not deceaued, to expect anie other discourse of this matter.</p>
+   <p>In the meane season I doe most hartilie request thee, that as this my endeauour doth onlie respect thy sovvles spiritual benifite, that God may be glorified in thee, and thou thy selfe be saued: so thou vvillinglie a forde mee, thy praiers to assist mee, as vvel in this vvoorke vvhich I doe promise thee, as also that ser<g ref="char:EOLhyphen"/>uing his deuine maiestie according to my vocation, vve may both at length enioy his euerlasting glorie.</p>
+   <closer>
+      <signed>Thy heartilie affected wel willer. R. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

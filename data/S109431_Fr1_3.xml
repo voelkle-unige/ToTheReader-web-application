@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Readers.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109431_Fr1_3</idno>
+           <idno type="DLPS">A19987</idno>
+           <idno type="STC">6427</idno>
+           <idno type="ESTC">S109431</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Readers.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Doomes-Day: or, A treatise of the resurrection of the body : Delivered in 22. sermons on 1. Cor. 15. Whereunto are added 7. other sermons, on 1. Cor. 16. By the late learned and iudicious divine, Martin Day</title>
+                 <author>Day, Martin</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Harper, Thomas</publisher>
+                        </imprint>
+                 <extent>6, 140, 139-279, 1, 287, 3, 121, 1, 145-229, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Readers.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>Ou cannot expect that these Sermons should have such ex<g ref="char:EOLhyphen"/>act politenesse and neat dres<g ref="char:EOLhyphen"/>sing as if the Authour had li<g ref="char:EOLhyphen"/>ved to revise them. Yet you may discover <hi>D<seg rend="sup">r</seg> Dayes</hi> spirit, expression, method and matter, to speake in all of them: <hi>praesentemque refert concio quaeque patrem.</hi>
+   </p>
+   <p>I would wish you then to read them without any prejudicate opinion, as th<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>y are exercises (whose Authour was famous in his time) and which cannot chuse but yeeld you matter of coun<g ref="char:EOLhyphen"/>sell and comfort. You have but few Authours in English upon this Epistle, and fewer upon these subjects. Lose by reading of them you can<g ref="char:EOLhyphen"/>not, gaine you may. <hi>I</hi> doubt not but they will proove beneficiall to the whole Church, for whose sake <hi>I</hi> have published them. Thus wishing you to gather hony out of these, where it may be had, I rest,</p>
+   <closer>
+      <signed>Yours <hi>N. B.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER AND ALL WORTHY AD∣uenturers by Sea, and well wishers to NAVIGATION.</title>
+           <author>Smith, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111000_Fr1_3</idno>
+           <idno type="DLPS">A12469</idno>
+           <idno type="STC">22794</idno>
+           <idno type="ESTC">S111000</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER AND ALL WORTHY AD∣uenturers by Sea, and well wishers to NAVIGATION.</title>
+                 <author>Smith, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sea grammar : vvith the plaine exposition of Smiths Accidence for young sea-men, enlarged. Diuided into fifteene chapters: what they are you may partly conceiue by the contents. Written by Captaine Iohn Smith, sometimes gouernour of Virginia, and admirall of Nevv-England</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>12, 72, 83-86 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE READER AND ALL WORTHY AD<g ref="char:EOLhyphen"/>uenturers by Sea, and well wishers to NAVIGATION.</head>
+   <opener>
+      <salute>Honest Readers,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>F my desire to doe good hath trans<g ref="char:EOLhyphen"/>ported mee beyond my selfe, I intreat you excuse me, and take for requitall this rude bundle of many ages obseruations; al<g ref="char:EOLhyphen"/>though they be not so punctually compiled as I could wish, and it may bee you expect; At this present I cannot much amend them; if any will bestow that paines, I shall thinke him my friend, and honour his endeuours. In the interim ac<g ref="char:EOLhyphen"/>cept them as they are, and ponder errours in the balance of good will,</p>
+   <closer>
+      <signed>Your friend, <hi>IOHN SMITH.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

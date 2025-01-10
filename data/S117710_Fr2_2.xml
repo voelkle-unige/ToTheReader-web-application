@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           <author>C., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117710_Fr2_2</idno>
+           <idno type="DLPS">A19425</idno>
+           <idno type="STC">5852</idno>
+           <idno type="ESTC">S117710</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 <author>C., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>None but Christ, none but Christ : Intimating, that in Him, who is the Lord of Lords, and Prince onely, is to be found, the full and absolute cure of mans misery</title>
+                 <author>Cotton, Clement</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Newbery, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>116 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="46"/>
+   <pb facs="46"/>
+   <head>To the Christian Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He hand of the Lord hath been long stretched out against vs in this Citie, by sending sundry sorts of diseases and sicknesses amongst vs, where of my selfe of late haue had some experience. To ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>y, these haue prooued mortall and deadly: and this it is that hath moued mee to pen these few lines following. I
+<pb facs="47"/> grant they are appropriated especiall<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> to the person of the sicke▪ yet so, that the whole should not be excluded from reaping benefit thereby, which if by Gods grace they attaine; th<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>n haue I the end of my labour. And so I euer rest,</p>
+   <closer>
+      <signed>Thy faithfull wel<g ref="char:EOLhyphen"/>willer in Christ, C. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

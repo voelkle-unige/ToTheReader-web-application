@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>I Inlaudem Authoris.</title>
+           <author>Lepton, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108437_Fr1_13</idno>
+           <idno type="DLPS">A05290</idno>
+           <idno type="STC">15433</idno>
+           <idno type="ESTC">S108437</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>I Inlaudem Authoris.</title>
+                 <author>Lepton, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The teares or lamentations of a sorrowfull soule. Set foorth by Sir William Leighton Knight, one of his Maiesties honorable band of pentioners</title>
+                 <author>Leighton, William, Sir</author>
+                 <imprint>
+                    <publisher>Blower (Blore), Ralph</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>20, 189, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="11"/>
+   <head>I Inlaudem Authoris.</head>
+   <lg>
+      <l>THis is the second time thou hast appear'd,</l>
+      <l>in publick print, wel willing worthy knight</l>
+      <l>First thy Tryumphant vertue, highly rear'd:</l>
+      <l>thy fame aboue our Moderne Poets flight.</l>
+      <l>For why? those lines (in serious wise I write)</l>
+      <l>do with such generall learning richly shine,</l>
+      <l>As if some blessed, or Caelesticall spright,</l>
+      <l>possessed had, that heart, and soule of thine,</l>
+      <l>But in this second worke, much more Diuiue:</l>
+      <l>thy Lamentations woefully cōposed,</l>
+      <l>thou dost thy thoughts, in such low verse com<g ref="char:EOLhyphen"/>bine</l>
+      <l>as wondrous skill thou hast in thē disclosed.</l>
+      <l>That mē may see, thou canst write high or low,</l>
+      <l>in both so well; as none thy worth can show.</l>
+   </lg>
+   <closer>
+      <signed>Iohn Lepton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

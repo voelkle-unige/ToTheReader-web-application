@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>FRATRIS CVSTODII LVPI, LVSITANI, Ordinis Sanctissimae Trinitatis de libri vtilitate,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106804_Fr2_5</idno>
+           <idno type="DLPS">A16053</idno>
+           <idno type="STC">289</idno>
+           <idno type="ESTC">S106804</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>FRATRIS CVSTODII LVPI, LVSITANI, Ordinis Sanctissimae Trinitatis de libri vtilitate,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The rogue: or The life of Guzman de Alfarache : VVritten in Spanish by Matheo Aleman, seruant to his Catholike Maiestie, and borne in Sevill</title>
+                 <author>Alemán, Mateo</author>
+                 <imprint>
+                    <distributor>Blount (Blunt), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Eliot’s Court Press</publisher>
+                        </imprint>
+                 <extent>24, 267, 17, 357, 3 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>FRATRIS CVSTODII LVPI, LVSITANI, Ordinis Sanctissimae Trinitatis de libri vtilitate,</head>
+   <lg>
+      <head>EPIGRAMMA.</head>
+      <l>SVnt duo quae pariter virtus perfecta requirit:</l>
+      <l>Quòd prauè nunquam, quòd benè semper agas.</l>
+      <l>Haec tibi, si cupias, vllo ne tempore desint.</l>
+      <l>Auctoris geminum perlege, Lector, opus.</l>
+      <l>
+         <hi>Antoni</hi> nunquam ponat tua dextera librum.</l>
+      <l>Nec tibi <hi>Guzmani</hi> pagina displiceat.</l>
+      <l>Si refer as diui mores: infanda prophani</l>
+      <l>Si scelera abijcias: omnia puncta fer<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>
+      </l>
+      <l>Reddite <hi>Matthaeo</hi> grato pro munere g<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>:</l>
+      <l>Quo duce conspicuum fit piet at is iter.</l>
+      <l>Planius hoc fiet, postquam ex incudibus Auctor</l>
+      <l>Sustulerit plenos vtilitate libros.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

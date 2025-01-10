@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Reader,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105270_Fr1_2</idno>
+           <idno type="DLPS">A20082</idno>
+           <idno type="STC">6522</idno>
+           <idno type="ESTC">S105270</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Reader,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The seuen deadly sinnes of London : drawne in seuen seuerall coaches, through the seuen seuerall gates of the citie bringing the plague with them. Opus septem dierum. Tho: Dekker</title>
+                 <author>Dekker, Thomas</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Stafford, Simon</publisher>
+                        </imprint>
+                 <extent>14, 40, 31-37, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>Reader,</head>
+   <p>
+      <seg rend="decorInit">I</seg>T is as ordinarie a custome (for vs that are Bookish) to haue about with thee, after wee haue done with a Patron, as for Schollers (in the noble Science) to play at the woodden Rapier and Dagger at the ende of a Maisters prize. In doing which we know not vpon what Speeding points wee runne, for you (that are Readers) are the most despe<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ate and fowlest players in the world, you will strike when a mans backe is toward you, and kill him (if you <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ould for shame) when he lies vnder your feete. You are able (if you haue the tokens of deadly Ignorance, and Boldnes at one time vpon you) to breede more infection on in <hi>Pauls Church-yard,</hi> then all the bodies that were buried there in the Plague-time, if they had beene left still aboue ground. You stand somtimes at a Stationers stal, looking scuruily (like Mules cham<g ref="char:EOLhyphen"/>ping vpon Thistles) on the face of a new Booke bee it neuer so worthy: &amp; goe (as il fauouredly) mewing away: But what get you by it? The Booke-seller euer after when you passe by, pinnes on your backes the badge of fooles to make you be laught to scorne, or of sillie Carpers to make you be pitted: <hi>Comadus Gesner</hi> neuer writ of the nature of such strange beasts as you are: for where as we call you <hi>Lectores,</hi> Readers, you turne your selues into <hi>Lictores,</hi> Executioners, &amp; tormenters. I wold not haue him that writes better than I, to Reade this, nor
+<pb facs="3"/>
+him that cannot doe so well, to Raile, or if hee cannot chuse but Raile, let him doe it to my face: other<g ref="char:EOLhyphen"/>wise <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>me being absent) it is done cowardly: for <hi>Leo<g ref="char:EOLhyphen"/>nem mortuum mordent etiam Catuli</hi>: Cats dare scratch Li<g ref="char:EOLhyphen"/>ons by the face when they lie dead, and none but Col<g ref="char:EOLhyphen"/>liers will threaten a Lord Maior when they are farre enough from the Cittie. I haue laide no blockes in thy way: if thou findest Strawes, <hi>(Vade, vale,) caue ne titubes.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

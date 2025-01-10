@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>.</title>
+           <author>Burtonus, Guilielmus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104119_Fr1_4</idno>
+           <idno type="DLPS">A03429</idno>
+           <idno type="STC">13554</idno>
+           <idno type="ESTC">S104119</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>.</title>
+                 <author>Burtonus, Guilielmus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The divine cosmographer; or, A brief survey of the whole world : delineated in a tractate on the VIII Psalme: by W.H. sometime of S. Peters Colledge in Cambridge</title>
+                 <author>Hodson, William</author>
+                 <imprint>
+                    <publisher>Daniel, Roger</publisher>
+                    <distributor>Crooke, Andrew 1</distributor>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>12, 154 pages, 2 leaves of plates, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>HOdsonus ille, Lector, ut vides, novâ</l>
+   <l>Illustrat arte flammei poli plagas,</l>
+   <l>Mundí{que} tractus; ceu Syracosius Senex</l>
+   <l>Ingentis olim Iuserat coeli vias,</l>
+   <l>Suúm{que} magno reddidit mundum Jovi,</l>
+   <l>Humana Divi dum stupent ars quid queat.</l>
+   <l>
+      <pb facs="4"/>Sic sic aperti tramitem aeris secans,</l>
+   <l>Stagnantis olim transiit terrae vias</l>
+   <l>Columba, justi missa de manu Senis,</l>
+   <l>Miro volatu remigans liquidum aethera.</l>
+   <l>Qualisve docti quae Tarentini manu</l>
+   <l>Efficta veras arte lusit alites.</l>
+   <l>Hodsonus ille, Lector, ut spatio brevi</l>
+   <l>Se continere non queat ampliùs vides.</l>
+   <l>En! ille mensor aeris, &amp; liquidi poli</l>
+   <l>Percurrit orbem, tranat &amp; quod aethera,</l>
+   <l>Pinnisque quicquid turbidum findit mare.</l>
+   <l>Accessus illi haud invius Diespiter</l>
+   <l>Quà promit orbi syderis radios novi,</l>
+   <l>Vesperéque sero condit ubi lumen suum;</l>
+   <l>Ali isque tentat coeli inaccessas domus.</l>
+   <l>Humero efficaci sic priùs coelumtulit,</l>
+   <l>Laturum erat quod se, vice Atlantis, pue<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Tonantis olim, pondere haud pressus grav<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Linguâque doctâ sic &amp; Hodsonus potens</l>
+   <l>Stylóque docto jam viam adfectat polo;</l>
+   <l>Terrásque notas linquit, &amp; coelum petit,</l>
+   <l>Radiavit ipse quod priùs lumine suo.</l>
+   <closer>
+      <signed>
+         <hi>Scrib. V. Optimo &amp; ami<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+         </hi> Guilielmus Burtonus. <hi>Kingstoniae ad Thamesin apud Regn<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+         </hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

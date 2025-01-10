@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A prayer of the Author of the Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111175_Fr1_3</idno>
+           <idno type="DLPS">A19398</idno>
+           <idno type="STC">5829</idno>
+           <idno type="ESTC">S111175</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A prayer of the Author of the Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A dialogue of diuerse quections [sic] demanded of the children to their father very necessary, and profitable both for children, and parents, masters and seruants</title>
+                 <author>Cotes, William</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>76 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="5"/>
+   <head>A prayer of the Author of the Booke.</head>
+   <p>
+      <hi>O</hi> Lord God father of my Lord and Sauiour Iesus Christ, who pre<g ref="char:EOLhyphen"/>serueth al men by the grace and gift of thy holy spirit, giue mee grace (O mercifull father) from the bot<g ref="char:EOLhyphen"/>tome of my hart, to looke vnto the gree<g ref="char:EOLhyphen"/>uousnesse of my owne sinne, which euer condemneth me before thy Maiestie, &amp; y<seg rend="sup">t</seg> I may not (of my selfe) presume to in<g ref="char:EOLhyphen"/>struct others, and forget to examine my selfe, vnto amēdment of my life, &amp; then learne to instruct other in thy lawe, ac<g ref="char:EOLhyphen"/>cording vnto thy will, and my bounden duetie, because thou hast commaunded in thy holy word, that after thou hast in<g ref="char:EOLhyphen"/>structed vs, we shoulde instruct others, and not hide the tallent which is giuen vs, nor yet quench thy holy spirit in vs. Graunt this (O most mercifull father) for thy sonnes sake our onely Lord and Sauiour Iesus Christ to whome be all honour and glory for e<g ref="char:EOLhyphen"/>uer. Amen.</p>
+</div>
+        </body>
+  </text>
+</TEI>

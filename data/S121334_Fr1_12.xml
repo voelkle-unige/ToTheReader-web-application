@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>L., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121334_Fr1_12</idno>
+           <idno type="DLPS">A01093</idno>
+           <idno type="STC">11205</idno>
+           <idno type="ESTC">S121334</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>L., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Atheomastix : clearing foure truthes, against atheists and infidels: 1. That, there is a God. 2. That, there is but one God. 3. That, Iehouah, our God, is that one God. 4. That, the Holy Scripture is the Word of that God. All of them proued, by naturall reasons, and secular authorities; for the reducing of infidels: and, by Scriptures, and Fathers, for the confirming of Christians. By the R. Reuerend Father in God, Martin Fotherby, late Bishop of Salisbury. The contents followes, next after the preface</title>
+                 <author>Fotherby, Martin</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>36, 68, 99-362 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="19"/>
+   <lg>
+      <l>NOn sibi mellificauit Apis; sed crura tetendit,</l>
+      <l>Corda hominum Sacro melle replere suo▪</l>
+      <l>Contra <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> penna pugnat, vita{que} repugnat,</l>
+      <l>Et moriens viuit; sic probat esse Deum.</l>
+      <l>Qui legis, in Propriam Conuertas pabula Carnem▪</l>
+      <l>(Viuificans vitae est, Spiritus arrha nouae)</l>
+      <l>Mortales immortales oracula reddent,</l>
+      <l>Non posse, his Saturos, experiere, mori▪</l>
+   </lg>
+   <lg>
+      <l>Esse <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> Libro, Tibi funebre, Carmen</l>
+      <l>Qui fecit, voluit, Frater, Amicus, idem.</l>
+   </lg>
+   <lg>
+      <l>A Brother, and a Friend, hath made this Verse,</l>
+      <l>To come to thy Bookes birth, become thy Herse.</l>
+   </lg>
+   <closer>
+      <signed>T. L.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

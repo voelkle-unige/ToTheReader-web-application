@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Sonnet.</title>
+           <author>Lodge, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105848_Fr1_3</idno>
+           <idno type="DLPS">A02171</idno>
+           <idno type="STC">12310</idno>
+           <idno type="ESTC">S105848</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Sonnet.</title>
+                 <author>Lodge, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Spanish masquerado : VVherein vnder a pleasant deuise, is discouered effectuallie, in certaine breefe sentences and mottos, the pride and insolencie of the Spanish estate: with the disgrace conceiued by their losse, and the dismaied confusion of their tronbled [sic] thoughtes. Whereunto by the author, for the better vnderstanding of his deuice, is added a breefe glosse. By Robert Greene, in Artibus Magister. Twelue articles of the state of Spaine. The Cardinals sollicite all. ... And the deuill at length wil cary away all</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Ward, Roger</publisher>
+                    <distributor>Cadman, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <lg>
+      <head>Sonnet.</head>
+      <l>Le doux Babil de ma lire d'iuoire</l>
+      <l>Serra ton front d'un laurier verdisant:</l>
+      <l>Dont a bon droit ie te voy iouissant,</l>
+      <l>(Mon doux ami) eternisant ta gloire.</l>
+      <l>Ton nom (mon Greene) anime par mes vers</l>
+      <l>Abaisse l'oeil de gens seditieux,</l>
+      <l>Tu de mo<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>teles compagnon de Dieux:</l>
+      <l>N'est ce point grand loyer dans l'uniuers?</l>
+      <closer>
+         <signed>Ignoti nulla cupido. <hi>Thomas Lodge.</hi>
+         </signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

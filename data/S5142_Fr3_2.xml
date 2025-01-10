@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worthy Knight, Sr. ANTONIE IRBY.</title>
+           <author>F., P.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S5142_Fr3_2</idno>
+           <idno type="DLPS">A00977</idno>
+           <idno type="STC">11082.5</idno>
+           <idno type="ESTC">S5142</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worthy Knight, Sr. ANTONIE IRBY.</title>
+                 <author>F., P.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The purple island, or The Isle of Man : together with Piscatorie eclogs and other poeticall miscellanies· By P.F</title>
+                 <author>Fletcher, Phineas</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>14, 181, 5, 130, 2 pages, 1 leave of plates, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="104" facs="154"/>
+   <head>To the right worthy Knight, S<seg rend="sup">r</seg>. ANTONIE IRBY.</head>
+   <p>
+      <seg rend="decorInit">S</seg>IR, I am altogether (I think) unknown to you, (as having never seen you since your infancie) nei<g ref="char:EOLhyphen"/>ther do I now desire to be known by this trifle. But I cannot rule these few lines composed presently after your fathers decease; They are broken from me, and will see more light then they deserve. I wish there were any thing in them worthy of your vacant houres: Such as they are, yours they are by inheritance. As an Vrn therefore of your fathers ashes (I beseech you) receive them, for his sake, and from him, who desires in some better employment to be</p>
+   <closer>
+      <signed>Your servant, P. F.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader</title>
+           <author>M., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106483_Fr1_3</idno>
+           <idno type="DLPS">B14778</idno>
+           <idno type="STC">17874.7</idno>
+           <idno type="ESTC">S106483</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader</title>
+                 <author>M., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Father Hubburds tales: or the ant and the nightingale</title>
+                 <author>Middleton, Thomas</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <distributor>Cotton, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>48 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader</head>
+   <p>
+      <seg rend="decorInit">S</seg>Hall I tell you what Rea<g ref="char:EOLhyphen"/>der (but first should call you gentle, curteous, and wise, but ti's no matter, they're but folish words of course, and better left out then Printed; for if you be so, you need not be cald so; and if you be not so, there were Lawe against me for calling you out of your names) by <hi>Iohn</hi> of <hi>Powles Church-yard</hi> I sweare, and that oath will be taken at any Haberdashers; I neuer wisht this Booke better fortune, then to fall into the hands of a true spelling Prit<g ref="char:EOLhyphen"/>ter, and an honest minded Booke-sel<g ref="char:EOLhyphen"/>ler; and if honestie could be solde by the Bushell like Oysters; I had rather haue one <hi>Bushell</hi> of honestie, then three of mo<g ref="char:EOLhyphen"/>ney.</p>
+   <p>Why I call these <hi>Father Hubburds Tales;</hi> is not to haue them cald in againe, as the Tale of <hi>Mother Hubburd,</hi> the worlde would shewe litle iudgement in that y<g ref="char:EOLhyphen"/>faith: and I should say then <hi>plena stultorum omnia;</hi> for I entreat here neither of Rag<g ref="char:EOLhyphen"/>ged
+<pb facs="4"/>Beares, or Apes; no, nor the lamen<g ref="char:EOLhyphen"/>table downefall of the olde wiues Plat<g ref="char:EOLhyphen"/>ters, I deale with no such Mettal: what is mirth in mee, is as harmelesse as the quarter Iacks in Powls, that are vp with their Elbows foure times an houre, and yet misvse no creature liuing: the verie bittrest in me, is but like a Phisical Frost, that nips the wicked Blood a litle, and so makes the whole Bodie the whole<g ref="char:EOLhyphen"/>somer; and none can iustly except at me, but some riotous vomiting <hi>Kit,</hi> or some Gentleman-swallowing <hi>Mol-kin;</hi> then to condemne these Tales following, because <hi>Father Hubburd</hi> tels them in the smal Syse of an <hi>Ant,</hi> is euen as much, as if these two words, <hi>God</hi> and <hi>Diuel,</hi> were Printed both in one line, to skip it ouer, and say that line were naught, because the <hi>Diuel</hi> were in it; <hi>Sat sapienti;</hi> And I hope there be many wise men in all the Twelue Companie.</p>
+   <closer>
+      <signed>Yours, if you reade without spelling or hacking<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <hi>T. M.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

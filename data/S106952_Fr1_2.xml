@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106952_Fr1_2</idno>
+           <idno type="DLPS">A17281</idno>
+           <idno type="STC">4124</idno>
+           <idno type="ESTC">S106952</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The disputation concerning the controuersit headdis of religion : haldin in the realme of Scotland, the zeir of God ane thousand, fyue hundreth fourscoir zeiris. Betuix. the prætendit ministeris of the deformed Kirk in Scotland. and, Nicol Burne professor of philosophie i S. Leonardis college, in the citie of Sanctandrois, brocht vp from his tender eage in the peruersit sect of the Caluinistis, and nou be ane special grace of God, ane membre of the halie and Catholik kirk. Dedicat to his souerane the kingis M. of Scotland, King Iames the Saxt</title>
+                 <author>Burne, Nicol</author>
+                 <imprint>
+                    <publisher>Brumen (Brumeau), Thomas</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>8, 66, 77-190, 4 leaves, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="2"/>
+   <q>
+      <p>NEmo est qui reliquerit domum, aut Fratres, aut
+Sorores, aut Patrem, aut Matrem, aut filios, aut
+agros propter me, aut propter Euangelium, qui non ac<g ref="char:EOLhyphen"/>cipiet
+centies tantum nunc in tempore hoc, domos,
+&amp; Fratres, &amp; Sorores, &amp; Filios, &amp; agros cum persecu<g ref="char:EOLhyphen"/>tio<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>ibus,
+&amp; in saeculo futuro vitam aeternam. 1.</p>
+      <p>Thair sal na man leif his hous, his brethrene, or siste<g ref="char:EOLhyphen"/>ris,
+or father, or mother, or sonis, or possessionis for
+my saik, and for profession of the Euangel, bot he sal
+resaue ane hundreth tymes als manie ma housis, and
+brethrene, and sisteris, and motheris and sonis, and pos<g ref="char:EOLhyphen"/>sessionis
+vith the persecutionis quhilk he thoillis, and
+in the varld to cum lyf aeternal. </p>
+      <bibl>Marc. 10</bibl>
+   </q>
+   <q>
+      <p>Omnis ergo qui confitebitur me coram hominibus,
+confitebor &amp; ego eum coram patre meo qui in caelis
+est, qui autem negauerit me coram hominibus, negabo
+&amp; ego eum coram Patre meo, qui in caelis est. 1.</p>
+      <p>Quhair for quhasouer vil confefs me befoir mē, I vil
+confess him also befoir my father in heauin: bot him
+quha vil deny me befoir men, I vil deny also befoir
+my father of heauin. </p>
+      <bibl>Math. 10</bibl>
+   </q>
+   <q>
+      <p>Vna vocis confessio, perpetua Christi confessione honoratur.</p>
+      <bibl>Cyprianus de laude Martyrij.</bibl>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

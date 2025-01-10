@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem de Libro.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S250_Fr1_5_3</idno>
+           <idno type="DLPS">A16936</idno>
+           <idno type="STC">3830.3</idno>
+           <idno type="ESTC">S250</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem de Libro.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The ghost of Richard the Third : expressing himselfe in these three parts, [brace] 1. His character, 2. His legend, 3. His tragedie : containing more of him then hath been heretofore shewed, either in chronicles, playes, or poems</title>
+                 <author>Brooke, Christopher</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Lisle (L’isle, Lyle), Laurence</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>10, 6, 76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem" subtype="to_the__reader">
+   <head>Ad Lectorem de Libro.</head>
+   <l>HIc nihil inuenies quod carpas; mentior; ecquid</l>
+   <l>Carpere quod pigeat, tam bonus Hortus habet?</l>
+   <l>Hinc carpat, quisquis gratos vult carpere Flores;</l>
+   <l>At Dextrà carpat, carpere si quis amat,</l>
+   <signed>FR. DYNNE. <hi>Int: Temp:</hi>
+   </signed>
+</div>
+        </body>
+  </text>
+</TEI>

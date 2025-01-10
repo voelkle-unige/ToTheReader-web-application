@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106202_Fr1_3</idno>
+           <idno type="DLPS">A73284</idno>
+           <idno type="STC">23513</idno>
+           <idno type="ESTC">S106202</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Profano-mastix. Or, a briefe and necessarie direction concerning the respects which wee owe to God, and his house : even in outward worship, and reverent using of holy places. Shewing chiefly when, and how, wee ought to enter; how to behave our selves being entred, how to depart; as also, how to esteeme of Gods house at every other time. Written out of a true and sincere intent to reduce the disordered and factious, to a better order then either their neglect, stubbornnesse, or scrupulositie can purchase for them. By Iohn Swan curate of Duxford S. Peters</title>
+                 <author>Swan, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Dawson, John 2.</publisher>
+                            <publisher>Pakeman, Daniel</publisher>
+                        </imprint>
+                 <extent>8, 61, 3, 11, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Book industry, catalogues and inventories</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>The Epistle to the Reader.</head>
+   <opener>
+      <salute>Gentle Reader,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Hope (ere long) to befriend thee with a worke of better worth, if this (in the meane time) may find thee cur<g ref="char:EOLhyphen"/>teous in the acceptation. Sure I am, that in it <gap reason="illegible" resp="#uom" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, it cannot out bee jud<g ref="char:EOLhyphen"/>ged a n<gap reason="illegible" resp="#uom" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ssarie labour: For, whilst it seekes the pacification of contentious spirits, by stri<g ref="char:EOLhyphen"/>ving to give satisfaction concerning some things now in agitation, it aymes at Gods glorie; the man<g ref="char:EOLhyphen"/>ner of whose worship hath by degrees, growne to such a sordid and homely passe, as Religion hath (now a<g ref="char:EOLhyphen"/>dayes) lost much of that bright beautie, which in A<g ref="char:EOLhyphen"/>ges heretofore shee was knowne to have. But I re<g ref="char:EOLhyphen"/>member the words of that wise King, <hi>Solomon.</hi>
+      <note place="margin">Eccles. 7.10.</note> Say not thou, What is the cause that the former dayes were better then these? for thou dost not enquire wisely concerning this. Which is as if it should bee said; Late times may be as good as ancient, if Men were but willing to tread in the same steps that they have trod: for the neerer a fountaine, the better the wa<g ref="char:EOLhyphen"/>ter. Stand therefore upon the wayes (as the Prophet speaketh;) and consider: aske of the old wayes,<note place="margin">Ier. 6.57.</note>
+      <pb facs="5"/>which is the best. And verely, among reformed Churches, there is none desires it more then Ours; and might be happy in it, if wee had among us no filthy Vipers. But these as they are enemies to them<g ref="char:EOLhyphen"/>selves; so also to others: for whilst some doe not only disobey, but defend their Disobedience, they poyson many more both by their example and Defence. And what though they gaine a popular applause in their envious proceedings against the Church? this is but to make a bad case worse: For one man of judgement is better by farre, then a numerous multitude of the common sort; whose very wisdome is but as a light feather in matters of this nature, as being too farre above their reach. It were good therefore that the Cob<g ref="char:EOLhyphen"/>lar would no<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap> prescribe beyond his Last; nor no man meddle but in his right <hi>Vb<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</hi> for till then, there will bee no end of Schisme nor Disorder; And so, no quiet to the Church of God here planted among us. I say no more, but wish every societie to pray for the peace of their Holy Mother:<note place="margin">Psal. 122.6.</note> for (as it is written in the Booke of Psalmes) <hi>They which love her shall prosper.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

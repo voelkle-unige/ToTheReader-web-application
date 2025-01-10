@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Breton, Nicholas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104781_Fr1_3</idno>
+           <idno type="DLPS">A16742</idno>
+           <idno type="STC">3649</idno>
+           <idno type="ESTC">S104781</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Breton, Nicholas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An excellent poeme, vpon the longing of a blessed heart : which loathing the world, doth long to be with Christ. With an addition, vpon the definition of loue. Compiled by Nicholas Breton, Gentleman</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>Browne, John 1.</publisher>
+                            <publisher>Deane, John</publisher>
+                            <distributor>Browne, John 1</distributor>
+                            <distributor>Deane, John</distributor>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>F you loue your selfe, or like to bee loued, it were good, you did first know what loue is; where it is to be sought; and how to be had: which in this little lesson following, you may happe to hit on. For if you mistake the mat<g ref="char:EOLhyphen"/>ter, as many haue done, that set their wittes a woll-gathering, vpon the backe of a Woodcocke, in thinking loue to be either nothing, or at least as little worth; or such a kinde of Riddle as is scarcely worth the reading: you may happe either neuer finde what it is, repent the seeking, or not care for the hauing of it; or standing in your owne light, be but little beloued for your lost labour. But, if with the eye of a carefull heart, you will looke into the loue of the soule, there I would be glad to see you longing, and wish you (hauing not to trouble you with more words then matter) the loue of God, you to loue me as I doe you, and God to loue vs all: and so I end.</p>
+   <closer>
+      <signed>Yours, in the loue of charitie, Nicholas Breton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

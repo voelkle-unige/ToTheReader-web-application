@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115952_Fr1_3</idno>
+           <idno type="DLPS">A16814</idno>
+           <idno type="STC">3714</idno>
+           <idno type="ESTC">S115952</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Wonders worth the hearing : VVhich being read or heard in a winters euening, by a good fire, or a summers morning, in the greene fields: may serue both to purge melancholy from the minde, &amp; grosse humours from the body. Pleasant for youth, recreatiue for age, profitable for all, and not hurtfull to any</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Tapp (Tap), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Wonder with what tytle to fit you gentle, wise, or fonde and scoffing Reader, but in hope of the best, I w<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ll begin, with; Gentle Reader, let me intreate you not to wonder at me for writing of Wonders, for there is nothing common, that is currant, but mo<g ref="char:EOLhyphen"/>ney, and that is growne so scant with a number, that many a one wonder what kinde of thing it is: but, because I haue little to doe with it, I will speak<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> little of it, and onely tel you that it was my hap to light on a few odde Wonders, that be<g ref="char:EOLhyphen"/>ing vnhappily set downe, might passe away a little idle time to looke on. Now, hoping that some mad-head in the world, might haue as much ley sure to read as I haue had to write: I haue thought good, to those good people, to co<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>mit the perusing of this little wonderfull peice of worke: wherein, if they finde nothing that may please them, I shall wonder at my wit: if any thing doth like them, I shall won<g ref="char:EOLhyphen"/>der what i<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> is, and thinke the bet<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>er of it when I know it. In the meane time, least you wonder too much at me, to make such a doe about nothing: I will leaue my wonders to your coni<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ctures, and my loue to your kinde fauours: and so rest as I haue reason.</p>
+   <closer>
+      <signed>Your friend, <hi>N. B.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

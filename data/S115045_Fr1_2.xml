@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE GENTIL READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1556</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115045_Fr1_2</idno>
+           <idno type="DLPS">A09916</idno>
+           <idno type="STC">20178</idno>
+           <idno type="ESTC">S115045</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE GENTIL READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A shorte treatise of politike pouuer : and of the true obedience which subiectes owe to kynges and other ciuile gouernours, with an exhortacion to all true naturall Englishe men, compyled by. D. I.P. B. R. VV</title>
+                 <author>Ponet, John</author>
+                 <imprint>
+                    <publisher>Kopfel, Wolfgang, Heirs of</publisher>
+                    <pubPlace>France--Strasbourg</pubPlace>
+                    <date>1556</date>
+                 </imprint>
+                 <extent>184 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE GENTIL READER.</head>
+   <p>COntent thy self to reade ouer this shorte <gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>reatise / wherin is neither heresie / felonye / nor treason / but all that is written here in fewe / is ment for thy pleyntifull benefite / necessary admonition / and faithfull instruction. And albeit the Printour is not sure / whether the autor be gone to God allready (as by the discourse of the mater he semeth to be) or yet still in this life / yet for as muche as the graui<g ref="char:EOLhyphen"/>tie of the Worke / the sobrenesse of the stile / and the equitie of the cause ioyned with substauntial Profes / importe a mightye zeale / and aferuent care of the autor for his countrey / he is pleased to put furthe the Worke / to thintent the trauaile of the doer be not lost / neither true Englis he hartes frustrate of so worthie an instructiō / on<g ref="char:EOLhyphen"/>les they wil willingly neglecte their owne saue garde / the state of their countrey / and the Pre<g ref="char:EOLhyphen"/>seruation of theyr posteritie. God geue thee (good reader) a will to forsee / an heart to per ceaue / and a iudgement to discerne thyne owne state in tyme / and in Christ hartily well to fare.</p>
+   <closer>Amen.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

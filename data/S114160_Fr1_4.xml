@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114160_Fr1_4</idno>
+           <idno type="DLPS">A09106</idno>
+           <idno type="STC">19412</idno>
+           <idno type="ESTC">S114160</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A quiet and sober reckoning vvith M. Thomas Morton : somewhat set in choler by his aduersary P.R. concerning certaine imputations of wilfull falsities obiected to the said T.M. in a treatise of P.R. intituled Of mitigation, some part wherof he hath lately attempted to answere in a large preamble to a more ample reioynder promised by him. But heere in the meane space the said imputations are iustified, and confirmed, &amp; with much increase of new vntruthes on his part returned vpon him againe: so as finally the reckoning being made, the verdict of the Angell, interpreted by Daniel, is verified of him. There is also adioyned a peece of a reckoning with Syr Edward Cooke, now L. Chief Iustice of the Co [m] mon Pleas, about a nihil dicit, &amp; some other points vttered by him in two late preambles, to his sixt and seauenth partes of Reports</title>
+                 <author>Parsons, Robert</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>40, 688, 16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <pb facs="3"/>
+   <q>
+      <bibl>Cyprian. lib. <hi>4.</hi> Ep. <hi>9.</hi>
+      </bibl>
+      <p>A pud prophanos &amp; extra Ecclesiam positos, esse aliud non potest, nisi mens praua, &amp; fallax lingua, odia venenata, &amp; sacrilega mendacia.</p>
+   </q>
+   <q>
+      <bibl>Idem lib. <hi>1.</hi> Ep. <hi>3.</hi> ad Cornelium.</bibl>
+      <p>Haec est verè dementia, non cogitare, nec sentire, quòd mendacia non diu fallant; noctem tamdiu esse, quamdiu illucescat dies: clarificato autem die, &amp; sole obo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>to, luci tenebras &amp; caliginem cedere.</p>
+   </q>
+   <q>
+      <bibl>Hilarius lib. de Trinit.</bibl>
+      <p>Haeretici cùm stultè mentiantur, stultiùs ta<g ref="char:EOLhyphen"/>men in mendacij sui defensione sapiunt.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

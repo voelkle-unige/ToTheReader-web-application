@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author, to the ver∣tuous Ladies and Gentle∣women.</title>
+           <author>Parrot, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104696_Bo1_13</idno>
+           <idno type="DLPS">A16804</idno>
+           <idno type="STC">3705</idno>
+           <idno type="ESTC">S104696</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author, to the ver∣tuous Ladies and Gentle∣women.</title>
+                 <author>Parrot, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vvil of vvit, vvits vvill, or vvils wit, chuse you whether : Containing fiue discourses, the effects whereof follow. Read and iudge. Compiled by Nicholas Breton, Gentleman</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 <publisher>Creede, Thomas.</publisher>
+                            <publisher>Wright, William 1</publisher>
+                        </imprint>
+                 <extent>4, 33, 4+ 66-76, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="40"/>
+   <head>The Author, to the ver<g ref="char:EOLhyphen"/>tuous Ladies and Gentle<g ref="char:EOLhyphen"/>women.</head>
+   <p>
+      <seg rend="decorInit">L</seg>Adies and Gentlewomen, or other well disposed what soeuer: I haue (in your commendations) saide as much as I hope you will deserue: and more then I thinke hath beene said for you this great while. Nowe if yet thinke that I haue said, is said for flatterie, you should shewe me little fauour. For to flatter all, I should but haue a floute of a number: and to speake well of all, I hope will make none mine enemie. I craue no f<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>rther friendship then I deserue, nor greater thankes, then may requite good will, which wisheth well to ye all, that are well minded: and if you thinke I haue saide tru<g ref="char:EOLhyphen"/>lie, in that I haue written, thanke your selues for giuing so good occasion: if contrarie▪ doo your endeuonr to make good what I haue saide, and will bee glad to see: and so rest, ready to do<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> you agreater seruice. From my chamber, in the <hi>Blacke Fryers.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>N. B.</hi> Gent.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

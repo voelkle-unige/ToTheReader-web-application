@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116522_Fr1_6</idno>
+           <idno type="DLPS">A11360</idno>
+           <idno type="STC">21620</idno>
+           <idno type="ESTC">S116522</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The history of Ioseph : a poem. VVritten by Sir Thomas Salusbury, Barronet, late of the Inner Temple</title>
+                 <author>Salusbury, Thomas, Sir</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Ball, Roger</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>18, 107, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="6"/>
+   <l>IF newes of <hi>Ioseph's</hi> death o're <hi>Iacob</hi> have</l>
+   <l>Such forch, to bring his gray haires to the grave</l>
+   <l>With sorrow, sure with joy my tidings must</l>
+   <l>As powerfull be, to raise him from the dust:</l>
+   <l>Then <hi>Iacob</hi> rise and know thy darling Sonne</l>
+   <l>Is yet alive; his glory but begunne,</l>
+   <l>Then when thou left'st him was: he now is more</l>
+   <l>A Favourite, then e're he was before.</l>
+   <l>Not <hi>Pharoh's</hi> selfe, nor all the Sonnes of <hi>Nile</hi>
+   </l>
+   <l>Have so much grac'd him as thy lofty stile,</l>
+   <l>My friend hath done: he in thy verse shall be</l>
+   <l>Ev'n as in heav'n, above Mortalitie.</l>
+   <l>O how divin's thy Muse then that can blesse,</l>
+   <l>And adde to Saints departed happivesse.</l>
+   <closer>
+      <signed>Io. Salusbury, Sen.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

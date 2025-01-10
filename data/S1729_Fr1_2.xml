@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT WORSHIPFVLL THOMAS NEWCE, Esquire, High-Sheriffe of the Countie of HARTFORD; Grace, Mercie, and Peace.</title>
+           <author>Squire, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1729_Fr1_2</idno>
+           <idno type="DLPS">A12809</idno>
+           <idno type="STC">23116</idno>
+           <idno type="ESTC">S1729</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT WORSHIPFVLL THOMAS NEWCE, Esquire, High-Sheriffe of the Countie of HARTFORD; Grace, Mercie, and Peace.</title>
+                 <author>Squire, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at Hartford assises : March 14. 1616. By John Squire, preacher of Gods word in Shoreditch</title>
+                 <author>Squire, John</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>6, 21, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>TO THE RIGHT</hi> WORSHIPFVLL <hi>THOMAS NEWCE, Esquire, High-Sheriffe of the Countie of HARTFORD; Grace, Mercie, and Peace.</hi>
+   </head>
+   <opener>
+      <salute>SYR:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>O <hi>excuse</hi> my selfe for wri<g ref="char:EOLhyphen"/>ting, is the <hi>excuse</hi> of all Writers: You know it, I omit it. This Sermon was lately preached before you, now printed for you: your intreaty had the one, your command hath the other. Such as it is: it was in the <hi>Eares</hi> of some, shall be in the <hi>Eyes</hi> of others, and God grant it may be in the <hi>Hearts</hi> of all.</p>
+   <closer>
+      <signed>
+         <hi>Yours in the Lord</hi> Iohn Squire.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

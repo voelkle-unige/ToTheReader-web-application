@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124641_Fr1_8</idno>
+           <idno type="DLPS">A73521</idno>
+           <idno type="STC">3129.5</idno>
+           <idno type="ESTC">S124641</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The English vsurer; or Vsury condemned, by the most learned and famous diuines of the Church of England : and dedicated to all his Maiesties subiects, for the stay of further increase of the same. Collected by Iohn Blaxton, preacher of Gods VVord at Osmington, in Dorcet-shire</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <publisher>Long, John.</publisher>
+                            <publisher>Norton, John 2</publisher>
+                        </imprint>
+                 <extent>16, 84 pages, bill (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <l>FAEnere qui lucrum facit, est homicida Catoni,</l>
+   <l>Furti dupla, huius quadrupla mulcta fuit.</l>
+   <l>Non facit heredem, priuatur honore sepulchri</l>
+   <l>Qui tenues lucro faeneris auget opes.</l>
+   <l>Sermo sacer, patres, pius omnis damnat, at vna</l>
+   <l>(Quae docet errores) Consuetudo probat.</l>
+   <closer>
+      <signed>
+         <hi>Iohannes Garbraudus</hi> Oxoniensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

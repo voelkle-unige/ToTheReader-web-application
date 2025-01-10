@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Gentle Reader correct these faults escaped in the printing.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105398_Fr1_2</idno>
+           <idno type="DLPS">A20824</idno>
+           <idno type="STC">7203</idno>
+           <idno type="ESTC">S105398</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Gentle Reader correct these faults escaped in the printing.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ideas mirrour : Amours in quatorzains</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>Ling (Lyng), Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>56 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="2"/>
+   <head>Gentle Reader correct these faults escaped in the printing.</head>
+   <l>AMour 13. lyne 13. for by Tempe, reade my Tempe.</l>
+   <l>Amour 16. line 3. for deluered, reade deliuered.</l>
+   <l>Amour 34. line 13. for forforne, read forlorne.</l>
+   <l>Amour 40. line 14. for Goe Bastard, read Goe bastard goe,</l>
+</div>
+        </body>
+  </text>
+</TEI>

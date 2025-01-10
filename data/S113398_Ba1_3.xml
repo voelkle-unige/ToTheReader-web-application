@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Faultes escaped in the printing.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113398_Ba1_3</idno>
+           <idno type="DLPS">A08428</idno>
+           <idno type="STC">18746</idno>
+           <idno type="ESTC">S113398</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Faultes escaped in the printing.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Miracles lately vvrought by the intercession of the glorious Virgin Marie, at Mont-aigu, nere vnto Siché in Brabant : Gathered out of the publik instruments, and informations taken thereof. By authoritie of the Lord Archbishop of Maclin. Translated out of the French copie into English by M. Robert Chambers priest, and confessor of the English religious dames in the citie of Bruxelles</title>
+                 <author>Numan, Philippe</author>
+                 <imprint>
+                    <publisher>Conincx, Arnout</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>86, 153, 158-296, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="199"/>
+   <head>Faultes escaped in the printing.</head>
+   <list>
+      <head>In the translators preface.</head>
+      <item>
+         <hi>For</hi> sf. <hi>read</hi> of.</item>
+      <item>
+         <hi>For</hi> paryer. prayer.</item>
+      <item>
+         <hi>For</hi> comfort, consort.</item>
+   </list>
+   <list>
+      <head>In the preface of the author.</head>
+      <item>
+         <hi>For</hi> the pietie of princes,</item>
+      <item>
+         <hi>Read,</hi> the pietie of our princes.</item>
+      <item>Pag. 22. <hi>for</hi> reaons <hi>read</hi> reasons.</item>
+      <item>Pag. 26. <hi>for</hi> acotnes <hi>read</hi> acornes.</item>
+      <item>Pag. 175. <hi>for</hi> depar <hi>read</hi> departed.</item>
+      <item>Pag. 190. <hi>for</hi> calebrated <hi>read</hi> cele<g ref="char:EOLhyphen"/>brated.</item>
+      <item>Pag. 250. <hi>for</hi> Carles <hi>read</hi> Earles</item>
+   </list>
+   <p>Consider (courteous Reader) our difficulties in vsing printers that are strangers, and at thy discretion vouch<g ref="char:EOLhyphen"/>safe to correct these and such lyke faultes.</p>
+   <pb facs="199"/>
+</div>
+        </body>
+  </text>
+</TEI>

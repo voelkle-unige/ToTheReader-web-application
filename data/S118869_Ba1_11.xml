@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>EPITAPHIUM ROSAE ad viatorem.</title>
+           <author>Campbellus, Ninianus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118869_Ba1_11</idno>
+           <idno type="DLPS">A17866</idno>
+           <idno type="STC">4533</idno>
+           <idno type="ESTC">S118869</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>EPITAPHIUM ROSAE ad viatorem.</title>
+                 <author>Campbellus, Ninianus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise upon death : first publickly delivered in a funerall sermon, anno Dom. 1630. And since enlarged By N.C. Preacher of Gods word in Scotland at Kilmacolme in the baronie of Renfrew</title>
+                 <author>Campbell, Ninian</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1635</date>
+                 <publisher>Wilson, John 3.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>128 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>EPITAPHIUM <hi>ROSAE</hi> ad viatorem.</head>
+   <lg>
+      <l>Quid stupeas qui prata vides defesse viator,</l>
+      <l>Quod pereat nostri gratia tanta <hi>Rosae?</hi>
+      </l>
+      <l>Nam{que} rosâ nil est brevius, properantius aevi,</l>
+      <l>Nil, ut mane viret, sole cadente perit.</l>
+      <l>
+         <pb facs="65"/>
+Pulchralicet durat sugitivo tempore, Nonne</l>
+      <l>Nutrit &amp; vna dies, tollit &amp; unarosam?</l>
+      <l>Haecque tuae formae species, haec lucis imago</l>
+      <l>Viva docet vitam sic properare tuam.</l>
+      <l>Ʋt qui pubescis primo nunc flore juventae,</l>
+      <l>Moximproviso curva senecta premat,</l>
+      <l>Sis niveâ rutilâ{que} rosâter pulchrior, ora</l>
+      <l>Inficiet pallor, funereus{que} color.</l>
+   </lg>
+   <closer>
+      <dateline>Anno <date>1634. idus Octobr.</date>
+      </dateline>
+      <signed>NINIANUS CAMPBELLUS.</signed>
+   </closer>
+   <pb facs="65"/>
+</div>
+        </body>
+  </text>
+</TEI>

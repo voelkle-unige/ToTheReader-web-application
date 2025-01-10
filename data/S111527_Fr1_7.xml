@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In eundem.</title>
+           <author>Eburne, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111527_Fr1_7</idno>
+           <idno type="DLPS">A14293</idno>
+           <idno type="STC">24610</idno>
+           <idno type="ESTC">S111527</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In eundem.</title>
+                 <author>Eburne, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The golden-groue : moralized in three bookes: a worke very necessary for all such, as would know how to gouerne themselues, their houses, or their countrey. Made by W. Vaughan, Master of Artes, and student in the ciuill law</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>416 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In eundem.</head>
+   <l>EThica scribenti suggessit Cynthius: annō</l>
+   <l>Ingenio magna est vrbs quo{que} digna tuo?</l>
+   <l>Dum{que} domos coleres maior, sanctos{que} pe<g ref="char:EOLhyphen"/>nates,</l>
+   <l>Publica sollicitat Res super illa rapi.</l>
+   <l>Quid magis? aeternū celebris nisi scādis Olym<g ref="char:EOLunhyphen"/>pun.</l>
+   <l>Materies arti cessit, &amp; aequa seges.</l>
+   <l>Prima legat populus, legat altera publicus alti.</l>
+   <l>Hospitii Dominus; tertia Regis erunt.</l>
+   <l>Tu bene diuiso libros dum diuidis orbi,</l>
+   <l>Hos orbi sapiens, te dabis ipse Deo</l>
+   <closer>
+      <signed>
+         <hi>Henricus Pricius</hi> S. Theologiae
+Bachalaureus, &amp; Collegii
+sancti Iohannis Socius.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

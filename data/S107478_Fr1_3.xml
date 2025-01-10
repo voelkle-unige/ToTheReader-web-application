@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Author]</title>
+           <author>Ellis, James</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107478_Fr1_3</idno>
+           <idno type="DLPS">A09506</idno>
+           <idno type="STC">19788</idno>
+           <idno type="ESTC">S107478</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Author]</title>
+                 <author>Ellis, James</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Gods visitation : in a sermon preached at Leicester, at an ordinary visitation. By T.P</title>
+                 <author>Pestell, Thomas</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>4, 39, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="3"/>
+   <opener>
+      <salute>Worthy Sir,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Am importuned to importune you, to doe that which I hope your wisedome will wil<g ref="char:EOLhyphen"/>lingly consent vnto: yet as I doe heartily wish it, so I must earnestly intreat you, or else I shall betray the trust that I am put in. The matter is, that you would be pleased both for a generall and a par<g ref="char:EOLhyphen"/>ticular good; to cause your late both excellent, and learned Sermon, preached at the Visitation at Leicester, to be put in print, that the vertue thereof, by the power of God, may disperse it selfe to them that heard it not. I desire it not onely for your owne sake, though no doubt it would make your name to smell like a pretious oyntment in the Church of God, but for the glorie of Gods sake, which would be much increased by the publike view thereof. And you are bound in conscience, to doe the best seruice you can, in setting forth your Masters glory with all alacri<g ref="char:EOLhyphen"/>ty, that hath made you so able a Minister to performe it. Therefore let me intreat you, not to deny the setting forth of that, which may giue many thousands of Gods people much cause to blesse God for it, and you also praying to God for his assistance, in this and all your godly endeuors, I commend you and all yours, to his protection, that is able to keepe you and all yours for euer.</p>
+   <closer>
+      <signed>Yours to be commanded, IAMES ELLIS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Translatour to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117191_Fr1_5</idno>
+           <idno type="DLPS">A11930</idno>
+           <idno type="STC">22243</idno>
+           <idno type="ESTC">S117191</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Translatour to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The fourth parte of Co [m] mentaries of the ciuill warres in Fraunce, and of the lovve countrie of Flaunders: translated out of Latine into English, by Thomas Tymme minister. Seene and allowed</title>
+                 <author>Serres, Jean de</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <distributor>Toy (Toius), Humphrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 </imprint>
+                 <extent>8, 35, 1, 1410, that is 150, 30 pages, folded plates, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>¶ The Translatour to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He increasing of newe troubles and warres in <hi>Fraunce,</hi> hath also increased the matter, and giuen larger occasion of the publishing of this fourth part of Commentaries, the whiche contayneth (as the other three partes do) three bookes: the first of the three in the Latin Coppy reckoned the tenth. But bycause we haue to our third part already a tenth Booke annexed contayning the summe of those things whiche are written in the first Booke of this fourth volume. I haue thought good not to translate the same in order as it lieth, but only to gleane out those principall matters which are different from the other: for that it is super<g ref="char:EOLhyphen"/>fluous in one work to print one and the selfe same thing twice. This fourth parte comprehendeth the actes and gestes of the ci<g ref="char:EOLhyphen"/>uill warres, from the time of the last peace concluded in Anno 1571. vnto the death of King <hi>Charles</hi> the ninth, who dyed in Anno. 1574. In the whiche there is set before thee (righte Christian Reader) a large discourse, not only of the affayres of <hi>Fraunce,</hi> but also of the lowe countrey of <hi>Flaunders,</hi> as tyme and occasion offereth the same. Accept my good will bestowed in translating thys parte to benefyte the English reader.</p>
+</div>
+        </body>
+  </text>
+</TEI>

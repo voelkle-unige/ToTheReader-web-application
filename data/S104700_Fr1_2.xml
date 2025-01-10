@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>N., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104700_Fr1_2</idno>
+           <idno type="DLPS">A16799</idno>
+           <idno type="STC">3702.5</idno>
+           <idno type="ESTC">S104700</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>N., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Strange nevves out of diuers countries : neuer discouered till of late, by a strange pilgrime in those parts</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <publisher>Fairbeard (Fayerbeard), George.</publisher>
+                            <publisher>Jones, William 3</publisher>
+                        </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">N</seg>Ewes are more tolde then true,
+especially if they come farre off;
+and if they be of State, they are
+dangerous to meddle with; if
+of home-spunne threed, it is held
+little worth. Stale newes are not
+worth the telling; but a new mat<g ref="char:EOLhyphen"/>ter
+neuer heard of before, will be
+hearkned after, though they be not worth the hearing:
+but yet a new thing of small price may be euery mans
+monie, especially if it take a liking in the humors of com<g ref="char:EOLhyphen"/>mon
+people. Such ware I haue sent to the market, newes
+from a strange countrie, of strange matters and stranze
+people, and among all, of one chiefe Ruler of the vnru<g ref="char:EOLhyphen"/>ly.
+What is to be read and vnderstood, followes in the
+leaues following; which if your patience will giue you
+leaue to peruse, you may finde more matter to laugh at,
+then imitate. Such as it is, I leaue it to your censure,
+and so rest</p>
+   <closer>
+      <signed>Your wel-wishing friend, <hi>B. N.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

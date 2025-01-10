@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107369_Fr1_1</idno>
+           <idno type="DLPS">A17513</idno>
+           <idno type="STC">4327</idno>
+           <idno type="ESTC">S107369</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A iustification of the Church of England : Demonstrating it to be a true Church of God, affording all sufficient meanes to saluation. Or, a countercharme against the Romish enchantments, that labour to bewitch the people, with opinion of necessity to be subiect to the Pop of Rome. Wherein is briefly shewed the pith and marrow of the principall bookes written by both sides, touching this matter: with marginall reference to the chapters and sections, where the points are handled more at large to the great ease and satisfaction of the reader. By Anthony Cade, Bachelou of Diuinity</title>
+                 <author>Cade, Anthony</author>
+                 <imprint>
+                    <distributor>Latham (Lathum, Lautham), George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>40, 315, 1, 112, 28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="1"/>
+   <p>
+      <hi>TO HIS HONORA<g ref="char:EOLhyphen"/>BLE FRENDE S<seg rend="sup">r</seg>. HENRY SKIPWITH Knight, and Baronet,</hi>
+   </p>
+   <p>The Author hereof sendeth this his worke as a Testimo<g ref="char:EOLhyphen"/>ny and Memoriall of the LOVE and HONOVR which he beareth to his <hi>WORTHINES.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

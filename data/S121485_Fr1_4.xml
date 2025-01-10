@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD EVNDEM, ET LECTOREM,</title>
+           <author>Maxuellius, David</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121485_Fr1_4</idno>
+           <idno type="DLPS">A07790</idno>
+           <idno type="STC">18167</idno>
+           <idno type="ESTC">S121485</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD EVNDEM, ET LECTOREM,</title>
+                 <author>Maxuellius, David</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A short treatise of death in sixe chapters : Together with the ænigmatick description of old age and death written Ecclesiastes 12 chap. exponed and paraphrased in English meetre. Written by Mr. William Morray minister of Gods word</title>
+                 <author>Morray, William</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>8, 41, 7 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="4"/>
+   <head>AD EVNDEM, ET <hi>LECTOREM,</hi>
+   </head>
+   <l>HIC liber est cultus labor vtilis, optimus Author,</l>
+   <l>Sancta verecundo verba lepore refert.</l>
+   <l>Perlege, &amp; invenies quâ tu sis morte beatus,</l>
+   <l>Morte docet vitam vivere, morte viam.</l>
+   <l>Si cupias mortis sanctae simulachra tenere,</l>
+   <l>Quae Domino placeant, collige monstrat iter.</l>
+   <l>Ʋt legi, obstupui, perpendens singula mente,</l>
+   <l>Inveni, Ambrosio rore &amp; odore fragrant.</l>
+   <l>Et cellas inopum, turres regum{que} superbas</l>
+   <l>Pallida mors pulsat, limina nulla timet.</l>
+   <l>Ast hâc morte potes, non mortis vincta timere,</l>
+   <l>Si bene, si sanctè singula corde premas.</l>
+   <l>Ʋndas majoris somni, stygis at{que} perennis</l>
+   <l>Tu fluctus spernes, cum legis hunc <hi>Mora vum.</hi>
+   </l>
+   <l>Haec paucis docuit, rimeniur singula, dices</l>
+   <l>Stigmare quam sancto, condere mente vola.</l>
+   <l>Macte diu felix, qui vitae limina lustras,</l>
+   <l>Per mortis varios, per vada pura gradus.</l>
+   <l>Ʋade liber <hi>Moravi,</hi> preconia funde per orbem</l>
+   <l>Laudis, quae scripsit dicere ne pudeat.</l>
+   <l>Buccina si <hi>Buchanani</hi> esset, si vena
+<hi>Maronis,</hi>
+   </l>
+   <l>Encomium nequeo quod meret exprimere.</l>
+   <l>Qui{que} To<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>em carpsit, quod tauri cornua fronti</l>
+   <l>Imposuit, non is quod reprehendat habet.</l>
+   <closer>
+      <signed>DAVID MAXUELLIUS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

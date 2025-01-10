@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Fetherstone, Christopher</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1586</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125271_Fr1_4</idno>
+           <idno type="DLPS">A73478</idno>
+           <idno type="STC">2790</idno>
+           <idno type="ESTC">S125271</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Fetherstone, Christopher</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Haggeus the prophet : Where-vnto is added a most plentifull commentary, gathered out of the publique lectures of D. Iohn Iames Gryneus, professor of diuinitie in the Vniuersitie of Basill, and now first published, faithfully translated out of Latin into English, by Christopher Fetherstone student in diuinitie</title>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <distributor>Harrison, John 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1586</date>
+                 </imprint>
+                 <extent>56, 294, 2 pages, coat of arms, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="11"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hough (good reader the aboundance and sa<g ref="char:EOLhyphen"/>tiety of printed &amp; tran<g ref="char:EOLhyphen"/>slated bookes, hath in these daies bred in the mindes of many a cer<g ref="char:EOLhyphen"/>taine loathesomnes, so that curious men with squinting eye, and countenance disdainfull, looke vpon other mens laboures, thinking them to bee odlie, how-soeuer not idlely occupied, which im<g ref="char:EOLhyphen"/>ploy them-selues that way: yet am I not ig<g ref="char:EOLhyphen"/>norant, that those paines which are bestow<g ref="char:EOLhyphen"/>ed about this, doe profit manie, if they bee well bestowed in thinges appertaining vnto godlines, &amp; the explaning of the Scriptures: for-asmuch as there bee manie which reade the woorde of God, and all doe not vnder<g ref="char:EOLhyphen"/>stand it, neither can, vnlesse they haue some to expound it vnto them. Which because
+<pb facs="11"/> it can-not be done <hi>viua voce,</hi> because there is too much want of that meanes: they must haue it <hi>ex scripto.</hi> My paines which I haue taken in this translation, haue bene taken for thy sake (Christian reader) whose desire it is to reade other mens labors, and there-by to profit: that thou maist be instructed through<g ref="char:EOLunhyphen"/>ly to know the will of God, who blesse thee in reading these learned Lectures, which if with attentiuenes thou reade, no doubt the profit thou shalt there-by reape shall be verie great. Accept therefore my paines, &amp; make thy profit there-of, and pray for mee that the Lord will blesse my labours which I shall vnder-take for the profit of his Church.</p>
+   <closer>
+      <signed>Thine in the Lord, Christopher Fetherstone.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

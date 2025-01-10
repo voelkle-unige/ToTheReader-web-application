@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Quare Rub &amp; Run;</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105653_Fr1_3_10</idno>
+           <idno type="DLPS">A01256</idno>
+           <idno type="STC">11370</idno>
+           <idno type="ESTC">S105653</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Quare Rub &amp; Run;</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rubbe, and a great cast : Epigrams. By Thomas Freeman, Gent</title>
+                 <author>Freeman, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Lisle (L’isle, Lyle), Laurence.</publisher>
+                            <publisher>Mountford, Thomas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>Quare Rub &amp; Run;</head>
+   <l>
+      <hi>SPhaera</hi> mihi; Calamus, Mundi sunt crimina, <hi>Nodi,</hi>
+   </l>
+   <l>Ipse sed est mundus, <hi>Sphaeromachia</hi> mihi.</l>
+   <l>Siue <hi>manere</hi> iubes, <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ector, seu <hi>currere</hi> sphaera<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>t.</l>
+   <l>Lusori pariter, <hi>curre</hi>
+      <gap reason="illegible" resp="#tech" extent="3 letters">
+         <desc>•••</desc>
+      </gap>e{que} placent.</l>
+</div>
+        </body>
+  </text>
+</TEI>

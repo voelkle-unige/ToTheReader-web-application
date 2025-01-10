@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1559</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106733_Ba1_1</idno>
+           <idno type="DLPS">A68306</idno>
+           <idno type="STC">15064</idno>
+           <idno type="ESTC">S106733</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The copie of an epistle sent : by Iohn Knox one of the ministers of the Englishe Church at Geneua vnto the inhabitants of Newcastle, &amp; Barwike. In the end wherof is added a briefe exhortation to England for the spedie imbrasing of Christes gospel hertofore suppressed &amp; banished</title>
+                 <author>Knox, John</author>
+                 <imprint>
+                    <pubPlace>Switzerland--Geneva City</pubPlace>
+                    <date>1559</date>
+                 </imprint>
+                 <extent>127, 1 page, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="127" facs="64"/>
+   <head>TO THE READER.</head>
+   <p>YF the examinations and in<g ref="char:EOLhyphen"/>iuste accusations of the<g ref="char:EOLhyphen"/>se our deare brethern with the names of their wicked accusers, false Iudges and cruel tormen<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s had bene sent vnto vs as the<g ref="char:EOLhyphen"/>se fewe names were, we woul<g ref="char:EOLhyphen"/>de most gladly haue done our di<g ref="char:EOLhyphen"/>ligence, that the wonderful con<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>ācie of the one, &amp; the great rage &amp; crueltie of the other shulde ha<g ref="char:EOLhyphen"/>ue bene witnessed vnto y<seg rend="sup">e</seg> world. which thing neuertheles we myn<g ref="char:EOLhyphen"/>de hereafter more largely to performe to the glorie of God, to the comfort of this Church &amp; to the perpetuall cōfusiō of tho<g ref="char:EOLhyphen"/>se murtherers and members of Satā, whome the Lord shall con<g ref="char:EOLhyphen"/>founde by the glorious coming of our Sauiour Iesus Christ.</p>
+</div>
+        </body>
+  </text>
+</TEI>

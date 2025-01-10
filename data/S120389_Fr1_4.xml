@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ The Argument of the Dialogue.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120389_Fr1_4</idno>
+           <idno type="DLPS">A07462</idno>
+           <idno type="STC">17848</idno>
+           <idno type="ESTC">S120389</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ The Argument of the Dialogue.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A pleasaunt dialogue, concerning phisicke and phisitions</title>
+                 <author>Mexía, Pedro</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 </imprint>
+                 <extent>80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Arguments &amp; Summaries</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="argument">
+   <pb facs="5"/>
+   <head>❧ The Argument of the Dialogue.</head>
+   <p>TWo learned men Gentlemen, met by chaūce, the one of them speaketh much euill of Phisi<g ref="char:EOLhyphen"/>tions: and holdeth opiniō, that nei<g ref="char:EOLhyphen"/>ther Phisition, nor Arte of medi<g ref="char:EOLhyphen"/>cine ought to be, but y<seg rend="sup">t</seg> men should be cured with vse and experience. The other doth commend also and defend, bothe Medicine &amp; Phisiti<g ref="char:EOLhyphen"/>ons. And last of all, the matter is decided by a learned man, called Maister <hi>Velasques,</hi> verie notably.</p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

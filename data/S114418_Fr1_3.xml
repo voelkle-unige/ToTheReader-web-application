@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Parentes at{que} Liberos Hexàstichon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114418_Fr1_3</idno>
+           <idno type="DLPS">A18013</idno>
+           <idno type="STC">4662</idno>
+           <idno type="ESTC">S114418</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Parentes at{que} Liberos Hexàstichon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Contemplations for the institution of children in the Christian religion. Collected and published by Iohn Carpenter</title>
+                 <author>Carpenter, John</author>
+                 <imprint>
+                    <publisher>Read, Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>100 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <head>Ad Parentes at{que} Liberos Hexàstichon.</head>
+   <l>DIsce, parens, púeros pietate ornare tenellos:</l>
+   <l>Disce, puer, verum Relligionis opus.</l>
+   <l>Quae doceas, discas facili, híc coprênsa labore:</l>
+   <l>quae discas, doceas, gratus vtér que labor.</l>
+   <l>Dū pater et gnátus sibi múnera debita praestāt</l>
+   <l>per sanctè summo seruit vtérque Deo.</l>
+</div>
+        </body>
+  </text>
+</TEI>

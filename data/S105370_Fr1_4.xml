@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Momi obiectio in Au∣thorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105370_Fr1_4</idno>
+           <idno type="DLPS">A14295</idno>
+           <idno type="STC">24612</idno>
+           <idno type="ESTC">S105370</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Momi obiectio in Au∣thorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Naturall and artificial directions for health : deriued from the best philosophers, as well moderne, as auncient. By William Vaughan, Master of Artes, and student in the ciuill law</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <publisher>Bradock, Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>14, 76, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="objection">
+   <pb facs="7"/>
+   <head>Momi obiectio in Au<g ref="char:EOLhyphen"/>thorem.</head>
+   <lg>
+      <l>F<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>rtiuis olim varijs{que} superbijt Oscen</l>
+      <l>Plumis; ex multis fit liber iste libris.</l>
+   </lg>
+   <lg>
+      <l>Redde c<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>iquesuum: vilescit protinus Oscen;</l>
+      <l>Hic sin<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap> Naturâ foetet &amp; Arte liber.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

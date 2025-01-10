@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Bengaaa de Mont. Prisacchi Retta, vnto Seig. Princisca Ganzar Moretta. For his behauiour. vz.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4860_Fr1_4</idno>
+           <idno type="DLPS">A68663</idno>
+           <idno type="STC">21134.5</idno>
+           <idno type="ESTC">S4860</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Bengaaa de Mont. Prisacchi Retta, vnto Seig. Princisca Ganzar Moretta. For his behauiour. vz.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The courte of ciuill courtesie : fitly furnished with a pleasant porte of stately phrases and pithie precepts: assembled in the behalfe of all younge gentlemen, and others, that are desirous to frame their behauiour according to their estates, at all times, and in all companies: therby to purchase worthy prayse, of their inferiours: and estimation and credite amonge theyr betters. Out of Italian, by S.R. gent</title>
+                 <author>S. R. (Simon Robson)</author>
+                 <imprint>
+                    <publisher>Jones (Jhones, Johnes), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1577</date>
+                 </imprint>
+                 <extent>8, 51, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_authors_nephew">
+   <pb facs="4"/>
+   <head>Benga<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>a<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>a de<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> Mont. Prisacchi <hi>Retta,</hi> vnto <hi>Seig. Princisca</hi> Ganzar Moretta. <hi>For his behauiour.</hi> vz.</head>
+   <opener>
+      <salute>To <hi>my Nephew</hi> Seig. Princisca Ganzar Moretta.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">A</seg>T my last being at <hi>Prisac<g ref="char:EOLhyphen"/>chi,</hi> vnderstāding by your fathers talke, that he min<g ref="char:EOLhyphen"/>ded to haue you a while in the Courte, where hee hath spente the better part of his life: and because it is frequented with all sorts of cōpa<g ref="char:EOLhyphen"/>nies, as any place in <hi>Italy</hi> is. I haue directed this litle booke, whiche if you read and marke diligently, shal bee as it were a guide, to leade you from a nūber of snares which you may bee trapt withall, also for your behauiour in all companyes: with many other thinges fit to bee kno<g ref="char:EOLhyphen"/>wen of yonge Gentlemen, and espe<g ref="char:EOLunhyphen"/>cially for sutch as haue not beene conuersant in all companyes.</p>
+   <closer>Fare yee well.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

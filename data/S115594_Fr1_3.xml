@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Reader.</title>
+           <author>R., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115594_Fr1_3</idno>
+           <idno type="DLPS">A10407</idno>
+           <idno type="STC">20692</idno>
+           <idno type="ESTC">S115594</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Reader.</title>
+                 <author>R., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The jealous lovers : A comedie presented to their gracious Majesties at Cambridge, by the students of Trinity-Colledge. Written by Thomas Randolph, Master of Arts, and fellow of the house</title>
+                 <author>Randolph, Thomas</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>16, 85, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>¶ To the Reader.</head>
+   <opener>
+      <salute>Courteous Reader,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Beg thy pardon, if I put thee to the ex<g ref="char:EOLhyphen"/>pence of a sixpence, and the losse of an houre. If I could by my own industrie have fur<g ref="char:EOLhyphen"/>nished the desires of my friends, I had not troubled the Presse. 'Tis no opinion of the worth that wrought me to it; if I finde thee charitable, I acknowledge my self beholding to thee: if thou condemne it of weaknesse, I cannot be angry to see another of my minde. I do not aim at the name of a Poet, I have alwaies admired the free raptures of poetrie; but it is too unthrifty a science for my fortunes, and is crept into the number of the seven, to undo the other six. That I make so many dedications, think not that I value it as a present rich enough to be di<g ref="char:EOLhyphen"/>vided; but know whom I am in pietie bound to honour. That I admit so many of my friends approbations, is not that I itch'd for praise and love—rubbing, but that I was willing thou shouldest have something worth thy reading. Be to me as kinde as my audience, who when they might have us'd their censures, made choice of their mercies: and so I must acknowledge my self indebted to thy clemencie. I confesse no heights here, no strong conceits; I speak the language of the people.
+<q>
+         <l>—Neque si quis scribit, uti nos,</l>
+         <l>Sermoni propiora, putes hunc esse poetam.</l>
+      </q>
+No, bestow the honour of that glorious title on those that have abler wits, diviner inventions, and deeper mouths: Leave me to the privacie of my studies, and accept for thy unknown friend</p>
+   <closer>
+      <signed>T.R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

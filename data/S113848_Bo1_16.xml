@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113848_Bo1_16</idno>
+           <idno type="DLPS">A08659</idno>
+           <idno type="STC">18965</idno>
+           <idno type="ESTC">S113848</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ovid's Metamorphosis Englished by G.S</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 <publisher>Grismand (Grismond), John.</publisher>
+                            <publisher>Lownes, Thomas 4.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>26, 336, 347-445, 19 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>
+      <pb facs="197"/>
+planations. With these I had thought,
+in their seuerall places, to haue char<g ref="char:EOLhyphen"/>ged
+the margent: but the hastinesse
+of the Presse, and vnexpected want
+of leasure, haue preuented me. The
+same reason may serue for diuers
+slips, aed errours, which I not only
+know but acknowledge. Yet if the
+too cleanly Criticke sweepe not all
+the dust together and lay it on one
+heape, it may perhaps be hardly dis<g ref="char:EOLhyphen"/>cerned,
+howsoeuer borne-with in so
+long and interrupted a labour.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Typographus Lectori.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S126464_Fr1_2</idno>
+           <idno type="DLPS">A20623</idno>
+           <idno type="STC">7026</idno>
+           <idno type="ESTC">S126464</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Typographus Lectori.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Conclaue Ignati: siue Eius in nuperis inferni comitiis in thronisatio : Vbi varia De Iesuitarum indole, de nouo inferno creando, de ecclesia lunatica institue [n] da, per satyram congesta sunt. Accessit et apologia pro Iesuitis. Omnia duobus angelis aduersariis, qui consistorio papali, &amp; Collegio Sorbone præsident, dedicata</title>
+                 <author>Donne, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Hall, William</publisher>
+                        </imprint>
+                 <extent>6, 94, 8 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="compositor_to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>Typographus Lectori.</head>
+   <p>
+      <seg rend="decorInit">A</seg>VTOREM quaeris? Frustra. Ignotior enim est
+Paparum olim Parentibus. Si tamen coniectandi
+pruritu labores, habe à me quod de illo amicus, cui
+librum legendum miserat, ad me scripsit? 
+<q>Euul<g ref="char:EOLhyphen"/>gari
+ista noluerat Autor: indignum ratus tam
+re ipsa seriâ grauique quàm eâ quàm in alio, ante edito, libro
+sibi proposuerat, seruaratque grauitate, ad hoc scriptionis
+genus descendisse. Ego contra, acies instruxi meas; hinc ar<g ref="char:EOLhyphen"/>gumenta,
+inde exempla eduxi. Proposui ingentem<hi> Eras<g ref="char:EOLhyphen"/>mum;</hi> quem, etsi vnum è nostris <hi> Praedicantibus </hi>eum ap<g ref="char:EOLhyphen"/>pellet<hi>Scribanius Iesuita, </hi>in suis tamen libenter numerat
+Coccius.<note place="margin">In Contro fol. 106.</note> Eius autem Sarcasmis, huiusque generis velitatio<g ref="char:EOLhyphen"/>nibus,
+non minus debere Ecclesiam nostram fatentur Aduer<g ref="char:EOLhyphen"/>sarii,
+quàm ipsi<hi> Luthero </hi>strenuè in acie dimicanti. In
+mentem etiam ei reuocaui, quàm hoc sit ipsis<hi> Papistis </hi>
+familiare; quidque hoc in genere fecerat<hi> Rebuccus </hi>trans
+fuga, tam in illis libris quos Salmonees appellare voluit,
+quàm in altero <hi> Cubale des Reformés </hi>nuncupato, cu<g ref="char:EOLhyphen"/>ius
+si non Autor, certè Apologista fuit. Nec illo, hocin ge<g ref="char:EOLhyphen"/>nere,
+inferior, quisquis fuit, qui <hi> Macer </hi>dicitur: qui disser<g ref="char:EOLhyphen"/>tationem
+de tremenda illa in <hi> Venetos Pauli 5.</hi>excommu<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#uot" extent="5 letters">
+            <desc>•••••</desc>
+         </gap>
+         <gap reason="missing" extent="2 pages">
+            <desc>〈2 pages missing〉</desc>
+         </gap>
+      </q>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

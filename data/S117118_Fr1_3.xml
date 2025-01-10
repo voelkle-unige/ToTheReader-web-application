@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>GENTILI CHARISSIMO Patricio Crafordio, à Cassilton, ex Synagoga Romanâ ad Ecclesiae Evangelicae societatem reduci.</title>
+           <author>Craford, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117118_Fr1_3</idno>
+           <idno type="DLPS">A19595</idno>
+           <idno type="STC">6032</idno>
+           <idno type="ESTC">S117118</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>GENTILI CHARISSIMO Patricio Crafordio, à Cassilton, ex Synagoga Romanâ ad Ecclesiae Evangelicae societatem reduci.</title>
+                 <author>Craford, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The declaration of Mr. Patrik Crawfurd his returne from poperie to the true religion, which is according to the Word of God, in holie Scripture</title>
+                 <author>Crawfurd, Patrick</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>6, 59, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="3"/>
+   <head>GENTILI CHARISSIMO <hi>Patricio Crafordio, à</hi> Cassilton, <hi>ex Synagoga</hi> Romanâ ad Ecclesiae Evangelicae <hi>societatem reduci.</hi>
+   </head>
+   <lg>
+      <head>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</head>
+      <l>
+         <seg rend="decorInit">Q</seg>Vod <hi>Latii</hi> illecebras scorti evitâris, &amp; astum<note place="margin">Apoc. 17. ibid. 19. 9. ibid. 18. 4. ibid. 21. 2.</note>
+      </l>
+      <l>In sua quo incautos retia dira trahit:</l>
+      <l>Quod thalamos sancti sis invitatus ad agni,</l>
+      <l>Dum venit in castos sponsa pudica thoros:</l>
+      <l>Quod <hi>Babyloniacam,</hi> Domino suadente, ruinam</l>
+      <l>Effugis, in <hi>Solymae</hi> tecta nouata redux;</l>
+      <l>Gratulor, immensumque Dei miserantis amorem</l>
+      <l>Miror, inexhaustas &amp; bonitatis opes.</l>
+      <l>Tu quoque quod, lubrico erroris de tramite caeci</l>
+      <l>Conversus, fratres sic stabilire paras,</l>
+      <l>Laudo piumque animum, gratamque in pectore mentem,</l>
+      <l>Et cum candenti simplicitate fidem.</l>
+      <l>O vtinam surdis aures, &amp; lumina caecis</l>
+      <l>Assidue Dominus sic tribuisse velit.</l>
+   </lg>
+   <closer>
+      <signed>Thomas Crafordius.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

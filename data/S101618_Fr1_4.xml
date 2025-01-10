@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An admonition to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1570</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101618_Fr1_4</idno>
+           <idno type="DLPS">A08964</idno>
+           <idno type="STC">1925</idno>
+           <idno type="ESTC">S101618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An admonition to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The tranquillitie of the minde : A verye excellent and most comfortable oration, plainely directing euerye man, &amp; woman, to the true tranquillitie and quyetnesse of their minde. Compyled in Latine by Iohn Barnarde, student in the Vniuersity of Cambridge, now lately translated into Englishe by Anthony Marten</title>
+                 <author>Bernard, John</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <distributor>Norton, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1570</date>
+                 </imprint>
+                 <extent>8, 108 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <pb facs="9"/>
+   <head>An admonition to <hi>the Reader.</hi>
+   </head>
+   <p>ALthough (beloued Reader) this Treatise, be not of those sort of Bookes, vvhich are vsually de<g ref="char:EOLhyphen"/>uided into Chapters, eyther short or long: yet, asvvell by notes in the mar<g ref="char:EOLhyphen"/>gent, as also by the tytles oboue the heade of euery leafe, you are no lesse plainlye directed to euery perticular matter therein, than by the other you might be.</p>
+</div>
+        </body>
+  </text>
+</TEI>

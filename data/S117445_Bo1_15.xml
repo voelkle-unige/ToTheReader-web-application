@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117445_Bo1_15</idno>
+           <idno type="DLPS">A12406</idno>
+           <idno type="STC">22719</idno>
+           <idno type="ESTC">S117445</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sermons of Maister Henrie Smith : gathered into one volume. Printed according to his corrected copies in his life time</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Orwin, Thomas.</publisher>
+                            <publisher>Robinson, Robert.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>14, 720, 815-1092, 24 + pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="191"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hereas these Sermons of Nabuchad<g ref="char:EOLhyphen"/>nezzar
+haue heretofore been printed
+by an vnperfect Copie, and by meanes
+thereof haue passed through the handes of di<g ref="char:EOLhyphen"/>uers;
+hauing in some places the minde of the
+Author obscured, in other some the sentences
+vnskilfully patched together: whereby the Au<g ref="char:EOLhyphen"/>thors
+discredit might bee furthered, and the
+sale of the Sermons haue been hindered. Now as
+I haue caused them to be examined by the best
+Copies, and to bee corrected accordingly: so I
+thought good to certifie thee of the same, that
+the wants which were in the first impression,
+might not cause thee to suspect this impression
+also, and so discourage thee from acquainting
+thy selfe with the excellent Instruc<g ref="char:EOLhyphen"/>tions,
+offered in these
+Treatises.</p>
+</div>
+        </body>
+  </text>
+</TEI>

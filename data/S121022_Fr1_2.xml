@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>REVERENDISSIMO
+IN CHRISTO PATRI AC DO∣MINO
+HONORATISSIMO,
+DOMINO RICHARDO PROVI∣DENTIA
+DIVINA ARCHIE∣PISCOPO
+CANTVARIENSI,
+TOTIVS ANGLIAE PRIMATI
+AC METROPOLITANO, SE∣RENISSIMAE
+QVE REGIAE
+MAIESTATI A SANCTIO∣RIBVS
+CONSILIIS, DO∣MINO
+SVO AC PA∣TRONO
+COLEN∣DISSIMO:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121022_Fr1_2</idno>
+           <idno type="DLPS">A20744</idno>
+           <idno type="STC">7125</idno>
+           <idno type="ESTC">S121022</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>REVERENDISSIMO
+IN CHRISTO PATRI AC DO∣MINO
+HONORATISSIMO,
+DOMINO RICHARDO PROVI∣DENTIA
+DIVINA ARCHIE∣PISCOPO
+CANTVARIENSI,
+TOTIVS ANGLIAE PRIMATI
+AC METROPOLITANO, SE∣RENISSIMAE
+QVE REGIAE
+MAIESTATI A SANCTIO∣RIBVS
+CONSILIIS, DO∣MINO
+SVO AC PA∣TRONO
+COLEN∣DISSIMO:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tvvo sermons : the one commending the ministerie in generall: the other defending the office of bishops in particular: both preached, and since enlarged by George Dovvname Doctor of Diuinitie</title>
+                 <author>Downame, George</author>
+                 <imprint>
+                    <distributor>Lownes, Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>4, 103, 1, 16, 100 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>REVERENDISSIMO
+IN CHRISTO PATRI AC DO<g ref="char:EOLhyphen"/>MINO
+HONORATISSIMO,
+DOMINO RICHARDO PROVI<g ref="char:EOLhyphen"/>DENTIA
+DIVINA ARCHIE<g ref="char:EOLhyphen"/>PISCOPO
+CANTVARIENSI,
+TOTIVS ANGLIAE PRIMATI
+AC METROPOLITANO, SE<g ref="char:EOLhyphen"/>RENISSIMAE
+QVE REGIAE
+MAIESTATI A SANCTIO<g ref="char:EOLhyphen"/>RIBVS
+CONSILIIS, DO<g ref="char:EOLhyphen"/>MINO
+SVO AC PA<g ref="char:EOLhyphen"/>TRONO
+COLEN<g ref="char:EOLhyphen"/>DISSIMO:</head>
+   <p>GEORGIVS DOVVNAME CON<g ref="char:EOLhyphen"/>CIONEM
+HANC, QVA TVM MI<g ref="char:EOLhyphen"/>NISTERII
+DIGNITAS TVM MINI<g ref="char:EOLhyphen"/>STRORVM
+<gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> TRACTATVR IN
+PERPETVVM OBSERVANTIAE
+SVMMAE TESTIMONIVM
+L.M.D.D.</p>
+</div>
+        </body>
+  </text>
+</TEI>

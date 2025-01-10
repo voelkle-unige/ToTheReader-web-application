@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable and moste noble and mightie Lord Thomas Howard Earle of Arundel and Surrey.</title>
+           <author>Markham, Gervase</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120787_Fr4_2</idno>
+           <idno type="DLPS">A06903</idno>
+           <idno type="STC">17334</idno>
+           <idno type="ESTC">S120787</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable and moste noble and mightie Lord Thomas Howard Earle of Arundel and Surrey.</title>
+                 <author>Markham, Gervase</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Cauelarice, or The English horseman : contayning all the arte of horse-manship, as much as is necessary for any man to vnderstand, whether he be horse-breeder, horse-ryder, horse-hunter, horse-runner, horse-ambler, horse-farrier, horse-keeper, coachman, smith, or sadler. Together, with the discouery of the subtill trade or mistery of horse-coursers, &amp; an explanatio [n] of the excellency of a horses vndersta [n] ding, or how to teach them to doe trickes like Bankes his curtall: and that horses may be made to drawe drie-foot like a hound. Secrets before vnpublished, &amp; now carefully set down for the profit of this whole nation: by Geruase Markham</title>
+                 <author>Markham, Gervase</author>
+                 <imprint>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Jaggard, William</publisher>
+                        </imprint>
+                 <extent>16, 88, 4, 212, 233-264, 4, 67, 58-72, 4, 54, 4, 56, 4, 64, 4, 11, 10-81, 5, 20, 25-40 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="225"/>
+   <pb facs="225"/>
+   <head>To the Right Honorable and moste noble <hi>and mightie Lord</hi> Thomas Howard <hi>Earle of Arundel and Surrey.</hi>
+   </head>
+   <p>
+      <hi>
+         <seg rend="decorInit">T</seg>Here is nothing (most noble &amp; mighty Lord) which hath more incited me to this weary la<g ref="char:EOLhyphen"/>bour (which I hope I haue to good purpose effected) then the grace which I haue noted <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> your <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> selfe and other princes of your ranke liberally bestowe vpon the Arte of horsemanshipp both by your <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>wne practise and the incouragement of others, which doth not only assure <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> that no peace shal make the glo<g ref="char:EOLhyphen"/>rie of wa<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>e neglected, but doth also make me hope to liue to see in <gap reason="illegible" resp="#apex" extent="2 words">
+            <desc>〈◊◊〉</desc>
+         </gap> as famous a nurserie of horsemen and hor<g ref="char:EOLhyphen"/>ses, <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> euer hath be<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ne <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> in</hi> Italie <hi>or</hi> Naples, <hi>and though my boldnesse in darring to present my ruder skill to your honor able iudgement may iustly be challenged to haue no garments but a naked boldenes, yet the loue I am bound to beare to that moste honorable house (into which you haue now moste happily planted your selfe) I hope wil be both my defence and protection, by which I knowe you will both take delight to pardon, and my selfe be proud to esteeme myselfe your srruant.</hi>
+   </p>
+   <closer>
+      <signed>Geruase Markham.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

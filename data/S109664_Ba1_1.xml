@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Envoy]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1531</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109664_Ba1_1</idno>
+           <idno type="DLPS">A06560</idno>
+           <idno type="STC">17025</idno>
+           <idno type="ESTC">S109664</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Envoy]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>This boke is compyled by Dan Ioh⁻n Lydgate monke of Burye, at the excitacion [and] styrynge of the noble and victorious prynce, Kynge Henry the fyfthe, i [n] the honoure glorie [and] reuerence of the byrthe of our moste blessed Lady, mayde, wyfe, [and] mother of our lorde Iesu Christe, chapitred as foloweth by this table</title>
+                 <author>Lydgate, John</author>
+                 <imprint>
+                    <publisher>Redman, Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1531</date>
+                 </imprint>
+                 <extent>236 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="envoy">
+   <lg>
+      <l>¶ Go litell boke / and submitte the</l>
+      <l>Unto all them / that the shall rede</l>
+      <l>Or here / prayenge hem for charite</l>
+      <l>To pardon me of the rudehede</l>
+      <l>Of myne enpryntynge / nat takynge hede</l>
+      <l>And if ought be done to theyr pleasynge</l>
+      <l>Saye they these balades folowynge.</l>
+   </lg>
+   <div type="benedictions">
+      <p>¶ Sancte &amp; indiuidue Trinitate / Iesu Christi crucifixi humanitati gloriose beate Marie virgi<g ref="char:EOLhyphen"/>ni / sit sempiterna gloria / ab omni creatura / per in finita seculorum secula. Amen</p>
+      <lg>
+         <l>¶ Unto the holy and vndeuided Trinite</l>
+         <l>Thre persones in one very godhede</l>
+         <l>To Iesu Christe crucefied humanite</l>
+         <l>And to our blessed ladyes maydenhede</l>
+         <l>Be gyuen laude and glorie in very <gap reason="illegible" resp="#apex" extent="1 word">
+               <desc>〈◊〉</desc>
+            </gap>
+         </l>
+         <l>
+            <pb facs="115"/>Of euery creature / what soeuer he be</l>
+         <l>Worlde withouten ende / Amen saye all we.</l>
+      </lg>
+      <p>¶ Benedictum sit dulcissime nom<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> Iesu Christi / et gloriosissime Marie matris eius <gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>eter<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ū &amp; vl<g ref="char:EOLunhyphen"/>tra. Nos cū {pro}le p<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>a b<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>dicat virgo Maria. Am<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</p>
+      <lg>
+         <l>¶ Blessed be the swettest name of our lorde</l>
+         <l>Iesu Christe / and moste glorious Marie</l>
+         <l>His blessed mother / with eternall accorde</l>
+         <l>More than euer / to endure in glorie</l>
+         <l>And with her meke sone for memorie</l>
+         <l>Blesse vs Marie / the moste holy virgine</l>
+         <l>That we reygne in heuen with the ordres nyne.</l>
+      </lg>
+   </div>
+   <trailer>¶ Here endeth the lyfe of our Lady</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S92272_Fr1_2</idno>
+           <idno type="DLPS">B00007</idno>
+           <idno type="STC">10137</idno>
+           <idno type="ESTC">S92272</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Articles to bee enquired of by the church-wardens and sworne-men within the arch-deaconrie of Barnestaple, in the diocesse of Exeter, in the visitation there holden in the yeare of our Lord God. 1617</title>
+                 <author>Church of England, Archdeaconry of Barnstaple, Archdeacon (1610-1645 : Helyar)</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">T</seg>HE Church-wardens and their Assistants are straight<g ref="char:EOLhyphen"/>ly required to read, or heare red, all these Articles, and diligently to consider of them betweene the time of the deliuery hereof vnto them, and the making of their presentments, for the better discharge of the Oath which they shall receiue.</p>
+</div>
+        </body>
+  </text>
+</TEI>

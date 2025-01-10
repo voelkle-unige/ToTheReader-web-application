@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the kind Reader.</title>
+           <author>Ch, R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106438_Fr1_4</idno>
+           <idno type="DLPS">B12045</idno>
+           <idno type="STC">5119</idno>
+           <idno type="ESTC">S106438</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the kind Reader.</title>
+                 <author>Ch, R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Loues martyr: or, Rosalins complaint· : Allegorically shadowing the truth of loue, in the constant fate of the phoenix and turtle. A poeme enterlaced with much varietie and raritie; now first translated out of the venerable Italian Torquato Cæliano, by Robert Chester. With the true legend of famous King Arthur, the last of the nine worthies, being the first essay of a new Brytish poet: collected out of diuerse authenticall records. To these are added some new compositions, of seuerall moderne writers whose names are subscribed to their seuerall workes, vpon the first subiect: viz. the phoenix and turtle</title>
+                 <author>Chester, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 <publisher>Blount (Blunt), Edward.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>6, 144, 141-183, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the kind Reader.</head>
+   <lg>
+      <l>OF bloudy warres, nor of the sacke of <hi>Troy,</hi>
+      </l>
+      <l>Of <hi>Pryams</hi> murdred sonnes, nor <hi>Didoes</hi> fall,</l>
+      <l>Of <hi>Hellens</hi> rape, by <hi>Paris Troian</hi> boy,</l>
+      <l>Of <hi>Caesars</hi> victories, nor <hi>Pompeys</hi> thrall,</l>
+      <l>Of <hi>Lucrece</hi> rape, being rauisht by a King,</l>
+      <l>Of none of these, of sweete Conceit I sing.</l>
+   </lg>
+   <lg>
+      <l>Then (gentle Reader) ouer-reade my Muse,</l>
+      <l>That armes herselfe to flie a lowly flight,</l>
+      <l>My vntun'd stringed verse do thou excuse,</l>
+      <l>That may perhaps accepted, yeeld delights</l>
+      <l>I cannot clime in praises to the skie,</l>
+      <l>Least falling, I be drown'd with infamie.</l>
+   </lg>
+   <q xml:lang="lat">Mea mecum Porto.</q>
+   <closer>
+      <signed>R. Ch.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

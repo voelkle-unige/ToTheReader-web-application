@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Parr, Elnathan</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114077_Fr1_2_1</idno>
+           <idno type="DLPS">B15167</idno>
+           <idno type="STC">19321</idno>
+           <idno type="ESTC">S114077</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Parr, Elnathan</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A plaine exposition vpon the whole thirteenth, fourteenth, fifteenth, and sixteenth chapters of the Epistle of Saint Paul to the Romanes : Wherein the text is diligently and methodically resolued, the sense giuen, and many doctrines thence gathered, are by liuely vses applied for the benefit of Gods children. Performed with much varietie, and conuenient breuitie, by Elnathan Parr Bachelor in Diuinity, and preacher of Gods word. To which is prefixed an alphabeticall table, containing the chiefe points and doctrines handled in the booke</title>
+                 <author>Parr, Elnathan</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Man, Samuel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>16, 349, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <opener>
+      <salute>SIR;</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">M</seg>Ay it please you once a<g ref="char:EOLhyphen"/>gain to giue me leaue to <hi>Grace</hi> my labours with your <hi>Noble</hi> name, which shall bee to them, as a <hi>Good Light</hi> to a <hi>Picture.</hi>
+   </p>
+   <p>For thereby shall they <hi>appeare</hi> the more <hi>Specta<g ref="char:EOLhyphen"/>ble;</hi> and <hi>bee</hi> the more fa<g ref="char:EOLhyphen"/>uourably <hi>aspected</hi> of the Reader.</p>
+   <pb facs="3"/>
+   <p>I wish that they could <hi>re<g ref="char:EOLhyphen"/>flect,</hi> as much <hi>brightnesse</hi> vp<g ref="char:EOLhyphen"/>on your <hi>Noblenesse,</hi> as they <hi>receiue</hi> splendor from it. But as a glasse more <hi>weakely</hi> re<g ref="char:EOLhyphen"/>turneth the <hi>irradian Beames;</hi> so These.</p>
+   <p>I doe hereby (in what measure I am able) testifie my <hi>thankfulnesse</hi> for <hi>former</hi> Fauours, and beare witnes to your true <hi>Noblenesse;</hi> who haue, <hi>not onely</hi> the <hi>Pictures</hi> of the vertues and graces, (rarely done with your own hand) for the ornament of your house (though many in these daies <hi>virtutem ne pictam quidem viderunt</hi>) But <hi>themselues</hi> by a <hi>heauenly</hi> pen<g ref="char:EOLhyphen"/>cill drawne in the <hi>table</hi> of your heart; which do <hi>ado<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>ne</hi> your life, and make mee to bee</p>
+   <closer>
+      <signed>Yours addicted, in all respectfull obseruance, ELNATHAN PARR.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

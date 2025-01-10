@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Booke to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111431_Ba1_1</idno>
+           <idno type="DLPS">A13762</idno>
+           <idno type="STC">24061</idno>
+           <idno type="ESTC">S111431</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Booke to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The debate betweene Pride and Lowlines, pleaded to an issue in assise : and hovve a iurie vvith great indifferencie being impannelled, and redy to haue geuen their verdict, were straungely intercepted, no lesse pleasant then profitable. F.T. Seene, and allowed</title>
+                 <author>F. T.</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <distributor>Newbery (Nuberie), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1577</date>
+                 </imprint>
+                 <extent>108 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_the_reader">
+   <pb facs="54"/>
+   <head>The Booke to the Reader.</head>
+   <lg>
+      <l>
+         <gap reason="illegible: page cropped" extent="1 letter">
+            <desc>•</desc>
+         </gap>F, gentle Reader, thou haue found in me,</l>
+      <l>Thing which thy stomake hardly can disgest,</l>
+      <l>Here is discribed an Epythyme,</l>
+      <l>
+         <gap reason="illegible: page cropped" extent="1 letter">
+            <desc>•</desc>
+         </gap>arme it and lappe it close vnto thy brest,</l>
+   </lg>
+   <lg>
+      <l>
+         <gap reason="illegible: page cropped" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> was compounded with great diligence,</l>
+      <l>Of Symples by an Apothecary,</l>
+      <l>
+         <gap reason="illegible: page cropped" extent="2+ letters">
+            <desc>••…</desc>
+         </gap>th trustie and skilfull in that Science,</l>
+      <l>And from these iiii. verses doth not vary.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

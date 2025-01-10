@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Whiston, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4062_Fr1_7</idno>
+           <idno type="DLPS">A01637</idno>
+           <idno type="STC">11769.5</idno>
+           <idno type="ESTC">S4062</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Whiston, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The summe of Christian doctrine : written originally in Latine by John Gerhard Doctour in Divinitie; and translated by Ralph Winterton Fellow of Kings Colledge in Cambridge</title>
+                 <author>Gerhard, Johann</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1640</date>
+                 <publisher>Daniel, Roger.</publisher>
+                            <publisher>Hope, William</publisher>
+                        </imprint>
+                 <extent>32, 303, 1 page, 1 leaf of plates, illustrations, 24°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>MOst men that put forth Books have this main art,</l>
+      <l>First for their <hi>Credit,</hi> then their better <hi>Mart,</hi>
+      </l>
+      <l>With <hi>Title</hi> fair, with fine <hi>Inscription</hi>
+      </l>
+      <l>To deck their work their onely <hi>Minion.</hi>
+      </l>
+      <l>This man forsooth with <hi>Antalthea's Horn</hi>
+      </l>
+      <l>Doth of his Book the <hi>Frontispice</hi> adorn:</l>
+      <l>This writes, <hi>A Honycombe:</hi> A third doth call</l>
+      <l>His works the <hi>Pandects,</hi> as comprising all.</l>
+      <l>
+         <hi>The Muses</hi> here the Reader waiting stand</l>
+      <l>There is an <hi>Enchiridion</hi> for his hand.</l>
+      <l>Such Titles serve to please the Readers eye,</l>
+      <l>And strangers do invite the books to buy,</l>
+      <l>But yet (alas!) within what do they find?</l>
+      <l>Scarce ought that can content or ease the mind.</l>
+      <l>The <hi>Pandects</hi> having all, cannot the <hi>Will;</hi>
+      </l>
+      <l>The <hi>Enchiridion</hi> scarce the <hi>Hand</hi> doth fill.</l>
+      <l>The <hi>Hony</hi> cloyes: The <hi>Horn</hi> is quickly dry:</l>
+      <l>At best <hi>The Muses</hi> do but sweetly lie.</l>
+   </lg>
+   <lg>
+      <l>Take then into thy hands <hi>Gerhard</hi> divine,</l>
+      <l>Who saving doctrine hath in every line:</l>
+      <l>He in his text more truth doth comprehend</l>
+      <l>Then others Titles vainly do pretend.</l>
+      <l>In him all Authours are, both new and old,</l>
+      <l>
+         <hi>Fathers</hi> and <hi>School-men,</hi> faithfully caroll'd.</l>
+      <pb facs="11"/>
+      <l>If all these Authours severally do please</l>
+      <l>How then shall he who joyntly hath all these?</l>
+   </lg>
+   <closer>
+      <signed>Henry Whiston, <hi>Fellow of Kings Colledge.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

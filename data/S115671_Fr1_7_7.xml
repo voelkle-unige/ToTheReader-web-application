@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad eundem.</title>
+           <author>Gruterus, Ianus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115671_Fr1_7_7</idno>
+           <idno type="DLPS">A17832</idno>
+           <idno type="STC">4510.8</idno>
+           <idno type="ESTC">S115671</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad eundem.</title>
+                 <author>Gruterus, Ianus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Britain, or A chorographicall description of the most flourishing kingdomes, England, Scotland, and Ireland, and the islands adjoyning, out of the depth of antiquitie : beautified vvith mappes of the severall shires of England: vvritten first in Latine by William Camden Clarenceux K. of A. Translated newly into English by Philémon Holland Doctour in Physick: finally, revised, amended, and enlarged with sundry additions by the said author</title>
+                 <author>Camden, William</author>
+                 <imprint>
+                    <distributor>Latham (Lathum, Lautham), George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 <publisher>Bishop, Elizabeth.</publisher>
+                            <publisher>Kingston, Felix.</publisher>
+                            <publisher>Legat, John 2.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>16, 822, 233, 59 pages, 50 plates, mostly folded, illustrations, maps, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Ad eundem.</head>
+   <l>QVae vix nota sibi fuit antè Britannia, utri{que}</l>
+   <l>Nunc <hi>Camdene,</hi> orbi munere nota tuo est,</l>
+   <l>Ignotae{que} velut fuerat non ulla cupido,</l>
+   <l>Sic modò sic notam mundus uterque cupit.</l>
+   <l>Sed tamen incassum: nimia nam dote superba</l>
+   <l>Indignum nullum non sui amoris habet.</l>
+   <closer>
+      <signed>Ianus Gruterus I.C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

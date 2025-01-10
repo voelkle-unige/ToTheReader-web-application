@@ -1,0 +1,54 @@
+<app-toolbar class="menubar">
+
+    <!-- a href="${app}/index.html" class="logo" data-template="pages:parse-params"/-->
+    <pb-media-query query="min-width: 1024px">
+    
+    <a href="index.html" data-template="pages:parse-params">❧Texts</a>
+    
+    <a href="about_project.html" data-template="pages:parse-params">About the Project</a>
+    
+    <a href="about_texts.html" data-template="pages:parse-params">About the Texts</a>
+        
+        
+       
+        <pb-restricted login="login">
+            <paper-menu-button>
+                <a href="#" slot="dropdown-trigger">
+                    <pb-i18n key="menu.admin.title">Admin</pb-i18n>
+                </a>
+                <paper-listbox slot="dropdown-content">
+                    <paper-item data-template="pages:edit-odd-list"/>
+                    <paper-item>
+                        <pb-download url="api/apps/download">
+                            <pb-i18n key="appgen.xar-download">Download App as .xar</pb-i18n>
+                        </pb-download>
+                    </paper-item>
+                    <paper-item>
+                        <a href="${app}/api.html" data-template="pages:parse-params" target="_blank">API Documentation</a>
+                    </paper-item>
+                </paper-listbox>
+            </paper-menu-button>
+        </pb-restricted>
+    </pb-media-query>
+
+    <!-- Search input -->
+    <pb-search action="search.html" data-template="pages:parse-params" value="${query}" redirect="redirect"/>
+    <pb-media-query query="min-width: 1024px">
+      
+    </pb-media-query>
+    <pb-login id="login" group="tei">
+    </pb-login>
+    <paper-dialog id="downloadDialog">
+        <h2>
+            <pb-i18n key="dialogs.generatingFile">Generating file ...</pb-i18n>
+        </h2>
+        <paper-dialog-scrollable>
+            <pb-i18n key="dialogs.downloadMessage"/>
+        </paper-dialog-scrollable>
+        <div class="buttons">
+            <paper-button dialog-confirm="dialog-confirm" autofocus="autofocus">
+                <pb-i18n key="dialogs.close">Close</pb-i18n>
+            </paper-button>
+        </div>
+    </paper-dialog>
+</app-toolbar>

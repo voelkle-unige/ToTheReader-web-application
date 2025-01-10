@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Id est.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117329_Fr4_4_1</idno>
+           <idno type="DLPS">A02735</idno>
+           <idno type="STC">12866</idno>
+           <idno type="ESTC">S117329</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Id est.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Deaths aduantage little regarded, and The soules solace against sorrow : Preached in two funerall sermons at Childwal in Lancashire at the buriall of Mistris Katherin Brettergh the third of Iune. 1601. The one by William Harrison, one of the preachers appointed by her. Maiestie for the countie palatine of Lancaster, the other by William Leygh, Bachelor of Diuinitie, and pastor of Standish. Whereunto is annexed, the Christian life and godly death of the said gentlevvoman</title>
+                 <author>Harrison, William</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>6, 84, 4, 77, 19, 38 pages, folded table, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epitaph">
+   <head>Id est.</head>
+   <argument>
+      <p>
+         <hi>Katherina, quia Christi sanguine mun<g ref="char:EOLhyphen"/>data, igneaque te<gap reason="illegible" resp="#apex" extent="1 letter">
+               <desc>•</desc>
+            </gap>tationum exploratio<g ref="char:EOLhyphen"/>ne</hi>
+         <note place="margin">Iun. 3. 1601. sepult. trices. primo Maij cum dormi<g ref="char:EOLhyphen"/>uisset.</note>
+         <hi>purgata; Mundis, eodemqus modo purgandis omnibus, tum quae passa est tum etiam eorundem exitum testatissim. cupit.</hi>
+      </p>
+   </argument>
+   <lg>
+      <l>TRue it is I strone: But 'twas against mine enemie.</l>
+      <l>Strongly I struggled; It was my strongest aduersarie.</l>
+      <l>Strongly, not in my selfe, but in my euer-helper strong:</l>
+      <l>Strongly; alas weake woman weakely strong:</l>
+      <l>Strongly, though faintly▪ which was fleshes infirmitie:</l>
+      <l>Strongly, and doubtfully, through my soes lying subtiltie:</l>
+      <l>
+         <pb facs="101"/>Strangely (I grant) till strēgth it selfe in weakenes was s<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>e<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap> strong.</l>
+      <l>And Sauiour mine did in the battailes throng,</l>
+      <l>Plainely display his banner-booke in open field:</l>
+      <l>VVhich seene, mine aduersaries all, gan shrinke, fall, yeeld:</l>
+      <l>So Christ the victor searching the spoi<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>e, taking his pray,</l>
+      <l>Me found for him, tooke to him: So I past from you away.</l>
+      <l>VVitnes hereof my often'pplied faith's confessions:</l>
+      <l>VVitnes my prayers, plain<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>s, tearefull eyes, hart yearning meditatiōs:</l>
+      <l>VVitnes my sweate, strong trembling, thirst, my bi<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ning <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ca<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>e,</l>
+      <l>Peace, ioy, passage; &amp; all harts that present then with mine did beate.</l>
+      <l>But be all silent: One for me the truth will tell:</l>
+      <l>My witnes, now, in heauen, with whom I crowned dwell.</l>
+      <l>And learne by me, with God and's word your childhood to acquaint,</l>
+      <l>Then aged, finally (though hap's at times) you shall not saint.</l>
+   </lg>
+   <epigraph>
+      <q>Si non testantis side, Monentis charitate Moueamini.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the learned Ciuilian, Doctor Iames, Iustice of Peace and Quorum in the Countie of Somerset.</title>
+           <author>Winter, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110634_Ba1_5</idno>
+           <idno type="DLPS">A11404</idno>
+           <idno type="STC">21660</idno>
+           <idno type="ESTC">S110634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the learned Ciuilian, Doctor Iames, Iustice of Peace and Quorum in the Countie of Somerset.</title>
+                 <author>Winter, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third dayes creation. By that most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done verse for verse out of the originall French by Thomas VVinter, Master of Arts</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Clarke, Thomas.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>12, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="25"/>
+   <head>¶ To the learned Ciuilian, Doctor <hi>Iames, Iustice of Peace and Quorum</hi> in the Countie of Somerset.</head>
+   <lg>
+      <l>IF will and skill were true correlatiues.</l>
+      <l>Thy worth should neuer want dese<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>
+         <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>;</l>
+      <l>For in vnflattering superlatiues</l>
+      <l>I would thy vertues tell, thy credit raise.</l>
+   </lg>
+   <lg>
+      <l>Thou floure of courtesie, that dost embrace</l>
+      <l>With both thine armes each wel-deseruing spirit;</l>
+      <l>Heaping the fauours of thy bounteous grace,</l>
+      <l>Where neuer-erring iudgement findeth merit;</l>
+   </lg>
+   <lg>
+      <l>I will not venture in a daring vaine,</l>
+      <l>To reckon vp thy each praise-worthie part;</l>
+      <l>They are too many for so short a straine,</l>
+      <l>But sith my heart is better then my art,</l>
+      <l>Let <hi>Winters</hi> heart obtaine this boone of thee,</l>
+      <l>This Winter-fruit yscorned may not be.</l>
+   </lg>
+   <closer>
+      <signed>T. Winter.</signed>
+   </closer>
+   <epigraph>
+      <q>
+         <lg>
+            <l>Scinduntur vestes, gemmae franguntur &amp; aurum,</l>
+            <l>Carmina quam tribuent fama perennis erit.</l>
+         </lg>
+      </q>
+      <bibl>Ouid. Amor. lib. <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>. Eleg▪ 10.</bibl>
+   </epigraph>
+   <pb facs="25"/>
+</div>
+        </body>
+  </text>
+</TEI>

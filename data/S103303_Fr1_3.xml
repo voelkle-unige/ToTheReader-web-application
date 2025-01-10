@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectori.</title>
+           <author>G., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103303_Fr1_3</idno>
+           <idno type="DLPS">A01846</idno>
+           <idno type="STC">11988</idno>
+           <idno type="ESTC">S103303</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectori.</title>
+                 <author>G., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Reasons metamorphosis, and restauration : Whereunto are annexed two other treatises. viz. 1. Choyce and applications. 2. My friend. By Charles Goldwell Master of Artes, and minister of Gods word</title>
+                 <author>Goldwell, Charles</author>
+                 <imprint>
+                    <publisher>Alsop, Bernard</publisher>
+                    <distributor>Piper (Pyper), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>12, 174, 12, 68, 6, 28 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>Lectori.</head>
+   <lg>
+      <l>
+         <hi>Cum serpentino, mea sit ca<g ref="char:EOLhyphen"/>ro sparso veneno,</hi>
+      </l>
+      <l>
+         <hi>Et mens criminibus, com<g ref="char:EOLhyphen"/>maculate suis.</hi>
+      </l>
+      <l>
+         <hi>Cum nos pelliciant, illecta<g ref="char:EOLhyphen"/>menta, volentes</hi>
+      </l>
+      <l>
+         <hi>Saepe sit &amp; sacro, nunc o<g ref="char:EOLhyphen"/>pus eloquio:</hi>
+      </l>
+      <l>
+         <hi>Hic ege (quem facile scripsit meacura) libellus</hi>
+      </l>
+      <l>
+         <hi>Sit medicina meis, (opto) tuisque malis.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>Thine in the Lord. <hi>C. G.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

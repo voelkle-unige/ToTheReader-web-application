@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           <author>Lewis, </author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103079_Fr1_4</idno>
+           <idno type="DLPS">A05408</idno>
+           <idno type="STC">15560</idno>
+           <idno type="ESTC">S103079</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 <author>Lewis, </author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vnmasking of the masse-priest : vvith a due and diligent examination of their holy sacrifice. By C.A. Shewing how they partake with all the ancient heretiques, in their profane, impious, and idolatrous worship</title>
+                 <author>Lewis, John</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Whitaker, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>10, 233, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Christian Reader.</head>
+   <p>CHristian Reader, the audacious and frequent pra<g ref="char:EOLhyphen"/>ctise of the <hi>Masse-Priests,</hi> in offering their blas<g ref="char:EOLhyphen"/>phemous <hi>Sacrifice;</hi> with the vnsufferable impuden<g ref="char:EOLhyphen"/>cy of the <hi>Romish Laity,</hi> both in conference to iustifie, and by presence to communicate therein; (more especially in our Northerne parts, where I am <hi>Resident)</hi> hath constrai<g ref="char:EOLhyphen"/>ned me to wade into this abstruse <hi>Mystery,</hi> not intending to make it the Worlds common obiect; (as may appeare by the stile,) but rather to furnish my selfe with <hi>Defensiue</hi> and <hi>Offensiue</hi> armour; matter of <hi>answer</hi> and <hi>opposition</hi> in case of encounter. What intention had vowed mine owne, in<g ref="char:EOLhyphen"/>treaty of Friends, and desire of the <hi>Common good,</hi> hath made thine. If thou know the <hi>Author,</hi> censure not his youth (seeing the <hi>scantinesse</hi> of <hi>yeares</hi> is supplied by the <hi>largnesse</hi> of <hi>Industry)</hi> but if thou finde any fruite worth gathering, taste it thankfully, rendring <hi>God</hi> the <hi>glory,</hi> me thy <hi>Prayers.</hi> The solidity of the matter I hope, thou canst not impeach; the plainnesse vsed in <hi>Penning,</hi> with the Faults escaped in <hi>Printing,</hi> I hope thou wilt winke at, Iudge me</p>
+   <closer>
+      <signed>Thine in any Christian seruice: <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>LEVVIS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

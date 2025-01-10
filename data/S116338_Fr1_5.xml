@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad proceres Artis Aesculapij.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116338_Fr1_5</idno>
+           <idno type="DLPS">A11278</idno>
+           <idno type="STC">21544</idno>
+           <idno type="ESTC">S116338</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad proceres Artis Aesculapij.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sicke vvomans private looking-glasse : wherein methodically are handled all uterine affects, or diseases arising from the wombe; enabling women to informe the physician about the cause of their griefe· By Iohn Sadler, Doctor in Physicke at Norwich</title>
+                 <author>Sadler, John</author>
+                 <imprint>
+                    <publisher>Griffin, Anne</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <distributor>Meredith, Christopher</distributor>
+                            <distributor>Stephens, Philemon</distributor>
+                        </imprint>
+                 <extent>24, 164, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_physicians">
+   <pb facs="101"/>
+   <pb facs="101"/>
+   <head>Ad proceres Artis Aesculapij.</head>
+   <p>PRAENOBI<g ref="char:EOLhyphen"/>LEM medi<g ref="char:EOLhyphen"/>cinae Artem ignobili pro<g ref="char:EOLhyphen"/>ferre vulgo, opus hand di<g ref="char:EOLhyphen"/>gnum hodie non immerito ex<g ref="char:EOLhyphen"/>istimetur. Vos igitur qui hujus art is illustrissime est is professo<g ref="char:EOLhyphen"/>res, me fortean subinsullie esse ani<g ref="char:EOLhyphen"/>mi censeatis; qui artem hanc in<g ref="char:EOLhyphen"/>cly<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>am gregalibus verbis dede<g ref="char:EOLhyphen"/>coravi: quod ne putetis, causam in lemeam coram vobis veniâ ve<g ref="char:EOLhyphen"/>strâ sic agam. Sciatis vellem, quòd ego opusculo hoc meo pro<g ref="char:EOLhyphen"/>mulgando faemininum solum<g ref="char:EOLhyphen"/>modò
+<pb facs="102"/>
+sexum instit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ere decrevi: vestra proin lenitudo &amp; benevolentia (spero) conamen istud meum (licèt squalidum) abs{que} inusto stigmate in lucem prodire pati<g ref="char:EOLhyphen"/>entur. Hoc{que} confido magis, quip<g ref="char:EOLhyphen"/>pe quod <hi>Hippocrates,</hi> qui mihi exemplar est, honoratissimus de hoc subjecto nonnulla vulgo exarata dedit. Et de materia si quaeratur, hanc, ingenuè fate<g ref="char:EOLhyphen"/>or, me ex authoribus tum anti<g ref="char:EOLhyphen"/>quis tum modernis excerpsisse totam: circa quam, si errorem quendam inscius aut incautus expromere videar, suppliciter peto eundem mihi denudatum fieri, &amp; ipsum elimare conabor serio. At si codicillus iste meus incultus iudicio vestro (uti spe<g ref="char:EOLhyphen"/>ro) inculpatus vixerit; cle<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ia vestra me vinculo obser<g ref="char:EOLhyphen"/>vantiae vobis devinctum habe<g ref="char:EOLhyphen"/>bit imperpetuum. Et quod ad
+<pb facs="102"/>
+Momum attinet (cui calumni<g ref="char:EOLhyphen"/>andi &amp; maledicendi prurigo semper inhaeret) flocci pendo, quamvis fungus iste sannis &amp; scommatibus hunc meum exer<g ref="char:EOLhyphen"/>ceat laborem: quem scire vel<g ref="char:EOLhyphen"/>lem, suam de me sententiam inanem prorsus, levem{que} du<g ref="char:EOLhyphen"/>cere. Tumescat ideo invidiâ do<g ref="char:EOLhyphen"/>nec disrumpatur odio: mihi cu<g ref="char:EOLhyphen"/>rae est honos non offendere &amp; ig<g ref="char:EOLhyphen"/>norantes informare. Hic sco<g ref="char:EOLhyphen"/>pus. Hic saltus. Hic pes <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>igen<g ref="char:EOLhyphen"/>dus.</p>
+   <closer>
+      <signed>Ornato</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

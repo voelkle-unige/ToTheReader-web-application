@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author To The Reader]</title>
+           <author>Tounshend, Aurelian</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121944_Ba1_1</idno>
+           <idno type="DLPS">A13846</idno>
+           <idno type="STC">24155</idno>
+           <idno type="ESTC">S121944</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author To The Reader]</title>
+                 <author>Tounshend, Aurelian</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Albions triumph : Personated in a maske at court. By the Kings Maiestie and his lords. The Sunday after Twelfe Night. 1631</title>
+                 <author>Townshend, Aurelian</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>2, 22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb n="22" facs="13"/>
+   <p>Those that will prayse the structure and chan<g ref="char:EOLhyphen"/>ges of the Scene. The sweetenesse and variety of the Musicke. Or the Beauty of the Figures, and Paces, I thinke may doe it with cause enough.</p>
+   <p>But for the Invention and writing of the Maske, I was as loath to be brought vpon the Stage as an vnhansom Man is to see himselfe in a great Glasse. But my Excuse, and Glory is, The King commanded, and I obeyed.</p>
+   <closer>
+      <signed>AVRELIAN TOVNSHEND.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

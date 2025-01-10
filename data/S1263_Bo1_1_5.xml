@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata corrigenda ope Registri.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1263_Bo1_1_5</idno>
+           <idno type="DLPS">A09452</idno>
+           <idno type="STC">19735</idno>
+           <idno type="ESTC">S1263</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata corrigenda ope Registri.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Prophetica, sive De sacra et vnica ratione concionandi tractatus</title>
+                 <author>Perkins, William</author>
+                 <imprint>
+                    <publisher>Legat (Legate, Legatt), John 1</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1592</date>
+                 </imprint>
+                 <extent>116 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Errata corrigenda ope Registri.</head>
+   <p>E. 1. b. linea 2. <hi>prophanatum est,</hi> sed <hi>coeptum est.</hi> &amp; l. 3. dele <hi>procedit</hi> &amp; pone <hi>sequitur.</hi> E. 6. b. l. 10. <hi>compun<g ref="char:EOLhyphen"/>cti.</hi> F. 1. a l. 8. dele periodum. F. 2. b. l. 13. dele <hi>in.</hi> G. 4. a. l. 12. <hi>accendat.</hi>
+   </p>
+   <q>Caetera quae occurrunt, errata; quia sensum non corrumpunt, aliis corrigenda relinquimus.</q>
+</div>
+        </body>
+  </text>
+</TEI>

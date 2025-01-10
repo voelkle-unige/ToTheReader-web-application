@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117046_Ba1_3</idno>
+           <idno type="DLPS">A68720</idno>
+           <idno type="STC">22172.3</idno>
+           <idno type="ESTC">S117046</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of tithes : that is, the practice of payment of them. The positiue laws made for them. The opinions touching the right of them. A review of it. is also annext, which both confirmes it and directs in the vse of it. By I. Selden</title>
+                 <author>Selden, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>6, xxii, 12, 491, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <head>The Printer to the Reader</head>
+   <p>AS I found the Copie partly Printed partly Writen, so is this done off; sauing only where those faults, and perhaps some other which your courtesie, Reader, may amend) are committed. Neither thought I it fit to alter any thing without the Autors presence, whence euen the syllables of those passages in which mention was as if it were yet but in part only printed (as my Copie was) are al<g ref="char:EOLhyphen"/>so retained.</p>
+   <pb facs="269"/>
+</div>
+        </body>
+  </text>
+</TEI>

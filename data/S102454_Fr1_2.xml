@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Pio lectori.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1567</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102454_Fr1_2</idno>
+           <idno type="DLPS">A01080</idno>
+           <idno type="STC">11194</idno>
+           <idno type="ESTC">S102454</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Pio lectori.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A learned commendation of the politique lawes of Englande : vvherin by moste pitthy reasons [and] euident demonstrations they are plainelye proued farre to excell aswell the ciuile lawes of the Empiere, as also all other lawes of the world, with a large discourse of the difference betwene the. ii. gouernements of kingdomes: whereof the one is onely regall, and the other consisteth of regall and polityque administration conioyned. Written in latine aboue an hundred yeares past, by the learned and right honorable maister Fortescue knight, lorde chauncellour of Engla [n] d in [the] time of Kinge Henrye the. VI. And newly translated into Englishe by Robert Mulcaster</title>
+                 <author>Fortescue, John, Sir</author>
+                 <imprint>
+                    <publisher>Tottell (Tathyll, Tothill, Tottyl), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1567</date>
+                 </imprint>
+                 <extent>1, 132, 3 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>Pio lectori.</head>
+   <p>
+      <seg rend="decorInit">I</seg>Stius non minus pij, quá eruditi opusculi exemplar, nactus: quū antiquitatem venerandam, vna cum eruditione ac pietate con<g ref="char:EOLhyphen"/>iunxcrim: Non potui optime lec<g ref="char:EOLunhyphen"/>tor, aut patrie tam ingratus, aut antiquitatis tam in officiosus cultor esse, vt te illius lectio<g ref="char:EOLhyphen"/>ne diutius fraudarem. Continet enim in se (vt cetera taceam) politicarum et ciuilium nostre Anglie legum, quibus preclara et florentissi<g ref="char:EOLhyphen"/>ma hec respublica sub illustrissimo et nūquam satis laudato principe nostro Rege Henrico octauo, eius{que} progenitoribus regibus Anglie hactenus felicissime fuerit erecta, instituta, &amp; gubernata, doctissimum encomion. Vnde eas<g ref="char:EOLunhyphen"/>dem nostras leges, non solum romanorum Cesarum, sed et omnium aliarum nationum constitutiones, multis parasangis, prudentia iustitia &amp; equitate precellere, facile prespici<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s. Eme ergo, lege, et fruere, ac labores no<g ref="char:EOLhyphen"/>stros boni consule.</p>
+   <closer>Vale.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>SONNET.</title>
+           <author>M., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109108_Fr1_7</idno>
+           <idno type="DLPS">A04254</idno>
+           <idno type="STC">14373</idno>
+           <idno type="ESTC">S109108</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>SONNET.</title>
+                 <author>M., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The essayes of a prentise, in the diuine art of poesie</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <publisher>Vautrollier, Thomas 1</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="sonnet">
+   <pb facs="4"/>
+   <head>SONNET.</head>
+   <l>CAN goldin <hi>Titan</hi> shyning bright at morne</l>
+   <l>For light of Torchis, cast ane greater shaw?</l>
+   <l>Can <hi>Thunder</hi> reard the heicher for a horne?</l>
+   <l>Craks <hi>Cannons</hi> louder, thoght ane <hi>Cok</hi> sould craw?</l>
+   <l>Can our weake breath help <hi>Boreas</hi> for to blaw?</l>
+   <l>Can <hi>Candill</hi> lowe giue fyre a greater heit?</l>
+   <l>Can quhytest <hi>Svvans</hi> more quhyter mak the Sn<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>vv?</l>
+   <l>Can <hi>Virgins</hi> teares augment the <hi>Vinters</hi> weit?</l>
+   <l>Helps pyping <hi>Pan Apollos</hi> Musique sweit?</l>
+   <l>Can <hi>Fountanis</hi> small the <hi>Ocean sea</hi> incresse?</l>
+   <l>No, they augment the greater nocht a quheit:</l>
+   <l>Bot they them selues appears to grow the lesse.</l>
+   <l>So (worthy Prince) thy works sall mak the knawin.</l>
+   <l>Ours helps not thyne: we steynʒie bot our awin.</l>
+   <signed>A. M.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

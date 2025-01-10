@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO HIS SACRED MAIESTIE.</title>
+           <author>Gunter, Edmund</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103563_Fr1_2</idno>
+           <idno type="DLPS">A02394</idno>
+           <idno type="STC">12524</idno>
+           <idno type="ESTC">S103563</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO HIS SACRED MAIESTIE.</title>
+                 <author>Gunter, Edmund</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The description and vse of his Maiesties dials in VVhite-Hall Garden</title>
+                 <author>Gunter, Edmund</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 <publisher>Bill, John 1.</publisher>
+                            <publisher>Norton, Bonham</publisher>
+                        </imprint>
+                 <extent>4, 59, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO HIS SACRED MAIESTIE.</head>
+   <opener>
+      <salute>SIR,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>T was the motion of many Honorable Personages, and the speciall direction of the Prince his Highnesse, that J should write <hi>the Description and Vse</hi> of such Lines, as I had drawen on Your <hi>MAIESTIES</hi> Dials in <hi>White-Hall</hi> Garden.</p>
+   <p>J haue endeauoured to giue satis<g ref="char:EOLhyphen"/>faction vnto all: To Your Maiestie, and his Highnesse, by the manuscript which J deliuered; And that, be<g ref="char:EOLhyphen"/>ing here Printed by order from Your Maiestie, may be satisfaction for them also, which haue accesse into the
+<pb facs="3"/> Garden. For others (studious of <hi>Mathematicall</hi> Practise) J haue Painted the <hi>Generall Description</hi> of these and such like Lines, on all sorts of Planes; together with some Vses of <hi>Astronomie</hi> in Nauiga<g ref="char:EOLhyphen"/>tion.</p>
+   <p>J humbly entreat Your Maiestie to accept these poore fruits of my younger Studies, when J was Your Maiesties Scholler in <hi>Westminster</hi> and <hi>Christchurch:</hi> and I shall be ready to doe all seruice in this kinde, or better in the Church, as Your Ma<g ref="char:EOLhyphen"/>iesty shall be pleased to thinke me wor<g ref="char:EOLhyphen"/>thy, in the name of</p>
+   <closer>
+      <signed>
+         <hi>Your MAIESTIES most thankefull Scholler, and obedient Subiect,</hi> Edm. Gunter.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

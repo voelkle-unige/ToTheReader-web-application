@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121250_Fr1_5</idno>
+           <idno type="DLPS">A01342</idno>
+           <idno type="STC">11464</idno>
+           <idno type="ESTC">S121250</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of the holy vvarre : by Thomas Fuller, B.D. prebendarie of Sarum, late of Sidney Colledge in Cambridge</title>
+                 <author>Fuller, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1639</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Williams, John</publisher>
+                        </imprint>
+                 <extent>16, 286, 30 pages, 2 leaves of plates (1 folded), illustrations, map, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>N this work I can challenge nothing to my self, but the composing of it. The materialls were found to my hand: which if any Historian will make, let him not be commended for wit, but shamed for falshood. If every-where I have not charged the margin with the Authours names, it is either because the storie is authour for it self (I mean, generally received) or to avoyd the often citing of the same place. Where I could not go abroad my self, there I have taken aire at the window, and have cited Authours on others citations; yet so that the stream may di<g ref="char:EOLhyphen"/>rect to the fountain.</p>
+   <p>If the reader may reap in few houres what cost me more moneths, just cause have I to rejoyce, and he (I hope) none to com<g ref="char:EOLhyphen"/>plain. Thus may the faults of this book redound to my self, the profit to others, the glory to God.</p>
+</div>
+        </body>
+  </text>
+</TEI>

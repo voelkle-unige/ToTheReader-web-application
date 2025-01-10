@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116654_Fr1_4</idno>
+           <idno type="DLPS">A11481</idno>
+           <idno type="STC">21732</idno>
+           <idno type="ESTC">S116654</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Prudence the first of the foure cardinall virtues. Written by Sr. Miles Sandis, Kt</title>
+                 <author>Sandys, Miles, Sir</author>
+                 <imprint>
+                    <publisher>Sheares, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>44, 253, 11 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="21"/>
+   <pb facs="21"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">R</seg>Eader,</hi> I here send forth Prudence to your view; if you bee wise, you may embrace it, Jf not, you may let it alone. If you commend it, I am not therewith puffed up: If you dispraise it, I am not therewith dejected. An Essay it is of some few stolne houres, that might have beene otherwise lost,
+<pb facs="22"/> or worse spent: And if distastfull Critickes shall mis-interpret the innocen<g ref="char:EOLhyphen"/>cie of my harmlesse mea<g ref="char:EOLhyphen"/>ning, I shall but reply, and play with their sporting Censures, as doth <hi>Ben Iohnson</hi> in his Play-workes.</p>
+   <lg>
+      <l>Their Praise or Dispraise is to me alike,</l>
+      <l>Th'one doth not stroake me, nor the other strike.</l>
+   </lg>
+   <closer>
+      <signed>M. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

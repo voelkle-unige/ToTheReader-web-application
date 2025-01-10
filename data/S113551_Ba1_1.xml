@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           <author>Delamain, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113551_Ba1_1</idno>
+           <idno type="DLPS">A08608</idno>
+           <idno type="STC">18919.3</idno>
+           <idno type="ESTC">S113551</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 <author>Delamain, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The bloody dovvnfall of adultery. murder, ambition : at the end of which are added Westons, and Mistris Turners last teares, shed for the murder of Sir Thomas Ouerbury poysoned in the Tower; who for the fact, suffered deserued execution at Tiburne the 14. of Nouember last 1615</title>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Higgenbotham, Richard 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <opener>
+      <salute>REaders</salute>
+   </opener>
+   <p>you that are desirous to see the Reward of the Adulterer and the Adulteresse, paid by Gods owne hand: there is a little Table, called the <hi>Spectacles,</hi> where you may Read them more at Large.</p>
+   <pb facs="16"/>
+</div>
+        </body>
+  </text>
+</TEI>

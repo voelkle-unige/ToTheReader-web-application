@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Vniuersitie of Cambridge.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102718_Fr1_3</idno>
+           <idno type="DLPS">A16269</idno>
+           <idno type="STC">3189.5</idno>
+           <idno type="ESTC">S102718</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Vniuersitie of Cambridge.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Bel-vedére or The garden of the Muses</title>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Astley, Hugh</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>10, 236, 20 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Vniuersitie of Cambridge.</head>
+   <lg>
+      <l>Mother of Muses, and great Nurse of Art,</l>
+      <l>Which lent'st the roote from whence these sweets are grown,</l>
+      <l>Now with increase, receiue a bounteous part,</l>
+      <l>Which thou mayst iustly chalenge as thine owne:</l>
+      <l>That <hi>Grant</hi> may to the comfort of her streames</l>
+      <l>Behold her (Seedes of late) now Dulcet flowres,</l>
+      <l>And with the plentie of the famous <hi>Thames,</hi>
+      </l>
+      <l>Attyre her Nymphs, and decke her watry bowres</l>
+      <l>And cherishing these Choyces of delights,</l>
+      <l>With daintie Garlands, Crowne the peacefull shore,</l>
+      <l>Prepard for Feasting, and Triumphant sights,</l>
+      <l>More Beautifull than ages heretofore:</l>
+      <l>Whil'st all the Floods so famous but of late,</l>
+      <l>Shall giue their glorie to adorne her state.</l>
+   </lg>
+   <closer>Sua cuique gloria.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

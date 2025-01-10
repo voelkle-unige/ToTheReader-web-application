@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD MONACHOS Admonitio.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112003_Fr1_5</idno>
+           <idno type="DLPS">A10133</idno>
+           <idno type="STC">20390</idno>
+           <idno type="ESTC">S112003</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD MONACHOS Admonitio.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Iacobs vovv, opposed to the vowes of monkes and friers : The first volume in two bookes; of the Holy Scripture, and euangelicall counsels. Written in French by Mr. Gilbert Primerose, minister of the word of God in the Reformed Church of Burdeaux. And translated into English by Iohn Bulteel minister of the gospel of Iesus Christ</title>
+                 <author>Primrose, Gilbert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Newbery, Nathaniel</publisher>
+                        </imprint>
+                 <extent>24, 176, 175-237, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="14"/>
+   <head>AD MONACHOS Admonitio.</head>
+   <lg>
+      <l>HIc discipatis nubibus Sol enitet,</l>
+      <l>Non iste, lucem corpori qui sufficit,</l>
+      <l>Sed qui tenebras mentis, illico fugat:</l>
+      <l>Hic scena fraudum tota, hic mysteria</l>
+      <l>Reclusa fictae sanctimoniae patent.</l>
+      <l>Deuota turba belluae teterrimae</l>
+      <l>Quae vaticani montis incubat iugo,</l>
+      <l>Exosa coelo, orbigranis, grata inferis,</l>
+      <l>Procul hinc facesse: Nam tibi certissima</l>
+      <l>Mors hic paratur: Ista si perlegeris,</l>
+      <l>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>re victa non potes non emori.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

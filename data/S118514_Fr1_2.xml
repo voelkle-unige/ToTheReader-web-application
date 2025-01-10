@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118514_Fr1_2</idno>
+           <idno type="DLPS">A13842</idno>
+           <idno type="STC">24148</idno>
+           <idno type="ESTC">S118514</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A funerall poeme. Vpon the death of the most vvorthie and true souldier; Sir Francis Vere, Knight. Captaine of Portsmouth, &amp;c. L. Gouernour of his Maiesties cautionarie towne of Briell in Holland, &amp;c</title>
+                 <author>Tourneur, Cyril</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Edgar, Eleazar</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>DEDICATED TO HIS <hi>LIVING MEMORIE;</hi> WHICH ASCENDS <hi>TO THE INHERENT</hi> HONOVR OF THE HEROYQVE HOPE OF NOBILITIE, THE <hi>EARLE OF OXFORD,</hi> &amp;c. FROM WHOSE NOBLE FAMILIE, <hi>THIS IMMORTALL WOR<g ref="char:EOLhyphen"/>THIE, HATH THE HO<g ref="char:EOLhyphen"/>NOVR TO BE Descended.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

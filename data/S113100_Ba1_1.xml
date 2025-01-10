@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Author ad librum vt alibi Rossus.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113100_Ba1_1</idno>
+           <idno type="DLPS">A08017</idno>
+           <idno type="STC">18382</idno>
+           <idno type="ESTC">S113100</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Author ad librum vt alibi Rossus.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Quaternio or A fourefold vvay to a happie life : set forth in a dialogue betweene a countryman and a citizen, a divine and a lawyer. Per Tho: Nash philopolitem</title>
+                 <author>Nash, Thomas</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>16, 280 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_book">
+   <div type="part">
+      <head>¶ Author ad librum vt alibi Rossus.</head>
+      <l>Vade nec horrescas quocùn{que} vagaris in orbe,</l>
+      <l>Forte superstes eris me moriente liber;</l>
+      <l>Nec metuas de te quid dixerit iste, vel ille,</l>
+      <l>Arbitrij dominus stat sibi quis{que} sui.</l>
+   </div>
+   <div type="part">
+      <head>Idem de eodem.</head>
+      <p>Si fortètantum commeritus fuero, vt inter multitudinem pauci, aut inter paucos, saltem vnus, in Labyrinthaeis viae &amp; vitae suae anfractibus &amp; maeandris, per hanc me<g ref="char:EOLhyphen"/>am Quaternionem rectè edoctus at{que} instructus esse sibi videatur, erit (vt fuit olim Antimacho Poetae <hi>Plato</hi>) solus ille instar omnium.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

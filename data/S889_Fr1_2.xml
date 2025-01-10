@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Worshipfull, Sir THOMAS SMITH, of London Knight, one of his Maiesties Councell for VIRGINIA, and Treasurer for the Colonie, and Gouernour of the Companies of the MOSCOVIA and East INDIA Merchants Peace, health and happinesse in CHRIST.</title>
+           <author>I., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S889_Fr1_2</idno>
+           <idno type="DLPS">A04581</idno>
+           <idno type="STC">14699.5</idno>
+           <idno type="ESTC">S889</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Worshipfull, Sir THOMAS SMITH, of London Knight, one of his Maiesties Councell for VIRGINIA, and Treasurer for the Colonie, and Gouernour of the Companies of the MOSCOVIA and East INDIA Merchants Peace, health and happinesse in CHRIST.</title>
+                 <author>I., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Noua Britannia : Offering most excellent fruites by planting in Virginia. Exciting all such as be well affected to further the same</title>
+                 <author>Johnson, Robert</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Macham, Samuel 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Worshipfull, Sir <hi>THOMAS SMITH,</hi> of London Knight, one of his Maiesties Councell for VIRGINIA, and Treasurer for the Colonie, and Gouernour of the Companies of the MOSCOVIA and East INDIA Merchants Peace, health and happinesse in CHRIST.</head>
+   <opener>
+      <salute>Right worshipfull Sir,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">F</seg>Orasmuch as I haue alwayes obserued your honest zeale to God, accom<g ref="char:EOLhyphen"/>panied with so excellent carri<g ref="char:EOLhyphen"/>age and resolu<g ref="char:EOLhyphen"/>tion, in actions of best consequence,
+<pb facs="3"/>
+I cannot but discouer vnto you for your further encouragement, the summe of a priuate speech or dis<g ref="char:EOLhyphen"/>course, touching our plantation in <hi>Virginia,</hi> vttered not long since in <hi>London,</hi> where some few Aduentu<g ref="char:EOLhyphen"/>rers (well affecting the enterprise) being met together touching their intended proiect, one among the rest stood vp and be<g ref="char:EOLhyphen"/>gan to relate (in effect) as followeth.</p>
+   <closer>
+      <signed>R. I.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

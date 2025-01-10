@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107002_Fr1_2</idno>
+           <idno type="DLPS">A01004</idno>
+           <idno type="STC">11110.7</idno>
+           <idno type="ESTC">S107002</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>God and the king. Or a dialogue wherein is treated of allegiance due to our most gracious Lord, King Iames, within his dominions : Which (by remouing all controuersies, and causes of dissentions and suspitions) bindeth subiects, by an inuiolable band of loue &amp; duty, to thei soueraigne. Translated out of Latin into English</title>
+                 <author>Floyd, John</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>140, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>THE former Dialogue, set forth vnder thi<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> same Title, <hi>GOD AND THE KING</hi> (the persons of the same being <hi>Theodidactus</hi> and <hi>Philalethes,</hi> the first signifiyng <hi>One taught of God,</hi> the other, <hi>A louer of Truth</hi>) did <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>eed explication in di<g ref="char:EOLhyphen"/>uers poynts, aswell in regard of the verity of the discourse, as also for the more safty both of Kings and their Kingdomes. VVherfore it was thought good, that in this present Dialogue two other persons should treate of the same subiect, <hi>Aristobulus,</hi> that is, <hi>A good Coūsellour,</hi> and <hi>Philanax, A Louer of Kinges</hi>: of which the one wisheth all good vnto Kinges; the other suggesteth what he iudgeth best for their State. And so in few wordes (gentle Reader) thou hast the scope of both Dialogues. Fare<g ref="char:EOLhyphen"/>well.</p>
+</div>
+        </body>
+  </text>
+</TEI>

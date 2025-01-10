@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100220_Fr3_2</idno>
+           <idno type="DLPS">A21090</idno>
+           <idno type="STC">7451</idno>
+           <idno type="ESTC">S100220</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A true relation of the vniust, cruell, and barbarous proceedings against the English at Amboyna in the East-Indies, by the Neatherlandish gouernour and councel there : Also the copie of a pamphlet, set forth first in Dutch and then in English, by some Neatherlander; falsl entituled, A true declaration of the newes that came out of the East-Indies, with the pinace called the Hare, which arriued at Texel in Iune, 1624. Together with an answer to the same pamphlet. By the English East-India companie. Published by authoritie</title>
+                 <author>Skinner, John, Sir</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Newbery, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>12, 30, 2, 31-38, 2, 20, 2, 34 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="27"/>
+   <opener>
+      <salute>Right Worshipf<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ll, and Worthy SIR.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>He great outcryes which haue beene made in <hi>England,</hi> vpon the last newes which came out of the <hi>East-Indies,</hi> about a certayne ex<g ref="char:EOLhyphen"/>ecution which was done in the Iland of <hi>Am<g ref="char:EOLhyphen"/>boyna,</hi> in <hi>March, 1623.</hi> because we see the great desire that your Worship hath, to keep good correspondence betwixt these <hi>two Nations,</hi> it hath caused me (beyond my owne curiosity) to search &amp; inq<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>ire after theright &amp; true beginnings, procedings, and issues of these affaires, vpon which this execution followed. Wherein, I per<g ref="char:EOLhyphen"/>swade my selfe, I haue attained good successe, by such meanes as I haue vsed, and by my good acquaintance, so that (at the last) I am come to the cleare light of the matter▪ partly by the letters that haue beene sent home, to the <hi>Company</hi> here, and declared to the <hi>States Generall,</hi> as also by a particular examination of the pro<g ref="char:EOLhyphen"/>cesse made against them in <hi>Amboyna,</hi> before their execution, and sent ouer hither, in writing, which at this present hath caused mee to write this vnto your <hi>Worship,</hi> that so, the truth may bee made knowne concerning this busines in all places, where your Worthynes, and respect, can, or may bring it to passe; that so your <hi>Worship,</hi> and all true well willers (of our Countrey,) may be no otherwise thought of than wee deserue.</p>
+</div>
+        </body>
+  </text>
+</TEI>

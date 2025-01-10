@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A translation made ex tempore by Mr Edm. Spenser upon this distich, written on a Booke belonging to the right honorable Richard Earle of Corke, &amp;c.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118078_Ba1_8</idno>
+           <idno type="DLPS">A14770</idno>
+           <idno type="STC">25067</idno>
+           <idno type="ESTC">S118078</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A translation made ex tempore by Mr Edm. Spenser upon this distich, written on a Booke belonging to the right honorable Richard Earle of Corke, &amp;c.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tvvo histories of Ireland : The one written by Edmund Campion, the other by Meredith Hanmer Dr of Divinity</title>
+                 <author>Campion, Edmund, saint</author>
+                 <imprint>
+                    <pubPlace>Ireland--Dublin</pubPlace>
+                    <date>1633</date>
+                 <publisher>Harper, Thomas.</publisher>
+                            <publisher>Lownes, Matthew.</publisher>
+                            <publisher>Stationers’ Society, Dublin</publisher>
+                        </imprint>
+                 <extent>12, 138, 2, 219, 221-223, 2, 8, 127, 9 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="265"/>
+   <head>A translation made <hi>ex tempore</hi> by M<seg rend="sup">r</seg>
+      <hi>Edm. Spenser</hi> upon this distich, written on a Booke belonging to the right honorable <hi>Richard Earle</hi> of <hi>Corke,</hi> &amp;c.</head>
+   <lg>
+      <l>NVlla dies pereat, pereat pars nulla die<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Ne tu sic pereas, ut periêre dies.</l>
+   </lg>
+   <lg>
+      <l>LEt no day passe, passe no part of the day,</l>
+      <l>Lest thou doe passe, as dayes doe passe away.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

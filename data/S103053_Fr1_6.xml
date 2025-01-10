@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Librum.</title>
+           <author>Kedgewin, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103053_Fr1_6</idno>
+           <idno type="DLPS">A68869</idno>
+           <idno type="STC">25224</idno>
+           <idno type="ESTC">S103053</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Librum.</title>
+                 <author>Kedgewin, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Epigrammes in the oldest cut, and newest fashion : A twise seuen houres (in so many weekes) studie no longer (like the fashion) not vnlike to continue. The first seuen. Iohn Weeuer</title>
+                 <author>Weever, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Bushell, Thomas.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                        </imprint>
+                 <extent>110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>Ad Librum.</head>
+   <lg>
+      <l>So great a sence withing in so short a verse,</l>
+      <l>So great a worke within so short a space,</l>
+      <l>So great aduise to find in so few yeares,</l>
+      <l>Addes fame to <hi>Grant,</hi> and thee to Muses race.</l>
+   </lg>
+   <lg>
+      <l>These Epigrams the buds of thy first spring,</l>
+      <l>Shew what thy leaues in summer time will be,</l>
+      <l>For more they do sprout forth, the more thou sing</l>
+      <l>That th'after age thy wit may verifie,</l>
+      <l>Thus <hi>Grant</hi> is made <hi>Pyrene</hi> our willowes baies</l>
+      <l>This Booke the honor of thy yong wise daies.</l>
+   </lg>
+   <closer>
+      <signed>Tho: Kedgewin Gent.</signed>
+   </closer>
+   <epigraph>
+      <q>Vincit qui patitur.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Whitaker, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121921_Fr1_3</idno>
+           <idno type="DLPS">A15050</idno>
+           <idno type="STC">25354</idno>
+           <idno type="ESTC">S121921</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Whitaker, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Good nevves from Virginia : Sent to the Counsell and Company of Virginia, resident in England. From Alexander Whitaker, the minister of Henrico in Virginia. Wherein also is a narration of the present state of that countrey, and our colonies there. Perused and published by direction from that Counsell. And a preface prefixed of some matters touching that plantation, very requisite to be made knowne</title>
+                 <author>Whitaker, Alexander</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Welby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>28, 44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="14"/>
+   <pb facs="14"/>
+   <opener>
+      <salute>TO THE RIGHT WORSHIPFVLL SIR THOMAS SMITH, KNIGHT, TREA<g ref="char:EOLhyphen"/>surer of the English Colonie in Virgi<g ref="char:EOLhyphen"/>nia: Grace and Peace be mul<g ref="char:EOLhyphen"/>tiplied.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Worshipfull, the noblest at<g ref="char:EOLhyphen"/>tempts haue alwaies had the most doubtfull beginnings, most dan<g ref="char:EOLhyphen"/>gerous enemies. For wheresoeuer any goodnesse shall begin to bud forth, the Diuell will labour by all meanes to nip it in the head. Wherefore, I doe not maruell though there haue been great discouragements, and many aduersaries of this Plantation. For the Diuell knowing that where Christ wins, he loseth, doth with all his might and policie hinder the publishing, and propagation of the Gospell. Such was his practise to discourage the Israelites from the conquest of Canaan, raising vp ten of their owne Princes, that weakened the hands of their brethren. By his meanes also there stood vp some of the Disciples that spake against <hi>Peter,</hi> for preaching the Gospell to the Gentiles. Yea, God himselfe of purpose suffers the diuell to
+<pb facs="15"/>
+rage thus for a while, that those that are his, might bee tried. And this hath been the case hitherto of this godly Plantation, this the successe. But since the affaires of this Colony haue now taken better footing, &amp; are aduanced by the helpes of so many honorable Aduenturers, I was great<g ref="char:EOLhyphen"/>ly emboldened to write these few lines of exhortation, to encourage the noble spirits of so many worthy men, to goe forward in wel-doing▪ Wherefore (honored Sir) since all the dispatches of our affaires passe thorough your hands, I request you to accept of my poore endeauours, and to pub<g ref="char:EOLhyphen"/>lish it to the view of our Aduenturers, that the preiudi<g ref="char:EOLhyphen"/>cate opinion of some, and the disheartened mind of others may be reformed. The God of heauen and earth crowne your vndanted spirit with his heauenly reward. And <hi>Let the beautie of the Lord our God be vpon vs: and direct thou the workes of our hands vpon vs, euen direct thou our handie workes.</hi>
+   </p>
+   <closer>
+      <dateline>From <hi>Henrico,</hi>
+         <date>this <hi>28.</hi> of Iuly, <hi>1612.</hi>
+         </date>
+      </dateline>
+      <signed>He that daily prayeth for the prosperitie of this Plantation. ALEXANDER WHITAKER.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

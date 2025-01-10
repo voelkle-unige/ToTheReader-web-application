@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116238_Ba1_1</idno>
+           <idno type="DLPS">A20671</idno>
+           <idno type="STC">7072.3</idno>
+           <idno type="ESTC">S116238</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An humble appeale to the Kings most excellent Maiestie : Wherein is proued, that our Lord and Sauiour Iesus Christ, was authour of the Catholike Roman faith, which Protestants call Papistrie. Written by Iohn Hunt, a Roman Catholike, in defence of his religion against the calumniations and persecutions of Protestant ministers. Printed with permission of Superiours</title>
+                 <author>Doughty, Thomas</author>
+                 <imprint>
+                    <publisher>Birchley Hall Press</publisher>
+                    <pubPlace>Great Britain--England--Lancashire</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>8, 86, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>The faults escaped I leaue to the courteous Reader to correct.</p>
+   <pb facs="49"/>
+</div>
+        </body>
+  </text>
+</TEI>

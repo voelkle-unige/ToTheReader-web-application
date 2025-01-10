@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103890_Ba1_1</idno>
+           <idno type="DLPS">A09313</idno>
+           <idno type="STC">19622b.5</idno>
+           <idno type="ESTC">S103890</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The letters patents of the presbyterie : vvith the plea and fruits of the prelacie. Manifested out of the scriptures, fathers, ecclesiasticall histories, Papists, and sundrie other authors. By Iames Peregrin</title>
+                 <author>Peregin, James</author>
+                 <imprint>
+                    <pubPlace/>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>4, 55, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="31"/>
+   <head>ERRATA.</head>
+   <list>
+      <item>PAg. <hi>1.</hi> line <hi>20.</hi> for to reade the.</item>
+      <item>Pag. <hi>2</hi> line <hi>23.</hi> for hath read hath bin. lin <hi>32.</hi> art reade art.</item>
+      <item>Pag. <hi>12.</hi> line <hi>22.</hi> for Ovid. And in an.</item>
+      <item>Pag. <hi>23.</hi> for the vvith, reade vvith the.</item>
+      <item>Pag. <hi>29.</hi> for in like, reade vvho in like.</item>
+      <item>Pag. <hi>41.</hi> line <hi>7.</hi> for sended, reade tended.</item>
+      <item>Pag. <hi>45.</hi> the last line for terrent, read torrent.</item>
+   </list>
+   <pb facs="31"/>
+</div>
+        </body>
+  </text>
+</TEI>

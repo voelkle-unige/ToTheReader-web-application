@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Publisher'S Advertisement]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1528</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109519_Ba1_3</idno>
+           <idno type="DLPS">A20005</idno>
+           <idno type="STC">6445</idno>
+           <idno type="ESTC">S109519</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Publisher'S Advertisement]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The debate and stryfe betwene somer and wynter : with the estate present of man</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1528</date>
+                 <publisher>Andrewe, Lawrence.</publisher>
+                            <publisher>Wyer (Wyre), Robert</publisher>
+                        </imprint>
+                 <extent>8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publishers_advertisement">
+   <p>¶These bookes be for to sell at the signe of seynt Iohn̄ Euangelyst / in saynt Martyns parysshe besyde Cha<g ref="char:EOLhyphen"/>rynge crosse.</p>
+</div>
+        </body>
+  </text>
+</TEI>

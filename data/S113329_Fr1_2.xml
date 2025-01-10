@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the gentle Reader.</title>
+           <author>Johnson, Fabian</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113329_Fr1_2</idno>
+           <idno type="DLPS">A04535</idno>
+           <idno type="STC">14657.5</idno>
+           <idno type="ESTC">S113329</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the gentle Reader.</title>
+                 <author>Johnson, Fabian</author>
+              </analytic>
+              
+              <monogr>
+                 <title>True intelligence sent from a gentleman of account : Concerning, the estate of the English forces now in Fraunce, vnder the conduct of the Right Honorable the Earle of Essex. Particularly expressing vvhat hath beene doone since his departure from England, vntill the second of SEptember last, 1591</title>
+                 <author>Johnson, Fabian</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <distributor>Nelson, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   
+   <head>To the gentle Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He vniust rumors secretlie disper<g ref="char:EOLhyphen"/>sed, concerning the distressed estate of the english forces now in France, vnder the conduct of the right ho<g ref="char:EOLhyphen"/>nourable the Earle of Essex, hath caused me to publish this short dis<g ref="char:EOLhyphen"/>course, wherein is set forth nothing but that which is to bee iustified for truth, by those that were eye witnesses of the contents thereof.</p>
+   <p>And whatsoeuer is herein contained, be assured it is of truth, and published onely to satisfie the honest mindes of those that are desirous to know the truth and no more, of all such things, as hath hitherto passed since the departure of his honour forth of England.</p>
+   <p>Accept the same, gentle Reader, from him, who wi<g ref="char:EOLhyphen"/>sheth the welfare of thee, and them all, and so in curtesie leaueth thee to the reading of that which ensueth.</p>
+   <closer>
+      <signed>Fabian Iohnson.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

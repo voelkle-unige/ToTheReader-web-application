@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104770_Fr1_3</idno>
+           <idno type="DLPS">A16766</idno>
+           <idno type="STC">3673</idno>
+           <idno type="ESTC">S104770</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Olde mad-cappes new gally-mawfrey : Made into a merrie messe of minglemangle, out of these three idle-conceited humours following. 1 I will not. 2 Oh, the merrie time. 3 Out vpon money</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 <publisher>Jones (Jhones, Johnes), Richard.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>OV that haue good stomackes to disgest any thing,
+may happen to make away with this Dish of <hi>Gally<g ref="char:EOLhyphen"/>mawfrey;</hi>
+where, if euery morsell be not minced so
+fine, as may be swallowed without chewing, beare
+with haste in the dressing, and the <gap reason="illegible: under-inked" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> will do well
+ynough: To tell you what it is heere you haue tasted
+it may happen to make you the worse willing to middle with it To be
+short, Pe<gap reason="illegible: under-inked" extent="1 letter">
+         <desc>•</desc>
+      </gap>er can but bite and heat the mouth, and yet it may <gap reason="illegible: under-inked" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+the Collicke so some Hearbes may be bitter, and yet holsome; and so
+some line may better be me <gap reason="illegible: under-inked" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, then taken: But all is one, commende it or
+discommende it, I will not but referre it to the Worlde, to like it
+or leaue it: and so in the humor of <hi>I will not,</hi> (I meane, be tedius)
+I ende.</p>
+   <closer>
+      <signed>Your friend,
+<hi>N. B.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

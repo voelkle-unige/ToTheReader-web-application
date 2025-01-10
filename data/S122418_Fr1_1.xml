@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Faultes escaped.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122418_Fr1_1</idno>
+           <idno type="DLPS">A05113</idno>
+           <idno type="STC">1525</idno>
+           <idno type="ESTC">S122418</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Faultes escaped.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Mr Henry Barrowes platform : Which may serve, as a preparative to purge away prelatisme: with some other parts of poperie. Made ready to be sent from Miles Mickle-bound to much-beloved-England. Togither with some other memorable things. And, a familiar dialogue, in and with the which, all the severall matters conteyned in this booke, are set forth and interlaced. After the untimely death of the penman of the foresaid platforme. &amp; his fellow prisoner; who being constant witnesses in points apperteyning to the true worship of God, and right government of his Church, sealed up their testimony with their bloud: and paciently suffred the stopping of their breath, for their love to the Lord. Anno 1593</title>
+                 <author>Barrow, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="1"/>
+   <head>Faultes escaped.</head>
+   <p>
+      <table>
+         <row>
+            <cell role="label">Pag,</cell>
+            <cell role="label">Lin.</cell>
+            <cell role="label">Faultes.</cell>
+            <cell role="label">Corrections.</cell>
+         </row>
+         <row>
+            <cell>80.</cell>
+            <cell>9.</cell>
+            <cell>in them▪</cell>
+            <cell>and were in them.</cell>
+         </row>
+         <row>
+            <cell>219.</cell>
+            <cell>14.</cell>
+            <cell>Tius</cell>
+            <cell>Titus</cell>
+         </row>
+         <row>
+            <cell>230.</cell>
+            <cell>25.</cell>
+            <cell>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </cell>
+            <cell>that Dioceses were <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </cell>
+         </row>
+         <row>
+            <cell>231.</cell>
+            <cell>11.</cell>
+            <cell>25</cell>
+            <cell>85</cell>
+         </row>
+         <row>
+            <cell>241.</cell>
+            <cell>33.</cell>
+            <cell> </cell>
+            <cell>ture be subverted,</cell>
+         </row>
+         <row>
+            <cell>71. </cell>
+            <cell>in margin</cell>
+            <cell>Act. 3▪6.</cell>
+            <cell>Act. 6.3.</cell>
+         </row>
+         <row>
+            <cell>163. </cell>
+            <cell>in marg.</cell>
+            <cell>Mat. 86.</cell>
+            <cell>Math. 16.</cell>
+         </row>
+      </table>
+   </p>
+   <p>
+      <hi>The Christian Reader will pardon the rest.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

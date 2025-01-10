@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epitaph]</title>
+           <author>Wall, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1577</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109385_Fr1_8_5</idno>
+           <idno type="DLPS">A19935</idno>
+           <idno type="STC">6364</idno>
+           <idno type="ESTC">S109385</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epitaph]</title>
+                 <author>Wall, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A funerall sermon preached the xxvi. day of Nouember in the yeare of our Lord M.D.LXXVI. in the parishe church of Caermerthyn, by the Reuerende Father in God, Richard by the permission of God, Bishoppe of Saint Dauys, at the buriall of the Right Honourable VValter Earle of Essex and Ewe, Earle Marshall of Irelande, Viscount Hereforde &amp; Bourgcher, Lord Ferers of Chartley, Bourgcher &amp; Louein, of the most noble order of the garter, Knight</title>
+                 <author>Davies, Richard</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1577</date>
+                 </imprint>
+                 <extent>52 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="epitaph">
+   <lg>
+      <l>SIt modus in lachrimis, finem{que} appone dolori</l>
+      <l>Tu triplici triplex insula cincta mari.</l>
+      <l>Incusare deum, fixum{que} reprendere fatum</l>
+      <l>Desine, cum videas numina posse mori.</l>
+   </lg>
+   <closer>
+      <signed>Io. Wal.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

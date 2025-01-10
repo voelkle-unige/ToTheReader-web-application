@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Campion, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106662_Fr1_3</idno>
+           <idno type="DLPS">A17882</idno>
+           <idno type="STC">4548</idno>
+           <idno type="ESTC">S106662</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Campion, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third and fourth booke of ayres: composed by Thomas Campian. So as they may be expressed by one voyce, with a violl, lute, or orpharion</title>
+                 <author>Campion, Thomas</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>44 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <opener>
+      <salute>TO MY HONOVRABLE FRIEND, S<seg rend="sup">R.</seg> THOMAS MOVNSON, <hi>KNIGHT AND BARONET.</hi>
+      </salute>
+   </opener>
+   <l>
+      <seg rend="decorInit">S</seg>Ince now those clouds, that lately ouer-cast</l>
+   <l>Your Fame and Fortune, are disperst at last:</l>
+   <l>And now since all to you fayre greetings make,</l>
+   <l>Some out of loue, and some for pitties sake:</l>
+   <l>Shall I but with a common stile salute</l>
+   <l>Your new enlargement? or stand onely mute?</l>
+   <l>I, to whose trust and care you durst commit</l>
+   <l>Your pined health, when Arte despayr'd of it?</l>
+   <l>I, that in your affliction often view'd</l>
+   <l>In you the fruits of manly fortitude,</l>
+   <l>Pati<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nce, and euen constancie of minde,</l>
+   <l>That Rocke-like stood, and scorn'd both waue, and winde?</l>
+   <l>Should I for all your ancient loue to me▪</l>
+   <l>Endow'd with waighty fauours, silent be?</l>
+   <l>Your merits, and my gratitude forbid</l>
+   <l>That eyther should in <hi>Lethean</hi> Gulfe lye hid</l>
+   <l>But how shall I this worke of fame expre<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>e?</l>
+   <l>How can I better, after pensiuenesse,</l>
+   <l>Then with light straynes of Musicke, made to moue</l>
+   <l>Sweetly with the wide-spreading plumes of loue?</l>
+   <l>These youth-borne <hi>Ayres</hi> then, prison'd in this Booke,</l>
+   <l>VVhich in your Bowres much of their beeing tooke,</l>
+   <l>Accept as a kinde offring from that hand</l>
+   <l>VVhich ioyn'd with heart your vertue may command.</l>
+   <l>VVho loue a sure friend as all good men doe,</l>
+   <l>Since such you are, let those affect you to:</l>
+   <l>And may the ioyes of that Crowne neuer end,</l>
+   <l>That innocence doth pitty, and defend.—</l>
+   <closer>
+      <signed>
+         <hi>Yours deuoted,</hi> THOMAS CA<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>PIAN.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

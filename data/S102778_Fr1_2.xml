@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THOSE NOBLE Personages rancked in the CATALOGVE.</title>
+           <author>G., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102778_Fr1_2</idno>
+           <idno type="DLPS">A01375</idno>
+           <idno type="STC">11496</idno>
+           <idno type="ESTC">S102778</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THOSE NOBLE Personages rancked in the CATALOGVE.</title>
+                 <author>G., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The mirrour of maiestie: or, The badges of honour conceitedly emblazoned : with emblemes annexed, poetically vnfolded</title>
+                 <author>H. G.</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>4, 63, 3 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Heraldic works and genealogies</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THOSE NOBLE Personages rancked in the CATALOGVE.</head>
+   <lg>
+      <l>MY feebler Muse farre too too weake to sing,</l>
+      <l>Ha's got your Honours on her flaggring wing,</l>
+      <l>And borne them to the loftiest pitch she may:</l>
+      <l>Therefore (submissiue) she do's humbly pray,</l>
+      <l>That when her tongue reeles, or Inuention haults,</l>
+      <l>Your <hi>Fauours</hi> will giue crutches to her faults.</l>
+   </lg>
+   <closer>
+      <signed>Your LORDSHIPS in all dutifull <hi>obseruancie,</hi> H. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

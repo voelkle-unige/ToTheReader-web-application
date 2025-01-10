@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my very good friend, Master Co∣keram, Author of this worke.</title>
+           <author>Day, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118706_Fr1_8</idno>
+           <idno type="DLPS">A19044</idno>
+           <idno type="STC">5461.2</idno>
+           <idno type="ESTC">S118706</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my very good friend, Master Co∣keram, Author of this worke.</title>
+                 <author>Day, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The English dictionarie: or, An interpreter of hard English vvords : Enabling as well ladies and gentlewomen, young schollers, clarkes, merchants, as also strangers of any nation, to the vnderstanding of the more difficult authors already printed in our language, and the more speedy attaining of an elegant perfection of the English tongue, both in reading, speaking and writing. Being a collection of the choisest words contained in the Table alphabeticall and English expositor, and of some thousands of words neuer published by any heretofore. By H.C. Gent</title>
+                 <author>Cockeram, Henry</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Weaver (Wever), Edmund</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>332 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>To my very good friend, Master <hi>Co<g ref="char:EOLhyphen"/>keram,</hi> Author of this worke.</head>
+   <lg>
+      <l>TO speake good words of thee were but in part</l>
+      <l>To pay backe what we owe, for thy rare Art</l>
+      <l>Hath taught vs all good language: a rude pile</l>
+      <l>Of barbarous sillables into a stile</l>
+      <l>Gentle and smooth thou hast reduc't: pure gold</l>
+      <l>Thou hast extracted out of worthlesse mould.</l>
+      <l>And that no one may thinke thy merit weake,</l>
+      <l>Of a rough speech th'ast taught vs all to speake</l>
+      <l>A perfect language; in which <hi>Cockerams</hi> praise</l>
+      <l>Shall liue belou'd, whilst time leaues making daies.</l>
+   </lg>
+   <closer>
+      <signed>Iohn Day.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

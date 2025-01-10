@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>A., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S839_Fr1_3</idno>
+           <idno type="DLPS">A73755</idno>
+           <idno type="STC">5529</idno>
+           <idno type="ESTC">S839</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>A., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Fasciculus florum. Or A handfull of flowers : gathered out of the seuerall bookes of the Right Honorable Sir Edward Coke Knight, and one of the Kings Maiesties most honorable councellours of estate. Per Tho: Ashe, Graijens</title>
+                 <author>Coke, Edward, Sir</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>224 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">T</seg>Rauelling ouer the Coast and Countrey of</hi> Cokea, <hi>and finding the same (gen<g ref="char:EOLhyphen"/>tle Reader) furnished with sundry sorts of commodi<g ref="char:EOLhyphen"/>ties, as old Trees of full grouth,<note place="margin">Old Books</note> fit for each mans building: and stored with younger of a later grouth,<note place="margin">New reports</note> sit for planta<g ref="char:EOLhyphen"/>tion of any ground: as also garnished with sweet smelling Flowers of all sorts,<note place="margin">Latin senten<g ref="char:EOLhyphen"/>ces.</note> delight<g ref="char:EOLhyphen"/>full to the eye to behold, and very pleasing to the senses for scent and sauour: I haue imployed my selfe, during the time I stayed there, to transport from thence, for the good of my natiue Country heere, some of the said commodidies: &amp; (for the present) haue brought ouer with mee a few of the said flowers, being but of light burthen, &amp; of no great encombrance: hauing like<g ref="char:EOLhyphen"/>wise</hi>
+      <pb facs="3"/>
+      <gap reason="duplicate" resp="#oxf" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="3"/>
+      <gap reason="duplicate" resp="#oxf" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="4"/>
+      <hi>laden for the time to come a vessell of greater burthen, with the better and more rich commodities of the said Countrey,<note place="margin">A Ge<g ref="char:EOLhyphen"/>nerall Table to all his Books.</note> the old timber Trees, and younger Plants, which I earnestly expect should ariue here about the Feast of the Anunciation of the Ʋirgin</hi> Mary, <hi>or shortly after, if God giue good successe, and send a happy and pros<g ref="char:EOLhyphen"/>perous winde: And in the meane time (ho<g ref="char:EOLhyphen"/>ping the best) I here present vnto thee these Flowers, bound vp in</hi> Fasciculos Florum, <hi>which thou shalt finde to be not of the na<g ref="char:EOLhyphen"/>ture and kinde of our English Garden Flowers, which grow, increase, and flourish at the Spring of the yeare, but fade and fall away in Autume or before, but these are of that quality and kinde, that they continue the same</hi> per totum annum, <hi>and will with their odoriferous smell feed and fill thy senses with delight &amp; contentment euery way:</hi> abs{que} vllo temporis interuallo <hi>and the more often thou shalt smell vnto them, the more and better thou wilt like, and delight in them</hi> sine fastidio.</p>
+   <closer>
+      <salute>Vale &amp; fruere.</salute>
+      <signed>T. A.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

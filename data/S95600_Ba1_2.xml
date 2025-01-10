@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S95600_Ba1_2</idno>
+           <idno type="DLPS">B08178</idno>
+           <idno type="STC">24315.5</idno>
+           <idno type="ESTC">S95600</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The treasure of true love : Or A liuely description of the loue of Christ vnto his spouse, whom in loue he hath clensed in his blood from sinne, and made a royall priesthood vnto his father. By Thomas Tuke, preacher of the word</title>
+                 <author>Tuke, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <publisher>Archer, Thomas.</publisher>
+                            <publisher>Creede, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 277, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="143"/>
+   <lg>
+      <l>Quid pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>ers<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap> gaza<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>. Cuius? Christi. quibus adde.</l>
+      <l>Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>isti-colis. Dic, quot? Ni duo, si numores.</l>
+      <l>quae? Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>itū noxas perpurgans sanguinis omnes, Christi,</l>
+      <l>Reges at{que} Hiereis alter: cura facit.</l>
+      <l>quid Christus, quid sit purgari sanguine</l>
+      <l>quid Rex at{que} Hiereus, pagina tota docet.</l>
+      <l>Sic duo proponens tam paruo magna hbello,</l>
+      <l>Sortitus fato quis meliore tuchen?</l>
+      <l>Mirantur multi co<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>gestas Foenere gazas,</l>
+      <l>Ex Christi gazas Sanguine (Lector) habes.</l>
+   </lg>
+   <byline>E. S.</byline>
+   <pb facs="144"/>
+   <pb facs="144"/>
+</div>
+        </body>
+  </text>
+</TEI>

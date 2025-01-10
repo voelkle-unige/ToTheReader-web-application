@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authorem Libri.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100435_Fr1_11</idno>
+           <idno type="DLPS">A03379</idno>
+           <idno type="STC">135</idno>
+           <idno type="ESTC">S100435</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authorem Libri.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The muses threnodie, or, mirthfull mournings, on the death of Master Gall : Containing varietie of pleasant poëticall descriptions, morall instructions, historicall narrations, and divine observations, with the most remarkable antiquities of Scotland, especially at Perth By Mr. H. Adamson</title>
+                 <author>Adamson, Henry</author>
+                 <imprint>
+                    <publisher>Anderson, George</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>20, 87, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="10"/>
+   <head>In Authorem Libri.</head>
+   <lg>
+      <l>NVper <hi>Adamsonus</hi> vicit splendore Triones,</l>
+      <l>At nunc occid<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>m spissior umbra tegit.</l>
+      <l>Non tamen in caecas omnino evanuit auras,</l>
+      <l>Liquerat en patrio lumina clara solo.</l>
+      <l>Perthigenasque suos secus hand intermicat ille,</l>
+      <l>(Accendens radio nobiliore diom)</l>
+      <l>Ac Phoebe, reliquis praefulgens lu<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ida stellis,</l>
+      <l>Noctigenam pleno dum movet orbe facem.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

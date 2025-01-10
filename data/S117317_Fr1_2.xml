@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT Worshipfull Sir CHRI∣STOPHER HARFLETE, Knight of the Ile of Thanet.</title>
+           <author>Harflete, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117317_Fr1_2</idno>
+           <idno type="DLPS">A02643</idno>
+           <idno type="STC">12771</idno>
+           <idno type="ESTC">S117317</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT Worshipfull Sir CHRI∣STOPHER HARFLETE, Knight of the Ile of Thanet.</title>
+                 <author>Harflete, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The hunting of the fox: or, Flattery displayed : The flatterers devise; a water-man looking one way, and rowing another, with this motto mel in ore, fel in corde. By H. H. Grayens</title>
+                 <author>Harflete, Henry</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <distributor>Meredith, Christopher</distributor>
+                            <distributor>Stephens, Philemon</distributor>
+                        </imprint>
+                 <extent>10, 80 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT Worshipfull Sir CHRI<g ref="char:EOLhyphen"/>STOPHER HARFLETE, Knight of the Ile of <hi>Thanet.</hi>
+   </head>
+   <opener>
+      <salute>SIR:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>He Hunting of harmefull beasts is commended for recreation, and the Meta<g ref="char:EOLhyphen"/>phoricall hunting of wic<g ref="char:EOLhyphen"/>kednesse is commanded for reformation. It was part of my recreation (being som<g ref="char:EOLhyphen"/>times wearied with the study of the Law) to vn<g ref="char:EOLhyphen"/>kennell, to put vp and hunt the <hi>Fox,</hi> for so S. <hi>Bernard</hi>
+      <pb facs="3"/>
+calls the Flatterer; which may bee called, <hi>My spare<g ref="char:EOLhyphen"/>houre-meditations:</hi> I know your VVorship to bee free from this vice, which made mee bold to flye to your Worship to shelter it vnder the wings of your Protecti<g ref="char:EOLhyphen"/>on, hoping for no excepti<g ref="char:EOLhyphen"/>on but your acceptation; wishing you with your vertuous Lady, all health and happines in this world, and all blessednesse in the world to come: Thus prayeth</p>
+   <closer>
+      <signed>Your Worships affectionate friend and Kinsman, <hi>HEN. HARFLETE.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

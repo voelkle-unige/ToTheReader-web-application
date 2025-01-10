@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107507_Fr1_3</idno>
+           <idno type="DLPS">A17888</idno>
+           <idno type="STC">4553</idno>
+           <idno type="ESTC">S107507</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A spirituall combat : a tryall of a faithfull soule or consolation in temptation. Written in French by I.P. Camus Bishope of Belley, and translated into English by M.C. P. of the Eng. Coll. of Doway</title>
+                 <author>Camus, Jean-Pierre</author>
+                 <imprint>
+                    <publisher>Wyon, Marc, Widow of</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>16, 288 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <p>THE litle starrs which doe occurre to the Reader all through the booke, are put to marke out the places wher the Au<g ref="char:EOLhyphen"/>thour alluded to Scripture, yet rarely vsed the precise words therof, and therfor could not so well be put in a diuers let<g ref="char:EOLhyphen"/>ter. The booke was written to one afflicted with tempta<g ref="char:EOLhyphen"/>tions of infidelitie or blasphe<g ref="char:EOLhyphen"/>mie, but may be applyed to any other temptation.</p>
+</div>
+        </body>
+  </text>
+</TEI>

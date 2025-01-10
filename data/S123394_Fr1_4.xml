@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1553</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123394_Fr1_4</idno>
+           <idno type="DLPS">B00290</idno>
+           <idno type="STC">16288a</idno>
+           <idno type="ESTC">S123394</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The booke of the common prayer : and adminystracion of the sacramentes, and other rytes, and ceremonies in the Churche of Englande</title>
+                 <author>Church of England</author>
+                 <imprint>
+                    <publisher>Whitchurch (Whytchurch), Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1553</date>
+                 </imprint>
+                 <extent>440 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <p>Though it be appoynted in the aforewritten Preface, that all thynges shalbe read and song in the Churche, in the Englyshe tongue, to the ende that the congregacion may be thereby edy<g ref="char:EOLhyphen"/>fyed: yet it is not mente, but when men say Morning and Eue<g ref="char:EOLhyphen"/>ning prayer priuately, they may say the same in any language
+<pb facs="3"/> that they themselues doe vnderstande.</p>
+   <p>And all Priestes and Deacons, shalbe bounded to say dayly the morning and Euening prayer, either priuately or openly, except they be letted by preachyng, studying of diuinitie, or by some other vrgent cause.</p>
+   <p>And the Curate that ministreth in euery Parishe Churche, or Chapel, being at home, &amp; not beeing otherwyse reasonablye letted, shall saye the same in the Parishe Churche or Chapell where he ministreth, and shall tolle a bell thereto, a conuenient tyme before he beginne, that suche as be disposed maye come to heare Gods worde, and to praye wyth hym.</p>
+</div>
+        </body>
+  </text>
+</TEI>

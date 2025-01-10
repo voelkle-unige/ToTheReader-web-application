@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S645_Fr1_2</idno>
+           <idno type="DLPS">A22165</idno>
+           <idno type="STC">857a.5</idno>
+           <idno type="ESTC">S645</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A litell treatyse of astrouomy [sic] : very necessary for physyke and surgerye, declarynge what herbes, and all kynde of medecynes are appropryate and vnder the influence of the planetes, sygnes and constellacyons : and also the partes and members of the bodye thereto correspondynge, and howe ye shall brynge the vertue of the heuens aud [sic] nature of the sters to euery parte of mans bodye beynge deseasad or sycke to the soner recoueraunce of helth : and also howe to chose the most luckey dayes and tymes for the aboue sayde, the whiche shal be appoynted by the almanacke yerelye, accordynge to the course of the moone, passynge by all the signes and sterres in one reuolucion / gathered and set forth by Anthony Askham physicio [n]</title>
+                 <author>Ascham, Anthony</author>
+                 <imprint>
+                    <publisher>Powell, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1550</date>
+                 </imprint>
+                 <extent>56 pages, illustrations</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <byline>☞ THOMAS PAYNEL</byline>
+   <lg>
+      <l>❧ Repulse the begynnyng of euery malady</l>
+      <l>For medecines ministred not in dewe season.</l>
+      <l>Dothe not relyeue or helpe the mysery</l>
+      <l>Of suche as hath by longe contraction</l>
+      <l>Dyfferred the tyme of mynistracion.</l>
+      <l>Wherby theyr maladye fercely myght increse</l>
+      <l>Nature corrupted the bodye to deface.</l>
+   </lg>
+   <lg>
+      <l>❧ In tyme to minyster medecynes the sicke doth relyeue</l>
+      <l>And wine out of tyme dothe the much domage</l>
+      <l>Increase of paynes the pacyent dothe achieue</l>
+      <l>But in tyme to take plasture the sore doth as<g ref="char:EOLhyphen"/>swage</l>
+      <l>Al thynges in season shulde haue theyr passage</l>
+      <l>Remedy for desease in tyme to procure.</l>
+      <l>Thus all thynges are subiecte to tyme and to measure.</l>
+   </lg>
+   <trailer>¶ Finis {quod} Thomas Paynel.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

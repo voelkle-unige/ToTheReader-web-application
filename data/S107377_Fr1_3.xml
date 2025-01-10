@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           <author>Fetherstone, Christopher</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107377_Fr1_3</idno>
+           <idno type="DLPS">A17642</idno>
+           <idno type="STC">4398</idno>
+           <idno type="ESTC">S107377</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 <author>Fetherstone, Christopher</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The commentaries of M. Iohn Caluin vpon the Actes of the Apostles : faithfully translated out of Latine into English for the great profite of our countrie-men, by Christopher Fetherstone student in diuinitie</title>
+                 <author>Calvin, Jean</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 <publisher>Bishop, George.</publisher>
+                            <publisher>Dawson, Thomas</publisher>
+                        </imprint>
+                 <extent>16, 298, that is 598, 34 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>The Epistle to the <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">T</seg>Hou hast at length (Christian Reader) through the blessing of God wherewith he hath blessed my labours, those learned Commentaries of <hi>M. Cal<g ref="char:EOLhyphen"/>uin</hi> vpon the Acts of the Apostles, though sim<g ref="char:EOLhyphen"/>plie, yet faithfully turned into English: &amp; though of manie I was the vnmeetest to attempt this trauell; yet such was the earnest request of my godlie friendes, that vnlesse I should haue taken it in hand, I should haue seemed voide of courtesie, and also of care to profite God his Church. I will not stand to rip vp those commodities, which thou by reading these Commentaries maiest reape, but I leaue them to thine own experience. What my trauell hath been in this worke, those who haue indured like toile, can best iudge. And forasmuch as I know well that after great paines taken, some things haue escaped me, I beseech thee (gentle reader) condemne me not rashly, but rather amend them friendlie. If thou shalt growe forward in knowledge by reading this worke, then praise God, who hath by this meanes made thee profite. God giue thee good successe in reading, that thereby thou mayest both bee better learned and also better li<g ref="char:EOLhyphen"/>ued.</p>
+   <closer>
+      <signed>
+         <hi>Thine in the Lorde,</hi> Christopher Fetherstone.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the iudicious Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114299_Fr1_5</idno>
+           <idno type="DLPS">A16869</idno>
+           <idno type="STC">3771</idno>
+           <idno type="ESTC">S114299</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the iudicious Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The posing of the parts. Or, A most plaine and easie way of examining the accidence and grammar, by questions and answeres, arising directly out of the words of the rules : Whereby all schollars may attaine most speedily to the perfect learning, full vnderstanding, and right vse thereof; for their happy proceeding in the Latine tongue. Gathered purposely for the benefit of schooles, and for the vse and delight of maisters and schollars</title>
+                 <author>Brinsley, John</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>4, 63, that is 64 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the iudicious Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>Irst, cause the Schollar in learning his rules, to vnderstand them well, according to these Questions or the like: after, to get his rules, and keepe them perfectly by dai<g ref="char:EOLhyphen"/>ly repeating: then, by posing, or reading ouer these, all will bee made his owne most easily and surelie, to goe forward in construction with all alacritie and s<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>eede. Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

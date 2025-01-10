@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the vnderstanding Reader.</title>
+           <author>Machin, Lewes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112116_Fr1_2</idno>
+           <idno type="DLPS">A06975</idno>
+           <idno type="STC">17398</idno>
+           <idno type="ESTC">S112116</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the vnderstanding Reader.</title>
+                 <author>Machin, Lewes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The dumbe knight : A historicall comedy, acted sundry times by the children of his Maiesties Reuels</title>
+                 <author>Markham, Gervase</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Bache, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>74 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the vnderstanding Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>VMOR that <hi>Hydra</hi> headed Monster, with more tongues then eyes, by help of his intelli<g ref="char:EOLhyphen"/>gencer enuy hath made strange miscon<g ref="char:EOLhyphen"/>structions on this dumbe Knight, which then could not answere for himselfe: but now this publication doth vnty his tongue, to answer the obiections of all sharp critticall censures which heretofore haue vndeseruedly past vp<g ref="char:EOLhyphen"/>on him. And for my part (I protest) the wrongs I haue receiued by some (whose worths I will not traduce) with a milde neglect I haue laught at their follies; for I thinke my selfe happy, because I haue beene enuyde, since the best now in grace haue beene sub<g ref="char:EOLhyphen"/>iect to some slanderous tongues that want worth themselues, and thinke it great praise to them to detract praise from other that deserue it; yet hauing a partner in the wrong, whose worth hath beene of<g ref="char:EOLhyphen"/>ten approued, I count the wrong but halfe a wrong, because hee knowes best how to answer for himselfe: But I now in his absence, make this Apologie, both for him and me. Thus leauing you and the booke together, I euer rest yours.</p>
+   <signed>Lewes Machin.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

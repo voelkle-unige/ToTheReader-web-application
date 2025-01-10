@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translatour to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117611_Ba1_1</idno>
+           <idno type="DLPS">A12484</idno>
+           <idno type="STC">22812</idno>
+           <idno type="ESTC">S117611</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translatour to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of the author and substance of the protestant church and religion : two bookes. Written first in Latin by R.S. Doctour of Diuinity, and now reuiewed by the author, and translated into English by VV. Bas</title>
+                 <author>Smith, Richard</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>32, 329, 5 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="184"/>
+   <head>The Translatour to the Reader.</head>
+   <p>
+      <hi>THE</hi> Author adioyned hereto a Catalogue of the Protestant Books with their seuerall impres<g ref="char:EOLhyphen"/>sions, out of which he gathered the testimonies by him alleaged: but because I thought it not needfull for those that read this English copy, I haue omitted it. The Reader, if he please, may see it in the Authors Latin Copy.</p>
+</div>
+        </body>
+  </text>
+</TEI>

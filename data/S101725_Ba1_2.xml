@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101725_Ba1_2</idno>
+           <idno type="DLPS">A15093</idno>
+           <idno type="STC">25394</idno>
+           <idno type="ESTC">S101725</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The way to the trve chvrch : wherein the principall motiues perswading to Romanisme and questions touching the nature and authoritie of the church and scriptures, are familiarly disputed, and driuen to their issues, where, this day they sticke betweene the Papists and vs: contriued into an answer to a popish discourse concerning the rule of faith and the marks of the church. And published to admonish such as decline to papistrie of the weake and vncertaine grounds, whereupon they haue ventured their soules. Directed to all that seeke for resolution: and especially to his louing countrimen of Lancashire. By Iohn White minister of Gods word at Eccles. For the finding out of the matter and questions handled, there are three tables: two in the beginning, and one in the end of the booke</title>
+                 <author>White, John</author>
+                 <imprint>
+                    <distributor>Bill, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <publisher>Barrett, William.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>46, 454, 10 pages, tables, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>GOod Reader it may fall out, that in the margent of this booke specially, some faults are escaped in the printing, by mistaking or misplacing the figures &amp; other parts of the quotation. Which is no maruel in quotations of this nature, where many figures go together: And I my selfe, being aboue <hi>100.</hi> miles from the presse, that I could not helpe it. Neuerthelesse I will maintaine the quotation, for sub<g ref="char:EOLhyphen"/>stance to be true, though the Printer may haue mistaken it: and lear<g ref="char:EOLhyphen"/>ned men that will take so much pains, may find that which I intend, I doubt not, by their owne knowledge of the place, if the numbers of the quotation deceiue them. I know not whether there be any such defects yet or no<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> but this I admonish, because the Papists, if they find an error in the printing of one of our bookes, vse to exclame as if an article of our faith were razed out: neuer remembring the like ca<g ref="char:EOLhyphen"/>sualties of their own. It is one thing if I haue wilfully forged or falsi<g ref="char:EOLhyphen"/>fied a place, and another thing if the Printer onely haue mistaken the quotation. The latter may be, but the former is not: as I will be ready to satisfie any that will charge me with it.</p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

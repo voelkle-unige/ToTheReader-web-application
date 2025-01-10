@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An admonition to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118442_Ba1_1</idno>
+           <idno type="DLPS">A20475</idno>
+           <idno type="STC">6889</idno>
+           <idno type="ESTC">S118442</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An admonition to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A quartron of reasons, composed by Doctor Hill, vnquartered, and prooued a quartron of follies: by Francis Dillingham, Bachelour of Diuinitie. August, in Senten</title>
+                 <author>Dillingham, Francis</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1603</date>
+                 <publisher>Legat (Legate, Legatt), John 1.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>6, 204, that is 104 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>An admonition to the Reader.</head>
+   <p>I desire thee Christian Reader, if there be any faults of the Printer, to impute them to him, not to the author of this booke, for he could not be present at the Presse.</p>
+   <pb facs="61"/>
+</div>
+        </body>
+  </text>
+</TEI>

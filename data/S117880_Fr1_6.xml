@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Certaine faults escaped.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1583</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117880_Fr1_6</idno>
+           <idno type="DLPS">A14350</idno>
+           <idno type="STC">24669</idno>
+           <idno type="ESTC">S117880</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Certaine faults escaped.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The common places of the most famous and renowmed diuine Doctor Peter Martyr : diuided into foure principall parts: with a large addition of manie theologicall and necessarie discourses, some neuer extant before. Translated and partlie gathered by Anthonie Marten, one of the sewers of hir Maiesties most honourable chamber. In the end of the booke are annexed two tables of all the notable matters therein conteined</title>
+                 <author>Vermigli, Pietro Martire</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1583</date>
+                 <publisher>Broome (Brome, Browne), William.</publisher>
+                            <publisher>Chard (Chare, Chayre), Thomas.</publisher>
+                            <publisher>Denham, Henry.</publisher>
+                            <publisher>Maunsell (Mansell), Andrew 1.</publisher>
+                            <publisher>Middleton, Henry</publisher>
+                        </imprint>
+                 <extent>32, 640, 380, that is 398, 2, 335, that is 331, 1, 4, 101-252, 165, 107 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="15"/>
+   <head>Certaine faults escaped.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Here is no garden so well trimmed, but hath some weeds; no siluer so well tried, but hath some drosse; no wine so well fined, but hath some leeze; no honie so well clarified, but hath some dregs; finallie, no humane action, but hath some defect: meruell not then (good Readers) that in so huge a volume, consisting of so manie leaues, lines, and letters, oftentimes varied both in forme and matter, a fault or two doo escape; were the Correctors care neuer so great, his di<g ref="char:EOLhyphen"/>ligence neuer so earnest, his labour neuer so continuall, his eies neuer so quicke, his iudgement neuer so sound, his memorie neuer so firme; breeflie, all his senses neuer so actiue and liuelie. Such faults therefore as are passed, being but few in number, if it please you in reading fauourablie to amend, ac<g ref="char:EOLhyphen"/>cording as they be here corrected; your selues shall be profited, and I satisfied.</p>
+   <p>
+      <table>
+         <row>
+            <cell role="label">
+               <hi>Fault.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Correction.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Part.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Page.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Colum.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Line.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>They,</cell>
+            <cell>Men.</cell>
+            <cell>1</cell>
+            <cell>143</cell>
+            <cell>2</cell>
+            <cell>19</cell>
+         </row>
+         <row>
+            <cell>anger,</cell>
+            <cell>pride.</cell>
+            <cell>2</cell>
+            <cell>529</cell>
+            <cell>2</cell>
+            <cell>49</cell>
+         </row>
+         <row>
+            <cell>fathers,</cell>
+            <cell>father.</cell>
+            <cell>2</cell>
+            <cell>600</cell>
+            <cell>1</cell>
+            <cell>25</cell>
+         </row>
+         <row>
+            <cell>renewed,</cell>
+            <cell>remoued.</cell>
+            <cell>4</cell>
+            <cell>59</cell>
+            <cell>1</cell>
+            <cell>58</cell>
+         </row>
+         <row>
+            <cell>whordome,</cell>
+            <cell>idolatrie.</cell>
+            <cell>4</cell>
+            <cell>245</cell>
+            <cell>1</cell>
+            <cell>11</cell>
+         </row>
+         <row>
+            <cell>Lord my,</cell>
+            <cell>my Lord.</cell>
+            <cell>in the additions.</cell>
+            <cell>113</cell>
+            <cell>2</cell>
+            <cell>10</cell>
+         </row>
+      </table>
+   </p>
+   <p>These are thought necessarie to be noted; others (if anie be) I refer vnto your owne selues that shall take paines to peruse the whole booke aduisedlie.</p>
+</div>
+        </body>
+  </text>
+</TEI>

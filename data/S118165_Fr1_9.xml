@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his good friend M. Iohn Tatham upon his Fancies Theater.</title>
+           <author>Chamberlain, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118165_Fr1_9</idno>
+           <idno type="DLPS">A13393</idno>
+           <idno type="STC">23704</idno>
+           <idno type="ESTC">S118165</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his good friend M. Iohn Tatham upon his Fancies Theater.</title>
+                 <author>Chamberlain, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The fancies theater· By Iohn Tatham Gent</title>
+                 <author>Tatham, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Best, Richard.</publisher>
+                            <publisher>Norton, John 2</publisher>
+                        </imprint>
+                 <extent>162 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>To his good friend M. <hi>Iohn Tatham</hi> upon his <hi>Fancies Theater.</hi>
+   </head>
+   <l>TO see what upstart Scriblers strive in Rime,</l>
+   <l>To be the Paper-blu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>rers of the time,</l>
+   <l>Makes me amaz'd; yet if they wo'd but see</l>
+   <l>The flowry Raptures that are done by thee,</l>
+   <l>They wo'd no question blush to see the Bulls,</l>
+   <l>And rabling Ballads of their windy sculls.</l>
+   <l>Here they may see compos'd a spicy-nest</l>
+   <l>Of flaming Fancies, all in spangles drest:</l>
+   <l>For here each line that to the eye appeares,</l>
+   <l>May sing a Lullaby unto the Spheres.</l>
+   <l>Poore Fancies marre a Theater, but see</l>
+   <l>The <hi>Fancies Theater</hi> is made by thee.</l>
+   <closer>
+      <signed>Robert Chamberlaine.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

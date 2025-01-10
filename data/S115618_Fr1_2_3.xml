@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>M., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115618_Fr1_2_3</idno>
+           <idno type="DLPS">A10411</idno>
+           <idno type="STC">20694</idno>
+           <idno type="ESTC">S115618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>M., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems : with the Muses looking-glasse: and Amyntas· By Thomas Randolph Master of Arts, and late fellow of Trinity Colledge in Cambridge</title>
+                 <author>Randolph, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1638</date>
+                 <publisher>Bowman, Francis.</publisher>
+                            <publisher>Lichfield, Leonard</publisher>
+                        </imprint>
+                 <extent>24, 128, 2, 93, 7, 114 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <lg>
+      <l>BLest Spirit, when I first did see</l>
+      <l>The Genius of thy Poetrie,</l>
+      <l>Nimble and fluent; in a straine</l>
+      <l>Even with, if not beyond the braine</l>
+      <l>Of Laureats that crown'd the stage,</l>
+      <l>And liv'd the wonders of the age:</l>
+      <l>And this but sparkles from a fire</l>
+      <l>That flam'd up, and soar'd much higher;</l>
+      <l>I gaz'd desierous to see</l>
+      <l>Whither thy wit would carry thee.</l>
+      <l>Thy first rise was so high, that even</l>
+      <l>As needs it must, the next was heaven.</l>
+   </lg>
+   <closer>
+      <signed>I. T. A. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

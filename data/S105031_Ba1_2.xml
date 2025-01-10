@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105031_Ba1_2</idno>
+           <idno type="DLPS">A19128</idno>
+           <idno type="STC">5541</idno>
+           <idno type="ESTC">S105031</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The famous, pleasant, and variable historie, of Palladine of England : Discoursing of honorable aduentures, of knightly deedes of armes and chiualrie: enterlaced likewise with the loue of sundrie noble personages, as time and affection limited their desires. ... Translate out of French by A.M. one of the messengers of her Maiesties Chamber</title>
+                 <author>Colet, Claude</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Perrin (Perin), John</publisher>
+                        </imprint>
+                 <extent>3, 92 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>DIuers foule faultes are escaped in the imprinting, in some pla<g ref="char:EOLhyphen"/>ces words mistaken, as <hi>rich procall</hi> for <hi>riciprocall</hi> in <hi>Bri<g ref="char:EOLhyphen"/>saldaes</hi> Letter to <hi>Palladine,</hi> and diuers other by mishar left out, and partly by want of my attendance to reade the proues, beeing called away by matters of greater importance, and whereto I am bound by dutie of mine office: therefore as you happen to finde them, and are able to conceiue what in truth they should be, let me intreate you freendly to correct them, because I am loth to trouble you with a gathered Errata.</p>
+</div>
+        </body>
+  </text>
+</TEI>

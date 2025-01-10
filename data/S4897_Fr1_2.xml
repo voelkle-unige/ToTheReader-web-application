@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>T., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4897_Fr1_2</idno>
+           <idno type="DLPS">A11927</idno>
+           <idno type="STC">22241.5</idno>
+           <idno type="ESTC">S4897</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>T., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The three partes of Commentaries : containing the whole and perfect discourse of the ciuill warres of Fraunce, vnder the raignes of Henry the second, Frances the second, and of Charles the ninth. with [sic] an addition of the cruell murther of the Admirall Chastilion, and diuers other nobles, committed the 24. daye of August. Anno. 1572. Translated out of Latine into English by Thomas Timme minister. Seen and allowed</title>
+                 <author>Serres, Jean de</author>
+                 <imprint>
+                    <publisher>Middleton, Henry</publisher>
+                    <distributor>Coldock (Coldoke), Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>16, 271, 16, 267, 13, 160, 8, 161-306, 491-494 pages, 38 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <l>R Regard not worldly wealth,</l>
+   <l>I In Christ repose thy trust,</l>
+   <l>C Consider well thy finall end,</l>
+   <l>H How thou art but dust.</l>
+   <l>A Aske mercy for thy sinne,</l>
+   <l>R Reioyce in vertues lore,</l>
+   <l>D Detract no time for to atchieue</l>
+   <l>B Beatitudes in store,</l>
+   <l>A Aboue where Christ doth raigne</l>
+   <l>K King of imperiall power,</l>
+   <l>E Eche Angell his triumphant praise</l>
+   <l>R Resounding euery hower.</l>
+   <closer>
+      <signed>T. T.</signed>
+   </closer>
+   <trailer type="illustration">
+      <figure>
+         <figDesc>bookplate</figDesc>
+      </figure>
+   </trailer>
+</div>
+        </body>
+  </text>
+</TEI>

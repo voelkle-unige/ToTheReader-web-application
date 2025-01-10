@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De huius Libri Auctore, Herculis
+Rolloci coniectura.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109108_Fr1_8</idno>
+           <idno type="DLPS">A04254</idno>
+           <idno type="STC">14373</idno>
+           <idno type="ESTC">S109108</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De huius Libri Auctore, Herculis
+Rolloci coniectura.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The essayes of a prentise, in the diuine art of poesie</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <publisher>Vautrollier, Thomas 1</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>128 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <head>De huius Libri Auctore, Herculis
+Rolloci coniectura.</head>
+   <l>QVisquis es, entheus hic exit quo Auctore libellus,</l>
+   <l>(Nam liber Auctorem conticet ipse suum)</l>
+   <l>Dum quonam ingenio meditor, genioque subactus,</l>
+   <l>Maiora humanis viribus istacanas:</l>
+   <l>Teque adeo quisis expendo: aut Diuus es, inquam,</l>
+   <l>Aut a Diuum aliquis sorte secundus homo.</l>
+   <l>Nil sed habet simile aut Diuis, aut terra secundum:</l>
+   <l>Quanquam illis Reges proximus ornat honos.</l>
+   <l>Aut opus hoc igitur humano semine nati</l>
+   <l>Nullius, aut hoc sic Regis oportet opus.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right worship∣full Sir Iohn Heigham Knight, long life and happy daies.</title>
+           <author>Gibbon, Charles</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2684_Fr1_3</idno>
+           <idno type="DLPS">A01680</idno>
+           <idno type="STC">11818</idno>
+           <idno type="ESTC">S2684</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right worship∣full Sir Iohn Heigham Knight, long life and happy daies.</title>
+                 <author>Gibbon, Charles</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Our trust against trouble : very expedient for the time, composed for our better consolation and consideration of these crosses of warre, lately attempted, and still intended against vs : with diuers speciall prayers and meditations, very requisite to be remembred of vs, before, in and after the time of our trouble by Charles Gybbon</title>
+                 <author>Gibbon, Charles</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 </imprint>
+                 <extent>31 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb n="3" facs="2"/>
+   <head>To the right worship<g ref="char:EOLhyphen"/>full Sir Iohn Heigham Knight, long life and happy daies.</head>
+   <p>THe proofe of your worships good<g ref="char:EOLhyphen"/>will, hath made me presume to present these my paines vnder your fauourable pro<g ref="char:EOLhyphen"/>tection: not doubting, but as your worship is zealous in Religion, conformable in li<g ref="char:EOLhyphen"/>uing, and a supporter of godly enterprises, so you will become a Patron to any good pro<g ref="char:EOLhyphen"/>ceedings. Thus beeing lothe to trouble your patience with any prolixius or tedious dis<g ref="char:EOLhyphen"/>course not omitting my humble duetie, I commit your worship to the tuition of the Almightie.</p>
+   <closer>
+      <signed>Your worships to commaund. Charles Gibbon.</signed>
+   </closer>
+   <pb facs="3"/>
+   <gap reason="duplicate" resp="#oxf" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb n="3" facs="3"/>
+   <gap reason="duplicate" resp="#oxf" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" resp="#oxf" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb n="3" facs="4"/>
+   <gap reason="duplicate" resp="#oxf" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

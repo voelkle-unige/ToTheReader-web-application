@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Swan, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118043_Fr1_3</idno>
+           <idno type="DLPS">A13217</idno>
+           <idno type="STC">23516</idno>
+           <idno type="ESTC">S118043</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Swan, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Speculum mundi· Or A glasse representing the face of the world : shewing both that it did begin, and must also end: the manner how, and time when, being largely examined. Whereunto is joyned an hexameron, or a serious discourse of the causes, continuance, and qualities of things in nature; occasioned as matter pertinent to the work done in the six dayes of the worlds creation</title>
+                 <author>Swan, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1635</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Cambridge University—Printers.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>18, 504, 28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>Gentle Reader,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Present thee here with a book of no great vo<g ref="char:EOLhyphen"/>lume, yet stor'd with much varietie; and see<g ref="char:EOLhyphen"/>ing I am guiltie of my many weak infirmi<g ref="char:EOLhyphen"/>ties, and no few overfights, I cannot but crave thy courteous acceptation: for it is a granted Maxime, that a stander by hath often better eyes then they who play the game. Howbeit he were no man that could not erre, no more then they whose rancor'd mouthes shall bite with scorn, or vent the poison of a loath'd disdain. In a word, if thou expectest quaint language, or fragrant flowers of flowing Rhetorick, I am somewhat sorie my sad fate should prove so cruell as not to give way for satisfaction. Beleeve it, I could have wished a better stile, and not been sorie to have soar'd aloft: and yet again I must confesse, that as eloquence was never any part of my essence, so neither was my aim so much at that, as to produce apt matter fitting the serious<g ref="char:EOLhyphen"/>nesse of the subject I took in hand. And verily if in this my hopes fail me not, I do not fear but my pains will be accepted: for although I go not about to teach the learned (because <hi>Hu<g ref="char:EOLhyphen"/>miles arbusta juvant</hi>) yet the ignorant may be instructed in what before they knew not; yea, and the learned also may be occasioned to call again to minde something which (for the present) hath either slept, or slipt their memories by reason of their better thoughts, and deeper contemplations. Be not therefore unjust judges in an harmlesse cause, nor forward censurers, churlishly to blast young springing blossomes in their tender bud: but rather take in good part this from him, who resteth, as his own, so also</p>
+   <closer>
+      <signed>Yours in this or the like endeavour,
+JOHN SWAN.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

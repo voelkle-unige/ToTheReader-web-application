@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE Authors Epistle Dedicatory.</title>
+           <author>Biondi, Francesco</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107083_Fr1_4</idno>
+           <idno type="DLPS">A16156</idno>
+           <idno type="STC">3074</idno>
+           <idno type="ESTC">S107083</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE Authors Epistle Dedicatory.</title>
+                 <author>Biondi, Francesco</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Donzella desterrada. Or, The banish'd virgin. VVritten originally in Italian: by Cavalier Gio. Francesco Biondi, Gentleman Extraordinary of his Majesties Privy Chamber. Divided into three bookes: and Englished by I.H. of Graies Inne, Gent</title>
+                 <author>Biondi, Giovanni Francesco, Sir</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Moseley, Humphrey</publisher>
+                        </imprint>
+                 <extent>12, 230, 2 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_dedication">
+   <pb facs="5"/>
+   <head>THE Authors Epistle Dedicatory.</head>
+   <head type="sub">To the most Renown'd and truly Heroike Prince, <hi>Thomas</hi> of <hi>Savoy.</hi>
+   </head>
+   <opener>
+      <salute>Right Excellent Prince,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Promised your Highnesse in <hi>France</hi> the translation of the two first bookes of that famous Knight Sir <hi>Phillip Sydney's Arcadia,</hi> with an intention soone after my returne into <hi>England</hi> to send it you with all con<g ref="char:EOLhyphen"/>venient expedition. But then I found my selfe so farre uncapable of performing it, that I choosed rather to fall short of my word to so excellent a Prince as your Highnesse, than to deforme a worke so excel<g ref="char:EOLhyphen"/>lent sprung from the braines of a more excellent Author. The traduction that I made cannot bee sayd mine; Because, for not understanding the tongue my selfe, I was driven to make use of many persons, some whereof either conceived not the elevated conceipts of that delicate wit, Or at leastwise knew not how to expresse them; So as not translating but rather paraphrazing it, I made him speake what he never meant, he alone having the talent of both, conceiving and expressing himselfe. Failing in this, and resolved, since I could not satis<g ref="char:EOLhyphen"/>fie the debt, to shew that I desired to doe it, I bethought me of dedicating unto your Highnesse this present worke of mine; which, though farre short of the promised, will never<g ref="char:EOLhyphen"/>thelesse prove (I hope) to be such as no man shall have just
+<pb facs="6"/>
+cause too complaine of it's defects: The mettle being my owne, dig'd out of mine owne Mine, coyned in mine owne mint, and though of base alloy, yet neither uncurrant, cryed downe, or subject to the punishment due to such as counter<g ref="char:EOLhyphen"/>feite that which is another mans. If I resolve to finish the worke, it shall be in the lesse-displeasing stile; If not; And that another pen undergoe the charge thereof, he cannot use that way that shall not well please me. In the meane time I beseech your Highnesse to accept (with a benigne eye) this in discharge of the <hi>Arcadia;</hi> though there be not any acquittance that can ab<g ref="char:EOLhyphen"/>solve me from the obligations I have to serve you. The Lord our God felicitate your Highnesse in all your Noble designes, whilst I with all submissive reverence humbly kisse your hands.</p>
+   <closer>
+      <dateline>From London <date>the fourth of Iuly 1626.</date>
+      </dateline>
+      <signed>Your Highnesse most humble and most devoted servant
+Gio: Francesco Biondi.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

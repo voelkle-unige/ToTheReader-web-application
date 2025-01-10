@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Interpres ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106844_Fr1_5</idno>
+           <idno type="DLPS">A21245</idno>
+           <idno type="STC">760</idno>
+           <idno type="ESTC">S106844</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Interpres ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Aristotles politiques, or Discourses of gouernment. Translated out of Greeke into French, with expositions taken out of the best authours, specially out of Aristotle himselfe, and out of Plato, conferred together where occasion of matter treated of by them both doth offer it selfe: the obseruations and reasons whereof are illustrated and confirmed by innumerable examples, both old and new, gathered out of the most renowmed empires, kingdomes, seignories, and commonweals that euer haue bene, and wherof the knowledge could be had in writing, or by faythfull report, concerning the beginning, proceeding, and excellencie of ciuile gouernment. By Loys Le Roy, called Regius. Translated out of French into English</title>
+                 <author>Aristotle</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>32, 393, 7 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="interpreter_to_the_reader">
+   <pb facs="6"/>
+   <head>¶ Interpres ad Lectorem.</head>
+   <l>Est sua laus illis qui summa perotia scribunt:</l>
+   <l>Otia amant Musae, nec inani Fabula sensu</l>
+   <l>Virgineo semota choro sacrauit amoena:</l>
+   <l>Otia amant artes, nec frustra Pallas oliuam</l>
+   <l>(Sit licèt armipotens) pacis tutatur amore,</l>
+   <l>Pacis amore dedit, celebri certamine victrix.</l>
+   <l>At neque turbati transmittunt lumina fontes,</l>
+   <l>Nec restant medijs Typhi sua iura procellis,</l>
+   <l>Sit sua laus illis qui summa per otia scribunt;</l>
+   <l>Sit venia &amp; nobis queis sors nulla otia praestat.</l>
+</div>
+        </body>
+  </text>
+</TEI>

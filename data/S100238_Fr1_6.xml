@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Thomas Wilsonus le∣gum doctor, sacratis∣simae Elizabethae Regi∣nae Angliae &amp;c. à libellis supplicibus.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100238_Fr1_6</idno>
+           <idno type="DLPS">A21928</idno>
+           <idno type="STC">826</idno>
+           <idno type="ESTC">S100238</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Thomas Wilsonus le∣gum doctor, sacratis∣simae Elizabethae Regi∣nae Angliae &amp;c. à libellis supplicibus.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Disertissimi viri Rogeri Aschami, Angli, Regiae maiestati non ita pridem a Latinis epistolis, familiarium epistolarum libri tres : magna orationis elegantia conscripti. Quorum primo præfigitur elegantissima epistola de imitatione oratoria. Huc accesserunt eiusdem pauca quædam poëmata. Omnia in studiosorum gratiam collecta, &amp; nunc primum ædita studio &amp; labore Eduardi Grantæ, Scholæ Westmon. moderatoris. Addita est in fine eiusdem Ed. Gr. oratio, de vita &amp; obitu Rogeri Aschami, ac eius dictionis elegantia, cum adhortatione ad adolescentulos</title>
+                 <author>Ascham, Roger</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 <publisher>Coldock (Coldoke), Francis.</publisher>
+                            <publisher>Middleton, Henry</publisher>
+                        </imprint>
+                 <extent>12, 160, 40 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedicatory_poem">
+   <pb facs="11"/>
+   <head>Thomas Wilsonus le<g ref="char:EOLhyphen"/>gum doctor, sacratis<g ref="char:EOLhyphen"/>simae Elizabethae Regi<g ref="char:EOLhyphen"/>nae Angliae &amp;c. à libellis supplicibus.</head>
+   <l>Lis magna est, Cicero fuerit Roman{us} an Anglus</l>
+   <l>At Romae, Arpinas dictus vbi{que} fuit.</l>
+   <l>Sed dubitant Angli, Ciceronis origine nati,</l>
+   <l>At{que} Britānorum sede locare volunt.</l>
+   <l>Scilicet hoc Regno natū, post tempora Bruti,</l>
+   <l>Indigenā{que} tuū terra Britanna ferunt.</l>
+   <l>Unde Britannorū decus est, et gloria magna,</l>
+   <l>Plurima quod Cicero pignora laudis habet.</l>
+   <l>Inter &amp; eximios, Aschami est fama diserta,</l>
+   <l>Filius eloquio qui Ciceronis erat.</l>
+   <l>Uim Demostheneā Cicero, grauitate Platonē</l>
+   <l>Exprimit, Isocratem dulcis vbi{que} sonat.</l>
+   <l>Vis eadem Aschamo est, grauis est, dulcedine plenus</l>
+   <l>Discit ab indigena filius iste patre.</l>
+   <l>Anglia ter faelix Anglo Cicerone parente,</l>
+   <l>Talia quod tanti pignora patris habet.</l>
+</div>
+        </body>
+  </text>
+</TEI>

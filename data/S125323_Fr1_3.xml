@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator, to the Christian reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125323_Fr1_3</idno>
+           <idno type="DLPS">A73880</idno>
+           <idno type="STC">7373.4</idno>
+           <idno type="ESTC">S125323</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator, to the Christian reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The holy loue of heauenly vvisdome : With many other godly treatises. Newly set forth, perused, and augmented by the author. Translated out of French into English, by Tho. Sto. gent</title>
+                 <author>Du Vair, Guillaume</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>4, 452 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translators_preface">
+   <pb facs="3"/>
+   <head>The Translator, to the Christian reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hou shalt receiue here, I hope, (Chri<g ref="char:EOLhyphen"/>stian Reader) vnto thy great comfort, these short discour<g ref="char:EOLhyphen"/>ses and meditations, if thou reade them with iudgement, and accor<g ref="char:EOLhyphen"/>ding to sobriety: the titles of which thou shalt finde set downe seue<g ref="char:EOLhyphen"/>rally and a part in the next page before. Accept therefore I beseech thee, both the great paine of the Author, and my poore trauell in translating of them, which I trust I haue faithfully done according to his meaning, and looke what bene<g ref="char:EOLhyphen"/>fit thou reapest by them, be first thankefull vnto God, and next vn<g ref="char:EOLhyphen"/>to him, and so I commit them to thy gentle accepta<g ref="char:EOLhyphen"/>tion.</p>
+</div>
+        </body>
+  </text>
+</TEI>

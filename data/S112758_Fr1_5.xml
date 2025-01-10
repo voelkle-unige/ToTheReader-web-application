@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Day, Angel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112758_Fr1_5</idno>
+           <idno type="DLPS">A08063</idno>
+           <idno type="STC">18429</idno>
+           <idno type="ESTC">S112758</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Day, Angel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A discourse whether a noble man by birth or a gentleman by desert is greater in nobilitie</title>
+                 <author>Nenna, Giovanni Battista</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 <publisher>Flasket, John.</publisher>
+                            <publisher>Short, Peter</publisher>
+                        </imprint>
+                 <extent>4, 98 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <l>MY artlesse Muse (if any muse at all)</l>
+   <l>Couched in rude, in base, in home attire,</l>
+   <l>Not fitting thoughts, or actions that aspire,</l>
+   <l>But led by loue, and graced principall</l>
+   <l>In this, she once was handmaid vnto skill,</l>
+   <l>Would (if she durst her stem to raise so hie)</l>
+   <l>Blazon thy laud, who of Nobilitie</l>
+   <l>So much hast shew'd, and therein dipt thy quill.</l>
+   <l>But sithe thy zeale to Honour Nennio</l>
+   <l>Whom thy desires haue brought from forreine soile,</l>
+   <l>Hath beene one cause of this thy taken toile,</l>
+   <l>Vnwaited on with praise thou mayst not goe.</l>
+   <l>For lookers on that doe partake thy pleasure,</l>
+   <l>Must of thy vertue find the pretious treasure.</l>
+   <closer>
+      <signed>Ang. Day.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer's ignorance of the English tongue hath caused manie errors in the print, amongst others these</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116286_Fr1_4</idno>
+           <idno type="DLPS">A11187</idno>
+           <idno type="STC">21454</idno>
+           <idno type="ESTC">S116286</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer's ignorance of the English tongue hath caused manie errors in the print, amongst others these</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The dialogues of William Richworth or The iudgmend [sic] of common sense in the choise of religion</title>
+                 <author>Rushworth, William</author>
+                 <imprint>
+                    <publisher>Mestais, Jean</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>8, 133, 136-582 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="4"/>
+   <head>The Printer's ignorance of the English tongue hath caused manie errors in the print, amongst others these</head>
+   <list>
+      <item>Pag: 87. or. cor. of.</item>
+      <item>101. at. cor. a</item>
+      <item>102. the, cor. these.</item>
+      <item>109. hath, cor. haue</item>
+      <item>112. soe be saued cor some may be saued</item>
+      <item>119. that, cor. that's</item>
+      <item>120. hath, cor. had.</item>
+      <item>124. waine, cor, waiue</item>
+      <item>132. thenth, cor. tenth</item>
+      <item>144. and in Gouer &amp;c. cor. in Gouer &amp;c.</item>
+      <item>149. hat, cor. that</item>
+      <item>151. o, cor. of</item>
+      <item>152, n, cor. an</item>
+      <item>153 th. cor. that</item>
+      <item>
+         <gap reason="illegible" resp="#pdcc" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> the, cor, readie</item>
+      <item>162. v, vs</item>
+      <item>187. Religions order cor Religious</item>
+      <item>236 acd, cor. and</item>
+      <item>254. posseth, cor. passeth</item>
+      <item>309, ou, cor. out</item>
+      <item>386. althought cor. althoug</item>
+      <item>434. dockrine, cor. doctrine</item>
+      <item>450. you, cor. your</item>
+      <item>481. such, cor. such</item>
+      <item>482. sitle, cor. litle</item>
+      <item>501 6 af, cor. of</item>
+      <item>527 prrt. cor. part</item>
+      <item>529. he, cor the</item>
+      <item>
+         <gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>7. <gap reason="illegible" resp="#pdcc" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>, cor. is not, nor &amp;c.</item>
+      <item>545. de cor doe</item>
+      <item>546. theses, cor. these</item>
+      <item>553. pleasont, cor. pleasant.</item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

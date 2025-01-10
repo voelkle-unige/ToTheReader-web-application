@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ED. GRANT. IN LOD. FLO.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1573</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108781_Fr1_6</idno>
+           <idno type="DLPS">A06140</idno>
+           <idno type="STC">16624</idno>
+           <idno type="ESTC">S108781</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ED. GRANT. IN LOD. FLO.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The pilgrimage of princes, penned out of sundry Greeke and Latine aucthours, by Lodovvicke Lloid Gent</title>
+                 <author>Lloyd, Lodowick</author>
+                 <imprint>
+                    <distributor>Jones, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1573</date>
+                 <publisher>Charlewood, John.</publisher>
+                            <publisher>Kingston, John</publisher>
+                        </imprint>
+                 <extent>8, 188, 185-218, 2 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>ED. GRANT. IN LOD. FLO.</head>
+   <l>QVae a tûere difuruis immersa tenebris,</l>
+   <l>aeduntur patrijs condecorata sonis.</l>
+   <l>Quae prius <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> fuerint bene cognita paucis</l>
+   <l>nunc venient cunctis percipienda viris.</l>
+   <l>Postera Floyde tuam nascentia secula laudem</l>
+   <l>cantabunt, praesens nomen in astra feret.</l>
+   <l>Quicquid est in mellis, quicquid liberiste lepôris</l>
+   <l>continet, omne tuum, laus tribuenda tibi.</l>
+   <l>Liuide mendaces compescito Zoile voces,</l>
+   <l>tela licet vibres, non violabis opus.</l>
+   <l>Inclita mordaci non laedes facta libello,</l>
+   <l>florescit <hi>Floydus</hi> docta perora virum.</l>
+</div>
+        </body>
+  </text>
+</TEI>

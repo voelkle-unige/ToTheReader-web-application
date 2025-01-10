@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST EXCEL∣LENT MAIE∣STIE.</title>
+           <author>Beaumont, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101234_Fr1_3</idno>
+           <idno type="DLPS">A06468</idno>
+           <idno type="STC">1694</idno>
+           <idno type="ESTC">S101234</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST EXCEL∣LENT MAIE∣STIE.</title>
+                 <author>Beaumont, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Bosvvorth-field : with a taste of the variety of other poems, left by Sir Iohn Beaumont, Baronet, deceased: set forth by his sonne, Sir Iohn Beaumont, Baronet; and dedicated to the Kings most Excellent Maiestie</title>
+                 <author>Beaumont, John</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Seile (Seale, Seely, Seyle), Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>24, 180, 183-208 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>TO THE KINGS MOST EXCEL<g ref="char:EOLhyphen"/>LENT MAIE<g ref="char:EOLhyphen"/>STIE.</head>
+   <opener>
+      <salute>Most Gracious Soueraigne,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Here present at the feet of your Sa<g ref="char:EOLhyphen"/>cred Maiesty these Orphan Verses, whose Author (had hee suruiued) might haue made this Gift some<g ref="char:EOLhyphen"/>what more correspondent to so Great a Pa<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>ron. I haue only endeauored without Art, to set this Iewell, and render it apt for your Ma<g ref="char:EOLhyphen"/>jesties acceptance; to which boldnes I am led by a filiall duty in performing the will of my Father, who, whil'st he liued, did euer intend to your Maiesty these Poems: Poems, in which no obscene sport can bee found (the
+<pb facs="3"/>
+contrary being too frequent a crime among Poets,) while these (if not too bold I speake will challenge your Maiestie for their Pa<g ref="char:EOLunhyphen"/>tron, since it is most conuenient, that the pu<g ref="char:EOLunhyphen"/>rest of Poems should be directed to You, the Vertuousest &amp; most vntoucht of Princes, the Delight of <hi>Brittaine,</hi> and the Wonder of <hi>Eu<g ref="char:EOLunhyphen"/>rope;</hi> at the Altar of whose Iudgement, brigh<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> erected flames, not troubled fumes, dare ap<g ref="char:EOLunhyphen"/>proach. To your Maiestie must bee directed the most precious off-springs of each Muse which though they may well bee esteemed Starres, yet how can they subsist without the aspect of You their Sun? Receiue then, Great King, these my Fathers Verses, and let them find, (what his Son hath found) your Prince<g ref="char:EOLunhyphen"/>ly clemency. Effect on them (I beseech your Maiesty) a Kingly worke, giue them life, and withal graciously please to accept the sincere wishes for your felicity, and the humble vowes of</p>
+   <closer>
+      <signed>Your Maiesties euer loyall Subiect,
+Iohn Beaumont.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           <author>Morton, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110060_Fr1_3</idno>
+           <idno type="DLPS">A07831</idno>
+           <idno type="STC">18202</idno>
+           <idno type="ESTC">S110060</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 <author>Morton, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>New English Canaan or New Canaan : Containing an abstract of New England, composed in three bookes. The first booke setting forth the originall of the natives, their manners and customes, together with their tractable nature and love towards the English. The second booke setting forth the naturall indowments of the country, and what staple commodities it yealdeth. The third booke setting forth, what people are planted there, their prosperity, what remarkable accidents have happened since the first planting of it, together with their tenents and practise of their church. Written by Thomas Morton of Cliffords Inne gent, upon tenne yeares knowledge and experiment of the country</title>
+                 <author>Morton, Thomas</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1637</date>
+                 <publisher>Greene, Charles.</publisher>
+                            <publisher>Stam, Jan Fredericksz</publisher>
+                        </imprint>
+                 <extent>188, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="5" facs="3"/>
+   <head>The Epistle to the Reader.</head>
+   <opener>
+      <salute>GENTLE READER,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Present to the publike view an abstract of new England; which I have undertaken to compose by the incouragment of such genious spirits as have been studious of the inlargment of his Maje<g ref="char:EOLhyphen"/>sties Territories, being not formerly satis<g ref="char:EOLhyphen"/>fied, by the relations of such as through haste, have taken but a superficiall survey thereof, which thing time hath enabled mee to performe more punctually to the life, and to give a more exact accompt of what hath been required; I have therefore beene wil<g ref="char:EOLhyphen"/>ling to doe my indevoure to communicat the knowledge, which I have gained and col<g ref="char:EOLhyphen"/>lected together, by mine owne observation, in the time of my many yeares residence in those parts, to my loving Country men: For the better information of all such as are de<g ref="char:EOLhyphen"/>sirous to be made partakers of the blessings of God in that fertile Soyle, as well as those
+<pb n="6" facs="4"/>that, out of Curiosity onely have bin inqui<g ref="char:EOLhyphen"/>sitive after nouelties. And the rather for that I have observed, how divers persons (not so well affected to the weale publike in mine o<g ref="char:EOLhyphen"/>pinion) out of respect to their owne private ends; have laboured to keepe both the practise of the people there, and the Reall worth of that eminent Country concealed from publike knowledge, both which I have abundantly in this discourse layd open, yet if it be well accepted, I shall esteeme my selfe sufficiently rewardded for my under<g ref="char:EOLhyphen"/>taking and rest.</p>
+   <closer>
+      <signed>Your Wellwisher. <hi>THOMAS MORTON.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

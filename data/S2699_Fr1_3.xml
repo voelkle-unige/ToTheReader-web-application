@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1569</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2699_Fr1_3</idno>
+           <idno type="DLPS">A02288</idno>
+           <idno type="STC">12419</idno>
+           <idno type="ESTC">S2699</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Bellum grammaticale : a discourse of great war and dissention betwene two worthy princes, the noune and the uerbe, contending for the chefe place or dignitie in oration : very pleasant &amp; profitable turned into English by W.H</title>
+                 <author>Guarna, Andrea</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1569</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Pickering, William</publisher>
+                        </imprint>
+                 <extent>95 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <head>Ad Lectorem.</head>
+   <lg>
+      <l>Disce Puer, quando tempus permittit, &amp; ipsa</l>
+      <l>Rectè discendi causa parata datur.</l>
+      <l>Ordine tunc tua res poterit procedere recto,</l>
+      <l>Si bene cunctorum singula facta notes.</l>
+   </lg>
+   <lg>
+      <l>Adsis ergo (Lector) si sit tibicura Latini</l>
+      <l>Fac properes dulceis imbibiturus aquas:</l>
+      <l>Aurea fluctifero sunt mersa monilia ponto,</l>
+      <l>Virtus ast nunquam mergier vlla potest.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

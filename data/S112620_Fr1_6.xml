@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1535</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112620_Fr1_6</idno>
+           <idno type="DLPS">A07430</idno>
+           <idno type="STC">17817</idno>
+           <idno type="ESTC">S112620</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The defence of peace: lately translated out of laten in to englysshe. with the kynges moste gracyous priuilege</title>
+                 <author>Marsilius, of Padua</author>
+                 <imprint>
+                    <publisher>Wyer (Wyre), Robert</publisher>
+                    <distributor>Marshall, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1535</date>
+                 </imprint>
+                 <extent>2, 21, 23-1340, that is 140, 2 leaves, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <p>
+      <seg rend="decorInit">A</seg>Gaynst the vsurped iurisdiccyon of y<seg rend="sup">e</seg> bysshop of Rome, y<seg rend="sup">e</seg> boke of Marsilius of Padua, treatynge of the Emperours &amp; the po<g ref="char:EOLhyphen"/>pes, power whiche boke is entitled. Defensor pacis / &amp; is deuyded in to. iii. partes, whiche the Author therof calleth diccyons. And this sayd boke was wrytten &amp; dedycated to the moste valyaunt emperour Lodowyke of Bauaria (which had ben handled after vngoodly maner, &amp; suffered many iniuryes done to hym by thre bysshoppes (cal<g ref="char:EOLhyphen"/>led popes of Rome) aboute the yere of our lorde god. M. CCC. xxiiii.</p>
+</div>
+        </body>
+  </text>
+</TEI>

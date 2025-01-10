@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In GERARDI Botanologian .</title>
+           <author>Huntonus, Antonius</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122165_Fr1_6</idno>
+           <idno type="DLPS">A01622</idno>
+           <idno type="STC">11751</idno>
+           <idno type="ESTC">S122165</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In GERARDI Botanologian .</title>
+                 <author>Huntonus, Antonius</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The herball or Generall historie of plantes. Gathered by Iohn Gerarde of London Master in Chirurgerie very much enlarged and amended by Thomas Iohnson citizen and apothecarye of London</title>
+                 <author>Gerard, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Islip, Adam.</publisher>
+                            <publisher>Norton, Joyce (Jocosa).</publisher>
+                            <publisher>Whitaker, Richard</publisher>
+                        </imprint>
+                 <extent>38, 1630, 50 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="6"/>
+   <head>In GERARDI Botanologian <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>VLtimus ecce <hi>Gerardus:</hi> at edit an optimus herbas?</l>
+   <l>Quid ni? non not as sed dedit ille novas.</l>
+   <l>Ergo ne inuideas, videas cum nomen &amp; omen</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, mirum est ardua quantagerit.</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <l>Sic liber est promus, condus vt <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> erat.</l>
+   <l>Et <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> caelumque solum{que} subegit.</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <closer>
+      <signed>ANTONIVS HVNTONVS. Medicinae candidatus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Au Prince Charles.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118073_Fr3_4_2</idno>
+           <idno type="DLPS">A13278</idno>
+           <idno type="STC">23581</idno>
+           <idno type="ESTC">S118073</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Au Prince Charles.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The parliament of vertues royal (summoned in France; but assembled in England) for nomination, creation, and confirmation of the most excellent prince Panaretus a præsage of Pr. Dolphin: a pourtrait of Pr. - Henry: a promise of Pr. Charles. Translated &amp; dedicated to His Highnes, by Iosuah Syluester</title>
+                 <author>Sylvester, Josuah</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>8, 308 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Au Prince Charles.</head>
+   <lg>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>sile Tout-puissant, de sa main de PANDORE,</l>
+      <l>Face d'vn <hi>Charle-moindre,</hi> vn <hi>Charle-magne</hi> encore;</l>
+      <l>Qui, suivant Voz <hi>Vertuz,</hi> deriue, perennel,</l>
+      <l>Saincts-Sages-Preux STVARTS au Sceptre paternel.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

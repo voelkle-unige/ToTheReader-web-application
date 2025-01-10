@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121885_Ba1_2</idno>
+           <idno type="DLPS">A12458</idno>
+           <idno type="STC">22787</idno>
+           <idno type="ESTC">S121885</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Advertisements for the unexperienced planters of New-England, or any where. Or, The path-way to experience to erect a plantation : With the yearely proceedings of this country in fishing and planting, since the yeare 1614. to the yeare 1630. and their present estate. Also how to prevent the greatest inconveniences, by their proceedings in Virginia, and other plantations, by approved examples. With the countries armes, a description of the coast, harbours, habitations, land-markes, latitude and longitude: with the map, allowed by our royall King Charles. By Captaine Iohn Smith, sometimes governour of Virginia, and admirall of Nevv-England</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Haviland, John.</publisher>
+                            <publisher>Milbourne (Milburne, Mylbourne), Robert</publisher>
+                        </imprint>
+                 <extent>8, 40 pages, folded plates, map, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="30"/>
+   <head>Errata.</head>
+   <p>COurteous Reader, by reason of the false transcribe<g ref="char:EOLhyphen"/>ing of the Copy these faults are past, which we de<g ref="char:EOLhyphen"/>sire you to mend with your Pen.</p>
+   <p>In the Epistle to the Reader l. 9. for <hi>detractnesse</hi> read <hi>detractment.</hi> in the Contents. Chap. 7. l. 3. <hi>the Sants,</hi> r. <hi>them Phesants.</hi> page 1. l. 14. <hi>desirous,</hi> r. <hi>desired.</hi> p 2. l. 28. <hi>denied not,</hi> r. <hi>denied it, not.</hi> p. 24. l. 25. <hi>the Sants</hi> r. <hi>them Phesants.</hi> p. 26. l. 26. <hi>Cattanents,</hi> r. <hi>Catavents.</hi> p. 27. l. 16. <hi>with,</hi> r. <hi>to which.</hi> p. 28 against line 22. <hi>R. B.</hi> wants in the mar<g ref="char:EOLhyphen"/>gin. p. 32. l. 28. <hi>Almond,</hi> r. <hi>Allom.</hi> p. 44. against line 7. <hi>R. B.</hi> wants in the margin. p. 52. l. 22. <hi>accord▪</hi> r. <hi>action.</hi> p. 54. in line 14 and 15. blot out <hi>Cutters to have made India Tobacco.</hi> p. 55. l. 4. <hi>then for mine,</hi> r. <hi>then mine for.</hi> p. 61. l. 3. <hi>shaviva,</hi> r. <hi>aleavina.</hi> p. 66. l. 23. <hi>immitation,</hi> r. <hi>ini<g ref="char:EOLhyphen"/>tiation.</hi> p. 67. l. 4. <hi>come,</hi> r. <hi>am.</hi> p. 71. against line 29. <hi>R. B.</hi> wants in the margin. p. 72. l. 6. 7. 8. 9. for</p>
+   <lg>
+      <l>Neva disant ma main faict cest aennre,</l>
+      <l>On ma vertut cebel aennre ae par faict;</l>
+      <l>Mais dis ainsi dien par moy a faict,</l>
+      <l>Dieu est santheur dei peu de bien que je' onre.</l>
+   </lg>
+   <p>reade,</p>
+   <lg>
+      <l>Ne va disant ma main a faict cest oeuure,</l>
+      <l>Ou ma vertu ce bel oeuure a par faict;</l>
+      <l>Mais dis ainsi dieu par moy l'our a faict,</l>
+      <l>Dieu est l'autheur du peu de bien que je'oure.</l>
+   </lg>
+   <pb facs="31"/>
+   <pb facs="31"/>
+</div>
+        </body>
+  </text>
+</TEI>

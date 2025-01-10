@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD AMICVM FIDELEM, VIGI∣LANTEM PASTOREM, ET ERVDITVM, GVILIELMVM NARNVM, CARMEN.</title>
+           <author>Michaelsone, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101894_Fr1_3</idno>
+           <idno type="DLPS">A07996</idno>
+           <idno type="STC">18360</idno>
+           <idno type="ESTC">S101894</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD AMICVM FIDELEM, VIGI∣LANTEM PASTOREM, ET ERVDITVM, GVILIELMVM NARNVM, CARMEN.</title>
+                 <author>Michaelsone, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The pearle of prayer most pretious and powerfull, or, A Christian treatise : most necessarie for all these that desire to eshew that wrath to come, the Lords curse, and everlasting damnation, and who doe long for Gods favour, his blessing, and to attaine to endlesse salvation. By Mr. William Narne</title>
+                 <author>Narne, William</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>16, 453, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poems">
+   <pb facs="4"/>
+   <head>
+      <hi>AD AMICVM FIDELEM,</hi> VIGI<g ref="char:EOLhyphen"/>LANTEM PASTOREM, <hi>ET ERVDITVM,</hi> GVILIELMVM NARNVM, <hi>CARMEN.</hi>
+   </head>
+   <l>ORans exores qui sic ratione peroras:</l>
+   <l>Non deserta tua est <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> diserta docens.</l>
+   <l>Hâc itur ad superos, infra tollure restictâ,</l>
+   <l>Te monstrante, peto quaero{que} pulso, viam.</l>
+   <l>Profice scribendo, seribas quo{que} proficiendo,</l>
+   <l>Scribas vt prosis frairibus at{que} tibi.</l>
+   <p>Aliud.</p>
+   <l>
+      <hi>DEsertum</hi> nactus, Christi vt praecursor eremum,</l>
+   <l>Ʋtrum{que} at celebrem vos facitote locum.</l>
+   <p>Aliud.</p>
+   <l>CIrrha, Helicon, Pindus, Parnassus, Apollo, A<g ref="char:EOLhyphen"/>ganippe,</l>
+   <l>Castalij latices, turba{que} Pieridûm.</l>
+   <l>Haec me si faciant vatem, divûm{que} Poetam,</l>
+   <l>Haud caenerem ingenio carmina digna tuo.</l>
+   <l>Nostra tuo ingenio si non sunt digna beato,</l>
+   <l>Sat scio sunt genio carmina grata tuo.</l>
+   <closer>
+      <signed>IO. MICHAELSONE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

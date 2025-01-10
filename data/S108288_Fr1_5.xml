@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN SERENISSIMVM INVICTISSIMVMQVE SCOTIAE REGEM JACOBVM SEXTVM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108288_Fr1_5</idno>
+           <idno type="DLPS">A04260</idno>
+           <idno type="STC">14379</idno>
+           <idno type="ESTC">S108288</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN SERENISSIMVM INVICTISSIMVMQVE SCOTIAE REGEM JACOBVM SEXTVM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>His Maiesties poeticall exercises at vacant houres</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1591</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>124 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="el">Greek</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <pb facs="5"/>
+   <head>
+      <hi>IN</hi> SERENISSIMVM INVICTISSIMVMQVE SCOTIAE REGEM JACOBVM SEXTVM.</head>
+   <lg xml:lang="grc">
+      <l>
+         <seg rend="decorInit">Τ</seg>ουνόματος τὶς πέζα τεοῦ χωρησεν ἐπούνους ,</l>
+      <l>Παμβασιλεῦ? σοφίας τίς κλέος αἰπὺ τεῆς?</l>
+      <l>Αρ Υπεριονίδαο σελασφόρον ἄντυγα Φοίβου</l>
+      <l>Πρῶτα θεασαμενοι? μὴ Ζεφύροιο δόμος?</l>
+      <l>Αρα πόλων κρυεροῖς πεφρικυῖαι πειρασιν ἄρκτοι,</l>
+      <l>Οψονται πτεροεν κῦδος ἔνερθε τεόν?</l>
+      <l>Σὸν δὲ πρὸς αὶθαλόεσσαν ἀνίπταται αιθερος αἴγλην</l>
+      <l>Εὖχος, ἀπειρεσίου πάντα διῇξαν ὅρον.</l>
+   </lg>
+   <closer>
+      <signed>ΑΔΡΙΑΝΟΣ Ο ΔΑΜΜΑΝ.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

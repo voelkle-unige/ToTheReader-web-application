@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTORI.</title>
+           <author>R., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116200_Fr2_4</idno>
+           <idno type="DLPS">A17589</idno>
+           <idno type="STC">4366</idno>
+           <idno type="ESTC">S116200</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTORI.</title>
+                 <author>R., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The countesse of Marres Arcadia, or sanctuarie : Containing morning, and evening meditations, for the whole weeke. By M. Ia. Caldwell sometimes preacher of Gods Word, at Fawkirke. Enriched with a godlie treatise, called, An ascension of the soule to heaven, by meditation on the passion of our Lord Iesus Christ</title>
+                 <author>Caldwell, James</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>14, 77, 76-80, 30 113-444, 20 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="65"/>
+   <head>LECTORI.</head>
+   <l>PRo servis Dominus moritur, pro s<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ntibus insons,</l>
+   <l>Pro aegroto medicus, pro grege pastor obit.</l>
+   <l>Pro populo Rex mactatur, pro milite Ductor,</l>
+   <l>Proque opere ipse Opisex, proque homine ipse Deus.</l>
+   <l>Quid servus, sons, aegrotus, quid grex, populusque,</l>
+   <l>Quid miles, quid opus, quid ve homo solvet? Amet.</l>
+   <closer>
+      <signed>B. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

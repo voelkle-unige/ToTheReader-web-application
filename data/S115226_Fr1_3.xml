@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous Reader.</title>
+           <author>Hood, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115226_Fr1_3</idno>
+           <idno type="DLPS">A03580</idno>
+           <idno type="STC">13701</idno>
+           <idno type="ESTC">S115226</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous Reader.</title>
+                 <author>Hood, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vse of the two mathematicall instruments : the crosse staffe, (differing from that in common vse with the mariners:) and the Iacobs staffe: set foorth dialogue wise in two briefe and plaine treatises: the one most commodious for the mariner, and all such as are to deale in astronomicall matters: the other, profitable for the surueyor, to take the length, height, depth, or breadth, of any thing measurable. Set forth by Th. Hood. mathematicall lecturer in the citie of London. Newly reviewed, and the second time imprinted. The staues are to be sold in Marke lane, at the house of Francis Cooke</title>
+                 <author>Hood, Thomas</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Dexter, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Present vnto thee (gentle Reader) in one small Volume, the vse of two Mathe<g ref="char:EOLhyphen"/>maticall Instruments, the one is the Crosse Staffe: the other, the Iacobs Staffe. In the deliuery of their vse, I haue done mine endeuour to lay out the mat<g ref="char:EOLhyphen"/>ter most plainely, that thou maist finde commodity in the thing. That is all my desire, which if I may attaine vnto, I shall be glad. If any thing seeme otherwise vnto thee, accept my good will, whose purpose was to satisfie thy minde: and interprete hereof faucurably, at the least, because it is my first labour that euer came abroad. So shall I be the more willing to take farther paines, and to commit such other things vnto thy sight, as I haue in hand. Farewell.</p>
+   <closer>
+      <signed>Thine <hi>Th. Hood.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

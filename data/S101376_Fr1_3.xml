@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentle Reader.</title>
+           <author>Johnson, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101376_Fr1_3</idno>
+           <idno type="DLPS">A04556</idno>
+           <idno type="STC">14678</idno>
+           <idno type="ESTC">S101376</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentle Reader.</title>
+                 <author>Johnson, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second part of the famous history of the seauen champions of Christendome : Likevvise shevving the princely provvesse of Saint Georges three sonnes, the liuely sparke of nobilitie. VVith many other memorial atchiuements worthy the golden spurres of knighthood</title>
+                 <author>Johnson, Richard</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Burby, Cuthbert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 </imprint>
+                 <extent>198 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Gentle Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Haue finished the seconde part of the seuen Champions of Christen<g ref="char:EOLhyphen"/>dome, onely for thy delight, being thertoo incouraged by thy greate curtesie in the kinde acceptation of my first part. I haue no eloquent phrases to inuite thy willingnes to read, onely a little barren inuenti<g ref="char:EOLhyphen"/>on, wherof I haue no cause to boast, so excellently the wits of many in these daies in that kinde exceed. Onely thy curtesie must be my Buckler, against the carping malice of mocking iesters, that being worst able to doe well, scoffe commonly at that they cannot mend, cen<g ref="char:EOLhyphen"/>suring all thinges, doing nothing, but (monkey like) make apish iests at any thinge they see in Print: and nothing plea<g ref="char:EOLhyphen"/>seth them, except it sauor of a scoffing or inuectiue spirite. Well, what those say of me I doe not care, thy delight one<g ref="char:EOLhyphen"/>ly is my desire: And accept it and I am satisfied, reiect it and this shall bee my penaunce neuer againe to come in Print. But hauing better hope, I boldly leade thee to this maine from this doubtfull floude of suspition where I rest. Walke on in the historie, as in an ouergrown &amp; ill husband<g ref="char:EOLhyphen"/>ed garden: if among all the weedes thou finde one plea<g ref="char:EOLhyphen"/>sing flower I haue my wish.</p>
+   <closer>
+      <signed>Thine <hi>Richard Iohnson.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

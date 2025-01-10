@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1559</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106671_Bo1_5</idno>
+           <idno type="DLPS">A19700</idno>
+           <idno type="STC">6119</idno>
+           <idno type="ESTC">S106671</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cosmographical glasse : conteinyng the pleasant principles of cosmographie, geographie, hydrographie, or nauigation. Compiled by VVilliam Cuningham Doctor in Physicke</title>
+                 <author>Cuningham, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1559</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>Day, John 1.</publisher>
+                            <publisher>Day, John 1.</publisher>
+                            <publisher>Stationers’ Company, London</publisher>
+                        </imprint>
+                 <extent>12, 202, 10 pages, 2 folded leaves of plates, illustrations, portraits, maps, table, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_to_the_reader">
+   <pb n="152" facs="88"/>
+   <head>To the Reader.</head>
+   <p>Heare should come into this Page (frendly Rea<g ref="char:EOLhyphen"/>der) the table of the Mones ebbinge and flowinge: but because the space is not sufficient, you shall finde it, in an open sheet, whiche must here to be annexid.</p>
+</div>
+        </body>
+  </text>
+</TEI>

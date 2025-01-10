@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[St. Paul'S Cathedral Speaks]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114628_Fr1_3</idno>
+           <idno type="DLPS">A00551</idno>
+           <idno type="STC">10688</idno>
+           <idno type="ESTC">S114628</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[St. Paul'S Cathedral Speaks]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The complaint of Paules, to all Christian soules: or an humble supplication, to our good King and nation, for her newe reparation. Written by Henrie Farley. Amore, veritate, &amp; reuerentia</title>
+                 <author>Farley, Henry</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="St._Pauls_cathedral_speaks">
+   <pb facs="2"/>
+   <p>I Poore <hi>Paules</hi> deiected and distressed, yet beeing in the best prospect, and taller then all my fellowes) doe see, or at least may see, (if my windowes be eyes) many stately monuments, houses, and other things builded, and done within these fewe yeeres, some for Honour, some for profit, some for Beautie, some for pleasure, some for health and recreati<g ref="char:EOLhyphen"/>on, some for Royall entertainments and sports, and many for charitable vses:</p>
+   <p>And I haue seene the Globe burnt, and quickly made a Phoenix.</p>
+   <p>
+      <hi>Q.</hi> But who sees me? <hi>A.</hi> Who sees thee not?</p>
+   <q>Tunc etiam spero,</q>
+   <q>
+      <l>And hope will still, though still I haue the worst;</l>
+      <l>For wer't not for some hope, my Heart would burst.</l>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

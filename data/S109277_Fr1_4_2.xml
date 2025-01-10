@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ejusdem aliud.</title>
+           <author>Bellendinus, Galterus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109277_Fr1_4_2</idno>
+           <idno type="DLPS">A04796</idno>
+           <idno type="STC">14929</idno>
+           <idno type="ESTC">S109277</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ejusdem aliud.</title>
+                 <author>Bellendinus, Galterus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The historie of Calanthrop and Lucilla : Conspicuously demonstrating the various mutabilities of fortune in their loves, with every severall circumstance of ioyes and crosses, fortunate exploites, and hazardous adventures, which either of them sustained before they could attaine the prosperous event of their wished aimes. By Iohn Kennedie</title>
+                 <author>Kennedy, John</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>120 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Ejusdem aliud.</head>
+   <lg>
+      <l>HIc <hi>Venerem Venerisque</hi> doces <hi>Kennede</hi> clientes,</l>
+      <l>Ore verecundo verba <hi>Britanna</hi> loqui,</l>
+      <l>Vlla nec in toto prurit lascivia libro,</l>
+      <l>Non minus est nobis, pagina, vita, proba.</l>
+   </lg>
+   <closer>
+      <signed>Galterus Bellendinus</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶TO THE READER greeting.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109219_Fr1_3</idno>
+           <idno type="DLPS">A19798</idno>
+           <idno type="STC">6226</idno>
+           <idno type="ESTC">S109219</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶TO THE READER greeting.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A dialogue of witches, in foretime named lot-tellers, and novv commonly called sorcerers : VVherein is declared breefely and effectually, vvhat soeuer may be required, touching that argument. A treatise very profitable ... and right necessary for iudges to vnderstande, which sit vpon lyfe and death. Written in Latin by Lambertus Danæus. And now translated [by T. Twyne] into English</title>
+                 <author>Daneau, Lambert</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <distributor>Watkins, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Witchcraft, demonology, occult writings</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>¶TO THE READER greeting.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hat, and howe great the profite of this ar<g ref="char:EOLhyphen"/>gument is, shall suf<g ref="char:EOLhyphen"/>ficiently appeare in the disputation. But that no mā may think that I haue written it rather to please the fansie of curious wits, then of discreete persons: I may truely protest this much (louing Reader) that but vpon earnest in<g ref="char:EOLhyphen"/>treatie of my frendes, and continual sollicitation of diuers, I tooke this kinde of writing in hand. It contai<g ref="char:EOLhyphen"/>neth no olde wyues tales, which if I had gathered together, this trea<g ref="char:EOLhyphen"/>tise would haue increased from a small to a great volome of fourtene Bookes. Wherefore, it contayneth but only such matter as most cre<g ref="char:EOLhyphen"/>dible hystories doo reporte, and the
+<pb facs="4"/>
+opinions of godly and learned wri<g ref="char:EOLhyphen"/>ters: &amp; finally, what may bee deter<g ref="char:EOLhyphen"/>mined in this controuersie, out of the expresse word of God. They that shall reade it, wil confesse with mee, that this argument is but new, and this place vtterly left vn<g ref="char:EOLhyphen"/>touched by those that haue writ<g ref="char:EOLhyphen"/>ten of the illusions of Diuelles. In the meane whyle, gentle Reader, receyue this traueile in good part, which is written in thy behalf, and enioy it to thy commoditie.</p>
+   <closer>Fare<g ref="char:EOLhyphen"/>well. <dateline>Dated at <hi>Orleans</hi> vpon <hi>Loyr,</hi>
+         <date> the <hi>Calendes</hi> of <hi>Iuly.</hi>
+1575.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

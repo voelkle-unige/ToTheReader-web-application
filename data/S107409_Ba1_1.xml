@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Faults escaped in some copies.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107409_Ba1_1</idno>
+           <idno type="DLPS">A17864</idno>
+           <idno type="STC">4531</idno>
+           <idno type="ESTC">S107409</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Faults escaped in some copies.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An examination of those plausible appearances which seeme most to commend the Romish Church, and to preiudice the reformed : Discovering them to be but meere shifts, purposely invented, to hinder an exact triall of doctrine by the Scriptures. By Mr Iohn Cameron. Englished out of French</title>
+                 <author>Cameron, John</author>
+                 <imprint>
+                    <distributor>Forrest, Edward</distributor>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1626</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>8, 173, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="90"/>
+   <pb facs="90"/>
+   <head>Faults escaped in some copies.</head>
+   <p>PAg. <hi>5.</hi> lin. <hi>18.</hi> for braue, read, some braue. Pag. <hi>8.</hi> line <hi>21.</hi> for superstition, superstition florished. P· <hi>11.</hi> lin. <hi>29.</hi> for accompany, for the most part accompany. <hi>28.17.</hi> for won, wondred. <hi>31.27.</hi> for liberally, lite<g ref="char:EOLhyphen"/>rally. <hi>132.1.</hi> for being true, being no true Pag. <hi>108.</hi> referre the citation out of Cyzicenus to that which followeth about Hosius. and at <hi>u</hi> read Athanas. <hi>2.</hi> Apol. <hi>Diuers other petty faults there are, such as cannot wrong a<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> intelligent Reader.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

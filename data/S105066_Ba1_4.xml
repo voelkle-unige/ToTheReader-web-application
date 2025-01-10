@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Illustrissimo equiti aurato, Domino Thomae Smit, societatis Mercato∣rum Indiae orientalis gubernatori pruden∣tissimo, aeternam in Domino felicitatem.</title>
+           <author>Papa, Petrus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105066_Ba1_4</idno>
+           <idno type="DLPS">A19313</idno>
+           <idno type="STC">5727</idno>
+           <idno type="ESTC">S105066</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Illustrissimo equiti aurato, Domino Thomae Smit, societatis Mercato∣rum Indiae orientalis gubernatori pruden∣tissimo, aeternam in Domino felicitatem.</title>
+                 <author>Papa, Petrus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Virginia's God be thanked, or A sermon of thanksgiving for the happie successe of the affayres in Virginia this last yeare. Preached by Patrick Copland at Bow-Church in Cheapside, before the Honorable Virginia Company, on Thursday, the 18. of Aprill 1622. And now published by the commandement of the said honorable Company. Hereunto are adjoyned some epistles, written first in Latine (and now Englished) in the East Indies by Peter Pope, an Indian youth, borne in the bay of Bengala, who was first taught and converted by the said P.C. And after baptized by Master Iohn Wood, Dr in Divinitie, in a famous assembly before the Right Worshipfull, the East India Company, at S. Denis in Fan-Church streete in London, December 22. 1616</title>
+                 <author>Copland, Patrick</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <distributor>Bellamy, John</distributor>
+                            <distributor>Sheffard, William</distributor>
+                        </imprint>
+                 <extent>6, 36, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="24"/>
+   <head>Illustrissimo equiti aurato, Domino Thomae Smit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>, societatis Mercato<g ref="char:EOLhyphen"/>rum Indiae orientalis gubernatori pruden<g ref="char:EOLhyphen"/>tissimo, aeternam in Domino felicitatem.</head>
+   <p>CLarissime Domine, multis nominibus plurimùm mihi colende, libet si licet epistolio te hoc, rudi licet, in<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>isere; quò gratitudinem in te m<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>am, ob magna multa{que} tua in me collata beneficia tester. Vbi De<g ref="char:EOLhyphen"/>us maiores in lingua latina dederit progressus, longiores fortassis etiam elegantiores a<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> magis disertas, a me ex<g ref="char:EOLhyphen"/>pectabis literulas. Interea non dubito quin cels<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>do vestra, pro ea quae tua in me est <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>lementia, ha<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> grati animi testes, aequi boni{que} consulat. Deus opt. Max. te longè multùm{que} incolumem seru<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> quò illustri Mer<g ref="char:EOLhyphen"/>catorum Societati sis decorì ac ornamento eximio, at{que} ita hîc fauorem assequaris ampliorem, &amp; in coelis amplissimum. </p>
+   <closer>
+      <dateline>Vale ex Regali vestra Iacobo <date>.24. Aprilis 1620.</date>
+      </dateline>
+      <signed>Illustrissima amplitudinis <gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>a studio <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>iss<gap reason="illegible" resp="#pdcc" extent="3 letters">
+            <desc>•••</desc>
+         </gap>s. <hi>Petrus Papa.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

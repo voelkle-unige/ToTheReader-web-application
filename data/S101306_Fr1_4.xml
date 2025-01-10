@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ORNATISSIMIS VI∣RIS GHORGIO BAKERO AR∣migero, Thomae Thorney, Iohanni Gerardo, Christophero Frederico, Iosepho Fentonio, Richardo Maps Chirug. peruiss. Londinens. caeteris{que} e∣iusdem artis in eadem ci∣uitate professori∣bus Dignis∣simis.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101306_Fr1_4</idno>
+           <idno type="DLPS">A14264</idno>
+           <idno type="STC">24577</idno>
+           <idno type="ESTC">S101306</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ORNATISSIMIS VI∣RIS GHORGIO BAKERO AR∣migero, Thomae Thorney, Iohanni Gerardo, Christophero Frederico, Iosepho Fentonio, Richardo Maps Chirug. peruiss. Londinens. caeteris{que} e∣iusdem artis in eadem ci∣uitate professori∣bus Dignis∣simis.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Enchiridion medicum : containing, an epitome of the whole cocrse of physicke: with the examination of a chirurgion, by way of dialogue betweene the doctor and the student. With a treatise contaning a definition of all those diseases that do chiefly affect the body of man: and an antidotary of many excellent, and approued remedies for all diseases. Published for the benefit of young students in physicke, chirurgions, and apothecaries</title>
+                 <author>Pomarius, Petrus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Ballard, Henry.</publisher>
+                            <publisher>Potter, George</publisher>
+                        </imprint>
+                 <extent>6, 125, 2, 89, 70, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>ORNATISSIMIS VI<g ref="char:EOLhyphen"/>RIS GHORGIO BAKERO AR<g ref="char:EOLhyphen"/>migero, Thomae Thorney, Iohanni <hi>Gerardo, Christophero Frederico, Iosepho</hi> Fentonio, Richardo Maps Chirug. <hi>peruiss. Londinens. caeteris{que} e<g ref="char:EOLhyphen"/>iusdem</hi> artis in eadem ci<g ref="char:EOLhyphen"/>uitate professori<g ref="char:EOLhyphen"/>bus Dignis<g ref="char:EOLhyphen"/>simis.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">C</seg>Vm huic dere medica li<g ref="char:EOLhyphen"/>bello (qualiscunque tan<g ref="char:EOLhyphen"/>dem iste siet) mei excer<g ref="char:EOLhyphen"/>cendi gratia colopho<g ref="char:EOLhyphen"/>nem addidissem (viri dignissimi) non deerant ex interioribus meis nonnulli qui à me haud ignauè contendebant hunc prelo committere: quorum petitiones cum à me minimè frustratas iri denique curas<g ref="char:EOLhyphen"/>sem, mihi mecum consulenti, quem patro<g ref="char:EOLhyphen"/>num huic libellulo deligerem, eccè, vos ip<g ref="char:EOLhyphen"/>sioccurristis:
+<pb facs="4"/>
+quorum patrocinio eum statim dicare decretum habui. Illudque ipsum lubens ago, in vestramque tutelam hune accipi cò magis postulo, quòd vnius eiusque (ni fallor) anti quissimae medici<g ref="char:EOLhyphen"/>nae partis vos professores estis longè dig<g ref="char:EOLhyphen"/>nissimi. Nec me fugit vobis pernotum esse, ad exercendam praeclaram illam Chi<g ref="char:EOLhyphen"/>rurgiae artem neminem aptum fore, qui ad hanc medicinae partem aliquandiu non instructus fuerit. Quocirca vobis ipsis, caeterisque condignis rei Chirurgicae alumnis, inclytae ciuitatis huius incolis has meas exercitatiunculas deuouere o<g ref="char:EOLhyphen"/>peraepretium existimani. A vobis iterum contendens, eas à vestro patrocinio pro<g ref="char:EOLhyphen"/>tectas iri: quas si bene consultas gratéque habitas intellexero, ad maius aggredien<g ref="char:EOLhyphen"/>dum opus, vtilitatis vestrae gratiâ ani<g ref="char:EOLhyphen"/>mum certè mihi dederitis. Quos interim cum pijs vestris conatibus, omnipotentis dei tutelae commendare non desistam.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

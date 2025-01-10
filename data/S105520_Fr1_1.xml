@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Introduction]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1531</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105520_Fr1_1</idno>
+           <idno type="DLPS">A05777</idno>
+           <idno type="STC">15973</idno>
+           <idno type="ESTC">S105520</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Introduction]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>This prymer of Salysbury vse is set out a long wout ony serchyng : with many prayers, and goodly pyctures in the kale [n] der, in the matyns of our lady, in the houres of the crosse in the. vii. psalmes, and in the dyryge</title>
+                 <author>Catholic Church</author>
+                 <imprint>
+                    <publisher>Regnault, Francois</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1531</date>
+                 </imprint>
+                 <extent>clxix, 3 leaves, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="introduction">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <p>This prymer of Salysbury v<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> is set out a long wout ony serchyng / with many prayers / and goodly pyctures in the kalēder / in the matyus of our lady / in the houres of the crosse in the .vij. psalmes / and in the dyryge. And be newly enprynted at Par<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s. M.ccccc.xxxi.</p>
+   <p>
+      <figure>
+</figure>
+   </p>
+   <q>
+      <l>¶ God be in my hede</l>
+      <l>And in myn vnderstandynge.</l>
+      <l>God be in myn eyen</l>
+      <l>And in my lokynge</l>
+      <l>God be in my mouth</l>
+      <l>And in my spekynge.</l>
+      <l>God be in my herte</l>
+      <l>And in my thynkynge.</l>
+      <l>God be at myn ende</l>
+      <l>And at my departynge.</l>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

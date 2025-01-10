@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           <author>F., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105577_Fr1_2</idno>
+           <idno type="DLPS">A00667</idno>
+           <idno type="STC">10800</idno>
+           <idno type="ESTC">S105577</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 <author>F., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A perfume against the noysome pestilence : prescribed by Moses vnto Aaron. Num. 16. 46. Written by Roger Fenton, preacher of Grayes Inne</title>
+                 <author>Fenton, Roger</author>
+                 <imprint>
+                    <publisher>Read, Richard</publisher>
+                    <distributor>Aspley, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>96 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>To the Christian</hi> Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hese times of Gods visitati<g ref="char:EOLhyphen"/>on doe begge that at my hands which otherwise, in this writing age, might very well haue bin spared: the publishing of some few Meditations concerning the times, for the instruction and comfort of such as shall now stand in need of the same. And albeit it seemeth to me a matter of great difficultie to prescribe formes of priuate prayer for others, since I haue not the scantling of any ones
+<pb facs="3"/> affection but mine owne: yet because this Treatise promi<g ref="char:EOLhyphen"/>seth somewhat in that kinde: I haue annexed three suppli<g ref="char:EOLhyphen"/>cations: which if they may fit thy deuotion (gentle rea<g ref="char:EOLhyphen"/>der) I shall be right glad: If not, I wish thee that which may togither with all spiritu<g ref="char:EOLhyphen"/>all comfort in life and death, to the glorie of God in Christ Iesus our Lord,</p>
+   <closer>
+      <signed>R. F.</signed>
+      <dateline>
+         <date>
+            <hi>August.</hi> 9. 1603.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

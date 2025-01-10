@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112547_Fr1_5</idno>
+           <idno type="DLPS">A07317</idno>
+           <idno type="STC">17705</idno>
+           <idno type="ESTC">S112547</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Queene Elizabeths looking-glasse of grace and glory : Wherein may be seen the fortune of the faithfull: that is to say, the wrastling, victory, and reward, or the combat, conquest and crowne of Gods children. All cleerely represented according to Scripture, &amp; illustrated by diuers notable examples of Gods seruants both men and vvomen: and likewise enterlaced with many memorable alligories &amp; morallties: both pleasant and profitable to be read. By I.M. Master of Arts</title>
+                 <author>Maxwell, James</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>22, 215, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="11"/>
+   <head>ERRATA.</head>
+   <head type="sub">Such escapes as haue beene committed in the presse, the gentle Reader shall find corrected heere in this Page.</head>
+   <p>PAg. 23. lin. 2 for they, read. 1) p. 34 lin. 4. for labo<g ref="char:EOLhyphen"/>rinth read lauer) p. 46. lin. 21. for assemble read re<g ref="char:EOLhyphen"/>semble) p. 52. lin. 1. after) selfe, adde perfite) p. 59 lin. 9. for and, read end) p 69 lin. 21, for whom, read who) p. 84. lin. 1. for faith read truth) p. 108 lin. 18, for con<g ref="char:EOLhyphen"/>tentions were, read contentious men) p. 109. li 16. for nicenes, read nicetics) p. 173. lin. 1. for force, read face.</p>
+</div>
+        </body>
+  </text>
+</TEI>

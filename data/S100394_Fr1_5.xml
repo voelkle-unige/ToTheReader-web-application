@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100394_Fr1_5</idno>
+           <idno type="DLPS">A22928</idno>
+           <idno type="STC">94</idno>
+           <idno type="ESTC">S100394</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The naturall and morall historie of the East and West Indies : Intreating of the remarkeable things of heaven, of the elements, mettalls, plants and beasts which are proper to that country: together with the manners, ceremonies, lawes, governements, and warres of the Indians. Written in Spanish by the R.F. Ioseph Acosta, and translated into English by E.G</title>
+                 <author>Acosta, José de</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <distributor>Aspley, William</distributor>
+                            <distributor>Blount (Blunt), Edward</distributor>
+                        </imprint>
+                 <extent>8, 188, 187-590, 16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="11"/>
+   <head>Errata.</head>
+   <list>
+      <item>111.22. for, <hi>Paraguen</hi> reade <hi>Paraguay.</hi>
+      </item>
+      <item>120.30. for, River reade Region.</item>
+      <item>135.32. for, to reade in</item>
+      <item>141.28. for, the motion reade without any <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>otion</item>
+      <item>148.33. for, inhabited reade not inhabited</item>
+      <item>164.17. for, greene reade great</item>
+      <item>198.23. for, hundred reade five hundred</item>
+      <item>213.21. for, <hi>Curuma</hi> reade <hi>Cucuma</hi>
+      </item>
+      <item>229.17. for, to reade and</item>
+      <item>235.11. for, it reade that</item>
+      <item>241.8, for, it reade his</item>
+      <item>253.12, for, maces reade markes</item>
+      <item>274.8. for, little reade like</item>
+      <item>278.19. for, is no reade is a</item>
+      <item>351.25. for, many reade in many</item>
+      <item>368.2. for, possession reade profession</item>
+      <item>397.14. for, to the communion reade to the people in manner of a com<g ref="char:EOLhyphen"/>munion</item>
+      <item>514.21. for partiall reade particular</item>
+      <item>324.32. for, convenient in a maner reade in a convenient manner.</item>
+      <item>335.3. for, of reade to</item>
+      <item>347.25. for, neither reade in their</item>
+   </list>
+   <p>Gentle Reader, from the folio 225. line 14, 16, 19, 20. where you finde peeces reade pezoes till you come to folio 322. line 22.</p>
+</div>
+        </body>
+  </text>
+</TEI>

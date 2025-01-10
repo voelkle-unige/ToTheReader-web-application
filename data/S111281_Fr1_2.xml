@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT worthy and noble Knight Sir VValter Raleigh, Captaine of her Maiesties Guard, Lord Wardein of the Stanneries, and Lieutenant of the Countie of Cornwall.</title>
+           <author>Spenser, Edmund</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111281_Fr1_2</idno>
+           <idno type="DLPS">A12773</idno>
+           <idno type="STC">23077</idno>
+           <idno type="ESTC">S111281</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT worthy and noble Knight Sir VValter Raleigh, Captaine of her Maiesties Guard, Lord Wardein of the Stanneries, and Lieutenant of the Countie of Cornwall.</title>
+                 <author>Spenser, Edmund</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Colin Clouts come home againe. By Ed. Spencer</title>
+                 <author>Spenser, Edmund</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 <publisher>Creede, Thomas.</publisher>
+                            <publisher>Ponsonby, William.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT worthy and noble Knight Sir <hi>VValter Raleigh,</hi> Captaine of her Maiesties Guard, Lord Wardein of the Stanneries, and Lieutenant of the Countie of Cornwall.</head>
+   <p>
+      <seg rend="decorInit">S</seg>IR, that you may see that I am not al<g ref="char:EOLhyphen"/>waies ydle as yee thinke, though not greatly well occupied, nor altogither vndutifull, though not precisely of<g ref="char:EOLhyphen"/>ficious, I make you present of this sim<g ref="char:EOLhyphen"/>ple pastorall, vnworthie of your high<g ref="char:EOLhyphen"/>er conceipt for the meanesse of the stile, but agreeing with the truth in circumstance and mat<g ref="char:EOLhyphen"/>ter. The which I humbly beseech you to accept in part of paiment of the infinite debt in which I acknowledge my selfe bounden vnto you, for your singular fauours and sundrie good turnes shewed to me at my late being in England, and with your good countenance protect a<g ref="char:EOLhyphen"/>gainst the malice of euill mouthes, which are alwaies wide open to carpe at and misconstrue my simple meaning.</p>
+   <p>
+      <pb facs="3"/>I pray continually for your happinesse.</p>
+   <closer>
+      <dateline> From my house of <hi>Kilcolman,</hi>
+         <date>the <hi>27.</hi> of December. <hi>1591.</hi>
+         </date>
+      </dateline>
+      <signed>
+         <hi>Yours euer humbly.</hi> Ed. Sp.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

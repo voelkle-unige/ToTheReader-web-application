@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>DEDICATED To the eternall memorie of that admirable Combat performed by two valorous Knights, Sir Robert Mansell ap∣pellant, and Sir Iohn Heydon Defendant; where both equally expressing fortitude and skill in giuing and receiuing wounds, scaped death, notwithstanding by the onely fauour of Prouidence.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1126_Bo2_1_1</idno>
+           <idno type="DLPS">A68703</idno>
+           <idno type="STC">21871</idno>
+           <idno type="ESTC">S1126</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>DEDICATED To the eternall memorie of that admirable Combat performed by two valorous Knights, Sir Robert Mansell ap∣pellant, and Sir Iohn Heydon Defendant; where both equally expressing fortitude and skill in giuing and receiuing wounds, scaped death, notwithstanding by the onely fauour of Prouidence.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Philomythie or Philomythologie : wherin outlandish birds, beasts, and fishes, are taught to speake true English plainely By Tho: Scot Gent</title>
+                 <author>Scot, Tho (Thomas)</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <publisher>Legat, John 2.</publisher>
+                            <publisher>Legat, John 2</publisher>
+                            <distributor>Constable, Francis</distributor>
+                            <distributor>Constable, Francis</distributor>
+                        </imprint>
+                 <extent>186 pages, illustrations (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>
+      <hi>DEDICATED</hi> To the eternall memorie of that admirable Combat performed by two valorous Knights, Sir <hi>Robert Mansell</hi> ap<g ref="char:EOLhyphen"/>pellant, and Sir <hi>Iohn Heydon</hi> Defendant; where both equally expressing fortitude and skill in giuing and receiuing wounds, scaped death, notwithstanding by the onely fauour of Prouidence.</head>
+   <lg>
+      <l>SInce you haue done more then I can relate</l>
+      <l>(A miracle in conquering Death) what hat<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Is that, then death more deadly, which suruiues</l>
+      <l>To cloude the glory of your after liues?</l>
+      <l>Be reconcilde; we shew most strength and skill</l>
+      <l>In mastering our strong frailtie, our weake will.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

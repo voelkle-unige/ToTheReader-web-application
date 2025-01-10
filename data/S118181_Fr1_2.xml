@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Hatton, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118181_Fr1_2</idno>
+           <idno type="DLPS">A13419</idno>
+           <idno type="STC">23728</idno>
+           <idno type="ESTC">S118181</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Hatton, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An arrant thiefe, vvhom euery man may trust : in vvord and deed, exceeding true and iust. With a comparison betweene a thiefe and a booke. Written by Iohn Taylor</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Gosson, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <l>THis Water <hi>Rat,</hi>
+      <note place="margin">
+         <hi>The Anna<g ref="char:EOLhyphen"/>gram of</hi> Rat <hi>is</hi> Art.</note> (or <hi>Art</hi>) I would commend,</l>
+   <l>But that I know not to begin or end:</l>
+   <l>He read his Verses to me, and which more is</l>
+   <l>Did moue my Muse to write <hi>Laudem Authoris,</hi>
+   </l>
+   <l>If for his Land Discoueries <note n="*" place="margin">
+         <hi>I touch not his Trauailes to</hi> Scotland Germany, <hi>or</hi> Bohemia <hi>or the Paper Boate.</hi>
+      </note> she should praise him,</l>
+   <l>Whether would then his liquid knowledge raise him?</l>
+   <l>Reade his two Treatises of <hi>Theefe</hi> and <hi>Whore,</hi>
+   </l>
+   <l>You le thinke it time for him to leaue his Oare.</l>
+   <l>Yet thus much of his worth I cannot smother,</l>
+   <l>Tis well for vs when <hi>Theeues</hi> peach one another.</l>
+   <l>This Preface is but poore, 'tis by a Boy done,</l>
+   <l>That is a Scholler of the Schoole of <hi>Croydon,</hi>
+   </l>
+   <l>Who when he hath more yeares and learning got,</l>
+   <l>Hee'l praise him more or lesse, or not a jot.</l>
+   <closer>
+      <dateline>Giuen <date>vpon Shroue Tuesday</date> from our seate, in the second Forme of the famous free Schoole of Croydon.</dateline>
+      <signed>By RICHARD HATTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

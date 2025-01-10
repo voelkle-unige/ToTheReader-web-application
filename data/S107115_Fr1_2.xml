@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE INGENVOVS READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107115_Fr1_2</idno>
+           <idno type="DLPS">A17474</idno>
+           <idno type="STC">4293.8</idno>
+           <idno type="ESTC">S107115</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE INGENVOVS READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Diatelesma: the fifth part or number : Comprehending the principall actions of Germany, France, Spaine, and the Neatherlands. Continued from November, 1637</title>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <distributor>Bourne, Nicholas</distributor>
+                            <distributor>Butter, Nathaniel</distributor>
+                        </imprint>
+                 <extent>8, 114, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE INGENVOVS READER.</head>
+   <epigraph>
+      <q>
+         <l>Claudere quae Coenas Lactuea solebat Auorum,</l>
+         <l>Dic mihi cur nostras inchoat illa dapes?</l>
+      </q>
+   </epigraph>
+   <p>
+      <seg rend="decorInit">I</seg>T may be questioned, why the Busi<g ref="char:EOLhyphen"/>nesse of the Neatherlands, vvhich used to stand in the Reare, should leade the Van, in this discovery; It is here, as in a ranged Battell, Faces about, al<g ref="char:EOLhyphen"/>ter not either Files or Ranks, but the Posture onely: and it first presented it selfe to my Fan<g ref="char:EOLhyphen"/>cie, was first brought downe Methodically, and first came to the Presse. If it be a mistake reprehensible, it was <hi>Error Protographi,</hi> and the Printer is not to be blamed. But the con<g ref="char:EOLhyphen"/>fusion, in the disposition of this Relation, by mistaking the Title over-head, in the 3. Chap. and interrupting the Title of the Low-Dutch Story, by interweaving a New one, was <hi>Erra<g ref="char:EOLhyphen"/>tum Typographi,</hi> herein excusable, that it was
+<pb facs="3"/>brought unto him by loose sheets, who per<g ref="char:EOLhyphen"/>haps, vvas vvilling to have ended it with the Tournament, more pleasant than the confu<g ref="char:EOLhyphen"/>sion of Warre: or else, as the best of Latine Poets doth sometimes make a Breach in his Verse, upon the Breach of a Speare; would shew his Fancie, in expressing the tumultuary Actions of Warre, by the <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> of his Papers. However it hapned, he craveth your conni<g ref="char:EOLhyphen"/>vence at this Errour, and doubteth not to ob<g ref="char:EOLhyphen"/>taine it from such as you, who can more easily reduce the last sheet of that History to its pro<g ref="char:EOLhyphen"/>per place, than he can recompose it.</p>
+</div>
+        </body>
+  </text>
+</TEI>

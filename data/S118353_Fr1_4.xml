@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In hos P. Terentij floscu∣los, N. V dalli &amp; I. Higgini opera excerptos, Tho. New∣toni </title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118353_Fr1_4</idno>
+           <idno type="DLPS">A13620</idno>
+           <idno type="STC">23903</idno>
+           <idno type="ESTC">S118353</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In hos P. Terentij floscu∣los, N. V dalli &amp; I. Higgini opera excerptos, Tho. New∣toni </title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Flovvers or eloquent phrases of the Latine speach, gathered ont [sic] of al the sixe comoedies of Terence. VVherof those of the first thre were selected by Nicolas Vdall. And those of the latter three novv to them annexed by I. Higgins, very profitable and necessary for the expedite knovvledge of the Latine tounge</title>
+                 <author>Terence</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>428 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Literature</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>In hos P. Terentij floscu<g ref="char:EOLhyphen"/>los, N. V dalli &amp; I. Higgini opera excerptos, Tho. New<g ref="char:EOLhyphen"/>toni <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </head>
+   <lg>
+      <l>PVlpita qui Latio tenuit quondam ard<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap> socco,</l>
+      <l>Iam didicit phthonges (terra Britanna) tu<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>.</l>
+      <l>Cuius at ingenio? cuius lima at{que} labore?</l>
+      <l>Quisue adeò egregias enucleauit opes?</l>
+      <l>Primus &amp; ante alios scriptis bene notus V dallu<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Antistes Clarij signifer atque chori.</l>
+      <l>Inde suo Higginus venit exornandus honore,</l>
+      <l>Qui in messem hanc, faleem misit &amp; ipse suam.</l>
+      <l>Succos atqúe libris lepidos dum magne Terenti</l>
+      <l>Sugit vterque tuis, Angla superbit humus:</l>
+      <l>Angla superbit humus, tumet atque scholastica pube<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>▪</l>
+      <l>Mille{que} pro meritis fundit vtri{que} preces.</l>
+   </lg>
+   <closer>
+      <signed>Thomas Newtonus, Cestreshyrius.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

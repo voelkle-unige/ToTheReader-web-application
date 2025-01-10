@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Io. Colet. suo Lilio, Salutem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1529</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121275_Fr1_7</idno>
+           <idno type="DLPS">A19129</idno>
+           <idno type="STC">5542.3</idno>
+           <idno type="ESTC">S121275</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Io. Colet. suo Lilio, Salutem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rudimenta grammatices et docendi methodus : non tam scholæ Gypsuichianæ per reuerendissimum. D. Thoma [m] cardinale [m] Ebo⁻r. feliciter institutæ q [uam] o [mn] ibus aliis totius Anglie scholis prescripta</title>
+                 <author>Colet, John</author>
+                 <imprint>
+                    <publisher>Treveris, Peter</publisher>
+                    <pubPlace>Great Britain--England--London--Southwark</pubPlace>
+                    <date>1529</date>
+                 </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>Io. Colet. suo Lilio, Salutem.</head>
+   <p>ACcipe optime ac literatissime Lili, libellum pue<g ref="char:EOLhyphen"/>rilis institutionis, in quo quidē eadē quae fuerūt ab aliis tradita, ratione, &amp; ordine paulo (nisi sallor) cō<g ref="char:EOLhyphen"/>modiore dignissimus, Id{que} fecimus vt elemēta grāmati<g ref="char:EOLunhyphen"/>ces, &amp; foelicius influerent in puerorū animos, &amp; tenaciu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> inhaererent, Tuū erit, qui primus es huius nouae Pauli schole praeceptor his rudimētis diligēter exercere pue<g ref="char:EOLhyphen"/>ros nostros, deīceps ad maiora, {pro}fecturos. Nil enī aeque mihi cordi estī presētia, {quam} vt parnuli Christi {quam} plurimū apud te proficiāt, cū literatura, tum bonis moribus. Ad quod si enitiris, &amp; Iesum puerorū prae fidē tibi tuo stu<g ref="char:EOLhyphen"/>dio demereberis, &amp; me plane foelicem reddideris.</p>
+   <closer>Vale. <dateline>ex aedibus meis. <date>
+            <abbr>Kal.</abbr> August. An. M.CCCCC.ix.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

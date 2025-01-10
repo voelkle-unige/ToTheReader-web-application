@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115974_Fr1_6</idno>
+           <idno type="DLPS">A10801</idno>
+           <idno type="STC">21074</idno>
+           <idno type="ESTC">S115974</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sacred septenarie, or The seuen last wordes of our Sauiour Christ vttered vpon the crosse, (with the necessary circumstances of the same:) : expounded by a commentary, gathered out of the holy Scriptures, the writings of the ancient fathers, and later diuines. By Alexander Roberts, Bachelour in Diuinity; and preacher of Gods word at Kings Linne, in Norfolke</title>
+                 <author>Roberts, Alexander</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <distributor>Man, Samuel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>16, 58, 2, 59-105, 3, 107-163, 3, 165-200, 2, 201-247, 1 page, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="9"/>
+   <head>To the Reader.</head>
+   <p>THe faults and ouersight of the Presse, be more then I wished, fewer then I feared; for there was a care<g ref="char:EOLhyphen"/>full eye ouerseeing, and a heedfull regard had, for the a<g ref="char:EOLhyphen"/>uoyding of all errors: but it is not incident to humane di<g ref="char:EOLhyphen"/>ligence, to preuent euery escape. Therefore amend these, which are here signified, being as I hope of the greatest moment. If there be any more, pardon them, whether in letters misplaced, or mistaken.</p>
+   <div n="text" type="body_of_errata">
+      <head>Faults in the context.</head>
+      <p>PAg. 2. lin. 13. for more, reade then, p. 15. l. 24. adde (is) before but once vsed, p. 51. l.
+34. for g<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>rge purge, pag. 53. lin. 13. for them him, pag. 56. lin. 18. for practise practique, pag. 62. lin. 12. for Zomen Z<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>zemen, pag. 74. lin 29. for his her, pag. 84. lin. 12. after comfortable hope, adde Of, pag. 102. l. 11. for but a few, reade not a fewe, pag. 112. lin. 25. for cause case, pag. 110. lin. 35. for then when.</p>
+   </div>
+   <div n="notes" type="body_of_errata">
+      <head>Faults escaped in the margent.</head>
+      <p>Pag. 5. for migrent migret, pag. 9. for <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>, pag. 10. for rep: rerum, and for
+<gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>, p. 13 for lib. 8. 3. pag. 25. for hu<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap> synodi, huiusmodi, pag. 28. adde Senarclaeus indignam Iohannis Diasij, &amp;c. pap. 73. for <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

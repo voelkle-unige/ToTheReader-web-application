@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authorem.</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109244_Fr1_3_5</idno>
+           <idno type="DLPS">A19762</idno>
+           <idno type="STC">6190</idno>
+           <idno type="ESTC">S109244</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authorem.</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Orthoepia Anglicana: or, the first principall part of the English grammar : teaching the art of right speaking and pronouncing English, with certaine exact rules of orthography, and rules of spelling or combining of syllables, and directions for keeping of stops or points between sentence and sentence. A work in it selfe absolute, and never knowne to be accomplished by any before: no lesse profitable then necessary for all sorts, as well natives as forreigners, that desire to attaine the perfection of our English tongue. Methodically composed by the industry and observation of Simon Daines schoolemaster of Hintlesham in Suffs</title>
+                 <author>Daines, Simon</author>
+                 <imprint>
+                    <distributor>—English Stock</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Badger, Richard 1.</publisher>
+                            <publisher>Stationers’ Company, London.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>14, 96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Linguistics and philology</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Authorem.</head>
+   <l>NEscio cur tu, <hi>Nescio,</hi> ais, <hi>dulcedine quavis</hi>
+   </l>
+   <l>
+      <hi>Ductus?</hi> dum Dux es, ducis &amp; ipse tuos.</l>
+   <l>En nativus Amor (namque illum <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> amorem,</l>
+   <l>Cum dedit Esse, dedit) cogit, &amp; instimulat!</l>
+   <l>
+      <pb facs="7"/>
+Hic Homini communis inest: Qui sentit, habetur</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> qui non, non benedictus Homo.</l>
+   <l>Te vero sentire probat, memor esse tuorum</l>
+   <l>Conatu hoc. Ergo, Tu benedictus Homo.</l>
+   <closer>
+      <signed>I. S. Artium Magister.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

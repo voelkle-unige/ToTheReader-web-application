@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Libellus ad Lectorem.</title>
+           <author>N., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110155_Fr1_3</idno>
+           <idno type="DLPS">B15004</idno>
+           <idno type="STC">18583</idno>
+           <idno type="ESTC">S110155</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Libellus ad Lectorem.</title>
+                 <author>N., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Christian nauy : VVherein is playnely described the perfit course to sayle to the hauen of eternall happinesse. VVritten by Anthony Nixon</title>
+                 <author>Googe, Barnabe</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>Libellus ad Lectorem.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">N</seg>Il moror aut laudes, leuis aut conuitia vulgi.</l>
+      <l>Pulchrum est vel doct is, vel placuisse piis.</l>
+      <l>Spe quo{que} maius erit nubi si cōtingat vtrū{que}:</l>
+      <l>cui <hi>Christus</hi> sapit, huic si placco, bene habet.</l>
+      <l>Magnificas Domini sonitat mea linea lau<g ref="char:EOLhyphen"/>des,</l>
+      <l>multorum lugens crimina multa virum.</l>
+      <l>Fronte legas hilari, <hi>Lector,</hi> mecum{que} precare</l>
+      <l>coelesti faustus detur in arce locus.</l>
+   </lg>
+   <closer>
+      <signed>A. N.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

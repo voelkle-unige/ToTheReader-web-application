@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Beneuolum, pium, &amp; literatum Lectorem.</title>
+           <author>W., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121081_Fr1_16</idno>
+           <idno type="DLPS">A15520</idno>
+           <idno type="STC">25786</idno>
+           <idno type="ESTC">S121081</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Beneuolum, pium, &amp; literatum Lectorem.</title>
+                 <author>W., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A Christian dictionarie : opening the signification of the chiefe wordes dispersed generally through Holie Scriptures of the Old and New Testament, tending to increase Christian knowledge. Whereunto is annexed: a perticular dictionary for the Reuelation of S. Iohn. For th Canticles, or Song of Salomon. For the Epistle to the Hebrues. By Tho: Wilson minister of the Word, at Saint Georges in Canterbury</title>
+                 <author>Wilson, Thomas</author>
+                 <imprint>
+                    <publisher>Jaggard, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>30, 240, 243-577, 1, 234, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="14"/>
+   <head>Ad Beneuolum, pium, &amp; literatum Lectorem.</head>
+   <lg>
+      <l>SAcra cupis (Dilecte Deo) mysteria Christi</l>
+      <l>citius &amp; melius nosere? sume Librum,</l>
+      <l>Hunc tibi sume librum, Coeli namque abdita pandit,</l>
+      <l>&amp; res, &amp; voces ordine quasque locat.</l>
+      <l>Hîc facitè inuenias multo siue, multa, labore,</l>
+      <l>quaete, quaeque pios posse leuare scio.</l>
+      <l>Sed caue, non segnem reddat, reddat magepromptum</l>
+      <l>ad disquirendum quae liber iste tacet.</l>
+      <l>Sis si fortè gregis ductor, bene consule, nostris</l>
+      <l>vtere, si nescis tu meliora, pr<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>cor</l>
+      <l>Sui meliora feras, nostris atque addere caeptis</l>
+      <l>si inuat; &amp; multis, &amp; mihi grataferes.</l>
+   </lg>
+   <closer>
+      <signed>T. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115149_Fr1_2</idno>
+           <idno type="DLPS">A17914</idno>
+           <idno type="STC">4575</idno>
+           <idno type="ESTC">S115149</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A stay against straying. Or An answer to a treatise : intituled: The lavvfulnes of hearing the ministers of the Church of England. By John Robinson. Wherein is proved the contrarie, viz: The unlawfulnes of hearing the ministers of all false Churches. By John Canne</title>
+                 <author>Canne, John</author>
+                 <imprint>
+                    <publisher>‘Richt Right’ Press</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>8, 142, that is 140 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="3"/>
+   <head>ERRATA.</head>
+   <p>P. 2, l. 1. read <hi>they.</hi> l. 39. <hi>the</hi> wanting. P. 5, l. 28, r. <hi>Calfes.</hi> P. 11,
+l. 38, r. <hi>Ministry.</hi> P. 52, l. 6, r. <hi>doer.</hi> P. 57, l. 25, r. <hi>Claidon.</hi>
+P. 59, l. 11, r. <hi>resorted.</hi> P. 83, l. 16, r. follie. P. 86, l. 2, r. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+P. 88, l. 30, r. dicit. P. 120, l. 2, r. streathned.</p>
+   <p>For other faults, if thou findest any, I desire that thy love may be
+such as to amend them thy selfe.</p>
+</div>
+        </body>
+  </text>
+</TEI>

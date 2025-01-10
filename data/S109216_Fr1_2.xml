@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the Reader greeting.</title>
+           <author>B., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109216_Fr1_2</idno>
+           <idno type="DLPS">A19790</idno>
+           <idno type="STC">6216</idno>
+           <idno type="ESTC">S109216</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the Reader greeting.</title>
+                 <author>B., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ludus scacchiæ: = chesse-play : A game, both pleasant, wittie, and politicke: with certain briefe instructions therevnto belonging; translated out of the Italian into the English tongue. Containing also therein, a prety and pleasant poeme of a whole game played at chesse. Written by G.B</title>
+                 <author>Damiano, da Odemira</author>
+                 <imprint>
+                    <distributor>Jackson, Hugh</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 <publisher>Robinson, Robert.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                        </imprint>
+                 <extent>16, 30, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>❧ To the Reader greeting.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">S</seg>Trange (perchance) may it seeme to some (curtcous Reader) that anie man should employ his time, and bestow his labor in setting out such bookes, whereby men may learne to play, when indeede most men are giuen rather to play, than to studie and trauell: which were true, if it were for the teaching of Games vnlawfull, as dice-play, or cogging, or falshoode in card-play, or such like. But forasmuch as this Game or kingly pastime, is not onely void of craft, fraud, and guile, swearing, staring, impatience, fretting and falling out, but also breedeth in the players, a certaine study, wit, pollicie, forecast and memorie, not onely in the play thereof, but also in actions of publike gouernement, both in peace and warre: wherein both Counsellers at home, and Captaines abroade may picke out of these wodden peeces some pretty pollicy, both how to gouerne their subiects in peace, and howe to leade or conduct liuely men in the field in warre: for this Game hath the similitude of a ranged battell, as by placing the men, and setting them forth in the march, may very easily appeare. The King standeth in the field in the middest of his Army, and hath his Queene next vnto him and his nobilitie about him, with his souldiers to defend him in the forefront of the battell. Sith therefore this Game is pleasant to all, profitable to most, hurtfull to none, I pray thee (gentle Reader) take this my La<g ref="char:EOLhyphen"/>bour in good part, and thou shalt animate me hereafter to the setting forth of deeper matters. Farewell.</hi>
+   </p>
+   <closer>
+      <signed>Thy friend G. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

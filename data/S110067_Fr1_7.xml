@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Claudius Hollyband, in the Commendati∣on of his Schollers exersise:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110067_Fr1_7</idno>
+           <idno type="DLPS">A07905</idno>
+           <idno type="STC">18276</idno>
+           <idno type="ESTC">S110067</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Claudius Hollyband, in the Commendati∣on of his Schollers exersise:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The mirrour of mutabilitie, or Principall part of the Mirrour for magistrates : Describing the fall of diuers famous princes, and other memorable personages. Selected out of the sacred Scriptures by Antony Munday, and dedicated to the Right Honorable the Earle of Oxenford</title>
+                 <author>Munday, Anthony</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 <publisher>Allde, John.</publisher>
+                            <publisher>Ballard, Richard</publisher>
+                        </imprint>
+                 <extent>112 pages, coat of arms, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Discourses on government and political theory</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="6"/>
+   <head>¶ Claudius Hollyband, in the Commendati<g ref="char:EOLhyphen"/>on of <hi>his Schollers exersise:</hi>
+   </head>
+   <lg>
+      <l>SItu veux fuir plusieurs vices damnables,</l>
+      <l>Moyennement au monde te tenir,</l>
+      <l>Et voir àloeilles choses conuenables:</l>
+      <l>Lis moy cest oeuvre, pour te bien contenir:</l>
+      <l>C'est vn Flambeau <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>our clairement venir</l>
+      <l>Au lieu ou fait Vertu sa demeurance,</l>
+      <l>Sanspoint avoir du peruers l'accointance,</l>
+      <l>Qui ne peut point à ce bien paruenir:</l>
+      <l>C'est le guidon droit, facile et plaisant</l>
+      <l>De bonnes moeurs, et miroir euidant,</l>
+      <l>Te dirigeant à fuir toute meschance.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

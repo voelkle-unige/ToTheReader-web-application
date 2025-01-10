@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114185_Fr1_3</idno>
+           <idno type="DLPS">A09135</idno>
+           <idno type="STC">19449</idno>
+           <idno type="ESTC">S114185</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Iesuites catechisme. Or Examination of their doctrine. Published in French this present yeere 1602. and nowe translated into English. VVith a table at the end, of all the maine poynts that are disputed and handled therein</title>
+                 <author>Pasquier, Etienne</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>12, 238, 2 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="13"/>
+   <p>
+      <hi>Faults escaped in printing.</hi>
+   </p>
+   <p>Fol. 11. b. lin. 10. for. <hi>nona,</hi> read <hi>noua.</hi> fo 27. b. lin. 2. for perrec dauncer, read, daunsing dizard. fol. 57. b. the last line. for instructed, read, dis<g ref="char:EOLhyphen"/>disproued. fol. 117. for, one with another, read, one another. fol. 142. for, cuffe, read ruffe. fol. 165. b. lin. 17. for, griefe, rage, read, the chiefe rage. fol. 166. a. lin. 4. for some were to be. read, some to be. fol. 171. b. lin. 9. for, his poore. read, this poore. fol. 174. a. lin. 5. for, thich. read, which. Other small faults haue escaped, which the iudicial readers eye will easily discouer and amend.</p>
+   <pb facs="13"/>
+</div>
+        </body>
+  </text>
+</TEI>

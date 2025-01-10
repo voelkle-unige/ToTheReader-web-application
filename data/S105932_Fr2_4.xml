@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his Friend Mr. BROWNE.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105932_Fr2_4</idno>
+           <idno type="DLPS">A17042</idno>
+           <idno type="STC">3916</idno>
+           <idno type="ESTC">S105932</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his Friend Mr. BROWNE.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Britannia's pastorals. The first booke</title>
+                 <author>Browne, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Cole, George.</publisher>
+                            <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>16, 140, that is 142, 14, 179, 1 page, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="84"/>
+   <head>To his Friend <hi>M<seg rend="sup">r</seg>. BROWNE.</hi>
+   </head>
+   <l>ALL that doe reade thy Workes, and see thy face,</l>
+   <l>(Where scarce a haire growes vp, thy chin to grace)</l>
+   <l>Doe greatly wonder how so youthfull yeares</l>
+   <l>Could frame a Work, where so much worth appears.</l>
+   <l>To heare how thou describ'st a Tree, a Dale,</l>
+   <l>A Groue, a Greene, a solitary Vale,</l>
+   <l>The Euening Showers, and the Morning Gleames,</l>
+   <l>The golden Mountaines, and the siluer Streames,</l>
+   <l>How smooth thy Verse is, and how sweet thy Rimes,</l>
+   <l>How sage, and yet how pleasant are thy Lines;</l>
+   <l>What more or lesse can there be said by men,</l>
+   <l>But, <hi>Muses</hi> rule thy Hand, and guide thy Pen.</l>
+   <closer>
+      <signed>THO WENMAN, <hi>è Societate Inter. T<gap reason="illegible" resp="#pdcc" extent="2 letters">
+               <desc>••</desc>
+            </gap>pli.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

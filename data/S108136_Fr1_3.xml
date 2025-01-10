@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The </title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1535</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108136_Fr1_3</idno>
+           <idno type="DLPS">A11327</idno>
+           <idno type="STC">21588</idno>
+           <idno type="ESTC">S108136</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The </title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatyse concerni [n] ge the power of the clergye : and the lawes of the realme. Cu [m] priuilegio regali</title>
+                 <author>Saint German, Christopher</author>
+                 <imprint>
+                    <publisher>Godfray, Thomas</publisher>
+                    <pubPlace/>
+                    <date>1535</date>
+                 </imprint>
+                 <extent>136 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="front_matter">
+   <pb facs="2"/>
+   <head>¶ The <gap reason="illegible" resp="#uom" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>
+   </head>
+   <p>THough the prīcypall intent of this present treatyse / be to speke of the power of the clergye / &amp; of the lawes of the realme: Yet for asmoche as those powers canne nat perfytly be knowen / but the power of kynges &amp; prīces be knowen also. Therfore dyuers textes of Scrip<g ref="char:EOLhyphen"/>ture / concernynge kynges and prin<g ref="char:EOLunhyphen"/>ces be put into thre of the fyrst Cha<g ref="char:EOLhyphen"/>pitres of this treatise / with the En<g ref="char:EOLhyphen"/>glyshe folowyng the same / for them that vnderstāde nat the latin tonge. And the .ix. chapiter also / treateth moch of the power of kynges &amp; prī<g ref="char:EOLhyphen"/>ces / and also of the clergy / and whe<g ref="char:EOLhyphen"/>ther the gospell toke any power fro princes that they had before the com<g ref="char:EOLunhyphen"/>myng of Christ / or nat. The other Chapiters concerne most specyally the clergy / and the lawes and custo<g ref="char:EOLhyphen"/>mes of the realme / as to the reders wyll appere.</p>
+</div>
+        </body>
+  </text>
+</TEI>

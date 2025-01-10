@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In laudem Authoris, magistri Thomae An∣dreae,
+Generosi, .</title>
+           <author>Heath-Fieldensis, Hunt</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115919_Fr1_6</idno>
+           <idno type="DLPS">A19410</idno>
+           <idno type="STC">584</idno>
+           <idno type="ESTC">S115919</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In laudem Authoris, magistri Thomae An∣dreae,
+Generosi, .</title>
+                 <author>Heath-Fieldensis, Hunt</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vnmasking of a feminine Machiauell. By Thomas Andrewe, gent. Est nobis voluisse satis. Seene and allowed by authority</title>
+                 <author>Andrewe, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Loftus (Loftis), George.</publisher>
+                            <publisher>Stafford, Simon</publisher>
+                        </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>In laudem Authoris, magistri Thomae An<g ref="char:EOLhyphen"/>dreae,
+Generosi, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>FLos nouus en laetis musarum crescit in hortis</l>
+   <l>Aspectu dulcis, dulcis odore suo:</l>
+   <l>Laetantur musae, nil non laudabile cernunt,</l>
+   <l>Gratus odor tentat, grata figura placet:</l>
+   <l>His Phaebus, galeae flos hic fuit optima Martis</l>
+   <l>Pluma, fuit galeae fama decus{que} suae:</l>
+   <l>Abripui, vitam{que} dedi, florem{que} dicaui</l>
+   <l>Vobis, en vobis crescet honore nouo.</l>
+   <l>Crescet in immensum flos hic, dicetur &amp; olim,</l>
+   <l>Gloria Musarum, Pieridum{que} decus.</l>
+   <closer>
+      <signed>Rob. Hunt Heath-fieldensis.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Campion, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106662_Bo1_30</idno>
+           <idno type="DLPS">A17882</idno>
+           <idno type="STC">4548</idno>
+           <idno type="ESTC">S106662</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Campion, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third and fourth booke of ayres: composed by Thomas Campian. So as they may be expressed by one voyce, with a violl, lute, or orpharion</title>
+                 <author>Campion, Thomas</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>44 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="13"/>
+   <opener>
+      <salute>TO MY VVORTHY FRIEND, M<seg rend="sup">R.</seg> IOHN MOVNSON, Sonne and Heyre to <hi>Sir Thomas Mounson Knight and Baronet.</hi>
+      </salute>
+   </opener>
+   <l>
+      <seg rend="decorInit">O</seg>N you th' affections of your Fathers Friends,</l>
+   <l>With his Inheritance by right descends;</l>
+   <l>But you your gracefull youth so wisely guide,</l>
+   <l>That his you hold, and purchase much beside.</l>
+   <l>Loue is the fruit of Vertue, for whose sake</l>
+   <l>Men onely liking each to other take.</l>
+   <l>If sparkes of vertue shin'd not in you then,</l>
+   <l>So well how could you winne the hearts of men?</l>
+   <l>And since that honour and well-suted Prayse</l>
+   <l>Is Vertues Golden Spurre; let mee now rayse</l>
+   <l>Vnto an act mature your tender age,</l>
+   <l>This halfe commending to your Patronage:</l>
+   <l>Which from your Noble Fathers, but one side</l>
+   <l>Ordain'd to doe you honour, doth diuide.</l>
+   <l>And so my loue betwixt you both I part,</l>
+   <l>On each side placing you as neare my heart.</l>
+   <closer>
+      <signed>Yours euer, <hi>THOMAS CAMPIAN.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Carcerum Custodes. S. P.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111947_Fr1_7</idno>
+           <idno type="DLPS">A20782</idno>
+           <idno type="STC">7160</idno>
+           <idno type="ESTC">S111947</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Carcerum Custodes. S. P.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The iaylors conuersion : Wherein is liuely represented, the true image of a soule rightlye touched, and conuerted by the spirit of God. The waightie circumstances of which supernaturall worke, for the sweete amplifications, and fit applications to the present time, are no set downe for the comfort of the strong, and confirmation of the weake. By Hugh Dowriche Batch. of Diuinitie</title>
+                 <author>Dowriche, Hugh</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>12, 26, that is 28 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>
+      <hi>Ad Carcerum Custodes.</hi> S. P.</head>
+   <pb facs="13"/>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, Terrae motu concussus, ad vnum,</l>
+   <l>Et verum motus, vertitur inde, Deum:</l>
+   <l>Quid facis, O Saeuo, stringens tua viscera ferro?</l>
+   <l>Sola Saius Animae, quaeritur vna tuae.</l>
+   <l>Heu cohibete manus, Custodes Carceris omnes,</l>
+   <l>Mittite sub Christi, colla superba Iugum.</l>
+   <l>Paule, Comes{que} Sila, Captiui corpora; nullas</l>
+   <l>Fregistis, Domino sed reserante, fores.</l>
+   <l>Ille aperit vobis, Neopoitae Ianitor aulae,</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, ac Fletus, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>{que} vias,</l>
+   <l>Et soluit duris, religatos crura, cathenis,</l>
+   <l>Ad Christum vt properent Liberiore pede.</l>
+   <l>Discite ab hoc Omnes exemplo, vera vereri</l>
+   <l>Numina, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</l>
+   <closer>
+      <signed>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

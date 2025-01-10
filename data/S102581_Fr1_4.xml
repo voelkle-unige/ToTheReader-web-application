@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102581_Fr1_4</idno>
+           <idno type="DLPS">A10851</idno>
+           <idno type="STC">21122</idno>
+           <idno type="ESTC">S102581</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The art of pronuntiation : digested into two parts. Vox audienda, &amp; vox videnda. In the first of which are set foorth the elements and seuerall parts of the voice: in the second are described diuers characters, by which euery part of the voice may be aptly known and seuerall distinguished. Very necessary as well thereby to know the naturall structure of the voice, as speedily to learne the exact touch of pronuntiation of any forraine language whatsoeuer. Newly inuented by Robert Robinson Londoner</title>
+                 <author>Robinson, Robert, londoner</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>60 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Linguistics and philology</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="9"/>
+   <lg>
+      <l>Candide des veniam, placidū nec contra<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>e frontem,</l>
+      <l>Inficiat chartas, si qua litura meas:</l>
+      <l>Nec mihi sollucem, nec praebuit aura calorē</l>
+      <l>Me tenebris cinctum frigida zona premit:</l>
+      <l>Sin redeat mihi fausta dies, si deni{que} Phoebus</l>
+      <l>Lumine, percutiat lumina nostra, suo:</l>
+      <l>Tum nitar meliora sequi, tū menda vicissim</l>
+      <l>Tot mihi lux a biget, quot mihi lux aperit.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

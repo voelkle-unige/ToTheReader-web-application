@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my ever honoured Friend Tho. de Gray upon his select Peece of Horseman∣ship and Ferriery.</title>
+           <author>Hawkins, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106703_Fr1_12</idno>
+           <idno type="DLPS">A02060</idno>
+           <idno type="STC">12205</idno>
+           <idno type="ESTC">S106703</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my ever honoured Friend Tho. de Gray upon his select Peece of Horseman∣ship and Ferriery.</title>
+                 <author>Hawkins, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The compleat horseman and expert ferrier : In two bookes. The first, shewing the best manner of breeding good horses, with their choyce, nature, riding and dyeting ... The second, directing the most exact and approved manner how to know and cure all maladies and diseases in horses ... dedicated to his most Excellent Majestie, by Thomas de Gray Esquire</title>
+                 <author>De Grey, Thomas</author>
+                 <imprint>
+                    <publisher>Chapman, Laurence</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>32, 356, 8 pages, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="15"/>
+   <head>To my ever honoured Friend <hi>Tho. de Gray</hi> upon his select Peece of <hi>Horseman<g ref="char:EOLhyphen"/>ship</hi> and <hi>Ferriery.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">S</seg>Age h'ast Thou made our Later age,</l>
+   <l>Thou art the <hi>Phoenix</hi> of our Time;</l>
+   <l>Certes, Thy rare Peece I presage</l>
+   <l>Hath wonne the Fleece it's so sublime.</l>
+   <l>My younger Pen cannot but waite on Thee,</l>
+   <l>Whose Name shall ever bee most deere to mee.</l>
+   <closer>
+      <signed>Francis Hawkins.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

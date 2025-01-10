@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>I., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121118_Fr1_5</idno>
+           <idno type="DLPS">A15775</idno>
+           <idno type="STC">26040</idno>
+           <idno type="ESTC">S121118</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>I., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The passions of the minde in generall. Corrected, enlarged, and with sundry new discourses augmented. By Thomas Wright. With a treatise thereto adioyning of the clymatericall yeare, occasioned by the death of Queene Elizabeth</title>
+                 <author>Wright, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Islip, Adam.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                            <distributor>Burre, Walter</distributor>
+                            <distributor>Thorpe (Thorp), Thomas</distributor>
+                        </imprint>
+                 <extent>12, 352, 4, 17, 3 pages, folded leaf, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>To the Author.</head>
+   <lg>
+      <l>IN Picture, they which truly vnderstand,</l>
+      <l>Require (besides the likenesse of the thing)</l>
+      <l>Light, Posture, Height'ning, Shadow, Culloring,</l>
+      <l>All which are parts commend the cunning hand;</l>
+      <l>And all your Booke (when it is throughly scan'd)</l>
+      <l>Will well confesse; presenting, limiting,</l>
+      <l>Each subt'lest Passion, with her source, and spring,</l>
+      <l>So bold, as shewes your Art you can command.</l>
+      <l>But now, your Worke is done, if they that view</l>
+      <l>The severall figures, languish in suspence,</l>
+      <l>To iudge which Passion's false, and which is true,</l>
+      <l>Betweene the doubtfull sway of Reason', and sense;</l>
+      <l>Tis not your fault, if they shall sense preferre,</l>
+      <l>Being tould there, Reason cannot, Sense may erre.</l>
+   </lg>
+   <closer>
+      <signed>B. I.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

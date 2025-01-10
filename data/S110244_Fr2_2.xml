@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER A Transition.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110244_Fr2_2</idno>
+           <idno type="DLPS">A16803</idno>
+           <idno type="STC">3704.9</idno>
+           <idno type="ESTC">S110244</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER A Transition.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Grandsire graybeard. Or Machiauell displayed</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <distributor>Higgenbotham, Richard 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Lambert, Thomas.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>30 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="11"/>
+   <pb facs="11"/>
+   <head>TO THE READER A Transition.</head>
+   <lg>
+      <l>NOw hauing tane a view of villany,</l>
+      <l>Whereby thou maist <hi>Wits</hi> wicked wiles discern</l>
+      <l>W<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>ose wisedome is vntruth and tyrannie,</l>
+      <l>More wh<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>lesome read heere <hi>(Reader)</hi> maist <gap reason="illegible" resp="#uom" extent="2 words">
+            <desc>〈◊◊〉</desc>
+         </gap> learne:</l>
+      <l>
+         <hi>Wits-Wisedome,</hi> let it crue thy contemplation,</l>
+      <l>But <hi>Wisedoms-Wit,</hi> thy life and conuersation.</l>
+   </lg>
+   <lg>
+      <l>The world (it) aimes at wealth pompe, &amp; delight,</l>
+      <l>And him it doth account for wittie wise;</l>
+      <l>Who hath the craft, the cunning, and the sleight,</l>
+      <l>By my plot to mount and to arise:</l>
+      <l>
+         <hi>Plaine-dealing</hi> loe, dies begger, that's the worst,</l>
+      <l>But <hi>Fraude</hi> foreuer dies with shame accurst.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Adams, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100411_Fr1_1</idno>
+           <idno type="DLPS">A01281</idno>
+           <idno type="STC">114</idno>
+           <idno type="ESTC">S100411</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Adams, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Englands sicknes, comparatively conferred with Israels : Diuided into two sermons, by Tho: Adams</title>
+                 <author>Adams, Thomas</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <distributor>Budge, John</distributor>
+                            <distributor>Mab (Mabbe), Ralph</distributor>
+                        </imprint>
+                 <extent>4, 101, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <p>To The Right Worshipfull, Sir Iohn Cleypoole Knight, sauing health.</p>
+   <p>
+      <hi>
+         <seg rend="decorInit">W</seg>Orthy Sir,</hi> I haue ventrou<g ref="char:EOLhyphen"/>sly traffiqued with my poore talent in publike, whiles I behold richer graces buried in silence: iudging it better, to hus<g ref="char:EOLhyphen"/>band a little to the common good, then to hurd much wealth in a sullen niggardize. I censure none: if al were Writers, who should be Readers? if none, idle Pamphlets would present themselues to the generall eye, and bee entertained for defect of more sober matter. If the graine bee good, it doth bet<g ref="char:EOLhyphen"/>ter in the market then in the garner. All I
+<pb facs="2"/>
+can say for my selfe is; I desire to <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> whereof if I faile, yet my endeou<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> not my conscience without some ioifull content. To your Patronage this flies, to whom the Author is greatlie bounden, and shall yet bee indebted further for your ac<g ref="char:EOLhyphen"/>ceptance. Your loue to generall learning, singular encouragement to Students, (op<g ref="char:EOLhyphen"/>posed to the common dishartnings, which pouerty, contempt, ignorance assaults vs with) your actual beneficence to many, espe<g ref="char:EOLhyphen"/>cially to <hi>Katherine Hall</hi> in <hi>Cambridge,</hi> worthie of death-lesse memorie, lastlie, your reall kindnesse to my selfe, haue prompted mee to seale this <hi>Booke,</hi> with the signet of your <hi>name,</hi> and send it to the world. Which in humble submission I commend to your kind acceptation, and your selfe, with it, to the <hi>blessing</hi> of our gracious <hi>God.</hi>
+   </p>
+   <closer>
+      <signed>
+         <hi>Your Worships in all duty deuoted</hi> Tho. Adams.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

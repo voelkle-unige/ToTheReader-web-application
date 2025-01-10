@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE WORTHY GENTLEMAN, AND HIS much honoured friend, Master IOHN ONLEY.</title>
+           <author>W., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113809_Fr1_2</idno>
+           <idno type="DLPS">B15081</idno>
+           <idno type="STC">18975</idno>
+           <idno type="ESTC">S113809</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE WORTHY GENTLEMAN, AND HIS much honoured friend, Master IOHN ONLEY.</title>
+                 <author>W., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first and second part of The remedy of loue. VVritten by Sir Thomas Ouerbury Knight</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Wells, John</publisher>
+                        </imprint>
+                 <extent>32 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE WORTHY GENTLEMAN, AND HIS much honoured friend, Master IOHN ONLEY.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Ir, in this my loue is showne to you, since I giue you the Remedy of Loue, a Receipt neuer before ministred by any but <hi>Ouid,</hi> one well skild in the cause, therefore should better gesse at the Remedy: Many others, perhaps, in this world, with your selfe, which cry with our Poet,
+<q>
+         <l>—Oh nature too vnkind,</l>
+         <l>That made no medcine for a Loue-sick mind.</l>
+      </q>
+   </p>
+   <p>Here may haue remedy: (it is an infection reignes) but if your selfe or any other finde reme<g ref="char:EOLhyphen"/>dy in this my remedy I (not Physition like) looke but for thankes, and I appeale to all louers for the Patronizing of this little Pamphlet: This wish<g ref="char:EOLhyphen"/>ing you in all your desires remedy, I rest</p>
+   <closer>
+      <signed>Yours <hi>I. W.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

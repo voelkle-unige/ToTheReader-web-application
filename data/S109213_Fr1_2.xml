@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my worshipfull good friend Maister Robert Dalington.</title>
+           <author>Blount, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109213_Fr1_2</idno>
+           <idno type="DLPS">A19774</idno>
+           <idno type="STC">6201</idno>
+           <idno type="ESTC">S109213</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my worshipfull good friend Maister Robert Dalington.</title>
+                 <author>Blount, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A suruey of the great dukes state of Tuscany : In the yeare of our Lord 1596</title>
+                 <author>Dallington, Robert</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Blount (Blunt), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>4, 40, 33-66, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_author">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To my worshipfull good friend Maister Robert Dalington.</head>
+   <opener>
+      <salute>Sir:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">B</seg>Eing well assured that this your worke (out of your owne protection) would in the end present it selfe to the generall view; and likely enough some one that loues you not so much, nor knowes you at all, might haue the passing of it: I haue put my selfe in the way of your reproofe; and am become a theese of this nature, to steale no more from you then I will againe giue to you. If I could perswade you there were a fault in modesty, you would bid me publish the vertue which you tye vp in too straight bonds. My fault is, I haue done that which would haue beene done; and the offer is so full of loue, that it lookes for a punishment accordingly.</p>
+   <closer>
+      <signed>Edw: Blount.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

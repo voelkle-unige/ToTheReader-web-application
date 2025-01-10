@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>L'autheur.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123133_Ba1_1</idno>
+           <idno type="DLPS">A73514</idno>
+           <idno type="STC">3045</idno>
+           <idno type="ESTC">S123133</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>L'autheur.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The images of the Old Testament : lately expressed, set forthe in Ynglishe and Frenche vuith a playn and brief exposition</title>
+                 <author>Holbein, Hans</author>
+                 <imprint>
+                    <publisher>Frellon, Jean</publisher>
+                    <pubPlace>France--Lyon</pubPlace>
+                    <date>1549</date>
+                 </imprint>
+                 <extent>104 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="52"/>
+   <head>L'autheur.</head>
+   <lg>
+      <l>QVand vous aurez contemplé ces Images</l>
+      <l>Du Dieu viuant, ayes en souuenir</l>
+      <l>La grand puissance, &amp; merueilleux ouurages,</l>
+      <l>Et sa bonté qui nous peut subuenir.</l>
+   </lg>
+   <lg>
+      <l>Ce vous sera profit à l'aduenir</l>
+      <l>D'estudier telle philosophie:</l>
+      <l>Vueillez le sens de l'Eglise tenir,</l>
+      <l>La lettre occit, &amp; l'esprit viuifie.</l>
+   </lg>
+   <trailer>Plus que moins.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

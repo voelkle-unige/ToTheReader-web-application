@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In laud'em Authoris.</title>
+           <author>Snelling, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110433_Fr1_4</idno>
+           <idno type="DLPS">A09529</idno>
+           <idno type="STC">19808</idno>
+           <idno type="ESTC">S110433</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In laud'em Authoris.</title>
+                 <author>Snelling, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Philochasander and Elanira the faire lady of Britaine : Wherein is discouered the miserable passions of loue in exile, his vnspeakeable ioy receaued againe into fauour, with the deserued guerdon of perfit loue and constancie. By Henry Petowe</title>
+                 <author>Petowe, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Purfoot, Thomas 1.</publisher>
+                            <publisher>Purfoot, Thomas 2</publisher>
+                        </imprint>
+                 <extent>52 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In laud'em Authoris.</head>
+   <l>THe Lawrels greene wreath, <hi>Pallas</hi> doth propose,</l>
+   <l>To the Tryumphant Temples of all those,</l>
+   <l>Which by <hi>Appollo's</hi> inspiration,</l>
+   <l>Merit faire <hi>Daphnes</hi> transformation.</l>
+   <l>Then doth this Author, by all Poets Lawes,</l>
+   <l>Deserue that Fame with generall applause.</l>
+   <closer>
+      <signed>Henry Snelling Gentleman.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

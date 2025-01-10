@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authorem.</title>
+           <author>Belbi, Francesco</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107083_Fr1_5</idno>
+           <idno type="DLPS">A16156</idno>
+           <idno type="STC">3074</idno>
+           <idno type="ESTC">S107083</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authorem.</title>
+                 <author>Belbi, Francesco</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Donzella desterrada. Or, The banish'd virgin. VVritten originally in Italian: by Cavalier Gio. Francesco Biondi, Gentleman Extraordinary of his Majesties Privy Chamber. Divided into three bookes: and Englished by I.H. of Graies Inne, Gent</title>
+                 <author>Biondi, Giovanni Francesco, Sir</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Moseley, Humphrey</publisher>
+                        </imprint>
+                 <extent>12, 230, 2 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="6"/>
+   <head>In Authorem.</head>
+   <lg>
+      <l>
+         <hi>
+            <seg rend="decorInit">B</seg>Iondi,</hi> qual meta have 'l tuo moto? e quale</l>
+      <l>termine 'l tuo volar tra le figure?</l>
+      <l>la, dou' è ghiaccio estremo, estrema arsura,</l>
+      <l>la tua gran fama ha nel girar grand ale.</l>
+      <l>Più non ti resta oue passar, ch' eguale,</l>
+      <l>l'Vniverso, e'l tuo nome han' la misura:</l>
+      <l>S' altri con alia e perigliosa cura</l>
+      <l>ignoto clima a discoprir non vale.</l>
+      <l>Che se più sono i mondi; esca homài fuore</l>
+      <l>verace oggetto, e non fallace aborto,</l>
+      <l>del prisco dir, che non è spento ancora.</l>
+      <l>Si dirà poi, già che l'occaso, e l'orto</l>
+      <l>te, fatto Nume, entro gli scritti adora,</l>
+      <l>ad un stil novo un novo Mondo è forto.</l>
+      <closer>
+         <signed>Francesco Belbi.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

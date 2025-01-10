@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶TO THE Reader.</title>
+           <author>Bullein, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1564</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S255_Fr1_3</idno>
+           <idno type="DLPS">A17158</idno>
+           <idno type="STC">4036.5</idno>
+           <idno type="ESTC">S255</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶TO THE Reader.</title>
+                 <author>Bullein, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A dialogue bothe pleasaunte and pietifull, wherein is a goodly regimente against the feuer pestilence : with a consolacion and comfort against death. Newly corrected by Willyam Bulleyn, the autour thereof</title>
+                 <author>Bullein, William</author>
+                 <imprint>
+                    <publisher>Kingston, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1564</date>
+                 </imprint>
+                 <extent>4, 92, 8 leaves, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>¶TO THE Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Ood reader, when ad<g ref="char:EOLhyphen"/>uersitie drawethnere to any citee or toune, and the vengeaunce of GOD appereth, ei<g ref="char:EOLhyphen"/>ther by hūger, sickenes or the sworde, then ma<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nes nature is moste fearfull, but yet worldly prouidence to helpe thē selues: whiche in the tyme of prosperi<g ref="char:EOLhyphen"/>tee or quietnesse is careles and forget<g ref="char:EOLhyphen"/>full, neither mindefull to fear God, nor pitifull to helpe their neighbour in ad<g ref="char:EOLhyphen"/>uersitee. And whē thei are touched by the fearfull stroke of the Pestilence of their nexte neighboure, or els in their owne familie, then thei vse medicines, flie the aire. &amp;c. VVhiche in deede are
+<pb facs="4"/>
+verie good meanes, and not againste Gods worde so to doe: then other some falleth into sodain deuocion, in geuyng almose to the poore and neadie, which before haue dooen nothyng els but op<g ref="char:EOLhyphen"/>pressed thē, and haue doen thē wrong: Other doe looke frō their hartes Gods liuelie woorde, and refuse grace, offe<g ref="char:EOLhyphen"/>red by Christes spirite, thinkyng there is no GOD. Some other are preuented by death in their flourishyng yeares, whiche in the Crosse of death, haue their onely consolacion in Iesus Christ. All this is discribed here in this plain Dialogue: praiyng you pacientlie to take it in good parte. From him that is yours to commaunde.</p>
+   <closer>
+      <signed>W. <hi>Bulleyn.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

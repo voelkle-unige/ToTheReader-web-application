@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The translator to THE READER.</title>
+           <author>W., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117759_Fr1_6</idno>
+           <idno type="DLPS">A13980</idno>
+           <idno type="STC">24293</idno>
+           <idno type="ESTC">S117759</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The translator to THE READER.</title>
+                 <author>W., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The historie of Iustine : Containing a narration of kingdomes, from the beginning of the Assyrian monarchy, vnto the raigne of the Emperour Augustus. VVhereunto is newly added a briefe collection of the liues and manners of all the emperours succeeding, vnto the Emp. Rodulphus now raigning. First written in Latine by that famous historiographer Iustine, and now againe newly translated into English, by G.W</title>
+                 <author>Justinus, Marcus Junianus</author>
+                 <imprint>
+                    <publisher>Jaggard, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>8, 138, 40 leaves, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="7"/>
+   <head>The translator to THE READER.</head>
+   <l>
+      <seg rend="decorInit">R</seg>EADE, benefite, but detract not,</l>
+   <l>
+      <hi>Vrit enim fulgore suo qui pragrauat Artes</hi>
+   </l>
+   <l>
+      <hi>Infrasepositus, extinctus amabitur idem.</hi>
+   </l>
+   <l>Who being made Arts Iudge, doth Art depraue;</l>
+   <l>His name shall be forgotten, at his Graue.</l>
+   <closer>
+      <signed>G. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

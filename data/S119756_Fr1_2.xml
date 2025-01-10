@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD PIVM LECTOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1552</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119756_Fr1_2</idno>
+           <idno type="DLPS">A02602</idno>
+           <idno type="STC">12731</idno>
+           <idno type="ESTC">S119756</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD PIVM LECTOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The catechisme : that is to say, ane co [m] mone and catholik instructioun of the christin people in materis of our catholik faith and religioun, quhilk na gud christin man or woman suld misknaw: set furth be ye maist reuerend father in God Iohne Archbischop of sanct Androu legatnait and primat of ye kirk of Scotland, in his prouincial counsale haldin at Edinburgh the xxvi. day of Ianuarie, the zeir of our Lord 1551. with the aduise and counsale of the bischoippis and vthir prelatis with doctours of theologie and canon law of the said realme of Scotland present for the tyme</title>
+                 <author>Catholic Church, Diocese of St. Andrews, Archbishop (1546-1571 : Hamilton)</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Saint Andrews</pubPlace>
+                    <date>1552</date>
+                 <publisher>Hamilton, John.</publisher>
+                            <publisher>Scot, John 1</publisher>
+                        </imprint>
+                 <extent>13, lxii, lxiiii-lxvii, lxix-lxxix, xc-xcix, xcx-xcxix, c-cxxii, cxxi-ccv, 2 leaves, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <pb facs="2"/>
+   <head>AD PIVM LECTOREM.</head>
+   <lg>
+      <l>HIc liber est sacer, diuini dogmata verbi</l>
+      <l>Continet, ipse pius nocte die{que} legas.</l>
+      <l>Hic disces Christum, pater hūc tibi misit vt esse<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Iustitia, et vitae regula certa tuae.</l>
+      <l>Hic tibi tot lucent stellae, tot sydera fulgent,</l>
+      <l>Haud secus ac si sit gemmea tota domus.</l>
+      <l>Hunc tu viperea caueas percellere lingua:</l>
+      <l>Neue Theonino rodere dente velis.</l>
+      <l>Laudatur merito, multis qui maxima prestat</l>
+      <l>Commoda, sed detur gloria tota deo.</l>
+   </lg>
+   <lg>
+      <l>TOtius legis (fateor) volumen.</l>
+      <l>Continet summi documenta patris:</l>
+      <l>Non vacat cunctis tamen immorari sedulo cartis.</l>
+      <l>Quicquid humane liber hic saluti</l>
+      <l>Est oportunum tenet, ergo quisquis</l>
+      <l>Vult fide Christum colere, audiat, vel discat ad vnguem.</l>
+      <l>Consula<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> equi pie lector, at{que}</l>
+      <l>Candidae, nostrum precor vt laborem▪</l>
+      <l>Qui tibi monstrat breuiter tenenda</l>
+      <l>Pectore firmo.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AN AGRAMME DVDICT SIEVR.</title>
+           <author>N., G. Delamothe</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1884_Fr1_3</idno>
+           <idno type="DLPS">A20105</idno>
+           <idno type="STC">6545.5</idno>
+           <idno type="ESTC">S1884</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AN AGRAMME DVDICT SIEVR.</title>
+                 <author>N., G. Delamothe</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The French alphabeth [sic] : teaching in a very short tyme, by a most easie way, to pronounce French naturally, to reade it perfectly, to write it truely, and to speake it accordingly : together vvith The treasure of the French toung, conteyning the rarest sentences, pouerbes [sic], parables, similies, apothegmes and golden sayings of the most excellent French authours, as vvell potes [sic] as orators : the one diligently compiled, and the other painfully gathered and set in order, after the alphabeticall maner, for the benefite of those that are desirous of the French toung / by G.D.L.M.N</title>
+                 <author>G. D. L. M. N.</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Jackson, Hugh</publisher>
+                        </imprint>
+                 <extent>16, 161, that is 159, 6, 58, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedicatory_acrostic">
+   <pb facs="4"/>
+   <head>AN AGRAMME DVDICT SIEVR.</head>
+   <p>
+      <table>
+         <row>
+            <cell role="label">H</cell>
+            <cell role="label">E</cell>
+            <cell role="label">N</cell>
+            <cell role="label">R</cell>
+            <cell role="label">Y</cell>
+            <cell role="label"> </cell>
+            <cell role="label">W</cell>
+            <cell role="label">A</cell>
+            <cell role="label">L</cell>
+            <cell role="label">L</cell>
+            <cell role="label">O</cell>
+            <cell role="label">P</cell>
+            <cell role="label">P</cell>
+            <cell role="label">E.</cell>
+            <cell> </cell>
+         </row>
+         <row>
+            <cell>1,</cell>
+            <cell>2,</cell>
+            <cell>3,</cell>
+            <cell>4,</cell>
+            <cell>5,</cell>
+            <cell> </cell>
+            <cell>6, 7,</cell>
+            <cell>8,</cell>
+            <cell>9,</cell>
+            <cell>10,</cell>
+            <cell>11,</cell>
+            <cell>12,</cell>
+            <cell>13,</cell>
+            <cell>14,</cell>
+            <cell> </cell>
+         </row>
+         <row>
+            <cell role="label">L</cell>
+            <cell role="label">H</cell>
+            <cell role="label">O</cell>
+            <cell role="label">N</cell>
+            <cell role="label">E</cell>
+            <cell role="label">V</cell>
+            <cell role="label">R</cell>
+            <cell role="label"> </cell>
+            <cell role="label">L'</cell>
+            <cell role="label">A</cell>
+            <cell role="label">P</cell>
+            <cell role="label">P</cell>
+            <cell role="label">V</cell>
+            <cell role="label">Y</cell>
+            <cell role="label">E.</cell>
+         </row>
+         <row>
+            <cell>9,</cell>
+            <cell>1,</cell>
+            <cell>11,</cell>
+            <cell>3,</cell>
+            <cell>2,</cell>
+            <cell>6,</cell>
+            <cell>4.</cell>
+            <cell> </cell>
+            <cell>10,</cell>
+            <cell>8,</cell>
+            <cell>12,</cell>
+            <cell>13,</cell>
+            <cell>7,</cell>
+            <cell>5,</cell>
+            <cell>14.</cell>
+         </row>
+      </table>
+   </p>
+   <lg>
+      <head>QVATRAIN.</head>
+      <l>Quand Lachesis ourdit le fil de vostre vie,</l>
+      <l>Clotho, soubs vostre Nom, chantoit de vous ainsi:</l>
+      <l>Il ira triumphant du Temps, &amp; de l'Enuie,</l>
+      <l>Puis que L'HONEVR L'APPVYE, &amp; le maintient aussi.</l>
+   </lg>
+   <lg>
+      <head>SONNET ACROSTICHE.</head>
+      <l>Honeur fils des Vertus, &amp; frere de Louange,</l>
+      <l>Est nourry du Nectar, qui s'influe des cieux:</l>
+      <l>Né de parens diuins, il vit entre les Dieux,</l>
+      <l>Rendant diuin celuy, qui soubs son bras se range.</l>
+      <l>Ya-til rien plus grand? Il fait (merueille estrange)</l>
+      <l>Wiure apres le trepas les hommes vertueux;</l>
+      <l>Woire il les pousse encor, d'vn vol audacieux,</l>
+      <l>Ains leur Soleil couché, d'Albion iusqu'au Gange.</l>
+      <l>Lhomme est trois fois heureux, qui l'eslit pour appuy.</l>
+      <l>Le Temps, qui sappe tout, n'a de pouuoir sur luy,</l>
+      <l>Ores qu'il soit tousiours assailly de l'Enuie.</l>
+      <l>Partant HENRY WALLOPPE est seur cōtre le Temps,</l>
+      <l>Puis que L'HONEVR L'APPVYE, &amp; bienheurāt ses ans.</l>
+      <l>Eternise son Nom, &amp; decore sa vie.</l>
+   </lg>
+   <closer>
+      <signed>G. Delamothe N.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

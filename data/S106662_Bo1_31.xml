@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Campion, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106662_Bo1_31</idno>
+           <idno type="DLPS">A17882</idno>
+           <idno type="STC">4548</idno>
+           <idno type="ESTC">S106662</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Campion, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third and fourth booke of ayres: composed by Thomas Campian. So as they may be expressed by one voyce, with a violl, lute, or orpharion</title>
+                 <author>Campion, Thomas</author>
+                 <imprint>
+                    <publisher>Snodham, alias East, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>44 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <opener>
+      <salute>To the READER.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>HE Apothecaries haue Bookes of Gold, whose leaues being opened are so light as that they are subiect to be shaken with the least breath, yet rightly handled, they serue both for ornament and use; such are light <hi>Ayres.</hi> But if any squeamish stomackes shall checke at two or three vaine Ditties in the end of this Booke, let them powre off the clearest, and leaue those as dregs in the bottome. How soeuer if they be but conferred with the <hi>Canterbury Tales</hi> of that venerable Poet <hi>Chaucer,</hi> they will then appeare toothsome enough. Some words are in these Bookes, which have beene cloathed in Musicke by others, and I am conten<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> they then serued their turne: yet giue mee now leaue to make vse of mine owne. Likewise you may finde here some three or foure Songs that haue beene published before, but for them I referre you to the Players Bill that is failed, <hi>Newly reuiued with Additions,</hi> for you shall finde all of them reformed eyther in Words or Notes. To be briefe, all these Songs are mine if you expresse them well, otherwise they are your owne, Farewell.</p>
+   <closer>
+      <signed>Yours as you are his, THOMAS CAMPIAN.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

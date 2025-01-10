@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Translatour.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113348_Fr1_7</idno>
+           <idno type="DLPS">A05367</idno>
+           <idno type="STC">15520</idno>
+           <idno type="ESTC">S113348</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Translatour.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Hygiasticon: or, The right course of preserving life and health unto extream old age : together with soundnesse and integritie of the senses, judgement, and memorie. Written in Latine by Leonard Lessius, and now done into English</title>
+                 <author>Lessius, Leonardus</author>
+                 <imprint>
+                    <publisher>Daniel, Roger</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>38, 210, 70 pages, 24°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_translator">
+   <pb facs="9"/>
+   <head>To the Translatour.</head>
+   <l>IF thy good work work good upon this na<g ref="char:EOLhyphen"/>tion,</l>
+   <l>Pray God reward thee with Enochs translation.</l>
+</div>
+        </body>
+  </text>
+</TEI>

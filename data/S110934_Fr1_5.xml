@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110934_Fr1_5</idno>
+           <idno type="DLPS">A20928</idno>
+           <idno type="STC">7304</idno>
+           <idno type="ESTC">S110934</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse of the preseruation of the sight: of melancholike diseases; of rheumes, and of old age. Composed by M. Andreas Laurentius, ordinarie phisition to the King, and publike professor of phisicke in the Vniuersitie of Mompelier. Translated out of French into English, according to the last edition, by Richard Surphlet, practitioner in phisicke</title>
+                 <author>Du Laurens, André</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Jackson (Jacson), Ralph 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>16, 194 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>The Author to the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Doubt not but that these treatises are in danger to be euill spoken of, and bitterlie inueighed against by an infinite number of persons, which are borne for nothing else but to carpe and finde fault, before they be well knowne. Some Phisitions will finde themselues grieued, for that I haue made vulgar the secrets of our Art, and they will be able to alleadge that the E<g ref="char:EOLhyphen"/>gyptians (which were the first inuentors of Phisicke) to the end they might not make so diuine and sacred a gift of God profane and com<g ref="char:EOLhyphen"/>mon, did write their medicines in enigmaticall and vnknowne let<g ref="char:EOLhyphen"/>ters: but I will answere them with <hi>Aristotle,</hi> that a good thing by how much it is the more common, by so much it is the better, and that the Phisitions of Greece came once euery yeare into the beau<g ref="char:EOLhyphen"/>tifull Temple of <hi>Aesculapius,</hi> which was erected in <hi>Epidaure,</hi> to write in the sight of all the people, whatsoeuer rare and strange thing they had obserued in their patients. The naturall Philosophers, will be offended for that I now and then grapple with that great inter<g ref="char:EOLhyphen"/>preter of nature, <hi>Aristotle:</hi> but they shall haue no other replie of me, thē that of <hi>Aristotle</hi> himself. <hi>Plato</hi> (saith he) is my friend, &amp; <hi>Socra<g ref="char:EOLhyphen"/>tes</hi> also but yet the truth is more friendly vnto me. I shall haue more to doe to satisfie them, which busie themselues with nothing else but faire speeches and proper tearmes: for without doubt they shall finde an infinite number of rude words, which may offend their too dain<g ref="char:EOLhyphen"/>tie and delicate eares: but if they will not consider how that I make it not my profession to write in French, yet I would haue them to hold me excused, because I am of opinion, as all other wise men are, that such curious sifting and hunting of words is vnworthie of a Philoso<g ref="char:EOLhyphen"/>pher, and that therefore I am contented (auoyding barbarisme, whereof I know they shall neuer be able altogether to condemne me)
+<pb facs="6"/>so to speake, as that I may cause to bee vnderstood the thing whereof I intreate. And as concerning all those enuious and malicious per<g ref="char:EOLhyphen"/>sons which will not cease to barke at me though they know not how to bite me, I doe one <gap reason="illegible" resp="#uom" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> wish that they themselues would enter the lists and doe something themselues, that so I might see if they were as good in correcting as in carping. I am certainly perswaded that this my small worke will be accepted of all them Honorable: and it is to them that I frame and fashion my selfe, then boldly may I proceede vnder the shadow and couert of their wings.</p>
+</div>
+        </body>
+  </text>
+</TEI>

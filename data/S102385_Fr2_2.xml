@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>STVDIVM GRAMMATICES OMNIBVS ESSE NECES∣SARIVM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102385_Fr2_2</idno>
+           <idno type="DLPS">A97350</idno>
+           <idno type="STC">15627.2</idno>
+           <idno type="ESTC">S102385</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>STVDIVM GRAMMATICES OMNIBVS ESSE NECES∣SARIVM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A short introduction of grammar : generally to be vsed: compiled and set forth for the bringing vp of all those that intend to attaine to the knowledge of the Latine tongue</title>
+                 <author>Lily, William</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>224 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="introduction">
+   <pb facs="39"/>
+   <head>STVDIVM GRAMMATICES OMNIBVS ESSE NECES<g ref="char:EOLhyphen"/>SARIVM.</head>
+   <p>
+      <hi>Grammatices labor est paruus, sed fructus in illa est Non paruus, parua haec discito parue puer.</hi>
+   </p>
+   <p>
+      <hi>Nemo est tam doctus, qui non cognouerit ista: Cur pudeat pueros, ista labore sequi?</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

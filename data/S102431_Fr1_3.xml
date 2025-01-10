@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN OBITVM CLARISSIMI HE∣rois, Domini Arthuri Greij. .</title>
+           <author>Sanfordus, Joannes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102431_Fr1_3</idno>
+           <idno type="DLPS">A12706</idno>
+           <idno type="STC">23024</idno>
+           <idno type="ESTC">S102431</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN OBITVM CLARISSIMI HE∣rois, Domini Arthuri Greij. .</title>
+                 <author>Sanfordus, Joannes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at Whaddon in Buckinghamshyre the 22. of Nouember 1593. at the buriall of the Right Honorable, Arthvr Lorde Grey of Wilton, Knight of the most Honorable order of the Garter, by Thomas Sparke pastor of Blechley</title>
+                 <author>Sparke, Thomas</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>8, 87, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <head>IN OBITVM CLARISSIMI HE<g ref="char:EOLhyphen"/>rois, Domini Arthuri Greij. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <lg>
+      <l>
+         <hi>O</hi> Curuae in terras animae, quaecun{que} piorum</l>
+      <l>Creditis extinctas vnà cum corpore mentes.</l>
+      <l>O vanos questus; ô pectora plena furoris,</l>
+      <l>St quando in superûm sedes quos <hi>Ioua</hi> recepit,</l>
+      <l>Speratis fletu rursus deducere Coelo.</l>
+      <l>Debetis fateor lachrymas &amp; Iusta sepultis;</l>
+      <l>Sed transire modum, scelus; &amp; perijsse putare</l>
+      <l>Quos <hi>Christus</hi> seruat, mortem qui morte peremit.</l>
+   </lg>
+   <lg>
+      <l>At dolor extorquet luctus in funera tanti</l>
+      <l>Herois. Certè nostrae non infima gentis</l>
+      <l>Gloria defluxit, grauis inclementia fati</l>
+      <l>Cum tulit hunc terris, vt lucida viseret astra.</l>
+   </lg>
+   <lg>
+      <l>Is fuit ex atauis Heroibus editus Heros,</l>
+      <l>Relligione pius, constantimente probatus,</l>
+      <l>Consilio prudens, iustis animosus in armis.</l>
+      <l>C<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>llatis signis rigidos qui fudit Hybernos,</l>
+      <l>Quos per inaccessos saltus, vdas{que} paludes</l>
+      <l>Insequitur, subigens extremo Marte rebelles.</l>
+      <l>Pro patriâ pugnans, sanctis aris{que} focis{que},</l>
+      <l>(Turma Caledonias dum vastat Gallica terras)</l>
+      <l>Ore cicatrices, aduerso pectore fortis</l>
+      <l>Ʋulnera multa tulit, nunquam dare terga coactus.</l>
+   </lg>
+   <lg>
+      <l>Talis apud Graecos magnus celebratur <hi>Achilles.</hi>
+      </l>
+      <l>Talis &amp; <hi>Albertus</hi> cui magni nomen <hi>Achillei</hi>
+      </l>
+      <l>Teutonis or a dedit, surgunt vbi moenia <hi>Brenni.</hi>
+      </l>
+      <l>Hoc animo <hi>Decij,</hi> hoc olim caluere <hi>Metelli,</hi>
+      </l>
+      <l>Qui se pro patriâ, pro libertate Penatum</l>
+      <l>Deuouere neci, quos laus aeterna moratur.</l>
+   </lg>
+   <closer>
+      <signed>Ioannes Sanfordus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117445_Bo1_10_1</idno>
+           <idno type="DLPS">A12406</idno>
+           <idno type="STC">22719</idno>
+           <idno type="ESTC">S117445</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sermons of Maister Henrie Smith : gathered into one volume. Printed according to his corrected copies in his life time</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <distributor>Man, Thomas 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Orwin, Thomas.</publisher>
+                            <publisher>Robinson, Robert.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>14, 720, 815-1092, 24 + pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the Reader.</head>
+   <p>TWo things we are apt to forget, Gods bene<g ref="char:EOLhyphen"/>fites
+and our sinnes: for the first, the Lord
+saith,<note place="margin">Mal. 12. 6.</note> I haue loued you, and they say, Wherein
+hast thou loued vs? For the second hee saith, Ye
+haue despised me: and they say, Wherein haue we
+despised thee?</p>
+</div>
+        </body>
+  </text>
+</TEI>

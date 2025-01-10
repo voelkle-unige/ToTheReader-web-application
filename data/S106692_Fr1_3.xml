@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable and my very good Lord the Lord Edward Seamour, Vis∣count Beauchamp, Erle of Hertford. I. R. wisheth long lyfe, perfect helth, encrease of honour, and endles Felicitie.</title>
+           <author>R., J.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106692_Fr1_3</idno>
+           <idno type="DLPS">A05334</idno>
+           <idno type="STC">15487</idno>
+           <idno type="ESTC">S106692</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable and my very good Lord the Lord Edward Seamour, Vis∣count Beauchamp, Erle of Hertford. I. R. wisheth long lyfe, perfect helth, encrease of honour, and endles Felicitie.</title>
+                 <author>R., J.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe and plaine instruction to set all musicke of eight diuers tunes in tableture for the lute : With a briefe instruction how to play on the lute by tablature, to conduct and dispose thy hand vnto the lute, with certaine easie lessons for that purpose. And also a third booke containing diuers new excellent tunes. All first written in French by Adrian Le Roy, and now translated into English by F. Ke. gentleman</title>
+                 <author>Le Roy, Adrian</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 <publisher>Kingston, John.</publisher>
+                            <publisher>Rowbotham (Robothum), James</publisher>
+                        </imprint>
+                 <extent>180 pages, illustrations, music, oblong 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>To the Right Honorable and my very good Lord the Lord Edward Seamour, Vis<g ref="char:EOLhyphen"/>count Beauchamp, Erle of Hertford. I. R. wisheth long lyfe, perfect helth, encrease of honour, and endles Felicitie.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He chefe and principall thing (right honorable) apertaining to euery honorable personage (which thing is good too see that your honor doth well consider) is to walke in the garden of humilitie: &amp; the direct way to the same, is to passe by the gate of vertu, whose foūdacion is ankerd to the fear and loue of God: for as by the one is couered the multitude of sinns, so by the other is obteyned ble<g ref="char:EOLunhyphen"/>sednes, wysdō, and knowledge, whose godly preseuerāce therin will (no dought) much multyply the great and blessed benefits of almighty God, vpon your honour and all your whole seede and po<g ref="char:EOLhyphen"/>steritie, Knowing therfor (ryght honorable) the great loue and affection which your honour euer hath and doth beare to vertu and good letters, I was therby moued the more boldly after I had prin<g ref="char:EOLunhyphen"/>ted this worke for the Lute deuided into three books: (the first an easey and playne methode to set al songs of eyght diuers tunes in tablature for the lute, the secōd how to hādel the lute, the third and last cōteineth diuers excelent tunes) to dedycate the same to your honour, nothynge doutinge but that it shall most acceptably come into your fauorable and sure protection. I therfore most humbly besech your honor too take this small gift in good part, which cōming as it were from your honor into the hands of many shall (I dought not) do many good. God whose holy word your honour doth most feruently loue and most ernesty practice in your daily cōuersation, mough<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> vouchsafe to preserue your honour and your vertuous children in continuall helth and daily increase of honour, vnto the glory of his name.</p>
+   <closer>
+      <signed>Yours honours most humble at commandement. J. R.</signed>
+   </closer>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

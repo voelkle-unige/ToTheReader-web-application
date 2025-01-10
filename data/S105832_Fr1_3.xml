@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlem Readers.</title>
+           <author>Greene, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105832_Fr1_3</idno>
+           <idno type="DLPS">A02111</idno>
+           <idno type="STC">12253</idno>
+           <idno type="ESTC">S105832</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlem Readers.</title>
+                 <author>Greene, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Greenes neuer too late. Or, A powder of experience: sent to all youthfull gentlemen : to roote out the infectious follies, that ouer-reaching conceits foster in the spring time of their youth. Decyphering in a true English historie, those particular vanities, that with thei frostie vapours nip the blossoms of euery ripe braine, from atteining to his intended perfection. As pleasant, as profitable, being a right pumice stone, apt to race out idlenesse with delight, and follie with admonition. Rob. Greene in artibus Magister</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 <distributor>Busby, John 1</distributor>
+                            <distributor>Ling (Lyng), Nicholas</distributor>
+                        </imprint>
+                 <extent>8, 56, 49-62, 2, 84 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Gentlem<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> Readers.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Vch Gentlemē as had their <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ares filld with the harmo<g ref="char:EOLhyphen"/>ny of <hi>Orpheus</hi> harp, could not abide th' arsh musick of <hi>Hiparchions</hi> pipe; yet the <hi>Thessalians</hi> would allowe t<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e poore fidler license to frolick it among shep<g ref="char:EOLhyphen"/>heards. Though no pictures could goe for cur<g ref="char:EOLhyphen"/>rant with <hi>Alexander,</hi> b<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t such as past through <hi>Apelles</hi> pensill, yet poore men had their hou<g ref="char:EOLhyphen"/>ses shadowed with <hi>Phidias</hi> course colours. <hi>En<g ref="char:EOLhyphen"/>nius</hi> was called a Poet as well as <hi>Virgil,</hi> and <hi>Vulcan</hi> with his po<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t foote friskt with <hi>Venus</hi> as well as <hi>Mars.</hi> Gentlemen, if I presume to present you as hethertoo I haue done with fri<g ref="char:EOLhyphen"/>uolous toyes; yet for that I stretch my strings as hie as I can; if you praise me not with <hi>Or<g ref="char:EOLhyphen"/>pheus,</hi> hisse me not out with <hi>Hiparchion:</hi> if I I paint not with <hi>Apelles,</hi> yet scrape not out my shadowes with disgrace; if I stirre my stumpes with <hi>Vulcan,</hi> though it bee lamely done, yet thinke it is a daunce: so if my <hi>Nunquam sera est</hi> please not; yet I pray you passe it ouer with patience, and say tis a booke. So hoping I shall finde you as euer I haue done, I end.</p>
+   <closer>
+      <signed>Robert Greene.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

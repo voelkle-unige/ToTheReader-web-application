@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my friend Mr. IOHN FORD.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102512_Fr1_3</idno>
+           <idno type="DLPS">A01056</idno>
+           <idno type="STC">11164</idno>
+           <idno type="ESTC">S102512</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my friend Mr. IOHN FORD.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Loues sacrifice : A tragedie receiued generally well. Acted by the Queenes Majesties Seruants at the Phoenix in Drury-lane</title>
+                 <author>Ford, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Beeston (Beaston), Hugh</publisher>
+                        </imprint>
+                 <extent>84 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>To my friend M<seg rend="sup">r</seg>. IOHN FORD.</head>
+   <lg>
+      <l>VNto this Altar, rich with thy owne spice,</l>
+      <l>I bring one graine, to thy <hi>Loves Sacrifice:</hi>
+      </l>
+      <l>And boast to see thy flames ascending, while</l>
+      <l>Perfumes enrich our Ayre from thy sweet Pile.</l>
+   </lg>
+   <lg>
+      <l>Looke here <hi>THOV</hi> that hast <hi>malice</hi> to the Stage,</l>
+      <l>And <hi>Impudence</hi> enough for the whole Age;</l>
+      <l>
+         <hi>Voluminously-Ignorant!</hi> be vext</l>
+      <l>To read this Tragedy, and thy owne be next.</l>
+   </lg>
+   <p>James Shirley.</p>
+</div>
+        </body>
+  </text>
+</TEI>

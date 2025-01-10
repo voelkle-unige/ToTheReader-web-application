@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101240_Ba1_2</idno>
+           <idno type="DLPS">A12614</idno>
+           <idno type="STC">22937</idno>
+           <idno type="ESTC">S101240</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The ransome of time being captive : Wherein is declared how precious à thing is time, how much he looseth that looseth it, &amp; how it may be redeemed. Written in Spanish, by the R. Father Andreas de Soto, confessor to the most excellent Infanta Clara Eugenia. Translated int English by J.H</title>
+                 <author>Soto, Andrés de</author>
+                 <imprint>
+                    <publisher>Pinchon (Pinson), Gerard</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>16, 197, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="109"/>
+   <head>ERRATA.</head>
+   <p>P. 1. l. 3. dele (). p. 2. l. <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> for kookes, reade bookes.
+p. 15. l. 21. for <gap reason="illegible" resp="#tech" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> which. p. 26. for as, reade
+and p. 75. l. 19. after Isra<gap reason="illegible" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>
+      <gap reason="illegible" resp="#tech" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> p. 84. l. 13. for op<g ref="char:EOLhyphen"/>posite,
+reade apposite. <gap reason="illegible" resp="#tech" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> appositely. reade ap<g ref="char:EOLhyphen"/>positely.
+p. 95. l. 7. for <gap reason="illegible" resp="#tech" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>
+      <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>oue. p. 97. l. 1. after
+nor, add to. p. 101. l. 13. <gap reason="illegible" resp="#tech" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> not. p. 103. l. 12.
+for beleft, reade beleeued. p. 122. <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>. for dispensest, reade
+despisest. p. 135. l. 19. for rigorous, reade vigorous, the
+page 142. is putt twice, the latter shold be 144. p. 15<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>.
+li. 4. for reinfortid, reade reinforced. p. 171. l. 1. the first
+line of this, page 171. shold haue beene putt the first line of
+the page 167. pag. 171. The second line of this page is <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>
+follow after the last line of the page 170. pag. 193. line 2.
+for the lettre n, reade in.</p>
+   <p>Some other faults in orthographie, the numbers of the
+pages, &amp;c. the Readers courtesie may pardon, and the prin<g ref="char:EOLhyphen"/>ters
+want of an English tongue excuse.</p>
+</div>
+        </body>
+  </text>
+</TEI>

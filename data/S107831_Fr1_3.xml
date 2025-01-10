@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107831_Fr1_3</idno>
+           <idno type="DLPS">A04528</idno>
+           <idno type="STC">14651</idno>
+           <idno type="ESTC">S107831</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Catholique iudge: or A moderator of the Catholique moderator : Where in forme or manner of a plea or suite at law, the differences betweene those of the Reformed Church, and them of the Romish Church are decided; and without partialitie is shewed which is the true religion and catholique Church, for the instruction of either partie. Together with eight strong arguments or reasons, why the Popes cannot be competent iudges in these controversies. Written in the Dutch and French tongue, by Iohn of the Crosse, a Catholique gentleman. Translated out of French into English, by the right worshipfull and learned Knight Sir A.A</title>
+                 <author>John of the Crosse, a Catholique gentleman</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>8, 87, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Christian Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, whereas this little book containeth the principall con<g ref="char:EOLhyphen"/>troversies of Religion, I thought good to adioyne hereto at the begin<g ref="char:EOLhyphen"/>ning, a Catalogue of all the Authors, whose testimonies are cited in diuers places of this Treatise; to the end no man may thinke that the points or matter therein han<g ref="char:EOLhyphen"/>dled is onely the opinion of some small number of people, and of late sprung vp, but of many persons, and in sundry times; to the end also, that every one dili<g ref="char:EOLhyphen"/>gently examining the sayd authors, may satisfie and put himselfe out of all doubt: So that neither the one nor the other party may haue iust reason to complaine of my partiality. Reade heedfully and iudge vprightly.</p>
+   <div type="index">
+      <head>A Register of the Authors titled in this Treatise, for the better confirmation of the Truth.</head>
+      <list>
+         <head>A</head>
+         <item>Augustinus.</item>
+         <item>Ambrosius.</item>
+         <item>Acatius.</item>
+         <item>Athanasius.</item>
+         <item>Andradius.</item>
+         <item>Antonius Florent.</item>
+         <item>Aeneas Silvius.</item>
+         <item>Albertus Cratzius.</item>
+         <item>Abbas Ʋrspergensis.</item>
+         <item>Augustinus Steuchius.</item>
+         <item>Arnobius.</item>
+         <item>Actius Zan.</item>
+         <item>Agrippa.</item>
+         <item>Apollo.</item>
+         <item>Arnulphus Aucet Epis.</item>
+         <item>Arias Montanus.</item>
+      </list>
+      <list>
+         <head>B</head>
+         <item>Bernardus Abbas clu.</item>
+         <item>Basilius.</item>
+         <item>Bonifacius.</item>
+         <item>Baldus.</item>
+         <item>
+            <pb facs="4"/>Benna Cardinalis.</item>
+         <item>Beda.</item>
+         <item>Baronius.</item>
+         <item>Bernardus Mendoza.</item>
+      </list>
+      <list>
+         <head>C</head>
+         <item>Chrysostome.</item>
+         <item>Cyrillus.</item>
+         <item>Clemens Alexandrinus.</item>
+         <item>Cyprianus.</item>
+         <item>Calixtus.</item>
+         <item>Clementis Clementinus.</item>
+         <item>Coletus.</item>
+         <item>Conformiatum Liber.</item>
+         <item>Concilium Trident.</item>
+         <item>Coment. Magist. Pariseen.</item>
+         <item>Cuspimianus.</item>
+      </list>
+      <list>
+         <head>D</head>
+         <item>Ducherius.</item>
+      </list>
+      <list>
+         <head>E</head>
+         <item>Ecchius.</item>
+         <item>Evagrius.</item>
+         <item>Eutropius.</item>
+         <item>Extrauagants.</item>
+         <item>Eusebius.</item>
+         <item>Everard, Archi. Salis.</item>
+         <item>Epiphanius.</item>
+         <item>Erasmus.</item>
+      </list>
+      <list>
+         <head>F</head>
+         <item>Fellinus.</item>
+         <item>Francis Petrarch.</item>
+         <item>Flavius Blondus.</item>
+         <item>Fuccius.</item>
+      </list>
+      <list>
+         <head>G</head>
+         <item>Gregorius Nazianzen.</item>
+         <item>Gelasius.</item>
+         <item>Gulielmus Budaeus.</item>
+         <item>Gerson.</item>
+         <item>Gregorius Magnus.</item>
+         <item>Gratianus.</item>
+         <item>Gabriel Biel.</item>
+         <item>Grebelius.</item>
+         <item>G. Lilius.</item>
+         <item>Gallen-Annal.</item>
+      </list>
+      <list>
+         <head>H</head>
+         <item>Hironimus.</item>
+         <item>Hulderius Huttenus.</item>
+         <item>Hesius.</item>
+         <item>Hermoadus.</item>
+         <item>Hieron. Sauanarola.</item>
+         <item>Hiron. Marius.</item>
+      </list>
+      <list>
+         <head>I</head>
+         <item>Ieremius.</item>
+         <item>Iustinian.</item>
+         <item>Ius. Canon.</item>
+         <item>Iason.</item>
+         <item>Ianus Pannon.</item>
+         <item>Iohannes Monlucius.</item>
+         <item>Iohan. de terra Cremata.</item>
+         <item>Iohan. Petrus Farra.</item>
+         <item>Iohan. Anarsimus.</item>
+         <item>Iohan. Iouianus Pontanus.</item>
+         <item>Iohan Functius.</item>
+         <item>Iohan Nouiamga.</item>
+      </list>
+      <list>
+         <head>L</head>
+         <item>Lindanus.</item>
+         <item>Lombardus.</item>
+         <item>Laurentius Valla.</item>
+         <item>Luitperandus Ficinencis.</item>
+         <item>Legenda Sanctorum.</item>
+      </list>
+      <list>
+         <head>M</head>
+         <item>Marcilius Ficinus.</item>
+         <item>Mantuan Baptista.</item>
+         <item>Mabeus.</item>
+         <item>
+            <pb facs="5"/>Marullus.</item>
+         <item>Matthaeus Parisiens.</item>
+         <item>Michael Centonas.</item>
+      </list>
+      <list>
+         <head>N</head>
+         <item>Nicholaus Cusans.</item>
+         <item>Nauclerus.</item>
+      </list>
+      <list>
+         <head>O</head>
+         <item>Orosius.</item>
+         <item>Origenes.</item>
+      </list>
+      <list>
+         <head>P</head>
+         <item>Paphnutius.</item>
+         <item>Panormitan.</item>
+         <item>Paulus Weigerius. Episcop.</item>
+         <item>Petrusius Soto.</item>
+         <item>Platina.</item>
+         <item>Petrus Premonstra.</item>
+         <item>Pighius.</item>
+         <item>Philippus Orcius.</item>
+         <item>Pautalion.</item>
+      </list>
+      <list>
+         <head>R</head>
+         <item>Raphael Volaterranus.</item>
+         <item>Ruardus Tap.</item>
+         <item>Ruffinus.</item>
+      </list>
+      <list>
+         <head>S</head>
+         <item>Stella ventus.</item>
+         <item>Sabellicus.</item>
+         <item>Socrates.</item>
+         <item>Sigibertus.</item>
+         <item>Spiridion.</item>
+      </list>
+      <list>
+         <head>T</head>
+         <item>Tertullianus.</item>
+         <item>Thomas Aquinus.</item>
+         <item>Theodoretus.</item>
+         <item>Trebellius.</item>
+         <item>Thomas Roden.</item>
+      </list>
+      <list>
+         <head>V</head>
+         <item>Vincentius.</item>
+         <item>Valerius Anselmus.</item>
+         <item>Vicaelius.</item>
+      </list>
+      <list>
+         <head>Z</head>
+         <item>Zezintus.</item>
+      </list>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

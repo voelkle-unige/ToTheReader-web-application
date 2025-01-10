@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>DEO OPT: MAX: SACRUM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104455_Fr1_5</idno>
+           <idno type="DLPS">A01933</idno>
+           <idno type="STC">1207</idno>
+           <idno type="ESTC">S104455</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>DEO OPT: MAX: SACRUM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An astronomicall description of the late comet : from the 18. of Nouemb. 1618. to the 16. of December following. With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks</title>
+                 <author>Bainbridge, John</author>
+                 <imprint>
+                    <distributor>Fetherstone (Featherstone), Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Parker, John</publisher>
+                        </imprint>
+                 <extent>8, 42, 2 pages, 1 folded leaf of plates, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="5"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="6"/>
+   <head>DEO OPT: MAX: SACRUM.</head>
+   <p>Augustiss: Brittanniarum Monarchae Franciae{que} regi <hi>IACOBO 1.</hi>
+   </p>
+   <p>Foelix noui anni auspicium et <hi>D: Astronomiae tandem instaurandae Symbolum</hi>
+   </p>
+   <p>fecit vouit{que} Ioh: Bambridgius Med: Doctor.</p>
+</div>
+        </body>
+  </text>
+</TEI>

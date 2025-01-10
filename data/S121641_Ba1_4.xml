@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121641_Ba1_4</idno>
+           <idno type="DLPS">A73871</idno>
+           <idno type="STC">7259</idno>
+           <idno type="ESTC">S121641</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Teares on the death of Moeliades</title>
+                 <author>Drummond, William</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="9"/>
+   <head>To the Reader.</head>
+   <p>THE <hi>Name</hi> which in these Verses is giuen PRINCE HENRIE, is that which he Himselfe in the Chal<g ref="char:EOLhyphen"/>lenges of his Martiall Sports, and Mascarads, was wont to vse, MOELIADES <hi>Prince of the Isles:</hi> which in <hi>Ana<g ref="char:EOLhyphen"/>gramme</hi> maketh a <hi>VVord</hi> most worthie of such a Knight, as He was a Knight (if <hi>Time</hi> had fuffred his Actions answere the Worlds exspectation) onely worthie of such a <hi>VVorde,</hi> MILES A DRO.</p>
+</div>
+        </body>
+  </text>
+</TEI>

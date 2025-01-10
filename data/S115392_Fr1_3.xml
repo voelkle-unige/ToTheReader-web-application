@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To The Reader.</title>
+           <author>Johnson, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115392_Fr1_3</idno>
+           <idno type="DLPS">A08911</idno>
+           <idno type="STC">19189</idno>
+           <idno type="ESTC">S115392</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To The Reader.</title>
+                 <author>Johnson, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The workes of that famous chirurgion Ambrose Parey translated out of Latine and compared with the French. by Th: Johnson</title>
+                 <author>Paré, Ambroise</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Young (Junius), Robert.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>14, 487, 1, 553-1083, 1, 1093-1173, 23 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To The Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Have here for the publike good taken paines to subject my selfe to common censure, the which I doubt not but to finde as various as the faces of the Censurers; but I expect no thanks, nor hunt after other praise, than that I have laboured for my Countries good, if that deserve any. I feare not Calumniation (though sure to heare of it) and there<g ref="char:EOLhyphen"/>fore I will not Apologize, but informe thee of some things concer<g ref="char:EOLhyphen"/>ning the Author his work, and the reason that induced me to the tran<g ref="char:EOLhyphen"/>slation thereof, with some few things besides. For the Author, who was principall Surgeon to two or three Kings of France, hee was a man well versed in the writings of the antient and moderne Physitians, and Surgeons, as you may evidently finde by sundry places alledged in his workes. For his experience, or practice (the chiefe helpe to attaine the highest perfection in this Art) it was wonderfull great, as you may collect by his voyages recorded in the last part of this work; as also by that which <hi>James Guillemeau,</hi> Surgeon to the French King, a man both learned and judicious in his profession, averres, speaking of his owne education and progresse in the Art of Surgery. I so laid (<note n="*" place="margin">In his Epistle prefixed before the Latine edi<g ref="char:EOLhyphen"/>tion of this au<g ref="char:EOLhyphen"/>thor.</note> saith hee) the first foundation of this Art in the Hospitall of <hi>Paris,</hi> being, as it were, an ample Theater of wounds and diseases of all kindes, that for two whole yeares, during which time I was there conversant, nothing was consulted of, nothing performed, the Physitians, and Surge<g ref="char:EOLhyphen"/>ons being present, whereof I was not an Auditor of Actor. There flourished at these times, and yet doth, <hi>Ambrose Parey,</hi> principall Surgeon to the most Christian King, the Author of this great worke, most renowned for the gracious favour of Kings, Princes and Nobles towards him, for his Authoritie amongst his equals, for his Chirurgical operations amongst all men. Therefore I earnestly endeavoured to be received into his family, as unto another <hi>Machaon,</hi> or <hi>Podalitius:</hi> once admitted, I so by all dutifulnesse and due respect acquired his favour, that he, unlesse I were present and assisting, did nothing (such is his naturall gentle<g ref="char:EOLhyphen"/>nesse and curtesie to all such as are studious of the Art) at home or abroad, in the field, in the tents, or lastly in this famous Citie of <hi>Paris,</hi> about the bodies of Dukes, Noblemen, or Citi<g ref="char:EOLhyphen"/>zens, in whose cure, he by the ardent desire of them all, had still the prime place.</p>
+   <p>Now for this worke, heare what this same man in the same place affirmeth further: I not content with these meanes, which may seeme sufficient, and too much, as desirous to satisfie my long thirst, determined to try whether I could draw, or borrow any thing from stran<g ref="char:EOLhyphen"/>gers, which our men wanted, to the fuller knowledge of Surgery. To this purpose I travai<g ref="char:EOLhyphen"/>led over Germany, and then for foure years space I followed the Spanish Armie in the Low<g ref="char:EOLhyphen"/>countries; whereas I did not onely carefully cure the wounded Souldier, but also heedfully and curiously observe what way of curing the renowned Italian, Germane, and Spanish Sur<g ref="char:EOLhyphen"/>geons observed, who together with me were imployed in the Hospitall, for the healing of the wounded and sicke. I observed them all to take no other course than that which is here delivered by <hi>Parey.</hi> Such as did not understand French, got some pieces of this worke for large rewards, turned into Latine, or such Languages as they understood, which they kept charily, and made great store of; and they esteemed, admired, and embraced this worke a<g ref="char:EOLhyphen"/>lone, above all other workes of Surgery, &amp;c. Our Author also himselfe, not out of a vain<g ref="char:EOLhyphen"/>glorious ostentation, but a minde conscious of the truth of his assertion, affirmes thus much of this his worke. I have (saith hee) so certainely toucht the marke whereat I aimed, that Antiquity may seeme to have nothing wherein it may exceed us, besides the glory of inven<g ref="char:EOLhyphen"/>tion, nor posterity any thing left, but a certaine small hope to adde some things, as it is easie to adde to former inventions. Thus much concerning our Authour, and the excellency of his worke.</p>
+   <p>Now come I to my translation, the which, as desiring more a publike good, than private praise, I have performed plainly and honestly, laboring to fit it to the capacity of the meanest Artist; for these are they to whom I chiefly commend this work, and from whom I expect acceptation. I being by the earnest perswasions of some of this profession, chiefly, and al<g ref="char:EOLhyphen"/>most
+<pb facs="4"/>
+wholly perswaded and incited to take this paines, who knowing the disability of un<g ref="char:EOLhyphen"/>derstanding this Author in Latine or French, in many of the weaker members of the large body of their profession, dispersed over this Kingdome, and the rest of his Majesties Domi<g ref="char:EOLhyphen"/>nions, whose good, and encrease in knowledge may be wisht, that so they may be the better enabled to doe good to such as shall implore their aide in their profession.</p>
+   <p>There are some (I know) will blame me for Englishing this worke, as laying open the mysteries of a worthy Art, to the unworthy view of the vulgar. To such I could answer as <note n="*" place="margin">Vide Aul. Gel. l. 20. c. 4.</note>
+      <hi>Aristotle</hi> did to <hi>Alexander:</hi> but for the present I will give them these, which I thinke may satisfie any but the purposely malicious: the first is drawne from the goodnesse of the thing, as intended for those that want such guides to direct them in their Art; for it is com<g ref="char:EOLhyphen"/>monly granted, that, <hi>Bonunm quo communius eo melius.</hi> Secondly, it hath beene the custome of most Writers in all Ages and Countries thus to doe: <hi>Hippocrates, Galen,</hi> and the other Greeks, writ in their mother tongue the mysteries of their Art: thus did <hi>Celsus, Serenus,</hi> and others in Latine: <hi>Mesue, Avicen, Serapio,</hi> and others, in Arabicke; as also, to goe no further, our Author writ this worke in his native French, and learned men have done the like in this, and all other Arts. And it is a great hinderance to us in these daies, that we must bee forced to learne to understand two or three tongues, before wee can learne any science, whereas the Antients learned and taught theirs in their mother tongue: so that they spent a great deale lesse time about words, and more upon the study of that Art or Science they in<g ref="char:EOLhyphen"/>tended to learne and follow. Thirdly, I must tell you, that, <hi>Ex libris nemo evasit Artifex,</hi> No man becomes a workeman by booke: so that unlesse they have had some insight in the Art, and be in some sort acquainted both with the termes of Art, as also with the knowledge and use of the instruments thereto belonging, if by reading this, or any other booke of the like nature they become Surgeons, I must needs liken them (as <hi>Galen</hi> doth another sort of men) <note n="*" place="margin">Gal. de simp. l. 6. <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</note> To Pilots by booke onely: to whose care, I thinke, none of us would commit his safety at Sea, nor any if wise, will commit themselves to these at land, or sea either, unlesse wholly destitute of other.</p>
+   <p>The other things whereof I must also give you notice, are these. The figures in the A<g ref="char:EOLhyphen"/>natomy are not the same used by my Author (whose were according to those of <hi>Vesalius)</hi> but according to those of <hi>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>auline,</hi> which were used in the worke of Dr. <hi>Crooke;</hi> and these indeed are the better and more complete. Also Page 807. I thought it better to give the true figure of the Helmet floured Aconite, mentioned out of <hi>Pliny,</hi> than to reserve the faig<g ref="char:EOLhyphen"/>ned picture of <hi>Matthiolus,</hi> which in our Author was encreased with the further fiction of a Helmet. I have in some few places in the margent, which you shall find marked with a star, put short annotations, for the better illustration of that which is obscure, &amp;c. I have also in the Text to the same purpose, here and there put two or three words, contained in these li<g ref="char:EOLhyphen"/>mits [], which I finde here and there turned into a plaine Parenthesis, especially toward the latter end of the booke, but the matter is not great. Further, I must acquaint you that the Apologie and Voyages, being the last part of this worke, and not in the Latine, but French editions, were translated into English out of French by <hi>George Baker,</hi> a Surgeon of this City, since that time, as I heare, dead beyond the Seas.</p>
+   <p>This is all, Courteous Reader, that I have thought necessary to acquaint thee withall con<g ref="char:EOLhyphen"/>cerning this, which I would desire thee to take with the same minde that it is presented to thee, by him that wisheth thee all happinesse,</p>
+   <closer>
+      <signed>THOMAS JOHNSON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

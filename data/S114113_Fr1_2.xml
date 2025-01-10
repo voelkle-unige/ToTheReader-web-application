@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114113_Fr1_2</idno>
+           <idno type="DLPS">A21275</idno>
+           <idno type="STC">7626</idno>
+           <idno type="ESTC">S114113</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The lieutenant of the Tower his speech and repentance, at the time of his death, who was executed vpon Tower Hill, on the 20. day of Nouember. 1615 : Together with a meditation and vow of his that hee made not long before he dyed</title>
+                 <author>Helwys, Gervase, Sir</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>38 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O satisfie the World, which in a cause of this Nature, is com<g ref="char:EOLhyphen"/>monly distracted into various opinions, ad<g ref="char:EOLhyphen"/>ding or detracting from the truth, accor<g ref="char:EOLhyphen"/>ding to the humorous disposition with which it meets; And to doe Right to the dead Gentleman, who (albeit his offence was foule to GOD and Man, and hatefull to himselfe) deserued both loue and pitty, for the Christian end hee made) haue I (Reader for thy sake) collected the sub<g ref="char:EOLhyphen"/>stance</p>
+   <gap reason="missing" extent="1+ pages">
+      <desc>〈1+ pages missing〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

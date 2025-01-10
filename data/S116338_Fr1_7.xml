@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ornato atque erudito juve∣ni Domino Iohanni Sad∣lero Medicinae Doctori, Alexander Reidus  atque e sociorum inclyti Collegii Londi∣nensis medici numero S. P. D.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116338_Fr1_7</idno>
+           <idno type="DLPS">A11278</idno>
+           <idno type="STC">21544</idno>
+           <idno type="ESTC">S116338</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ornato atque erudito juve∣ni Domino Iohanni Sad∣lero Medicinae Doctori, Alexander Reidus  atque e sociorum inclyti Collegii Londi∣nensis medici numero S. P. D.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sicke vvomans private looking-glasse : wherein methodically are handled all uterine affects, or diseases arising from the wombe; enabling women to informe the physician about the cause of their griefe· By Iohn Sadler, Doctor in Physicke at Norwich</title>
+                 <author>Sadler, John</author>
+                 <imprint>
+                    <publisher>Griffin, Anne</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <distributor>Meredith, Christopher</distributor>
+                            <distributor>Stephens, Philemon</distributor>
+                        </imprint>
+                 <extent>24, 164, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_author">
+   <pb facs="103"/>
+   <pb facs="103"/>
+   <head>Ornato atque erudito juve<g ref="char:EOLhyphen"/>ni Domino Iohanni Sad<g ref="char:EOLhyphen"/>lero Medicinae Doctori, Alexander Reidus <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> atque e sociorum inclyti Collegii Londi<g ref="char:EOLhyphen"/>nensis medici numero S. P. D.</head>
+   <p>CLarumtuū mor<g ref="char:EOLhyphen"/>borum uteri<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>o<g ref="char:EOLhyphen"/>rum, speculum non oscitanter perlegi, quod ad corum &amp; dignotionem &amp; cu<g ref="char:EOLhyphen"/>rationem elaborasti, quod que publici iuris facturum te mihi significasti. Si de eo quaeras quid sentiam, brevem apertamque a<g ref="char:EOLhyphen"/>nimimei sententiam accipe Dig<g ref="char:EOLhyphen"/>num existimo quod lucem aspi<g ref="char:EOLhyphen"/>ciat; ad quod <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> omnes manibus versent. Non est meo indicio quod sciolorum cerulas miniatulas pertimescas. Phra<g ref="char:EOLhyphen"/>sis
+<pb facs="104"/>
+in eo tersa at{que} elega<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>s: in eo certant brevitas &amp; perspicuitas, ut de te Horatianum istud vere pronunciari non possit, Brevis esse laboro, Obscurus fio.</p>
+   <p>Methodus clara est atque rei traditioni conveniens. Medica<g ref="char:EOLhyphen"/>menta quae proferuntur sele<g ref="char:EOLhyphen"/>cta sunt &amp; tuta: Ita ut possit liber ipse secure maligni livoris dentem contemnere. Quamo<g ref="char:EOLhyphen"/>brem oro autor sibisim eum pub<g ref="char:EOLhyphen"/>licandi, ut pulchris ingenii tui felicis primitiis gloria tibi ac<g ref="char:EOLhyphen"/>cedat, atque ad gratitudinem exprimendam populares omnes obligentur.</p>
+   <closer>
+      <dateline>Londini, <date>prid. Id. Ianuar. anniab exbibito in car<g ref="char:EOLhyphen"/>ne Messia supra millesimum sexcentesimum tricesimo quin<g ref="char:EOLhyphen"/>to,</date>
+Ex musaeolo meo.</dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The booke must bee beholden to the courtesie of the Reader, there be so ma∣ny mis-prints, or misprisions, for words, accents, poynting. As,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119401_Fr1_3</idno>
+           <idno type="DLPS">A14669</idno>
+           <idno type="STC">24970</idno>
+           <idno type="ESTC">S119401</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The booke must bee beholden to the courtesie of the Reader, there be so ma∣ny mis-prints, or misprisions, for words, accents, poynting. As,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rabboni : Mary Magdalens teares, of sorrow, solace. The one for her Lord being lost. The other for him being found. In way of questioning. Wondring. Reioycing. ... Preached at S. Pauls Crosse, after the rehearsall, and newly reuised and enlarged: by Thomas Walkington, Docto in Diuinity, and minister of the Word at Fulham</title>
+                 <author>Walkington, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Whitaker, Richard</publisher>
+                        </imprint>
+                 <extent>16, 176 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="7"/>
+   <head>The booke must bee beholden to the courtesie of the Reader, there be so ma<g ref="char:EOLhyphen"/>ny mis-prints, or misprisions, for words, accents, poynting. As,</head>
+   <p>Page 10. line 15. <hi>orizon</hi> for <hi>oraison.</hi> pag. 13 lin 21.22. <hi>That was, I and yet is.</hi> pag. 20. lin. 5. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. p. 21. <hi>Rabbi Dauid,</hi> in the margin ouer against <hi>Thammyz.</hi> p. 24. l. 22▪ <hi>watcheth.</hi> p. 25. in marg. <hi>vicant.</hi> for <hi>Cant.</hi> 6. p. 22. l. 13. <hi>beards.</hi> ibid. l. 19. <hi>of whom — our help standeth.</hi> p. 41. l. 10. <hi>dreads.</hi> p. 42. l. 2. <hi>pamphlet.</hi> p. 43. l. 11. <hi>Lady</hi> (as some write) <hi>Prostibulum.</hi> p. 46. l. 6, 7. read <hi>shee thinking this, that to despaire of mercy was.</hi> p. 48. l. vlt. <hi>in peeces. Like a &amp;c.</hi> p. 59. l. 1. <hi>Quot membra.</hi> p. 96. marg. <hi>Lachman dimhar hablan iomanah.</hi> Syr. p. 106. l. 17. <hi>now</hi> for <hi>thou</hi>▪ p. 111. l. vlt. <hi>to liue with thee.</hi> p. 121. marg. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. p. 132. l. 10, 11. <hi>a Non-Hierarchy: It brings not in a Gauel-kinde &amp;c.</hi> p. 138. l. 6. adde <hi>&amp;c.</hi> p. 139. marg. <hi>Ezech.</hi> 10.13. p. 141. l. 18. <hi>venashuua.</hi> p. 149. l. 19. <hi>Cheirograph.</hi> p. 150. l. 14. read, <hi>for that.</hi> ibid. l. 16. read, <hi>wee shall bathe and drench our selues.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

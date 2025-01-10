@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Instruction to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107055_Fr1_4</idno>
+           <idno type="DLPS">A17230</idno>
+           <idno type="STC">4083</idno>
+           <idno type="ESTC">S107055</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Instruction to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An English expositor : teaching the interpretation of the hardest words vsed in our language. With sundry explications, descriptions, and discourses. By I.B. Doctor of Phisicke</title>
+                 <author>J. B. (John Bullokar)</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Legat (Legate, Legatt), John 1</publisher>
+                        </imprint>
+                 <extent>224 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="instruction">
+   <pb facs="5"/>
+   <head>An Instruction to the Reader.</head>
+   <p>HAue care to search euery word ac<g ref="char:EOLhyphen"/>cording to the true
+Orthography thereof, as for Phoenix in the Letter <hi>P.</hi> not in
+<hi>F.</hi> for Hypostaticall in <hi>Hy:</hi> not in <hi>Hi.</hi> Remember
+also that euery word mar<g ref="char:EOLhyphen"/>ked with this marke * is an olde word, onely
+vsed of some ancient writers, and now growne out of vse. Lastly, if a
+word bee of different significations, the one easie, the other more
+difficult, I onely speake of interpretati<g ref="char:EOLhyphen"/>on of the hardest; as in the
+words <hi>Tenne, Girle, Garter,</hi> may appeare.</p>
+</div>
+        </body>
+  </text>
+</TEI>

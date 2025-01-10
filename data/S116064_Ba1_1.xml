@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116064_Ba1_1</idno>
+           <idno type="DLPS">A10875</idno>
+           <idno type="STC">21141</idno>
+           <idno type="ESTC">S116064</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Differences in matters of religion, betweene the easterne and westerne churches : VVherein the Romane Church may see her selfe charged with as many errours, as shee falsly layeth to the charge of other churches in Europe. Gathered by Irenæus Rodoginus</title>
+                 <author>Rodoginus, Irenaeus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Budge, John.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>42, 45, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <lg>
+      <l>HEere faults escap'd I haue amended,</l>
+      <l>Therefore Reader be not offended;</l>
+      <l>But if thou wilt: then whose to blame</l>
+      <l>Thy fostred faults if others name?</l>
+   </lg>
+   <p>In the Preface. For rigorous, read vigorous. In C. read <hi>magis diligentiam.</hi> for Crow, r. Crane. for <hi>Iekan,</hi> r. <hi>Iehan.</hi> for crit<g ref="char:EOLhyphen"/>ticke, r. crypticke, for vntie, r. vntied. Page 3. in <hi>marg.</hi> for <hi>Loe,</hi> r. <hi>Leo.</hi> for <hi>lib.</hi> r. <hi>sub.</hi> p. 8. line 11. for the, r. thy. p. 13. l. 14. for our, r. one. p. 14. l. 12. for <hi>Barnious,</hi> r. <hi>Baronius,</hi> pa 15. l. 3. for chiefe, r. cheefe. l. 26. for fish, r. fist. pag. 17. l. 3. r. to the Sea. lin 24. for <hi>concimantes,</hi> r. <hi>concinnantes</hi> pag. 18. li. 4. for <hi>iudice,</hi> r. <hi>i<gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>dice.</hi> p. 20. l. 10. for worteh, r. wotthy. p. 36. l. 5. for coffin, r. coffer. pa. 37. l. 1. for Synod at, r. Synodall. for no, r. to.</p>
+</div>
+        </body>
+  </text>
+</TEI>

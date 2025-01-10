@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>NICOLAI VDALLI CARMEN ENDECA syllabum ad libel∣lum suum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118353_Fr1_2</idno>
+           <idno type="DLPS">A13620</idno>
+           <idno type="STC">23903</idno>
+           <idno type="ESTC">S118353</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>NICOLAI VDALLI CARMEN ENDECA syllabum ad libel∣lum suum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Flovvers or eloquent phrases of the Latine speach, gathered ont [sic] of al the sixe comoedies of Terence. VVherof those of the first thre were selected by Nicolas Vdall. And those of the latter three novv to them annexed by I. Higgins, very profitable and necessary for the expedite knovvledge of the Latine tounge</title>
+                 <author>Terence</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>428 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Literature</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="2"/>
+   <head>NICOLAI VDALLI <hi>CARMEN ENDECA</hi> syllabum ad <hi>libel<g ref="char:EOLhyphen"/>lum suum.</hi>
+   </head>
+   <lg>
+      <l>SI certum est tibi pertinax libelle,</l>
+      <l>In multas hominum manus venire,</l>
+      <l>Doctorum{que} libet subire nasum,</l>
+      <l>Sannas, verbera, iurgium cachinnos:</l>
+      <l>Per me fit tibi liberum vagari,</l>
+      <l>I quocun{que} voles tuo periclo,</l>
+      <l>Securus poteras domi latere,</l>
+      <l>Et mecum poteras manere tutus▪</l>
+      <l>Nunc es publicus, haud meus libellus,</l>
+      <l>Nec possum tibi iam patrocinari,</l>
+      <l>Nec suffragia, gratiam{que} vulgi,</l>
+      <l>Aut vitam, genium{que} polliceri.</l>
+      <l>Orbis sed tibi, multitudinis{que}</l>
+      <l>Standum iudicio, vel est cadendum.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

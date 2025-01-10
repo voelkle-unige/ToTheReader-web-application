@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111924_Ba1_1</idno>
+           <idno type="DLPS">A05025</idno>
+           <idno type="STC">1517</idno>
+           <idno type="ESTC">S111924</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A brief discouerie of the false church. 1590</title>
+                 <author>Barrow, Henry</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>8, 263, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="137"/>
+   <head>The Printer to the Reader.</head>
+   <p>
+      <hi>I must acknovvledg verye many faults escaped in the printing of this Booke, &amp; therfore do craue the Readers patience, and the Authors pardon, hauing giuen the one (no doubt) some cause of offence, and done the other (I feare) a greater wrong: but hopinge that both will rest satisfied, &amp; that the Reader shall reape the proffit of this fruitfull discourse, I bid them farevvell.</hi>
+   </p>
+   <pb facs="137"/>
+</div>
+        </body>
+  </text>
+</TEI>

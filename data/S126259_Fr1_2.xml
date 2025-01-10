@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Stationer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S126259_Fr1_2</idno>
+           <idno type="DLPS">B08144</idno>
+           <idno type="STC">23519.5</idno>
+           <idno type="ESTC">S126259</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Stationer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The devotions and formes of prayer, daily vsed in the King of Svvedens army : being the first part of our intended booke concerning the Svvedish discipline; religious, civill, and military. The reason for our publishing this by it selfe, wee desire the reader to looke for in the Epistle</title>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <distributor>Bourne, Nicholas</distributor>
+                            <distributor>Butter, Nathaniel</distributor>
+                        </imprint>
+                 <extent>2, 35, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="stationer_to_the_reader">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>¶ The Stationer to the Reader.</head>
+   <opener>
+      <salute>Favourable and judicious:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>Hat having beene heretofore by promise engaged to giue you all the three parts of the <hi>Swe<g ref="char:EOLhyphen"/>dish Discipline,</hi> wee are heere enforced to present you with the <hi>first</hi> onely, and that dismembred from the other <hi>two;</hi> We humbly desire you to accept of this fayre ex<g ref="char:EOLhyphen"/>cuse for it. Tis done to prevent your being abused by an<g ref="char:EOLhyphen"/>other: who ayming (as may be suspected) more at his owne profit, than the benefit of his Reader: vpon hope of venting his Booke vnder that most acceptable name of this victorious King; is about to thrust these following Prayers vpon the world; barely taken, and perchance not so literally translated, out of the Booke called <hi>Arma Suecica.</hi> One thing or two (besides the vselessenesse of the volume he is about to Print it in) over-slipped in his Translation, wee here thinke fit to tell you of, which vpon sight of some of the printed sheetes (the Copie ha<g ref="char:EOLhyphen"/>ving by himselfe beene before sold vnto vs) we discovered.
+<pb facs="5"/>
+      <hi>First,</hi> That his Translator hath no where observed how many sentences in these Prayers (which are taken out of the Common Prayer Booke vsed in the Kingdome of <hi>Sweden</hi>) are the same with those in our English Common Prayer Booke: the reason of it being, for that both our Common Prayer Booke and theirs, were taken out of one and the same Treasury of Antiquitie.</p>
+   <p>The second omission of his Translater is this: That he hath not beene diligent enough to turne vnto those pla<g ref="char:EOLhyphen"/>ces of holy <hi>Scripture,</hi> out of which the most of these Prayers are gathered: nor hath observed the allowed and best Translation of our Church; but done it in his owne phrases. And that our Booke hath beene carefull in this poynt, wee appeale to the <hi>Scriptures</hi> quoted in the Margent: which is a third thing in which his other Booke is also defectiue. As for other differences in per<g ref="char:EOLhyphen"/>formance, in the <hi>faithfulnesse</hi> and <hi>literallnesse</hi> of Translation; that wee wholly referre vnto the Iudge<g ref="char:EOLhyphen"/>ment of the able Readers.</p>
+   <p>Thus having made you acquainted with our purpose; wee also referre it vnto your discretions, either to stay your hands from buying of eyther; or those that buy ours, to keepe it till next weeke that the other two Parts come out also: at which time they may be bound together, as was at first intended. The second part of the <hi>Intelli<g ref="char:EOLhyphen"/>gencer</hi> is likewise now in hand, which we hope ere long to furnish you with, if it pleases God.</p>
+   <closer>
+      <salute>Vale.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

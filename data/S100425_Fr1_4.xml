@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100425_Fr1_4</idno>
+           <idno type="DLPS">A02367</idno>
+           <idno type="STC">125</idno>
+           <idno type="ESTC">S100425</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sacrifice of thankefulnesse : A sermon preached at Pauls Crosse, the third of December, being the first Aduentuall Sunday, anno 1615. By Tho. Adams. Whereunto are annexed fiue other of his sermons preached in London, and else-where; neuer before printed</title>
+                 <author>Adams, Thomas</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <distributor>Knight, Clement</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 94, 93-103, 1, 2, 25, 1, 2, 45, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraph_to_the_reader">
+   <head>Ad Lectorem.</head>
+   <p>
+      <bibl>Senec. epist. 59.</bibl>
+      <q>Cupio, si fieri potest, propitijs auribus quid sentiam,
+dicere▪ sin minùs, dicam &amp; iratis.</q>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

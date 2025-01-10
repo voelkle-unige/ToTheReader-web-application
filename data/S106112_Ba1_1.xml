@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata's.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106112_Ba1_1</idno>
+           <idno type="DLPS">A16680</idno>
+           <idno type="STC">3586</idno>
+           <idno type="ESTC">S106112</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata's.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A spiritual spicerie : containing sundrie sweet tractates of devotion and piety. By Ri. Brathwait, Esq</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <distributor>Hutton, George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>22, 470, 4 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="248"/>
+   <head>Errata's.</head>
+   <p>PAge 102. line 7. for <hi>He,</hi> reade <hi>They.</hi>
+p. 116. l. 8. for <hi>this,</hi> r. <hi>these.</hi> p. 151.
+l. 16. for <hi>huger,</hi> r. <hi>hunger.</hi> p. 184. l vlt.
+for <hi>glagues,</hi> r. <hi>plagues.</hi> p. 336. in Tit.
+for <hi>DEAHTS,</hi> r. <hi>DEATHS.</hi> p.
+339. l. 21. for <hi>divine,</hi> r. <hi>dimme.</hi> p. 395.
+l. 13. fore <hi>fore,</hi> r. <hi>for.</hi>
+   </p>
+   <p>REqui<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>e the <hi>Authors</hi>
+paines with thy pen,
+in correcting these literall
+errors: and remember <hi>him</hi>
+in thy private prayers, who
+will render the like to <hi>thee</hi>
+in his Christian vowes and
+teares.</p>
+</div>
+        </body>
+  </text>
+</TEI>

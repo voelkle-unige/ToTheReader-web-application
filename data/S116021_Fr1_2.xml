@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the Reader.</title>
+           <author>Bell, James</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116021_Fr1_2</idno>
+           <idno type="DLPS">A01130</idno>
+           <idno type="STC">11241</idno>
+           <idno type="ESTC">S116021</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the Reader.</title>
+                 <author>Bell, James</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Pope confuted : The holy and apostolique Church confuting the Pope. The first action. Translated out of Latine into English, by Iames Bell</title>
+                 <author>Foxe, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 <publisher>Dawson, Thomas.</publisher>
+                            <publisher>Sergier, Richard 1</publisher>
+                        </imprint>
+                 <extent>4, 121, 1 leave, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Translator to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He Authour who cō<g ref="char:EOLhyphen"/>piled this litle booke, contented with the te<g ref="char:EOLhyphen"/>stimonie of a good conscience, hath by an honest veyle made the concealement of his name excusable with all such as bee indued with like mildnesse of spirit. And it becommeth his modesty very wel whosoeuer he be. Whose example I purposed once to haue imitated, and had in deed deliuered my simple labours herein without notice of name likewise, had I not by good cha<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nce, wh<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>les I was yet trauailing in my translation, chaunced vpon an enemie of the truth (whereof there be to many lurking in cor<g ref="char:EOLhyphen"/>ners if it might please God otherwise) a friend of the Pope: who vpon conference vpon some mat<g ref="char:EOLhyphen"/>ters confuted in this t<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>eatie, charged me with my falling from them, I meane from their common errours in this behalfe: adding withal that it was not thought credible amongst many of the like stragglers, that I had slipped the coller, and become, as he tearmed me, an Apostata. Whom after I had assured of my calling with some cir<g ref="char:EOLhyphen"/>cumstances of the maner of mine escape out of that La<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>erane Laberinth, not without some ear<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>st praiers for his like reclaime, though to no
+<pb facs="3"/>
+purpose: I began to bethinke my self that I could do no better than to manifest my name in this place, yeelding most heartie and humble thanks to the Lord that I happened vpō so good an oc<g ref="char:EOLhyphen"/>casion to wipe away my blemish. In deed I wan<g ref="char:EOLhyphen"/>dered long in the selfe same mizmaze, nooseled therin by the gray headed of that schoole, whose countenance caried mee from my Christ to the Swinstie of Sorbone, which had swalowed me vp, if the Lord had not preuented me with his mercie betimes. I was, I say, as they are, I am now as I am (Christ Iesus be thanked) a conuert I confesse. The Lord graunt I may stand fast to the glorie of his name, and the good example of others, whose like conuersion I do hartily wish in the Lord. And so desiring thy good praiers to Iesus Christ (gentle Reader) to assist me with his grace, that I may perseuer in this his gracious calling to the ende I wil no longer abuse thy pa<g ref="char:EOLhyphen"/>cience: The Lord Iesus gouerne and guide thee in the true obedience of his glorious Gospel, to the glorie of his name. Amen.</p>
+   <closer>
+      <signed>Thy louing fellow seruant in the Lord <hi>Iames Bell.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

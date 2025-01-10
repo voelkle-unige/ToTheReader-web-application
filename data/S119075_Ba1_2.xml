@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Holbrooke, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119075_Ba1_2</idno>
+           <idno type="DLPS">A03445</idno>
+           <idno type="STC">13566</idno>
+           <idno type="ESTC">S119075</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Holbrooke, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached before the antient company of Black-smiths in S. Marie Magdalens Church in London on Saint Iohn Baptist day last. 1611. By William Holbrook</title>
+                 <author>Holbrooke, William</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>4, 41, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="24"/>
+   <pb facs="24"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">T</seg>Hinke not (Christian Rea<g ref="char:EOLhyphen"/>der)</hi> that I take any delight to be seene in Print, and thereby to bring my selfe vpon the Stage of the World, and vn<g ref="char:EOLhyphen"/>der the censure thereof. I haue little reason to take delight heerein, if I con<g ref="char:EOLhyphen"/>sider the readines of many to carpe, and rather to finde faults (happily where there be none) then to mend any, or my owne insufficiency to this worke: Yet what will not <hi>Ionathan</hi> doe for <hi>Dauid?</hi> At the earnest seeking of my Christian friends (whome this specially con<g ref="char:EOLhyphen"/>cerneth) haue I bene drawne to consent to the publishing of this worke. If you finde good in it, or by it, pray for Gods blessing v<g ref="char:EOLhyphen"/>pon it, and for me, (though the most worthles of the Lords wor<g ref="char:EOLhyphen"/>thies) that I may by my Ministerie fetch water (that is, teares of vnfained repentance) out of the hearts of the vncircumcised Philistines, to their saluation, and the praise of his glorious grace who is blessed for euer. Farwell:</p>
+   <closer>
+      <signed>Thine in Christ Iesus WILLIAM HOLBROOKE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

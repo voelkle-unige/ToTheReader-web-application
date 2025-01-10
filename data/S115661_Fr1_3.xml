@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Epigram of the terri¦ble example of one Francis Spe∣ra an Italian, of whom this booke is compiled.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1570</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115661_Fr1_3</idno>
+           <idno type="DLPS">A02229</idno>
+           <idno type="STC">12366</idno>
+           <idno type="ESTC">S115661</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Epigram of the terri¦ble example of one Francis Spe∣ra an Italian, of whom this booke is compiled.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A notable and marueilous epistle of the famous doctour, Matthewe Gribalde, Professor of the lawe, in the Vniuersitie of Padua: co [n] cernyng the terrible iudgemente of God, vpon hym that for feare of men, denieth Christ and the knowne veritie: with a preface of Doctor Caluine</title>
+                 <author>Gribaldi, Matteo</author>
+                 <imprint>
+                    <distributor>Norton, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1570</date>
+                 <publisher>Denham, Henry.</publisher>
+                            <publisher>Kingston, John</publisher>
+                        </imprint>
+                 <extent>112 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigram">
+   <pb facs="5"/>
+   <head>An Epigram of the terri<g ref="char:EOLunhyphen"/>ble example of one Francis Spe<g ref="char:EOLhyphen"/>ra an Italian, of whom this booke is compiled.</head>
+   <lg>
+      <l>E xcesse of riches, promotion worldlie</l>
+      <l>D ignities, honour, and yearthly pleasure,</l>
+      <l>W ife, children, kinred, name, affinitie:</l>
+      <l>A ccompt not these thyngs as perfite treasure</l>
+      <l>R iches that faile not, but euer endure.</l>
+      <l>D escende from heauen, and neuer turne to<gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </l>
+      <l>A s these whiche oft bothe soule and bodie <gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </l>
+   </lg>
+   <lg>
+      <l>G race, truthe, clere conscience, what treas<gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap> thei been.</l>
+      <l>L et <hi>Spera</hi> be example to vs all</l>
+      <l>I n these our daies the like hath not been s<gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </l>
+      <l>O f one that had from God, so greate a fall,</l>
+      <l>N ot able once hymself for grace to call.</l>
+      <l>B icause the wretch did set this worldly dros<gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </l>
+      <l>I n place about Christs gospel, truth, &amp; cros<gap reason="illegible" resp="#apex" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>
+      </l>
+   </lg>
+   <byline>Sub his acrosticis latens, authoris nomen.</byline>
+</div>
+        </body>
+  </text>
+</TEI>

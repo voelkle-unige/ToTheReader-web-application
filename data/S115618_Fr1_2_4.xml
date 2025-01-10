@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115618_Fr1_2_4</idno>
+           <idno type="DLPS">A10411</idno>
+           <idno type="STC">20694</idno>
+           <idno type="ESTC">S115618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Poems : with the Muses looking-glasse: and Amyntas· By Thomas Randolph Master of Arts, and late fellow of Trinity Colledge in Cambridge</title>
+                 <author>Randolph, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1638</date>
+                 <publisher>Bowman, Francis.</publisher>
+                            <publisher>Lichfield, Leonard</publisher>
+                        </imprint>
+                 <extent>24, 128, 2, 93, 7, 114 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Authorem.</head>
+   <lg>
+      <l>CAnescant alii, sterili{que} aetatis honore</l>
+      <l>Laetentur; fecit te tua Musa senem.</l>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>arcarum labor est vit<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> mensura peractae:</l>
+      <l>Texuntur propriâ stamina vestra manu;</l>
+      <l>Felix qui primo excedis, Randolphe, sub aevo,</l>
+      <l>Nec Genii extincti praevia fata vides;</l>
+      <l>Dii bene non dederint effoetae frig oravitae:</l>
+      <l>Debes quo fueras natus in igne mori.</l>
+   </lg>
+   <closer>
+      <signed>THO. TERRENT M. A. <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> Aede Christi:</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

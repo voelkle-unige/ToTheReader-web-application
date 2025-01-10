@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶IN LIBRVMDE PRINCIPVM periginatione, Iohannis Coci, scholae Pau∣linae magistri, hendecastichon cum versu quodum Homerico, ad lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1573</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108781_Fr1_7</idno>
+           <idno type="DLPS">A06140</idno>
+           <idno type="STC">16624</idno>
+           <idno type="ESTC">S108781</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶IN LIBRVMDE PRINCIPVM periginatione, Iohannis Coci, scholae Pau∣linae magistri, hendecastichon cum versu quodum Homerico, ad lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The pilgrimage of princes, penned out of sundry Greeke and Latine aucthours, by Lodovvicke Lloid Gent</title>
+                 <author>Lloyd, Lodowick</author>
+                 <imprint>
+                    <distributor>Jones, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1573</date>
+                 <publisher>Charlewood, John.</publisher>
+                            <publisher>Kingston, John</publisher>
+                        </imprint>
+                 <extent>8, 188, 185-218, 2 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>¶IN LIBRVMDE PRINCIPVM periginatione, Iohannis Coci, scholae Pau<g ref="char:EOLhyphen"/>linae magistri, hendecastichon cum versu quodum Homerico, ad lectorem.</head>
+   <l>STato domi, nullis terre iactatus in oris,</l>
+   <l>quem patrium subijt noscendi sola libido.</l>
+   <l>Sin mores hominum varios tibi nosse voluptas,</l>
+   <l>ingenij{que} vagas ediscere nobilis artes:</l>
+   <l>Non perigrinanti deerunt monimenta laboris,</l>
+   <l>que memtem{que}, manum{que} parent ad talia promptas.</l>
+   <l>Quod liber hic regum referens quae facta priorum,</l>
+   <l>tuta, domi cupido, praestabit vota, manendi.</l>
+   <l>Hinc licet ingenij praesignes discere cultus,</l>
+   <l>quos aditu regum prouisa pericula monstrent.</l>
+   <l>Nam liber hic peragrans, tibi quae viscenda fuissent,</l>
+   <l>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</l>
+</div>
+        </body>
+  </text>
+</TEI>

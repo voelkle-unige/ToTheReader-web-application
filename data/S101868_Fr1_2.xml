@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101868_Fr1_2</idno>
+           <idno type="DLPS">A15684</idno>
+           <idno type="STC">25955</idno>
+           <idno type="ESTC">S101868</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An alphabetical book of physicall secrets : for all those diseases that are most predominant and dangerous (curable by art) in the body of man. Collected for the benefit, most especially of house-holders in the country, who are either farre remote, or else not able to entertaine a learned physician: as likewise for the help of such ladies and gentlewomen, who of charity labour to doe good. Whereunto is annexed a small treatise of the judgement of vrines. By Owen Wood</title>
+                 <author>Wood, Owen</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Edmonds, Walter.</publisher>
+                            <publisher>Norton, John 2</publisher>
+                        </imprint>
+                 <extent>8, 238, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>N all civill and well or<g ref="char:EOLhyphen"/>dered Common-wealthes, even where best Schooles of Learning, and famous Vniversi<g ref="char:EOLhyphen"/>ties are, you shall finde published not onely methodicall discourses concer<g ref="char:EOLhyphen"/>ning the curation of infirmities of the body of man; but Treatises also containing parable medicaments, which any one who is endued but with a meane judgement, may apply to himselfe, whereas neither Physi<g ref="char:EOLhyphen"/>cian nor Apothecarie can bee had.
+<pb facs="3"/>Great plenty of such Bookes are pub<g ref="char:EOLhyphen"/>lished in the German tongue: for the Germans delight in uttering of Pamphlets, promising the revela<g ref="char:EOLhyphen"/>tion of secrets in Physick, which prove nothing else but triviall toyes. <hi>England</hi> in like manner is reasona<g ref="char:EOLhyphen"/>bly ill stored with such stuffe, which emboldeneth no small number of bold Knaves, and impudent Queanes to meddle with the Practise of Physick, to the utter ruine of no small num<g ref="char:EOLhyphen"/>ber of rude and improvident persons, who commit themselves to the Skill and Cure of such unworthy persons. That this is a truth, the manifold complaints which come to the Phy<g ref="char:EOLhyphen"/>sicians Colledge when the Fellowes sit doe make good. So that it might
+<pb facs="3"/>seeme requisite rather to suppresse no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>t of these I reateses, then to pub<g ref="char:EOLhyphen"/>lish any more of this kinde. But this Booke may bee priviledged to come abroad, if you either respect the me<g ref="char:EOLhyphen"/>thod or matter. The Remedies may easily be found out, the Diseases be<g ref="char:EOLhyphen"/>ing set downe Alphabetically. The Remedies are not to be rejected; but, seeme to have beene set downe by one who was no Stranger in the Practice of Physick. The Printer having beene enformed of so much, was not willing to keepe the Treatise within is private walls; but to Print some Copies of it, and to present them to the publick view and censure. Hee onely desireth that his good intenti<g ref="char:EOLhyphen"/>on, and purpose to further the pub<g ref="char:EOLhyphen"/>lick
+<pb facs="4"/>good, may be taken in good part of those who have not too consuring Spirits. If he shall finde thy favou<g ref="char:EOLhyphen"/>rable acceptance of this Treatise, hee will not spare to publish Bookes of the like Subject come to his hands, if they shall bee thought worthy of the Presse.</p>
+   <closer>
+      <date>
+         <hi>25 March 1639.</hi>
+      </date>
+      <signed>ALEXANDER READ Doctor of Physick.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

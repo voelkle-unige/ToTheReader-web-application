@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TETRASTICHON ad Regem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113965_Fr1_3</idno>
+           <idno type="DLPS">A21113</idno>
+           <idno type="STC">7478</idno>
+           <idno type="ESTC">S113965</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TETRASTICHON ad Regem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Elegia Dauidis Echlini : Medici Reginæ. In funere charissimæ castissimæq [ue] coniugis Philibertæ Loubatæ, quæ nata Roanæ ad Ligerim obijt Londini, anno ætatos siæ 40. Domini 1629. die 8. Ianuarii. Ad Carolum Magnæ Britanniæ, Franciæ, &amp; Hiberniæ regem. Nunquid est dolor sicu dolor meus?</title>
+                 <author>Echlin, David</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>4, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   
+   <head>TETRASTICHON ad Regem.</head>
+   <l>Accipe lugubri lachrimantem in veste libellum,</l>
+   <l>Et domini facilis Rex miserere sui.</l>
+   <l>Non ego te mecum lachrimari, O Summe Monarcha,</l>
+   <l>Sed volo te lachrimas hic cohibere meas.</l>
+</div>
+        </body>
+  </text>
+</TEI>

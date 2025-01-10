@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Senecae de brevitate vitae Librum Elegan∣tissime
+Translatum.</title>
+           <author>A., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3838_Fr1_3</idno>
+           <idno type="DLPS">A11901</idno>
+           <idno type="STC">22215.5</idno>
+           <idno type="ESTC">S3838</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Senecae de brevitate vitae Librum Elegan∣tissime
+Translatum.</title>
+                 <author>A., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Lucius, Annæus, Seneca the philosopher: his booke of the shortnesse of life : Translated into an English poem</title>
+                 <author>Seneca, Lucius Annaeus</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <publisher>Frere (Fryer), Daniel.</publisher>
+                            <publisher>Okes (Oakes), John.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>4, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="3"/>
+   <head>In Senecae de brevitate vitae Librum Elegan<g ref="char:EOLhyphen"/>tissime
+Translatum.</head>
+   <l>OBstruitur tanto mortalis vita dolore,</l>
+   <l>Taedeat ut longae semita ducta viae.</l>
+   <l>Tam suavis <hi>Senecae</hi> stilus, et Translatio libri</l>
+   <l>Vt placeat multas ferre relecta vices</l>
+   <l>Esse brevem cuperem misero sub tempore vitam</l>
+   <l>Sed longum vitae de brevitate librum.</l>
+   <closer>
+      <signed>G. A.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

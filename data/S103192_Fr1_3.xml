@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103192_Fr1_3</idno>
+           <idno type="DLPS">A01818</idno>
+           <idno type="STC">11956</idno>
+           <idno type="ESTC">S103192</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Romanæ historiæ anthologia : An English exposition of the Romane antiqvities, wherein many Romane and English offices are paralleld and divers obscure phrases explained. By Thomas Godwyn Master of Arts: for the vse of Abingdon Schoole</title>
+                 <author>Goodwin, Thomas</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>8, 193, 19 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="3"/>
+   <opener>
+      <salute>BENEVOLO LECTORI, S.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>Ria auguror potissimùm futura in
+hoc opusculo, quae parùm faciant ad
+aliquorum hominum palatum; quae
+tamen singula lectorem aequum spero
+aequi consulturum. Primò aegrè ferent
+quòd antiquitatis hae suo debito .i. Ro<g ref="char:EOLhyphen"/>mano
+destituantur nitore, &amp; idioma<g ref="char:EOLhyphen"/>tis
+nostri solaecis (tanquam tot laceris
+pannis) vestitae foras extrudantur: secundo insimulabunt me
+gravem rei literariae iniecisse plagam, nempè qui hac ratione
+feci, vt quivis fumiuendulus Grammatista poterit in lectione
+Ciceronis sine cortice natare, poterit gryphos antiquitatum
+qui passim historiarum occurrunt sine negotio solvere: tertio
+hoc illos male torquebit, quòd tota mea textura est adeò incon<g ref="char:EOLhyphen"/>cinna
+&amp; inconsona, adeò sterilis &amp; humi serpens, adeò sangui<g ref="char:EOLhyphen"/>nis
+&amp; sublimitatis expers. Primò velim intelligant me nō tam
+exuisse eas suo nitore, quàm cruisse ex tenebris, nempè trans<g ref="char:EOLhyphen"/>fundendo
+eas in linguam magis cognitam. Secundò sciant me,
+non aliâ mente accessisse ad hoc opus quàm vt meo labore cui<g ref="char:EOLhyphen"/>vis
+sciolo &amp; tyrunculo, vix dum literarum studijs initiato imò
+pueris ad huc sub ferulâ militantibus, facilis aditu<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap> ad adyta
+haec patefieret: de sterilitate quam mihi impingunt, me mihi
+plaudo, rectius{que} nomine perspicuitatis eam dici oportere con<g ref="char:EOLhyphen"/>tendo;
+quid emolumenti enim ex ampull<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>sis istiusmodi verbo<g ref="char:EOLhyphen"/>rum
+prodigijs (quibus fulminare, nullus est elementarijs qui, si
+velit, nequit) emergit lectori? praesertim tyrunculo, quem ista
+verborum tonitrua magis admiratione afficiunt, quàm instru<g ref="char:EOLhyphen"/>unt
+cognitione. Sed his missis, Lectorem benevolum monitum
+<pb facs="4"/>
+velim, vt quoties antiquitates Romanae, quoties antiqua ali<g ref="char:EOLhyphen"/>qua
+lex, quoties minùs visitatae dictiones, vel dictionum signi<g ref="char:EOLhyphen"/>ficationes,
+quoties paraemiae ex his antiquitatibus enatae illum
+morantur in lectione autorum, Ciceronis praecipuè (cui prae cae<g ref="char:EOLhyphen"/>teris
+meum erat consilium lucem inijcere) vt indicem meum
+vice Dictionarij consulat: vel si magis placebit, taedium quod
+ex gravioribus studijs obrepere solet, discutiat &amp; exuat, lec<g ref="char:EOLhyphen"/>titando
+has antiquitates, in quibus nihil occurrit ceratinum
+quod negotium cuivis facessat, nonnulla forsan quae sopitum
+lectoris animum everberent &amp; exacuant magis.</p>
+   <closer>Vale.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

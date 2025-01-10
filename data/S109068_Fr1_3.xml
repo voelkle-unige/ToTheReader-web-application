@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           <author>I., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109068_Fr1_3</idno>
+           <idno type="DLPS">A68225</idno>
+           <idno type="STC">14071</idno>
+           <idno type="ESTC">S109068</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 <author>I., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The vvhipping of the satyre</title>
+                 <author>W. I.</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <distributor>Flasket, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>Ad Lectorem.</head>
+   <lg>
+      <l>ASpera succincto cantabit Musa libello:</l>
+      <l>Quae? lege: sic videas: Qualia? visa legas:</l>
+      <l>Pauca tibiscribo, scribens vt amicus amico.</l>
+      <l>Si cupias, capias: si capias, faueas.</l>
+      <l>Multis pauca placent, sed paucis multa placebūt:</l>
+      <l>Multis quam paucis, me placuisse placet.</l>
+      <l>Si quis me nescit, ne sit me scire molestus:</l>
+      <l>Si mea quis poscit, possit habere mea.</l>
+   </lg>
+   <closer>
+      <signed>W. I.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

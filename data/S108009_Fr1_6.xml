@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The first Part is divided into
+three Bookes.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108009_Fr1_6</idno>
+           <idno type="DLPS">A18928</idno>
+           <idno type="STC">5348</idno>
+           <idno type="ESTC">S108009</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The first Part is divided into
+three Bookes.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of Great Britannie : declaring the successe of times and affaires in that iland, from the Romans first entrance, vntill the raigne of Egbert, the West-Saxon prince; who reduced the severall principalities of the Saxons and English, into a monarchie, and change the name of Britannie into England</title>
+                 <author>Clapham, John</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>12, 302, 2 pages, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Arguments &amp; Summaries</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="1" type="abstract_of_part">
+   <pb facs="6"/>
+   <head>The first Part is divided into
+three Bookes.</head>
+   <div n="1" type="abstract_of_book">
+      <head>The first Booke.</head>
+      <p>Declaring the state of <hi>Britannie</hi> vnder the <hi>Romans,</hi>
+from <hi>Iulius Caesar,</hi> his first entrance into the Ile, vntill
+the death of <hi>Claudius</hi> the Emperor; in whose time, the
+East part of the Ile was subdued, and brought into the
+forme of a Province.</p>
+   </div>
+   <div n="2" type="abstract_of_book">
+      <head>The second Booke.</head>
+      <p>Declaring the state of <hi>Britannie</hi> vnder the <hi>Romans,</hi>
+from the death of <hi>Claudius</hi> the Emperour, vntill the
+raigne of <hi>Domitian;</hi> in whose time, the vtmost limits of
+the Ile were discovered, and the greatest part thereof
+reduced into a setled Provinciall government.</p>
+   </div>
+   <div n="3" type="abstract_of_book">
+      <head>The third Booke.</head>
+      <p>Declaring the state of <hi>Britannie</hi> vnder the <hi>Romans,</hi>
+from the death of <hi>Domitian</hi> the Emperour, vntill the
+raigne of <hi>Honorius;</hi> in whose time the Ile of <hi>Britannie</hi>
+was abandoned by the <hi>Romans,</hi> and the inhabitants
+thereof left wholly to their owne government.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

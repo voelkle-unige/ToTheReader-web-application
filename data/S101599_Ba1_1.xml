@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101599_Ba1_1</idno>
+           <idno type="DLPS">A06106</idno>
+           <idno type="STC">1658</idno>
+           <idno type="ESTC">S101599</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A retractiue from the Romish religion : contayning thirteene forcible motiues, disswading from communion with the Church of Rome: wherein is demonstratiuely proued, that the now Romish religion (so farre forth as it is Romish) is not the true Catholike religion of Christ, but the seduction of Antichrist: by Tho. Beard, Doctor in Diuinity, and preacher of Gods holy word in the towne of Huntington</title>
+                 <author>Beard, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Fetherstone (Featherstone), Henry.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>16, 543, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="281"/>
+   <head>To the Reader.</head>
+   <p>THus it happeneth▪ <gap reason="illegible" resp="#apex" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> Reader) by an ineuitable necessity, where the Author cannot be presen<gap reason="illegible" resp="#apex" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> I pray thee these faults escapes and couer <gap reason="illegible" resp="#apex" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> of charity: But if ma<g ref="char:EOLhyphen"/>lice picke quarrell let it know, that there▪ is nothing▪ alledged, which in sub<g ref="char:EOLhyphen"/>stance shall not bee iustified, though per aduenture it may faile in circum<g ref="char:EOLhyphen"/>stance. Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

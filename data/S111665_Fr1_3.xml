@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111665_Fr1_3</idno>
+           <idno type="DLPS">A20436</idno>
+           <idno type="STC">6840</idno>
+           <idno type="ESTC">S111665</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A short introduction for to learne to swimme. Gathered out of Master Digbies Booke of the Art of Swimming. And translated into English for the better instruction of those who vnderstand not the Latine tongue. By Christofer Middleton</title>
+                 <author>Digby, Everard</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>88 pages, woodcut illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>I Writ not this (gentle Reader) to derogate from his worth, whose labor first brought this worke within the rules of Arte, and hath thereby, as Virgill for the tillage of the earth, Vige<g ref="char:EOLhyphen"/>tius for Millitary profession, Hipocrates and Gallen for Phi<g ref="char:EOLhyphen"/>sick, Iustinian for the Law, Aristotle, Tullie, Euclides, Boetius Ptolomeus, for the liberall Sciences, Pomponius Mela, for Cos<g ref="char:EOLhyphen"/>mography, or Marcator for the Globes of the world, (thought his matter may be of some accounted as the least) yet for his forme deserued commendations with the best: but for his learned style, exceedeth the capacitie of the greater part of men, and the mat<g ref="char:EOLhyphen"/>ter it selfe being so necessary for all, I haue, (as I could) gathered his worke into a briefe compendium, for theyr better vnderstan<g ref="char:EOLhyphen"/>ding that are ignorant in the Latine tongue. Thus not to gaine the reward of other mens labours, nor to attribute to my selfe o<g ref="char:EOLhyphen"/>ther mens vertues, but to vncurtaine that to the view of all, which was onely appropriated to a fewe, haue I vnder-gone this taske▪ which I doubt not will proue as profitable as pleasant.</p>
+   <closer>
+      <signed>Uale.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right Worshipfull Sir Iohn Smith of Olde-Hunger Knight, a worthie fauourer of learning.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101090_Ba1_1</idno>
+           <idno type="DLPS">A05781</idno>
+           <idno type="STC">1598</idno>
+           <idno type="ESTC">S101090</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right Worshipfull Sir Iohn Smith of Olde-Hunger Knight, a worthie fauourer of learning.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sir Philip Sydneys ouránia : that is, Endimions song and tragedie, containing all philosophie. Written by N.B</title>
+                 <author>Baxter, Nathaniel</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>104 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="53"/>
+   <head>To the right Worshipfull Sir <hi>Iohn</hi> Smith of Olde-Hunger Knight, a worthie fauourer of learning.</head>
+   <lg>
+      <l>YOur ancient loue to him that wrote this Booke,</l>
+      <l>Hath made <hi>Ourania</hi> speake an English verse,</l>
+      <l>The Greekish Ladies of Castalion Brooke,</l>
+      <l>Entombed are, close couch'd in Sable-herse.</l>
+      <l>The mourning Cypresse and darke Popler-tree,</l>
+      <l>A<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>e testimonies of their lowe degree.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Endymion</hi> lay's aside his Hebrew Reed,</l>
+      <l>And bids <hi>Ourania</hi> harpe Philosophie,</l>
+      <l>Whereof his English Lambs and flocke may feed,</l>
+      <l>Till <hi>Phoebus</hi> rayes dispell obscuritie.</l>
+      <l>He will'd her yet such pleasing Musicke sing,</l>
+      <l>As might con<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ort with <hi>Aristotles</hi> wing.</l>
+   </lg>
+   <lg>
+      <l>Such as delights Arcadian <hi>Cynthia,</hi>
+      </l>
+      <l>And comforts Schollers at their idle times,</l>
+      <l>Viewing the secrets of <hi>Ourania,</hi>
+      </l>
+      <l>As she will chaunt them in her homely Rymes.</l>
+      <l>Wonders aboue, and all within this round,</l>
+      <l>Must be the subiect of her daintie sound.</l>
+   </lg>
+   <lg>
+      <l>Shee sings of Sunne and Moone, and wandring starres,</l>
+      <l>Of vncouth Elementall Meteors:</l>
+      <l>Comets, Heraulds of death and dreadfull warres,</l>
+      <l>Fire, ayre, winds, vapours, Ocean, showers,</l>
+      <l>And whatsoeuer you can thinke vpon,</l>
+      <l>
+         <hi>Ourania</hi> sings: so bids <hi>Endymion.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>Read learne, and heare, trie, ponder, write, digest,</l>
+      <l>Words, matter, song, truth, arte, wit▪ Misterie:</l>
+      <l>Commend <hi>Ourania</hi>: take her to your guest▪</l>
+      <l>Shee'l teach the yonger Lambs Philosophie,</l>
+      <l>Such Mysteries as neuer English Pen,</l>
+      <l>Afforded yet vnto the view of men▪</l>
+   </lg>
+   <closer>
+      <signed>N. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

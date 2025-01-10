@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106547_Ba1_1</idno>
+           <idno type="DLPS">A16830</idno>
+           <idno type="STC">3732</idno>
+           <idno type="ESTC">S106547</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The true souldiers convoy : A sermon preached upon the xvjth. day of May 1640, vpon a prayer day, for the Princes good successe in going forth to warre. By William Bridge</title>
+                 <author>Bridge, William</author>
+                 <imprint>
+                    <publisher>Dawlman (Dolman), Robert</publisher>
+                    <distributor>Lappadge, Thomas</distributor>
+                    <pubPlace>Netherlands--Rotterdam</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>110, that is 100, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <pb facs="52"/>
+   <p>After this Sermon began to be printed, somthing was added, the rest was taken by Charact<g ref="char:EOLhyphen"/>ers, whilest it was preached.</p>
+</div>
+        </body>
+  </text>
+</TEI>

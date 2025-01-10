@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103400_Bo1_3</idno>
+           <idno type="DLPS">A08051</idno>
+           <idno type="STC">18415</idno>
+           <idno type="ESTC">S103400</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Mecometrie de leymant : cest a dire la maniere de mesurer les longitudes par le moyen de l'eymant. Par laquelle est enseigné, vn tres certain moyen, au paravant inconnu de trouuer les longitudes geographiques de tous lieux, - aussi facilement comme la latitude. Dauantage, est monstree la declinaison de la guide ymant, pour tous lieux. Oeuure necessaire aux admiraux, cosmographes, astrologues, geographes, pilotes, geometriens, ingenieux, mestres des mines, architectes, et quadraniers. De linuention de Guillaume de Nautonier Sieur de Castlefranc en Languedoc dedie au roy</title>
+                 <author>Nautonier, Guillaume de, sieur de Castelfranc</author>
+                 <imprint>
+                    <pubPlace>Italy--Venice</pubPlace>
+                    <date>1603</date>
+                 <publisher>Colomies, Raimond.</publisher>
+                            <publisher>Courteneufve, Antoine de.</publisher>
+                            <publisher>Nautonier, Guillaume de</publisher>
+                        </imprint>
+                 <extent>17 leaves, 12 pages, 2 leaves, 128, 2, 11-16, pages 8, 1, 3-16 pages, 195 leaves, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="errata">
+   <p>
+      <hi>Fautes à corriger.</hi>
+   </p>
+   <p>Quant aux fautes à corriger, suruenues en l'impression des tables mecographiques, il n'y à chose que le lecteur ne puisse facilement remettre: &amp; quant aux chiffres des co<g ref="char:EOLhyphen"/>lomnes desdictes tables, <abbr>sil</abbr> y a erreur de quelques minutes, ou secondes, ce qui neant<g ref="char:EOLhyphen"/>moins, n'est pas pour faire fouruoyer les Pilotes, qui <abbr>sen</abbr> aideront en leur nauigation: ceux qui voudront prendre la peine de remettre lesdictes minutes &amp; secondes, le pour<g ref="char:EOLhyphen"/>ront facilement par la consideration des nombres precedens &amp; suiuans, &amp; par le rap<g ref="char:EOLhyphen"/>port qu'ils feront des vns aux autres.</p>
+</div>
+        </body>
+  </text>
+</TEI>

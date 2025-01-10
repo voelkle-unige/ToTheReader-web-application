@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶Ioannis Lelandi Londinensis decastichon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1534</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118344_Fr1_3</idno>
+           <idno type="DLPS">A13615</idno>
+           <idno type="STC">23899</idno>
+           <idno type="ESTC">S118344</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶Ioannis Lelandi Londinensis decastichon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Floures for Latine spekynge selected and gathered oute of Terence, and the same translated in to Englysshe, together with the exposition and settynge forthe as welle of suche latyne wordes, as were thought nedefull to be annoted, as also of dyuers grammatical rules, very profytable [and] necessarye for the expedite knowlege in the latine tongue: compiled by Nicolas Vdall</title>
+                 <author>Terence</author>
+                 <imprint>
+                    <publisher>Berthelet (Barthelet), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1534</date>
+                 </imprint>
+                 <extent>12, 110, that is 200 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Literature</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>¶Ioannis Lelandi Londinensis decastichon.</head>
+   <l>Cādidus exactā monstrare Terētius artē</l>
+   <l>Eloquij nouit Roma diserta tui.</l>
+   <l>
+      <pb facs="3"/>Illius ex horto flores selegit amoenos</l>
+   <l>Vdallus cupidae sedulus instar apis.</l>
+   <l>Quo{que} labor pueris studiosis gratior esset,</l>
+   <l>Transtulit in patrios uerba latina sonos.</l>
+   <l>Insuper et scholion, facūdae munera linguae,</l>
+   <l>Addidit, aeterna uiuere digna cedro.</l>
+   <l>Vos igitur iuuenes Vdallū ornate Britanni.</l>
+   <l>Sic fluat e uestro comicus ore lepos.</l>
+</div>
+        </body>
+  </text>
+</TEI>

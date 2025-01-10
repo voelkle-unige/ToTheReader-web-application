@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102223_Ba1_1</idno>
+           <idno type="DLPS">A13541</idno>
+           <idno type="STC">23831</idno>
+           <idno type="ESTC">S102223</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Kings bath : Affording many sweet and comfortable obseruations from the baptisme of Christ. Gathered by Thomas Taylor, preacher of the word of God at Redding in Barkshire</title>
+                 <author>Taylor, Thomas</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <distributor>Bartlet, John</distributor>
+                            <distributor>Man, Thomas 1</distributor>
+                        </imprint>
+                 <extent>18, 278, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>The Errata.</head>
+   <p>Page 24. margent, for inundatione, reade,
+<hi>mundatione.</hi> p. 26. marg. r. <hi>sanctificaret.</hi> p.
+87. liu. penult. put out <hi>housholder.</hi>
+   </p>
+   <p>If any other faults haue escaped, I desire thee
+(Courteous Reader) to passe by them.</p>
+   <pb facs="141"/>
+</div>
+        </body>
+  </text>
+</TEI>

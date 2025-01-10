@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honourable ROBERT, EARLE of WAR∣VVICKE, and to his most ver∣tuous and Noble Countesse, the Lady Frances:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100330_Fr1_2</idno>
+           <idno type="DLPS">A00034</idno>
+           <idno type="STC">1003</idno>
+           <idno type="ESTC">S100330</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honourable ROBERT, EARLE of WAR∣VVICKE, and to his most ver∣tuous and Noble Countesse, the Lady Frances:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Susanna: or, the arraignment of the two vniust elders</title>
+                 <author>Aylett, Robert</author>
+                 <imprint>
+                    <publisher>Legat, John 2</publisher>
+                    <distributor>Teage (Teague, Tege), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>4, 44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Honourable ROBERT, EARLE of WAR<g ref="char:EOLhyphen"/>VVICKE, and to his most ver<g ref="char:EOLhyphen"/>tuous and Noble <hi>Countesse,</hi> the Lady Frances:</head>
+   <l>
+      <seg rend="decorInit">T</seg>Hou who art in thy Country iustly hight,</l>
+   <l>Another <hi>Daniel</hi> for iudging right:</l>
+   <l>And thou his <hi>Dame,</hi> a <hi>Susan</hi> of this age;</l>
+   <l>Let Both be graced with your Patronage.</l>
+</div>
+        </body>
+  </text>
+</TEI>

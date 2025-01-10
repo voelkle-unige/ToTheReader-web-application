@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>CANDIDO ET cordato, Amico faelici Genio, perspicaci ingenio, Richardo Musgraue de Harcley Baronetto, co{que} titulo vere digno: Richardus Brathwaite hosce extre∣mos Amatorum amplexus, grati a∣nimi permitias, solenni{que} officio, perfunctas humillime Dedit, Dicauit, Dedicauit.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106309_Fr2_2</idno>
+           <idno type="DLPS">A16682</idno>
+           <idno type="STC">3588</idno>
+           <idno type="ESTC">S106309</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>CANDIDO ET cordato, Amico faelici Genio, perspicaci ingenio, Richardo Musgraue de Harcley Baronetto, co{que} titulo vere digno: Richardus Brathwaite hosce extre∣mos Amatorum amplexus, grati a∣nimi permitias, solenni{que} officio, perfunctas humillime Dedit, Dicauit, Dedicauit.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A strappado for the Diuell : Epigrams and satyres alluding to the time, with diuers measures of no lesse delight. By Misosukos, to his friend Philokrates</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Redmer, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>16, 234, 8, 104, 6 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="127"/>
+   <pb n="1" facs="127"/>
+   <head>CANDIDO ET cordato, Amico faelici Genio, perspicaci ingenio, <hi>Richardo Musgraue</hi> de <hi>Harcley</hi> Baronetto, co{que} titulo vere digno: <hi>Richardus Brathwaite</hi> hosce extre<g ref="char:EOLhyphen"/>mos Amatorum amplexus, grati a<g ref="char:EOLhyphen"/>nimi permitias, solenni{que} officio, perfunctas humillime Dedit, Dicauit, Dedicauit.</head>
+   <p>
+      <hi>Richardus Musgraueensis.</hi>
+   </p>
+   <p>ANAGRAMM.</p>
+   <p>Charus musis diurna reges. </p>
+   <p>
+      <hi>Dystichon.</hi>
+   </p>
+   <lg>
+      <l>Sicut amas Musas, Musis redamaris ab ipsis,</l>
+      <l>Charus vt es Musis, secla diurna reges.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

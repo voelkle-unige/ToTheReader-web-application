@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Letter]</title>
+           <author>Uinck, Petrus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113354_Ba1_4</idno>
+           <idno type="DLPS">B14172</idno>
+           <idno type="STC">14296.5</idno>
+           <idno type="ESTC">S113354</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Letter]</title>
+                 <author>Uinck, Petrus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Manuductions to the pallace of trueth by F.B. Obseruant</title>
+                 <author>Jackson, Bonaventure</author>
+                 <imprint>
+                    <publisher>Jaye (Jaey), Henry</publisher>
+                    <pubPlace>Belgium--Mechelen</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>16, 139, 138-139, 9 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="letter">
+   <p>Cum mihi infrà scripto constat testimo<g ref="char:EOLhyphen"/>nio Reuerendorum Patrum suprascriptorum Tractatum hunc, nihil continere, quod fidei aut bonis moribus sit contrarium permitto vt in lucem emittatur, &amp; Typis mandetur. Dat. Bruxellae, die 4. Ian 1616.</p>
+   <closer>
+      <signed>PETRVS VINCK. S. Theol. Licent. Collegiatae Ecclesiae B. Gudulae Decanus, &amp; Censor Ordinarius.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

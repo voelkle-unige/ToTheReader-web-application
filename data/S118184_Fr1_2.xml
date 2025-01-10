@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118184_Fr1_2</idno>
+           <idno type="DLPS">A00634</idno>
+           <idno type="STC">10768</idno>
+           <idno type="ESTC">S118184</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A brief treatise vpon the first table of the lavve : orderly disposing the principles of religion, whereby we may examine our selues. Written by Maister Dudley Fenner, Minister of the Gospell</title>
+                 <author>Fenner, Dudley</author>
+                 <imprint>
+                    <publisher>Schilders (Grapheus, Painter), Richard</publisher>
+                    <pubPlace>Belgium--Middelburg</pubPlace>
+                    <date>1588</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>GEntle Reader, thou hast heare a briefe and
+plaine exposition of the firste Table of the
+Lawe of God. Made by Master <hi>Dudley Fen<g ref="char:EOLhyphen"/>ner,</hi>
+for the profite of his own particular charge
+and some other his friendes. The whiche com<g ref="char:EOLhyphen"/>ming
+to my handes, I thought good to make the
+profit thereof more generall. And the rather,
+in that it was the first fruites of his labours, be<g ref="char:EOLhyphen"/>ing
+made by him before the twentieth yeare of
+his age: Whereby thou mayest see with what
+an excellent spirit he was indued, euen in his
+tender yeares. Accept it therefore as it is men<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+thee: and if thou reape thereby any profit, giue
+God the glorie.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE EPISTLE TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101835_Fr1_3</idno>
+           <idno type="DLPS">A14879</idno>
+           <idno type="STC">25181</idno>
+           <idno type="ESTC">S101835</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE EPISTLE TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The plaine mans pilgrimage. Or iovrney tovvards heaven : Wherein if hee walke carefully he may attaine to euerlasting life. By W.W</title>
+                 <author>Webster, William</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>6, 172 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>THE EPISTLE TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, I haue not compiled this worke for the delight of thy worldly mind, but for a preparati<g ref="char:EOLhyphen"/>on for thy Pilgrimage toward Heauen, that is, to walke with God as Enoch did: For whosoeuer entreth into considerati<g ref="char:EOLhyphen"/>on with himselfe of his humane nature, shall easily perceiue that it is addicted to imitation. And though indeed wee should liue by <hi>lawes,</hi> and not <hi>examples,</hi> yet by common experience we find, that <hi>exam<g ref="char:EOLhyphen"/>ples</hi>
+      <pb facs="4"/>mooue more then <hi>lawes:</hi> Therefo<gap reason="illegible" resp="#keyers" extent="2 letters">
+         <desc>••</desc>
+      </gap> what soeuer thou art (high or low) iudge charitably of this my worke. Thus wish<g ref="char:EOLhyphen"/>ing thee (good reader) not only to look on the title, but reade it to the end, and I doubt not but thou shalt be preserued from prophanenesse Idolatry, and super<g ref="char:EOLhyphen"/>stition.</p>
+   <closer>
+      <signed>VVILLIAM</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>GENERIS SPLENDORE, Doctrina, &amp; Pietate viro praecellenti, D. THOMAE WHARTON, Equiti aurato, D. Philippi Baronis de Wharton, Filio &amp; Haeredi.</title>
+           <author>Ashmore, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104225_Fr3_1</idno>
+           <idno type="DLPS">A03671</idno>
+           <idno type="STC">13799</idno>
+           <idno type="ESTC">S104225</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>GENERIS SPLENDORE, Doctrina, &amp; Pietate viro praecellenti, D. THOMAE WHARTON, Equiti aurato, D. Philippi Baronis de Wharton, Filio &amp; Haeredi.</title>
+                 <author>Ashmore, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Certain selected odes of Horace, Englished; and their arguments annexed. VVith poems (antient and modern) of divers subiects, translated. Whereunto are added, both in Latin and English, sundry new epigrammes. Anagramms. Epitaphes</title>
+                 <author>Horace</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Moore (More), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>8, 96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="verse_dedication">
+   <pb n="79" facs="43"/>
+   <head>GENERIS SPLENDORE, Doctrina, &amp; Pietate viro praecellenti, <hi>D.</hi> THOMAE WHARTON, <hi>Equiti</hi> aurato, D. <hi>Philippi</hi> Baronis de <hi>Wharton,</hi> Filio &amp; Haeredi.</head>
+   <lg xml:lang="lat">
+      <l>
+         <seg rend="decorInit">A</seg>Ccipe, sed placidus, de laude haec carmina Ruris</l>
+      <l>(Aulae &amp; nunc ruris, non mediocre decus)</l>
+      <l>Dum facili aggredior fiscellam texere hibisco,</l>
+      <l>Quae modò dictavit rustica Musa mihi.</l>
+      <l>Sic tua (foeminei laus, &amp; nova gloria, sexus)</l>
+      <l>Pignoribus ditet te <hi>Philadelpha</hi> xthori:</l>
+      <l>Sicque tuus, pulchrâ pulcher qui ludit in Aulâ,</l>
+      <l>Te clara faciat prole <hi>Philippus</hi> Avum.</l>
+   </lg>
+   <lg>
+      <head>Angl.</head>
+      <l>ACcept these Lines, the Countrie's praise that tell</l>
+      <l>(O thou the Court's and Country's dear Delight)</l>
+      <l>Which, as I Mawnds made in my homely Cell,</l>
+      <l>My Countrey Muse did late to me indite.</l>
+      <l>So, let thy <hi>Philadelph</hi> (her Sexes praise)</l>
+      <l>Enrich thee still with Treasures of her bed:</l>
+      <l>So, let thy <hi>Philip,</hi> in thy Hall that playes,</l>
+      <l>Thee Grandfire make by Issue fairely spred.</l>
+   </lg>
+   <closer>
+      <signed>Virtutum tuarum cultor observantissimus, IOH: ASHMORVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

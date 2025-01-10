@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my very good Ladie my Ladie the Countesse of Retz.</title>
+           <author>Roy, Adrian le</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106692_Fr1_4</idno>
+           <idno type="DLPS">A05334</idno>
+           <idno type="STC">15487</idno>
+           <idno type="ESTC">S106692</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my very good Ladie my Ladie the Countesse of Retz.</title>
+                 <author>Roy, Adrian le</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe and plaine instruction to set all musicke of eight diuers tunes in tableture for the lute : With a briefe instruction how to play on the lute by tablature, to conduct and dispose thy hand vnto the lute, with certaine easie lessons for that purpose. And also a third booke containing diuers new excellent tunes. All first written in French by Adrian Le Roy, and now translated into English by F. Ke. gentleman</title>
+                 <author>Le Roy, Adrian</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 <publisher>Kingston, John.</publisher>
+                            <publisher>Rowbotham (Robothum), James</publisher>
+                        </imprint>
+                 <extent>180 pages, illustrations, music, oblong 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="5"/>
+   <head>To my very good Ladie my Ladie the Countesse of Retz.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He small present (right Honorable Ladie) which I make vnto you of this my simple woorke, is not doon for flatterie respecting onely your great calling, according to the manner of most part of Authors nowe A dayes, but the vertue and knowledge so mani<g ref="char:EOLunhyphen"/>festly apperinge in you aboue other Ladies of this our tyme, doth drawe vnto yt (as the adamant doth Iron) the works that ar of good inuention: chiefly from him, who is your seruaūt by inheritaunce: hauing before tyme serued with all obediēce the late Lorde Dampierre your father while he lyued, in the roome of captaine of fifty men of armes, at <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>utche tyme as he was the Kings Lieute<g ref="char:EOLhyphen"/>nant generall at Ardes: where he died nobly in the seruice of his maiestie. VVhich I cannot remember without renewing the tea<g ref="char:EOLhyphen"/>res that I did then let fall vpon his body. For all that maye be myne, must of necessity be yours, by reason of my boūden seruice, al<g ref="char:EOLhyphen"/>though that bysyd<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> my duty in that behalf, I could not direct this my woorke any better, then to your Ladiship, for the worthines of your excellēt knoweldge rare in your kind, rare in our age. The which I esteme worthy to be compared with any of the most noble Ladies that were of auncient tyme in Roome, Mutia, Lelia, Cornelia, Aurelia. By whose priuat teaching at home, sprang forth Hortensius, Iulius Cesar and other the most elo<g ref="char:EOLhyphen"/>quent Orators of their tyme. But euery good iudgement will allowe me to preferre yours far aboue theirs, in asmutch as the Lattin toung gotten by your diligence, deserueth more praise, then that which they had borne with them, and as it were sucked out togither with the milke of their nurses brest: Euē as according to the mind of Cicero, that Knight deserueth more cōmendaciō, who hath wonne fame by his owne manly acts, th<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ee to whom it cōmeth by succession frō others, as it doth by race from the father to the sonne. For this cause this booke is by good reason presented vnto you, as to a Iudge sufficient in all knowledge, conteining an easie instruction of all the Arte of Musick to be reduced in Tablature for the Lute. VVhich hath no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> ben heretofore communincated by the doctors of this science, making straunge to acquaint many with the secrets of there faccul<g ref="char:EOLhyphen"/>ties. Nowe haue I brought to light and publick knowledge this Musicall methode for the Lute to be the more easily lerned by eueri one by him self without any teacher, taking beginning at the first grounds of the science, thē exemplyfieng it by plaine plaieng, and after shewing the more cun<g ref="char:EOLhyphen"/>ning, for which all theye that shall take any pleasure or proffit by it, shall haue to thanck you, as a thing proceding from you: which I desier your Ladiship to receaue in good parte at the hands of your humble seruaunt, who protesteth from hencefoorth to dedicat and consecrat to your Excel<g ref="char:EOLhyphen"/>lency all the fruts which may spring out of the forge of his simple wit, to be the better allowed of by the fauour of your woorthynes.</p>
+   <closer>
+      <signed>Your humble seruaunt, Adrian le Roy.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

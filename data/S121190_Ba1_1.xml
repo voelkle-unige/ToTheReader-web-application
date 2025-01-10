@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Harrison, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121190_Ba1_1</idno>
+           <idno type="DLPS">A68953</idno>
+           <idno type="STC">3212.5</idno>
+           <idno type="ESTC">S121190</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Harrison, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The reasons which compelled the states of Bohemia to reject the Archduke Ferdinand &amp;c. and inforced them to elect a new king : Together, vvith the proposition which was made vppon the first motion of the choyce of th'Elector Palatine to bee King of Bohemia, by the states of that kingdome in their publique assembly on the sixteenth of August, being the birth day of the same Elector Palatine. Translated out of the French copies</title>
+                 <imprint>
+                    <distributor>Butler, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Waters (Walters), Joris (George)</publisher>
+                        </imprint>
+                 <extent>4, 30, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="17"/>
+   <head>To the Reader.</head>
+   <p>The Reader may not expect hereof at this time so ex<g ref="char:EOLhyphen"/>act
+an impression as the subject requireth: by reason the
+Copie (out of which it was Printed) was written ouer in
+hast, and by a stranger: and Printed likewise in hast, the
+Compositors also strangers. By reason whereof some
+escapes may haue passed in the Orthographie, the which
+beeing but Literall, may the more easily bee pardoned,
+both to the Printer, and the Ouer-seer no ordinary Cor<g ref="char:EOLhyphen"/>rector,
+Vale.</p>
+   <closer>
+      <signed>Iohn Harrison.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

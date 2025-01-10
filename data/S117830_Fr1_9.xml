@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Epigram to my friend the Author, of his namelesse Detractor before mentioned.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117830_Fr1_9</idno>
+           <idno type="DLPS">A12957</idno>
+           <idno type="STC">23250</idno>
+           <idno type="ESTC">S117830</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Epigram to my friend the Author, of his namelesse Detractor before mentioned.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Essayes and characters, ironicall, and instrvctive : The second impression. With a new satyre in defence of common law and lawyers: mixt with reproofe against their common enemy. With many new characters, &amp; diuers other things added; &amp; euery thing amended. By Iohn Stephens the yonger, of Lincolnes Inne, Gent</title>
+                 <author>Stephens, John</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Knight, Philip</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>19, 125, 125-380, 397-434 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigram">
+   <head>An Epigram to my friend the Author, of his namelesse Detractor before mentioned.</head>
+   <lg>
+      <l>
+         <hi>Fastus</hi> disdaines thy worke, because not thine,</l>
+      <l>But meerly drawne forth by anothers line:</l>
+      <l>Thou imitat'st he saith: well thou mightstone:</l>
+      <l>For thou canst imitated be by none:</l>
+      <l>Though I dare take thy word, yea'tis well known</l>
+      <l>ther's nothing heer but thou maist call thine own.</l>
+      <l>For (like a common theefe) the sneaking elfe</l>
+      <l>Hath slander<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> thee, that he might saue himselfe.</l>
+   </lg>
+   <div type="epigram">
+      <pb facs="10"/>
+      <head>Aliud Epigramma ad Authorem delibro suo epulo assimulato.</head>
+      <lg>
+         <l>Why should'st thou striue or study to vpraise</l>
+         <l>A labour, how to work some Welchmens praise?</l>
+         <l>Those that haue iudgement must commend thy skill:</l>
+         <l>Regard not then though others say'tis ill:</l>
+         <l>If amongst many they dislike thy Feast,</l>
+         <l>A bitt of cheese will helpe them to digest.</l>
+      </lg>
+   </div>
+   <div type="epigram">
+      <head>Aliud ad eundem de detractore suo anonymo praedicto.</head>
+      <lg>
+         <l>For beare my freind to write against that man</l>
+         <l>A sharpe iambick, who hath wrong'd thy <hi>name:</hi>
+         </l>
+         <l>Thou canst not right thy selfe; for he hath none:</l>
+         <l>Nor can haue, if he be the peoples Sonne.</l>
+      </lg>
+      <closer>
+         <signed>GEO: GREENE <hi>of Lin<g ref="char:EOLhyphen"/>colns Inne Gentleman.</hi>
+         </signed>
+      </closer>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

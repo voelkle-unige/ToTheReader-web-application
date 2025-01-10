@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>D. Augustinus Monachus.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2531_Fr1_2</idno>
+           <idno type="DLPS">A16708</idno>
+           <idno type="STC">3608</idno>
+           <idno type="ESTC">S2531</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>D. Augustinus Monachus.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Sainct Austines religion : Collected from his owne writinges, &amp; from the confessio [n] s of the learned Protestants: whereby is sufficiently proued and made knowen, the like answearable doctrine of the other more auncient fathers of the primitiue church. Written by Iohn Brereley</title>
+                 <author>Anderton, James</author>
+                 <imprint>
+                    <publisher>Birchley Hall Press</publisher>
+                    <pubPlace/>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>31, 1, 375, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="confession">
+   <pb facs="2"/>
+   <head>D. Augustinus Monachus.</head>
+   <p>Perrexit (Petilianus) ore maledico in vituperationem Monasteriorum, et Monachorum, arguens etiam me, quod hoc genus vitae a me fuerit institutum. Aug. Tom. <hi>7.</hi> contra literas Petil. l. <hi>3.</hi> c. <hi>40.</hi> post med.</p>
+   <p>Disponebam esse in Monasterio cum fratribus &amp;c. capi bom propositi fratres celligere, compatres meos, nihil habentes, sicut nihil habebam, et imitantes me: vt, quando ego tenuem paupertatulam meam vendidi, et pauperibus erogaut, sic face<g ref="char:EOLhyphen"/>rent et illi qui mecum esse voluissent, vt de communi viueremus &amp;c. nulli licet in societate nostra habere aliquid proprium. Aug. Tom. <hi>10.</hi> de diuersis. serm. <hi>49.</hi> de communi vita Clericorum. post init.</p>
+   <p>Quantum in hac perfectionis via profe<g ref="char:EOLhyphen"/>cerim, magis quidem noui ego, quam quis quam alius homo &amp;c. Et ad hoc propositū quantis possum viribus alios exhortor, et in nomine Domini habeo consortes quibus hoc per meum ministerium persuasum est. Ang. Tom. <hi>2.</hi> epist. <hi>89.</hi> versus finem.</p>
+   <p>S. Austines being a Monke is cōfessed by the Cētury writers. cen. <hi>5.</hi> c. <hi>6.</hi> col. <hi>701.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

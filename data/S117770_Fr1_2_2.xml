@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117770_Fr1_2_2</idno>
+           <idno type="DLPS">A12830</idno>
+           <idno type="STC">23135</idno>
+           <idno type="ESTC">S117770</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A geographicall and anthologicall description of all the empires and kingdomes, both of continent and ilands in this terrestriall globe : Relating their scituations, manners, customes, prouinces, and gouernements</title>
+                 <author>Stafford, Robert</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>8, 67, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>FLevit Alexander cum plures audijt orbes,</l>
+   <l>Tu potius plures non Iore flere potes.</l>
+   <l>Ille dolens vnum quod non superaverit, omnes</l>
+   <l>Armis desperat viuere posse suis.</l>
+   <l>Tam bene tu veterem cum iam descripseris orbem</l>
+   <l>Nunc cupias alium posse videre novum.</l>
+   <l>Ne doleas: nam si non primus sufficit orbis</l>
+   <l>Quo tua se saturet Musa, secundus erit.</l>
+   <l>Interea <hi>Safforte</hi> tuum (quo pinxeris orbem)</l>
+   <l>Stabit forte (vetus dum cadet orbis) opus.</l>
+   <byline>Casparus Tomannus.</byline>
+</div>
+        </body>
+  </text>
+</TEI>

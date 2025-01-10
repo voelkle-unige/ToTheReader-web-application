@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Jn Smithum Distichon.</title>
+           <author>P., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111906_Fr1_13</idno>
+           <idno type="DLPS">A12471</idno>
+           <idno type="STC">22796</idno>
+           <idno type="ESTC">S111906</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Jn Smithum Distichon.</title>
+                 <author>P., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true travels, adventures, and observations of Captaine Iohn Smith, in Europe, Asia, Affrica, and America, from anno Domini 1593. to 1629 : His accidents and sea-fights in the straights; his service and stratagems of warre in Hungaria, Transilvania, Wallachia, and Moldavia, against the Turks, and Tartars ... After how he was taken prisoner by the Turks, sold for a slave ... and escaped ... Together with a continuation of his generall History of Virginia, Summer-Iles, New England, and their proceedings, since 1624. to this present 1629; as also of the new plantations of the great river of the Amazons, the iles of St. Christopher, Mevis, and Barbados in the West Indies. All written by actuall authours, whose names you shall finde along the history</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Haviland, John.</publisher>
+                            <publisher>Reeve (Reave), James.</publisher>
+                            <publisher>Slater (Slaughter), Thomas.</publisher>
+                            <publisher>Sparke (Sparkes, Wreichionen), Michael 1</publisher>
+                        </imprint>
+                 <extent>12, 60 pages, folded plates, illustrations (engraving, woodcut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Jn Smithum Distichon.</head>
+   <l>
+      <hi>Quisque suae sortis</hi>
+      <note n="*" place="margin">Appius.</note>
+      <hi>Faber: an Faber exstitit unquam</hi>
+   </l>
+   <l>
+      <hi>T<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> (Smithe) fortunae verior usque suae?</hi>
+   </l>
+   <closer>
+      <signed>I. C. C. P.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116680_Fr1_4</idno>
+           <idno type="DLPS">A11467</idno>
+           <idno type="STC">21718</idno>
+           <idno type="ESTC">S116680</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Europæ speculum. Or, A vievv or suruey of the state of religion in the vvesterne parts of the world : VVherein the Romane religion, and the pregnant policies of the Church of Rome to support the same, are notably displayed: with some other memorable discoueries and memorations, never before till now published according to the authours originall copie</title>
+                 <author>Sandys, Edwin, Sir</author>
+                 <imprint>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Netherlands--The Hague</pubPlace>
+                    <date>1629</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>12, 248 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata_note">
+   <pb facs="6"/>
+   <p>THese Heads onely were not collected in the Au<g ref="char:EOLhyphen"/>thours Copy, but done for the ease and better benefite of the Reader. And if any neuerthelesse shall find any ambiguity or obscurity in the ensuing Worke, let them know that the Authours originall was not in all places precisely printed with com<g ref="char:EOLhyphen"/>ma's, colons, semicolons and periods: &amp; the Trans<g ref="char:EOLhyphen"/>scriber followed punctually the Authour. And for Typographicall <hi>errata,</hi> (as few or no Bookes scape without some) The Publisher hereof hath collected the most materiall to be amended as followeth;</p>
+</div>
+        </body>
+  </text>
+</TEI>

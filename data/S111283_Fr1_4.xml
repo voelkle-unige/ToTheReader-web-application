@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Letter]</title>
+           <author>Strachey, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111283_Fr1_4</idno>
+           <idno type="DLPS">A13057</idno>
+           <idno type="STC">23350</idno>
+           <idno type="ESTC">S111283</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Letter]</title>
+                 <author>Strachey, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>For the colony in Virginea Britannia. Lavves diuine, morall and martiall, &amp;c</title>
+                 <author>Virginia</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Burre, Walter.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>8, 41, that is 89), 7 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="3"/>
+   <opener>
+      <salute>To the Right Honorable, the Lords of the Councell of Virginea.</salute>
+   </opener>
+   <lg>
+      <l>NOblest of men, though tis the fashion now</l>
+      <l>Noblest to mixe with basest, for their gaine:</l>
+      <l>Yet doth it fare farre otherwise with you,</l>
+      <l>That scorne to turne to Chaos so againe,</l>
+      <l>And follow your supreme distinction still,</l>
+      <l>Till of most noble, you become diuine</l>
+      <l>And imitate your maker in his will,</l>
+      <l>To haue his truth in blackest nations shine.</l>
+      <l>VVhat had you beene, had not your Ancestors</l>
+      <l>Begunne to you, that make their nobles good?</l>
+      <l>And where white Christians turne in maners Mores</l>
+      <l>You wash Mores white with sacred Christā bloud</l>
+      <l>This wonder ye, that others nothing make;</l>
+      <l>Forth thē (great LL.) for your Lords Sauiors sake.</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>By him, all whose duty is tributary to your Lordships, and vnto so excellent a cause.</hi> William Strachey.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Rhodes, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115896_Bo1_5_1</idno>
+           <idno type="DLPS">A10685</idno>
+           <idno type="STC">20960</idno>
+           <idno type="ESTC">S115896</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Rhodes, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe summe of the treason intended against the King &amp; state, when they should haue been assembled in Parliament. Nouember. 5. 1605 : Fit for to instruct the simple and ignorant heerein: that they be not seduced any longer by papists. With a few other meeters: viz, a song for traytors to make vse of now and hereafter, wherof the first three verses was made in an other foote, by one of Babingtons conspiracy at his death. And certaine songs in prayse of the Kings Maiesty, with prayers for him, and the prosperous estate of all his kingdomes. By I.R. minister</title>
+                 <author>Rhodes, John</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>32 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="12"/>
+   <opener>
+      <salute>To the different, and indifferēt Rea<g ref="char:EOLhyphen"/>ders, I. R. wisheth grace and Peace.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">P</seg>Erceiuing that these leaues going be<g ref="char:EOLhyphen"/>fore,
+would containe too small a vo<g ref="char:EOLhyphen"/>lume:
+I thougt it conuenient to make
+some supply, &amp; remēbring that I had
+the rayling Libel that Papists scatte<g ref="char:EOLhyphen"/>red
+in <hi>Enborne</hi> Church in <hi>Barkshire,</hi> together with a
+<hi>preface</hi> &amp; some part of the answere to the same: As al<g ref="char:EOLhyphen"/>so
+the sum &amp; effect of the <hi>Commotion</hi> of Papists in
+<hi>Herefordshire:</hi> thought it good to fix them to these
+Meeters. I knowing the certainty of the one by the prin<g ref="char:EOLhyphen"/>ted
+Book, put out therof in prose by M. <hi>Thomas Ha<g ref="char:EOLhyphen"/>mon</hi>
+&amp;c. And of the other mentioned in part by good
+M. <hi>Powel</hi> in his Booke to the <hi>Puritan Papist,</hi> ther<g ref="char:EOLhyphen"/>fore
+I say, I haue beene the more willing to adde the
+same to the rest of my Booke, hoping of good ac<g ref="char:EOLhyphen"/>ceptance
+for the same: seeing that I meane
+it for the instruction of the ignorant,
+and the recreation of others,
+and not otherwise.</p>
+   <closer>
+      <signed>Yours in the Lord. I. Rhodes.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

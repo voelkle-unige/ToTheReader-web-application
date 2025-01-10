@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right Honerable my Lady Anne Stanley, Lady Stg.</title>
+           <author>N., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110150_Fr1_4</idno>
+           <idno type="DLPS">A08177</idno>
+           <idno type="STC">18513.5</idno>
+           <idno type="ESTC">S110150</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right Honerable my Lady Anne Stanley, Lady Stg.</title>
+                 <author>N., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Atropoïon Delion, or, The death of Delia : with the teares of her funerall. A poeticall excusiue discourse of our late Eliza. T.N. G</title>
+                 <author>Newton, Thomas, gent</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Jones, William 2.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>To the right Honerable my Lady <hi>Anne Stanley, Lady St<gap reason="illegible" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>g<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap>.</hi>
+   </head>
+   <lg>
+      <l>
+         <hi>A.</hi> Siluer flower from your rich orient eyes,</l>
+      <l>
+         <hi>N.</hi> A<gap reason="illegible" extent="1 span">
+            <desc>〈…〉</desc>
+         </gap>e tricking downe tho<gap reason="illegible: missing" extent="1 letter">
+            <desc>•</desc>
+         </gap>e Alpe<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap> where Beautie keepeth,</l>
+      <l>Would more adorne the Tombe where <hi>Delia</hi> lies;</l>
+      <l>Since that a Virgin for a Virg<gap reason="illegible: missing" extent="1 letter">
+            <desc>•</desc>
+         </gap>n weepeth.</l>
+      <l>Good Lady from your Heart one thought I craue,</l>
+      <l>To th<gap reason="illegible" extent="2 letters">
+            <desc>••</desc>
+         </gap>ke how poore your <hi>Delia</hi> lyes in Graue:</l>
+      <l>And to weepe a teare, that will not mooue ye</l>
+      <l>Infortunate was she, so deare to loue ye:</l>
+      <l>But I dare sweare your eyes haue wept <gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap>ö many,</l>
+      <l>That you are not a teare behande with any.</l>
+      <closer>
+         <signed>T. N.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Gilles Corrozet Aux Lecteurs.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123133_Fr1_5</idno>
+           <idno type="DLPS">A73514</idno>
+           <idno type="STC">3045</idno>
+           <idno type="ESTC">S123133</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Gilles Corrozet Aux Lecteurs.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The images of the Old Testament : lately expressed, set forthe in Ynglishe and Frenche vuith a playn and brief exposition</title>
+                 <author>Holbein, Hans</author>
+                 <imprint>
+                    <publisher>Frellon, Jean</publisher>
+                    <pubPlace>France--Lyon</pubPlace>
+                    <date>1549</date>
+                 </imprint>
+                 <extent>104 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="to_the_reader">
+   <pb facs="4"/>
+   <head>Gilles Corrozet Aux Lecteurs.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">E</seg>N regardant ceste tapisserie</l>
+      <l>L'oeil corporel, qui se tourne, &amp; varie,</l>
+      <l>
+         <hi>Y</hi> peut auoir vnsingulier plaisir,</l>
+      <l>Lequel engendre au coeur certain desir</l>
+      <l>D'aimer son Dieu, qui a faict tant de choses</l>
+      <l>Dedans la letre, &amp; saincte Bible encloses.</l>
+   </lg>
+   <lg>
+      <l>Ces beaux portraictz seruiront d'exemplaire,</l>
+      <l>Monstrant qu'il fault au Seigneur Dieu complaire:</l>
+      <l>Exciteront de luy faire seruice,</l>
+      <l>Retireront de tout peché &amp; vice:</l>
+      <l>Quand ilz seront insculpez en l'esprit,</l>
+      <l>Comme ilz sont painctz, &amp; couchez parescrit.</l>
+   </lg>
+   <lg>
+      <l>Donques ostez de voz maisons, &amp; salles</l>
+      <l>Tant de tapis, &amp; de painctures salles,</l>
+      <l>Ostez Venus, &amp; son filz Cupido,</l>
+      <l>Ostez Heleine, &amp; Phyllis, &amp; Dido,</l>
+      <l>
+         <pb facs="5"/>Ostez du tout fables &amp; poesies,</l>
+      <l>Et receuez meilleures fantasies.</l>
+   </lg>
+   <lg>
+      <l>Mettez au lieu, &amp; soyent voz chambres ceinctes</l>
+      <l>Des dictz sacréz, &amp; des histoires sainctes,</l>
+      <l>Telles que sont celles que voyez cy</l>
+      <l>En ce liuret. Et si faictes ainsi,</l>
+      <l>Grandz &amp; petis, les ieunes &amp; les vieulx</l>
+      <l>Auront plaisir, &amp; au coeur &amp; aux yeulx,</l>
+   </lg>
+   <trailer>Plus que moins.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S5347_Fr1_2</idno>
+           <idno type="DLPS">A72160</idno>
+           <idno type="STC">11745.7</idno>
+           <idno type="ESTC">S5347</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An Inglish disputing of the fait hgoodes [sic], and their lawes : the which I haue written according to the nevve inuention of the magnifyk and great doctour, and aduocat Sir Philippe Glaum, &amp;c. autoschediasti and quickelie, the thenth [sic] day of my Inglish, that is to say. The third day of the moneth called Februarii, in the yeare of our Lorde a thousand, six hundred, three and twentie: thervp [sic] I will answer euen well in my English, with the grace and healp of the holy ghost [sic] by the shoole at Hearbourn, at the seuen tenth day of the same moneth. Steuen George</title>
+                 <author>George, Steven</author>
+                 <imprint>
+                    <publisher>Unckel (Ounkel), Johann Karl</publisher>
+                    <pubPlace>Germany--Frankfurt</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <opener>
+      <salute>Illustrissimis, celsissimis &amp; generosissimis Principibus, Comiti, &amp; Dominis,
+<list>
+            <item>Dn. Philippo, Hassiae Landgrauio, Comiti in Catzen<g ref="char:EOLhyphen"/>elnbogen, Dietz, Ziegenhain &amp; Nidda, &amp;c.</item>
+            <item>Dn. Augusto, Principi Anhaltino, Comiti Ascaniae, Domini Seruestae &amp; Bernburgi, &amp;c.</item>
+            <item>Dn. Adolpho, Comiti in Bentheim. Teclenburg, Stein<g ref="char:EOLhyphen"/>furt &amp; Lymburg, Domino in Rheda, Weueling<g ref="char:EOLhyphen"/>houen, Hoya Alpen &amp; Helfenstein, <hi>L.</hi> Baroni in Lennep, praef. col. hered. &amp;c.</item>
+         </list>
+      </salute>
+   </opener>
+   <p>
+      <hi>Principibus, Comiti &amp; Dominis suis clementiss.</hi>
+   </p>
+   <p>Hanc, de Feudis &amp; ipsorumiure, Anglicam dispu<g ref="char:EOLhyphen"/>tationem, 10. die à se conscriptam.</p>
+   <closer>
+      <hi>Subiectissime &amp; humilime dedicat,</hi>
+      <signed>Stephanus Georgius Embdensis, author &amp; Respondens.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

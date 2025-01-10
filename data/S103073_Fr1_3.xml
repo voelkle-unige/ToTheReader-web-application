@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the ancient, religi∣ous, and learned Lady, the Lady COPPEN.</title>
+           <author>Winterton, Ralph</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103073_Fr1_3</idno>
+           <idno type="DLPS">A01645</idno>
+           <idno type="STC">11778</idno>
+           <idno type="ESTC">S103073</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the ancient, religi∣ous, and learned Lady, the Lady COPPEN.</title>
+                 <author>Winterton, Ralph</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Gerards meditations : written originally in the Latine tongue by Iohn Gerard Doctour in Divinitie, and superintendant of Heidelberg. Translated and revised by Ralph Winterton fellow of Kings Colledge in Cambridge</title>
+                 <author>Gerhard, Johann</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1638</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>26, 323, 13, 155, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="5"/>
+   <pb facs="5"/>
+   <head>To the ancient, religi<g ref="char:EOLhyphen"/>ous, and learned Lady, the Lady COPPEN.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He earth is watered with drops from above, and in vapours sends them up again: The rivers come from the sea, and flow back again: The aire will cleave the rock to get up to its place again: The fire came down from heaven, and thither it tends up again. From the mixture of these elements, all bodies have their temperaments: Those have in them a character of naturall gra<g ref="char:EOLhyphen"/>titude, and these should follow them. This character an illiterate man may see in creatures without sense; and he that is learned may reade to the life in creatures that have sense. Man is the Epitome of all perfections in other creatures: But without this character he is like to
+<pb facs="6"/>
+none of them. He hath spent his time ill at the Vniversitie that de<g ref="char:EOLhyphen"/>nies the first principles, and he would be sent back again to learn the first elements. In the soul of man, as <hi>Galen</hi> saith, there is an art of arts, and in the bodie of man an instrument of instruments: Rea<g ref="char:EOLhyphen"/>son is the art, and the hand is the instrument: I have both, and both are the Lady <hi>COPPENS.</hi> I have reason to acknowledge it, and an hand to subscribe to it.</p>
+   <closer>
+      <signed>
+         <hi>Your Ladiships servant</hi> Ra<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>h Winterton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

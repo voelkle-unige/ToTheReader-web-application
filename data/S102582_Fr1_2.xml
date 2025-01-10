@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraph]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1568</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102582_Fr1_2</idno>
+           <idno type="DLPS">A11087</idno>
+           <idno type="STC">21356</idno>
+           <idno type="ESTC">S102582</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraph]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A comfortable ayde for scholers : full of varietie of sentences, gathered out of an Italian authour, by Dauid Rowland</title>
+                 <author>Grifoni, Giovanni Andrea</author>
+                 <imprint>
+                    <publisher>Wykes (Wekes), Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1568</date>
+                 </imprint>
+                 <extent>24, 140, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraph">
+   <pb facs="2"/>
+   <q>
+      <bibl>Guil. VV. Ad Angliae pubem.</bibl>
+      <l>Angla, cupis, pubes, voces variare Latinas,</l>
+      <l>Dulcis &amp; eloquij numen adire bonum?</l>
+      <l>Hunc voluas vigilans, hunc verses ergo libellum,</l>
+      <l>Qui tibi Romani luminis illud habet.</l>
+   </q>
+   <q>
+      <bibl>Eiusdem Sapphicum.</bibl>
+      <lg>
+         <l>Est loqui paruum, datur omnibus{que},</l>
+         <l>At loqui puro Latij nitore,</l>
+         <l>Ore quo fari solet eruditus,</l>
+         <l>Grande putatur.</l>
+      </lg>
+      <lg>
+         <l>Ecce sic fari docet hic libellus,</l>
+         <l>Quem puer tu si cupidè sequaris,</l>
+         <l>Sis licet tandem Ciceronis almi</l>
+         <l>Magnus alumnus.</l>
+      </lg>
+   </q>
+   <q>
+      <bibl>I. Fost. Ad Lectorem.</bibl>
+      <l>Verbula si vario cupias sermone referre,</l>
+      <l>Hîc discas multis pauca referre modis.</l>
+      <l>Doctorum multis latitans facundia libris,</l>
+      <l>Hoc statuit paruo nunc residere libro.</l>
+   </q>
+   <q>
+      <bibl>Eiusdem Sapphicum.</bibl>
+      <lg>
+         <l>Splendidam pinxit Veneris figuram,</l>
+         <l>Colligens multis decus ex puellis,</l>
+         <l>Sic breui linguam docuit Latinam</l>
+         <l>Alter Apelles.</l>
+      </lg>
+      <lg>
+         <l>Dicta multorum memorat probata</l>
+         <l>Hoc opus paruum nitida loquela:</l>
+         <l>Colligent librum pueri legentes</l>
+         <l>Aurea dona.</l>
+      </lg>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

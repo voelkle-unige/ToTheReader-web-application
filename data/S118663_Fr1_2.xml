@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118663_Fr1_2</idno>
+           <idno type="DLPS">A00049</idno>
+           <idno type="STC">1004</idno>
+           <idno type="ESTC">S118663</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Thrifts equipage : Viz. fiue diuine and morall meditations, of 1. Frugalitie. 2. Prouidence. 3. Diligence. 4. Labour and care. 5. Death</title>
+                 <author>Aylett, Robert</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <distributor>Teage (Teague, Tege), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>4, 59, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <l>I Meddle not with newes of Parlament,</l>
+   <l>Court-Fauourites, or Kingdomes gouernement;</l>
+   <l>I on Kings secrets, and affaires of State,</l>
+   <l>Nor know, nor need, nor care to meditate:</l>
+   <l>Let gods, who haue the charge of all, beare sway,</l>
+   <l>The Muses must not censure, but ob<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>y.</l>
+   <l>I sing what most I wish; what's that? to thriue,</l>
+   <l>Without least wrong to any man aliue:</l>
+   <l>A gratefull Worke to all, to young and old,</l>
+   <l>That seeke to get or to increase their gold:</l>
+   <l>But why goes <hi>Death</hi> then with this thriftie traine?</l>
+   <l>Because I hold, it is the greatest gaine</l>
+   <l>To die well: For we no man truely call</l>
+   <l>Or rich, or happie, till his Funerall.</l>
+</div>
+        </body>
+  </text>
+</TEI>

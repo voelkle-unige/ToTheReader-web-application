@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HONOVRABLE Sir Fulke Greuille, Knight; Chancelour of the Exchequer, one of his Maiesties most Ho∣nourable Priuie Coun∣sailours; A most wise, learned, iudicious, inge∣nuous Censor of Schollership; a worthy example of Benefactors to Learning, I. H.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103660_Fr3_2</idno>
+           <idno type="DLPS">A02527</idno>
+           <idno type="STC">12654</idno>
+           <idno type="ESTC">S103660</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HONOVRABLE Sir Fulke Greuille, Knight; Chancelour of the Exchequer, one of his Maiesties most Ho∣nourable Priuie Coun∣sailours; A most wise, learned, iudicious, inge∣nuous Censor of Schollership; a worthy example of Benefactors to Learning, I. H.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Contemplations vpon the principal passages of the holie historie. The third volume: in three bookes. By I. Hall, Doctor of Diuinitie</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <publisher>Butler, William 2.</publisher>
+                            <publisher>Eliot’s Court Press.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>6, 461, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="156"/>
+   <pb n="305" facs="156"/>
+   <head>
+      <hi>TO</hi> THE RIGHT HONOVRABLE Sir <hi>Fulke Greuille,</hi> Knight; <hi>Chancelour of the Exchequer, one of his Maiesties most Ho<g ref="char:EOLhyphen"/>nourable Priuie Coun<g ref="char:EOLhyphen"/>sailours;</hi> A most wise, learned, iudicious, inge<g ref="char:EOLhyphen"/>nuous Censor of Schollership; a worthy example of Benefactors to Learning, <hi>I. H.</hi>
+   </head>
+   <p>
+      <hi>With his vnfained prayers for the happie successe of all his honourable designements, humbly Dedicates this meane peece of his studies.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

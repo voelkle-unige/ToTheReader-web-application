@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>EIDEM EIVSDEM De INGENIO REGIO, BVCHANANI Praeceptoris sui toxicis intacto, &amp; illibato.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114041_Fr1_6</idno>
+           <idno type="DLPS">A21194</idno>
+           <idno type="STC">7547</idno>
+           <idno type="ESTC">S114041</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>EIDEM EIVSDEM De INGENIO REGIO, BVCHANANI Praeceptoris sui toxicis intacto, &amp; illibato.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Dvellvm poeticvm. Contendentibus, Georgio Eglisemmio medico regio, &amp; Georgio Bvchanano regio præceptore. Pro dignitate paraphraseos Psalmi centisimi quarti. Adiectis prophylacticis aduersus Andreæ Meluini Cauillum iin aram Regiam, aliísq [ue] ; epigrammatis</title>
+                 <author>Eglisham, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Allde, Edward</publisher>
+                        </imprint>
+                 <extent>48+ pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedicatory_poem">
+   <pb facs="5"/>
+   <head>
+      <hi>EIDEM EIVSDEM De INGENIO REGIO,</hi> BVCHANANI <hi>Praeceptoris sui toxicis intacto, &amp; illibato.</hi>
+   </head>
+   <lg>
+      <head>Epigramma.</head>
+      <l>CVrarum labor est ignes, <hi>IACOBE,</hi> tuarum,</l>
+      <l>Cunarum est angues exuper are labor.</l>
+      <l>Surgenti è cunis, agitans tibi subdola curas</l>
+      <l>Te <hi>Buchananeiae</hi> sepsit Echidna scholae.</l>
+      <l>Ne caperet tenerum mellito felle Monarcham,</l>
+      <l>Musarum donis <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> eras.</l>
+      <l>Ille parens Diuûm nutu vaga syder a torquens</l>
+      <l>Te docuit, rerum qui tibi fraena dedit.</l>
+      <l>Certiùs à veris docuit secludere falsa,</l>
+      <l>Quàm <hi>Buchananaei</hi> te potuere sales.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

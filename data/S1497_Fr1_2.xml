@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1497_Fr1_2</idno>
+           <idno type="DLPS">A21050</idno>
+           <idno type="STC">742.7</idno>
+           <idno type="ESTC">S1497</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise of benignity· Written by Father Francis Arias, of the Society of Iesus, in his second parte of the Imitation of Christ our Lord. Translated into English</title>
+                 <author>Arias, Francisco</author>
+                 <imprint>
+                    <publisher>Boscard (Buree), Jeanne</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>12, 297, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">G</seg>OOD Reader, The trāslatour of the treatice of
+<hi>Pa<g ref="char:EOLhyphen"/>tience</hi> lately printed, had also rendred this of
+<hi>Benig<g ref="char:EOLhyphen"/>nity</hi> out of the same Au<g ref="char:EOLhyphen"/>tour: but it came not in time to be dispatched with it; &amp; therefore goeth here a parte by it selfe. It will serue no lesse then that o<g ref="char:EOLhyphen"/>ther <pb facs="3"/>of <hi>Patience</hi> to inamour vs with <hi>Christ</hi> our Lord, if we will consider the vn<g ref="char:EOLhyphen"/>speakable sweetnesse of his charity, whilest he made the world happy by con<g ref="char:EOLhyphen"/>uersing in it. The parti<g ref="char:EOLhyphen"/>culars whereof thou shalt finde, Good Reader, admi<g ref="char:EOLhyphen"/>rably expressed in this trea<g ref="char:EOLhyphen"/>tice by this holy Autour; which is therefore recom<g ref="char:EOLhyphen"/>mended vnto thee.</p>
+</div>
+        </body>
+  </text>
+</TEI>

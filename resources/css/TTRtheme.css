@@ -1,0 +1,96 @@
+/*Montserrat options:*/
+/*regular 400*/
+/*regular 400 italic*/
+/*medium 500*/
+/*medium 500 italic*/
+/*bold 700*/
+/*bold 700 italic*/
+
+
+.menubar {
+    background-image: url("https://media.istockphoto.com/photos/antique-paper-marbling-background-texture-picture-id1035752310?k=6&m=1035752310&s=612x612&w=0&h=IKUSL5TRnpMHRVFfN-eZDdejRKaVEf9mmHAZGjX3OI4=");
+    background-color: #0082a8;
+    font-family: "Montserrat";
+    color: white;
+    font-weight: 500;
+}
+
+.logo { background-image: url("../images/TTRlogo2.jpg");
+}
+
+.splash { background-image: url("../images/TTRlogo.jpg"); }
+
+.dropcap {
+    color: #d07225;
+      float: left;
+      font-family: Georgia;
+      font-size: 75px;
+      line-height: 60px;
+      padding-top: 4px;
+      padding-right: 8px;
+      padding-left: 3px;
+}
+
+footer {
+    padding: 1rem;
+    background-color: #56a5bc;
+}
+
+.container {
+    background-color: #56a5bc;
+    display: block;
+    text-align: center;
+    /*width: 100%;*/
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    text-align: center;
+}
+
+.col{
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    box-sizing: border-box;
+}
+
+
+.tei-author {
+    font-family: Georgia, "Montserrat";
+    font-style: italic;
+    /*font-weight: 700;*/
+    line-height: 1.6;
+}
+
+.tei-date4 {
+    font-family: "Montserrat";
+    font-style: bold;
+    font-weight: 700;
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+.tei-title1 {
+    font-family: Georgia;
+    /*font-weight: 400;*/
+    font-style: italic;
+    line-height: 1.6;
+}

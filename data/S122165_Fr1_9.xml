@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Plantarum historiam, a solertissimo viro, Rei{que} Herbariae peri∣tissimo, D. Iohanne Gerardo, Anglice editam Epigramma.</title>
+           <author>Herring, Francis</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122165_Fr1_9</idno>
+           <idno type="DLPS">A01622</idno>
+           <idno type="STC">11751</idno>
+           <idno type="ESTC">S122165</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Plantarum historiam, a solertissimo viro, Rei{que} Herbariae peri∣tissimo, D. Iohanne Gerardo, Anglice editam Epigramma.</title>
+                 <author>Herring, Francis</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The herball or Generall historie of plantes. Gathered by Iohn Gerarde of London Master in Chirurgerie very much enlarged and amended by Thomas Iohnson citizen and apothecarye of London</title>
+                 <author>Gerard, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Islip, Adam.</publisher>
+                            <publisher>Norton, Joyce (Jocosa).</publisher>
+                            <publisher>Whitaker, Richard</publisher>
+                        </imprint>
+                 <extent>38, 1630, 50 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>In Plantarum historiam, a solertissimo viro, Rei{que} Herbariae peri<g ref="char:EOLhyphen"/>tissimo, D. <hi>Iohanne Gerardo,</hi> Anglice editam <hi>Epigramma.</hi>
+   </head>
+   <l>EGregiam certè <gap reason="illegible" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, decus immortale refertis</l>
+   <l>Tu, socij{que} tui, magnum &amp; memorabile nomen</l>
+   <l>(Illustris DEVORAX) raptoribus orbis IBERIS</l>
+   <l>Deuictis classe Anglorum; Tuque (Dicasta</l>
+   <l>Maxime EGERTONE) veterem superans Rhadamanthum,</l>
+   <l>HEROVM merito <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> censendus in albo.</l>
+   <l>Neclaus vestra minor (sacrae pieratis alumni)</l>
+   <l>Qui mentes hominum diuina pascitis esca.</l>
+   <l>Ornatis Patriam cuncti, nomen{que} Britannum</l>
+   <l>Augetis, vobis{que} viam munitis ad astra.</l>
+   <l>Quin agite, in partem saltem permittite honoris</l>
+   <l>Phoebei veniant Vates, qui pellere gnari</l>
+   <l>Agmina morborum, humanae insidiantia vitae.</l>
+   <l>Huius &amp; ingentes, serena fronte labores</l>
+   <l>ANGLO-DIOSCORIDIS, Patriae, vestrae{que} saluri</l>
+   <l>Excipite exhaustos: paulum huc diuortite in HORTOS</l>
+   <l>Quos CHORTEIA colit, quos Flora exornat, &amp; omnes</l>
+   <l>Naiades, &amp; Dryades, Charites, Nymphae{que} Britannae.</l>
+   <l>Corporibus hic grata salus, animis{que} voluptas.</l>
+   <l>Hic laxate animos: HABITAVIT NVMEN IN HORTIS.</l>
+   <closer>
+      <signed>Fran. Hering Med. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

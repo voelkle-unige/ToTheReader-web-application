@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>B., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107022_Fr1_3</idno>
+           <idno type="DLPS">A17165</idno>
+           <idno type="STC">4042</idno>
+           <idno type="ESTC">S107022</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>B., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The gouernment of health: a treatise written by William Bullein, for the especiall good and healthfull preseruation of mans bodie from all noysome diseases, proceeding by the excesse of euill diet, and other infirmities of nature: full of excellent medicines, and wise counsels, for conseruation of health, in men, women, and children. Both pleasant and profitable to the industrious reader</title>
+                 <author>Bullein, William</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>8, 87, 1 leave, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <l>THis booke to prayse, I will not be curious,</l>
+   <l>Let the wise Reader with iudgement discus</l>
+   <l>The sunne neede no candel, to giue it more light,</l>
+   <l>The Eagle requier none to teach him his flight,</l>
+   <l>Ech fruits hath their taste, and forth witnesse bring,</l>
+   <l>From what trees they came, and had their growing,</l>
+   <l>So is this worke a manifest seale,</l>
+   <l>Of great commendacion, to which I appeale,</l>
+   <l>The beginning, scope, and ende of the counsell,</l>
+   <l>Health to preferre, and sicknesse expell.</l>
+   <l>Such matter digesting as they do assende,</l>
+   <l>Applying good medicines those euils to a mende,</l>
+   <l>With hearbes that doth binde or else be expulsiue,</l>
+   <l>Vicious humours, to correct and out driue,</l>
+   <l>Diseases thus <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>anished, and health brought in place.</l>
+   <l>Thou maiest liue quietly, and finish thy race,</l>
+   <l>If death then shall come, whereto thou must trust,</l>
+   <l>Thy soule shallbe safe, let him dooe his worst.</l>
+   <closer>
+      <signed>quod R. B.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

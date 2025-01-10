@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Iohn Reade Chirurgion, to the friendlie Reader.</title>
+           <author>Read, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100216_Ba1_1</idno>
+           <idno type="DLPS">A20850</idno>
+           <idno type="STC">723</idno>
+           <idno type="ESTC">S100216</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Iohn Reade Chirurgion, to the friendlie Reader.</title>
+                 <author>Read, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A most excellent and compendious method of curing woundes in the head, and in other partes of the body : with other precepts of the same arte, practised and written by that famous man Franciscus Arceus, Doctor in phisicke &amp; chirurgery: and translated into English by Iohn Read, chirurgion. Whereunto is added the exact cure of the caruncle, neuer before set foorth in the English toung. With a treatise of the fistulae in the fundament, and other places of the body, translated out of Iohannes Ardern. And also the description of the emplaister called dia chalciteos, with his vse and vertues. With an apt table for the better finding of the perticular matters, contayned in this present worke</title>
+                 <author>Arcaeus, Franciscus</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <distributor>Cadman, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 </imprint>
+                 <extent>16, 119, 1 leave, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="129"/>
+   <pb n="116" facs="129"/>
+   <head>Iohn Reade Chirurgion, to the friendlie Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Mongst other, there be two seuerall causes (good Reader) which mooued mee to enter<g ref="char:EOLhyphen"/>prise, and publish the translation hereof. Part<g ref="char:EOLhyphen"/>ly, because of mine owne exercise and com<g ref="char:EOLhyphen"/>moditie. But chiefely and especially, for the commoditie, vtilitie, and profit of thy <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>atiue Countrie, the aduanncement and benefit wherof, euerie man is bound both by nature and conscience to studie for, by all meanes possible to the uttermost of his power: and for that purpose, to distribute according to the greatnesse or smal<g ref="char:EOLhyphen"/>nesse of the talent ministred and lent vnto him: to the ende that the same (be it neuer so little) if it may in any wise pro<g ref="char:EOLhyphen"/>fit, doe not remaine in him as deade and frustrate: but ra<g ref="char:EOLhyphen"/>ther that it be bestowed foorth to encrease and fructifie: Considering in deede that as Plato saith.</p>
+   <p>Non solum nobis nati sumus, or<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>usque nostri patrem patria vendicat, partem parentes, partem <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>mici.</p>
+   <p>And therefore Gentle Reader, I haue ouer and besides the Bookes of A<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ques, and the booke of Iohn Ardern of the Fistulae, set foo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>th vnto thy vse, the perfect cure of the Gar<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ncle, with Hall of Northfolke, his cure of the Fistulae, which both were giuen me of a gentleman being my pacient of a certaine griefe, who being cured, in recompence of my good will, gaue it me, &amp; hauing read, &amp; considered the same to be both learned, and method all, not knowing whether it were a translation out of any aucth<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>r, or a collection of some learned and skilfull man.</p>
+   <pb facs="130"/>
+   <p>But knowing that none as yet hath written of the <gap reason="illegible" resp="#pdcc" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>me in the English toung, and considering how nece<gap reason="illegible" resp="#pdcc" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>arie a thing it is, I thought it conuenient to impart the same vnto my Countrie. And besides I haue therevnto added the compo<g ref="char:EOLhyphen"/>sition of the Emplaister Chalciteos. For although I haue red his composition and diuers aucthors, yet of none, so at large as of Galen him selfe.</p>
+   <p>For it appeareth he was not onely studious for the in<g ref="char:EOLhyphen"/>uenting and compounding the same, but also verie carefull and painefull to alter the same into diuers formes and bodies, to serue verie necessarie vnto diuers griefes &amp; Infirmities.</p>
+   <p>But calling to minde that most excellent Phisition, that feared, that in writing a compendious doctrine for the cu<g ref="char:EOLhyphen"/>ring of sickenesse, he should but loose his labour, for as much as no man almost did endeuour himselfe to the finding of truth, but that all men did so esteeme ritches, possessions, aucthoritie, and pleasures, that they supposed them which were studious in any part of wisedome, to be mad or distract of their witts. For as much as they deemed the chiefe sapi<g ref="char:EOLhyphen"/>ence, (which is knowledge of thinges belonging as well to God, as to man) to haue no beeing.</p>
+   <p>Since this noble writer found that lacke in his time, when there flourished in sundrie Countries, a great multitude of men, excellent in all kinds of learning, as it doth appeare by some of their workes, why should I thinke my selfe iniured, if I should taste of he same cuppe, as my predecessours, and other good men of my Countrie haue come. Of whome I will repeate a few, who, in my time haue abidden the hotte and fierie assaults of Mo<gap reason="illegible" resp="#pdcc" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>s sect.</p>
+   <p>As namely M. Thomas Gale. M. Iohn Hall, M. Iohn Bannister, Maister William Clowes, with others which in our time both written. For being on a time in companie, by chaunce it was tolde me vnto my face, that there were too many bookes set soorth in the English toung, and that our bookes did more harme then good, and that the Arte
+<pb n="117" facs="130"/> therby is made cōmon. For that quoth he, euerie Gentleman is as wel able to reason therin, as our selues. A thing truely to be lamēted, for if heretofore, Emperours, kings, princes, dukes Earles, Lords, Barrons, Knightes, besides diuers Gentlemen, hath not onely red and practised the same, but also greatlye augemented the knowledge thereof. And I could well wish in these dayes it were better looked into, both of Nobles, Gentles, Iustices, and also of good Captaines, for then the common weale should not onely be furnished of good and learned Surgions, but also her Maiestie the better serued in the warres, as well by Sea as by Lande.</p>
+   <p>And besides, those that are Surgions, would better follow their bookes and practise, if it were but for shame, that these Gentlemen should not discouer their blind practise, and foo<g ref="char:EOLhyphen"/>lish ignorance. And so bring this auncient and famous, arte into great credit, which now (by meanes of gredie gripes, and deuouring Caterpillers, who onelie contemne learning) is brought to great infamy, and scandall.</p>
+   <p>But there be that can say what neede we care for bookes, as longe as we can when neede is, call vnto vs vj. viij. or ten of our friendes to assist vs, who are &amp; shalbe our best bookes.</p>
+   <p>But I demaunde of these, what if God send a plague, and take away these bookes who are mortall. Or if these bookes should be prest into her maiesties shippes and so be disseuered? or what if one of these should happen into the countrie, where no such helpes are, where were then their knowledge. Might not a man well thinke their patients to be (as Hippocrates termeth them) the Children of fortune? and that they are cured by chaunce? but not by arte. And therefore it was not without cause that Maister Iohn Hall in his verses set after the third treatise of anatomy, vseth these words,
+<pb facs="131"/>
+      <q>
+         <lg>
+            <l>VVHerefore of truth I can not cease,</l>
+            <l>to meruell much at Momus sect:</l>
+            <l>Sith nothing can their wits releace,</l>
+            <l>with ignoraunce, so much infect.</l>
+         </lg>
+         <lg>
+            <l>For what a mome was he that saide,</l>
+            <l>these booke-men can but talke and prate:</l>
+            <l>And we are they that with our aide,</l>
+            <l>doe all the cures in each estate.</l>
+         </lg>
+         <lg>
+            <l>An other saith I can not talke,</l>
+            <l>but I will worke euen with the best,</l>
+            <l>Thus stubburnelie these buserds walke,</l>
+            <l>vppon their blinde customes that rest.</l>
+         </lg>
+         <lg>
+            <l>For if their talke any truth had,</l>
+            <l>a blinde man might coulours decerne,</l>
+            <l>And euerie foole and peuish lad,</l>
+            <l>might doctors be and neuer learne.</l>
+         </lg>
+         <lg>
+            <l>Then tis no time to slepe,</l>
+            <l>where growes such noysome weedes:</l>
+            <l>As doth bewray themselues,</l>
+            <l>by fowle and filthie deedes,</l>
+         </lg>
+         <lg>
+            <l>Such hideous haggs with tongus that stings</l>
+            <l>declares a poysoned minde:</l>
+            <l>And who so doth them rightlie marke,</l>
+            <l>these sayings true shall finde.</l>
+         </lg>
+         <lg>
+            <l>For like as serpents subtellie,</l>
+            <l>lies lurking in their enne,</l>
+            <l>Deuising mischeues priuilie,</l>
+            <l>so doth these kinde of men.</l>
+         </lg>
+         <pb facs="131"/>
+         <lg>
+            <l>Pursue vertue full egerlie,</l>
+            <l>euen with a Iudas kisse,</l>
+            <l>Saying forsooth their foolies doth,</l>
+            <l>deserue the golden fleece.</l>
+         </lg>
+         <lg>
+            <l>But ther's no beast in wildernesse,</l>
+            <l>in mallis can excell:</l>
+            <l>Such secret foes, which mischeife sowes,</l>
+            <l>the fire brands of hell.</l>
+         </lg>
+         <lg>
+            <l>Whose flattering spech, and sewgered words,</l>
+            <l>with smiling in the face:</l>
+            <l>Be tokeneth such are Tigers whellps,</l>
+            <l>and of some dogged race.</l>
+         </lg>
+      </q>
+   </p>
+   <p>THose kinde of serpents which doe nothing else but picke quarrells with authours, I would aduise either to speake themselues, or if their ignoraunce will not let them, to laie their finger on their mouthes till other men tell their tale, and not to make their haruest of other mens offences vnwillinglie committed, while they themselues rest vnable to doe anie whit of good. And thus good rea<g ref="char:EOLhyphen"/>der I will end, expecting thy fauorable acceptacion of these my labours, which expectation of mine (if it be not frustrate) I shalbe further encouraged to impart the rest of my studies to thy commoditie. Beseching the almightie God to blesse both thee and me, with increase of knowledge, and giue vs all grace to serue him.</p>
+   <closer>
+      <signed>Iohn Reade.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

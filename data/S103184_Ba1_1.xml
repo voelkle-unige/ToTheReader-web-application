@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AN ADMONITION to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103184_Ba1_1</idno>
+           <idno type="DLPS">A10914</idno>
+           <idno type="STC">21185</idno>
+           <idno type="ESTC">S103184</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AN ADMONITION to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discourse of Christian watchfulnesse : Preparing how to liue, how to die, and to be discharged at the day of iudgement, and so enioy life eternall. By Iohn Rogers minister to the Church of Chacombe in Northampton-shiere</title>
+                 <author>Rogers, John, of Chacombe</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>20, 369, that is 357, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="199"/>
+   <head>AN ADMONITION to the Reader.</head>
+   <p>
+      <hi>GEntle Reader, although the Printer hath desired and vsed his best care, that this booke should come forth with fewest faults, yet by reason of the duskie obscure<g ref="char:EOLhyphen"/>nesse of the hand, and absence of the Au<g ref="char:EOLhyphen"/>thor dwelling farre off; it could not be, but some faults escaped vs, not o<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ely in poin<g ref="char:EOLhyphen"/>ting or mis-pointing, in omitting or adding sometimes a letter, and in the Sections, ey<g ref="char:EOLhyphen"/>ther not placed, or mis-placed; but in omis<g ref="char:EOLhyphen"/>sion and alteration of words, obscuring the sense in some places: which the godly Rea<g ref="char:EOLhyphen"/>ders iudgement and diligence must helpe, or charitably passe by, and not impute them neyther to the Author, nor the Printer. And so</hi> Farewell.</p>
+   <pb facs="199"/>
+</div>
+        </body>
+  </text>
+</TEI>

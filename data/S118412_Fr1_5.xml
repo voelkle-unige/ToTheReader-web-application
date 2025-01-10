@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Printer to the READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118412_Fr1_5</idno>
+           <idno type="DLPS">A13763</idno>
+           <idno type="STC">24062</idno>
+           <idno type="ESTC">S118412</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Printer to the READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Newes from the north. Otherwise called The conference betvveen Simon Certain, and Pierce Plowman, faithfully collected and gathered by T.F. student</title>
+                 <author>T. F., student</author>
+                 <imprint>
+                    <publisher>Allde, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 </imprint>
+                 <extent>88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>¶ The Printer to the READER.</head>
+   <p>
+      <seg rend="decorInit">G</seg>ENTLE READER IF THOV finde any Imperfectiō in this woork either for the matter in substāce or els for the diuision, the maner and forme therof I trust y<seg rend="sup">•</seg> wilt allow a reasona<g ref="char:EOLhyphen"/>ble excuse aswel vnto the <hi>Author</hi> as vnto mee, be<g ref="char:EOLhyphen"/>wen whōe thy blame is otherwise to be deuided. Thou knowest y<seg rend="sup">•</seg> to write &amp; reporte a thing at the mouth of the Speaker asketh a <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>umble hand and a great memory, if a man had his Tooles ready for the purpose which yet this <hi>Author</hi> had not redy for nothing so like as any such matter, and there fore was forced to put his brain <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>an in trust with all and to write it in his way homeward.</p>
+   <p>In dooing wherof his care was greter to couch the matter truely in substance then to parte or to deuide or otherwise to digest the same. Which hee referred vnto mee, a which also I haue doon as the shortnes of the time gaue me leaue. Bothe which excuses, if it please thee to admit, thou maist in time to come receiue it in more perfection aswel for his part beeing the matter in sub<g ref="char:EOLhyphen"/>stance wherof I dout not much hath escaped him, and also for the diuision beeing mine.</p>
+   <closer>
+      <salute>Farwel.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

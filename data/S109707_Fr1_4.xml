@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109707_Fr1_4</idno>
+           <idno type="DLPS">A20468</idno>
+           <idno type="STC">6879</idno>
+           <idno type="ESTC">S109707</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Contemplations, sighes, and groanes of a Christian. Written in Latine, by Iohn Michael Dilherrus. And Englished by William Style of the Inner Temple, Esquire</title>
+                 <author>Dilherr, Johannes Michael</author>
+                 <imprint>
+                    <publisher>Bishop, Richard</publisher>
+                    <distributor>Lee, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>22, 296, 4 pages, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>The Translator to the <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">B</seg>Ookes, if they bee good, need no pro<g ref="char:EOLhyphen"/>tection; if bad, (in this our age and state) they can have none, bee not the Surveyors of the Presse (a thing not to be pre<g ref="char:EOLhyphen"/>sumed) either corrupt or negli<g ref="char:EOLhyphen"/>gent. Now therefore, to see a booke in print, with an <hi>Impri<g ref="char:EOLhyphen"/>matur</hi> in the front, is a sufficient warrant for all to buy, and a sure rule for thee to reade, without either offence to thy selfe, or displeasure of any other. Besides, this is no new Booke, though a new Translation; and there<g ref="char:EOLhyphen"/>fore,
+<pb facs="4"/> I hope, as it hath been pub<g ref="char:EOLhyphen"/>likely vendible for many yeares, without restraint, and good ap<g ref="char:EOLhyphen"/>plause, in the Latine tongue: so it may now find as free a passage, and as faire an acceptance in the English; and shall not need a Protector to keepe it off from a publique censure, or warrant it from the fire. And this is all I now wish, either for my Author, or my selfe. Yet I have a Pa<g ref="char:EOLhyphen"/>tron too, even He that commands, not only the hands, but (even) the tongues and hearts of men: If he be pleased with these my weak endevours, for whose honour I chiefly undertooke them; I have my Guerdon, even all I expect or desire; if not, I am sure I shall vainly implore any other patro<g ref="char:EOLhyphen"/>nage, how potent soever: as no way sufficient to protect either me or my Translation from his All-seeing eye, and All-doing hand: of him therefore doe I beg
+<pb facs="4"/> pardon of my errors commit<g ref="char:EOLhyphen"/>ted; and to his service, doe I (in all humilitie) dedicate my selfe, and this Manuall, and doe love<g ref="char:EOLhyphen"/>ingly commend the use thereof to thee my courteous Reader.</p>
+   <closer>
+      <dateline>
+         <hi>From my chamber in the Inner Temple.</hi>
+         <date>August 20. 1639.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

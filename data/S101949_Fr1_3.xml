@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous and indif∣ferent Reader, especially to all such who  troubled with any disease incident to the eyes.</title>
+           <author>S., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101949_Fr1_3</idno>
+           <idno type="DLPS">A11834</idno>
+           <idno type="STC">22133</idno>
+           <idno type="ESTC">S101949</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous and indif∣ferent Reader, especially to all such who  troubled with any disease incident to the eyes.</title>
+                 <author>S., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Seabrookes caveat: or His warning piece to all his louing country-men, to beware how they meddle with the eyes : In which is contayned the exact and most certaine remedies for all manner of infirmities, which shall happen vnto the eyes. Written for the generall good of this whole monarchie of great Brittaine. By Richard Seabrooke, practicioner in the art of the occulist</title>
+                 <author>Seabrooke, Richard</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>62 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the courteous and indif<g ref="char:EOLhyphen"/>ferent Reader, especially to all such who <gap reason="illegible" resp="#uom" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> troubled with any disease incident to the eyes.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Haue not here (courte<g ref="char:EOLhyphen"/>ous and indifferent Rea<g ref="char:EOLhyphen"/>der) entertained thee with fine phrases, and artificiall method (things curious and becomming the curious) I leaue that to those which are more ambiti<g ref="char:EOLhyphen"/>ous of priuate fame, then studious for the common good. But I haue truly and plainely shewed thee how to beware of, and preuent certaine grie<g ref="char:EOLhyphen"/>uous inconueniences: where the dis<g ref="char:EOLhyphen"/>ease is curable, I haue set downe ap<g ref="char:EOLhyphen"/>proued remedies for it, where it is incurable, I aduise thee to comfort
+<pb facs="5"/>
+thy selfe in God, and saue thy money: Reade and practise, and as thou find<g ref="char:EOLhyphen"/>est any profit, take in good part my paines, but giue the whole praise vn<g ref="char:EOLhyphen"/>to God, to whose holy protection I commit thee and my selfe, and all the faithfull in Christ Iesus. Farewell.</p>
+   <closer>
+      <signed>R. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

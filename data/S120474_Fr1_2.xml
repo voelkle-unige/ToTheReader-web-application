@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE CHRISTIAN READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120474_Fr1_2</idno>
+           <idno type="DLPS">B13495</idno>
+           <idno type="STC">10601.3</idno>
+           <idno type="ESTC">S120474</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE CHRISTIAN READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The recompence of the righteous : Being a iewell fit to be placed in euery Christians heart. Preached in a sermon at Linfield in Sussex, and published at the request of some well disposed Christians. By Humphrey Euerenden</title>
+                 <author>Everinden, Humphrey</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <distributor>Bird, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>2, 13, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>TO THE CHRISTIAN READER.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hinke it not strange belo<g ref="char:EOLhyphen"/>ued in Christ Iesus, I come in with my poore mite a<g ref="char:EOLhyphen"/>mongst the rich gifts of ma<g ref="char:EOLhyphen"/>ny learned writers published in the kingdome (whose excellencie I reuerence, and whose earnest I earnestly desire, for the benefit of Gods Church, and the confusion of the kingdome of Satan.) It is the benefit of the simple I desire and ayme at; if thou canst from so silly flower sucke but one drop of honey to sweeten thy soule, my labour is not lost, my gift not to be despised, reade then and consider, and God grant his blessings to rest on his owne ordinance, to the glo<g ref="char:EOLhyphen"/>ry of his blessed name, Amen.</p>
+   <closer>
+      <dateline>
+         <hi>Linfield</hi> in <hi>Sussex,</hi>
+         <date>September the 26, 1624.</date>
+      </dateline>
+      <signed>Thine in Christ <hi>Humphry Euer<g ref="char:EOLhyphen"/>euden</hi> the vnworthy Minister of Christ in that place.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

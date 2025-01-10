@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Detractorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105263_Fr1_3</idno>
+           <idno type="DLPS">A20081</idno>
+           <idno type="STC">6521</idno>
+           <idno type="ESTC">S105263</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Detractorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Satiro--mastix. Or The vntrussing of the humorous poet : As it hath bin presented publikely, by the Right Honorable, the Lord Chamberlaine his seruants; and priuately, by the Children of Paules. By Thomas Dekker</title>
+                 <author>Dekker, Thomas</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <head>Ad Detractorem.</head>
+   <l>Non potes in Nugas dicere plurameas,</l>
+   <l>Ipse ego quam dixi.—Qui se mir antur, in illo<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Virus habe: Nos hae nouimus esse nihil.</l>
+</div>
+        </body>
+  </text>
+</TEI>

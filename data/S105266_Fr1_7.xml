@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To CYNTHIA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105266_Fr1_7</idno>
+           <idno type="DLPS">A19526</idno>
+           <idno type="STC">5956</idno>
+           <idno type="ESTC">S105266</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To CYNTHIA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The amorose songes, sonets, and elegies: of M. Alexander Craige, Scoto-Britane</title>
+                 <author>Craig, Alexander</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="8"/>
+   <head>To CYNTHIA.</head>
+   <p>
+      <seg rend="decorInit">O</seg>Ffend not, faire Dame; Though the Lines of my Picture change and varie. The World runnes on Wheeles, all things therein mooue without intermission: the solide Earth, the rockes of <hi>Caucasus,</hi> and the <hi>Pyramids</hi> of <hi>Memphis</hi>; both with publike, and their owne motion. Constancie it selfe, is nothing but a languishing and a wauering daunce. I am a <hi>Pamphilus,</hi> and can not settle my obiect. And since my Loue runnes staggering with a naturall drunkennes, I pray thee (vertuous <hi>Cynthia</hi>) with patience peruse those Poyems: And (as <hi>Aristip<g ref="char:EOLhyphen"/>pus</hi> sayd to his man, who by the way was ouer bur<g ref="char:EOLhyphen"/>dened with too much money) carry what you may, and cast away the rest.</p>
+   <closer>
+      <signed>Your La. howsoeuer, and wheresoeuer. <hi>Ad Cynthiam.</hi>
+      </signed>
+   </closer>
+   <postscript>
+      <l>
+         <hi>Nil forma natura tuae, nihil astra negarunt,</hi>
+      </l>
+      <l>
+         <hi>Vna supercilij si tibi dempta nota.</hi>
+      </l>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

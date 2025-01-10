@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Authorem, in libellum suum de Sacramentis G. S. carmen Encomiasticum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115827_Fr1_3</idno>
+           <idno type="DLPS">A22474</idno>
+           <idno type="STC">889</idno>
+           <idno type="ESTC">S115827</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Authorem, in libellum suum de Sacramentis G. S. carmen Encomiasticum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The badges of Christianity. Or, A treatise of the sacraments fully declared out of the word of God : Wherein the truth it selfe is proued, the doctrine of the reformed churches maintained, and the errors of the church of Rome are euidently conuinced: by pervsing wherof the discreet reader may easily perceiue, the weak and vnstable grounds of the Roman religion, and the iust causes of our lawfull separation. Diuided into three bookes: 1. Of the sacraments in generall. 2. Of Baptisme. 3. Of the Lords Supper. Hereunto is annexed a corollarie or necessary aduertisement, shewing the intention of this present worke, opening the differences among vs about the question of the supper, discouering the idolatry and diuisions of the popish cleargy, ... By William Attersoll, minister of the Word of God</title>
+                 <author>Attersoll, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Fosbrooke, Nathaniel.</publisher>
+                            <publisher>Jaggard, William</publisher>
+                        </imprint>
+                 <extent>22, 395, that is 392, 48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Jurisprudence</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="6"/>
+   <head>
+      <hi>Ad Authorem, in libellum suum de</hi> Sacramentis G. S. carmen <hi>Encomiasticum.</hi>
+   </head>
+   <l>SItua scripta recepta domiretinebis amice,</l>
+   <l>Publica nec facies; dic mthi, qualis er is?</l>
+   <l>Imprimit illa pius quae supprimit impius omni:</l>
+   <l>Ille bonum patriae respicit, iste suum.</l>
+   <l>Ecce, boni{que} malique tibi datur optio: sponte</l>
+   <l>Impius anne velis, vel velis esse pius.</l>
+   <l>Sis bonus O faelixque tuis; fac publica multis</l>
+   <l>Sacramenta: Deus iussit, et ipse doces.</l>
+   <l>Nonne doces iussisse Deum dare bina duobus</l>
+   <l>Sexibus; ad caenam lotus vt omnis eat?</l>
+   <l>Carnifices merito condemn as sacrificantes,</l>
+   <l>Quod christum comedunt, &amp; sine plebe, bibunt.</l>
+   <l>Ergo age, facta, <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, ne sint contraria dict is,</l>
+   <l>Vt, cum signa probes publica, scripta neges.</l>
+   <l>Scriptum de sanct is fieret commune sigillis,</l>
+   <l>Conuenit vt cunctis fons sacer atque cibus</l>
+   <l>Da triadi tua scripta Deo tria: Publica sunto.</l>
+   <l>Publica priuatis sunt meliora bonis.</l>
+   <closer>
+      <signed>Vale.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

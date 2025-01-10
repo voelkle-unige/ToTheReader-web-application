@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD LECTOREM.</title>
+           <author>G., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103291_Fr1_2</idno>
+           <idno type="DLPS">A01838</idno>
+           <idno type="STC">11979</idno>
+           <idno type="ESTC">S103291</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD LECTOREM.</title>
+                 <author>G., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Oratio funebris : habita in ecclesia Cathedrali Christi Oxon in obitum viri omni ævo dignissimi Gulielmi Goodvvin istius ecclesiæ decani, s. theol. Doctoris. A Tho. Goffe Artium Magistro ex Æde Christi</title>
+                 <author>Goffe, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1620</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Short, James</publisher>
+                        </imprint>
+                 <extent>12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   
+   <pb facs="2"/>
+   
+   <head>AD LECTOREM.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Beunt semper, Lector, ac re<g ref="char:EOLhyphen"/>cedunt à morientibus voces illae, quas aut adulatio, aut ancillantis facundiae neces<g ref="char:EOLhyphen"/>sitas exprimit: abeat ita, &amp; à schedula hac, (quâ venera<g ref="char:EOLhyphen"/>bile nomen implicatur) in<g ref="char:EOLhyphen"/>geniosa malignitas, ne non tàm chartam lacerare meam, quàm in dormientis manes saevire putetur, &amp; <hi>tanti nominis vmbra</hi> cessante Fato, ingemat,—<lb/>
+      <q>—<hi>Tumulo quo{que} sensimus hostem</hi>
+      </q>
+      <lb/> Non meae, sed defuncti consului famae, ne totus mo<g ref="char:EOLhyphen"/>riatur, <hi>quem, tanti erit bonis, vivere vel sic,</hi> &amp; hóc sanè non possum non mihimetipsi (absit invi<g ref="char:EOLhyphen"/>dia verbo) gratulari, imò &amp; maturior aetas &amp; se<g ref="char:EOLhyphen"/>cunda pueritia,</p>
+   <p>
+      <hi>Hunc ego si possim tantum sperare dolore</hi> honesta tumeat superbia, tyrocinium meum, bo<g ref="char:EOLhyphen"/>num illum Decanum, primâ, quâ tunc temporis po<g ref="char:EOLhyphen"/>tui, solennitate, in Aede Christs, salutasse, &amp; vlti<g ref="char:EOLhyphen"/>mū <hi>valedicendi</hi> munus pro virili administrasse:
+<pb facs="3"/>
+      In peiorem, si quis officium hoc, rapiat, partem si quis, invtili ambitioni hoc censeat tribuendum, abortivam me hane &amp; immaturam prolem in lu<g ref="char:EOLhyphen"/>tem emisisse, hoc crimen sic à me amotum esse vole, hoc sciat velim, <hi>GOOD WINVM</hi> me vidisse mo<g ref="char:EOLhyphen"/>rientem, contenta er it oratio mea, suâ lingua, id est <hi>funebri.</hi>
+   </p>
+   <closer>
+      <signed>T. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

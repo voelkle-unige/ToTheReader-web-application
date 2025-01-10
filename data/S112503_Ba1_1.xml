@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Note]</title>
+           <author>Baker, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112503_Ba1_1</idno>
+           <idno type="DLPS">B14765</idno>
+           <idno type="STC">17780</idno>
+           <idno type="ESTC">S112503</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Note]</title>
+                 <author>Baker, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A liberall maintenance is manifestly due to the ministers of the Gospell. By Ioshua Meene vicar of Wymondham in Norfolke</title>
+                 <author>Meene, Joshua</author>
+                 <imprint>
+                    <distributor>Chapman, Laurence</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Certain, William.</publisher>
+                            <publisher>Harper, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 74, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="note">
+   <pb facs="43"/>
+   <p>REcensui librum hunc cui Titulus est <hi>(A liberall Mayntenance due, &amp;c.)</hi> nec in eo quicquam reperie quò minus typis mandetur.</p>
+   <closer>
+      <signed>Sam. Baker.</signed>
+      <dateline>
+         <date>
+            <hi>Feb. 6. 1637.</hi>
+         </date> Ex adibus Lond.</dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

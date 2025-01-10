@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>This Booke is diuided into two Sections.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121934_Fr1_4</idno>
+           <idno type="DLPS">A05190</idno>
+           <idno type="STC">15324</idno>
+           <idno type="ESTC">S121934</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>This Booke is diuided into two Sections.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The prophane schisme of the Brovvnists or separatists : With the impietie, dissensions, levvd, and abhominable vices of that impure sect. Discouered by Christopher Lavvne, Iohn Fovvler, Clement Sanders, Robert Bulvvard. Lately returned from the companie of M. Iohnson, tha wicked brother, into the bosome of the Church of England, their true mother</title>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <distributor>Burre, Walter</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>8, 88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note">
+   <head>This Booke is diuided into two Sections.</head>
+   <p>THE first containeth such matters as passed betweene
+these foure persons <hi>Christopher Lawne, &amp;c.</hi> and the Sect of
+Maister <hi>Iohnson.</hi>
+   </p>
+   <p>The second Section containeth a true relation of the Schisme,
+Dissensions, Blasphemies, Heresie, and horrible Crimes practised by
+these <hi>Brownists</hi> or Separatists.</p>
+</div>
+        </body>
+  </text>
+</TEI>

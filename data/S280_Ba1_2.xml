@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Post-script to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S280_Ba1_2</idno>
+           <idno type="DLPS">A18243</idno>
+           <idno type="STC">4863.5</idno>
+           <idno type="ESTC">S280</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Post-script to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Marcus Ausonius his foure bookes of morall precepts, intituled Cato : concerning the precepts of common life. Translated out of Latin hexamiters into English meter by Walter Gosnold Gentleman, servant unto the right worshipfull Sr. Thomas Bowes of Much-bromley hall in Essex</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Griffin, Edward 2.</publisher>
+                            <publisher>Singleton (Syngleton), Hugh</publisher>
+                        </imprint>
+                 <extent>144 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="envoy">
+   <head>A Post-script to the Reader.</head>
+   <lg>
+      <l>NOw I this worke performed have</l>
+      <l>and sent it to the Presse:</l>
+      <l>I know that some will call me foole,</l>
+      <l>and sure I am no lesse,</l>
+      <l>For printing that, which long agoe</l>
+      <l>by others was set out:</l>
+      <l>Which is untruth, as I can prove,</l>
+      <l>if any thereof doubt.</l>
+      <l>For though it hath translated beene</l>
+      <l>as I doe not deny</l>
+      <l>Grammatically into prose;</l>
+      <l>yet not in poetry,</l>
+      <l>As I haved one, therefore I say,</l>
+      <l>who blames my enterprise,</l>
+      <l>If they can finde no other fault,</l>
+      <l>I say they are not wise.</l>
+   </lg>
+   <closer>
+      <signed>Farewell.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IN THE MARGENT THESE.</title>
+           <author>Webbe, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1509_Ba1_1</idno>
+           <idno type="DLPS">A16173</idno>
+           <idno type="STC">3093</idno>
+           <idno type="ESTC">S1509</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IN THE MARGENT THESE.</title>
+                 <author>Webbe, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second part of the reformation of a Catholike deformed by Master W. Perkins</title>
+                 <author>Bishop, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>214, 2, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="108"/>
+   <opener>
+      <salute>Curteous Reader,</salute>
+   </opener>
+   <p>BEARE WITH THE FAVLTS IN PRINTING, WHICH CAN HARDLY BE FEW CONSIDE<g ref="char:EOLhyphen"/>RING THE MANIFOLD DIFFICVLTIES OF THE time: And yet (besides the ouer-sights in pointing) are not very ma<g ref="char:EOLhyphen"/>ny, which be thus corrected.</p>
+   <div type="marginal_errata">
+      <head>IN THE MARGENT THESE.</head>
+      <p>Generally a <hi>ss.</hi> is set in the quotation of <hi>Caluins</hi> Institution for the Section or Number.</p>
+      <p>
+         <table>
+            <row>
+               <cell role="label">For.</cell>
+               <cell role="label">Page.</cell>
+               <cell role="label">Reade.</cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Beza in Neoph.</hi>
+               </cell>
+               <cell>9.</cell>
+               <cell>
+                  <hi>in Creophag.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>simil.</hi>
+               </cell>
+               <cell>
+                  <hi>ibid.</hi>
+               </cell>
+               <cell>
+                  <hi>Simler.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>sess.</hi> 17. 2.</cell>
+               <cell>11.</cell>
+               <cell>
+                  <hi>number</hi> 1. <hi>&amp;</hi> 2.</cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Homil. in prae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rat.</hi>
+               </cell>
+               <cell>48.</cell>
+               <cell>
+                  <hi>In priorem ad Corint.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Conc.</hi>
+               </cell>
+               <cell>56.</cell>
+               <cell>
+                  <hi>Canon.</hi>
+               </cell>
+            </row>
+         </table>
+      </p>
+   </div>
+   <div type="errata">
+      <head>IN THE TEXT THESE.</head>
+      <p>
+         <table>
+            <row>
+               <cell role="label">
+                  <hi>For.</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Page.)</hi>
+               </cell>
+               <cell role="label">
+                  <hi>(Line.</hi>
+               </cell>
+               <cell role="label">
+                  <hi>Reade.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>declared</cell>
+               <cell>7)</cell>
+               <cell>(15</cell>
+               <cell>declare</cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Atheisme</hi>
+               </cell>
+               <cell>20)</cell>
+               <cell>(9</cell>
+               <cell>
+                  <hi>Atheismes</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>was this</cell>
+               <cell>40)</cell>
+               <cell>(35</cell>
+               <cell>was it</cell>
+            </row>
+            <row>
+               <cell>pithagorically</cell>
+               <cell>63.)</cell>
+               <cell>(22</cell>
+               <cell>pithagoricall, I say</cell>
+            </row>
+            <row>
+               <cell>to solemnely</cell>
+               <cell>86)</cell>
+               <cell>(22</cell>
+               <cell>to be solemnely</cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Euchirines</hi>
+               </cell>
+               <cell>135)</cell>
+               <cell>(24</cell>
+               <cell>
+                  <hi>Eucherius</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>established</cell>
+               <cell>145)</cell>
+               <cell>(17</cell>
+               <cell>establish</cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Cesanis</hi>
+               </cell>
+               <cell>155)</cell>
+               <cell>(39</cell>
+               <cell>
+                  <hi>Caesarius</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>
+                  <hi>Pomachius</hi>
+               </cell>
+               <cell>156)</cell>
+               <cell>(1</cell>
+               <cell>
+                  <hi>Pamachius</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>demised</cell>
+               <cell>180)</cell>
+               <cell>(18</cell>
+               <cell>deuised</cell>
+            </row>
+            <row>
+               <cell>proofe</cell>
+               <cell>181)</cell>
+               <cell>(16</cell>
+               <cell>disproofe</cell>
+            </row>
+         </table>
+      </p>
+   </div>
+   <div type="additional_errata">
+      <p>The quotation of <hi>S. Augustine</hi> which is in <hi>psalm.</hi> 33. <hi>conc.</hi> 2. is omitted in the 68. page.</p>
+      <p>
+         <hi>Hier. cont. Lucif. cap.</hi> 6. wanteth page 209.</p>
+      <p>And in the Aduertisment, page the 25. for <hi>apud Dionysium</hi> 1. <hi>Cor.</hi> reade <hi>apud Ludolphum de vita Christi, part.</hi> 1. <hi>cap.</hi> 5. <hi>pag.</hi> 17.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

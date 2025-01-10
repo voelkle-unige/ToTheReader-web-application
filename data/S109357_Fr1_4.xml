@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my friend, Mr. Ben: Ionson. vpon his Alchemist.</title>
+           <author>Lucy, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109357_Fr1_4</idno>
+           <idno type="DLPS">A04636</idno>
+           <idno type="STC">14755</idno>
+           <idno type="ESTC">S109357</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my friend, Mr. Ben: Ionson. vpon his Alchemist.</title>
+                 <author>Lucy, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The alchemist : VVritten by Ben. Ionson</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <distributor>Burre, Walter</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Snodham, alias East, Thomas.</publisher>
+                            <publisher>Stepneth (Stepney), John</publisher>
+                        </imprint>
+                 <extent>96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>To my friend, M<seg rend="sup">r</seg>. <hi>Ben: Ionson.</hi> vpon <hi>his Alchemist.</hi>
+   </head>
+   <lg>
+      <l>
+         <hi>A</hi> Master, read in flatteries great skill,</l>
+      <l>Could not passe truth, though he would force his will,</l>
+      <l>By praising this too much, to get more praise</l>
+      <l>In his Art, then you out of yours doe raise.</l>
+      <l>Nor can full truth be vttered of your worth,</l>
+      <l>Vnlesse you your owne praises doe set forth:</l>
+      <l>None else can write so skilfully, to shew</l>
+      <l>Your praise: Ages shall pay, yet still must owe.</l>
+      <l>All I dare say, is, you haue written well,</l>
+      <l>In what exceeding height, I dare not tell.</l>
+   </lg>
+   <closer>
+      <signed>George Lucy.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

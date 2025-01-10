@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Among other faults escaped in the Printing, these especially are thus to be corrected:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101491_Ba1_3</idno>
+           <idno type="DLPS">A07919</idno>
+           <idno type="STC">1829</idno>
+           <idno type="ESTC">S101491</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Among other faults escaped in the Printing, these especially are thus to be corrected:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The suruey of popery : vvherein the reader may cleerely behold, not onely the originall and daily incrementes of papistrie, with an euident confutation of the same; but also a succinct and profitable enarration of the state of Gods Church from Adam vntill Christs ascension contained in the first and second part thereof: and throughout the third part poperie is turned vp-side downe</title>
+                 <author>Bell, Thomas</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>8, 208, 207-346, 337-519, 524-536, 4 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Among other faults escaped in the Printing, these especially are thus to be corrected:</head>
+   <p>
+      <table>
+         <row>
+            <cell>Pag. 2. for Cabatist</cell>
+            <cell rows="11">reade</cell>
+            <cell>Cabalist</cell>
+         </row>
+         <row>
+            <cell>Pag. 13. for 432</cell>
+            <cell>443</cell>
+         </row>
+         <row>
+            <cell>Pag. 19 for 428</cell>
+            <cell>443</cell>
+         </row>
+         <row>
+            <cell>Ibidem for 4082</cell>
+            <cell>4097</cell>
+         </row>
+         <row>
+            <cell>Pag 21.</cell>
+            <cell>The first two lines as part of the sen<g ref="char:EOLhyphen"/>tence afore-going.</cell>
+         </row>
+         <row>
+            <cell>Pag. 37. for Achab</cell>
+            <cell>Achaz</cell>
+         </row>
+         <row>
+            <cell>Ibidem for eight</cell>
+            <cell>seuenth</cell>
+         </row>
+         <row>
+            <cell>Pag. 74. for hadle</cell>
+            <cell>handle</cell>
+         </row>
+         <row>
+            <cell>Pa. 75. for Tantanes</cell>
+            <cell>Tautanes</cell>
+         </row>
+         <row>
+            <cell>Ibid. for Tantens</cell>
+            <cell>Tantens</cell>
+         </row>
+         <row>
+            <cell>Pag. 1<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>deest</hi>
+            </cell>
+            <cell>made, with other literall faultes, which the ingenious Reader may easily espie and amend.</cell>
+         </row>
+      </table>
+   </p>
+   <pb facs="279"/>
+</div>
+        </body>
+  </text>
+</TEI>

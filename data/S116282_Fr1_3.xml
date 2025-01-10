@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD NOBILISSIMVM SUUM PATRONUM EPIGRAMMA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116282_Fr1_3</idno>
+           <idno type="DLPS">A11194</idno>
+           <idno type="STC">21460</idno>
+           <idno type="ESTC">S116282</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD NOBILISSIMVM SUUM PATRONUM EPIGRAMMA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The tvvo famous pitcht battels of Lypsich, and Lutzen : wherein the ever-renowned Prince Gustavus the Great lived and died a conquerour: with an elegie upon his untimely death, composed in heroick verse by John Russell, Master of Arts, of Magdalene Coll. in Cambridge</title>
+                 <author>Russell, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1634</date>
+                 <publisher>Cambridge University—Printers.</publisher>
+                            <publisher>Scarlet, Philip</publisher>
+                        </imprint>
+                 <extent>16, 79, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>AD NOBILISSIMVM SUUM PATRONUM <hi>EPIGRAMMA.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">T</seg>Ʋ mihi sis <hi>Phoebus,</hi> mea sit tibi <hi>Luna</hi> libellus,</l>
+   <l>Quem facis (en!) radiis ipse micare tuis.</l>
+   <l>Sidereos volui titulos, &amp; nomina clara</l>
+   <l>Supremâ in nostri figere parte libri,</l>
+   <l>Quò possent plenè suffundere luce coruscâ</l>
+   <l>Quaelibet in scriptis inferiora meis.</l>
+   <l>Jam mea si <hi>Livor</hi> contorto lumine spectet</l>
+   <l>Carmina, <hi>percussus sydere,</hi> mutus erit.</l>
+</div>
+        </body>
+  </text>
+</TEI>

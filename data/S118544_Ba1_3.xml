@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In praise of the Author,</title>
+           <author>T., J.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118544_Ba1_3</idno>
+           <idno type="DLPS">A19381</idno>
+           <idno type="STC">5809</idno>
+           <idno type="ESTC">S118544</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In praise of the Author,</title>
+                 <author>T., J.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Mr Thomas Coriat to his friends in England sendeth greeting : from Agra the capitall city of the dominion of the great Mogoll in the Easterne India, the last of October, 1616. Thy trauels and thy glory to ennamell, with fame we mount thee on the lofty cammell</title>
+                 <author>Coryate, Thomas</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>52 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="25"/>
+   <head>In praise of the Author,</head>
+   <lg>
+      <l>Till when fare well (if thou canst get good fare)</l>
+      <l>Content's a feast, although the feast be bare.</l>
+      <l>Let <hi>Eolus</hi> and <hi>Neptune</hi> be combinde,</l>
+      <l>With Sea auspicious, and officious winde;</l>
+      <l>In thy returne with speed to blow thee backe,</l>
+      <l>That we may laugh, lie downe, and mourne in Sacke.</l>
+   </lg>
+   <closer>
+      <signed>J. T.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

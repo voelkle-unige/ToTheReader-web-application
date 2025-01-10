@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>H., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111634_Fr1_3_4</idno>
+           <idno type="DLPS">A14917</idno>
+           <idno type="STC">25225</idno>
+           <idno type="ESTC">S111634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>H., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Faunus and Melliflora or, The original of our English satyres. Iohn Weeuer</title>
+                 <author>Weever, John</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>70 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <l>
+      <hi>FAunus</hi> a siluan god, and <hi>Mellislora</hi>
+   </l>
+   <l>A sacred Nymph, that vsde among the woods,</l>
+   <l>Rose euery morning with the bright <hi>Aurora,</hi>
+   </l>
+   <l>To gather garlands made of musk-rose buds:</l>
+   <l>In loue they liude long, and in loue they dide,</l>
+   <l>(O wonder not, that gods, and Nymphes can perish)</l>
+   <l>Obliuion buried them in their chiefe pride:</l>
+   <l>So all men die whom no sweete Muse doth cherish:</l>
+   <l>This <hi>Aesculapius</hi> by his cunning pen,</l>
+   <l>Reuines the dead from their obscured graue,</l>
+   <l>Such sacred skill hath Art unspir'd in men,</l>
+   <l>And such a sweete reuiuing may I haue:</l>
+   <l>All Poets with greene Luirell crowne his head,</l>
+   <l>Whose pen makes liue, such as haue long bin dead.</l>
+   <signed>T. H.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

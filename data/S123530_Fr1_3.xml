@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A proeme to the Reader.</title>
+           <author>H., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123530_Fr1_3</idno>
+           <idno type="DLPS">A72333</idno>
+           <idno type="STC">13555</idno>
+           <idno type="ESTC">S123530</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A proeme to the Reader.</title>
+                 <author>H., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The holy sinner : a tractate meditated on some passages of the storie of the penitent woman in the Pharisees house. by [sic] W.H</title>
+                 <author>Hodson, William</author>
+                 <imprint>
+                    <distributor>Crooke, Andrew 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>8, 98, 18 pages, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Book industry, catalogues and inventories</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>A proeme to the Reader.</head>
+   <p>AS no beauty, so no book hath all voices: even in the worst some eyes see features that please; in the best, some others see lines that they like not: <q>
+         <l>Pro captu lectoris habent sua fata libelli.</l>
+         <note place="margin">
+            <hi>Mart.</hi>
+         </note>
+      </q> Some out of affection may plat a laurel for that head, on which others, in their opinion, would bestow the thistle. This little tractate hath already passed through private hands, and found (but what allay is friendship unto censure?) a candid interpretation. And di<g ref="char:EOLhyphen"/>vers copies were presented to
+<pb facs="4"/> me, to usher forth my book But I am not ambition to hang the ivie garland at my doore: I have purposely re<g ref="char:EOLhyphen"/>served them for a close, lest I should seem, like an Italian host, to meet my guest upon the way, and to promise before<g ref="char:EOLhyphen"/>hand a fair and ample enter<g ref="char:EOLhyphen"/>tainment. Let it please you ra<g ref="char:EOLhyphen"/>ther to see and allow your cheer; and then according to your own palate, you may dis<g ref="char:EOLhyphen"/>gust, or rellish the cookerie.</p>
+   <closer>
+      <signed>W. H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

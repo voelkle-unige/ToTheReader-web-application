@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Hall, Joseph</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105141_Fr1_3</idno>
+           <idno type="DLPS">A19470</idno>
+           <idno type="STC">5895</idno>
+           <idno type="ESTC">S105141</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Hall, Joseph</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A trve and almost incredible report of an Englishman, that (being cast away in the good ship called the Assention in Cambaya the farthest part of the East Indies) trauelled by land through many vnknowne kingdomes, and great cities : VVith a particular description of all those kingdomes, cities, and people. As also a relation of their commodities and manner of traffique, and at what seasons of the yeere they are most in vse. Faithfully related. With a discovery of a great emperour called the Great Mogoll, a prince not till now knowne to our English nation. By Captaine Robert Couerte</title>
+                 <author>Coverte, Robert</author>
+                 <imprint>
+                    <publisher>Hall, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <distributor>Archer, Thomas</distributor>
+                            <distributor>Redmer, Richard</distributor>
+                        </imprint>
+                 <extent>6, 68, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>
+      <hi>To</hi> the Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eceiue, Courteous Reader, a true report of my dangerous Trauels, which will (I make no question) be as pleasing to thee in reading, as they were painefull to me in suffering. Heere thou maiest safely and without danger see that, which hath cost me many a tedious and weary step; many a cold and comfortlesse lodging; and ma<g ref="char:EOLhyphen"/>ny a thin and hungry meale. I publish not these my Aduentures in any pride or Arro<g ref="char:EOLhyphen"/>gancie: But I thinke, I should prooue in<g ref="char:EOLhyphen"/>gratefull to my preseruer, not to let the world know his miraculous power, in safe<g ref="char:EOLhyphen"/>garding me beyond mine owne hope or mans Imagination. The report of these my perils are freely thine, mine hath onely been the dangers and sufferance. Bee thou as well pleased with my faithfull discouery: as I am contented with my hard and paine<g ref="char:EOLhyphen"/>ful Pilgrimage.</p>
+   <closer>
+      <signed>
+         <hi>Thine</hi> ROBERT COVER<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

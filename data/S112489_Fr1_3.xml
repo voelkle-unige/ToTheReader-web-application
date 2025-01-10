@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the King.</title>
+           <author>Mathieu, P.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112489_Fr1_3</idno>
+           <idno type="DLPS">A07270</idno>
+           <idno type="STC">17666</idno>
+           <idno type="ESTC">S112489</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the King.</title>
+                 <author>Mathieu, P.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Vnhappy prosperitie expressed in the histories of Ælius Seianus and Philippa the Catanian· : Written in French by P: Mathieu and translated into English by Sr. Th: Hawkins</title>
+                 <author>Matthieu, Pierre</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Emerson (Emondson, Edmonds), Godfrey.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>6, 299, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="author" type="dedication">
+   <pb facs="4"/>
+   <head>To the King.</head>
+   <opener>
+      <salute>SIR:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>He Capitoll began, and the Louvre hath revived this Historie, which J present to your Majestie, amidst pub<g ref="char:EOLhyphen"/>lique applauses for the happinesse of your Monarchie. It is a Mirror that flat<g ref="char:EOLhyphen"/>tereth not, but rather a pure and Chry<g ref="char:EOLhyphen"/>stalline water, which, at the same instant it sheweth the staine taketh it away. You (Sir) shall therein behold, that a Prince ought to be verie carefull to conserve his Authoritie entire: Great ones here may learne, it is not good to play with the generous Lion, though he suffer it, and that favours are precipices for such, as abuse them.</p>
+   <closer>
+      <signed>P. MATHIEU.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

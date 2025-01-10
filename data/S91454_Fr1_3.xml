@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE EPISTLE.</title>
+           <author>Clapham, Henoch</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S91454_Fr1_3</idno>
+           <idno type="DLPS">B07516</idno>
+           <idno type="STC">5345.7</idno>
+           <idno type="ESTC">S91454</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE EPISTLE.</title>
+                 <author>Clapham, Henoch</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sommons to doomes daie sent vnto his beloued England : as a memoriall of his deepe printed loue and loyaltie. By Henoch Clapham</title>
+                 <author>Clapham, Henoch</author>
+                 <imprint>
+                    <publisher>Waldegrave (Walgrave), Robert</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>79, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>THE EPISTLE.</head>
+   <p>
+      <seg rend="decorInit">S</seg>WEET <hi>ENGLAND,</hi> wishing all true happines to thee and my soueraigne Queene <hi>ELI<gap reason="illegible" resp="#uom" extent="4 letters">
+            <desc>••••</desc>
+         </gap>TH,</hi> (whose bloo<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <gap reason="illegible" resp="#uom" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ersa<g ref="char:EOLhyphen"/>ries intestine a<gap reason="illegible" resp="#uom" extent="2 letters">
+         <desc>••</desc>
+      </gap>
+      <gap reason="illegible" resp="#uom" extent="2 letters">
+         <desc>••</desc>
+      </gap>rane, God in due time convert or confounde) Be<g ref="char:EOLhyphen"/>ing vrged to voyage from thee for a season, I haue heere commended vnto thy reading, this mite of a mountaine of Good will. Fore<g ref="char:EOLhyphen"/>warning, is a fore-arming, neither will my sommoning thy soule (howsoeuer harshe at first) proue otherwise than healthfull at last. Some in whome is small good Zeal but more malice, will (considering my person) wring what sences they list from my sentences, that so they may snarle behinde my back: But let such learne, that <hi>Loue will judge the best, but Malice never spake well.</hi> Some in whome Zeale overmatcheth knowledge, will <hi>è contra</hi> affirme, that I haue not plainlye
+<pb facs="3"/>ynough rebuked sinne, &amp;c. Let such learne, that I haue learned, that there is one man<g ref="char:EOLhyphen"/>ner of Rebuke in the Church of the olde Te<g ref="char:EOLhyphen"/>stament, another Rule in the Church of the newe Testament: one maner of dealing with persons within the visible Church, another wisedome towardes them that are without. He that followes one rule for forme of rebuke may aswell confound the first and latter mi<g ref="char:EOLhyphen"/>nistrie. This not obserued causeth much tea<g ref="char:EOLhyphen"/>ching, but no good done. <hi>Wordes vttered according to knowledge discretiue,</hi>
+      <note n="*" place="margin">Prov. 25.11</note>
+      <hi>are like apples of golde &amp; pictures of silver.</hi> Accept it with no worse meaning than I offer it, then neither shalt thou disdaine to receiue it, nor I repent the guift: and so be<g ref="char:EOLhyphen"/>seeching the Lordes blessing to accompanie my labour, I end. <hi>Edinburgh, 1595.</hi>
+   </p>
+   <q xml:lang="lat">
+      <l>
+         <hi>Fulgura sic flammas qui terris servat iniquis</hi>
+      </l>
+      <l>
+         <hi>Anglorum Sωter semper, vbique siet.</hi>
+      </l>
+   </q>
+   <closer>
+      <signed>Thy humble petitioner vnto God for thy good. <hi>HENOCH CLAPHAM.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

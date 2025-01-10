@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Regina Pecunia Loquitur.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111905_Fr1_2</idno>
+           <idno type="DLPS">A06785</idno>
+           <idno type="STC">17221</idno>
+           <idno type="ESTC">S111905</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Regina Pecunia Loquitur.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The center of The circle of commerce. Or, A refutation of a treatise, intituled The circle of commerce, or The ballance of trade, lately published by E.M. By Gerard Malynes merchant</title>
+                 <author>Malynes, Gerard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Bourne, Nicholas.</publisher>
+                            <publisher>Jones, William 3</publisher>
+                        </imprint>
+                 <extent>8, 32, 35-139, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="2"/>
+   <head>Regina Pecunia Loquitur.</head>
+   <l>Haec gaudere facit sapientis nomine stultum,</l>
+   <l>&amp; graue Prudentis munus obire viri,</l>
+   <l>Quisquis in hac non est sapiens quasi stultus habetur</l>
+   <l>&amp; quasi quod Vacuum, sit Ratione caput,</l>
+   <l>Regnat in incertis Regina Pecunia Rebus,</l>
+   <l>moribus Ambiguae, quae stat in orbe deae.</l>
+</div>
+        </body>
+  </text>
+</TEI>

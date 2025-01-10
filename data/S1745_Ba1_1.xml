@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Bookeseller to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1745_Ba1_1</idno>
+           <idno type="DLPS">A14750</idno>
+           <idno type="STC">25049a</idno>
+           <idno type="ESTC">S1745</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Bookeseller to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The life of faith by Samuel Ward</title>
+                 <author>Ward, Samuel</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <distributor>Grismand (Grismond), John</distributor>
+                            <distributor>Marriot, John</distributor>
+                        </imprint>
+                 <extent>14, 117 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publishers_advertisement">
+   <head>The Bookeseller to the Reader.</head>
+   <p>GEntle Reader, I pray thee take Notis
+that <hi>Master Ward,</hi> hath lately publi<g ref="char:EOLhyphen"/>shed
+a most Remarkable Monument, of the
+Inuincible Nauie of 88. &amp; the vnmatchable
+Powder Treason 1605. Necessary to be had
+in the House of euery good Christian, to
+shew Gods louing and wonderfull prouidence,
+ouer this Kingdome, when the Papists twise
+sought their vtter ruine &amp; subvertion. These
+Monuments are to be sold where these Bookes
+are sould in <hi>Saint Dunstones Church<g ref="char:EOLhyphen"/>yard,</hi>
+and <hi>Pauls-Ally. Vale. 24 of Ia<g ref="char:EOLhyphen"/>nuary.</hi>
+1621.</p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

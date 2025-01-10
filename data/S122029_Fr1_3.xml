@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶The Printer to the reader, greetyng.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1561</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122029_Fr1_3</idno>
+           <idno type="DLPS">A18135</idno>
+           <idno type="STC">4778</idno>
+           <idno type="ESTC">S122029</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶The Printer to the reader, greetyng.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The courtyer of Count Baldessar Castilio : diuided into foure bookes. Very necessary and profitatable [sic] for yonge gentilmen and gentilwomen abiding in court, palaice or place, done into Englyshe by Thomas Hoby</title>
+                 <author>Castiglione, Baldassarre, conte</author>
+                 <imprint>
+                    <publisher>Seres, William 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1561</date>
+                 </imprint>
+                 <extent>394 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <head>¶The Printer to the reader, greetyng.</head>
+   <p>
+      <seg rend="decorInit">N</seg>Owe at the length (gentle reader) through the diligence of Maister Hoby in penninge, and mine in printing, thou hast here set forth vnto thee, the booke of the Courtier: which for thy benifite had bene done longe since, but that there were certain places in it whiche of late yeares beeing misliked of some, that had the perusing of it (with what reason iudge thou) the Authour thought it much better to keepe it in darknes a while, then to put it in light vnperfect and in peecemeale to serue the time. Vse it the<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>fore, and so peruse it that for thy profite, first he, and then I, maye thinke our trauayle herein wel imployed.</p>
+   <closer>Fare well.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

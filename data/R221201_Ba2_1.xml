@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">R221201_Ba2_1</idno>
+           <idno type="DLPS">A66951</idno>
+           <idno type="STC">7487</idno>
+           <idno type="ESTC">R221201</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Nostōdia : In serenissimi, potentissimi, et inuictissimi monarchae, Iacobi Magnæ Britanniæ, Franciæ &amp; Hiberniæ Regis, fidei defensoris, &amp;c. felicem in Scotiam reditum, Academiæ Edinburgensis congratulatio</title>
+                 <author>University of Edinburgh</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>50, 6 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="376" facs="192"/>
+   <head>To the Reader.</head>
+   <p>IF the Reader perhaps, as by a former promise in part made at the first Edi<g ref="char:EOLhyphen"/>tion of my <hi>Surgeons Mate,</hi> do expect a description of every the Cor<g ref="char:EOLhyphen"/>dials, Antidotes, and other the Compositions in the former, and also in <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> his last Edition mentioned; the Author desires to be excused for his omission therein, for that since that first Edition there hath been, by Authority of his Majestie, a publike Dispensatory put forth, called <hi>Pharmacopeia Lon<g ref="char:EOLhyphen"/>dinensis,</hi> containing all such Medicines as the learned Doctors of the Colledge have selected, as fittest for their practises in <hi>London:</hi> in which learned Work, most of the Medicines by me in this Treatise mentioned, are to be found very truly and exactly set down the Compositions of them; to which, he is now, as necessitated, forced to refer the Reader: and yet in this Treatise the Author hath presumed to explain divers good Receipts. But the Work being on the sudden to say, <hi>(aut nunc aut nunquam)</hi> hasted to the Presse, there could be no alteration admitted, neither time for addition. But neverthelesse, for the pre<g ref="char:EOLhyphen"/>scribed Antidote, called <hi>Aurum Vitae,</hi> the Authour will be ready, whilest God permits him life, and as also he hopeth that his Posterity after him will not fail to prepare and have ready the said Antidote, for any person that shall please to make use of it, ready prepared, put up, and sealed, at such reasonable rates, as no private man can afford to make it so cheap, although he knew the Work: and so he taketh leave, committing the Benevolent Reader to Gods protection.</p>
+   <closer>
+      <dateline>From his House in <hi>Broadstreet, London,</hi> at the time of the first Edition hereof,</dateline>
+      <signed>JOHN WOODAL, Master in Surgerie.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

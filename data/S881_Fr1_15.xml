@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD VIRVM PIETATE Et eruditione praestantem D. ZACHARIAM BODIVM GLASGVENSIS Ecclesiae Pasto∣rem de praeparatione ad mor∣tem, postquam ex deplo∣rato morbo convaluisset Scribentem.</title>
+           <author>Strangius, Iohannes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S881_Fr1_15</idno>
+           <idno type="DLPS">A16539</idno>
+           <idno type="STC">3447</idno>
+           <idno type="ESTC">S881</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD VIRVM PIETATE Et eruditione praestantem D. ZACHARIAM BODIVM GLASGVENSIS Ecclesiae Pasto∣rem de praeparatione ad mor∣tem, postquam ex deplo∣rato morbo convaluisset Scribentem.</title>
+                 <author>Strangius, Iohannes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The last battell of the soule in death : diuided into eight co [n] ferences. ... VVhereby are showne the diuerse skirmishes that are betweene the soule of man on his death-bedde, and the enemies of our saluation. Carefullie digested for the comfort of the sicke: by Mr. Zacharie Boyd, preacher of Gods Word at Glasgow</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>2 volumes (22, 747, 1, 38, 748-1270, 3 pages), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="12"/>
+   <head>AD VIRVM PIETATE Et eruditione praestantem D. <hi>ZACHARIAM BODIVM</hi> GLASGVENSIS Ecclesiae Pasto<g ref="char:EOLhyphen"/>rem <hi>de praeparatione ad mor<g ref="char:EOLhyphen"/>tem,</hi> postquam ex deplo<g ref="char:EOLhyphen"/>rato morbo convaluisset Scribentem.</head>
+   <l>ERGO te nuper mortis de faucibus atrae</l>
+   <l>Ereptum nobis reddidit Omnipotens:</l>
+   <l>Vt Doctus moriendi artem expertusque doceres,</l>
+   <l>Qua datur aetheream transitus adpatriam:</l>
+   <l>Qui bene vivendi toties praecepta dedisti</l>
+   <l>Doctrinae reserans horrea plena sacrae.</l>
+   <l>Foelix <hi>Zacharia</hi> Doctor; Sanctisima cuius</l>
+   <l>Vox pariter, Scripta, &amp; consona vita docent</l>
+   <closer>
+      <signed>IOHANNES STRANGIVS S. S. Theologiae. D. &amp; Accademiae <hi>Glasguensis Praefectus.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

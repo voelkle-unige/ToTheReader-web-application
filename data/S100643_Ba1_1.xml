@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>PIO LECTORI.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100643_Ba1_1</idno>
+           <idno type="DLPS">A15397</idno>
+           <idno type="STC">25675</idno>
+           <idno type="ESTC">S100643</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>PIO LECTORI.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>De vniversali et novissima Ivdæorum vocatione : secundum apertissimam Divi Pauli prophetiam, in vltimis hisce diebus præstanda liber vnus. Vbi demonstratur, tum quem in modum illius gentis conversio expectanda sit, tum quid eam maximè adhuc impediat &amp; remoretur, &amp; alia explicantur quæ ad huius rei cognitionem necessaria videri possint</title>
+                 <author>Willet, Andrew</author>
+                 <imprint>
+                    <publisher>Legat (Legate, Legatt), John 1</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>12, 12-37 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="40"/>
+   <head>PIO LECTORI.</head>
+   <p>CVm nec ipse praesens adesse poteram, &amp; Typographus ad alia festinaret, cum nostra ista sub praelum mitterentur, vtrun{que} excuset apud te (amice lector) iusta defensio sua, illum aliarum rerum cura, me absentia mea. Ne tibi porro graue (quaeso) videatur, inter legendum singula, vbi erratum fuerit, cor<g ref="char:EOLhyphen"/>rigere, quod nos hic priores fecimus. Nam vtcun{que} nobis gratum est, quod ista legere sustinueris, geminatur <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>am bèneficium, si vt lectorem benevolum, ita cen<g ref="char:EOLhyphen"/>sorem facilem te praebeas. Iterum iam cum magistri mei verbis finem facio: videor mihi debitum huius operis reddidisse adiuvante Deo, quibus parum, vel<note place="margin">August. de civitat. Dei lib. 22. c. 30. Lodov. Viv. in eundem locum.</note> quibus nimium est, mihi ignoscant, quibus autem satis est, non mihi sed Domi<g ref="char:EOLhyphen"/>no meum gratias congratulantes agant. Addo doctissimi etiam viri epilogum ad suum librum. Si quid dixi, quod placeat, habeat lector Deo gratiam propter me, si quod non placeat ignoscat mihi propter Deum, &amp; malè dictis det veniam propter benè dicta, errores verò si benignè emendarit &amp; sustulerit, demerebitur &amp; me &amp; lectores.</p>
+</div>
+        </body>
+  </text>
+</TEI>

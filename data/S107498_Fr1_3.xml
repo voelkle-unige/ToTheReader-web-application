@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE CHRISTIAN READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107498_Fr1_3</idno>
+           <idno type="DLPS">A04198</idno>
+           <idno type="STC">14320</idno>
+           <idno type="ESTC">S107498</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE CHRISTIAN READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe and plaine, yet orthodoxall and methodicall exposition vpon S. Pauls second epistle written to the Thessalonians. By Timothie Iackson Master of Arts, of Christs Colledge in Cambridge, now preacher of Gods word at Wragbie in Yorke-shire</title>
+                 <author>Jackson, Timothy</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <distributor>Pavier, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>6, 123, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>TO THE CHRISTIAN <hi>READER.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader: I doe here offer to thy view, a briefe and plaine Explanation of S. <hi>Pauls</hi> second Epistle to the Thessa<g ref="char:EOLhyphen"/>lonians: In it thou shalt see, the Text logically vnfolded, the words (as I suppose) rightly expounded, genuine Doctrines raised, profitable Vses thereupon inferred, necessary Questions and calumniating Obiections answered. And, in a word, thou shalt see the pith and substance of the best Writers, (whether old, or new) that haue taken paines to shew the true sense of this Epistle. Not to speake of those slender poynis of Doctrine, which I (the least of all Gods Prophets) did by the assistance of Gods holy Spirit, collect. That which I intend, is the edifying of Sions Inhabitants, and the further building of them vp, in the most holy saith. As my intent is good, so let thy ac<g ref="char:EOLhyphen"/>ceptation be: bee not too rash in thy censure; but first read, and then iudge, and be sure charitably to interpret (as Christians ought) all things in the best sense.</p>
+   <pb facs="4"/>
+   <p> Farewell, Christian Reader, the Lord blesse thee with such a perfection of sauing grace, as is possible to be had vpon earth; and with absolute perfection of glorie in the world to come.</p>
+   <p>Farewell, rude and impolished Tractate, Gods bles<g ref="char:EOLhyphen"/>sing be thy companion, that so thy issue may be according to my intent, <hi>viz.</hi> the aduancement of Gods glorie, and sauing of many soules. Amen.</p>
+   <epigraph>
+      <q>
+         <l>Viue, vale. Si quid nouisti rectius istis,</l>
+         <l>Candidus imperti: si non, his vtere mecum.</l>
+      </q>
+   </epigraph>
+   <closer>
+      <dateline>
+         <hi>London,</hi>
+         <date>
+            <hi>May the 7. Anno Domini, 1621.</hi>
+         </date>
+      </dateline>
+      <signed>
+         <hi>Thine in the common Sauiour,</hi> Timothie Iackson, <hi>The Lords vnworthy Minister.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

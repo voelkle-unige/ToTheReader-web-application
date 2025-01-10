@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE TRANSLATOVRE vpon the figure following.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113605_Fr1_2</idno>
+           <idno type="DLPS">A03768</idno>
+           <idno type="STC">13888</idno>
+           <idno type="ESTC">S113605</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE TRANSLATOVRE vpon the figure following.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A most excellent treatise of the begynnyng of heresyes in oure tyme, compyled by the Reuerend Father in God Stanislaus Hosius Byshop of Wormes in Prussia. To the moste renomed Prynce Lorde Sigismund myghtie Kyng of Poole, greate Duke of Luten and Russia, Lorde and heyre of all Prussia, Masouia, Samogitia &amp;c. Translated out of Laten in to Englyshe by Richard Shacklock M. of Arte, and student of the ciuil lawes, and intituled by hym: The hatchet of heresies</title>
+                 <author>Hozjusz, Stanisław</author>
+                 <imprint>
+                    <publisher>Diest (Coppens van Diest), Aegidius (Gillis)</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>16, 95, 9 leaves, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>THE TRANSLATOVRE vpon the figure following.</head>
+   <lg>
+      <l>Sathan the sower of synfull doctrine</l>
+      <l>For pastyme of late dyd pepe oute of hell</l>
+      <l>Being wery of whipping Luther and Caluine</l>
+      <l>To see if his sedes dyd prosper here well:</l>
+      <l>And seing bigg trees which no man dyd fell,</l>
+      <l>To be sprong of his sedes, for ioy he dyd spryng,</l>
+      <l>That with sounde of his chaines all hell he made ryng.</l>
+   </lg>
+   <lg>
+      <l>But when with more hede aboute he dyd loke</l>
+      <l>Fixing his eye on Prussian grounde,</l>
+      <l>He sawe holy Hosius makyng this boke</l>
+      <l>Myndyng all Sathans craftes to confounde:</l>
+      <l>An hater of heretykes which falsely expounde</l>
+      <l>Gods worde: which boke so sone as he spyde,</l>
+      <l>An hachet, an hachet, oh me, he cryde.</l>
+   </lg>
+   <lg>
+      <l>An hachet I see in Hosius hand</l>
+      <l>Wich felleth my trees, which ells myght haue stand.</l>
+      <l>Then hauing so sayde, byting his lypp,</l>
+      <l>He ran agayne, Luther and Caluine to whypp.</l>
+   </lg>
+   <pb facs="2"/>
+   <p>
+      <figure>
+         <figDesc>depiction of Bishop Hosius chopping tree of heresy with Satan looking on</figDesc>
+         <figure>
+            <p>INSIGNE FALSITATIS</p>
+         </figure>
+         <figure>
+            <p>INSIGNE VERITATIS</p>
+         </figure>
+         <p>SATHAN</p>
+         <p>RAYLING</p>
+         <p>REBELLION</p>
+         <p>BLODSHED ATHE<g ref="char:EOLunhyphen"/>ISME LYES</p>
+         <p>HOSIVS</p>
+         <p>DE ORIGINE HERESIVM</p>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

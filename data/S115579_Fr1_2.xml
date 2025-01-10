@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Preface]</title>
+           <author>B., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115579_Fr1_2</idno>
+           <idno type="DLPS">A00481</idno>
+           <idno type="STC">10617</idno>
+           <idno type="ESTC">S115579</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Preface]</title>
+                 <author>B., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Certayne Godly exarcises [sic] meditacions and prayers : very necessary and profytable for all persons and for all times, set forthe by certayne godly lerned men, to be vsed dayly as you shalbe godly disposed, and shall feele nede thervnto. And also the letany dayly vsed in churches annexed to the ende hereof</title>
+                 <imprint>
+                    <publisher>Powell, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>128 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <p>¶ Vse often and hartye prayer to God, knowing that it is no lesse necessary for your soule therby to liue and contynue in godlines, then water is for the life of fishe, or dew is for the growth of grasse and herbes: but if you wyll haue youre praier accepted of god, se that you accept his worde. For accursed be they (sayth Sallomon) and their prayer, that wyll not heare the worde of god. If I behold with fauour any wyckednes (saith Da<g ref="char:EOLhyphen"/>uid) in my hart, god will not heare me, for he heareth no such synners as retai<g ref="char:EOLhyphen"/>nethe styll the purpose to continewe it sinne, as hee stoppethe not hys eares to heare the prayers of the pore penitents, but often before they pray he graunteth them their hartes desire.</p>
+   <closer>
+      <signed>I B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

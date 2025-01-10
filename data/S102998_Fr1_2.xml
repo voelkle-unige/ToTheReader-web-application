@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Author ad Librum</title>
+           <author>N., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102998_Fr1_2</idno>
+           <idno type="DLPS">A13613</idno>
+           <idno type="STC">23897</idno>
+           <idno type="ESTC">S102998</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Author ad Librum</title>
+                 <author>N., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The two first comedies of Terence called Andria, and the Eunuch newly Englished by Thomas Newman. Fitted for schollers priuate action in their schooles</title>
+                 <author>Terence</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 <publisher>Fenricus, M. [i.e. Master?]</publisher>
+                            <publisher>Miller, George</publisher>
+                        </imprint>
+                 <extent>16, 51, 50-59, pages 62, 65-110, that is 108, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>Author ad Librum</head>
+   <l>OLd wiues and fooles haue faith, the <hi>Cricquets</hi> song</l>
+   <l>In the warm'd chimney portends deathere long</l>
+   <l>My creede holds no such thing. If <hi>Cricquets</hi> sing,</l>
+   <l>I rather doubt the'oreheated brickes may bring</l>
+   <l>Some danger to my house when these I heare,</l>
+   <l>(If any thing) I onely fire do feare:</l>
+   <l>But many things (poore Booke) I iustly feare,</l>
+   <l>When <hi>Critiques</hi> descants on thy lines I heare.</l>
+   <div type="poem">
+      <head>Libri ad Authorem responsio.</head>
+      <l>Feare no true <hi>Critique;</hi> all that know you, know</l>
+      <l>What loue and honor to such men you owe:</l>
+      <l>And men of that high name, will neuer throw</l>
+      <l>Their censures on an argument so low.</l>
+      <l>These I not feare; but I do doubt them though,</l>
+      <l>Who would from fooles Censorious <hi>Critiques</hi> grow.</l>
+   </div>
+   <closer>
+      <signed>T. N</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

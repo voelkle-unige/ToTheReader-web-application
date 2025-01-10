@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Preface]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S874_Fr1_2</idno>
+           <idno type="DLPS">A00263</idno>
+           <idno type="STC">10356.5</idno>
+           <idno type="ESTC">S874</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Preface]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Articles to be enquired of by the church-wardens and sworne-men, within the diocesse of Winchester in the visitation of the Reuerend Father in God, Thomas Bishop of Winton, in his triennall visitation, holden 1603 : in the first yeere of the raigne of Our Most Gracious Soueraigne Lord, Iames by the grace of God King of England, Scotland, France, and Ireland, defender of the faith, &amp;c</title>
+                 <author>Church of England, Diocese of Winchester, Bishop (1597-1616 : Bilson)</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <p>THe Church-wardens and their
+assistants are straightly requi<g ref="char:EOLhyphen"/>red
+to read or heare all these
+Articles read ouer vnto them,
+and diligently to consider and enquire
+thereof, betweene the time of the deliuery
+hereof vnto them, and the making of their
+presentments.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Printer.</title>
+           <author>Makcouldy, Allan</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1625_Fr1_2</idno>
+           <idno type="DLPS">A06766</idno>
+           <idno type="STC">17206.5</idno>
+           <idno type="ESTC">S1625</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Printer.</title>
+                 <author>Makcouldy, Allan</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A true perpetuall prognostication for the yeare 1632, being leape yeare, and for all yeares to come : declaring what shall fall out in time comming, with a rule to teach every one the airt of memorie : everie yeare is like to bee leape yeare, if divers and bankerupts, may haue money on band or trust / by Allan Makcouldy</title>
+                 <author>Makcouldy, Allan</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace/>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>16 pages, illustrations</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_printer">
+   <pb facs="2"/>
+   
+   <head>To the Printer.</head>
+   <p>
+      <seg rend="decorInit">G</seg>OOD PRINTER, I haue taken oc<g ref="char:EOLhyphen"/>casion to set foorth the Treatise fol<g ref="char:EOLhyphen"/>lowing, vnder the title of a perpetual Prognostication; I haue offered the same to you to bee put to the Presse, and thereafter publish it to all such as will desire the same for money, if thy benefite bee great, it shall breed mee much contentment: Take paines that the faults therein bee corrected, and the same rightly printed: so shall you enable me to endeavour my selfe to put a more profitable worke in thine hands, I rest.</p>
+   <closer>
+      <signed>Allan Makcouldy.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

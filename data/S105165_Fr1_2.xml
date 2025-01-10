@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Chri¦stian Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105165_Fr1_2</idno>
+           <idno type="DLPS">A19662</idno>
+           <idno type="STC">6087</idno>
+           <idno type="ESTC">S105165</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Chri¦stian Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A new yeres gyfte : wherein is taught the knowledge of our selfe and the feare of God. Worthy to be geuen and thankefullye receyued of al Christen men. Imprynted at London bi Robert Crowley dwellinge in Elie rentes in Holburn. The yere of oure Lord. M.D.xlix. the laste daye of December. Autore eodem Roberto Croleo cum priuilegio ad imprimendum solum</title>
+                 <author>Crowley, Robert</author>
+                 <imprint>
+                    <publisher>Grafton, Richard</publisher>
+                    <distributor>Crowley, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1549</date>
+                 </imprint>
+                 <extent>16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <pb facs="2"/>
+   <head>¶ To the Chri<g ref="char:EOLunhyphen"/>stian Reader.</head>
+   <l>
+      <seg rend="decorInit">H</seg>Aue here (gentle reader) a thinge verie small</l>
+   <l>In vtter aparaunce (as thou maiest wel see)</l>
+   <l>And yet in effecte it conteineth all</l>
+   <l>That Christ in his Gospel requi<g ref="char:EOLhyphen"/>reth of the,</l>
+   <l>Wherfore as a miroure or glasse let it bee,</l>
+   <l>Wherin thou maist se thine owne Image plaine,</l>
+   <l>And haue therby cause thy luste to restraine.</l>
+</div>
+        </body>
+  </text>
+</TEI>

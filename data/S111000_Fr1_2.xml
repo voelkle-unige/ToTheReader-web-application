@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO ALL THE RIGHT HONOVRABLE, AND most generous Lords in England, especially those of his Maiesties Priuy Councell, and Councell of Warre.</title>
+           <author>Smith, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111000_Fr1_2</idno>
+           <idno type="DLPS">A12469</idno>
+           <idno type="STC">22794</idno>
+           <idno type="ESTC">S111000</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO ALL THE RIGHT HONOVRABLE, AND most generous Lords in England, especially those of his Maiesties Priuy Councell, and Councell of Warre.</title>
+                 <author>Smith, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sea grammar : vvith the plaine exposition of Smiths Accidence for young sea-men, enlarged. Diuided into fifteene chapters: what they are you may partly conceiue by the contents. Written by Captaine Iohn Smith, sometimes gouernour of Virginia, and admirall of Nevv-England</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>12, 72, 83-86 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO ALL THE RIGHT HONOVRABLE, AND most generous Lords in <hi>England,</hi> especially those of his Maiesties Priuy Councell, and Councell of Warre.</head>
+   <opener>
+      <salute>Great LORDS,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>Vlius Caesar</hi> wrote his owne Commentaries, holding it no lesse honour to write, than fight; much hath bin writ concerning the art of war by land, yet nothing concerning the same at Sea. Many others might better than my selfe haue done this, but since I found none endeuourd it, I haue aduentured, encouraged by the good ent<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>tainment of
+<pb facs="3"/>
+my late printed Accidence. This I suppose will be much bettered by men in these things better experienced, others ignorance may fault it: I haue beene a miserable Practitioner in this Schoole of Warre by Sea and Land more than thirty yeeres, howeuer chance or occasion haue kept me from your Lordships knowledge or imployment. Yet I humbly entreat your Lordships to accept and patro<g ref="char:EOLhyphen"/>nize this little Pamphlet, as the best testimony I can present your Honours, of my true duty to my King and Country. Thus humbly crauing your Honours pardons, and fauou<g ref="char:EOLhyphen"/>rable construction of my good intent, I re<g ref="char:EOLhyphen"/>maine</p>
+   <closer>
+      <signed>Your Honours in all duty to be commanded, <hi>IOHN SMITH.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

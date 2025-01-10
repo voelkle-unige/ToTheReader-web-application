@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>D'Avenant, William, Sir</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105037_Fr1_2</idno>
+           <idno type="DLPS">A05364</idno>
+           <idno type="STC">15517</idno>
+           <idno type="ESTC">S105037</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>D'Avenant, William, Sir</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A consultation what faith and religion is best to be imbraced. Written in Latin by the R. Father Leonard Lessius, Professour in Diuinity, of the Society of Iesus. And translated into English by W.I</title>
+                 <author>Lessius, Leonardus</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>16, 256 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <p>TO THE RIGHT HONORABLE THE LORD MAIOR, TO THE RIGHT WORSHIPFVLL THE ALDERMEN, AND TO THE RIGHT WORTHY CITTIZENS <hi>OF LONDON,</hi> The Translatour wisheth all Health and Happines, Temporall and Eternall.</p>
+</div>
+        </body>
+  </text>
+</TEI>

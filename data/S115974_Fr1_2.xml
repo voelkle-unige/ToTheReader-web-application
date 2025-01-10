@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ΣΥΝ ΘΕΩ.</title>
+           <author>Roberts, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115974_Fr1_2</idno>
+           <idno type="DLPS">A10801</idno>
+           <idno type="STC">21074</idno>
+           <idno type="ESTC">S115974</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ΣΥΝ ΘΕΩ.</title>
+                 <author>Roberts, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sacred septenarie, or The seuen last wordes of our Sauiour Christ vttered vpon the crosse, (with the necessary circumstances of the same:) : expounded by a commentary, gathered out of the holy Scriptures, the writings of the ancient fathers, and later diuines. By Alexander Roberts, Bachelour in Diuinity; and preacher of Gods word at Kings Linne, in Norfolke</title>
+                 <author>Roberts, Alexander</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <distributor>Man, Samuel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>16, 58, 2, 59-105, 3, 107-163, 3, 165-200, 2, 201-247, 1 page, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>ΣΥΝ ΘΕΩ.</head>
+   <p>ILLVSTRISSIMO ET HONORATISSIMOVIRO, EDOVARDO COKO, MILITI AVRA<g ref="char:EOLhyphen"/>TO, MVSARVM GRATIAR VMQVE ALVMNO, SACRAE THEMIDOS ET IVSTITIAE, HIEROPHANTAE, TO<g ref="char:EOLhyphen"/>TIVS ANGLIAE SVPREMO IVSTITI<g ref="char:EOLhyphen"/>ARIO, SACROSANCTAE REGIAE MA<g ref="char:EOLhyphen"/>IESTATI A SECRETIS INTIMISQVE CONSILIIS. OB FIDEM, INTEGRITA<g ref="char:EOLhyphen"/>TEMQVE, REBVS IN GRAVISSIMIS SPECTATAM, INTER PRIMOS MAX<g ref="char:EOLhyphen"/>IME ACCEPTO. QVA VIRTVTEM, QVA PRVDENTIAM, QVA PIETA<g ref="char:EOLhyphen"/>TEM, RERVMQVE OMNIVM PRAE<g ref="char:EOLhyphen"/>CLARISSIMARVM SCIENTIAM, LONGE PRAESTANTISSIMO, DOMINO<g ref="char:EOLhyphen"/>QVE SVO SVBMISSIME COLENDO, SA<g ref="char:EOLhyphen"/>CRVM HOC <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, DEVOTIS<g ref="char:EOLhyphen"/>SIMI OBSEQVII TESTIMONIVM, LVBENS MERITO, D. D. D.</p>
+   <closer>
+      <signed>ALEXANDER ROBERTS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

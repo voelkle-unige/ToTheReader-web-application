@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>B., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106377_Fr1_2</idno>
+           <idno type="DLPS">A12034</idno>
+           <idno type="STC">22344</idno>
+           <idno type="ESTC">S106377</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>B., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems: vvritten by Wil. Shake-speare. Gent</title>
+                 <author>Shakespeare, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Benson, John.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>192 pages, plates, portraits, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Here presume (under fa<g ref="char:EOLhyphen"/>vour) to present to your view, some excellent and sweetely composed Poems, of Master <hi>William Shakespeare,</hi> Which in themselves ap<g ref="char:EOLhyphen"/>peare of the same purity, the Authour him<g ref="char:EOLhyphen"/>selfe then living avouched; they had not the fortune by reason of their Infancie in his death, to have the due accomodatiō of propor<g ref="char:EOLhyphen"/>tionable glory, with the rest of his everliving Workes, yet the lines of themselves will afford you a more authentick approbation than my as<g ref="char:EOLhyphen"/>surance any way can, to invite your allowance,
+<pb facs="3"/>
+in your perusall you shall finde them <hi>Seren,</hi> cleere and eligantly plaine, such gentle straines as shall recreate and not perplexe your braine, no intricate or cloudy stuffe to puzzell intellect, but perfect eloquence; such as will raise your admiration to his praise: this assu<g ref="char:EOLhyphen"/>rance I know will not differ from your ac<g ref="char:EOLhyphen"/>knowledgement. And certaine I am, my opini<g ref="char:EOLhyphen"/>on will be seconded by the sufficiency of these ensuing Lines; I have beene somewhat soli<g ref="char:EOLhyphen"/>citus to bring this forth to the perfect view of all men; and in so doing, glad to be service<g ref="char:EOLhyphen"/>able for the continuance of glory to the deser<g ref="char:EOLhyphen"/>ved Author in these his Poems.</p>
+   <closer>
+      <signed>I. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

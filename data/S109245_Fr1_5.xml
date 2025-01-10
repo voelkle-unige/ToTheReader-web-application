@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109245_Fr1_5</idno>
+           <idno type="DLPS">A04785</idno>
+           <idno type="STC">14917</idno>
+           <idno type="ESTC">S109245</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A defensatiue against the plague : contayning two partes or treatises: the first, shewing the meanes how to preserue vs from the dangerous contagion thereof: the second, how to cure those that are infected therewith. Whereunto is annexed a short treatise of the small poxe shewing how to gouerne and helpe those that are infected therewith. Published for the loue and benefit of his countrie by Simon Kellwaye Gentleman</title>
+                 <author>Kellwaye, Simon</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>6, 48, 2 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="6"/>
+   <head>The Author to the Reader.</head>
+   <p>FOr that there are diuers Receats in this booke which are written in Latin, because in some of them many things which enter therein can not be brought into an apt english phrase, neither are they to be had, but only at the Apottycaries, and be<g ref="char:EOLhyphen"/>cause their quantities are written according to the Latin order, I haue heere set downe what the signi<g ref="char:EOLhyphen"/>fication of euery waight and measure doth meane.</p>
+   <list>
+      <label>A handfull is written thus</label>
+      <item>M.j.</item>
+      <label>Halfe a handfull thus</label>
+      <item>M.ss.</item>
+      <label>A little handfull thus</label>
+      <item>P.j.</item>
+      <label>A Scruple thus</label>
+      <item>℈.j.</item>
+      <label>A Dramme thus</label>
+      <item>ʒ.j.</item>
+      <label>An ounce thus</label>
+      <item>℥.j.</item>
+      <label>Halfe an ounce, or halfe a dramme thus</label>
+      <item>℥.ss.— ʒ.ss.</item>
+      <label>An ounce and halfe, thus</label>
+      <item>℥.j.ss.</item>
+      <label>A Grayne thus</label>
+      <item>G.j.</item>
+      <label>The number of any thing, thus</label>
+      <item>no. j. &amp;c.</item>
+      <label>A Pound, is thus</label>
+      <item>l.j.</item>
+      <label>So much as shall suffice, thus</label>
+      <item>q. 5.</item>
+      <label>(Ana) is</label>
+      <item>of either of them.</item>
+      <label>xx. Graynes </label>
+      <item>make a Scruple.</item>
+      <label>iij. Scruples, </label>
+      <item>make a Dramme.</item>
+      <label>viij. Drammes, </label>
+      <item>make an ounce.</item>
+      <label>xij. Ounces,</label>
+      <item> make a pound.</item>
+   </list>
+</div>
+        </body>
+  </text>
+</TEI>

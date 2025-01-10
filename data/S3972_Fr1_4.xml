@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Aduertisement.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3972_Fr1_4</idno>
+           <idno type="DLPS">A02889</idno>
+           <idno type="STC">13032</idno>
+           <idno type="ESTC">S3972</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Aduertisement.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A devout exposition of the holie masse : With an ample declaration of all the rites and ceremonies belonging to the same composed by Iohn Heigham the more to moue all godlie people, to the greater veneration of so sublime a sacrament</title>
+                 <author>Heigham, John</author>
+                 <imprint>
+                    <publisher>Patte, Gerard</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>24, 431, 1 page, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>An Aduertisement.</head>
+   <p>FOR as much as some verie godlie per<g ref="char:EOLhyphen"/>sons, addicted and enured to deuout medi<g ref="char:EOLhyphen"/>tation, doe take great delight, to dilate them selues, in meditating vpon the mysteries of the holie Masse, thou mayest (gentle Reader) make thy particular profit of this Treatise, by distributing (according to their example) the the mysteries of the Masse into seauen partes, according to the seauē dayes of the weeke, &amp; so euerie day at Masse, to meditate one part, vntill in this maner, with singular profit and deuotion, thou hast gone ouer and ended the whole. The parts wherof may be thus deui<g ref="char:EOLhyphen"/>ded. 1. Frō the Introibo, to the Introit. 2. Frō the Introit, to the Epistle. 3. From the Epistle, to the Offertorie. 4. From the Offertorie, to the Preface. 5. From the Preface to the Ca<g ref="char:EOLhyphen"/>non. 6. From the Canon, to thee Commu<g ref="char:EOLhyphen"/>nion. And 7 from the Communion, to the end of the Masse.</p>
+</div>
+        </body>
+  </text>
+</TEI>

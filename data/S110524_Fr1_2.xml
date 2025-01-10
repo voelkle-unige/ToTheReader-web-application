@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110524_Fr1_2</idno>
+           <idno type="DLPS">A10831</idno>
+           <idno type="STC">21105</idno>
+           <idno type="ESTC">S110524</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A handefull of pleasant delites : containing sudrie new sonets and delectable histories, in diuers kindes of meeter. Newly deuised to the newest tunes that are now in vse, to be sung: euerie sonet orderly pointed to his proper tune. With new additions of certain songs, to verie late deuised notes, not commonly knowen, nor vsed heretofore, by Clement Robinson, and diuers others</title>
+                 <author>Robinson, Clement</author>
+                 <imprint>
+                    <publisher>Jones (Jhones, Johnes), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="4"/>
+   <head>The Printer to the Reader.</head>
+   <lg>
+      <l>YOu that in Musicke do delight your minds for to solace:</l>
+      <l>This little booke of Sonets m<gap reason="illegible: in gutter" extent="2 letters">
+            <desc>••</desc>
+         </gap> wel like you in that case,</l>
+      <l>Peruse it wel ere you passe by, here may you wish and haue,</l>
+      <l>Such pleasaut songs to ech new tune, as lightly you can craue.</l>
+      <l>Or if fine Histories you would reade, you need not far to seek:</l>
+      <l>Within this booke such may you haue, as Ladies may wel like.</l>
+      <l>Here may you haue such pretie thinges, as women much desire:</l>
+      <l>Here may you haue of sundrie sorts, such Songs as you require.</l>
+      <l>Wherefore my friend, if you regard, such Songs to reade or heare:</l>
+      <l>Doubt not to buy this pretie Booke, the price is not so deare.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

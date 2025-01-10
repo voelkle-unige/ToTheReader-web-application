@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113478_Fr1_4</idno>
+           <idno type="DLPS">A08533</idno>
+           <idno type="STC">18852</idno>
+           <idno type="ESTC">S113478</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The picture of a Puritane: or, A relation of the opinions, qualities, and practises of the Anabaptists in Germanie, and of the Puritanes in England. VVherein is firmely prooued, that the Puritanes doe resemble the Anabaptists, in aboue fourescore seuerall thinges. By Oliuer Ormerod, of Emmanuel Colledge in Cambridge. Wherunto is annexed a short treatise, entituled, Puritano-papismus: or a discouerie of Puritan-papisme.</title>
+                 <author>Ormerod, Oliver</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Fosbrooke, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>[11], 76, 78-81, 32, [1] p. ;  4⁰</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>No match</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hen <hi>Bucephalus</hi> was painted, <hi>Apel<g ref="char:EOLhyphen"/>les</hi> asked the judgement of none but <hi>Zeuxis:</hi> now the Puritane is painted, I appeale onely to the lear<g ref="char:EOLhyphen"/>ned. As for the vnlearned, I say vn<g ref="char:EOLhyphen"/>to them, as <hi>Apelles</hi> said to the Shoemaker:</p>
+   <p>
+      <hi>Ne sutor vltra crepidam:</hi>
+   </p>
+   <lg>
+      <l>Iudge thou not of this pictures thigh,</l>
+      <l>Except thine Arte doe reach so high.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

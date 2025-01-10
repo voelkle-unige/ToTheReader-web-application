@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>I., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111228_Fr1_1</idno>
+           <idno type="DLPS">A11954</idno>
+           <idno type="STC">22273</idno>
+           <idno type="ESTC">S111228</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>I., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Mr. VVilliam Shakespeares comedies, histories, &amp; tragedies : Published according to the true originall copies</title>
+                 <author>Shakespeare, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Aspley, William.</publisher>
+                            <publisher>Blount (Blunt), Edward.</publisher>
+                            <publisher>Jaggard, Isaac.</publisher>
+                            <publisher>Jaggard, William.</publisher>
+                            <publisher>Smethwick (Smithick, Smythicke), John</publisher>
+                        </imprint>
+                 <extent>18, 303, 1, 46, 49-100, 2, 69-232, 2, 79-80, 26, 98, 2, 109-156, 257-993, that is 399, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <l>This Figure, that thou here seest put,</l>
+   <l>It was for gentle Shakespeare cut;</l>
+   <l>Wherein the Grauer had a strife</l>
+   <l>with Nature, to out-doo the life:</l>
+   <l>O, could he but haue drawne his wit</l>
+   <l>As well in brasse, as he hath hit</l>
+   <l>His face; the Print would then surpasse</l>
+   <l>All, that vvas euer vvrit in brasse.</l>
+   <l>But, since he cannot, Reader, looke</l>
+   <l>Not on his Picture, but his Booke.</l>
+   <closer>
+      <signed>B.I.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

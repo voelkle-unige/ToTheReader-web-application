@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Preparatorie prayer before you reade the life of Saincts.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114966_Fr1_12</idno>
+           <idno type="DLPS">A09859</idno>
+           <idno type="STC">20124</idno>
+           <idno type="ESTC">S114966</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Preparatorie prayer before you reade the life of Saincts.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The flowers of the liues of the most renowned saincts of the three kingdoms England Scotland, and Ireland : written and collected out of the best authours and manuscripts of our nation, and distributed according to their feasts in the calendar. By the R. Father, Hierome Porter priest and monke of the holy order of Sainct Benedict, of the congregation of England. The first tome</title>
+                 <author>Porter, Jerome</author>
+                 <imprint>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>36, 272, 277-611, that is 613, 7 pages, portraits (engravings), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="17"/>
+   <head>A Preparatorie prayer before you reade the life of Saincts.</head>
+   <p>MOST deare Sauiour of our soules, who hast en<g ref="char:EOLhyphen"/>dowed thy Saincts with soe manie and soe great gr<gap reason="illegible" extent="2 letters">
+         <desc>••</desc>
+      </gap>es and vertues, to serue vs sinners for a light and guide amidst the darknes of this false world, graunt vs grace that this holy reading of their liues may soe enflame our h<gap reason="illegible" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ts, that we may follow and imitate the traces of their gl<gap reason="illegible" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ous examples, that after this mortall life, we may be <gap reason="illegible" extent="3 letters">
+         <desc>•••</desc>
+      </gap>e worthie to enioy their most desired companie in hea<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" extent="3 letters">
+         <desc>•••</desc>
+      </gap> there togeather with them to prayse and glorifie thee <gap reason="illegible" extent="3 letters">
+         <desc>•••</desc>
+      </gap>uer.</p>
+   <closer>Amen.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

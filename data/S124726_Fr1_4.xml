@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124726_Fr1_4</idno>
+           <idno type="DLPS">A73721</idno>
+           <idno type="STC">4943</idno>
+           <idno type="ESTC">S124726</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Jocabella, or a cabinet of conceits. Whereunto are added epigrams and other poems, by R. C</title>
+                 <author>Chamberlain, Robert</author>
+                 <imprint>
+                    <publisher>Hodgkinson, Richard</publisher>
+                    <distributor>Frere (Fryer), Daniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>196 pages, + plates, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, I here present thee with the producements of some vaporing houres purpose<g ref="char:EOLhyphen"/>ly intended to promote harmlesses mirth. I wish thee as merry in the reading, as I and some
+<pb facs="6"/> other of my friends were in speaking of them: doe but laugh at them, and I am satisfied, for to that (and no other purpose) they were intended.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

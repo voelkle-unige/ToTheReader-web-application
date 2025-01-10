@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., F.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110765_Fr1_3</idno>
+           <idno type="DLPS">A11270</idno>
+           <idno type="STC">21536</idno>
+           <idno type="ESTC">S110765</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., F.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Flora's fortune : The second part and finishing of the Fisher-mans tale. Containing, the strange accidentes which chaunced to Flora, and her supposed father Thirsis: also the happie meeting with her desired Cassander. By F.S</title>
+                 <author>Sabie, Francis</author>
+                 <imprint>
+                    <publisher>Jones (Jhones, Johnes), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">T</seg>O</hi> expell (scorn-hating Reader) the accustomed tedi<g ref="char:EOLhyphen"/>ousnes of colde winters nightes, and partlie to beguile slouth-causing sleepe, which otherwise would haue clai<g ref="char:EOLhyphen"/>med some interest in an vnbusied braine, I tooke pen in hand, and presuming somwhat of mine owne skill, wrote the Lat<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap> published Poeme of the <hi>Fisher-mans Tale,</hi> which of necessitie I was then abruptly constrained to breake off, both in that <hi>Cassan<g ref="char:EOLhyphen"/>der</hi> who told the tale, could neither declare what had then chanced to <hi>Flora</hi> his Loue, nor I what would chaunce vnto him. Since which time, variable accidentes haue hapned to either of them, which newes-bearing Report hath brought vnto mino-eares, and which also thy late acceptance of the former hath encouraged me to pro<g ref="char:EOLhyphen"/>mulgate. Whereat if squint-eied <hi>Zoylus,</hi> or splay-footed <hi>Momus</hi> shall carpe, or find fault, let them not, like angrie dogs, al to be slauer with their iawes the stone cast at them, I meane, teare in sunder my faultlesse Papers, but rather haue accesse vnto me their Authour, who will straitwayes fetch foorth an olde rust-eaten Halberd, which saw no Sun these seuen yeares, wherewith I wil either massacre their deformed limmes, or (if they speake mee faire) garde them safely to <hi>Cold-harbour colledge,</hi> where they may haue one whole mo<g ref="char:EOLhyphen"/>nethes leysure, to studie their backbiting arte. But curteous Gen<g ref="char:EOLhyphen"/>tlemen will curteously iudge of other mens trauels, and my hope is gentle Reader, as thou hast friendlie read and liked the beginning, so thou wilt also as friendly accept and iudge of the ending.</p>
+   <closer>
+      <signed>Thine euer in curtesie. F. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

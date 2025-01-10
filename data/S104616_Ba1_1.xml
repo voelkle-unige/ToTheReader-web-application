@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104616_Ba1_1</idno>
+           <idno type="DLPS">A13481</idno>
+           <idno type="STC">23780</idno>
+           <idno type="ESTC">S104616</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Odcombs complaint: or Coriats funerall epicedium : or death-song, vpon his late reported drowning. With his epitaph in the Barmuda, and Utopian tongues. And translated into English by Iohn Taylor</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Burre, Walter</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>26 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Errata.</head>
+   <p>REader, you must imagine these sixe confused Sonnets, <hi>of Rime without Reason,</hi> are con<g ref="char:EOLhyphen"/>fusedly put together; but I would entreate you <gap reason="illegible: missing" extent="1 letter">
+         <desc>•</desc>
+      </gap>or your better vnderstanding, to diuide them into <gap reason="illegible: missing" extent="1 letter">
+         <desc>•</desc>
+      </gap>4. lines a peece in your reading.</p>
+   <trailer>FINIS.</trailer>
+   <pb facs="14"/>
+</div>
+        </body>
+  </text>
+</TEI>

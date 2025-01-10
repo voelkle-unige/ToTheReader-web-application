@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>D., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105251_Fr1_3</idno>
+           <idno type="DLPS">A20060</idno>
+           <idno type="STC">6500</idno>
+           <idno type="ESTC">S105251</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>D., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The guls horne-booke : by T. Deckar</title>
+                 <author>Dekker, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Sergier, Richard 1</publisher>
+                        </imprint>
+                 <extent>8, 39, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, I could willingly be con<g ref="char:EOLhyphen"/>tent that thou shouldest neither be at cost to buy this booke, nor at the labour to reade it. It is not my ambition to bee a man in Print, thus euery Tearme; <hi>Ad praelum, tanquàm ad praelium</hi>; Wee should come to the Presse as we come to the Field <hi>(seldome.)</hi> This Tree of <hi>Guls</hi> was planted long since, but not taking roote, could neuer beare till now. It hath a relish of <hi>Grobianisme,</hi> and tastes very strongly of it in the beginning. The reason thereof is, that hauing transla<g ref="char:EOLhyphen"/>ted many Bookes of that into English Verse, and not greatly li<g ref="char:EOLhyphen"/>king the Subiect, I altred the Shape, and of a Dutchman, fashio<g ref="char:EOLhyphen"/>ned a meere Englishman, it is a Table wherein are drawne sun<g ref="char:EOLhyphen"/>dry Pictures: the callors are fresh: if they bee well laid on, I thinke my workmanship well bestowed: if ill, so much the bet<g ref="char:EOLhyphen"/>ter, because I draw the pictures onely of <hi>Guls.</hi>
+   </p>
+   <closer>
+      <signed>T. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

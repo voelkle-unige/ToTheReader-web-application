@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De Fonte Petraeo, ejusque reclusore, ANDREA MORO.</title>
+           <author>A., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S918_Fr1_5</idno>
+           <idno type="DLPS">A07920</idno>
+           <idno type="STC">18290</idno>
+           <idno type="ESTC">S918</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De Fonte Petraeo, ejusque reclusore, ANDREA MORO.</title>
+                 <author>A., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Pidax Petreia, or, The discoverie of S. Peters well, at Peter-head, in Scotland : being in latitude 57.d.43.m. and in longitude 22.d.40.m. Shewing the admirable vertues thereof, against many deplorable diseases. By A.M. student in Medicine</title>
+                 <author>Mure, Andrew, m.d</author>
+                 <imprint>
+                    <publisher>Hart, Andro, Heirs of</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1636</date>
+                 </imprint>
+                 <extent>40 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="5"/>
+   <head>De Fonte <hi>Petraeo,</hi> ejusque reclusore, ANDREA MORO.</head>
+   <l>Cùm gelidus, fons est nitidis argenteus undis,</l>
+   <l>Vulcanum admoveas, aurea lympha siet.</l>
+   <l>Est auro argento{que} simul praestantior omni,</l>
+   <l>Quâ reparent vires languida membra suas.</l>
+   <l>Ergo, aegri, vivis libate è fontibus undas,</l>
+   <l>Et manibus puris sumite, sultis, aquas</l>
+   <l>Atque Deo coeli grates persolvite dignas,</l>
+   <l>Qui facit ut tantas petra refundat opes.</l>
+   <l>Et <hi>Mori</hi> ingenium voto laudate benigno,</l>
+   <l>Qui facit ut tantas penna recludat opes.</l>
+   <closer>
+      <signed>I. A.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

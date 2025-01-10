@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Spencer, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120043_Fr1_3</idno>
+           <idno type="DLPS">A15393</idno>
+           <idno type="STC">25670</idno>
+           <idno type="ESTC">S120043</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Spencer, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Eliah's vvish : a prayer for death. A sermon preached at the funerall of the Right Honourable Viscount Sudbury, Lord Bayning. By Ro: Willan D.D. Chaplaine to his Maiesty</title>
+                 <author>Willan, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Royston (Reston, Reyston, Roystore), Richard.</publisher>
+                            <publisher>Spencer, John</publisher>
+                        </imprint>
+                 <extent>8, 44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Auing by much importune la<g ref="char:EOLhyphen"/>bour receiued from Noble hands, a Coppy of this Sermon; out of a confidence that one pas<g ref="char:EOLhyphen"/>sage therein, celebrating our first Benefactor <hi>Viscount Sudbury,</hi> may doe good to the Library of <hi>Syon Colledge,</hi> whereof I am a Keeper, I haue ad<g ref="char:EOLhyphen"/>uentured without consent of the Author to put it vp<g ref="char:EOLhyphen"/>on thy censure, not doubting if I can procure his pardon, to promerit thy thankes, and so Farewell:</p>
+   <closer>
+      <dateline>From <hi>Syon Colledge</hi>
+         <date>Aprill <hi>12. 1630.</hi>
+         </date>
+      </dateline>
+      <signed>Thine
+Iohn Spencer.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

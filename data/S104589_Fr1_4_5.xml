@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Magirus, A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104589_Fr1_4_5</idno>
+           <idno type="DLPS">A15992</idno>
+           <idno type="STC">2774</idno>
+           <idno type="ESTC">S104589</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Magirus, A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Song of Songs, which was Salomons : metaphrased in English heroiks by way of dialogue. With certayne of the brides ornaments, viz. poeticall essayes vpon a diuine subiect. Whereunto is added a funerall elegie, consecrate to the memorie of that euer honoured Lord, Iohn late Bishop of London. By R.A</title>
+                 <author>Aylett, Robert</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>12, 204, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <lg>
+      <l>YOu carelesse Church-men, that your time mis-spend</l>
+      <l>In idlenesse, or worldly cogitation,</l>
+      <l>Learne of the Learned in the Lawes, to spend</l>
+      <l>Your idle time in holy Meditation.</l>
+   </lg>
+   <lg>
+      <l>Denout Ciuilians of our English Nation,</l>
+      <l>Besides their true discharge of publique place,</l>
+      <l>Giue faire example, worthy imitation,</l>
+      <l>By learned Pen, to season soules with grace.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Hayward,</hi> in Prose; our Authour here in Verse,</l>
+      <l>Both Doctors of another facultie,</l>
+      <l>Doe sacred heau'nly Mysteries reherse,</l>
+      <l>As if they did professe Diuinitie.</l>
+   </lg>
+   <lg>
+      <l>Goe on (braue Spirits) while your deuouter Lines</l>
+      <l>Shame them that falsly call themselues Diuines.</l>
+      <signed>A. Magirus.</signed>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

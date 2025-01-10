@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the READER.</title>
+           <author>Goffe, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103197_Fr1_3</idno>
+           <idno type="DLPS">A01837</idno>
+           <idno type="STC">11978</idno>
+           <idno type="ESTC">S103197</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the READER.</title>
+                 <author>Goffe, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Deliuerance from the graue : A sermon preached at Saint Maries Spittle in London, on Wednesday in Easter weeke last, March 28. 1627. By Tho. Goffe, Batchelor of Diuinitie, lately student of Christ-Church in Oxford</title>
+                 <author>Goffe, Thomas</author>
+                 <imprint>
+                    <publisher>Purslowe, George</publisher>
+                    <distributor>Mab (Mabbe), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>4, 42 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, if the conceit of mine owne labours, or the requests of some friends (whose entreaties in other things shall euer be commands to me) could haue made me ambitious of the Presse, I might haue troubled it heeretofore: But I am now forc't to that which I neuer affected, to put my selfe vp<g ref="char:EOLhyphen"/>on the iudgement of diuers Readers, whether this Ser<g ref="char:EOLhyphen"/>mon deseru'd the Censure of that one Rehearser. For my language, who-euer esteemes my stile too high, (for that was intimated) shall finde my heart low in any Ser<g ref="char:EOLhyphen"/>uice I can doe to GOD: And yet who-euer shall truly weigh my words, shall finde them for the most part squa<g ref="char:EOLhyphen"/>red by the comely Phrase of the Scripture, which I euer esteeme the <hi>Well-spring</hi> of <hi>Diuinity:</hi> and in that, though there be still the same Spirit, yet <hi>Esay</hi> &amp; <hi>Amos</hi> doe not prophesie in the same words: and for my part, I shall neuer wish to change one particle of that poore dis<g ref="char:EOLhyphen"/>course, which God hath lent me to honour him withall, vnlesse I were guilty of affecting rather mine owne praise than Gods glory; and that well deseru'd a sharpe repre<g ref="char:EOLhyphen"/>hension. I doe with all humilitie thanke the bestower of all gifts, who enabled mee to conceiue these vnworthy Meditations, who strengthen'd me to vtter them, and for whose sake I had an honourable, learned, and religi<g ref="char:EOLhyphen"/>ous
+<pb facs="4"/>
+      <gap reason="illegible: bleedthrough" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> whose deuout Attention did much en<g ref="char:EOLhyphen"/>courage <gap reason="illegible: bleedthrough" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> in that holy Taske. To such Readers as they <gap reason="illegible: bleedthrough" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> I appeale, from the Rehearsers <gap reason="illegible: bleedthrough" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> Repe<g ref="char:EOLhyphen"/>tition; for which, how easily could I whet my Pen, and giue the reines to an vnbridled but iust passion? But <hi>non sic didici Christum,</hi> Christ teacheth me otherwise: and I will not smite an Hebrew; but leaue that to bee read, which he could not speake: hoping that thou (good Reader) wilt rather finde heere something that may profit thee, then <hi>hunt</hi> after a prey for vndeseru'd malice to worke vpon. So I commit my Sermon to thy reading, and thy selfe to the Almightie.</p>
+   <closer>
+      <dateline>
+         <hi>From my Studie in</hi> East-Clandon <hi>in</hi> Surrey,
+<date>April. <hi>17. 1627.</hi>
+         </date>
+      </dateline>
+      <signed>Thine in Christ Iesus THO. GOFFE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

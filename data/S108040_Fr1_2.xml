@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Introduction]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108040_Fr1_2</idno>
+           <idno type="DLPS">A04776</idno>
+           <idno type="STC">14905</idno>
+           <idno type="ESTC">S108040</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Introduction]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A returne from Argier : A sermon preached at Minhead in the county of Somerset the 16. of March, 1627. at the re-admission of a relapsed Christian into our Church. By Edward Kellet Doctor of Diuinity</title>
+                 <author>Kellett, Edward</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 <publisher>Harper, Thomas.</publisher>
+                            <publisher>Parker, John.</publisher>
+                            <publisher>Thrale, Richard</publisher>
+                        </imprint>
+                 <extent>4, 78, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="introduction">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">A</seg> Countryman of ours goinge from the Port of <hi>Mynhead</hi> in <hi>Sommerset<g ref="char:EOLhyphen"/>shire,</hi> bound for the streights, was taken by <hi>Turkish Pyrats,</hi> and made a slaue at <hi>Argier,</hi> and liuing there in slauerie, by frailty and weakenesse, for sooke the Christian Religion, and turned <hi>Turke,</hi> and liued so some yeares; and in that time seruing in a <hi>Turkish Ship,</hi> which was taken by an <hi>Englishman</hi> of warre, was brought backe againe to <hi>Mynhead,</hi> where being made to vnderstand the grieuousnesse of his Apostacy, was very penitent for the same, &amp; desired to be reconciled to the Church, vnto which he was admitted by the authority of the Lord Bishop of that Dioces, with aduise of some great and learned Prelates of this Kingdome, and was enioy<g ref="char:EOLhyphen"/>ned pennance for his Apostacy: and at his admis<g ref="char:EOLhyphen"/>sion, and performance thereof, these two Sermons were Preached, the third Sunday in Lent. <hi>Anno 1627.</hi> one in the Forenoone, the other in the after<g ref="char:EOLhyphen"/>noone.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>B., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114909_Fr1_1</idno>
+           <idno type="DLPS">A01822</idno>
+           <idno type="STC">1196</idno>
+           <idno type="ESTC">S114909</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>B., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Two treatises concerning the preseruation of eie-sight. The first written by Doctor Baily sometimes of Oxford: the other collected out of those two famous phisicions Fernelius and Riolanus</title>
+                 <author>Baley, Walter</author>
+                 <imprint>
+                    <distributor>Barnes, John</distributor>
+                    <pubPlace>Great Britain--England--London ; Great Britain--England--Oxford</pubPlace>
+                    <date>1616</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Barnes, Joseph.</publisher>
+                            <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Jackson, Roger</publisher>
+                        </imprint>
+                 <extent>6, 62, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>T is not vn<g ref="char:EOLhyphen"/>knowne to the world, with what generall ap<g ref="char:EOLhyphen"/>plause a cer<g ref="char:EOLhyphen"/>taine Trea<g ref="char:EOLhyphen"/>tise, concerning the preseruation
+<pb facs="2"/>
+of Eie-sight, written by Do<g ref="char:EOLhyphen"/>ctor <hi>Baylie,</hi> sometimes of Ox<g ref="char:EOLhyphen"/>ford, hach beene accepted; which by the happie experience of ma<g ref="char:EOLhyphen"/>ny, in the doubtfull cures of that kind, stands throughly confir<g ref="char:EOLhyphen"/>med. Being therefore vnwil<g ref="char:EOLhyphen"/>ling that a gemme of such worth should lie any longer hidden vn<g ref="char:EOLhyphen"/>der the soile of Obliuion; and withall desirous to giue a more lustre vnto it, aswell for the ornament of it selfe, as for the good of the merchant: I haue now at length resolued to set it forth in the world, to the pub<g ref="char:EOLhyphen"/>lique view and censure of the Time, newly and artificially po<g ref="char:EOLhyphen"/>lished
+<pb facs="2"/>
+with most notable Collecti<g ref="char:EOLhyphen"/>ons, out of those renowned Do<g ref="char:EOLhyphen"/>ctors, <hi>Fernelius,</hi> and <hi>Riolanus,</hi> written on the same Subiect. Peruse the booke, and make vse of it. If thou findest benefit by it, thanke God first, that hath made his goodnesse manifest to the world by his singular gifts be<g ref="char:EOLhyphen"/>stowed on these most excellent men; next to the Authors them<g ref="char:EOLhyphen"/>selues, for their great paines and studie taken for thy profit; and lastly to mee, for my good<g ref="char:EOLhyphen"/>will and costes in the publishing of it. Farewell.</p>
+   <closer>
+      <signed>I. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

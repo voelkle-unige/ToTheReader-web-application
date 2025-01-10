@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Holbrooke, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119074_Fr1_3</idno>
+           <idno type="DLPS">A03444</idno>
+           <idno type="STC">13565</idno>
+           <idno type="ESTC">S119074</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Holbrooke, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at Saint Buttolphs neare Aldersgate, the 26. of Februarie, 1609. By William Holbrooke. Entitled No gaine to this</title>
+                 <author>Holbrooke, William</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Burby, Elizabeth</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>6, 48 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Dare not (gentle Rea<g ref="char:EOLhyphen"/>der) say the Booke will performe what the title promiseth, I, (as one de<g ref="char:EOLhyphen"/>siring thy good, and wil<g ref="char:EOLhyphen"/>ling to bring some thing, thoug it be but morter, towards the building of Gods house) haue at the earnest and importu<g ref="char:EOLhyphen"/>nate request of some, published this worke, which I pray thee fauourablie to receiue, and diligently to reade, be not readie to find fault, but do better, and then thou mayest well find fault, else thou proclaimest either thy enuie or ig<g ref="char:EOLhyphen"/>norance, if thou reape any good by the same, make thy best vse of it, giue God the thanks, and let me haue the helpe of thy prayers. <hi>Farewell.</hi>
+   </p>
+   <closer>
+      <signed>Thine in the Lord. W. HOLBROOKE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

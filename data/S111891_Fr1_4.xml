@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE TRANSLATOVR TO THE ENGLISH READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111891_Fr1_4</idno>
+           <idno type="DLPS">A06736</idno>
+           <idno type="STC">17181</idno>
+           <idno type="ESTC">S111891</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE TRANSLATOVR TO THE ENGLISH READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Fuga sæculi. Or The holy hatred of the world : Conteyning the liues of 17. holy confessours of Christ, selected out of sundry authors. Written in Italian by the R. Fa. Iohn-Peter Maffæus of the Society of Iesus. And translated into English by H.H</title>
+                 <author>Maffei, Giovanni Pietro</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>18, 352, 169-383, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="5"/>
+   <head>THE TRANSLATOVR TO THE <hi>ENGLISH READER.</hi>
+   </head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">C</seg>OVRTEOVS READER,</salute>
+   </opener>
+   <p>Behold I put <hi>Maffaeus</hi> into your Hands, no lesse <hi>Serious,</hi> then <hi>De<g ref="char:EOLhyphen"/>lightfull, Pious</hi> then <hi>Elegant, Simple</hi> then <hi>Admirable;</hi> whose <hi>Pleasure</hi> yet takes not away the <hi>Grauity,</hi> whose <hi>Quaintnesse</hi> the <hi>Piety,</hi> nor <hi>In<g ref="char:EOLhyphen"/>dustry</hi> the <hi>Simplicity;</hi> as being <hi>Graue</hi> without <hi>Seue<g ref="char:EOLhyphen"/>rity, Fluent</hi> without <hi>Superfluity, Terse</hi> without <hi>Affectation,</hi> and full of the <hi>Ornament</hi> he shuns.</p>
+   <p>And I present him to YOV, thus clad, and
+<pb facs="6"/>
+reuested in our English <hi>VVee<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>es,</hi> that he might now walke as familiar amongst VS, as in his na<g ref="char:EOLhyphen"/>tiue Vulgar he hath done: As properly <hi>Ours,</hi> as <hi>Theirs</hi> from whence he came. Since, besides that Examples and Liues of SAINTS are vniuersall, and cōmon to the whole Church, some of these are found to be of our <hi>Nation.</hi>
+   </p>
+   <p>Wherein I suppose, that such as are acquain<g ref="char:EOLhyphen"/>ted with the <hi>Genius</hi> of his neater stile, will rather challenge me for attempting it at all; then won<g ref="char:EOLhyphen"/>der I should fall so short, if they but consider how hard it is, to frame a perfect <hi>Copy,</hi> of so rare and genuine a <hi>Prototype.</hi>
+   </p>
+   <p>Yet take it, <hi>Gentle Reader,</hi> as it is, from him, who holds it a lesse ill the while to blush therat, then the glory of such <hi>SAINTS</hi> should be vn<g ref="char:EOLhyphen"/>knowne amongst VS.</p>
+</div>
+        </body>
+  </text>
+</TEI>

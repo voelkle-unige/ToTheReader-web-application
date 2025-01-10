@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119305_Fr1_2</idno>
+           <idno type="DLPS">A16898</idno>
+           <idno type="STC">3792</idno>
+           <idno type="ESTC">S119305</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A letter apologeticall of George Brisse Lord of Desgrutieres : wherein are set downe the reasons that moued him to turne to the reformed. Written to Monsieur Touraine, Aduocate in the Court of Parliament of Bretany. A worke very profitable for those to reade that desire t know the grounds of their religion. Translated out of French</title>
+                 <author>Brisset, Georges</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Lee (Lea, Leigh), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 17, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>The Epistle to the</hi> READER.</head>
+   <p>
+      <seg rend="decorInit">A</seg>S to serue GOD is the part of a Christian, so how to serue him aright is the part of a wise Christian to learne. I am de<g ref="char:EOLhyphen"/>ceiued if this Booke doe not teach that; and therefore cannot receiue too much applause. This superstitious age is lin<g ref="char:EOLhyphen"/>ked in Mariage to heresie, who haue begot many impious Infants, I meane bookes both ridicu<g ref="char:EOLhyphen"/>lous and blasphemous written by Sectaries, but especially by the Romish writers. The most grosse errors of whom this Treatise vnfolds. Thanke the Author for the Worke, Mee for the translation, and GOD for both. Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

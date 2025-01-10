@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the most honorable, learned, and religious Gent. M. Anthony Bacone.</title>
+           <author>Sylvester, Josuah</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110823_Fr7_2</idno>
+           <idno type="DLPS">A11395</idno>
+           <idno type="STC">21651</idno>
+           <idno type="ESTC">S110823</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the most honorable, learned, and religious Gent. M. Anthony Bacone.</title>
+                 <author>Sylvester, Josuah</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Du Bartas his deuine weekes and workes translated: and dedicated to the Kings most excellent Maiestie by Iosuah Syluester</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 <publisher>Johnson (Jonson), Arthur.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>32, 697, 6, 698-819, 47, 87, 9 pages, 1 leaf of plates, illustrations, portraits (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="396"/>
+   <pb n="737" facs="396"/>
+   <head>To the most honorable, learned, and religious Gent. M. <hi>Anthony Bacone.</hi>
+   </head>
+   <lg>
+      <l>BOund by your Bounty and mine owne desire,</l>
+      <l>To tender still new tribute of my zeale</l>
+      <l>To you (your Countries watchfull Sentinel,</l>
+      <l>Whose Wisedome, ours and other States admire)</l>
+      <l>Lo, heer I tune vponmine humble Lyre</l>
+      <l>Our neighbour Kingdomes vn-expected weale,</l>
+      <l>Through suddain ceasing of <hi>Warres</hi> enter-deale;</l>
+      <l>As <hi>Celtike</hi> Muses to my Muse inspire.</l>
+      <l>Miraculous the Work; and so his wit</l>
+      <l>That firstly sung this sacred <hi>MIRACLE:</hi>
+      </l>
+      <l>A gracious Theame (If I dis-grace not it)</l>
+      <l>That your graue eyes my daigne for spectacle.</l>
+      <l>What e'r it be, accept it as a due</l>
+      <l>From him whose all doth all belong to You.</l>
+   </lg>
+   <closer>
+      <signed>Iosuah Syluester.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

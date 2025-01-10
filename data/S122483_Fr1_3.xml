@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>S., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122483_Fr1_3</idno>
+           <idno type="DLPS">A13120</idno>
+           <idno type="STC">23412</idno>
+           <idno type="ESTC">S122483</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>S., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The gaines of seeking God : In two sermons, preached in the parish church of VVestminster: by Christopher Styles</title>
+                 <author>Styles, Christopher</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>6, 45, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, if with a god<g ref="char:EOLhyphen"/>ly mind thou seekest onely to profit and comfort thy soule, and not by vaine and idle cauils <hi>(Nodum in scirpo quaerere)</hi> to find a fault not offered: I wish this Booke may be to thee as <hi>Rachel</hi> and <hi>Leach</hi> were to <hi>Iacob,</hi> fruitfull, and delightfull: and this I certifie to thee. I did not rashly, but verie timorously, vndertake this burthen to content my friends, and could not be so much encouraged by many, as I was discouraged in my selfe: At last resolued, because the Method of my Teaching herein is only be way of exhortation, Paraphra<g ref="char:EOLhyphen"/>stically expounding euery word of my Text (which is not the most vnprofitable way whereby the hea<g ref="char:EOLhyphen"/>rer may be edified) therefore I thought it might be acceptable, and this made me the bolder to satis<g ref="char:EOLhyphen"/>fie my Friends desires, and publikely to make my selfe acquainted with your Christian Carriages: Well-minded people will not deny my common Courtesie (that is) to iudge of my labors as if they were their owne: and this is all I aske.</p>
+   <closer>
+      <signed>C.S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

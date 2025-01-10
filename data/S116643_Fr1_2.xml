@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the KING.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116643_Fr1_2</idno>
+           <idno type="DLPS">A02982</idno>
+           <idno type="STC">13125</idno>
+           <idno type="ESTC">S116643</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the KING.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Abridgement of the life of Henry the Great, the fourth of that name: King of France and Navarre. Translated out of French</title>
+                 <author>Vignolle</author>
+                 <imprint>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 <publisher>Bourne, Nicholas.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>4, 20, 2, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the KING.</head>
+   <opener>
+      <salute>SIR,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">I</seg>
+      </hi> Have found an old Manuscript, which being in mine opinion both judicious and true, I made bold to print and present to your Ma<seg rend="sup">tie</seg>: which if with a quarter of an hours time onely you honor, in very few words you shall see the glorious life of the King your Father. This life Sir can be imitated by none but your Ma<seg rend="sup">tie</seg>, and can be offered you by no more faithfull witnes of it then my selfe, who not dying under the Fathers commands, have no greater ambition then to end my life in the Sons service, and deserve by well serving to be regar<g ref="char:EOLhyphen"/>ded by your Ma<seg rend="sup">tie</seg>
+   </p>
+   <closer>
+      <salute>Sir,</salute>
+      <signed>as <hi>Your most humble, most obedient, and most faithfull subject and servant, VIGNOLLE.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

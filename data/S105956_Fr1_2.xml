@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Davenport, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105956_Fr1_2</idno>
+           <idno type="DLPS">A09950</idno>
+           <idno type="STC">20208</idno>
+           <idno type="ESTC">S105956</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Davenport, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The breast-plate of faith and love : A treatise, wherein the ground and exercise of faith and love, as they are set upon Christ their object, and as they are expressed in good workes, is explained. Delivered in 18. sermons upon three severall texts, by the late faithfull and worthy minister of Iesus Christ, Iohn Preston, Dr. in Divinity, chaplaine in ordinary to his Maiesty, Master of Emmanuel Colledge in Cambridge, and sometimes preacher of Lincolnes Inne</title>
+                 <author>Preston, John</author>
+                 <imprint>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Dawlman (Dolman), Robert.</publisher>
+                            <publisher>Jones, William 3.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>12, 138, 2, 219, that is 216, 216, 20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>ILLVSTRISSIMO, NOBILISSIMOQVE VIRO, ROBERTO COMITI WARVVICENCI, IOHANNIS PRESTONI S. T. D. ET COLLEGII IMMANVELIS Q. MAGISTRI (CVIVS TVTELAE, DVM IN VIVIS ESSET, PRIMOGENITVM SVVM, IN DISCIPLINAM, ET LITERIS EXPOLIENDVM, TRADIDIT) POSTHVMORVM TRACTATVVM PARTEM, DE NATVRA FIDEI, EIVSQVE EFFICACIA, DEQVE AMORE, ET OPERIBVS BONIS, DEVOTISSIMI, TAM AVTHORIS, DVM VIVERET, QVAM IPSORVM QVI SVPERSVNT, OBSEQVII TESTIMONIVM M. D. D. D.</p>
+   <closer>
+      <signed>
+         <list>
+            <item>RICHARDVS SIBS.</item>
+            <item>IOHANNES DAVENPORT.</item>
+         </list>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable the moste noble and mightie Lord Phylip Herbert Earle of Mountgomerie and baron of Shirland.</title>
+           <author>Markham, Gervase</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120787_Fr6_2</idno>
+           <idno type="DLPS">A06903</idno>
+           <idno type="STC">17334</idno>
+           <idno type="ESTC">S120787</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable the moste noble and mightie Lord Phylip Herbert Earle of Mountgomerie and baron of Shirland.</title>
+                 <author>Markham, Gervase</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Cauelarice, or The English horseman : contayning all the arte of horse-manship, as much as is necessary for any man to vnderstand, whether he be horse-breeder, horse-ryder, horse-hunter, horse-runner, horse-ambler, horse-farrier, horse-keeper, coachman, smith, or sadler. Together, with the discouery of the subtill trade or mistery of horse-coursers, &amp; an explanatio [n] of the excellency of a horses vndersta [n] ding, or how to teach them to doe trickes like Bankes his curtall: and that horses may be made to drawe drie-foot like a hound. Secrets before vnpublished, &amp; now carefully set down for the profit of this whole nation: by Geruase Markham</title>
+                 <author>Markham, Gervase</author>
+                 <imprint>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Jaggard, William</publisher>
+                        </imprint>
+                 <extent>16, 88, 4, 212, 233-264, 4, 67, 58-72, 4, 54, 4, 56, 4, 64, 4, 11, 10-81, 5, 20, 25-40 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="285"/>
+   <pb facs="285"/>
+   <head>To the Right Honorable the moste noble and mightie Lord <hi>Phylip Herbert</hi> Earle of <hi>Mountgomerie and baron of Shirland.</hi>
+   </head>
+   <p>
+      <hi>
+         <seg rend="decorInit">A</seg>S oft a<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> I beholde that poore house from whence I am descended, so oft I beholde vndying monu<g ref="char:EOLhyphen"/>ments of the noble and gracious fauours which by your famous Grandfather and most renow<g ref="char:EOLhyphen"/>ned Father, were plentiously powred vpon our familie, so that whilst the glew of Lime and Simant shal knit stones together, so long in our house wil be held their memo<g ref="char:EOLhyphen"/>ries. from these motiues (most excellent Lord) and from the loue I see you beare to this Arte which I professe, I am im<g ref="char:EOLhyphen"/>boldned to offer to your noble handes, the view of these my la<g ref="char:EOLhyphen"/>bours, in which, how soeuer my Arte may be controlled, yet it shall vnder the deffence of your countenance iustifie it selfe both by the groundes of experience and reason, and though my obscuritie liue vnaccompained with popular opinion, yet yet when I shall be tride, I hope I shall proue vnsopbisticat, and the rather sith my nature hath euer loathed to bee adorned with false fiers; yet that I am the meanest of many I know, &amp; my selfe am vnto my selfe a testimonie, and that I desire no greater height mine Inambiton hath proued, onely your honors good opinion shall be the ayme of my longings, and that gained, I shall die your honors humbly deuoted.</hi>
+   </p>
+   <closer>
+      <signed>Geruase Markham.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

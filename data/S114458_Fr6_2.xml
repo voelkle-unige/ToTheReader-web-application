@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the reader.</title>
+           <author>Perkins, W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114458_Fr6_2</idno>
+           <idno type="DLPS">A09339</idno>
+           <idno type="STC">19646</idno>
+           <idno type="ESTC">S114458</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the reader.</title>
+                 <author>Perkins, W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A golden chaine: or The description of theologie : containing the order of the causes of saluation and damnation, according to Gods word. A view whereof is to be seene in the table annexed. Hereunto is adioyned the order which M. Theodore Beza vsed in comforting afflicted consciences</title>
+                 <author>Perkins, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1600</date>
+                 <publisher>Jackson (Jacson), Ralph 1.</publisher>
+                            <publisher>Legat (Legate, Legatt), John 1.</publisher>
+                            <publisher>Man, Thomas 1.</publisher>
+                            <publisher>Porter, John</publisher>
+                        </imprint>
+                 <extent>8, 184, 14, 185-524, 4, 525-570, 2, 571-684, 2, 685-711, 3, 713-771, 3, 773-830, 4, 831-906, 4, 907-1057, 1 page, 7 leavesof plates, tables, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="389"/>
+   <head>To the reader.</head>
+   <opener>
+      <salute>CHristian Reader,</salute>
+   </opener>
+   <p>lamentable and fe<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap>efull is the abuse of the tongue among all sortes &amp; degrees of men euer<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> where. Hence daily arise manifold sinnes against God and <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nnu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>e<g ref="char:EOLhyphen"/>rable scandals and grieuances to our brethren. It would make a mans heart to bleede, to heare and consider howe Swearing, Blaspheming, Cursed speaking, Ra<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ling, Backbi<g ref="char:EOLhyphen"/>ting, Slandering, Chiding, Quarrelling, Cōtending, Iesting, Mocking, Flattering, Lying, Dissembling, Vaine and idle talking ouerflow in all place<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>, so as men which feare God had better bee any where then in the companie of most men. Well thou; art thou a man which hast made little conscience of thy speech and talke? repent seriously of this sinne, and amend thy life, least for the abusing of thy tongue thou crie with <hi>Diues</hi> in hell. <hi>Send Lazarus that he may dippe the tip of his finger in water and coole my tongue.</hi>
+      <note place="margin">Luk. 16. 14.</note> And if thou be one which hast care to order thy selfe in speech &amp; silence according to gods word, oh, doe it more. For what a shame is it, that men with the same tongue wherewith they confesse the faith and religion of Christ, should by vaine and vngodly speech vt<g ref="char:EOLhyphen"/>terly denie the power thereof? And for thy better helpe herein, I haue penned these few lines following, concerning the Gouernment of the tongue. Vse them for thy be<g ref="char:EOLhyphen"/>nefit, and finding profit thereby, giue glorie to God.</p>
+   <closer>
+      <dateline>
+         <date>
+            <hi>M. D. XCII, Decemb. 12.</hi>
+         </date>
+      </dateline>
+      <signed>W. Perkins.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116775_Fr1_2</idno>
+           <idno type="DLPS">A11519</idno>
+           <idno type="STC">21765</idno>
+           <idno type="ESTC">S116775</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The history of the Inquisition: composed by the Reverend Father Paul Servita, who was also the compiler of the Councell of Trent. A pious, learned, and curious worke, necessary for councellors, casuists, and politicians. Translated out of the Italian copy by Robert Gentilis</title>
+                 <author>Sarpi, Paolo</author>
+                 <imprint>
+                    <publisher>Okes (Oakes), John</publisher>
+                    <distributor>Moseley, Humphrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>6, 90 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He hidden Treasure never availed any, as Solomon the wise said. This present Booke, like to a great Treasure was al<g ref="char:EOLhyphen"/>wayes much Esteemed by the best Politicians, but it lay hidden because it went notabroad, but in a Manuscript, and came onely
+<pb facs="3"/>
+to the hands of the Governours of the Venetian State, and of some few forraigne Princes, who by especiall favour were made partakers of it. Now a liberall hand which desireth the com<g ref="char:EOLhyphen"/>mon good, by meanes of my Presse, hath communicated it to the world, that every good States man may participate of it. Receive it with a cheerefull countenance, and beleeve it will not a little profit thee and o<g ref="char:EOLhyphen"/>thers. Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

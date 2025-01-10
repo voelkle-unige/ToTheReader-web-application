@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117958_Fr1_2</idno>
+           <idno type="DLPS">A10415</idno>
+           <idno type="STC">207</idno>
+           <idno type="ESTC">S117958</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Letters from the great Turke lately sent vnto the holy father the pope and to Rodulphus naming himselfe King of Hungarie, and to all the kinges and princes of Christendome : Translated out of the Hebrue tongue into Italian, and out of the Italian into French and now into English out of the French coppie</title>
+                 <author>Turkey, Sultan (1603-1617 : Ahmad I)</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Burby, Cuthbert.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                    <term>Literature</term>
+                    <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>Annet Harioson by the grace of the high God most wel beloued in heauen, dis<g ref="char:EOLhyphen"/>cended of the Line of the great Prophet Mahomet; Champion of Babilon, God on the earth, Barron of Turkie, Lord of the countrie of Iudea, euen vnto the earthly Paradise; Conqueror of Constan<g ref="char:EOLhyphen"/>tinople, and of Greece, Gouernour of the high and lower Seas, Commaunder of Hungarie and the future conqueror of Christendome. To the great Champion of Rome, and to his confederates the Princes of Christendome.</p>
+</div>
+        </body>
+  </text>
+</TEI>

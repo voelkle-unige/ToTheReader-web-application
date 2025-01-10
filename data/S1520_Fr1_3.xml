@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To all that love God, and the King.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1520_Fr1_3</idno>
+           <idno type="DLPS">A16750</idno>
+           <idno type="STC">3658</idno>
+           <idno type="ESTC">S1520</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To all that love God, and the King.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The hate of treason : vvith a touch of the late treason. By N.B</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To all that love God, and the King.</head>
+   <p>
+      <seg rend="decorInit">N</seg>Obles, and Gentlemen, and all other his Maiesties loving subiects, of what condition soever, let me laie before your eies a few invective lines, a<g ref="char:EOLhyphen"/>gainst the horrible nature of Trea<g ref="char:EOLhyphen"/>son, and especially against so graci<g ref="char:EOLhyphen"/>ous a King, Queene, and Prince, so honourable a Counsaile, and so blessed a State. The consideration whereof, may make the hearts of all true Christians to tremble, to thinke that the Divell had so great a power in the world, as to sow so much wickednesse in the hearts of vnhappie men. But, God that euer is, and will be gracious vnto his, hath revealed their vil<g ref="char:EOLhyphen"/>lanie, and so preserved his people, as in the preservation of our King and Countrey, from the Divell and all his devices, hath given iust cause, day and night to give glo<g ref="char:EOLhyphen"/>rie to his holie Maiestie, to whose Almightie tuition and mercifull goodnesse I leave thee. From my lodging in London.</p>
+   <closer>
+      <signed>Your friend as I find cause.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

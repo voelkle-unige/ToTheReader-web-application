@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧The fourth Booke of the treasure for trauaylers.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1578</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104686_Fr4_1</idno>
+           <idno type="DLPS">A16518</idno>
+           <idno type="STC">3432</idno>
+           <idno type="ESTC">S104686</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧The fourth Booke of the treasure for trauaylers.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A booke called the treasure for traueilers : deuided into fiue bookes or partes, contaynyng very necessary matters, for all sortes of trauailers, eyther by sea or by lande, written by William Bourne</title>
+                 <author>Bourne, William</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <distributor>Woodcock, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1578</date>
+                 </imprint>
+                 <extent>12, 32, 1, 25, 1, 22, 2, 21, 3, 5-16, 4 leaves, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="introduction">
+   <div type="argument">
+      <pb facs="95"/>
+      <pb n="1" facs="95"/>
+      <head>❧The fourth Booke of the treasure for trauaylers.</head>
+      <p>Wherein is touched the arte of Staticke or waight, shewing vnto you howe you may knowe the waight of any Shyppe that swymmeth vp<g ref="char:EOLhyphen"/>pon the water, with al her ladyng, and al the rest of her furniture. And also howe you may know the waight of any mettal that is sunke in the water, to knowe what it wayeth in the water, and also how you may mea<g ref="char:EOLhyphen"/>sure any strange forme, suche as Geometrie cannot geue you any order for the mea<g ref="char:EOLhyphen"/>suring thereof, and also howe for too lyfte or way any thing sin<gap reason="illegible" resp="#pdcc" extent="2 letters">
+            <desc>••</desc>
+         </gap>e into the wa<g ref="char:EOLhyphen"/>ter, with other necessarie matters belonging ther<g ref="char:EOLhyphen"/>unto, very necessary for al land men, and seam<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>n. &amp;c.</p>
+      <p>Written by William Bourne.</p>
+   </div>
+   <div type="to_the_reader">
+      <pb facs="96"/>
+      <pb n="2" facs="96"/>
+      <head>To the Reader of this fourth Booke.</head>
+      <p>
+         <seg rend="decorInit">G</seg>Entle Readers, it is possible that you wyll maruayle, that I shoulde take vppon mee too deale in these causes, that is to say, to teache any newe Art, and Science, that hath not been as hytheretoo, written in any language or tongue, the which Art or Science, called Sta<g ref="char:EOLhyphen"/>ticke, dooth shewe the heauinesse or lightnesse of any thing.</p>
+      <p>Wherefore there is conteyned in this fourth Booke, howe too knowe the waight of any thing swymmyng in the wa<g ref="char:EOLhyphen"/>ter, as the waight of any shyppe, with all her lodyng, and all her furniture: as Ordinaunce, Ankers, Cabels, Mastes, Sailes, with al other Implementes in them, and also it doth shew the waight of any thing sunke into the water, what it wayeth, to be lifted from the bottome, tyl the appearing of it aboue the superficies of the water: with dyuers other necessarye mat<g ref="char:EOLhyphen"/>ters that are conteyned in this fourth Booke, and not before this tyme mentioned by any other, but onely by that fa<g ref="char:EOLhyphen"/>mous and learned man <hi>Mayster Iohn Dee,</hi> who hath made mention thereof in his <hi>Mathematicall</hi> preface, wherein I haue hadde my principall instructions, as touching that Arte or Science.</p>
+      <p>Wherefore Gentle Reader, beare with my rudenesse, that I being vtterly vnlearned, shoulde enterpryse too take vppon mee too bee so bolde, too geue the fyrst attempt, to im<g ref="char:EOLhyphen"/>ploye that Art or Science vnto any purpose: for I do knowe the nature of most people, is to dislyke al thinges that are not done by them selues, whether it be good or euyll: and as I haue knowen many tymes by experience, that those persons that haue learned anye thing at any mans hande, when he dooth vnderstande it, then he wyll not be knowen where
+<pb facs="97"/>
+he learned it, but that he knew that before or euer he shewed it vnto him, which is a manifest robbery of any man, to learn any thing at any mans hande, &amp; then afterwards to deny it, &amp; to say, that he knewe it before he tolde it hym: as I do knowe a number of persons, that when they are ignorant in matters, then they wyl vse diligence tyl they haue atteyned it, and then when they haue a little instructions to serue their turnes, then they wil seeme too bee verye cunnyng, and that they neuer learned anye thyng at any mannes hande, which is a great poynt of ingratitude, too offer that person that he hath lear<g ref="char:EOLhyphen"/>ned of, such a greate iniury: but yet notwithstanding the earth is greatly infec<g ref="char:EOLhyphen"/>ted, with such ma<g ref="char:EOLhyphen"/>ner of per<g ref="char:EOLhyphen"/>sons.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

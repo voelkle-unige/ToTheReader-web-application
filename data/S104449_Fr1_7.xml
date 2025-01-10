@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Libri inscriptionem</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104449_Fr1_7</idno>
+           <idno type="DLPS">A06768</idno>
+           <idno type="STC">17207</idno>
+           <idno type="ESTC">S104449</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Libri inscriptionem</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Buckler of bodilie health : whereby health may bee defended, and sickesse repelled: consecrate by the au [thor] the vse of his cou [...] [...] shing from his heart (though it were to his hurt) to see the fruites of his labour on the constant wellfare of all his countrie-men. By Mr. Iohn Makluire, Doctor in Medicine</title>
+                 <author>Makluire, John</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>14, 133, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>In Libri inscriptionem</head>
+   <lg>
+      <l>MIlitia est quicquid mortales degimus aevi:</l>
+      <l>Quàm fit opus clypci nemo negabit ope.</l>
+      <l>Mysticus est Mystae; Medicae hîc <hi>Maklurius</hi> artis</l>
+      <l>Porrigit, ingenii nobile deig na sui,</l>
+      <l>Qnisquis amas sanam, quo{que} sano in corpore mentem,</l>
+      <l>Sanus si es, sanum qui tueatur habes.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

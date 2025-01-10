@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Hexasticon. In fideliss. amici G. Gamage Epigrammata.</title>
+           <author>Harris, Ro.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113824_Fr1_5</idno>
+           <idno type="DLPS">A01428</idno>
+           <idno type="STC">11545</idno>
+           <idno type="ESTC">S113824</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Hexasticon. In fideliss. amici G. Gamage Epigrammata.</title>
+                 <author>Harris, Ro.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Linsi-woolsie. Or Two centuries of epigrammes. Written by William Gamage Batchelour in the Artes</title>
+                 <author>Gamage, William</author>
+                 <imprint>
+                    <distributor>Bell, Henry</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Mathewes (Mathusius), Augustine</publisher>
+                        </imprint>
+                 <extent>96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Hexasticon. In fideliss. amici <hi>G. Gamage</hi> Epigrammata.</head>
+   <lg>
+      <l>LAeta inuant releuando graues Epigrammata mentes:</l>
+      <l>Sunt tua laeta satis, sunt tua casta satis.</l>
+      <l>I<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>da nè metuas mordacis murmura Mo<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>:</l>
+      <l>Colla<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>det Mo<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>us, vel meliora ferat.</l>
+      <l>
+         <pb facs="4"/>
+         <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> documenta boni, <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ta futura</l>
+      <l>Posteritatis erunt, scribere perge, <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>.</l>
+   </lg>
+   <closer>
+      <signed>Ro Harris in Art Mag.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

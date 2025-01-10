@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104233_Fr1_3</idno>
+           <idno type="DLPS">A03681</idno>
+           <idno type="STC">13806</idno>
+           <idno type="ESTC">S104233</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Black-Fryers</title>
+                 <author>Hord, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Grismand (Grismond), John.</publisher>
+                            <publisher>Marriot, John</publisher>
+                        </imprint>
+                 <extent>4, 11, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="3"/>
+   <q>
+      <bibl>Georgias Buchananus. Psal. 137.</bibl>
+      <l>AT tu quae nostrae in sultavit laeta ruinae,</l>
+      <l>Gentis Idumeae tu memor esto pater.</l>
+      <l>Foelix qui tenero consparget saxa cerebro:</l>
+      <l>Reddet ad exemplum qui tibi facta tuum.</l>
+   </q>
+   <q>
+      <bibl>1 Cor. 14.26.</bibl>
+      <p>Quid faciendum est fratres mei cum conveni<g ref="char:EOLhyphen"/>tis? quemadmodum unusquis{que} habet psalmum, vel doctrinam, vel linguam, vel revelationem, vel interpretationem, omnia fiant ad aedifica<g ref="char:EOLhyphen"/>tionem.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

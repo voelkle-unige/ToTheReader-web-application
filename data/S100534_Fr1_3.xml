@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE CRISTIAN and courteous Reader.</title>
+           <author>Crashaw, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100534_Fr1_3</idno>
+           <idno type="DLPS">A02187</idno>
+           <idno type="STC">1233</idno>
+           <idno type="ESTC">S100534</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE CRISTIAN and courteous Reader.</title>
+                 <author>Crashaw, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Newes from Italy of a second Moses or, the life of Galeacius Caracciolus the noble Marquesse of Vico : Containing the story of his admirable conuersion from popery, and his forsaking of a rich marquessedome for the Gospels sake. Written first in Italian, thence translated into latin by reuerend Beza, and for the benefit of our people put into English: and now published by W. Crashavv</title>
+                 <author>Balbani, Niccolo</author>
+                 <imprint>
+                    <publisher>Ballard, Henry</publisher>
+                    <distributor>Moore (More), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 </imprint>
+                 <extent>8, 56, 59-82 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="5"/>
+   <head>TO THE CRISTIAN and courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>OOD Reader, conceiue I pray thee, that this translation being made diuers yeares agoe, and communicated to my priuate friends; I thought to haue suppressed it from spreading further: but being pres<g ref="char:EOLhyphen"/>sed by importunitie, and vrged with vnauoidable reasons, I haue now yeelded to let it passe in publike: the rather consi<g ref="char:EOLhyphen"/>dering, that though at this day almost euery houre yeeldes a new booke, yet many ages affoord scarce one example like to this. I haue diuided it into Chapters for thy better ease in reading and remembring: and seeing I find in other Au<g ref="char:EOLhyphen"/>thors often mention of this noble Marquesse, and his heroi<g ref="char:EOLhyphen"/>callfact: I haue therefore not tied my selfe precisely to the words of the Latine story, but keeping the sense and scope, haue sometime inlarged my selfe as the circumstance seemed to re<g ref="char:EOLhyphen"/>quire, or as I had warrant and direction from other stories. Reade it with an holy and an humble heart, and prayer to God, and account me thy debter, if thou thinke not thy labour well bestowed. And when thou findest a blessing, and rea<g ref="char:EOLhyphen"/>pest spiritual comfort hereby, then vouchsase to remember me in thy prayers.</p>
+   <closer>
+      <dateline>Temple, <date>
+            <hi>Septem.</hi> 30. 1608.</date>
+      </dateline>
+      <signed>Thy brother in Christ, W. CRASHAVV.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

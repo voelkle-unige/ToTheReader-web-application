@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Concerning the use of these Tables.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1589_Fr1_9</idno>
+           <idno type="DLPS">A97352</idno>
+           <idno type="STC">17825</idno>
+           <idno type="ESTC">S1589</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Concerning the use of these Tables.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Historia mundi: or Mercator's atlas : Containing his cosmographicall description of the fabricke and figure of the world. Lately rectified in divers places, as also beautified and enlarged with new mappes and tables; by the studious industry of Iudocus Hondy. Englished by W.S. generosus, &amp; Coll. Regin. Oxoniæ</title>
+                 <author>Mercator, Gerhard</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 </imprint>
+                 <extent>24, 56, 55-56, 2, 401, 1, 409-599, 520-566, 649-930, 32 pages, 1 folded leaf of plates, maps (metal cuts), illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="commentary_on_tables">
+   <pb facs="10"/>
+   <head>Concerning the use of these Tables.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">P</seg>Tolomie</hi> and we in this booke, doe make the Longitude to be a segment of the Aequator, or Aequinoctiall Circle, com<g ref="char:EOLhyphen"/>prehended with the Meridian of that place, and the Meridi<g ref="char:EOLhyphen"/>an of the Fortunate Islands: for from these Islands the beginning of Longitude is taken.</p>
+   <p>Some doe not begin the Longitude from the Fortunate Islands (which are now called the Canaries) but from the Flandrian Islands, which are now called the <hi>Azores,</hi> because the needle of the compasse doth point there directly toward the North. But the superficies of the Globe contayneth in Longitude 360 degrees.</p>
+   <p>The Latitude is the Arch or Segment of any place betweene the Aequinoctiall and Parralell which is drawne through the verticall point of the same place, and it is alwayes to the elevation of the Pole.</p>
+   <p>Latitude is twofold, either Northerne, or Southerne, and there are reckoned from the Aequinoctiall to either Pole 90 degrees of Latitude.</p>
+   <p>We have noted the degrees of Longitude and Latitude on the sides of all the Tables, and for the most part, the degrees of Lati<g ref="char:EOLhyphen"/>tude on the toppe and bottome, and of Longitude on the right and left hand, except when some Country is to be described that is more extended betweene the South and North.</p>
+   <p>The severall degrees both of Longitude and Latitude, according to the capacitie of the place, are sometimes divided into 60, some<g ref="char:EOLhyphen"/>times into 10. 6. or 5. parts, which are called minutes, and we have noted the degrees with greater Arithmeticall figures, and the mi<g ref="char:EOLhyphen"/>nutes with lesser for difference sake.</p>
+   <p>If one would finde out the Longitude and Latitude of any place, where the Meridian Parralells are, by taking with a paire of com<g ref="char:EOLhyphen"/>passes the distance thereof from the side of the Table, and afterward by applying the compasses to the other side. If thou takest the di<g ref="char:EOLhyphen"/>stance from the East side, the compasses being turned from that side to the North side, will shew the degree and minute of Longitude. If thou hast the distance from the North-side, turne thy compasses from thence to the East side, and it will shew the Latitude. But if the Meridians be not Parralells, the Latitude of a place is found in the same manner, but in the Vniversall Tables where the Parralells are circular, the distance of a place being taken from the next side, will shew the same on the East side. But the Longitude is to bee taken with a thred or Ruler, layd upon the place and turned untill it doe point out on the Northerne and Southerne side, the same minute of the same degree, and wheresoever it be, that is the Longitude of the place.</p>
+</div>
+        </body>
+  </text>
+</TEI>

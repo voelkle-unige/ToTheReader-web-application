@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110325_Fr1_3</idno>
+           <idno type="DLPS">A09194</idno>
+           <idno type="STC">19501</idno>
+           <idno type="ESTC">S110325</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Coach and sedan, pleasantly disputing for place and precedence : the brewers-cart being moderator</title>
+                 <author>Peacham, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <publisher>Crouch (Crowch), John.</publisher>
+                            <publisher>Paxton (Packston), Edmund.</publisher>
+                            <publisher>Raworth, Robert</publisher>
+                        </imprint>
+                 <extent>56 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Ordinances, edicts, proclamations</term>
+                    <term>History and chronicles</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>S it is usuall in Countrie, and homely houses, when guests come upon the suddaine, to tell them at the porch before hand, what they shall find within; So I heere at thy entrance (Ingenious Reader) tell thee there is not so good provision for thy en<g ref="char:EOLhyphen"/>tertainement, as I could wish; wherefore resol<g ref="char:EOLhyphen"/>vedly with the Cynick I say (who inviting great personages to a dinner of Radishes, Salt and Bread, and being by some blamed) answered, If they bee my friends they wilbee content with any thing, if onely to fill their bellies, this is too good for them. And to say truth, I am sor<g ref="char:EOLhyphen"/>ry I come forth no better provided, I am no ordinary Pamphleter, I would have thee to know; onely in Mirth I tried what I could doe upon a running subject, at the request of a friend in the <hi>Strand</hi>: whose leggs not so sound as his Iudgement, enforce him to keepe his Cham<g ref="char:EOLhyphen"/>ber, where hee can neither sleepe or studie for the clattering of <hi>Coaches</hi>: I shew'd him the Booke; he smil'd, and onely wrote underneath out of <hi>Martial.</hi>
+   </p>
+   <q>
+      <l>Dum vernat Rosa, dum madent capilli</l>
+      <l>Tunc te vel rigidi legant <hi>Catones.</hi>
+      </l>
+      <l>Vale quisquis es.</l>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

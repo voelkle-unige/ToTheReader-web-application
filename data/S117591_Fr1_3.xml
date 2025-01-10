@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD SERENISSIMVM ET POTENTISSIMVM MONARCHAM, IACOBUM MAGNAE BRITAN∣NIAE, FRANCIAE ET HIBER∣NIAE REGEM FIDEI DEFENSOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117591_Fr1_3</idno>
+           <idno type="DLPS">A21130</idno>
+           <idno type="STC">7487</idno>
+           <idno type="ESTC">S117591</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD SERENISSIMVM ET POTENTISSIMVM MONARCHAM, IACOBUM MAGNAE BRITAN∣NIAE, FRANCIAE ET HIBER∣NIAE REGEM FIDEI DEFENSOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Nostōdia : In serenissimi, potentissimi, et inuictissimi monarchae, Iacobi Magnæ Britanniæ, Franciæ &amp; Hiberniæ Regis, fidei defensoris, &amp;c. felicem in Scotiam reditum, Academiæ Edinburgensis congratulatio</title>
+                 <author>University of Edinburgh</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>50, 6 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb n="5" facs="3"/>
+   <head>AD SERENISSIMVM ET POTENTISSIMVM MONARCHAM, IACOBUM MAGNAE BRITAN<g ref="char:EOLhyphen"/>NIAE, FRANCIAE ET HIBER<g ref="char:EOLhyphen"/>NIAE REGEM FIDEI DEFENSOREM.</head>
+   <l>
+      <hi>
+         <seg rend="decorInit">P</seg>IERIDVM</hi> decus insigne &amp; tutela Sororum,</l>
+   <l>Omnigenâ virtute cluens, certissima coeli</l>
+   <l>Progenies, Patriae{que} Parens, ter maxime Princeps,</l>
+   <l>Sceptrigerûm Phoenix atque inclyta gloria Regum.</l>
+   <l>Haec tibi pauca damus memores testantia mentes</l>
+   <l>Carmina, non tanto Musarum Praeside digna.</l>
+   <l>Quippe nec Aonii laticis saturata liquore;</l>
+   <l>Parnassi nec nata jugis, aut vertice Pindi:</l>
+   <l>Sed propè sub rigidae stellis glacialibus Vrsae</l>
+   <l>Condita, nec Musis aequis, nec Apolline dextro.</l>
+   <l>Si tamen haec placido vultus candore benignus</l>
+   <l>Aspicias, Patriae quo nubila fusca serenas,</l>
+   <l>Clara tui vultus sacro splendore nitebunt.</l>
+   <l>Nosque Edinensi pubes nutrita Lyceo</l>
+   <l>Te summum Aonidum columen patremque rogamus</l>
+   <l>Vsque tuis faueas, Rex inuictissime, Musis.</l>
+   <closer>
+      <signed>Sacratissimae tuae Majestati deuotissima ACADEMIA EDINBVRGENSIS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

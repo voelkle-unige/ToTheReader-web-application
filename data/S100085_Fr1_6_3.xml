@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100085_Fr1_6_3</idno>
+           <idno type="DLPS">A16110</idno>
+           <idno type="STC">3</idno>
+           <idno type="ESTC">S100085</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pallas armata : The gentlemans armorie; wherein the right and genuine use of the rapier and of the sword, as well against the right handed as against the left handed man is displayed: and now set forth and first published for the commmon [sic] good by the author</title>
+                 <author>G. A.</author>
+                 <imprint>
+                    <publisher>Dawson, John 2</publisher>
+                    <distributor>Williams, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>32, 96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="13"/>
+   <l>THou who as yet thy Steele dost feare</l>
+   <l>Which at thy back doth hang, and ne're</l>
+   <l>Did'st draw thy blade but for to show't,</l>
+   <l>Or tell the price for which 'twas bought;</l>
+   <l>See here the Art to use it, such,</l>
+   <l>That <hi>Naples</hi> scarce can teach so much:</l>
+   <l>Behold thy foe in paper bleede,</l>
+   <l>And cut, that pittie 'tis to reade,</l>
+   <l>(Here thou mayst learne to laugh at those,</l>
+   <l>At <hi>Callis,</hi> who to blinde their foes,</l>
+   <l>The Sand into their faces throw,</l>
+   <l>And then attempt a desperate blow)</l>
+   <l>Her's nobler shifts to foyle his hand;</l>
+   <l>To drink his blood let lie the sand:</l>
+   <l>Now thou art taught by finer art</l>
+   <l>To cut life's Gordian thread a part▪</l>
+   <l>
+      <hi>Pallas</hi> invites thee here to looke,</l>
+   <l>Read, and thy life's sav'd by thy booke.</l>
+   <closer>
+      <signed>ANTHONY ASKHAM,
+Fellow of Kings Colledge
+in Cambridge.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

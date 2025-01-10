@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title> Reader</title>
+           <author>S., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1788_Fr1_4</idno>
+           <idno type="DLPS">A09380</idno>
+           <idno type="STC">1968.5</idno>
+           <idno type="ESTC">S1788</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title> Reader</title>
+                 <author>S., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A contention betwene three bretheren, that is to say, the vvhoremonger, the dronkarde, and the diceplayer : to approue which of them three is the worste, by reason that their deceased father had giuen his succession from the worste of them three : a worke no lesse profitable then pleasurable to read, for so much as the vilenesse of those three vices, is herein sette oute at large / compiled by Thomas Salter</title>
+                 <author>Beroaldo, Filippo</author>
+                 <imprint>
+                    <publisher>Gosson, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>8, 48, that is 96 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>
+      <gap reason="illegible" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> Reader</head>
+   <p>HEere haue I set foorth vnto thy view (gentle Reader) a straunge Contentiō moued betwene thre bre<g ref="char:EOLhyphen"/>therē which notwithstanding is not so straunge as profytable to bee con<g ref="char:EOLhyphen"/>sidered of, and therefore although it be not so filled with fine phrases, as the workes of some late worthy wri<g ref="char:EOLhyphen"/>ters are: yet for so much as it tendeth only to the treading down of vice, &amp; rearing vp of vertue, (for I tell thee, vice now is aloft, and vertue lyeth lowe, and therefore needeth help of rearing) I beseeche thee to take it in good part, &amp; by so doing, thou shalte incourage me to invre my penne to thy farther profite, in other suche petite Pamphlets.</p>
+   <closer>
+      <signed>Farewell T.S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

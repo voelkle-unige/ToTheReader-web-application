@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO MY GOOD COUSEN Mr IOHN VICARS.</title>
+           <author>Vicars, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111557_Fr1_5</idno>
+           <idno type="DLPS">A14487</idno>
+           <idno type="STC">24809</idno>
+           <idno type="ESTC">S111557</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO MY GOOD COUSEN Mr IOHN VICARS.</title>
+                 <author>Vicars, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The XII Aeneids of Virgil, the most renowned laureat-prince of Latine-poets; translated into English deca-syllables, by Iohn Vicars. 1632</title>
+                 <author>Virgil</author>
+                 <imprint>
+                    <publisher>Alsop, Nicholas</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>16, 418, 6 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>TO MY GOOD COUSEN M<seg rend="sup">r</seg>
+      <hi>IOHN VICARS.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">G</seg>Ood cousen, as farre forth as my other serious studies would give leave, I have read your <hi>Virgils Aeneïds</hi> translated into english de<g ref="char:EOLhyphen"/>casyllables. Wherein (that I may be just, and give you your due) I know not whether you have performed better the part of a good poët or of a good interpreter. In my judgement, I will speak it without feare or flatterie (<hi>quorum causas procùl habeo</hi>) your great pains in transplanting this worthiest of latine poets, into a mellow &amp; neat english soile (a thing not done before) deserveth great applause and good acceptance of all scholars, both such as are under the <hi>ferula</hi> in Gram<g ref="char:EOLhyphen"/>mar schools, and such as have their brows bedect with laurell in the Universities. If I were of a perfect wit, or a poët but of an inferiour alloy, I would have sent you some verses as an encomiastick: but I must not mount above my sphere, nor step beyond my last.</p>
+   <l>Invida me spatiis natura coercuit arctis,</l>
+   <l>Ingenii vires exiguásque dedit.</l>
+   <l>Nature, a shallow wit in narrow brains</l>
+   <l>That pent, forbids me all poëtick strains.</l>
+   <p>And therefore in plain prose I bid you heartily well to fare, and shall ever rest</p>
+   <closer>
+      <signed>Your assured loving cousen <hi>Thomas Vicars.</hi> B.D. Ox.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

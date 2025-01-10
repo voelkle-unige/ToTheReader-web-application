@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Author]</title>
+           <author>S., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101811_Fr1_4</idno>
+           <idno type="DLPS">A00530</idno>
+           <idno type="STC">10668</idno>
+           <idno type="ESTC">S101811</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Author]</title>
+                 <author>S., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The recantation of a Brownist. Or A reformed puritan. Written by one that hath altogether, bin led in the same erronious oppinions for many yeeres together: and now since his conuersion, hath measured the pretended holy discipline, by pastors, doctors, elders and deacons, (which the disciplinarian malecontents would obtrude vpon our Church,) and hath found it far shorter, then the discipline vsed either in the primitiue Church, or in this our Church of England: if all antiquitie be not reiected</title>
+                 <author>Fairlambe, Peter</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Blower (Blore), Ralph.</publisher>
+                            <publisher>Gosson, Henry</publisher>
+                        </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_author">
+   <pb facs="7"/>
+   <pb facs="7"/>
+   <opener>
+      <salute>To the author salutation.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">S</seg>IR I haue returned vnto you this small Treatise, clad in a Printers Liuerie, although it bee not of the newest cut yet I doubt not but it will last out the wearing of a fa<g ref="char:EOLhyphen"/>shion, If the age thinke her selfe cloied euen to sacietie; with the multitude of these contro<g ref="char:EOLhyphen"/>uersies as I know you imagine, she must lay the blame on the iniquitie of those, who giue continuallie fresh occasions to the publishing of this and the like bookes. For although the church hath nursed many valiant sonnes, who haue played the Champions in their mothers right, and stood boldly in defence of her iust cause. Yet still this forraine monster whome England hath too long nourished, ceaseth not to infect her skirts, and disturbe her long desi<g ref="char:EOLhyphen"/>red peace. If that were but iuuenilis error, age and maturitie of discretion might redresse it: but since I see it attended by gray hayres to it, makes mee suspect our Age wherein men
+<pb facs="8"/> grow rotten in yeeres, before they are ripe in iudgment. As touching the Title of the booke it may well minister occasion vnto Momus with aesops dog to snarle at the shadow: but sure I am, he cannot bite the substance, in which res<g ref="char:EOLhyphen"/>pect I deeme you happie, that could so cun<g ref="char:EOLhyphen"/>ningly deceiue him. But how euer peruerse iudgements may censure this your labour; I doubt not but the discreete and iudicious rea<g ref="char:EOLhyphen"/>der will afford you a kinde share in their af<g ref="char:EOLhyphen"/>fections. Thus wishing the continuance of your rest, from those former vexations of mind wherewith you haue beene so long by that vn<g ref="char:EOLhyphen"/>ruly generation molested: I commit yourselfe to God, and the booke to the mercy of Paules Church-yard. </p>
+   <closer>
+      <salute>Farewel</salute>
+      <dateline>
+         <date>this 2 of October. 1606:</date>
+      </dateline>
+      <signed>Yours a little longer when I haue more leisure. T.S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

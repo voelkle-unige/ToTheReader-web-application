@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To ERANTINA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105266_Fr1_11</idno>
+           <idno type="DLPS">A19526</idno>
+           <idno type="STC">5956</idno>
+           <idno type="ESTC">S105266</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To ERANTINA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The amorose songes, sonets, and elegies: of M. Alexander Craige, Scoto-Britane</title>
+                 <author>Craig, Alexander</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>168 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="10"/>
+   <head>To ERANTINA.</head>
+   <p>IT is a wounderfull delight I take to liue i<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> Loue; it is euer at my heart, and most in my mouth: and such assistaunce it giueth to my life, that it seemes the best munition I haue found in this humane peregrination. The Dis<g ref="char:EOLhyphen"/>ciples of <hi>Hegesias,</hi> hunger starued them selues to death, incensed therevnto with the perswa<g ref="char:EOLhyphen"/>ding discourses of his lessons, til the time King <hi>Ptolomey</hi> forbade him any longer to entertaine his Schoole with such murtherous preceptes. Though I weare the howers of the day, and waste the dayes of my life in Loue: I muse, I roue, and walke: I enregister my humors and my passions. Let none be entised by my ex<g ref="char:EOLhyphen"/>ample: for I am borne to loue, and to die</p>
+   <closer>
+      <signed>Thy Louer.</signed>
+   </closer>
+   <postscript>
+      <l>
+         <hi>O quid dura tuum sic me contemnis amantem,</hi>
+      </l>
+      <l>
+         <hi>Neglectum{que} tuas despicis ante fores:</hi>
+      </l>
+      <l>
+         <hi>Frigidasaenit Hyems, immitis et ingruit ather,</hi>
+      </l>
+      <l>
+         <hi>Exclusum pateris me tamen esse foris.</hi>
+      </l>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

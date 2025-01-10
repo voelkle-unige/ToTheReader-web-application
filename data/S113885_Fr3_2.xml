@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Epigram.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113885_Fr3_2</idno>
+           <idno type="DLPS">A00826</idno>
+           <idno type="STC">10945</idno>
+           <idno type="ESTC">S113885</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Epigram.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Satyres: and satyricall epigrams : with certaine obseruations at Black-Fryers? By H:F: of Lincolnes-Inne gent</title>
+                 <author>Fitzgeffrey, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Partrich (Patrich, Partridge), Miles</publisher>
+                        </imprint>
+                 <extent>110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigram">
+   <pb facs="39"/>
+   <head>Epigram.</head>
+   <head type="sub">To his Lou: Chamber-Fellow, and nearest Friend NAT: GVRLIN Of <hi>Lincolnes-Inne</hi> Gent.</head>
+   <lg>
+      <l>
+         <hi>NAT)</hi> Counsaile me! (faith!) what wod'st hau<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> me doe</l>
+      <l>My priuate <hi>Notes</hi> produce in publique <hi>view?</hi>
+      </l>
+      <l>Tush! mooue me not: yet (doubtles) tis rare stuff</l>
+      <l>And may Take, why not? if so! <hi>Good</hi> inough.</l>
+      <l>How ere <hi>(Nat) Patronize</hi> it, thou canst tell,</l>
+      <l>(If ought mislike:) I <hi>meant,</hi> and <hi>wish</hi> all <hi>well.</hi>
+      </l>
+      <l>Then, <hi>Good:</hi> or <hi>Bad</hi> heer <hi>(Sirs!)</hi> on liking take it</l>
+      <l>If <hi>Good,</hi> 'tis I: If <hi>Bad:</hi> 'tis you that make it.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

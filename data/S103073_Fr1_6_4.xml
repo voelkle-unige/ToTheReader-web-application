@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Norrice, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103073_Fr1_6_4</idno>
+           <idno type="DLPS">A01645</idno>
+           <idno type="STC">11778</idno>
+           <idno type="ESTC">S103073</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Norrice, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Gerards meditations : written originally in the Latine tongue by Iohn Gerard Doctour in Divinitie, and superintendant of Heidelberg. Translated and revised by Ralph Winterton fellow of Kings Colledge in Cambridge</title>
+                 <author>Gerhard, Johann</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1638</date>
+                 <publisher>Buck, Thomas.</publisher>
+                            <publisher>Daniel, Roger</publisher>
+                        </imprint>
+                 <extent>26, 323, 13, 155, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <l>REader, if thou fain wouldst know,</l>
+   <l>To whose labours thou dost ow</l>
+   <l>These sacred lines, think who't may be</l>
+   <l>Seeks thy souls good, and that is he.</l>
+   <l>Some say these writings <hi>Gerards</hi> be:</l>
+   <l>He wrote indeed, but not to thee.</l>
+   <l>He was to those that learned were,</l>
+   <l>To thee he was not though be were.</l>
+   <l>Before, thou couldst not understand,</l>
+   <l>He's now translated to thy hand.</l>
+   <l>Reade him, and use him as thy friend,</l>
+   <l>And hee'l be thine unto the end.</l>
+   <closer>
+      <signed>William Norrice.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

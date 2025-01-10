@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honourable and most reue∣rend Father in God, Iohn Whitgift, Archbishop of Canterburie, Primate and Metropolitane of all England, and one of her Maiesties most Honourable priuie Counsell.</title>
+           <author>Nixon, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110155_Fr1_2</idno>
+           <idno type="DLPS">B15004</idno>
+           <idno type="STC">18583</idno>
+           <idno type="ESTC">S110155</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honourable and most reue∣rend Father in God, Iohn Whitgift, Archbishop of Canterburie, Primate and Metropolitane of all England, and one of her Maiesties most Honourable priuie Counsell.</title>
+                 <author>Nixon, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Christian nauy : VVherein is playnely described the perfit course to sayle to the hauen of eternall happinesse. VVritten by Anthony Nixon</title>
+                 <author>Googe, Barnabe</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Right Honourable and most <hi>reue<g ref="char:EOLhyphen"/>rend Father in God,</hi> Iohn Whit<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>gift, <hi>Archbishop</hi> of Canterburie, Primate and Metropolitane <hi>of all England, and one of her Maiesties</hi> most Honourable priuie Counsell.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">T</seg>He stately <hi>Eagle</hi> in his princely grace,</l>
+      <l>Permits the Flye to buzze before his face,</l>
+      <l>Yet will not mooue one feather of his wing,</l>
+      <l>His weake disturber vnder foote to bring,</l>
+      <l>Euen so I hope, this worke of willing mind</l>
+      <l>Such <hi>Gracious</hi> suffrance in your sight shall find.</l>
+   </lg>
+   <lg>
+      <l>The lowly shrub doth seldome blast, or sade,</l>
+      <l>Vnder the <hi>Caedars</hi> loftie verdant shade:</l>
+      <l>The Sunne giues life as well to simple weedes,</l>
+      <l>As vnto flowres, or profitable seedes:</l>
+      <l>So may these lines begot by true affection,</l>
+      <l>Spring to more height, grac't with your safe protection.</l>
+   </lg>
+   <closer>
+      <signed>Your Graces in all dutifull obseruance, Anthony Nixon.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

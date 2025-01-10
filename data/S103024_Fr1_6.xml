@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103024_Fr1_6</idno>
+           <idno type="DLPS">A13952</idno>
+           <idno type="STC">24261</idno>
+           <idno type="ESTC">S103024</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe institution of the common places of sacred divinitie : Wherein, the truth of every place is proved, and the sophismes of Bellarmine are reprooved. Written in Latine, by Lucas Trelcatius, and Englished by Iohn Gawen, minister of Gods word</title>
+                 <author>Trelcatius, Lucas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 <publisher>Baker, Michael.</publisher>
+                            <publisher>Burton, Francis.</publisher>
+                            <publisher>Purfoot, Thomas 2</publisher>
+                        </imprint>
+                 <extent>22, 595, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="11"/>
+   <p>REader, for a Booke of this quantity and quality to bee without faults, is almost impossible, yet better is it by much that they be noted, wherby they may be amen<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>d, then that they should cause an error for want of corre<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#keyers" extent="2 letters">
+         <desc>••</desc>
+      </gap>ion. Were the Subiect of the Booke light, Faults were <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>sse materiall; but because it concerneth Gods speciall <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ory, and mans salvation, They are of greater consequence. <gap reason="illegible" resp="#keyers" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> point onely, or a letter may eyther obscure the meaning, <gap reason="illegible" resp="#keyers" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> quite invert it: Wherefore as I haue taken paines to col<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ct the chiefe so I pray thee in thine own booke before thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>eade it, amend them thus.</p>
+   <p>
+      <table>
+         <row>
+            <cell role="label">
+               <hi>Page</hi>
+            </cell>
+            <cell role="label">
+               <hi>Line.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Errata.</hi>
+            </cell>
+            <cell role="label">
+               <hi>Correction.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>9</cell>
+            <cell>10</cell>
+            <cell>or Principles;</cell>
+            <cell>principles;</cell>
+         </row>
+         <row>
+            <cell>24</cell>
+            <cell>19</cell>
+            <cell>perfect and more</cell>
+            <cell>Perfect, and no</cell>
+         </row>
+         <row>
+            <cell>
+               <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bid</hi>
+            </cell>
+            <cell>24</cell>
+            <cell>mediate</cell>
+            <cell>immediate</cell>
+         </row>
+         <row>
+            <cell>33</cell>
+            <cell>5</cell>
+            <cell>Principle prescriptions</cell>
+            <cell>Principles</cell>
+         </row>
+         <row>
+            <cell>68</cell>
+            <cell>3</cell>
+            <cell>actuall, and</cell>
+            <cell>actuall. And</cell>
+         </row>
+         <row>
+            <cell>74</cell>
+            <cell>4</cell>
+            <cell>are onely</cell>
+            <cell>one onely</cell>
+         </row>
+         <row>
+            <cell>80</cell>
+            <cell>2</cell>
+            <cell>Beginning of</cell>
+            <cell>Principles of</cell>
+         </row>
+         <row>
+            <cell>88</cell>
+            <cell>3</cell>
+            <cell>combine</cell>
+            <cell>continue</cell>
+         </row>
+         <row>
+            <cell>102</cell>
+            <cell>15</cell>
+            <cell>motions</cell>
+            <cell>notions</cell>
+         </row>
+         <row>
+            <cell>212</cell>
+            <cell>8</cell>
+            <cell>receyved</cell>
+            <cell>perceyved</cell>
+         </row>
+         <row>
+            <cell>231</cell>
+            <cell>8</cell>
+            <cell>righteousnes,</cell>
+            <cell>vnrighteousnes,</cell>
+         </row>
+         <row>
+            <cell>237</cell>
+            <cell>16</cell>
+            <cell>thereof</cell>
+            <cell>therefore of</cell>
+         </row>
+         <row>
+            <cell>241</cell>
+            <cell>6</cell>
+            <cell>from the</cell>
+            <cell>for the</cell>
+         </row>
+         <row>
+            <cell>351</cell>
+            <cell>16</cell>
+            <cell>in that</cell>
+            <cell>That</cell>
+         </row>
+         <row>
+            <cell>448</cell>
+            <cell>25</cell>
+            <cell>followeth</cell>
+            <cell>floweth</cell>
+         </row>
+         <row>
+            <cell>
+               <hi>Fol.</hi>
+            </cell>
+            <cell>23</cell>
+            <cell>in former</cell>
+            <cell>inferiour</cell>
+         </row>
+         <row>
+            <cell>543</cell>
+            <cell>7</cell>
+            <cell>and excelent</cell>
+            <cell>excelent</cell>
+         </row>
+         <row>
+            <cell>554</cell>
+            <cell>1</cell>
+            <cell>doe vnderstand</cell>
+            <cell>doe not vnderstand</cell>
+         </row>
+      </table>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

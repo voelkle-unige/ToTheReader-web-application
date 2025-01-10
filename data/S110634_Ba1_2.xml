@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the honorable Gentleman, Sir Thomas Chaloner Knight.</title>
+           <author>Winter, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110634_Ba1_2</idno>
+           <idno type="DLPS">A11404</idno>
+           <idno type="STC">21660</idno>
+           <idno type="ESTC">S110634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the honorable Gentleman, Sir Thomas Chaloner Knight.</title>
+                 <author>Winter, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third dayes creation. By that most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done verse for verse out of the originall French by Thomas VVinter, Master of Arts</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Clarke, Thomas.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>12, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="23"/>
+   <head>To the honorable Gentleman, Sir <hi>Thomas Chaloner Knight.</hi>
+   </head>
+   <lg>
+      <l>TO thee, true picture of humanitie,</l>
+      <l>Learnings deare friend, wisdomes high fauorite,</l>
+      <l>That dost discerne twixt froathie vanitie</l>
+      <l>Of want on rimes, (bellowes of lewd delight,)</l>
+   </lg>
+   <lg>
+      <l>And learned straines of sacred poesie:</l>
+      <l>My Muse this shorter sonnet doth addresse,</l>
+      <l>Till for thy loue and gracefull courtesie,</l>
+      <l>She may in better Layes her zeale expresse.</l>
+   </lg>
+   <lg>
+      <l>For when (of better growth) she shall enroule</l>
+      <l>The praise of Worthies in records of fame;</l>
+      <l>Forgetfulnesse shall not her pen controule,</l>
+      <l>For not enregistring thy worthie name.</l>
+      <l>▪For thy deserts do truly her assure,</l>
+      <l>Thou rightfully art he that <note n="*" place="margin">Chaloner, <gap reason="illegible" resp="#apex" extent="1 word">
+               <desc>〈◊〉</desc>
+            </gap> Hal'honneur.</note>
+         <hi>Hal'honneur.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>T. Winter.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

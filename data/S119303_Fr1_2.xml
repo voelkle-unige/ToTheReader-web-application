@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Brinsley, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119303_Fr1_2</idno>
+           <idno type="DLPS">A16893</idno>
+           <idno type="STC">3789</idno>
+           <idno type="ESTC">S119303</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Brinsley, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The glorie of the latter temple greater then of the former : Opened in a sermon preached at the consecration or restitution of the Parish Church of Flixton in the island of Louingland in the county of Suffolke; being sometimes the mother church of the East-Angles. 11. March. 1630 By Iohn Brinsley</title>
+                 <author>Brinsley, John</author>
+                 <imprint>
+                    <publisher>Miller, George</publisher>
+                    <distributor>Bird, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>4, 23, 1 page, table, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>REVERENDO IN CHRIS TO PATRI AC DOMINO FRANCIS<g ref="char:EOLhyphen"/>CO PROVIDENTIA DIVI<g ref="char:EOLhyphen"/>NA NORWICENSI EPISCOPO.</p>
+   <p>Nec Non VERE VENERABILI VIRO IO<g ref="char:EOLhyphen"/>HANNI WENTWORTH DE SO<g ref="char:EOLhyphen"/>MERLEITON IN COMIT. SVF<g ref="char:EOLhyphen"/>FOLCIAE MILITI ET RECTORIAE DE FLIXTON PATRONO DIGNISSIMO</p>
+   <p>MEDITATIONES HAS DE TEM<g ref="char:EOLhyphen"/>PLI EVANGELICI GLORIA IN DEVOTISSIMI OBSEQVII TESTIMONIVM D. D. D.</p>
+   <closer>
+      <signed>IOH. BRINSLEY.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

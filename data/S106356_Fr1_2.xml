@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In memoriam Perkinsi.</title>
+           <author>Clapham, Henoch</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106356_Fr1_2</idno>
+           <idno type="DLPS">A09450</idno>
+           <idno type="STC">19735.6</idno>
+           <idno type="ESTC">S106356</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In memoriam Perkinsi.</title>
+                 <author>Clapham, Henoch</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The reformation of couetousnesse : Written vpon the 6. chapter of Mathew, from the 19. verse to the ende of the said chapter. By William Perkins</title>
+                 <author>Perkins, William</author>
+                 <imprint>
+                    <distributor>Ling (Lyng), Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Bushell, Thomas.</publisher>
+                            <publisher>Creede, Thomas.</publisher>
+                            <publisher>Ling (Lyng), Nicholas.</publisher>
+                            <publisher>Newbery, John.</publisher>
+                            <publisher>Smethwick (Smithick, Smythicke), John</publisher>
+                        </imprint>
+                 <extent>4, 263, 1 page, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>In memoriam Perkinsi.</head>
+   <l>Is Perkins gone, that whilome was a Lamp,</l>
+   <l>A Cantabrigian Phôspher shining farre?</l>
+   <l>Gon, gon indeed. And yet his deeds remain</l>
+   <l>As monuments of such a writers worth.</l>
+   <l>Hei-papist snarle, cōtend his works to dim,</l>
+   <l>Thou bites &amp; blots thy wretched selfe, not him.</l>
+   <closer>
+      <signed>He. Clapham.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE SAME PATRON, THE GREAT MASTER of this MYSTERIE.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2396_Fr1_4</idno>
+           <idno type="DLPS">A09098</idno>
+           <idno type="STC">194</idno>
+           <idno type="ESTC">S2396</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE SAME PATRON, THE GREAT MASTER of this MYSTERIE.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The repertorie of records : remaining in the 4. treasuries on the receipt side at Westminster, the two remembrancers of the Exchequer. With a briefe introductive index of the records of the Chancery and Tovver. Whereby to give the better direction to the records abovesaid. As also, a most exact calender of all those records of the Tovver: in which, are contained and comprised whatsoever may give satisfaction to the searcher, for tenure or tytle of any thing</title>
+                 <author>Agard, Arthur</author>
+                 <imprint>
+                    <distributor>Fisher, Benjamin</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Fawcet (Forcet), Thomas</publisher>
+                        </imprint>
+                 <extent>6, 141, 144-217, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>TO THE SAME PATRON, THE GREAT MASTER of this MYSTERIE.</head>
+   <p>(☜☞)</p>
+   <p>Our Author payeth this, In part of a more summe due.</p>
+</div>
+        </body>
+  </text>
+</TEI>

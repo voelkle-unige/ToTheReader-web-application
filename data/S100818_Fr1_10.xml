@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Temeraria EGLISHEMII audacia.</title>
+           <author>S., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100818_Fr1_10</idno>
+           <idno type="DLPS">A03932</idno>
+           <idno type="STC">1404</idno>
+           <idno type="ESTC">S100818</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Temeraria EGLISHEMII audacia.</title>
+                 <author>S., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Guil: Barclayi amoeniorum artium, &amp; medicinæ doctoris, judicium, de certamine G. Eglisemmii cum G. Buchanano, pro dignitate paraphraseos Psalmi CIIII : Non violandi manes. Adjecta sunt, Eglisemmii ipsum iudicium, ut editum fuit Londini, typis Eduardi Aldæi, ann. Dom. 1619: et in gratiam studiosæ iuventutis, ejusdem Psalmi elegans paraphrasis Thomae Rhaedi</title>
+                 <author>Barclay, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Flesher (Fletcher), Miles</publisher>
+                        </imprint>
+                 <extent>32, 61, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Discourses on government and political theory</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="11"/>
+   <head>Temeraria EGLISHEMII audacia.</head>
+   <l>LOngaevum, priscis{que} parem, summū{que} poëta<gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap>,</l>
+   <l>(Illius opposito nomen in orbe viget)</l>
+   <l>Imberbis medicus, qui non prius induit arma,</l>
+   <l>Horrida (quidreferā?) Martis ad arma vocat.</l>
+   <l>Sed fuge: te insequitur magni levis umbra poëtae.</l>
+   <l>Sisapis <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>ista manu tela tremente cadant.</l>
+   <l>Dum fugis hanc pleno vocem da pallidus ore,</l>
+   <l>Imberbi medico parce poeta tuo.</l>
+   <closer>
+      <signed>G. S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122056_Fr1_2</idno>
+           <idno type="DLPS">A07381</idno>
+           <idno type="STC">17765</idno>
+           <idno type="ESTC">S122056</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Churches, that is, appropriate places for Christian vvorship : both in, and ever since the Apostles times. A discourse at first more briefly delivered in a colledge chappell, and since enlarged. By Joseph Mede, B.D. and fellow of Christs Colledge in Cambridge</title>
+                 <author>Mede, Joseph</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Clarke, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>6, 74 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Art and architecture</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>REV<seg rend="sup">mo</seg>. IN CHRISTO PATRI
+ET DOMINO SVO SVMME
+HONORANDO,
+<hi>DOMINO</hi>
+GVILIELMO
+DIVINA PROVIDENTIA
+ARCHIEPISCOPO CANTVARIENSI,
+METROPOLITANO,
+TOTIVSQVE ANGLIAE
+PRIMATI.</p>
+   <p>Hanc suam de Ecclesiarum (hoc est, Lo<g ref="char:EOLhyphen"/>corum
+cultui Christiano dicatorum) jam inde
+ab Apostolorum temporibus antiqui<g ref="char:EOLhyphen"/>tate
+Dissertationem,
+<hi>Antiquitatis Ecclesiasticae propugnatori, sublati{que} inter
+sacrum &amp; profanum discriminis assertori eximio,</hi>
+In grati &amp; officiosi animi indicium
+<hi>Eâ, quâ decet, submissione, &amp; favoris spe</hi>
+DICAT CONSECRATQUE
+<hi>Rev<seg rend="sup">ma</seg> Paternitatis ipsius</hi>
+Cultor &amp; Sacellanus
+observantissimus
+<hi>I. M.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

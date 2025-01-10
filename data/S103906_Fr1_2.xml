@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST EXCELLENT MAIESTIE.</title>
+           <author>Hayward, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103906_Fr1_2</idno>
+           <idno type="DLPS">A02848</idno>
+           <idno type="STC">12988</idno>
+           <idno type="ESTC">S103906</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST EXCELLENT MAIESTIE.</title>
+                 <author>Hayward, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An ansvver to the first part of a certaine conference, concerning succession, published not long since vnder the name of R. Dolman</title>
+                 <author>Hayward, John, Sir</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Harrison, John 3.</publisher>
+                            <publisher>Read, Richard.</publisher>
+                            <publisher>Short, Peter</publisher>
+                            <distributor>Burby, Cuthbert</distributor>
+                            <distributor>Waterson, Simon</distributor>
+                        </imprint>
+                 <extent>168 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE KINGS MOST EXCELLENT MAIESTIE.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Ost loued, most dread, most absolute both borne and re<g ref="char:EOLhyphen"/>spected Soueraigne, to offer excuse for that which I nee<g ref="char:EOLhyphen"/>ded not to haue done, were secretly to confesse, that hauing the iudgement to discerne a fault, I wanted the will not to commit it. Againe, to seeke out some coulers to make it more plausible, were to bring in question the sufficiencie thereof. Therefore without further insinuation either for pardon or for acceptance, I here present vnto your Maiestie this defence, both of the pre<g ref="char:EOLhyphen"/>sent authoritie of Princes, and of succes<g ref="char:EOLhyphen"/>sion
+<pb facs="3"/>
+according to proximitie of bloud: wherein is maintained, that the people haue no lawfull power, to remoue the one, or repell the other: In which two points I haue heretofore also declared my opinion, by publishing the tragicall euents which ensued the deposition of King <hi>Richard,</hi> and vsurpation of King <hi>Henrie</hi> the fourth. Both these labours were vndertakē with particular respect, to your Maiesties iust title of succession in this realme: and I make no doubt, but all true hearted Englishmen wil alwaies be both ready and forward to defend the same, with expence of the dearest drops of their bloud. The Lord vouch<g ref="char:EOLhyphen"/>safe to second your honorable entrance to the possession of this crowne, with a long &amp; prosperous continuance ouer vs.</p>
+   <closer>
+      <signed>Your Maiesties most humble and faithfull subiect. Io: HAYVVARD.</signed>
+   </closer>
+   <postscript>
+      <q>
+         <l>Qui tibi Nestoreum concessit pectus e<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> ora,</l>
+         <l>Nestoreos etiam concedat <hi>Iupiter</hi> annos.</l>
+      </q>
+   </postscript>
+</div>
+        </body>
+  </text>
+</TEI>

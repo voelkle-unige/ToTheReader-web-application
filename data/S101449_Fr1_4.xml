@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Advert]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101449_Fr1_4</idno>
+           <idno type="DLPS">A07931</idno>
+           <idno type="STC">18301</idno>
+           <idno type="ESTC">S101449</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Advert]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A daily exercise for ladies and gentlewomen : Whereby they may learne and practise the whole art of making pastes, preserues, marmalades, conserues, tartstuffes, gellies, breads, sucket candies, cordiall vvaters, conceits in sugar-vvorkes of seuerall kindes. As also to dry lemonds, orenges, or other fruits. Newly set forth, according to the now approued receipts, vsed both by honourable and worshipfull personages. By Iohn Mvrrel, professor thereof</title>
+                 <author>Murrell, John</author>
+                 <imprint>
+                    <distributor>Helme, Anne</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Browne, John 1.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>162 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Culinary arts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="advert">
+   <pb facs="10"/>
+   <pb facs="10"/>
+   <p>GEntle Reader, if any shall bee desirous to buy any of the moulds wherein any of the formes specified in the Booke fol<g ref="char:EOLhyphen"/>lowing are made, they may haue them also where these Bookes are to be sould.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

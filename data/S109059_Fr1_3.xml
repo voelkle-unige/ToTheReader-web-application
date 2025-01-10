@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>IOANNES CLERCVS LECTORI. S.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1547</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109059_Fr1_3</idno>
+           <idno type="DLPS">A18992</idno>
+           <idno type="STC">5409</idno>
+           <idno type="ESTC">S109059</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>IOANNES CLERCVS LECTORI. S.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>De mortuorum resurrectione, &amp; extremo iuditio in quatuor linguis succincte conscriptum opusculu [m] . Ioanne Clerco autore. cui, ut studiosa iuuenta facilius peregrinarum linguarum comprehenderet mysteria, recenter accessere eiusdem autoris Italicæ &amp; Gallicæ verborum coniugationes</title>
+                 <author>Clerk, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1547</date>
+                 <publisher>Herford (Hereford, Hertford), John.</publisher>
+                            <publisher>Toy (Toeus), Robert</publisher>
+                        </imprint>
+                 <extent>84 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>IOANNES CLERCVS LECTORI. S.</head>
+   <p>
+      <seg rend="decorInit">H</seg>AEC in publicum edid<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> peregrinis eloquijs, ea gra tia quò uulgarior daretur legendi occasio, &amp; crebra deinceps lectione <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in compluri<g ref="char:EOLhyphen"/>bus citius pergliscere<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>: si quid ad stomach<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> non faciat, meam candidus accipe uiua uo ce sentenciam ulteriorem: ego quidem a peritioribus nequaquam renitar instrui.</p>
+</div>
+        </body>
+  </text>
+</TEI>

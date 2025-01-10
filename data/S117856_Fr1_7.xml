@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117856_Fr1_7</idno>
+           <idno type="DLPS">A13001</idno>
+           <idno type="STC">23294</idno>
+           <idno type="ESTC">S117856</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The life and death of Thomas Wolsey Cardinall : Diuided into three parts: his aspiring, triumph, and death. By Thomas Storer student of Christ-church in Oxford</title>
+                 <author>Storer, Thomas</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Dawson, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <lg>
+      <l>COnceits true <hi>Storer,</hi> when I view'd of late,</l>
+      <l>Thy new-borne <hi>Wolsey,</hi> while he did remaine</l>
+      <l>As in the matrice, yet inanimate,</l>
+      <l>An imperfected embrion of thy braine.</l>
+   </lg>
+   <lg>
+      <l>O how my feareful thoughts misaugured,</l>
+      <l>Least <hi>Wolsey</hi> like the worke himselfe did frame,</l>
+      <l>Should euer thus stand inaccomplished,</l>
+      <l>Which none dare end, saue who began the same!</l>
+   </lg>
+   <lg>
+      <l>But now, although thy worke be so perfected,</l>
+      <l>As that no prowder vaunting Muse can mend it,</l>
+      <l>And though the stately frame by him erected,</l>
+      <l>Lies still imperfect, while no hand dares end it.</l>
+      <l>Yet thine thus ended doth with his agree,</l>
+      <l>That thine, like his, shall neuer ended be.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authorem.</title>
+           <author>S., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111000_Fr1_10</idno>
+           <idno type="DLPS">A12469</idno>
+           <idno type="STC">22794</idno>
+           <idno type="ESTC">S111000</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authorem.</title>
+                 <author>S., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sea grammar : vvith the plaine exposition of Smiths Accidence for young sea-men, enlarged. Diuided into fifteene chapters: what they are you may partly conceiue by the contents. Written by Captaine Iohn Smith, sometimes gouernour of Virginia, and admirall of Nevv-England</title>
+                 <author>Smith, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>12, 72, 83-86 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="6"/>
+   <head>In Authorem.</head>
+   <lg>
+      <l>THou which in Sea-learning would'st Clerk commence,</l>
+      <l>First learne to reade, and after reade to learne,</l>
+      <l>For words to sound, and not to know their sense,</l>
+      <l>Is for to saile a ship without a Sterne.</l>
+      <l>By this Sea Grammar thou mayst distinguish</l>
+      <l>And vnderstand the Lattine by the English.</l>
+   </lg>
+   <lg>
+      <l>Here mayst thou learne the names of all ships geere,</l>
+      <l>And with their names, their natures, and their vse;</l>
+      <l>To hoise the Sailes, and at the Helme to steere;</l>
+      <l>To know each Shroud, each Rope, each Knot, each Noose,</l>
+      <l>And by their names to call them euery one,</l>
+      <l>'Tis such a Booke as may be call'd Such none.</l>
+   </lg>
+   <lg>
+      <l>And yet a <hi>Smith</hi> thereof the Authour is,</l>
+      <l>And from his Forge alone we haue the same,</l>
+      <l>Who, for his skill in such a worke as this,</l>
+      <l>Doth farre excell all others of his name:</l>
+      <l>He's neither <hi>Lock-Smith, Gold-Smith,</hi> nor <hi>Black-Smith,</hi>
+      </l>
+      <l>But (to giue him his right name) he's <hi>Iack-Smith.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>S.S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

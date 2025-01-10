@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103078_Fr1_2</idno>
+           <idno type="DLPS">A15370</idno>
+           <idno type="STC">25647</idno>
+           <idno type="ESTC">S103078</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An exposition of the 13. chapter of the Revelation of Iesus Christ. By Iohn Wilkison</title>
+                 <author>Wilkinson, John, dissenter</author>
+                 <imprint>
+                    <publisher>Thorp, Giles</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>3, 4-37, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">I</seg>T was the purpose and desire of the Authour of this Treatise to haue published his Iudgment of the whole booke of the Revelation, But through the malice of the Prelates who divers times spoyled him of his goods, and kept him many yeres in prison; he was prevented of his purpose. After his death some of his labours comming to the hands of his friends, in scattred and unperfect papers; they laboured with the help of others that heard him declare his judgement herein, to set forth this little treatise, wherin they have not varied from the Authours Iudgement, but onely in one opint in the 3. verse, which is concerning the wounded head, wherein for the clearing of the matter, they have added the lines thus " marked. Which a litle differeth from the Authours understanding of it; the which should not haue been altered, if the worke had been left perfect.</p>
+</div>
+        </body>
+  </text>
+</TEI>

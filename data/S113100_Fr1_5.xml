@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA in the Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113100_Fr1_5</idno>
+           <idno type="DLPS">A08017</idno>
+           <idno type="STC">18382</idno>
+           <idno type="ESTC">S113100</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA in the Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Quaternio or A fourefold vvay to a happie life : set forth in a dialogue betweene a countryman and a citizen, a divine and a lawyer. Per Tho: Nash philopolitem</title>
+                 <author>Nash, Thomas</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>16, 280 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <div type="errata_in_book">
+      <head>
+         <hi>ERRATA</hi> in the Booke.</head>
+      <p>FOl. 14. line 24 for <hi>fennes</hi> reade <hi>fumes.</hi> fol. 21. l. 12 for <hi>Citie parish</hi> r. <hi>little parish</hi> fol. 35. for <hi>Martin</hi> r. <hi>Marlin.</hi> fol. 67. l. 32. for <hi>from the line of</hi> r. <hi>to the line.</hi> fol 103 for <hi>Cufiters</hi> r. <hi>Curfiters, ibid.</hi> for <hi>Rust,</hi> r. <hi>Iurisp.</hi> the last line but one▪ fol. 332. l. r. for <hi>lying</hi> r. <hi>begg<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>ng,</hi> and for <hi>lye</hi> r. <hi>beg.</hi> fol. 230 for <hi>Adelstace</hi> r. <hi>Adelstane.</hi> l. 15. fol. 240. for <hi>Hen. the</hi> 4<hi>th</hi> r <hi>Edwithe</hi> 4<hi>th.</hi>
+      </p>
+   </div>
+   <div type="errata_in_margin">
+      <head>
+         <hi>ERRATA</hi> in the Margine.</head>
+      <p>In the Epistle for <hi>vellesuum est, cui{que}</hi> r. <hi>velle suum cui{que} est,</hi> for <hi>had</hi> r. <hi>heard.</hi> fol. 9 for <hi>nuptae</hi> r. <hi>innuptae,</hi> and for <hi>innuptae.</hi> r. <hi>nuptae.</hi> fol. 30. for <hi>Olympia</hi> r. <hi>Olympiaca.</hi> fol. 32. for <hi>Hibernus</hi> r. <hi>cum Hibernus,</hi> fol. 55 for <hi>mutatur</hi> r <hi>mutantur,</hi> fol. 39. for <hi>praeter</hi> r. <hi>propter.</hi> pag. 88. for <hi>la<g ref="char:EOLhyphen"/>nam</hi> r. <hi>lenam,</hi> p. 106. for <hi>ostendere</hi> r <hi>ascendere,</hi> fol. 134. for <hi>de Temps</hi> r. <hi>de tempore,</hi> fol. 132. for <hi>nescit</hi> r. <hi>noscit,</hi> fol. 162. for <hi>senem revidi</hi> r. <hi>senem sanum revidi,</hi> and for <hi>addicasset</hi> r. <hi>abdi<g ref="char:EOLhyphen"/>casset,</hi> fol. 169. for <hi>superbia</hi> r <hi>superbiam,</hi> fol. 244. for <hi>argenium</hi> r. <hi>bominem,</hi> p. 274. for <hi>pro<g ref="char:EOLhyphen"/>liveret</hi> r. <hi>prohiberet,</hi> p. 278. for <hi>quo{que}</hi> r. <hi>quasi.</hi>
+      </p>
+      <p>
+         <hi>These faults haue I espied, peradventure some others haue escaped me,</hi> (Bernar<g ref="char:EOLhyphen"/>dus enim non vidit omne) <hi>which whosoever shall finde, if he will in a friend<g ref="char:EOLhyphen"/>ly manner make them knowne vnto me, I will thanke him, and if ever it be my fortune to meete him at the</hi> Presse, <hi>I will endevour to require him.</hi>
+      </p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

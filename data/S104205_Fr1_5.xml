@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD LECTOREM: IN LAVDEM AVTHORIS, ROBERTI BROVGHTON, Interi∣onis Templi, Carmina.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104205_Fr1_5</idno>
+           <idno type="DLPS">A03648</idno>
+           <idno type="STC">13778</idno>
+           <idno type="ESTC">S104205</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD LECTOREM: IN LAVDEM AVTHORIS, ROBERTI BROVGHTON, Interi∣onis Templi, Carmina.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A concordancy of yeares : Containing a new, easie, and most exact computation of time, according to the English account. Also the vse of the English and Roman kalender, with briefe notes, rules, and tables, as well mathematicall and legal, as vulgar,for each priuate mans occasion. Newly composed and digested, by Arthur Hopton, Gentleman. The contents follow after the epistles</title>
+                 <author>Hopton, Arthur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Moore (More), Richard.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>16, 252, 2 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic">
+   <pb facs="7"/>
+   <head>AD LECTOREM: IN LAVDEM AVTHORIS, ROBERTI BROVGHTON, <hi>Interi<g ref="char:EOLhyphen"/>onis Templi, Carmina.</hi>
+   </head>
+   <lg>
+      <l>
+         <hi>A</hi> ARtis, &amp; ingenij vi, nixus (lector) in arcto</l>
+      <l>
+         <hi>R</hi> Replicat <hi>Hoptonus</hi> cōmodapro partria.</l>
+      <l>
+         <hi>T</hi> Tramite vulgari non est ingressus: at eccè</l>
+      <l>
+         <hi>H</hi> Hîc procul occultas inuenit ille vias.</l>
+      <l>
+         <hi>V</hi> Vraniae motus, numeros, scrutatur &amp; astra:</l>
+      <l>
+         <hi>R</hi> Rarus &amp; aerarum computus ecce tibi.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>H</hi> Hinc tibi concursus lunae, cum sole: notatur</l>
+      <l>
+         <hi>O</hi> Ortus stellarum, Cosmicus, &amp; Chronicus.</l>
+      <l>
+         <hi>P</hi> Pandit deliquium solis, lunae{que}: forensi</l>
+      <l>
+         <hi>T</hi> Tum fastos memorat, iustitij{que} dies.</l>
+      <l>
+         <hi>O</hi> Optamus placeat, saueas tu: sin minus, audin?</l>
+      <l>
+         <hi>N</hi> Necquicquā infestans, rumpitor inuidiâ.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

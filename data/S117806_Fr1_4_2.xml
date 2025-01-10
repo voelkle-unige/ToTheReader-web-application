@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>P., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117806_Fr1_4_2</idno>
+           <idno type="DLPS">A12980</idno>
+           <idno type="STC">23273</idno>
+           <idno type="ESTC">S117806</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>P., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The churches lamentation for the losse of the godly : deliuered in a sermon, at the funerals of that truly noble, and most hopefull young gentleman, Iohn Lord Harington, Baron of Exton, Knight of the noble order of the Bath, and his Maiesties lieutenaunt of the county of Rutland, at Exton in Rutland, the last day of March 1614. Together with a patterne of piety, and the power of godlinesse expressed in his life and death, who yeelded to nature the 27. of February, 1613. when he wanted two moneths of 22 yeeres of his age. By Richard Stock, pastor of Alhallowes-Breadstreet in London</title>
+                 <author>Stock, Richard</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>32, 105, 7 pages, illustrations, portraits (woodcuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>In this dead picture, onely doth appeare</l>
+      <l>A Lord, and Lords sole heire, to Country deare;</l>
+      <l>If his soules portrait 'twere, it would thee tell,</l>
+      <l>That here great Arts, vertues and grace did dwell</l>
+   </lg>
+   <closer>
+      <signed>I. P. Cant. Col. Syd. Suss.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

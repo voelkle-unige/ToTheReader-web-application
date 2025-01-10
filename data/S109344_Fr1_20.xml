@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Dauies, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109344_Fr1_20</idno>
+           <idno type="DLPS">A19903</idno>
+           <idno type="STC">6333</idno>
+           <idno type="ESTC">S109344</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Dauies, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Microcosmos : The discovery of the little world, with the government thereof. By Iohn Davies</title>
+                 <author>Davies, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1603</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Barnes, Joseph</publisher>
+                        </imprint>
+                 <extent>16, 254, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>TO praise thee, beeing what I am to thee,</l>
+   <l>Were (in effect) to dispraise thee, and mee:</l>
+   <l>For, who doth praise himselfe, deserves dispraise;</l>
+   <l>Thou art my selfe, then thee I may not praise:</l>
+   <l>But this, in Na<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ure, may I say by Arte,</l>
+   <l>Thine Arte, by Nature, makes thee what thou art.</l>
+   <signed>Your louing Brother and worst part of your selfe Richard Dauies</signed>
+</div>
+        </body>
+  </text>
+</TEI>

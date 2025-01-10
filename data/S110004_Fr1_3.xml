@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers.</title>
+           <author>Middleton, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110004_Fr1_3</idno>
+           <idno type="DLPS">A07523</idno>
+           <idno type="STC">17906</idno>
+           <idno type="ESTC">S110004</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers.</title>
+                 <author>Middleton, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The wisdome of Solomon paraphrased. Written by Thomas Middleton</title>
+                 <author>Middleton, Thomas</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 </imprint>
+                 <extent>190 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Gentlemen Readers.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, I giue you the surueyaunce of my new-bought grounde, and will only stand vnto your ver<g ref="char:EOLhyphen"/>dicts, I feare me, that the acres of my fielde passe the anchers of my seed, if wanting seed, then I hope it wil not be to much seeded: this is my bare excuse: but trust me, had my wit been sufficient to maintaine the freedome of my will, then both should haue been answerable to your wishes, yet neuerthelesse thinke of it as a willing, though not a fulfilling moity. But what meane I? while I thus argue, <hi>Mo<g ref="char:EOLhyphen"/>mus</hi> and <hi>Zoylus,</hi> those two Rauens de<g ref="char:EOLhyphen"/>uoure my seede, because J lacke a Scarre<g ref="char:EOLhyphen"/>crowe:
+<pb facs="4"/>
+indeede so J may haue lesse than I haue, when such fowle-gutted Rauens swallowe vp my portion: if you gape for stuffing, hie you to dead carrion carkasses, and make them your Ordinaries; J be<g ref="char:EOLhyphen"/>seeche you Gentlemen, let mee haue your ayde, and as you haue seene the first pra<g ref="char:EOLhyphen"/>ctise of my husbandry in sowing, so let me haue your helping hands vnto my reaping.</p>
+   <closer>
+      <signed>
+         <hi>Yours deuoted in friendship.</hi> Thomas Middleton</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117235_Fr1_4</idno>
+           <idno type="DLPS">A16535</idno>
+           <idno type="STC">3445a</idno>
+           <idno type="ESTC">S117235</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The balme of Gilead prepared for the sicke : The whole is diuided into three partes: 1. The sicke mans sore. 2. The sicke mans salue. 3. The sicke mans song. Published by Mr. Zacharie Boyd, preacher of Gods Word, at Glasogw [sic] .August</title>
+                 <author>Boyd, Zacharie</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 <publisher>Hart, Andro, Heirs of.</publisher>
+                            <publisher>Wreittoun (Scribonius), John</publisher>
+                        </imprint>
+                 <extent>8, 125, 127-128, 128-130, that is 132, 1, 131-147, 147-157, 178-265 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>TO THE READER.</head>
+   <p>
+      <seg rend="decorInit">T</seg>HERE was never an age more fertile in reproofes and reproches than this: We are come to the <hi>dregges of dayes,</hi> where it is counted vertue to point out the imperfections of our brethren: Many are like <hi>the Flee,</hi> that can not rest but vpon <hi>a scabbe.</hi> Charitable Reader, take in good part these my paines ta<g ref="char:EOLhyphen"/>ken for thy profit: As for thee, whose countenance is cast downe, because of GODS graces in others, <hi>If thou doe well shall it not bee accepted?</hi>
+      <note place="margin">Gen. 4. v. 7.</note>
+      <hi>but if not, sinne lyeth as the doore</hi>: Doe better thy selfe and that shall be my reproofe. It was well said by S<seg rend="sup">t</seg>. Ierome:<note place="margin">Hieron. ad Pam<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>nach. Epist. 5. cap. 8.</note>
+      <hi>Aut profer me<g ref="char:EOLhyphen"/>liores epula<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> &amp; me conviva v<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ere, aut quali<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>que nostra coe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ula contentus esto</hi>: that is, if thou can prepare better cheare let <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nce partake: if not, bee content with such as <hi>I</hi> haue.</p>
+</div>
+        </body>
+  </text>
+</TEI>

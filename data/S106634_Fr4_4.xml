@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Souhaits Royaux &amp; Loyaux.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106634_Fr4_4</idno>
+           <idno type="DLPS">A13273</idno>
+           <idno type="STC">23575</idno>
+           <idno type="ESTC">S106634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Souhaits Royaux &amp; Loyaux.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>All the small vvorkes of that famous poet Iosuah Siluester : Gathered into one volume</title>
+                 <author>Sylvester, Josuah</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>10, 308, 16, 191, 5, 38, 10, 43-66, 4, 29, 19 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="fre" type="dedication">
+   <pb facs="112"/>
+   <pb facs="112"/>
+   <head>Souhaits Royaux &amp; Loyaux.</head>
+   <lg>
+      <head>Au Roy.</head>
+      <l>AIusi, <hi>l' Ancien des Temps,</hi> d' Ans, d'Honneurs, &amp; Bonl</l>
+      <l>Comblant ce Chef Royal; couronne voz Labeurs:</l>
+      <l>Qui, pour le <hi>Droict des Roys,</hi> d'vn Glaiue tout divin,</l>
+      <l>Combattez <hi>l'Antichrist,</hi> &amp; son grand BELLARMIN.</l>
+   </lg>
+   <lg>
+      <head>Au Prince Charles.</head>
+      <l>
+         <gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>insi le Tout-puissant, de sa main de PANDORE,</l>
+      <l>Face d'vn <hi>Charle-moindre,</hi> vn <hi>Charle-magne</hi> encore;</l>
+      <l>Qui, suivant Voz <hi>Vertuz,</hi> deriue, perennel,</l>
+      <l>Saincts-Sages-Preux STVARTS au Sceptre paternel.</l>
+   </lg>
+   <lg>
+      <head>Aux Princes Palatins.</head>
+      <l>
+         <gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>insi, le Ciel benin de ses <hi>Tresors</hi> benisse,</l>
+      <l>
+         <hi>L'Hymen</hi> heureux &amp; sainct de FRED'RIC &amp; d'ELIZ</l>
+      <l>De sorte, que d'Iceux, leurs <hi>Filz,</hi> &amp; leurs <hi>Neveuz,</hi>
+      </l>
+      <l>Nous naissent deformais des EMPEREVRS heureux.</l>
+   </lg>
+   <lg>
+      <head>Aux Anglois &amp; Allemans.</head>
+      <l>
+         <gap reason="illegible: in gutter" extent="1 letter">
+            <desc>•</desc>
+         </gap>insi, <hi>Lions</hi> ANGLOIS &amp; <hi>Aigles</hi> d'ALLEMAGNE</l>
+      <l>(Triumphants, pour <hi>la Foy,</hi> de ROME &amp; de l'ESPAG</l>
+      <l>Terrassent coup a coup les <hi>Lunes</hi> du TVRQVOIS,</l>
+      <l>Pour planter tout par tout les <hi>Lauriers</hi> de la CROIX.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO SCOTLAND.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109349_Fr1_2</idno>
+           <idno type="DLPS">A05177</idno>
+           <idno type="STC">15312</idno>
+           <idno type="ESTC">S109349</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO SCOTLAND.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Scottish souldier. By Lavvder</title>
+                 <author>Lauder, George</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>TO SCOTLAND.</head>
+   <l>BEhold the shaddow of thy Warrelike Sonne</l>
+   <l>Great Mother, from whose Worthie-fertile Wombe</l>
+   <l>So manie thousands haue tane birth, and wonnne</l>
+   <l>An endlesse Fame abroad, and Name at home:</l>
+   <l>Sharing the glorie of each Conquest great,</l>
+   <l>And Victorie obtainde in brave defaite.</l>
+   <closer>
+      <signed>LAWDER.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

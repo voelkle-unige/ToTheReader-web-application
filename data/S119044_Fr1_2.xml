@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Venner, Tobias</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119044_Fr1_2</idno>
+           <idno type="DLPS">A14326</idno>
+           <idno type="STC">24642</idno>
+           <idno type="ESTC">S119044</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Venner, Tobias</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe and accurate treatise, concerning, the taking of the fume of tobacco : which very many, in these dayes, doe too too licentiously vse. In which, the immoderate, irregular, and vnseasonable vse thereof is reprehended, and the true nature and best manner of vsing it perspicuously demonstrated. By Tobias Venner, Doctor of Physicke in Bath, in the spring and fall, and at other times, in the borough of North Petherton neare to the ancient hauen towne of Bridge-water in Somersetshire</title>
+                 <author>Venner, Tobias</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 <publisher>Jones, William 3.</publisher>
+                            <publisher>Moore (More), Richard</publisher>
+                        </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>ILLVSTRISSIMIS
+VEREQVE GENEROSIS
+VIRIS, DOMINO FRANCISCO
+HELE, ET DOMINO FRAN<g ref="char:EOLhyphen"/>CISCO
+ROGERS,
+MILITIBVS.</p>
+   <p>Hoc de Tobacci fumo opusculum,</p>
+   <p>In Deuoti animi testimonium, offert,
+dedicat, consecrat</p>
+   <closer>
+      <signed>Tobias Vennerus,
+Medic. Doctor.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

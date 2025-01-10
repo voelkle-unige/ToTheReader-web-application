@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105818_Bo1_1_23</idno>
+           <idno type="DLPS">A17001</idno>
+           <idno type="STC">3884</idno>
+           <idno type="ESTC">S105818</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A reuelation of the holy Apocalyps. By Hugh Broughton</title>
+                 <author>Broughton, Hugh</author>
+                 <imprint>
+                    <publisher>Schilders (Grapheus, Painter), Richard</publisher>
+                    <pubPlace>Netherlands--Middelburg</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>339, 11 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Literature</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_to_the_reader">
+   <p>Gentle Reader, where you see this title THE ARGVMENTS,
+printed above almost of every page, there read, OF THE RE<g ref="char:EOLhyphen"/>VELATION.
+And where you see, OF THE REVELATI<g ref="char:EOLhyphen"/>ON,
+there read, THE ARGVMENTS.</p>
+   <p>Good Reader vnderstand, that this larger <hi>Scholion</hi> fol<g ref="char:EOLhyphen"/>lowing,
+in order of time, was written afore these <hi>Argu<g ref="char:EOLhyphen"/>ments:</hi>
+as thou maist perceive in the reading.</p>
+</div>
+        </body>
+  </text>
+</TEI>

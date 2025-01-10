@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication Cartouche]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124962_Fr1_1</idno>
+           <idno type="DLPS">A72217</idno>
+           <idno type="STC">12360.7</idno>
+           <idno type="ESTC">S124962</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication Cartouche]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A new and accurate map of the world : drawne according to the truest descriptions, latest discoueries, and best obseruations that haue been made by English or strangers. VVith briefe and most plaine notes vpon the vvhole body of cosmographie, for the easie vnderstanding thereof: pleasant and vsefull for all such as desire to know further then of their owne home</title>
+                 <author>Grent, William</author>
+                 <imprint>
+                    <publisher>Jenner, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>5? sheets (versos blank), illustrations (metalcut), 1°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication_cartouche">
+   <pb facs="4"/>
+   <p>
+      <hi>To the Right Hon<seg rend="sup">ble</seg>:</hi> Henry Mountague, <hi>Baron of Kimbolton, Viscount Maundevile, Lo: President of his Ma<seg rend="sup">ties</seg>: most Ho:<seg rend="sup">ble</seg> Privy Counsell: this Mapp of the World, With Himselfe, and his best Services.</hi> Will: Grent</p>
+</div>
+        </body>
+  </text>
+</TEI>

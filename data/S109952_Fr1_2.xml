@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>RICHARDVS TAVERNE∣rus Britannicae pubi. S. D.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1540</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109952_Fr1_2</idno>
+           <idno type="DLPS">A68028</idno>
+           <idno type="STC">10445</idno>
+           <idno type="ESTC">S109952</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>RICHARDVS TAVERNE∣rus Britannicae pubi. S. D.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Flores aliquot sententiarum ex variis collecti scriptoribus. = The flovvers of sencies gathered out of sundry wryters by Erasmus in Latine, and Englished by Richard Tauerner. Huic libello non male co [n] nuenient mimi illi publiani nuper ab eodem Richardi uersi</title>
+                 <author>Erasmus, Desiderius</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1540</date>
+                 <publisher>Bankes, Richard.</publisher>
+                            <publisher>Taverner, Richard</publisher>
+                        </imprint>
+                 <extent>24 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>RICHARDVS TAVERNE<g ref="char:EOLhyphen"/>rus Britannicae pubi. S. D.</head>
+   <p>∵</p>
+   <p>EN edo hic vobis, florentissima pubes Britannica, flores sententiarū nonnullos (sic enim hūc libellū appellare libet) a flore sui seculi Desiderio Erasmo Roterodamo olim excerptos, &amp; modo a nobis dilucide magis {quam} accurate in An<g ref="char:EOLhyphen"/>glicum sermonem versos. Quod si has no<g ref="char:EOLunhyphen"/>stras lucubratiunculas grata manu acci<g ref="char:EOLhyphen"/>pere non grauabimini: erit <choice>
+         <abbr>qd</abbr>
+         <expan>quod</expan>
+      </choice> uehemen<g ref="char:EOLhyphen"/>ter gaudeam. Ne{que} enim un{quam} me pigebit, quātumuis obstrepant Zoili, in commo<g ref="char:EOLhyphen"/>dum uestrum subinde repuerascere. Sin<g ref="char:EOLhyphen"/>autem hij flosculi uidebuntur paulo mi<g ref="char:EOLhyphen"/>nutiores, aut forsitan etiam nugaciores {quam} ut in uulgus edantur ({quam}{quam} hae nugae quā<g ref="char:EOLhyphen"/>tūuis minutae seria ducūt) animum cert<g ref="char:EOLhyphen"/>meū uestri studiosissimū unprobare haud sane poteritis.</p>
+   <closer>
+      <salute>Beneualete.</salute>
+      <dateline>Ex aula regia <date>idibus Septembribus. Anno. M. D. XL.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

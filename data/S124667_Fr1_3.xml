@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>CARMEN AD Auctorem, seu Passus ad Athenas.</title>
+           <author>Widmerpoole, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124667_Fr1_3</idno>
+           <idno type="DLPS">A73749</idno>
+           <idno type="STC">5371.9</idno>
+           <idno type="ESTC">S124667</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>CARMEN AD Auctorem, seu Passus ad Athenas.</title>
+                 <author>Widmerpoole, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A chorologicall discourse of the vvell ordering, disposing, and gouerning of an honorable estate or reuennue : Briefely describing the duties of diuers officers therein to be imployed: for the better preseruing, improuing and augmenting of the same. Together with certaine briefe and necessary tables for the valuation of leases, annuities, and purchases, either in present or in reuersion. Written by T. C. Gent</title>
+                 <author>Clay, Thomas</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>6, 57+ pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>Jurisprudence</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="4"/>
+   <head>CARMEN AD Auctorem, seu Passus ad Athenas.</head>
+   <lg>
+      <l>TAm bene, tam graphica describis singula penna,</l>
+      <l>Disponens docta, munia cuique manu:</l>
+      <l>Ʋt facile constet cuiuis tentare volenti</l>
+      <l>Commoda de studijs multa scatere tuis.</l>
+      <l>Ingenij specimen das non vulgare sagacis,</l>
+      <l>Et lumen genij non mediocre boni.</l>
+      <l>
+         <gap reason="illegible" resp="#uom" extent="1 letter">
+            <desc>•</desc>
+         </gap>sta legat Quaestor, studeat Geometricus ista:</l>
+      <l>Officij partes noscet vterque sui.</l>
+   </lg>
+   <closer>
+      <signed>Tho: Widmerpoole.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

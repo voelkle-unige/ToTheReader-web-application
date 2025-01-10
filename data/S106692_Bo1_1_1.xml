@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Instruction to set all Musicke in Tablature for the Lute. The Preface of the Author.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106692_Bo1_1_1</idno>
+           <idno type="DLPS">A05334</idno>
+           <idno type="STC">15487</idno>
+           <idno type="ESTC">S106692</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Instruction to set all Musicke in Tablature for the Lute. The Preface of the Author.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe and plaine instruction to set all musicke of eight diuers tunes in tableture for the lute : With a briefe instruction how to play on the lute by tablature, to conduct and dispose thy hand vnto the lute, with certaine easie lessons for that purpose. And also a third booke containing diuers new excellent tunes. All first written in French by Adrian Le Roy, and now translated into English by F. Ke. gentleman</title>
+                 <author>Le Roy, Adrian</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 <publisher>Kingston, John.</publisher>
+                            <publisher>Rowbotham (Robothum), James</publisher>
+                        </imprint>
+                 <extent>180 pages, illustrations, music, oblong 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_preface">
+   <pb facs="6"/>
+   <head>An Instruction to set all Musicke in Tablature for the Lute. The Preface of the Author.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O begin by that is first necessaryly to be vnderstood, albeit I haue sufficiētly treated of it in another booke ioy<g ref="char:EOLunhyphen"/>ned to this, which containeth an easie instruction to the plaine Tabletur of the Lute, and the ordering of the hand theruppon, the Reader must vnderstand that the fiue lynes represent the fiue stringes of the Instru<g ref="char:EOLhyphen"/>ment, and the space last belowe the sixt or great basse.</p>
+   <p>Mine entent is now to teach them that are desirous to playe on the Lute, how they maye without great knowledge of Musicke set vppon that instrument all Ballets or songes, which they shall thinke good, so as they can onely sing, <hi>vt, re, my, fa, sol, la,</hi> &amp; know the valuation or time of notes, without that that it shalbe néedefull for them any farther to wade for the knowledge of any composition or concordes, that is to say, that it shall suffise them to knowe that this note <gap reason="music">
+         <desc>〈♫〉</desc>
+      </gap> called a sembrief, in the measure of two signified by this figure <gap reason="music">
+         <desc>〈♫〉</desc>
+      </gap> differring from the measure of thrée com<g ref="char:EOLhyphen"/>monly called Triplée, is in valew two minims <gap reason="music">
+         <desc>〈♫〉</desc>
+      </gap> and two minims are asmuch as foure Cratchets, <gap reason="music">
+         <desc>〈♫〉</desc>
+      </gap> foure Crat<g ref="char:EOLhyphen"/>chets asmuch as eight quauers, <gap reason="music">
+         <desc>〈♫〉</desc>
+      </gap> eight quauers asmuch as sixtéene semiquauers. <gap reason="music">
+         <desc>〈♫〉</desc>
+      </gap> There resteth no more to con<g ref="char:EOLunhyphen"/>sider but the little marke which is called a pricke, which alwayes is halfe asmuch in value as the note going before. As touching Triplée ye must vnderstand the like correspondence for the value of the notes therof.</p>
+   <p>To enter then into the ground of this present Art: all our Musicke consisteth in eight tunes although <hi>Glarian</hi> and some o<g ref="char:EOLhyphen"/>ther would deuide them into a greater number, as farre as twelue. The first whereof as consequently of all the rest we will treate of by rules and examples.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An Ogdoasticon, that is, eight Greeke Ʋersies. Written by Gerarde Phalce∣purgie of Nimega, touching Eunaplus, and his Craustatour Hadrianus Iunius.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1579</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101779_Fr1_6</idno>
+           <idno type="DLPS">A00437</idno>
+           <idno type="STC">10566</idno>
+           <idno type="ESTC">S101779</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An Ogdoasticon, that is, eight Greeke Ʋersies. Written by Gerarde Phalce∣purgie of Nimega, touching Eunaplus, and his Craustatour Hadrianus Iunius.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The lyves, of philosophers and oratours: vvritten in Greeke, by Eunapius, of the cittie of Sardeis in Lydia. Brought into light, translated into Latine, and dedicated to the Queenes most excellent Maiestie, our moste gracious princesse and soueraigne, Queene Elizabeth. By the great learned man, Hadrianus Iunius Hornanus. 1568. And now set foorth in English, at his request: and dedicated to the right Honourable, the Lord Chauncellour of England. 1579</title>
+                 <author>Eunapius</author>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <distributor>Jones (Jhones, Johnes), Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1579</date>
+                 </imprint>
+                 <extent>8, 43, 5 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>
+      <hi>An Ogdoasticon, that is, eight Greeke Ʋersies. Written by Gerarde Phalce<g ref="char:EOLhyphen"/>purgie</hi> of <hi>Nimega,</hi> touching <hi>Eunaplus,</hi> and his Craustatour <hi>Hadrianus Iunius.</hi>
+   </head>
+   <head>To this senc<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>.</head>
+   <l>BLinde darkenes held <hi>Eunapius</hi> long y<seg rend="sup">t</seg> truly wrote y<seg rend="sup">•</seg> liues Of many Philosophers, Physitians and Oratours:</l>
+   <l>Whom, <hi>Sambucus,</hi> worthy of prayse, and ready to do well,</l>
+   <l>Hath brought to light, &amp; let at large, frō Dūgeon darke and deepe,</l>
+   <l>But <hi>Iunius</hi> a Physition, &amp; the Philosopher good:</l>
+   <l>Hath him translated, &amp; made appeare, to all that list to reade,</l>
+   <l>More worthy prayse it is, to be a Translatour faithfull,</l>
+   <l>Then to make a Paraphrase, or to inuent a booke.</l>
+</div>
+        </body>
+  </text>
+</TEI>

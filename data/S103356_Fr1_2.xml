@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Honorable Knight, Sir Walter Cope.</title>
+           <author>Grimeston, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103356_Fr1_2</idno>
+           <idno type="DLPS">A01991</idno>
+           <idno type="STC">12135</idno>
+           <idno type="ESTC">S103356</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Honorable Knight, Sir Walter Cope.</title>
+                 <author>Grimeston, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Admirable and memorable histories containing the wonders of our time. Collected into French out of the best authors. By I [sic] Goulart. And out of French into English. By Ed. Grimeston. The contents of this booke followe the authors aduertisement to the reader</title>
+                 <author>Goulart, Simon</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>12, 646, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Honorable Knight, Sir <hi>Walter Cope.</hi>
+   </head>
+   <opener>
+      <salute>Sir,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>T may bee held indiscretion, that hauing lately escaped Shipwrack, I should so sodenly thrust out a<g ref="char:EOLhyphen"/>gaine from a safe Port into a tem<g ref="char:EOLhyphen"/>pestuous Sea of mens humors, and subiect my selfe to a new Cen<g ref="char:EOLhyphen"/>sure. I must confesse that silence had beene more secure, yet I may freely say, that neither conceipt of mine owne abilitie, nor any vaine affectation of applause, did make me runne into this danger, but onely a desire to spend such idle houres as I could steale from my daylye attendance in Court, in such sort as others might reape some content thereby. At the request of my friend I vndertooke the translation of this worke: the title wher<g ref="char:EOLhyphen"/>of shewes the subiect to be extraordinarie, and if many of these Histories shall seeme very strange, miraculous, and it may be fabulous, for that they exceede our com<g ref="char:EOLhyphen"/>mon sence &amp; apprehension, I must with Mounsier GOV<g ref="char:EOLhyphen"/>IART, referre them to the Authors, out of whose wri<g ref="char:EOLhyphen"/>tings they are collected, who being learned and iudici<g ref="char:EOLhyphen"/>ous,
+<pb facs="3"/>
+it is to bee presumed would not incurre so foule an imputation, as to bee reputed Liars. There is nothing mine but a bare tanslation, the which I haue faithfully performed; Such as it is, (beeing this last Lents exer<g ref="char:EOLhyphen"/>cise,) I haue presumed to offer vnto you, as a pledge of thankefullnesse for many kinde fauors. If it be not an<g ref="char:EOLhyphen"/>swerable to your worth, Impute it to my defects, and not vnto my will, whose desire is to giue you bet<g ref="char:EOLhyphen"/>ter satisfaction, that the old saying may not be verified in mee. <hi>Tritum est, perire quod facis ingrato.</hi> If it shall like you, I knowe it will please many, and my selfe shall reape a desired con<g ref="char:EOLhyphen"/>tent, with which hope I will rest.</p>
+   <closer>
+      <signed>Yours euer to be commanded. EDW. GRIMESTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>If it shall please the rea∣der, to restore these places in his owne booke, I hope the rest of the faultes are such, as cannot greatly staie the course of his reading.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102710_Ba1_2</idno>
+           <idno type="DLPS">A14882</idno>
+           <idno type="STC">25185</idno>
+           <idno type="ESTC">S102710</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>If it shall please the rea∣der, to restore these places in his owne booke, I hope the rest of the faultes are such, as cannot greatly staie the course of his reading.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A compendious chyrurgerie: gathered, &amp; translated (especially) out of Wecker, at the request of certaine, but encreased and enlightened with certaine annotations, resolutions &amp; supplyes, not impertinent to this treatise, nor vnprofitable to the reader: published for the benefite of all his countreymen, by Ihon Banester maister in chyrurgerie</title>
+                 <author>Wecker, Johann Jacob</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 <publisher>Harrison (Harison), John 1.</publisher>
+                            <publisher>Man, Thomas 1.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>24, 530, 10 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="284"/>
+   <head>If it shall please the rea<g ref="char:EOLhyphen"/>der, to restore these places in his owne booke, I hope the rest of the faultes are such, as cannot greatly staie the course of his reading.</head>
+   <p>Page. 5. line 28. and resisting. p. 15. l. 27. arteries p. 24. l. 16. auellanae. p. 25. l. 16 triticeae p. 25. l. 17. hordeaceae. p. 25. l. 18. altheae. p. 26. l. 12. affect. p. 26. l. 26. san<g ref="char:EOLhyphen"/>talorum p, 32. l. 2. crassitiem. p. 37. l. 4. tri<g ref="char:EOLhyphen"/>ticeae. p. 37. l. 10 triticeae, p. 37. l 18 horde<g ref="char:EOLhyphen"/>aceae, triticeae, p. 37. l. 28. ana, p. 38. l. 17. fleshie parts. p. 46. l. 21 Ph<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ma. p. 64. l. 16 cimini. p. 71. l. 2. cortic. citri sicc. &amp;c. p. 73 l. 19. aristilog. rotunda. p. 77 l. 18. staecha<g ref="char:EOLhyphen"/>de. p. 81. l. 29. superficious. p. 81. l. 23. subiect to the Queenes euill. p. 99. l. 20. Af<g ref="char:EOLhyphen"/>ter the chap. put in this annotation: <seg rend="sup">a</seg> some<g ref="char:EOLhyphen"/>time it is as starch, sometime thicker, some<g ref="char:EOLhyphen"/>time mixt with heres, fragmentes of bones, peeces (as it were) of brimstone, or such o<g ref="char:EOLhyphen"/>ther matter. p. 102. l. 6 apozeme. p. 102. l. 8 fumarie. p. 132. l. 20 heretofore. p. 137 <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>. 4. diuert. p. 142. l. 12 eare. p. 147. l. 5. oesypi. p. 147. l. 16. oleum. p. 149. l. 7. cephalica. p. 149. l. 14. scammonie. p. 156 l. 3. put in, &amp;c. p. 167. l. 20. vinacea. p. 175. l. 3. caricarum. p. 193. l. 3. bistor<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ae. p. 193. l. 9. nasturtii. p. 214. l. 1. ceton. p. 232. l. 16. which quickly come to &amp;c. p. 359. l. 7. choler. p. 420. l. 22. and stamped.</p>
+</div>
+        </body>
+  </text>
+</TEI>

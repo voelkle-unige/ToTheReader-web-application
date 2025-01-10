@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1571</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101788_Ba1_1</idno>
+           <idno type="DLPS">A14317</idno>
+           <idno type="STC">24634</idno>
+           <idno type="ESTC">S101788</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Letters sent from Venice. Anno. 1571 : Containing the certaine and true newes of the most noble victorie of the Christians ouer the armie of the great Turke: and the names of the lordes &amp; gentlemen of the Christians slaine in the same battell. Translated out of the Frenche copie printed at Paris by Guille [...] d Niuerd, with the kings priuiledge</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1571</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Kitson, Anthony</publisher>
+                        </imprint>
+                 <extent>12 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="12"/>
+   <head>To the Christian Reader.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">W</seg>Ell beloued Reader,</salute>
+   </opener>
+   <p>be<g ref="char:EOLhyphen"/>holde heere that whiche may he faithfully vnder<g ref="char:EOLhyphen"/>st<gap reason="illegible" extent="2 letters">
+         <desc>••</desc>
+      </gap>d by the letter writ<g ref="char:EOLhyphen"/>ten from <hi>Ʋenice</hi> the .ix. of October last, of the victo<g ref="char:EOLhyphen"/>rie y<seg rend="sup">t</seg> it hath pleased our good God to giue vs against the enimies of y<seg rend="sup">e</seg> holy Church. Therfore considering the times past and present, in the which God all mercifull, hathe deliuered and preserued vs from a number of mischéeues and daungers, with the which we ordinarily are beset, without hauing any power of oure selfe, to escape the same, except the immesura<g ref="char:EOLhyphen"/>ble pitie of oure Lord God shoulde helpe vs. We ought therefore to sing continu<g ref="char:EOLhyphen"/>ally with the royall Prophet, the earthe is all replenished with the mercie of our good God which dothe maintaine vs in his kingdom, in his faith, in his seruice and in his grace incomprehensible: and
+<pb facs="12"/>let vs firmely beléeue that he hathe care of vs, and that he dothe kéepe and defend vs more warely than the Egle or the Henne doo their chickens. Let vs giue him therefore withoute ceassing, glorie, and preises euerlasting, framing our selues to maruell at the great<g ref="char:EOLhyphen"/>nesse of his mercie, that doth preserue vs alwayes from eminent dangers and perilles.</p>
+</div>
+        </body>
+  </text>
+</TEI>

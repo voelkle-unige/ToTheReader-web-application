@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120263_Fr1_2</idno>
+           <idno type="DLPS">B14975</idno>
+           <idno type="STC">18507.337</idno>
+           <idno type="ESTC">S120263</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Century 3. Numb. 20 The nevvs for this vveek from Norimberg, Frankford and Holland : Wherein (amongst other things) is contained, these remarkable passages following: the great preparation of the King of Poland against the Turke. Some things done by the French in Italie. Th Weymarish have pillaged all the merchants goods of Frankford, which were going to Collen. The retreat of Banniers army out of Bohemia, towards Misnia, with his flighting of the places he held there, and the feare they apprehend at Lipsick of his approach that way. Something from Brazil, and something from the low Countreys, and from France, and Denmark</title>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>8, 7-14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <opener>
+      <salute>Gentlemen,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">W</seg>E have againe reduced the methode of printing the for<g ref="char:EOLhyphen"/>reigne weekly Avisoes, into two sheets, and do promise, for the content of the buyer, to sell them at a cheaper Rate, if a competent number shall be vented weekly, to recompence the charge, we shall continue them; if not, we shall be forced to put a period to the Presse, and leave every man to the pleasing of his own fansie, by a more uncertaine restrained way of private letters, or verball news, which cannot but suffer much alteration, according to the affection of the Relater.</hi>
+   </p>
+   <p>
+      <hi>Farewell.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

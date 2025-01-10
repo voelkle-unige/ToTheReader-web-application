@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103630_Fr3_2</idno>
+           <idno type="DLPS">A02526</idno>
+           <idno type="STC">12652</idno>
+           <idno type="ESTC">S103630</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Contemplations vpon the principal passages of the holy story. The second volume; in foure books. By I. Hall, Dr. of Diuinity</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <distributor>Macham, Samuel 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>16, 478, that is 475, 5 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="80"/>
+   <pb n="147" facs="80"/>
+   <p>TO
+THE RIGHT
+<hi>HONOVRABLE,</hi>
+THOMAS LORD
+VISCOVNT FENTON,
+Captaine of the Royall
+<hi>Gard; one of his Maiesties</hi>
+most Honorable Priuy Counsel<g ref="char:EOLhyphen"/>lors;
+One of the happy rescuers of the
+deare life of our gratious Soueraigne
+LORD; A worthy patterne of all true
+Honor: <hi>I. H.</hi> Dedicates this part of his
+Meditations, and vvisheth all
+increase of Grace and
+Happinesse.
+(∵)</p>
+</div>
+        </body>
+  </text>
+</TEI>

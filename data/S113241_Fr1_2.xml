@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE QVEENES MOST EXCELLENT MAIESTIE.</title>
+           <author>Wateson, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113241_Fr1_2</idno>
+           <idno type="DLPS">A14806</idno>
+           <idno type="STC">25106a</idno>
+           <idno type="ESTC">S113241</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE QVEENES MOST EXCELLENT MAIESTIE.</title>
+                 <author>Wateson, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The cures of the diseased, in remote regions : Preventing mortalitie, incident in forraine attempts, of the English nation</title>
+                 <author>Wateson, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE QVEENES MOST EXCELLENT MAIESTIE.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">S</seg>Acred Soueraigne,</salute>
+   </opener>
+   <p>in my iniust impri<g ref="char:EOLhyphen"/>sonment in <hi>Spayne,</hi> it pleased God to af<g ref="char:EOLhyphen"/>flict me with the <hi>Ta<g ref="char:EOLhyphen"/>bardilla</hi> Pestilence: whereof being in cure, by an especiall Phisition of that King, J obserued his methode for the same, and such other Disea<g ref="char:EOLhyphen"/>ses, as haue perished your Maie<g ref="char:EOLhyphen"/>sties people in the <hi>Southerne</hi> parts. Which Remedies haue since, by my direction, taken the like good effects.
+<pb facs="3"/>And of perfect zeale to your Ma<g ref="char:EOLhyphen"/>iesties seruice, and Countries weale, J therewith acquaint your Highnes subiects. Jnuocating God to preserue your Maiestie, enable them in your seruices, protect your King<g ref="char:EOLhyphen"/>doms, and suppresse your Enemies.</p>
+   <closer>
+      <signed>Your Maiesties loyall Subiect <hi>George Wateson.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

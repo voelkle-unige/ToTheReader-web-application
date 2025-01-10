@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the godly Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1584</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121124_Fr1_8</idno>
+           <idno type="DLPS">A08283</idno>
+           <idno type="STC">18616</idno>
+           <idno type="ESTC">S121124</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the godly Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A pensiue mans practise : Very profitable for all personnes, wherein are conteyned verie deuout and necessary prayers for sundry godlie purposes. VVith requisite perswasions before euery prayer. VVritten by Iohn Norden</title>
+                 <author>Norden, John</author>
+                 <imprint>
+                    <publisher>Singleton (Syngleton), Hugh</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1584</date>
+                 </imprint>
+                 <extent>16, 76, 2 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="15"/>
+   <head>
+      <hi>The Printer to the godly</hi> Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Craue thy fauourable pardon (Gentle Reader) for sundry faultes past in the impression, and thine owne willing amendment of them in reading, as they are heerevnder corrected; The cause of so many committed, was, that the Author could not haue the examination of the proofes ther<g ref="char:EOLhyphen"/>of: But at the next impression, more care and dilli<g ref="char:EOLhyphen"/>gence shalbe giuen, by the grace of GOD, whose grace I wish to direct thee. Amen</p>
+   <p>
+      <table>
+         <row>
+            <cell role="label">Leafe.</cell>
+            <cell role="label">Page.</cell>
+            <cell role="label">Line.</cell>
+            <cell role="label">Fault.</cell>
+            <cell role="label">Correction.</cell>
+         </row>
+         <row>
+            <cell>4</cell>
+            <cell>2</cell>
+            <cell>25</cell>
+            <cell>
+               <hi>thy busines</hi>
+            </cell>
+            <cell>
+               <hi>my busines.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>26</cell>
+            <cell>
+               <hi>my blessing.</hi>
+            </cell>
+            <cell>
+               <hi>thy blessing.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>9</cell>
+            <cell>1</cell>
+            <cell>18</cell>
+            <cell>
+               <hi>to y<seg rend="sup">e</seg>
+               </hi> sanctetie</cell>
+            <cell>
+               <hi>the</hi> sanctetie.</cell>
+         </row>
+         <row>
+            <cell>10</cell>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>27</cell>
+            <cell>
+               <hi>where</hi>
+            </cell>
+            <cell>
+               <hi>were.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>25</cell>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>24.</cell>
+            <cell>
+               <hi>desease</hi>
+            </cell>
+            <cell>
+               <hi>deseased.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>26</cell>
+            <cell>2</cell>
+            <cell>4</cell>
+            <cell>
+               <hi>as white</hi>
+            </cell>
+            <cell>
+               <hi>be as white.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>32</cell>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>6</cell>
+            <cell>
+               <hi>learne</hi>
+            </cell>
+            <cell>
+               <hi>teache.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>59</cell>
+            <cell>2</cell>
+            <cell>9</cell>
+            <cell>
+               <hi>vndeserudly</hi>
+            </cell>
+            <cell>
+               <hi>deseruedly.</hi>
+            </cell>
+         </row>
+         <row>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>
+               <hi>eodem</hi>
+            </cell>
+            <cell>27</cell>
+            <cell>
+               <hi>wylles</hi>
+            </cell>
+            <cell>
+               <hi>wyles.</hi>
+            </cell>
+         </row>
+      </table>
+   </p>
+   <pb facs="15"/>
+</div>
+        </body>
+  </text>
+</TEI>

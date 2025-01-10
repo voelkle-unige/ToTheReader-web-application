@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>THE MASQVE.</title>
+           <author>M., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112576_Fr1_2</idno>
+           <idno type="DLPS">A07503</idno>
+           <idno type="STC">17887</idno>
+           <idno type="ESTC">S112576</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>THE MASQVE.</title>
+                 <author>M., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Inner-Temple masque. Or Masque of heroes : Presented (as an entertainement for many worthy ladies:) by gentlemen of the same ancient and noble house. Tho. Middleton</title>
+                 <author>Middleton, Thomas</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <distributor>Browne, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>THE MASQVE.</head>
+   <l>THis, nothing owes to any Tale, or Storie,</l>
+   <l>With which some <hi>Writer</hi> pieces vp a Glorie;</l>
+   <l>I onely made the Time, they sat to see,</l>
+   <l>Serue for the Mirth it selfe; which was found free,</l>
+   <l>And herein fortunate, (that's counted good)</l>
+   <l>Being made for Ladies, Ladies vnderstood.</l>
+   <closer>
+      <signed>T. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Hugo, Hermannus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122923_Fr1_3</idno>
+           <idno type="DLPS">A72399</idno>
+           <idno type="STC">13926</idno>
+           <idno type="ESTC">S122923</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Hugo, Hermannus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The siege of Breda : written in Latin by the R.F. Herman Hugo of the S. of I. Translated into English by C.H.G</title>
+                 <author>Hugo, Herman</author>
+                 <imprint>
+                    <publisher>Dooms, Jodocus (Joos)</publisher>
+                    <pubPlace>Belgium--Ghent</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>6, 152 pages, 15 plates (9 folded), maps, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <p>SI quid mutatum, Lector, deprehenderis in versione hac Angli<g ref="char:EOLhyphen"/>cana a scriptione mea Latina <hi>Obsidionis Bredanae,</hi> intelligas velim, quaedam rogatu meo adiecta, paucula etiam dempta: quod praestitum ab Illustri viro Dn̄o. H. G. Praefecto Cohortis Anglicanae, qui Bredam ipse cum suo milite obsedit. Ita testor, Bruxellae 12. Iuly, 1627.</p>
+   <closer>
+      <signed>Hermannus Hugo.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

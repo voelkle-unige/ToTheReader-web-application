@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Iudicious Reader,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106531_Ba1_1</idno>
+           <idno type="DLPS">A04801</idno>
+           <idno type="STC">14935</idno>
+           <idno type="ESTC">S106531</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Iudicious Reader,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A wonder vvorth the reading, or, A true and faithfull relation of a woman, now dwelling in Kentstreet : who, vpon Thursday, being the 21 of August last, was deliuered of a prodigious and monstrous child, in the presence of diuers honest, and religious women to their wonderfull feare and astonishment</title>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>10 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="envoy">
+   <head>Iudicious Reader,</head>
+   <lg>
+      <l>IVdge mildly: &amp; what faults thou meetst with, mend.</l>
+      <l>For in two houres, this had both birth, and end.</l>
+      <l>Asse, for the foule-toung'd speller, I not feare him;</l>
+      <l>Let him scoule, scoffe, and scold, I scorne to heare him.</l>
+   </lg>
+   <pb facs="6"/>
+</div>
+        </body>
+  </text>
+</TEI>

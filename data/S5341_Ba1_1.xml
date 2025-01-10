@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AN ADVERTISMENT TO THE READER, touching the contents, order, and title of this booke.</title>
+           <author>W., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S5341_Ba1_1</idno>
+           <idno type="DLPS">A73454</idno>
+           <idno type="STC">26000.9</idno>
+           <idno type="ESTC">S5341</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AN ADVERTISMENT TO THE READER, touching the contents, order, and title of this booke.</title>
+                 <author>W., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Relation of sixtene martyrs glorified in England in twelve moneths : With a declaration, that English catholiques suffer for the catholique religion, and that the seminarie priests agree with the Jesuites. By Thomas Worthington</title>
+                 <author>Worthington, Thomas</author>
+                 <imprint>
+                    <publisher>Boscard, Jacques, Widow of</publisher>
+                    <pubPlace>Great Britain--England--East Ham</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="50"/>
+   <head>AN ADVERTISMENT TO THE READER, touching the contents, order, and title of this booke.</head>
+   <p>INtending at first (gentle reader) to make a briefe relation of tenne Martyrs, in the holie yeare; and by the maner of proce<g ref="char:EOLhyphen"/>ding against them, to declare that they suffe<g ref="char:EOLhyphen"/>red meerly for Religion; I put M. Iohn Rigbie his processe first (though he was not the first of these Martyrs) because I ment to set the same downe more at large, as being most notorious, and most amply hand<g ref="char:EOLhyphen"/>led in publique place of Iustice. But when I had donne so much, and (by reason of a iorney that I made) leift it with a freind to publish, for the common good; vpon cer<g ref="char:EOLhyphen"/>taine considerations, it was not pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>f<gap reason="illegible" resp="#keyers" extent="3 letters">
+         <desc>•••</desc>
+      </gap>ed as I expected. And in the meane <gap reason="illegible" resp="#keyers" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> vn<g ref="char:EOLhyphen"/>derstanding that it was opprobriously ob<g ref="char:EOLhyphen"/>iected to M. Wharton (as also to some others, to the offence of manie, and scandal of the weake) that the Seminarie Priests were at dissention, and debate against Iesuites, I thought good, to explicat more fully his answer, to that false and absurde sclander. And hearing also, that it hath pleased God, to glorifie six more Martyrs, I would in nowise omit to adde their names herunto. By which occasions I vvas forced also to change the former title, to make it confor<g ref="char:EOLhyphen"/>mable to the whole contents.</p>
+   <closer>
+      <signed>T. W.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

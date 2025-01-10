@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Of Mr. William Shakespeare.</title>
+           <author>Warren, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106377_Fr1_4</idno>
+           <idno type="DLPS">A12034</idno>
+           <idno type="STC">22344</idno>
+           <idno type="ESTC">S106377</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Of Mr. William Shakespeare.</title>
+                 <author>Warren, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Poems: vvritten by Wil. Shake-speare. Gent</title>
+                 <author>Shakespeare, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Benson, John.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>192 pages, plates, portraits, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>Of M<seg rend="sup">r</seg>. <hi>William Shakespeare.</hi>
+   </head>
+   <lg>
+      <l>WHat, lofty <hi>Shakespeare,</hi> art againe reviv'd?</l>
+      <l>And <hi>Virbius</hi> like now show'st thy selfe twise liv'd,</l>
+      <l>Tis love that thus to thee is showne,</l>
+      <l>The labours his, the glory sti'l thine owne.</l>
+      <l>These learned Poems amongst thine after-birth,</l>
+      <l>That makes thy name immortall on the earth,</l>
+      <l>Will make the learned still admire to see,</l>
+      <l>The Muses gifts so fully infus'd on thee.</l>
+      <l>Let Carping <hi>Momus</hi> barke and bite his fill,</l>
+      <l>And ignorant <hi>Davus</hi> slight thy learned skill:</l>
+      <l>Yet those who know the worth of thy desert,</l>
+      <l>And with true judgement can discerne thy Art,</l>
+      <l>Will be admirers of thy high tun'd straine,</l>
+      <l>Amongst whose number let me still remaine.</l>
+   </lg>
+   <closer>
+      <signed>John Warren.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109188_Fr1_2</idno>
+           <idno type="DLPS">A06663</idno>
+           <idno type="STC">1712</idno>
+           <idno type="ESTC">S109188</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The castell of comforte : in the whiche it is euidently proued, [that] God alone absolueth, and freli forgeueth the sinners of so many as vnfaynedly repent, and turne vnto hym Lately compyled by Thomas Becon</title>
+                 <author>Becon, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1549</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>Seres, William 1</publisher>
+                        </imprint>
+                 <extent>96 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="2"/>
+   <q>
+      <bibl>Csa. lv.</bibl>
+      <p>COme to the waters all ye,
+that be thyrsty, &amp; ye that
+haue no money come, bye,
+that ye maye haue too eate.</p>
+      <p>Come, bye wyne &amp; mylke with<g ref="char:EOLhyphen"/>out
+money, or money worthe.
+Wherfore do ye laye out youre
+money for y<seg rend="sup">e</seg> thing y<seg rend="sup">•</seg> fedeth not,
+&amp; spend your labour about the
+thing y<seg rend="sup">•</seg> satisfieth you not. But
+harkē rather vnto me, &amp; ye shal
+<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>at of y<seg rend="sup">•</seg> best, &amp; your soule shall
+haue her pleasure in plēteous<g ref="char:EOLhyphen"/>nes.
+Encline iour eares, &amp; come
+vnto me, take hede, &amp; your soul
+shal lyue. For I will make an
+euerlasting couenaunt w<seg rend="sup">t</seg> you,
+euen the sure mercies that were
+promysed to Dauid.</p>
+   </q>
+   <q>
+      <bibl>☞Iohan. vii.</bibl>
+      <p>If any man be thyrstye, let hym come vnto
+me and drynke.</p>
+   </q>
+   <q>
+      <bibl>☞Psal. xxxiiii.</bibl>
+      <p>Oh taste and se, howe swete the Lorde is,
+blessed is that man that putteth hys trust in
+hym.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

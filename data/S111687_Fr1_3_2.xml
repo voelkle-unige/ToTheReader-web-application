@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De Colchide Cambriold omine CAROLEIO illustrata, &amp; im∣pensis Authoris Cambrensis fundata.</title>
+           <author>Guy, Johannes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111687_Fr1_3_2</idno>
+           <idno type="DLPS">A14289</idno>
+           <idno type="STC">24605</idno>
+           <idno type="ESTC">S111687</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De Colchide Cambriold omine CAROLEIO illustrata, &amp; im∣pensis Authoris Cambrensis fundata.</title>
+                 <author>Guy, Johannes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Cambrensium Caroleia : Quibus pr [a] ecepta necessaria ad rempublicam nostram foeliciter administrandum interxuntur [sic] : opera &amp; studio Gulielmi Vaughanni militis</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Constable, Francis.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>112 pages, folded plates, map, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>
+      <hi>De</hi> Colchide Cambriold omine <hi>CAROLEIO illustrata, &amp; im<g ref="char:EOLhyphen"/>pensis</hi> Authoris Cambrensis <hi>fundata.</hi>
+   </head>
+   <l>CUm <hi>Fratres</hi> Paci praeponere Bella <hi>Madocus</hi>
+   </l>
+   <l>Uidi<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>, ad <hi>Externos</hi> dicitur ire <hi>Sinus.</hi>
+   </l>
+   <l>Litibus bortatur perplexos, Arte <hi>Madoco</hi>
+   </l>
+   <l>
+      <hi>Vaughannus</hi> maior querere <hi>Tecta Noua.</hi>
+   </l>
+   <l>Sipariat plures eiusdem <hi>Cambria</hi> me<gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap>is</l>
+   <l>Non soret inferior <hi>Colchidi Terra Noua.</hi>
+   </l>
+   <signed>Iohannes Guy.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

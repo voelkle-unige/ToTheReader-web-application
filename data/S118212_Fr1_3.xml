@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           <author>Kellie, Thomas, Sir</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118212_Fr1_3</idno>
+           <idno type="DLPS">A17499</idno>
+           <idno type="STC">4316</idno>
+           <idno type="ESTC">S118212</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 <author>Kellie, Thomas, Sir</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The embassador between heauen and earth, betweene God and man. Or A booke of heauenly and healthy meditations and prayers for earthly and sickly soules and sinners : Fit to be borne in the hand, and worne in the heart of euery good Christian. By W.C. preacher of the word</title>
+                 <author>Crashaw, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 <publisher>Becket, Leonard.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>384 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="6"/>
+   <p>
+      <hi>IF by the absence of the au<g ref="char:EOLhyphen"/>thor, difficulty of the hand, misplacing of points, some sil<g ref="char:EOLhyphen"/>lables or wordes mistaken, the sence in any place be obscured, the iuditious reader may be pleased to correct such easy faults as by these meanes haue escaped, which I trust are not many.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

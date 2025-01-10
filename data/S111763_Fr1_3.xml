@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>B., F.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111763_Fr1_3</idno>
+           <idno type="DLPS">A15745</idno>
+           <idno type="STC">26014</idno>
+           <idno type="ESTC">S111763</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>B., F.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Palladis palatium : vvisedoms pallace. Or The fourth part of Wits commonwealth</title>
+                 <author>Wrednot, William</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Burton, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>16, 128, 128-149, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <gap reason="missing" extent="1 page">
+      <desc>〈1 page missing〉</desc>
+   </gap>
+   <p>
+      <hi>alas vertue is well neere banished, vice hath almost gotten the vpper hand, wisdome is derided of fooks, and the seeming-wise approue themselues to be witlesse, by their heedlesse courses, for</hi> Exitus acta probat: <hi>the end tri<g ref="char:EOLhyphen"/>eth the truth of the matter, &amp; the rash conceipts of yong vnripe heads, are comptrouled by the approued experi<g ref="char:EOLhyphen"/>ence of riper iudgments. Many are the excelent precepts which the works of the learned afford, and not few also are the idle fancies of vaine and wit<g ref="char:EOLhyphen"/>lesse heads. The latter sort men much hunt after whereby they increase their follies, but the former sor<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap> is much neglected whereby wisdomes reputati<g ref="char:EOLhyphen"/>tion is not a little impaired. Let there be by stealth, or any other vnlawfull meanes, any idle Pamphlet, stuffed with more then villany, set to sale (to corrupt vertuous minds) and it shall not want vtterance, for</hi> Nitimur in
+<pb facs="3"/> vetitū semper cupimusque negat<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>, <hi>But let there be many excellēt bookes of much worth, cōpiled, (if duly regar<g ref="char:EOLhyphen"/>ded) yet if some, more then extraordi<g ref="char:EOLhyphen"/>nary matter be not therein cōtained, they may hap to lye by the walls. The consideration wherof might easily dis<g ref="char:EOLhyphen"/>courage many good men from paines taking in that kinde, &amp; terrifie those who vndertake the publishing therof, from aduenturing so far in a matter likely to proue so little to their aduan<g ref="char:EOLhyphen"/>tage. But yet hoping that the approued sayings and experimented sentences of the worthy authors herein contained, will be some stay vnto rash-headed fol<g ref="char:EOLhyphen"/>ly, and yeeld some content vnto wis<g ref="char:EOLhyphen"/>doms louers, in the perusall hereof: as the Authour hath bestowed his paines in colecting hereof, so haue I aduentured the Charges in Printing hereof, being hereunto the better incouraged by reason of the good
+<pb facs="4"/> successe that this authors former booke entituled</hi> The sorowfull Soules so<g ref="char:EOLhyphen"/>lace, or Teares of true repentance, shed for sinne: <hi>hath already obtay<g ref="char:EOLhyphen"/>ned at his readers hands: Thus gen<g ref="char:EOLhyphen"/>tle reader wishing that thou maiest gaine double as much pleasure in per<g ref="char:EOLhyphen"/>using hereof, as the author did paynes in collecting hereof, I rest thy friend and well-willer.</hi>
+   </p>
+   <closer>
+      <signed>F. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aduertisement of the Printer.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120087_Fr1_3</idno>
+           <idno type="DLPS">A15511</idno>
+           <idno type="STC">25778</idno>
+           <idno type="ESTC">S120087</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aduertisement of the Printer.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Mercy &amp; truth. Or Charity maintayned by Catholiques : By way of reply vpon an answere lately framed by D. Potter to a treatise which had formerly proued, that charity was mistaken by Protestants: with the want whereof Catholiques are vniustly charged for affirming, that Protestancy vnrepented destroyes saluation. Deuided into tvvo parts</title>
+                 <author>Knott, Edward</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>8, 299, 1, 206, 6, pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="printer to the reader" type="notice">
+   <pb facs="5"/>
+   <head>Aduertisement of the Printer.</head>
+   <p>THis REPLY, Good Rea<g ref="char:EOLhyphen"/>der, vvas indeed long since fi<g ref="char:EOLhyphen"/>nished by
+the Author: but by reason of some impediment, it could not be
+commodiously transported, so soone as he vvished, and desired it
+should.</p>
+</div>
+        </body>
+  </text>
+</TEI>

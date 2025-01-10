@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The coppie of a Letter sent with this Booke.</title>
+           <author>Worsop, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120271_Fr1_3</idno>
+           <idno type="DLPS">A15724</idno>
+           <idno type="STC">25997</idno>
+           <idno type="ESTC">S120271</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The coppie of a Letter sent with this Booke.</title>
+                 <author>Worsop, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A discouerie of sundrie errours and faults daily committed by lande-meaters, ignorant of arithmetike and geometrie, to the damage, and preiudice of many her Maiesties subiects : with manifest proofe that none ought to be admitted to that function, but the learned practisioners of those sciences: written dialoguewise, according to a certaine communication had of that matter. By Edward Worsop, Londoner. Euery one that measureth land by laying head to head, or can take a plat by some geometricall instrument, is not to be accounted therfore a sufficient landmeater, except he can also prooue his instruments, and measurings, by true geometricall demonstrations</title>
+                 <author>Worsop, Edward</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 <publisher>Middleton, Henry.</publisher>
+                            <publisher>Seton, Gregory</publisher>
+                        </imprint>
+                 <extent>76 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="4"/>
+   <head>The coppie of a Letter sent with this <hi>Booke.</hi>
+   </head>
+   <p rend="italic">
+      <seg rend="decorInit">T</seg>O perfo<gap reason="illegible" resp="#uom" extent="1 letter">
+         <desc>•</desc>
+      </gap>rme my promise, and satisfie your request: I haue set downe in writing (as neere as I can call to remembrance) the communication had in our iour<g ref="char:EOLhyphen"/>ney, touching vntrue measuring of land, insufficient landmeaters, and why they are still permitted. For the further proofe of these matters, I haue drawen sun<g ref="char:EOLhyphen"/>dry figures like vnto some of those you sawe in my booke: which proofes the vnlearned in Geometrie may easily conceiue. I pray you reserue this booke for the satisfaction of your selfe, and your friendes. I would be loath it should come to the hands of learned Mathematicians, for they may iu<g ref="char:EOLhyphen"/>stly reproue sundry of my demonstrations, and declarations: because they are not penned as learning, and art require. If they were penned in arti<g ref="char:EOLhyphen"/>ficiall order, and termes: you could not vnderstand them, because you are ignorant of the Mathematicals. If you wil be instructed in Arithmetike, Euclide, Tectonicon, and Pantometria, according to your earnest prote<g ref="char:EOLhyphen"/>stations: and studie those bookes earnestly, because they are the best wri<g ref="char:EOLhyphen"/>ters, extant in our vulgar tongue touching the Mathematicall part of surueie: you shall then perceiue, what great pleasure, and commoditie, is receiued from learned, and artificiall writers, ouer that can bee had from them, which in their writings discend to the capacitie of the vulgar sort. Then also you will yeelde your selfe more beholding vnto me for writing this popular discourse at you request, to the diminishing, and aduenturing of mine estimation among learned Mathematicians: then nowe while you thinke it artificially done. Although my knowledge in Geometrie is verie small, yet I would not abase my selfe by penning any demonstrati<g ref="char:EOLhyphen"/>ons popularly: but to pleasure you, and your friendes, and for that I would many should vnderstand, the great hurtes the common weale su<g ref="char:EOLhyphen"/>staineth by landmeaters ignorant of Geometrie. When you haue at<g ref="char:EOLhyphen"/>tained
+<pb facs="4"/> knowledge, I hope you will deale with mee as good natured men deale with their nurses. Good natured men during their liues loue their nurses, because they receiued their first sustenance from them: al<g ref="char:EOLhyphen"/>though their stomakes would loath to suck their milke as they did in their infancie. When you shall finde your selfe learned in Geometrie, and that you can vnderstand the demonstrations of learned writers: you will repute my writing as cold and thin milk, in compa<g ref="char:EOLhyphen"/>rison of other meates, that are strong and of good nourishment. From London the two and twentie of September. 1581.</p>
+   <closer>
+      <signed>Your louing Friende Edward Worsop.</signed>
+   </closer>
+   <trailer type="illustration">
+      <figure>
+         <figDesc>printer's device probably of Henry Middleton: McKerrow 215, "Ornament of a lion's face over a shield, two owls, and the initials H. M."</figDesc>
+      </figure>
+   </trailer>
+</div>
+        </body>
+  </text>
+</TEI>

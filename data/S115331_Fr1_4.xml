@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115331_Fr1_4</idno>
+           <idno type="DLPS">A10214</idno>
+           <idno type="STC">20491</idno>
+           <idno type="ESTC">S115331</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The secretary in fashion: or, A compendious and refined way of expression in all manner of letters. Composed in French by P. Sr de la Serre, historiographer of France. And translated into English, by John Massinger, Gent</title>
+                 <author>Puget de La Serre, Jean</author>
+                 <imprint>
+                    <distributor>Emerson (Emondson, Edmonds), Godfrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Bulkley (Buckley), Stephen</publisher>
+                        </imprint>
+                 <extent>16, 48 pages, 49-56, a-d leaves, 57-131, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>The Author to the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Aving had notice given mee, that my <hi>Secretary of the Court,</hi> which I composed for a Di<g ref="char:EOLhyphen"/>vertisement in my Youth, ran through the World in my Name, and with some kind of Approbation in strange Coun<g ref="char:EOLhyphen"/>tries: as being 30 times Printed, since it was first published, and never falling into my hands to be corrected: I thought good to present thee with this new one, which is a Digested worke, and where thou shalt receive more satisfaction, as finding a lesse number of faults. It beares the Name of <hi>Secretary in Fashion,</hi> to the end that it may be alwayes in season, considering how va<g ref="char:EOLhyphen"/>riable
+<pb facs="5"/>
+the manner of Writing is. Receive it with as good a heart as I give it thee: and if it like thee not, learne charitably to hold thy Tongue, or else to reproach with a good grace; tis the best counsell I am a<g ref="char:EOLhyphen"/>able to give thee.</p>
+</div>
+        </body>
+  </text>
+</TEI>

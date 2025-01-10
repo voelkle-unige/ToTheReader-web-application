@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In laudem Authoris.</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112610_Fr1_5</idno>
+           <idno type="DLPS">A07419</idno>
+           <idno type="STC">17805</idno>
+           <idno type="ESTC">S112610</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In laudem Authoris.</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sixe-folde politician : Together with a sixe-folde precept of policy</title>
+                 <author>Melton, John, Sir</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Busby, John 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>12, 132, 2, 133-174, 2, 117-180, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Discourses on government and political theory</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>In laudem Authoris.</head>
+   <l>THy tun (deare friend) of wit &amp; hony nows brok vp,</l>
+   <l>Too long frō men of Art &amp; iudgemēt, though lockt vp,</l>
+   <l>For men of Art doe say, it tastes right sweete,</l>
+   <l>And men of iudgements, say it is right sound,</l>
+   <l>And both a treasure, say of light is found,</l>
+   <l>A treasure sure that in extreames will steed.</l>
+   <l>And raise thee (haue but patience) from all need,</l>
+   <l>O pittie it is such guifts and lights of minde</l>
+   <l>Should be obscurde, and die as men doe blinde.</l>
+   <l>Some Scipio (or some Caesar) shade thy hiue,</l>
+   <l>That thou in spight of Waspes and Flyes maist thriue.</l>
+   <closer>
+      <signed>I.S. Gent.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

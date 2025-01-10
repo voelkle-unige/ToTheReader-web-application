@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101944_Ba1_2</idno>
+           <idno type="DLPS">A11777</idno>
+           <idno type="STC">2207</idno>
+           <idno type="ESTC">S101944</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The holie Bible faithfully translated into English, out of the authentical Latin. Diligently conferred with the Hebrew, Greeke, and other editions in diuers languages. With arguments of the bookes, and chapters: annotations. tables: and other helpes ... By the English College of Doway</title>
+                 <imprint>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1609</date>
+                 <publisher>Kellam, Laurence 1.</publisher>
+                            <publisher>Kellam, Laurence 1</publisher>
+                        </imprint>
+                 <extent>2 volumes (20, 1115, 1, 1004, 1, 1002-1124, 4 pages), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>You may please to amend the more especial errors, happened in printing, by reading thus:</p>
+   <p>
+      <table>
+         <row>
+            <cell>Page 57. line 29.</cell>
+            <cell>SALEM</cell>
+         </row>
+         <row>
+            <cell>Pa. 305. in the margent.</cell>
+            <cell>much more in the Church of Christ?</cell>
+         </row>
+         <row>
+            <cell>Page 846: lin 39.</cell>
+            <cell>reioyce, that</cell>
+         </row>
+         <row>
+            <cell>Pege 1064: line 39: line 40.</cell>
+            <cell>how they escape many miseries, which are neuer borne, birth</cell>
+         </row>
+         <row>
+            <cell>Page 1069: line 1.</cell>
+            <cell>nor I gainsay</cell>
+         </row>
+      </table>
+   </p>
+   <p>If our selues, or others shal finde more, we wil gladly correct them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

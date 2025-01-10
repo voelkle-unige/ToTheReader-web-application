@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ AD MATREM ACADEMIAM CANTABRIGIENSEM.</title>
+           <author>Shelford, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117202_Fr1_3</idno>
+           <idno type="DLPS">A12099</idno>
+           <idno type="STC">22400</idno>
+           <idno type="ESTC">S117202</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ AD MATREM ACADEMIAM CANTABRIGIENSEM.</title>
+                 <author>Shelford, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Five pious and learned discourses : 1. A sermon shewing how we ought to behave our selves in Gods house. 2. A sermon preferring holy charity before faith, hope, and knowledge. 3. A treatise shewing that Gods law, now qualified by the Gospel of Christ, is possible, and ought to be fulfilled of us in this life. 4. A treatise of the divine attributes. 5. A treatise shewing the Antichrist not to be yet come. By Robert Shelford of Ringsfield in Suffolk priest</title>
+                 <author>Shelford, Robert</author>
+                 <imprint>
+                    <publisher>Cambridge University—Printers</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>12, 326, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="3"/>
+   <head>¶ AD MATREM ACADEMIAM <hi>CANTABRIGIENSEM.</hi>
+   </head>
+   <p>
+      <hi>
+         <seg rend="decorInit">A</seg>LMA MATER,</hi> Placeat reverentiis vestris, hoc tenue meum &amp; semidecoctum mu<g ref="char:EOLhyphen"/>nus aequilibrio vestro trutina<g ref="char:EOLhyphen"/>re, &amp; denuo decoquere. Sic rusticantes nostrae Musae inter arbusta cum cicadis laudes vestras omni encomio majores ebuccinabunt. <hi>Petrenses</hi> sancti juvate cla<g ref="char:EOLhyphen"/>vibus biblioclericum vestrum, olim fa<g ref="char:EOLhyphen"/>mosi <hi>Perni</hi> amanuensem, <hi>Moynei</hi> &amp; <hi>Mo<g ref="char:EOLhyphen"/>risoni</hi> condiscipulum, rei orbum, desiderii in optimis opulentum, mediocritatis se<g ref="char:EOLhyphen"/>ctatorem. Nunc tandem sub ter gravi Magistri praecepto pascendi ejus oves, cli<g ref="char:EOLhyphen"/>entelae vestrae me dedo. Siquid dignè pos<g ref="char:EOLhyphen"/>sim, accipite dextré; siquid minùs polité, me lacernâ vestrâ donate. Post imbres ex<g ref="char:EOLhyphen"/>eunt flores, praeteritis ventis venit pax in aëre, post noctes redeunt soles. Quid dies sit pariturus (favente Deo, Uraniâ{que} veri<g ref="char:EOLhyphen"/>tatis ac pietatis amicâ) videamus. Magna est veritas; Soli similis, in tenebris lucet; Alexandri gladio succincta, Gordii nexus resolvit.</p>
+   <closer>
+      <signed>Sectator vester humillimus in altissima scientia,
+ROB. SHELFORD.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

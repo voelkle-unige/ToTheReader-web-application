@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ The faultes in some copies esca∣ped,
+let the gentle Reader
+amend thus.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122355_Ba1_1</idno>
+           <idno type="DLPS">A16785</idno>
+           <idno type="STC">369</idno>
+           <idno type="ESTC">S122355</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ The faultes in some copies esca∣ped,
+let the gentle Reader
+amend thus.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An apologie and true declaration of the institution and endeuours of the tvvo English colleges, the one in Rome, the other novv resident in Rhemes : against certaine sinister informations giuen vp against the same</title>
+                 <author>Allen, William</author>
+                 <imprint>
+                    <publisher>Foigny, Jean de</publisher>
+                    <pubPlace>France--Reims</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>122, 2 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="123"/>
+   <pb facs="124"/>
+   <head>❧ The faultes in some copies esca<g ref="char:EOLhyphen"/>ped,
+let the gentle Reader
+amend thus.</head>
+   <list>
+      <label>Fo. 5. pa. 2. Perreiue,</label>
+      <item>perceiue.</item>
+      <label>14 form,</label>
+      <item>from.</item>
+      <label>16. theatened,</label>
+      <item>threatened.</item>
+      <label>18 Miletius,</label>
+      <item>Meletius.</item>
+      <label>25 thervvise,</label>
+      <item>othervvise.</item>
+      <label>59 for condemmation read</label>
+      <item>condemnation.</item>
+      <label>81 seditiōs,</label>
+      <item>seditious.</item>
+      <label>85 vnlearned,</label>
+      <item>vnarmed.</item>
+      <label>85 emploied our vpon
+ovvne their Countrie,</label>
+      <item>employed vpon
+their ovvne Co<g ref="char:EOLhyphen"/>untrie.</item>
+      <label>85 vpon, the</label>
+      <item>vpon the.</item>
+      <label>119 Israriote</label>
+      <item>Iscariote</item>
+   </list>
+   <pb facs="124"/>
+</div>
+        </body>
+  </text>
+</TEI>

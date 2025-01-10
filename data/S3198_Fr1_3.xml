@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ADVERTISSEMENT AV LECTEVR.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3198_Fr1_3</idno>
+           <idno type="DLPS">A02026</idno>
+           <idno type="STC">12173.3</idno>
+           <idno type="ESTC">S3198</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ADVERTISSEMENT AV LECTEVR.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Grammaire angloise : Pour facilement et promptement apprendre la langue angloise. Qui peut aussi aider aux anglois pour apprendre la langue françoise</title>
+                 <imprint>
+                    <publisher>Billaine (Bilaine), Pierre</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>8, 205, 3, 31, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>ADVERTISSEMENT AV LECTEVR.</head>
+   <p>LE dessein n'a pas esté de vous rendre vne Grammaire parfaicte iusques aux moindres particules comme aucuns pourroient desirer, mais bien seulement les choses de la Grammaire, necessaires pour paruenir aisément &amp; prompte<g ref="char:EOLhyphen"/>ment à la cognoissance de la langue Angloise, afin de ne vous ennuyer des longs discours qu'il faudroit pour faire les demonstrations de plu<g ref="char:EOLhyphen"/>sieurs choses qui seront plustost apprises par la practique, que par la doctrine.</p>
+</div>
+        </body>
+  </text>
+</TEI>

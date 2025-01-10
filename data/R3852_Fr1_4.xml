@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE QUEENE.</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">R3852_Fr1_4</idno>
+           <idno type="DLPS">A11276</idno>
+           <idno type="STC">21542</idno>
+           <idno type="ESTC">R3852</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE QUEENE.</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Masquarade du ciel : presented to the great Queene of the little vvorld. A celestiall map, representing the true site and motions of the heavenly bodies, through the yeeres 1639, 1640, &amp;c. Shadowing the late commotions, between Saturn and Mercury, about the northern Thule. With the happy peace and union, through the whole little world, made by the goodnesse of Phebus and his royall Phebe. By J.S</title>
+                 <author>Sadler, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Badger, Richard 1.</publisher>
+                            <publisher>Cartwright, Samuel</publisher>
+                        </imprint>
+                 <extent>10, 37, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE QUEENE.</head>
+   <floatingText type="letter">
+      <body>
+         <opener>
+            <salute>MADAME,</salute>
+         </opener>
+         <p>IT cannot be <hi>presumption</hi> to present That, Which to detaine were <hi>Sacri<g ref="char:EOLhyphen"/>ledge.</hi> my Plea is, I Durst not but Bring the <hi>Letters,</hi> which HEAVEN Sends: <hi>It endites,</hi> what <hi>Earth writes</hi>; in THIS most specially, Which it hath <hi>Signed,</hi> with its owne <hi>Hand</hi>; and <hi>Sealed,</hi> with its owne <hi>Signet</hi>: Yet, if unacquainted with its <hi>Hand,</hi> I mistake the <hi>Superscription,</hi> and present it amisse; my Hope is, Such Royall Goodnesse, may yet Pardon,</p>
+         <closer>
+            <salute>MADAME, Your Majesties most Humble Servant</salute>
+            <signed>I. S.</signed>
+         </closer>
+      </body>
+   </floatingText>
+</div>
+        </body>
+  </text>
+</TEI>

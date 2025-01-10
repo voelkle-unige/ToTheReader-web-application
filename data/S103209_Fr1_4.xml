@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103209_Fr1_4</idno>
+           <idno type="DLPS">A11622</idno>
+           <idno type="STC">21865</idno>
+           <idno type="ESTC">S103209</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A perfite platforme of a hoppe garden : and necessarie instructions for the making and mayntenaunce thereof, with notes and rules for reformation of all abuses, commonly practised therein, very necessary and expedient for all men to haue, which in any wise haue to doe wit hops. Made by Reynolde Scot</title>
+                 <author>Scot, Reginald</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>16, 55 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="6"/>
+   <head>¶The Printer to the <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">F</seg>ORASMƲCH, AS M. Scot could not be pre<g ref="char:EOLhyphen"/>sent at the printing of this his Booke, whereby I might haue vsed his aduise in the correction of the same, and especiallye of the Figures and Portratures contayned therein, whereof he deliuered vnto me such notes as I being vnskilfull in the matter, could not so throughly conceyue, nor so perfect<g ref="char:EOLhyphen"/>ly expresse, as the expectation of him be<g ref="char:EOLhyphen"/>ing the Author, or of you being the Rea<g ref="char:EOLhyphen"/>der, might be in all poyntes satisfied. J shall desire you to let his absence serue for mine excuse in this behalfe, I also pray you to take somewhat the more pai<g ref="char:EOLhyphen"/>nes in conferring the wordes with the fi<g ref="char:EOLhyphen"/>gures, which will mutually giue lyght
+<pb facs="7"/> one to the other, and finallye will assist the vnderstanding of you the Reader, but chieflye of him that cannot reade at all, for whose sake hee deuised and pro<g ref="char:EOLhyphen"/>cured these Figures to bee made, and howsoeuer the Paynter hath performed his office, or I my seruice herein, I am perswaded that the Author hath perfite<g ref="char:EOLhyphen"/>lye accomplished his dutie, and plainely deliuered vnto you the effect of that which he hath ta<g ref="char:EOLhyphen"/>ken in hande</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

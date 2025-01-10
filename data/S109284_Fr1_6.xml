@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the same.</title>
+           <author>K., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109284_Fr1_6</idno>
+           <idno type="DLPS">A04898</idno>
+           <idno type="STC">15037</idno>
+           <idno type="ESTC">S109284</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the same.</title>
+                 <author>K., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Stratiōtikon. Or A discourse of militarie discipline : Shewing the necessitie therof according to these perillous times</title>
+                 <author>Knevet, Ralph</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>70 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <head>To the same.</head>
+   <l>(KInd Gentlemen) Souldiers, or Clarkes, or both</l>
+   <l>My Muse as gentle greetes you well (in troth)</l>
+   <l>And tels you shee can't wooe yee at your tables</l>
+   <l>By venting fripperies of Iests, or fables</l>
+   <l>Not worth the Phrygian Princes eares; nor raise</l>
+   <l>A bare name to her selfe, by vulgar praise.</l>
+   <l>No, no: shee ioyes in action: and know that</l>
+   <l>By the protection of a Beuer Hat,</l>
+   <l>Or silken out-side, shee disdaines to force</l>
+   <l>Your presence, but had rather take a course</l>
+   <l>To shew her selfe to you in re<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>all pow'rs</l>
+   <l>Then bid her welcome, and she's euer yours.</l>
+   <closer>
+      <signed>R. K.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

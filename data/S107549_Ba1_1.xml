@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107549_Ba1_1</idno>
+           <idno type="DLPS">B11957</idno>
+           <idno type="STC">4600</idno>
+           <idno type="ESTC">S107549</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Gods valuation of mans soule</title>
+                 <author>Capell, Moses</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>14, 38 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>ERRATA.</head>
+   <q>
+      <l>Quas fueram Praesens emendaturus, arun▪</l>
+      <l>Emendet mendas, Lector, amica tua:</l>
+      <l>Absens a Prelo, liber quin ab omnibus <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>pse</l>
+      <l>Mendis sim, parvus quas habet iste Liber?</l>
+      <l>Nec cur non Praesens fueram, fugiat modo quanquam</l>
+      <l>
+         <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>e nisi quis credat, verba dedisse mod<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>:</l>
+      <l>Quod prohibete nefas Superi! praesum quibus, <gap reason="illegible" resp="#murp" extent="1 letter">
+            <desc>•</desc>
+         </gap>egr<gap reason="illegible" resp="#murp" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Non vnquam intersum, numina vest <gap reason="illegible" resp="#keyers" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>.</l>
+      <l>Mira nec haec cuiquam videantur; nov<gap reason="illegible" resp="#murp" extent="2 letters">
+            <desc>••</desc>
+         </gap>, <gap reason="illegible" resp="#murp" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+      </l>
+      <l>Oder<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>nt charo corpore abesse suo.</l>
+      <l>Clarior at quanto est Anima! ô quam pulchrior <gap reason="illegible" resp="#keyers" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+      </l>
+      <l>Forma mihi, Su<gap reason="illegible" resp="#murp" extent="4 letters">
+            <desc>••••</desc>
+         </gap> plena decora Dei!</l>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

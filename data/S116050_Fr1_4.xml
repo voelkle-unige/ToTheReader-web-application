@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116050_Fr1_4</idno>
+           <idno type="DLPS">A09833</idno>
+           <idno type="STC">20098</idno>
+           <idno type="ESTC">S116050</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The history of Polybius the Megalopolitan : The fiue first bookes entire: with all the parcels of the subsequent bookes vnto the eighteenth, according to the Greeke originall. Also the manner of the Romane encamping, extracted from the discription of Polybius. Translated into English by Edward Grimeston, sergeant at armes</title>
+                 <author>Polybius</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>16, 480, 16 pages, folded plates, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="7"/>
+   <head>The Printer to the READER.</head>
+   <p>COurteous Reader, I desire your charitable censure in that there bee some
+litterall faults escaped, to the griefe of the Author being not able to at<g ref="char:EOLhyphen"/>tend
+the Presse, and likewise being absent at that time from <hi>London,</hi> and ha<g ref="char:EOLhyphen"/>uing
+but a yong Corrector which took too much vpon him.</p>
+</div>
+        </body>
+  </text>
+</TEI>

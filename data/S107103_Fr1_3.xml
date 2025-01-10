@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO HIS LOVING FRIEND AND adopted Sonne Mr. Sa. Rid.</title>
+           <author>Bubb, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107103_Fr1_3</idno>
+           <idno type="DLPS">A10750</idno>
+           <idno type="STC">21028</idno>
+           <idno type="ESTC">S107103</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO HIS LOVING FRIEND AND adopted Sonne Mr. Sa. Rid.</title>
+                 <author>Bubb, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The art of iugling or legerdemaine : Wherein is deciphered, all the conueyances of legerdemaine and iugling, how they are effected, and wherein they chiefly consist. Cautions to beware of cheating at cardes and dice. The detection of the beggerly art of alcumistry. And, the foppery of foolish cousoning charmes. All tending to mirth and recreation, especially for those that desire to haue the insight and priuate practise thereof. By S.R</title>
+                 <author>Rid, Samuel</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <head>TO HIS LOVING FRIEND AND adopted Sonne M<seg rend="sup">r</seg>. <hi>Sa. Rid.</hi>
+   </head>
+   <opener>
+      <salute>Most worthy sonne,</salute>
+   </opener>
+   <p>YOur labour and obseruance herein, with the gift of your first fruits, is both worthy commendations and acceptance: and to cherish you further in this your disco<g ref="char:EOLhyphen"/>uerie, I will giue an addition to your second treatise. So I leaue you to God: and belieue you, not a more louing friend then,</p>
+   <closer>
+      <signed>WILLIAM BVBB.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

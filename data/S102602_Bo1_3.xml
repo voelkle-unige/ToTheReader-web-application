@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Queene.</title>
+           <author>Chappuys, G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102602_Bo1_3</idno>
+           <idno type="DLPS">A11556</idno>
+           <idno type="STC">21802</idno>
+           <idno type="ESTC">S102602</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Queene.</title>
+                 <author>Chappuys, G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A true discourse of the occurrences in the warres of Sauoy : and the warring of the forte of Mont-millan: by the most Christian King of France and Nauarre Henrie the fourth. Also the number of cannons and munition by his Maiestie taken in the said Mont-millan. Wherevnto i annexed, the oration of Sir Philip Cauriana, knight: pronounced to the most Christian Queene Ma [r] y de Medicis, at her departure out of Tuscane to goe into France. Faithfully translated out of French by E.A</title>
+                 <imprint>
+                    <publisher>Read, Richard</publisher>
+                    <distributor>Burre, Walter</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>16 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="5"/>
+   <head>To the Queene.</head>
+   <p>
+      <seg rend="decorInit">T</seg>O the end, most glorious Queen,
+to represent vnto you the trueth
+of that which was foretould you
+by the L. Knight <hi>Cauriana,</hi> in his
+eloquent and gallant discourse
+vnto you presented, at your pros<g ref="char:EOLhyphen"/>perous
+departure out of <hi>Tuscane</hi>
+to come into this realme, where
+through Gods grace you are now resident: namely,
+to your glory, your fame, and your rare vertues, should
+heereafter minister argument and matter to writers: al<g ref="char:EOLhyphen"/>beit
+my selfe be none of the number of those whose
+Pen may be worthy, yet hath a naturall instinct, that
+should vrge vs to honour you, made mee the first that
+should breake this Yce. Howbeit to auoyde the title of
+presumption, in taking more vpon me then I am able to
+performe, I haue thought good onely to translate into
+this language the selfe same discourse of <hi>Cauriana,</hi> to
+the end that by this meanes you may the better like of
+my zeale, which may minister vnto you an entrance to
+learne (if alreadye you knowe it not) the language of
+your affectionate Frenchmen: besides that, otherwise
+I am not able more worthily to celebrate your great
+vertues and commendations. The Lorde vouchsafe
+long to preserue you, to the good and quiet of this
+estate.</p>
+   <closer>
+      <signed>Your most humble and most obedient seruant
+and subiect.
+G. CHAPPVYS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Right Honorable, FERDINAND O, Lord HASTINGS, my very good Lord.</title>
+           <author>Parkes, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124820_Bo1_2</idno>
+           <idno type="DLPS">A72989</idno>
+           <idno type="STC">19303.3</idno>
+           <idno type="ESTC">S124820</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Right Honorable, FERDINAND O, Lord HASTINGS, my very good Lord.</title>
+                 <author>Parkes, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The rose, and lily : Delivered at the lecture, in Ashby de-la-zouch in the county of Leicester. By William Parks, Master of Arts, and curat of Chelaston in the county of Derby</title>
+                 <author>Parks, William, curat of Chelaston</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Man, Samuel.</publisher>
+                            <publisher>Norton, John 2.</publisher>
+                            <publisher>Wilne, George</publisher>
+                        </imprint>
+                 <extent>4, 48, 2, 41, 5, 44, 4, 41, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="32"/>
+   <head>To the Right Honorable, FERDINAND O, <hi>Lord</hi> HASTINGS, <hi>my very good Lord.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">W</seg>HAT <hi>Thucidides</hi> af<g ref="char:EOLhyphen"/>firmes, experience proves true, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, that hear<g ref="char:EOLhyphen"/>ing is not lyable to any account, but <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, whatsoever a man speakes (but especially writes) it layes him open to others censure, unto which I have now exposed my selfe, and crave your <hi>Lordships</hi> pro<g ref="char:EOLhyphen"/>tection. Your <hi>Honour</hi> must not expect any high straynes in this Sermon.</p>
+   <p>
+      <pb facs="33"/>
+      <hi>Haud facile emergunt quorum virtutibus obstat Res angusta domi.</hi>
+   </p>
+   <p>As it is I desire your <hi>Lord<g ref="char:EOLhyphen"/>ships</hi> acceptance of it, as an ex<g ref="char:EOLhyphen"/>pression of some part of that duty and service I owe your <hi>Honor.</hi> The God of mercie poure downe his mercies on your <hi>Lordship,</hi> your Honourable <hi>Lady,</hi> and hopefull children. Which shall alwaies be the praier of</p>
+   <closer>
+      <signed>Your Lordships in all duty, and service. WILLIAM PARKS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

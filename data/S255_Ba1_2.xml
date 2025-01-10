@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AMANTISSIMO AC PRO∣bissimo viro magistro T. Gaylo Chyrurgo. Guilihelmus Bullenus. S. P. D.</title>
+           <author>Bullein, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1564</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S255_Ba1_2</idno>
+           <idno type="DLPS">A17158</idno>
+           <idno type="STC">4036.5</idno>
+           <idno type="ESTC">S255</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AMANTISSIMO AC PRO∣bissimo viro magistro T. Gaylo Chyrurgo. Guilihelmus Bullenus. S. P. D.</title>
+                 <author>Bullein, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A dialogue bothe pleasaunte and pietifull, wherein is a goodly regimente against the feuer pestilence : with a consolacion and comfort against death. Newly corrected by Willyam Bulleyn, the autour thereof</title>
+                 <author>Bullein, William</author>
+                 <imprint>
+                    <publisher>Kingston, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1564</date>
+                 </imprint>
+                 <extent>4, 92, 8 leaves, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="103"/>
+   <head>AMANTISSIMO AC PRO<g ref="char:EOLhyphen"/>bissimo viro magistro T. Gaylo Chyrurgo. Guilihelmus Bullenus. S. P. D.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Onam valetudinem, cum corporis tum a<g ref="char:EOLhyphen"/>nimi▪ a deo opt. max. tibi precor (optime vir.) Nihil est hoc tē<g ref="char:EOLhyphen"/>pore quod tibi scribam, quàm quòd li<g ref="char:EOLhyphen"/>bellum quem mihi donasti, legi, et iterū legipro quo tibi ago gratias &amp; habe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> vt pro sumno munere. Nam ex eo &amp; intellexi amorem et animū quem erga me geris, &amp; operam tuam perspexi nō solum mihi sed omnibus qui vbi{que} sun<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> Anglis futuram vtilitati. Nostrum eui<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> omnim̄ haberi possunt amatores &amp; cultores, libri tui insignissimi. Quā obrem quid magis mihi gratū esse po<g ref="char:EOLhyphen"/>tuit
+<pb facs="103"/>
+hoc munere, praesertim cum a tali Chirurgo mihi datū sit? cuius rei nū<g ref="char:EOLhyphen"/>quam me capiet obliuio, sed quantum potero gratias referri libenti animo fa<g ref="char:EOLunhyphen"/>ciam. Opto te bene valere, ac interim me tibi comendo doctissimo viro magistro Bactero humillime meis verbis gratias agi me{que} plu rimum co<g ref="char:EOLhyphen"/>mendare desi<g ref="char:EOLhyphen"/>dero.</p>
+   <closer>
+      <dateline>
+         <date>Martij. <hi>28.</hi> Anno incarnati. <hi>1564.</hi>
+         </date>
+      </dateline>
+      <signed>
+         <hi>Tibi deditissi<gap reason="illegible" resp="#pdcc" extent="3 letters">
+               <desc>•••</desc>
+            </gap> Gui<gap reason="illegible" resp="#pdcc" extent="2 letters">
+               <desc>••</desc>
+            </gap>helmus Bu.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

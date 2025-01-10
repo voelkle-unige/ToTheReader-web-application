@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>R., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120927_Fr1_2</idno>
+           <idno type="DLPS">A10301</idno>
+           <idno type="STC">20584</idno>
+           <idno type="ESTC">S120927</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>R., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A president for young pen-men. Or The letter-writer : Containing letters of sundry sortes, with their seuerall answeres. Full of variety, delight, and pleasure, and most necessary for the instruction of those that can write, but haue not the guift of enditing</title>
+                 <author>M. R.</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Wilson, Robert</publisher>
+                        </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>N these latter times euery Ballad-maker will be a Poet, as if
+euery Pedler would seeme a Merchant, and euery Pettifogger a Lawyer: so hee
+that can scarce endite a Letter, will take vpon him to be a Secreta<g ref="char:EOLhyphen"/>rie: For
+my selfe, I dare not be so sawcy, as to put such a Title to my Booke;
+onely this I haue heere written a few Letters, which, I hope, are so
+composed as will be presidents for yong pen men, and not displeasing to
+elder yeeres: such as they are, I put them out into the world to the
+censure of all: entreating the best to correct what is amisse, and the
+rest not to discommend that they cannot mend: and rest as I haue
+reason.</p>
+   <closer>
+      <signed>Your well-willing friend. M. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

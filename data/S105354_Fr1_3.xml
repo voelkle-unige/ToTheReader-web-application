@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105354_Fr1_3</idno>
+           <idno type="DLPS">A20410</idno>
+           <idno type="STC">6820</idno>
+           <idno type="ESTC">S105354</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The shepheardes complaint : A passionate eclogue, written in English hexameters: wherevnto are annexed other conceits, brieflie expressing the effects of loues impressions, and the iust punishment of aspiring beautie. By I.D</title>
+                 <author>Dickenson, John</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Blackwall (Blackwell), William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="3"/>
+   <lg>
+      <l>VIdit Amor, visos legit, lectosque probauit</l>
+      <l>Anglia quos de se libros musaeque Britannae</l>
+      <l>Composuere: Deo placuit mutatus Amintas</l>
+      <l>Veste nitens propria &amp; Romana veste decorus:</l>
+      <l>Nec pla<gap reason="illegible" resp="#oxf" extent="1 letter">
+            <desc>•</desc>
+         </gap>uere minus viridi dignissima lauro</l>
+      <l>Aurifluis foecunda metris Sidnaeia scripta,</l>
+      <l>Et laudes Rosamunda tuae: nec numinis vllae</l>
+      <l>Subter fugerunt oculos visumue camoenae.</l>
+      <l>Singula dum lustrat, Pastoris forte querelam</l>
+      <l>Conspexit risitque parum, de in talia fatus</l>
+      <l>Sunt ait haec aliquid laudes spectantia nostras,</l>
+      <l>Et sint parua licet, non aspernanda videntur,</l>
+      <l>Haec Deus: haec nostrae praebent solatia musae.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>G., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103327_Fr1_7</idno>
+           <idno type="DLPS">A01958</idno>
+           <idno type="STC">12100</idno>
+           <idno type="ESTC">S103327</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>G., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The anatomie of Ananias: or, Gods censure against sacriledge : With a breife scholie vpon Psalm. 83. concerning the same subiect. By Roger Gostvvyke Batchelour of Diuinitie, and minister of Sampford Courtnie in the countie of Deuonsh</title>
+                 <author>Gostwick, Roger</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>8, 183, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>DVm loqueris quantum scelus est subducere sacris,</l>
+   <l>Quotque modis fieri praeda, quibus{que} solet.</l>
+   <l>Obstupui commune nefas, mirum{que} putaui,</l>
+   <l>Esse aliquid templis quod superesse solet.</l>
+   <l>At tu sancta Lauernatuos compesce clientes</l>
+   <l>Aut tu Iane tuas claude timore fores.</l>
+   <signed>M. G.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

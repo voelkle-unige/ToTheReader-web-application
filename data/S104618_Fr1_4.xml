@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Preface.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104618_Fr1_4</idno>
+           <idno type="DLPS">A16209</idno>
+           <idno type="STC">3132</idno>
+           <idno type="ESTC">S104618</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Preface.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A reuelation of the true Minerua : The effect of this booke. Who on earth be gods: and by what meanes mortall men may bee made immortall</title>
+                 <author>Blenerhasset, Thomas</author>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <distributor>Woodcock, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prefatory_poem">
+   <pb facs="5"/>
+   <head>The Preface.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">A</seg> Poore Pilgrime who seekes the circle rounde</l>
+      <l>Of all the worlde to finde his heartes desire,</l>
+      <l>On tope of hie <hi>Pernassas</hi> hill hee found</l>
+      <l>This booke, which al the <hi>Muses</hi> did admire,</l>
+      <l>With golden chain on deske of Genepire</l>
+      <l>Fast lockt it lay vpon <hi>Apollos</hi> seate.</l>
+      <l>This in his brest did kindle first the fire,</l>
+      <l>Both night and day he did the Gods intreate,</l>
+      <l>Long time hee serude with trickling droppes of sweate</l>
+      <l>Like drudge to learnings Ladies small and great:</l>
+      <l>And in the ende they gaue him for his hyre</l>
+      <l>Such knowledge as of them hee did require.</l>
+      <l>
+         <hi>Minerua</hi> nowe reuealed is renownde,</l>
+      <l>For fame her name and due desart doth sounde:</l>
+      <l>Her happie head with goodly crowne is crownde,</l>
+      <l>Long may shee liue and clime in honour hier,</l>
+      <l>All meanes remoude that may moue her to ire</l>
+      <l>The Pilgrime praies, doubting his owne retyre.</l>
+   </lg>
+   <closer>Goe streight and feare not.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

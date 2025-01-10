@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Eiusdem. In laudem Authoris</title>
+           <author>Milward, M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103053_Fr1_9</idno>
+           <idno type="DLPS">A68869</idno>
+           <idno type="STC">25224</idno>
+           <idno type="ESTC">S103053</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Eiusdem. In laudem Authoris</title>
+                 <author>Milward, M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Epigrammes in the oldest cut, and newest fashion : A twise seuen houres (in so many weekes) studie no longer (like the fashion) not vnlike to continue. The first seuen. Iohn Weeuer</title>
+                 <author>Weever, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Bushell, Thomas.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                        </imprint>
+                 <extent>110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>Eiusdem. In laudem Authoris</head>
+   <lg>
+      <l>Queris Amalthaeae cornu? num quaeris &amp; Artis?</l>
+      <l>Nec sine mente iocos? &amp; sine dente sales?</l>
+      <l>Huc vertes occulos, animum{que} aduerte benignum,</l>
+      <l>Praeclarum doctae respice mentis opus,</l>
+      <l>Saepe Poeta nouem, celebrauit carmine mu<gap reason="illegible" extent="3 letters">
+            <desc>•••</desc>
+         </gap>:</l>
+      <l>Nunc decima audita est, carmina Mu<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap>al<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap>qui.</l>
+   </lg>
+   <closer>
+      <signed>M. Milwardmag: Ar:</signed>
+   </closer>
+   <epigraph>
+      <q>Statuto bono, statuto</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

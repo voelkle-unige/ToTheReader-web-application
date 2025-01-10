@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108895_Ba1_4</idno>
+           <idno type="DLPS">A06433</idno>
+           <idno type="STC">16904</idno>
+           <idno type="ESTC">S108895</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A memoriall of a Christian life : Wherin are treated al such things, as appertaine vnto a Christian to do from the beginning of his couersion [sic], vntil the end of his perfection. Deuided into seauen treatises: the particulars whereof are noted in the page following. Written first in the Spanish tongue, by the famous religious father, F. Lewis de Granada, Prouinciall of the holy order of preachers, in the prouince of Portugall</title>
+                 <author>Luis, de Granada</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Loyselet (L’Oiselet), George.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                        </imprint>
+                 <extent>2, 30, 33-201, 203-336, 347-762, 9 pages, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>
+      <hi>I</hi> desire the Reader to amend thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> faults escaped. pa. 17. for Tome, read Thomae. pag. 322. for but vvhere, reed, but vvhen. pag. 349. for If he haue, If he haue not. pag. 397. in some bookes: not his Apostles, read nor his Apostles. pag. 403. in some bookes, of Lord, read of our Lord. ibid in some books 16. Canons, read 16. Canon. pag. 406. in some books <hi>Ranelphus,</hi> read <hi>Ranulphus.</hi> pag. 490. vvoman should, reade vvomen should. pag. 595. in the note, for 46. read 4.6.</p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121679_Fr1_2</idno>
+           <idno type="DLPS">A04537</idno>
+           <idno type="STC">14658</idno>
+           <idno type="ESTC">S121679</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An answer to Maister H. Iacob his defence of the churches and ministery of England. By Francis Iohnson an exile of Iesus Christ</title>
+                 <author>Johnson, Francis</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>28, 217, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <pb facs="2"/>
+   <p>The Title and inscription of <hi>Mr Iacobs</hi> book (because there is often rela<g ref="char:EOLhyphen"/>tion vnto it hereafter, both in the Preface, and in the Book it selff, there<g ref="char:EOLhyphen"/>fore) I thought good here to insert it at first. Thus it was, word for word, as followeth:</p>
+   <q>
+      <p>[A DEFENCE OF THE CHVRCHES AND Ministery of England.</p>
+      <p>Written in two Treatises, against the Reasons and obiections of Mr Francis Iohnson, and others of the separation commonly called Brownists.</p>
+      <p>Published, especially, for the benefit of those in these parts of the lovv Countries.</p>
+      <p>MIDDELBVRGH. By Richard Schilders, Printer to the States of Zealand. 1599.]</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

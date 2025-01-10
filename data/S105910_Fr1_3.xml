@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1587</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105910_Fr1_3</idno>
+           <idno type="DLPS">A02096</idno>
+           <idno type="STC">12239</idno>
+           <idno type="ESTC">S105910</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Euphues his censure to Philautus : wherein is presented a philosophicall combat betweene Hector and Achylles, discouering in foure discourses, interlaced with diuerse delightfull tragedies, the vertues necessary to be incident in euery gentleman: had in question at the sieg of Troy betwixt sondry Grecian and Troian lords: especially debated to discouer the perfection of a souldier. ... Robertus Greene, in artibus magister</title>
+                 <author>Greene, Robert</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <distributor>White, Edward 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1587</date>
+                 </imprint>
+                 <extent>94 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>¶ To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, by chance some of Eu<g ref="char:EOLhyphen"/>phues loose papers came to my hand, wherein hee writ to his friend Philautus from Silexedra certaine pinciples necessary to bee obserued by euery souldier, con<g ref="char:EOLhyphen"/>iecturing with my selfe the opynion of the man would bee not onely authenticall, but pleasing, and that the tyme required such a discourse, as necessa<g ref="char:EOLhyphen"/>rie: I thought not to conceale his censure, but to participate what I had to your courteous fauours, although intēded by him for the pryuate vse of his deerest friend, hoping as euer I haue done to find your courteous acceptation, and that you will for Euphues sake vouchsafe of the matter, and re<g ref="char:EOLhyphen"/>quitall of my trauell make some fauorable conie<g ref="char:EOLhyphen"/>cture of my good meaning: which hoping to ob<g ref="char:EOLhyphen"/>tayne, I rest satisfied<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

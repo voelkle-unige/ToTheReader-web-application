@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To C. F.</title>
+           <author>R., F.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105617_Fr1_4</idno>
+           <idno type="DLPS">A00823</idno>
+           <idno type="STC">10943</idno>
+           <idno type="ESTC">S105617</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To C. F.</title>
+                 <author>R., F.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Sir Francis Drake : his honorable lifes commendation, and his tragicall deathes lamentation</title>
+                 <author>Fitz-Geffry, Charles</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1596</date>
+                 <publisher>Barnes, Joseph.</publisher>
+                            <publisher>Broome (Brome), Joan</publisher>
+                        </imprint>
+                 <extent>104 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>To C. F.</head>
+   <l>VVHen to the bankes of sweete <hi>Elysium</hi>
+   </l>
+   <l>Came worthy DRAKE, to get his passage there▪</l>
+   <l>The ferriman denied his ghost to come,</l>
+   <l>Before his exequies solemniz'd were:</l>
+   <l>But none t' adorne his funerall hearse did prove:</l>
+   <l>And long he sate vpon the hoplesse shoare.</l>
+   <l>Vntill thy Muse (whome pittie still did move)</l>
+   <l>Helpt thee to rise, and him to rest no more:</l>
+   <l>And sent her mournefull teares unto his ghost,</l>
+   <l>And sweete (though sad) complaintes as exequies,</l>
+   <l>Passing him to those fields which long he lost,</l>
+   <l>And won his soule the ioy, thy pen the prise:</l>
+   <l>So still thy funeralles shall adorne his name,</l>
+   <l>And <gap reason="illegible: faint" resp="#tech" extent="2 letters">
+         <desc>••</desc>
+      </gap>ll his funeralles shall enlarge thy fame.</l>
+   <closer>
+      <signed>F. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

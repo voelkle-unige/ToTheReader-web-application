@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           <author>B., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113627_Fr1_2</idno>
+           <idno type="DLPS">A08550</idno>
+           <idno type="STC">18868</idno>
+           <idno type="ESTC">S113627</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 <author>B., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The sixth booke of the Myrrour of knighthood : Being the first booke of the third part, immediatly follovving the fourth and fifth bookes printed. Conteining the knightly actions and amorous conuersations of Rosicleer and Rosabel his sonne, vvith diuers other their princely frends and kinsmen. Translated out of Spanish by R.P</title>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Burby, Cuthbert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>288 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ost more than ordinarie, &amp; trauell exceeding expences haue I bestovved to get to<g ref="char:EOLhyphen"/>gether all the parts of this excelent Historie. If a quick Terme pay the expence of a dead Vacation, I vvil vvithin the month play the Conney, and bring foorth another Part: but if ye proue niggards to buy, vvhat I haue dearly bought to sell, I vvill learne of the Ca<g ref="char:EOLhyphen"/>mell, to be three yeares in bringing forth my next birth, though I buy the long bearing ve<g ref="char:EOLhyphen"/>rie deare.</p>
+   <closer>
+      <signed>Yours C. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

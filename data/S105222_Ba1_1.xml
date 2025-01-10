@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Postscript]</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105222_Ba1_1</idno>
+           <idno type="DLPS">A20028</idno>
+           <idno type="STC">6467</idno>
+           <idno type="ESTC">S105222</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Postscript]</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The defence of contraries : Paradoxes against common opinion, debated in forme of declamations in place of publike censure: only to exercise yong wittes in difficult matters. Wherein is no offence to Gods honour, the estate of princes, or priuate mens honest actions: but pleasant recreation to beguile the iniquity of time. Translated out of French by A.M. one of the messengers of her Maiesties Chamber</title>
+                 <author>Estienne, Charles</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 <publisher>Waterson, Simon.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>8, 99, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, heere I thought good to breake off, and conclude this first Booke, both for your ease &amp; mine owne: least wearying you too much, you should fall in dislike of me and my labour, and so both of vs misse your gentle fauour, the only recompence I expect for my paines: and very vnkinde are ye, if ye cannot part with so small a reward. But not despairing thereof, let me intreat thus much at your hands, if ye finde any harsh English in my rude Translation, or faults vnwillingly escaped in the Printing: mend the one with Patience, and the other with your pennes, so both shall passe for currant, you re<g ref="char:EOLhyphen"/>solued, and I sufficiently contented.</p>
+   <closer>
+      <signed>
+         <hi>Yours to his power,</hi> A. Mundy.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

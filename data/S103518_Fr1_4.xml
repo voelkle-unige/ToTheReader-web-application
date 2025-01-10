@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTORI.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103518_Fr1_4</idno>
+           <idno type="DLPS">A02334</idno>
+           <idno type="STC">12462</idno>
+           <idno type="ESTC">S103518</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTORI.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two discourses of Master Frances Guicciardin : vvhich are wanting in the thirde and fourth bookes of his Historie, in all the Italian, Latin, and French coppies heretofore imprinted; which for the worthinesse of the matter they containe, were published in those three languages at Basile 1561. And are now for the same cause doone into English</title>
+                 <author>Guicciardini, Francesco</author>
+                 <imprint>
+                    <publisher>Short, Peter</publisher>
+                    <distributor>Ponsonby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>9, 67 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="3"/>
+   <head>LECTORI.</head>
+   <p>
+      <seg rend="decorInit">I</seg>Nuadendis occupandisque Jmperijs, iuris saepe color initiò quaeri solet: stabilita verò fundata{que} semel tyrannide, vetera illa ini<g ref="char:EOLhyphen"/>tia quantum potest obruūtur, lex tantū Regia nudè, &amp; veluti <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> obtenditur, in contemptoris legib. maiestatis per duellionum{que} vindicatur. Jta{que} sim<g ref="char:EOLhyphen"/>pliciter magis &amp; ingenuè quàm caute Paulus III. cum de summa ipsius potestate aliquando inter fami<g ref="char:EOLhyphen"/>liares mentio incideret, ridere illos solitus erat vt scholasticos &amp; rerum rudes, qui à Christo eam tam anxiè repeterent, cuius se possessionem vel solam, op<g ref="char:EOLhyphen"/>timum et firmissimum titulum habere dicebat, quam viribus opibus{que} summis, ciuitatibus munitissimis, &amp; potentissimorum principum sibi coniurantium auxi<g ref="char:EOLhyphen"/>lio tueri ac defendere posset. Prudentius etiam Jtalo rum pars maxima, quae pontificem Rom. non vti De<g ref="char:EOLhyphen"/>um aliquem, aut Dei vicariū ob fulmina illa, quibus iam pene totus inermis est: sed vt principem viris, armis, vrbibus, castellis, foederibus{que} potentissimum reueretur &amp; obseruat. Nos verò quos ille vt pueru<g ref="char:EOLhyphen"/>los sola vanae religionis larua perterret, quibus{que} vt venalitijs mancipijs pro arbitrio abutitur, scire ali<g ref="char:EOLhyphen"/>quando par est, quo iure, quáue iniuria tam duro in<g ref="char:EOLhyphen"/>clementi{que} domino seruiamus: non vt tanquā Spar<g ref="char:EOLhyphen"/>taci bellum aliquod seruile moueamus, sed vt ingenui nati, &amp; quorum maiores seruitutem illam non serui<g ref="char:EOLhyphen"/>erent,
+<pb facs="3"/>
+vindicibus tandem idoneis vel tertia asserti<g ref="char:EOLhyphen"/>one semel amissam libertatem &amp; strenuè recuperemus &amp; fortiter retineamus conseruemus{que}. Natales por<g ref="char:EOLhyphen"/>ro nostros vel ab eiusdem domini familia aliqua saltē ex parte repetere licet, ex qua est hoc quidem mansi<g ref="char:EOLhyphen"/>pium, sed frugi admodum, &amp; manumissione dignissi<g ref="char:EOLhyphen"/>mum cuius etiam hac in refidem herus infidelissimus per alligatos obruere conatus est. Nos tabulas quasi ex naufragio, aut potius ex rogo vispellionum mani<g ref="char:EOLhyphen"/>bus extortas omnibus reddimus. Quarum fidem &amp; vindicum satis perspecta integritas, &amp; auctoris sty<g ref="char:EOLhyphen"/>lus, &amp; loci ipsius, vnde dolo malo detractae sunt, vel sola inspectio sic asserunt, vt de ea nemo bonus iustè dubitare possit. Reliquum est, vt hoc beneficio pru<g ref="char:EOLhyphen"/>denter &amp; serio vtamur fruamur{que} ne si nos ob preti<g ref="char:EOLhyphen"/>um participandum iterum quodammodo venire pati amur, non eadem posthac spes libertatis affulgeat et perpetua seruitute, dignissima etiam grauioribus flagris mancipia premamur.</p>
+</div>
+        </body>
+  </text>
+</TEI>

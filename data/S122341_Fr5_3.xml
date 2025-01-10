@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122341_Fr5_3</idno>
+           <idno type="DLPS">A05657</idno>
+           <idno type="STC">1577.5</idno>
+           <idno type="ESTC">S122341</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The mysteryes of nature, and art : conteined in foure severall tretises, the first of water workes the second of fyer workes, the third of drawing, colouring, painting, and engrauing, the fourth of divers experiments, as wel serviceable as delightful: partly collected, and partly of the authors peculiar practice, and invention by I.B</title>
+                 <author>Bate, John</author>
+                 <imprint>
+                    <distributor>Mab (Mabbe), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <publisher>Church, Francis.</publisher>
+                            <publisher>Harper, Thomas.</publisher>
+                            <publisher>Jackson, John 2</publisher>
+                        </imprint>
+                 <extent>10, 14, 2, 15-112, 16, 121-192, 2 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Ordinances, edicts, proclamations</term>
+                    <term>Art and architecture</term>
+                    <term>Medical texts</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="83"/>
+   <pb facs="83"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, forasmuch as
+there were divers experiments
+that I could not conveniently, or
+rather my occasions would not
+permit me to dispose in such order
+as I would have done; I thought
+it would not bee amisse to call them by the names of
+<hi>Extravagants,</hi> and so to set them downe as I found
+them, eyther inserted amongst other my notes, as I
+put them in practise, or as they came into remem<g ref="char:EOLhyphen"/>brance.</p>
+</div>
+        </body>
+  </text>
+</TEI>

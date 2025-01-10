@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ADVERTISEMENT TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102430_Bo1_7</idno>
+           <idno type="DLPS">A01045</idno>
+           <idno type="STC">11151</idno>
+           <idno type="ESTC">S102430</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ADVERTISEMENT TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Funerals of a right reuerend father in God Patrick Forbes of Corse, Bishop of Aberdfne [sic] : Tou en hagiois reuerendissimi in Christo patris, Patricii Forbesii a Corse, episcopi Abredoniensis, tumulus. A multis omnium ordinum collachrymantibus variegato opere exornatus</title>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>20, 216, 201-216, 233-429, 3 pages, 1 leaf of plates, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice_to_the_reader">
+   <pb n="215" facs="134"/>
+   <head>ADVERTISEMENT TO THE READER.</head>
+   <p>KNow (gentle Reader) that these Letters of the Bishops, are not placed heere according to the order of their Episcopall Seas, nor with respect of persons; but onlie according to the order of tyme, expressed in the date of everie Letter.</p>
+</div>
+        </body>
+  </text>
+</TEI>

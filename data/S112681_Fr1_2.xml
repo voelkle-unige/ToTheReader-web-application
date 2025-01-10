@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Venerabili viro D. Humfredo Ten∣dallo Collegij Reginalis apud Can∣tabrigienses Magistro, reliquis{que} socijs eiusdem Collegij amicis &amp; fratri∣bus in Domino obseruandis.</title>
+           <author>Taylor, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112681_Fr1_2</idno>
+           <idno type="DLPS">A07529</idno>
+           <idno type="STC">17913</idno>
+           <idno type="ESTC">S112681</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Venerabili viro D. Humfredo Ten∣dallo Collegij Reginalis apud Can∣tabrigienses Magistro, reliquis{que} socijs eiusdem Collegij amicis &amp; fratri∣bus in Domino obseruandis.</title>
+                 <author>Taylor, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Papisto-mastix, or The protestants religion defended : Shewing briefely when the great compound heresie of poperie first sprange; how it grew peece by peece till Antichrist was disclosed; how it hath been consumed by the breath of Gods mouth: and when it shall be cut downe and withered. By William Middleton Bachelor of Diuinitie, and minister of Hardwicke in Cambridge-shire</title>
+                 <author>Middleton, William</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <distributor>Johnson (Jonson), Arthur</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>16, 203, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>Venerabili viro D.</hi> Humfredo Ten<g ref="char:EOLhyphen"/>dallo <hi>Collegij Reginalis apud</hi> Can<g ref="char:EOLhyphen"/>tabrigienses Magistro, reliquis{que} socijs eiusdem Collegij amicis &amp; fratri<g ref="char:EOLhyphen"/>bus in Domino obseruandis.</head>
+   <p>
+      <seg rend="decorInit">P</seg>Apistomastix iste meus, me penè in<g ref="char:EOLhyphen"/>uito &amp; reluctante, se offert patrocinio vestro, nam cùm probè conscius sine meae tenuitatis, nolui proprio iudicio tanquàm sorex perire, verùm cùm ex aduerso intelligam vos, tanquàm a<g ref="char:EOLhyphen"/>pes bonarum artium, aculeos graui<g ref="char:EOLhyphen"/>tatis clementiae melle temperatos ge<g ref="char:EOLhyphen"/>stare: appareat per me licet, &amp; se velo vestrae humanitatis operiat, ne minorem curam religionis, quàm famae &amp; existimationis habuisse videar. Missus est ad me Dialogus iste ab alumno veteri collegij vestri, cuius nomen ar<g ref="char:EOLhyphen"/>genteo poculo incisum apud vos manet, nec id modò, sed ab eo<g ref="char:EOLhyphen"/>dem etiam sum rogatus vt futilibus argutijs personati nescio cu<g ref="char:EOLhyphen"/>ius Papistae responderem. Ideo{que} adhibui eam, quam in aduersa valetudine potui, diligentiam; vt manus remissas, &amp; soluta ge<g ref="char:EOLhyphen"/>nua erigerem, &amp; rectas orbitas facerem pedibus eius, ne claudus deflecteret de via, sed sanaretur potiùs, Si mihi quo{que}, in hac lu<g ref="char:EOLhyphen"/>cta, manus, pedes, &amp; genua defuisse videantur, vestrae humani<g ref="char:EOLhyphen"/>tatis erit Mineruae meae, quam Dei prouidentia rusticanam esse voluit, non modò dare, sed alijs etiā, si qui forti iniquiores futuri sunt, veniā extorquere. Aeternus Deus, pater Domini nostri Ie<g ref="char:EOLhyphen"/>su Christi, vos, fratres{que} vestros, quos Academia peperit, ecclesia nutrit innumerabiles, ita fulciat spiritu sancto suo: vt patentes papistarum gulae, occlusae tandem &amp; constrictae, sorbere simul &amp; flare, vorare &amp; vomere nec possint, nec audeant.</p>
+   <closer>
+      <signed>
+         <hi>Vester in Coelesti ministerio conseruus qualiscun{que}</hi> Guiliel: Middleton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

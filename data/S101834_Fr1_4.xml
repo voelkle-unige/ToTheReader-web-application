@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           <author>Webbe, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101834_Fr1_4</idno>
+           <idno type="DLPS">A14850</idno>
+           <idno type="STC">25152</idno>
+           <idno type="ESTC">S101834</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 <author>Webbe, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The rare and most vvonderfull things vvhich Edvv. VVebbe an Englishman borne, hath seene and passed in his troublesome trauailes : in the cities of Ierusalem, Damasko, Bethlehem and Galely and in the landes of Iewrie, Egypt, Gracia, Russia, and Prester Iohn, vvherein is set forth his extreame slauery sustained many yeeres together in the gallies and warres of the great Turke, against the lands of Persia, Tartaria, Spaine, and Portugale</title>
+                 <author>Webbe, Edward</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 <publisher>Wolfe (Woolfe), John.</publisher>
+                            <publisher>Wright, William 1</publisher>
+                        </imprint>
+                 <extent>16 leaves, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>The Epistle to the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Urteous Reader, I haue vndertaken in this short discourse, to vtter the moste part of such things as I saw and passed in the time of my troublesome trauaile and slauish life sustained in the Gallies, and warres of the great Turke.</p>
+   <p>And this I protest, that in this booke there is nothing mentioned or expressed but that which is of truth, and what mine owne eyes haue perfectly séene. Some foolish persons perhaps wil cauil &amp; say, that these are lies and fained fables, and that it conteineth nothing else: but to those I answere, that what soeuer is herein mentio<g ref="char:EOLhyphen"/>ned, he whosoeuer he be, that shall so finde fault and doubt of the trueth hereof, let him but come and conferre with me or make enquiry of the best and greatest Trauel<g ref="char:EOLhyphen"/>lers and Marchantes about all this land: and they doubt<g ref="char:EOLhyphen"/>les shall be resolued that this is true which is here expressed: with a great deale more, which now I cannot call to re<g ref="char:EOLhyphen"/>membrance, for that my memorie faileth me, by meanes of my great and gréeuous troubles.</p>
+   <p>And whereas in the first edition of this booke a great fault in number did negligently escape in Folio 3. in these wordes 30. thousand for 300. thousand: and 50. thousand for 500. thousand: that fault is truely amended in this Edition. From my lodging at Black-wall, this ninetéenth of May, 1590.</p>
+   <closer>
+      <signed>Your louing Countrey man, Edward Webbe.</signed>
+   </closer>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+</div>
+        </body>
+  </text>
+</TEI>

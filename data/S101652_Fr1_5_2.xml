@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Eiusdem Edmundi Lewkener
+Libri ad Lectorem Prosopopeia.</title>
+           <author>More, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1567</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101652_Fr1_5_2</idno>
+           <idno type="DLPS">A00301</idno>
+           <idno type="STC">10423</idno>
+           <idno type="ESTC">S101652</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Eiusdem Edmundi Lewkener
+Libri ad Lectorem Prosopopeia.</title>
+                 <author>More, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The manuell of Epictetus, translated out of Greeke into French, and now into English, conferred with two Latine translations. Herevnto are annexed annotations, and also the apothegs of the same author. By Ia. Sanford</title>
+                 <author>Epictetus</author>
+                 <imprint>
+                    <publisher>Bynneman (Benneyman, Binneman), Henry</publisher>
+                    <distributor>Maylard (Maylerd), Leonard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1567</date>
+                 </imprint>
+                 <extent>8, 39, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_the_reader">
+   <head>Eiusdem Edmundi Lewkener
+Libri ad Lectorem Prosopopeia.</head>
+   <l>VErba libri{que} docent sacrae munimina vitae,</l>
+   <l>Virtus est clarae nobilitatis iter,</l>
+   <l>Elisij Campi vitae sunt munera sacrae,</l>
+   <l>At comes est magnae nobilitatis honos.</l>
+   <l>In me diuinae lucet virtutis Imago,</l>
+   <l>Atque ego sum vitae dux sine labe tuae.</l>
+   <l>Ergo si coelos, si non contemnis honores,</l>
+   <l>Tu face quod iubeo munus vtrumque feres.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104693_Fr1_3</idno>
+           <idno type="DLPS">A16807</idno>
+           <idno type="STC">3708</idno>
+           <idno type="ESTC">S104693</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>VVits priuate vvealth : Stored with choise commodities to content the minde</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Tapp (Tap), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>Ou that shall happen to light on this little
+peece of a booke, how you will or can iudge
+of what you read, I know not: if it be well I
+am glad you are pleased, if otherwise, it is
+past the print, and therefore too late to be
+mended: many things are comprehended in a little roome,
+and he that reades all and takes good by none at all, I am
+perswaded is either vncapable or careles: to be short, such
+as they be I send them to you, set downe with the dayes in
+the yeare: in halfe one day you may read them, and euer
+after thinke on them as you can conceiue, disgest, or re<g ref="char:EOLhyphen"/>member
+them: some of them were written by wiser men
+then my selfe, and for the rest (like wares in a shop) the good
+must help away with the bad: To conclude, I commend
+them with my further loue and seruice, to the fauour of
+those spirits, that iudging the best, will not say the worst:
+among whome, hoping you are one to fill
+vp the number of honest
+men, I rest.</p>
+   <closer>
+      <signed>Your friend as I may.
+N. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

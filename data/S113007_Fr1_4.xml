@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113007_Fr1_4</idno>
+           <idno type="DLPS">A15772</idno>
+           <idno type="STC">26038.8</idno>
+           <idno type="ESTC">S113007</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The disposition or garnishmente of the soule to receiue worthily the blessed Sacrament : deuyded into three discourses, 1 Preparation. 2 Presentation before Christ. 3 Enterteinment</title>
+                 <author>Wright, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England</pubPlace>
+                    <date>1596</date>
+                 <publisher>—Recusant.</publisher>
+                            <publisher>Trognesius, Joachim</publisher>
+                        </imprint>
+                 <extent>54, 293, 29 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>In the firste ingresse of this discourse before I descended to any particuler Treatise, I preconceiued, that these my sclender Meditations, shoulde come to the vew and censure of three sortes of persons; Catholicks, protes<g ref="char:EOLunhyphen"/>tantes, &amp; demi-catholickes, or ca<g ref="char:EOLhyphen"/>tholique-like protestantes; or exter<g ref="char:EOLhyphen"/>nall protestantes, &amp; internall catho<g ref="char:EOLhyphen"/>likes: some call them Churche-pa<g ref="char:EOLhyphen"/>pistes, others Scis matiques, whose mindes I thoughte good to prepare in particuler before I went any further.</p>
+</div>
+        </body>
+  </text>
+</TEI>

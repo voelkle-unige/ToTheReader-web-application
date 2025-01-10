@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Testimonial]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112452_Fr1_3_1</idno>
+           <idno type="DLPS">A07272</idno>
+           <idno type="STC">17668</idno>
+           <idno type="ESTC">S112452</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Testimonial]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Remarkeable considerations upon the life, and services of Mounsieur Villeroy. Together with certaine politicall observations upon the fall of Seianus. Translated out of the originals by Sr. T.H</title>
+                 <author>Matthieu, Pierre</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 2</publisher>
+                    <distributor>Emerson (Emondson, Edmonds), Godfrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>6, 79, 1, 2, 48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="testimonial">
+   <p>
+      <hi>
+         <seg rend="decorInit">H</seg>E who affords not honour to Mounsieur Villeroy,</hi> denyeth it to vertue: I was pre<g ref="char:EOLhyphen"/>sent at the last was done him at Lyons in the Church of the Minims, and there heard his learned discourse, whom <hi>Hen<g ref="char:EOLhyphen"/>ry the Great</hi> so much had lov'd and esteemed, who had beene for aboue foure<g ref="char:EOLhyphen"/>teen yeares the Chrysostome of the Court, and of whom Fraunce may more truly say, then Greece of Pericles, that the Temple of Perswasion was seated on his lips.</p>
+   <p>And although hee forgat nothing, which appertained to the merit, and dig<g ref="char:EOLhyphen"/>nity of this occasion, yet cannot I thinke
+<pb facs="4"/>though he well acquitted himselfe, that I stand disobliged from what I owe to the memory of this man.</p>
+   <p>He reaped all that was exquisite, and excellent in this subject, I but gleane af<g ref="char:EOLhyphen"/>ter him, yet it is sufficient I let it appeare, that as to model the pourtrait of Mer<g ref="char:EOLhyphen"/>cury at Athens, they tooke the picture of Alcibiades, so perfectly to delineate a states-man, we must make use of <hi>Vil<g ref="char:EOLhyphen"/>leroy.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

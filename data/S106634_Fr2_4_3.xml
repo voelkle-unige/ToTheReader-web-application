@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Postscript]</title>
+           <author>Sylvester, Josuah</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106634_Fr2_4_3</idno>
+           <idno type="DLPS">A13273</idno>
+           <idno type="STC">23575</idno>
+           <idno type="ESTC">S106634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Postscript]</title>
+                 <author>Sylvester, Josuah</author>
+              </analytic>
+              
+              <monogr>
+                 <title>All the small vvorkes of that famous poet Iosuah Siluester : Gathered into one volume</title>
+                 <author>Sylvester, Josuah</author>
+                 <imprint>
+                    <publisher>Lownes, Humphrey 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>10, 308, 16, 191, 5, 38, 10, 43-66, 4, 29, 19 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="postscript">
+   <l>THese All are <hi>Publike Acts: Priuate,</hi> This <hi>Session</hi>
+   </l>
+   <l>Hath passed None: but in the next <hi>Impression,</hi>
+   </l>
+   <l>Your <hi>Acts of Bounty,</hi> and the rest of <hi>Mark,</hi>
+   </l>
+   <l>Shall be recorded,<lb/>
+By <hi>Your Vnder-Clark,</hi>
+   </l>
+   <closer>
+      <signed>Iosuah Syluester.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

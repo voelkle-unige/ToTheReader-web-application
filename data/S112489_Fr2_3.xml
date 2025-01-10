@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Advertisement.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112489_Fr2_3</idno>
+           <idno type="DLPS">A07270</idno>
+           <idno type="STC">17666</idno>
+           <idno type="ESTC">S112489</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Advertisement.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Vnhappy prosperitie expressed in the histories of Ælius Seianus and Philippa the Catanian· : Written in French by P: Mathieu and translated into English by Sr. Th: Hawkins</title>
+                 <author>Matthieu, Pierre</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Emerson (Emondson, Edmonds), Godfrey.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>6, 299, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <pb facs="118"/>
+   <head>Advertisement.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">B</seg>Occace,</hi> the Florentine is the Au<g ref="char:EOLhyphen"/>thor of this History, in his last book, <hi>De casibus virorum illustrium,</hi> &amp; he relateth it upon the credit of his own eyes, and of two old Captaines,
+<hi>Marinus</hi> of Bulgaria, and <hi>Constantino de la Rocca,</hi> who knew her in the Court of <hi>Robert</hi> King of Naples. I conferred it, upon the first impression in France, with an anciēt Manuscript, &amp; with that which <hi>Iohn Ant. Summoto</hi> wrot of it.</p>
+   <p>Jt is a tragicall effect of the inconstancy of Fortune no lesse cunning in her Deceits, than giddy in her Favours. She could not raise this woman from a more despicable degree, nor precipitate her from an higher, To shew, The Ascent to great Prosperi<g ref="char:EOLhyphen"/>ties is of Glasse, the Top a Terror, and Descent a Precipice.</p>
+</div>
+        </body>
+  </text>
+</TEI>

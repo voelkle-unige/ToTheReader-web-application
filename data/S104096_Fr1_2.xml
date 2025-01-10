@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104096_Fr1_2</idno>
+           <idno type="DLPS">A03336</idno>
+           <idno type="STC">13456</idno>
+           <idno type="ESTC">S104096</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at Pauls Crosse the third of March, 1610. By Theophilus Higgons. In testimony of his heartie reunion with the Church of England, and humble submission thereunto. Published by command</title>
+                 <author>Higgons, Theophilus</author>
+                 <imprint>
+                    <publisher>Hall, William</publisher>
+                    <distributor>Aspley, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <p>GEntle Reader, whereas in the former impression, by reason of importunate haste of the Worke, some few faults escaped, and especially, page <hi>4.</hi> l. <hi>22.</hi> in this second thou shalt finde them corrected. Farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

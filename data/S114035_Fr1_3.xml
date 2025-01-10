@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Author pro seipso.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114035_Fr1_3</idno>
+           <idno type="DLPS">A09040</idno>
+           <idno type="STC">19333</idno>
+           <idno type="ESTC">S114035</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Author pro seipso.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The mastiue, or Young-whelpe of the olde-dogge : Epigrams and satyrs</title>
+                 <author>Parrot, Henry</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <distributor>Jones, Thomas 2</distributor>
+                            <distributor>Meighen, Richard</distributor>
+                        </imprint>
+                 <extent>70 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="in_place_of_encomium">
+   <pb facs="3"/>
+   <head>Author pro seipso.</head>
+   <l>LOoke nought for heere of Writers commendation:</l>
+   <l>Ile not be thought one of their Fauour-winners:</l>
+   <l>Which would to Lamenesse seeme but supportation,</l>
+   <l>Or as an Offering made for Young-Beginners.</l>
+   <l>Who knowes not, Tauernes painted Posts, and Signes,</l>
+   <l>Are but th' attractiues to deceitfull wines?</l>
+</div>
+        </body>
+  </text>
+</TEI>

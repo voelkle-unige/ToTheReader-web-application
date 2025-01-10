@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113062_Fr1_2</idno>
+           <idno type="DLPS">A01492</idno>
+           <idno type="STC">11617.8</idno>
+           <idno type="ESTC">S113062</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise of c [hri] stian renunciation : Compiled of excellent sentences [and] as it were diuerse homelies of ancient fathers: wherin is shewed how farre it is lawfull or necessary for the loue of Christ t [o] forsake father, mother, wife and children, and all other worldl creatures. Against the enemies of the crosse of Christ, ... Wherunto is added [a shorte discourse against going to hereticall churches.]</title>
+                 <imprint>
+                    <publisher>Fr. Garnet’s First Press</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>2, 169, 3, 39, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <pb facs="2"/>
+   <q>
+      <bibl>Luc. <hi>14.</hi>
+      </bibl>
+      <p>Euery one of you which doth not renoūce all thinges which he hath, cannot be my Disciple.</p>
+   </q>
+   <q>
+      <bibl>Mat. <hi>16.</hi>
+      </bibl>
+      <p>If any man will come after me, let him deny him-selfe, and take vp his Crosse, and follow me.</p>
+   </q>
+   <q>
+      <bibl>Luc. <hi>14.</hi>
+      </bibl>
+      <p>Many man come vnto me and doth not hate his father and mother, and wife, and children, and brethren and sisters, <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>ea and moreouer his owne life, he can<g ref="char:EOLhyphen"/>not be my Disciple.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

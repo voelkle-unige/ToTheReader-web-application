@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>M., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108301_Fr1_2</idno>
+           <idno type="DLPS">A06701</idno>
+           <idno type="STC">17153</idno>
+           <idno type="ESTC">S108301</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>M., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true narration of the entertainment of his Royall Maiestie, from the time of his departure from Edenbrough; till his receiuing at London : with all or the most speciall occurrences. Together with the names of those gentlemen whom his Maiestie honoured with knighthood</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Burby, Cuthbert.</publisher>
+                            <publisher>Creede, Thomas.</publisher>
+                            <publisher>Millington, Thomas</publisher>
+                        </imprint>
+                 <extent>48 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Fter long trauell, to bee informed of e<g ref="char:EOLhyphen"/>uery particular, as much as diligence might preuaile in; this small worke of his Maiesties Recei<g ref="char:EOLhyphen"/>uing and royall En<g ref="char:EOLhyphen"/>tertainment is brought forth which though it may seeme to haue bene too long deferred, yet seeing nothing therof hath bene publike; no time can be too late, to expresse so excel<g ref="char:EOLhyphen"/>lent a matter; wherein the dutifull loue of many noble Subiects so manifestly appea<g ref="char:EOLhyphen"/>red to our dread Lord and Soueraigne: and his Royall thankfulnes in exchange for that, which was indeed but dutie: though so a<g ref="char:EOLhyphen"/>dorned with munificent bounty, that most houses where his Highnesse rested, were so
+<pb facs="3"/>furnished by the owners, with plenty of de<g ref="char:EOLhyphen"/>lights and delicates, that there was discerned no negligence; but if there were any offence, the sinne only appeared in excesse; as more at large you shal hereafter perceiue: where the truth of euery thing is rather pointed at, than stood vpon.</p>
+   <p>All diligence was vsed to get the names of those Gentlemen, that in sundry places receiued the honor of Knighthood, &amp; what the Heraldes haue in register, are duly set downe, both for name, time, and place. If any be omitted, let it please <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> him to sig<g ref="char:EOLhyphen"/>nifie their names, and the house where they receiued that honor; and there shall be addi<g ref="char:EOLhyphen"/>tions put to this Empressiō; or at least (which wil be by order more fitly) placed in the next Many I am sure there are not missing, and only in that point we are somewhat doubt<g ref="char:EOLhyphen"/>full: the rest is from his Highnesse departure from <hi>Edenbrough:</hi> his comming to <hi>London,</hi> so exactly set downe, as nothing can be added to it, but superfluous words; which we haue striued to auoyd.</p>
+   <closer>
+      <signed>Thine T. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

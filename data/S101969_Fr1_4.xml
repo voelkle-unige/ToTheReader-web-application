@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Ignorant and Honest Reader.</title>
+           <author>Skay, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101969_Fr1_4</idno>
+           <idno type="DLPS">A12274</idno>
+           <idno type="STC">22592</idno>
+           <idno type="ESTC">S101969</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Ignorant and Honest Reader.</title>
+                 <author>Skay, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A friend to navigation plainely expressing to the capacity of the simpler so [rt] the whole misery or foundation of the same art : for whose sake, the author hath onely penned this treatise, being himselfe a faithfull good willer thereto</title>
+                 <author>Skay, John</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>6, 34, 4 pages, table, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Ignorant and Honest Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Onest Reader, this worke in<g ref="char:EOLhyphen"/>tended for thy good, dispise not, but rather accept it thankeful<g ref="char:EOLhyphen"/>ly, seeing if it were better I <gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>ould haue giuen it vnto thee; and more, while J liue I rest allwayes ready to do thee what good J may. Thou hast here <gap reason="illegible" resp="#murp" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> Chapters: The first is of the Cosmographicall discription of the world: The second is of the meas<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>re of the heauens: The third of the Elements: The fourth is of the ground of the Art, The Jnstrument, Astronomicall propositions, with the Geographicall <gap reason="illegible" resp="#murp" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>, and Hidrographi<g ref="char:EOLhyphen"/>call description of the Earth and S<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>a: The fift Chap<g ref="char:EOLhyphen"/>ter is of certaine considerations briefly set do<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>ne: The sixt is of Shipping and going out of the Harbour: The
+<pb facs="4"/> seuenth of the iournall obseruation and proiection. The eight and ninth is of propositions of Nauigation Arithmetically, Geometrically, and Jnstrumental<g ref="char:EOLhyphen"/>ly shewed: The tenth is of the motion of the Moone, and of comming into the Harbour. Jf thou profit by it, giue God the glory, to whom be praise for euer, Amen.</p>
+   <closer>
+      <salute>Vale,</salute>
+      <dateline>From my house in Saint <hi>Thomas</hi> Spittle, <date>May the first, <hi>1628.</hi>
+         </date>
+      </dateline>
+      <signed>Iohn Skay.</signed>
+   </closer>
+   <trailer>
+      <figure>
+         <figDesc>drawing of geometric equation</figDesc>
+      </figure>
+   </trailer>
+</div>
+        </body>
+  </text>
+</TEI>

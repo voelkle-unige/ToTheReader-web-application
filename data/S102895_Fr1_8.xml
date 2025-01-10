@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102895_Fr1_8</idno>
+           <idno type="DLPS">A09492</idno>
+           <idno type="STC">19775</idno>
+           <idno type="ESTC">S102895</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Egluryn phraethineb. sebh, dosparth ar retoreg, vn oʿr saith gelbhydhyd, yn dysculhuniaith ymadrodh, aʿi pherthynassau</title>
+                 <author>Perry, Henry</author>
+                 <imprint>
+                    <publisher>Danter, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>20, 103, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dialectics and rhetoric</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>SIqua manet doctos laus haud moritura magistros</l>
+   <l>Grammatices, puro quæ docet ore loqui:</l>
+   <l>Quanta manet diæ pandentem præmia Suadæ</l>
+   <l>Gloria, lethæis non peritura vadis?</l>
+   <l>Illa, homines brutis discriminar arte loquendi:</l>
+   <l>Ista, homines homines vincere mira docet.</l>
+   <l>Ergo novos adeat merito Perræus honores</l>
+   <l>Invia fœlici qui terit arva pede.</l>
+   <l>Cambria, quo doctore, novo ditata decore,</l>
+   <l>Aemula fit laudis, Græcia docta, tuæ.</l>
+   <p>Da. Rob.</p>
+</div>
+        </body>
+  </text>
+</TEI>

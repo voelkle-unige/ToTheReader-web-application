@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem To The Reader]</title>
+           <author>Yates, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109324_Fr3_5</idno>
+           <idno type="DLPS">A05049</idno>
+           <idno type="STC">15192</idno>
+           <idno type="ESTC">S109324</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem To The Reader]</title>
+                 <author>Yates, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A most excellent and learned vvoorke of chirurgerie, called Chirurgia parua Lanfranci : Lanfranke of Mylayne his briefe: reduced from dyuers translations to our vulgar or vsuall frase, and now first published in the Englyshe prynte by Iohn Halle chirurgien. Who hath thervnto necessarily annexed. A table, as wel of the names of diseases and simples with their vertues, as also of all other termes of the arte opened. ... And in the ende a compendious worke of anatomie ... An historiall expostulation also against the beastly abusers, both of chyrurgerie and phisicke in our tyme: with a goodly doctrine, and instruction, necessary to be marked and folowed of all true chirurgie [n] s. All these faithfully gathered, and diligently set forth, by the sayde Iohn Halle</title>
+                 <author>Lanfranco, of Milan</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>32, 73, 23, 143, 25, 96, 64 pages, illustrations (woodcuts), portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem" subtype="to_the__reader">
+   <lg>
+      <l>LIke as an artiste base and rude,</l>
+      <l>All men doe him repute:</l>
+      <l>who knoweth not the instrumentes,</l>
+      <l>wherwith to execute.</l>
+   </lg>
+   <lg>
+      <pb facs="65"/>
+      <l>The partes belonginge to his arte:</l>
+      <l>Euen so of righte good skill</l>
+      <l>A perfect artist must them knowe</l>
+      <l>And vse them at his will.</l>
+   </lg>
+   <lg>
+      <l>But if base artes doe this thinge craue,</l>
+      <l>As that moste nedefull is:</l>
+      <l>VVhat shall surgerye then thinke you?</l>
+      <l>Hathe she no nede of this?</l>
+   </lg>
+   <lg>
+      <l>Yes yes, none more, if ye doe marke,</l>
+      <l>That without instrument,</l>
+      <l>The surgyen can not vse his arte,</l>
+      <l>Nor compasse his intent.</l>
+   </lg>
+   <lg>
+      <l>Then if to knowe the instrumentes,</l>
+      <l>It is so greate againe:</l>
+      <l>How are we bounde with thankfull mindes,</l>
+      <l>To recompence their paine:</l>
+   </lg>
+   <lg>
+      <l>who by great labors doe attempt,</l>
+      <l>Those instrumentes to show?</l>
+      <l>Amonge whome Ihon Hall lately did</l>
+      <l>Hys diligence bestow.</l>
+   </lg>
+   <lg>
+      <l>Setting out to his countrey men,</l>
+      <l>That surgerye professe,</l>
+      <l>The medicinall instrumentes,</l>
+      <l>with their true vse doutlesse.</l>
+   </lg>
+   <lg>
+      <pb facs="65"/>
+      <l>As herbes, rootes, seades, flowers and iuse,</l>
+      <l>Gumme, barke, frute, and eke wood,</l>
+      <l>with sondry earthes and mineralles,</l>
+      <l>And stones with metalles good.</l>
+   </lg>
+   <lg>
+      <l>what earthe or water forthe doe bring,</l>
+      <l>To serue the surgiens nede,</l>
+      <l>Exactly penned in this booke</l>
+      <l>Moste easely you may rede.</l>
+   </lg>
+   <lg>
+      <l>Be thankefull to this Halle therfore,</l>
+      <l>Or elsse be thou silent.</l>
+      <l>Harpocrates be, let Momus</l>
+      <l>From thee be farre absent.</l>
+   </lg>
+   <closer>
+      <signed>Ihon Yates Chirurgien.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

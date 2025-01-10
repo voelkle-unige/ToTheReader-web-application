@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1528</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104877_Ba1_2</idno>
+           <idno type="DLPS">A14144</idno>
+           <idno type="STC">24454</idno>
+           <idno type="ESTC">S104877</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>That fayth the mother of all good workes iustifieth vs : before we ca [n] bringe forth anye good worke</title>
+                 <author>Tyndale, William</author>
+                 <imprint>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1528</date>
+                 <publisher>Hoochstraten (Hillenius Hoochstratanus), Joannes.</publisher>
+                            <publisher>Luft, Hans, pseud</publisher>
+                        </imprint>
+                 <extent>5, lxiii, 3 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="69"/>
+   <p>
+      <seg rend="decorInit">B</seg>E not offended most dere Reader y<seg rend="sup">t</seg> divers thinges are overse ne thorow negligence in thys lytle treatise. For verely the chaūce was soch / that I marvayle that it is so well as it is Moareover it becometh the boke evē so to co<g ref="char:EOLhyphen"/>me as a morner and in vile apparell to wayte on his master which sheweth hym selfe now agayne not in honoure and glory / as betwene Moses and Helias: but in rebuke and shame as betwene two mortherars / to trye his true frendes ād to prove whether there be any faith on the erth.</p>
+   <p>¶ In the .x. leafe .ij. syde .v. line / for fewe ād fa<g ref="char:EOLhyphen"/>deth reade fewe and sealden.</p>
+   <p>¶ In the .xxxix. leafe / fyrst syde / xv. line / for Roma. ij. reade Roma. ix.</p>
+</div>
+        </body>
+  </text>
+</TEI>

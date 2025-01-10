@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Topsell, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120149_Fr1_3</idno>
+           <idno type="DLPS">A10737</idno>
+           <idno type="STC">21016a</idno>
+           <idno type="ESTC">S120149</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Topsell, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The repentance of Peter and Iudas : Together with the frailtie of the faithfull, and the fearefull ende of wicked hypocrites</title>
+                 <author>Richardson, Charles</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <distributor>Browne, Joseph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>8, 64, 63-118, 117-217, 216-250, 259-280, 2, 279-281, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <gap reason="missing" extent="1+ pages">
+      <desc>〈1+ pages missing〉</desc>
+   </gap>
+   <pb facs="4"/>
+   <p>or to manifest what is wrong, only the one cannot demon<g ref="char:EOLhyphen"/>strate the right. But Almightie God and his Ministers, doe not onely shew the one but teach the other: especially in this doctrine of Repentance, without the knowledge whereof all knowledge in the minde is but like a dreame, and all paines but the washing of the Moore. Onely the true penitent when he awaketh shall be satisfied with the Image of God, which made <hi>Otho</hi> the Emperour to cause his kitchin-boyes to treade vpon his necke, <hi>Et vilissimam dei creaturam conculcare,</hi> and trample vpon him the vilest creature of God. The penitent man hath but seuen steps to heauen, which are shewed out in the seuen peniten<g ref="char:EOLhyphen"/>tiall Psalmes, the conscience and shame of sinne, the feare of punishment, the sorrow for the offence, the desire of a<g ref="char:EOLhyphen"/>mendment, the firme beliefe of pardon, the mistrust of his strength, the longing after heauen, with the apprehension of Iesus Christ the way vnto it. <hi>Hee that doth these things shall neuer faile.</hi> But let me say of these treatises as the Angell said to <hi>Cornelius, Simon Peter</hi> is at Ioppe, send for him, he shall shew thee what thou shalt doe. This Booke in the sorrow of <hi>Peter,</hi> shall teach thee to re<g ref="char:EOLhyphen"/>pent exemplarily, and by the example of <hi>Iudas</hi> to dread hypocrisie the way to despe<g ref="char:EOLhyphen"/>ration. <hi>Farewell,</hi>
+   </p>
+   <closer>
+      <signed>EDW. TOPSELL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

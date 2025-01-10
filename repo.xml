@@ -1,0 +1,13 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>To The Reader</description>
+    <author/>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <target>TTR</target>
+    <permissions user="TTR" group="tei" mode="rw-r--r--"/>
+    
+<deployed>2023-11-15T11:41:26.942+01:00</deployed></meta>

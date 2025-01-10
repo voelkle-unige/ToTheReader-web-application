@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To Momus his owne Murtherer.</title>
+           <author>B., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100552_Fr1_4</idno>
+           <idno type="DLPS">A00188</idno>
+           <idno type="STC">1022</idno>
+           <idno type="ESTC">S100552</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To Momus his owne Murtherer.</title>
+                 <author>B., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The court of the most illustrious and most magnificent Iames, the first : King of Great-Britaine, France, and Ireland: &amp;c. VVith diuers rules, most pure precepts, and selected definitions liuely delineated</title>
+                 <author>A. D. B.</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>14, 168 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="7"/>
+   <head>
+      <hi>To</hi> Momus <hi>his owne Murtherer.</hi>
+   </head>
+   <p>
+      <hi>HEalth also to thee</hi> Momus, <hi>who whiles thou bereaust thy selfe of the sweete fruite of Good both receiued and sought for; dost dilacerate, wound and deadly wound thine owne heart, with the infectious fangs of Enuy: And, which is far the worst, dost denudate and strip thy selfe bare of the soueraine grace of God: Thou I say, who thus dost pine and punish thy selfe in sense, in soule; take thou this one Disticke from mee, and, if thou canst fare<g ref="char:EOLhyphen"/>well, farwell.</hi>
+   </p>
+   <lg>
+      <l>Non legis, &amp; carpis; quae nec capis, inuide, carpis:</l>
+      <l>Inuide, quae carpis, fac meliora, legam.</l>
+   </lg>
+   <lg>
+      <head>That is,</head>
+      <l>Read, <hi>Momus;</hi> raile not; trie, ere thou taunt, mine:</l>
+      <l>Commend, or, mine come mend; then, Ile read thine,</l>
+   </lg>
+   <closer>
+      <signed>Thine if thou be thine owne. A. D. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

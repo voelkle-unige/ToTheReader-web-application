@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115877_Fr1_6</idno>
+           <idno type="DLPS">A01475</idno>
+           <idno type="STC">11600</idno>
+           <idno type="ESTC">S115877</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two treatises : the first, entituled, The foode of the faithfull. The second Deaths welcome</title>
+                 <author>Garey, Samuel</author>
+                 <imprint>
+                    <publisher>Roberts (Robarts), James</publisher>
+                    <distributor>Chorlton (Charlton), Jeffrey (Geoffrey)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>14, 29, 3, 80 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="7"/>
+   <head>Ad Lectorem.</head>
+   <l>FAelices animae pascuntur semine verbi,</l>
+   <l>Ambrosiā comedunt, nectare deinde potant.</l>
+   <l>Hic gratia sluvij spatioso vortice stillant,</l>
+   <l>Et vita pleno gurgite currit aqua.</l>
+   <l>Si sitis? mimergas fauces in flumine sacro.</l>
+   <l>I seris? inuenias ferula lauta Iouis.</l>
+   <l>Ad hanc te mensam voco, caena parata,</l>
+   <l>Tantum dicenda est gratia, gratis habes.</l>
+   <l>Tu gratus conuiua Deo, gratiosus et ille,</l>
+   <l>Qui te commuam reddidit angelicum.</l>
+</div>
+        </body>
+  </text>
+</TEI>

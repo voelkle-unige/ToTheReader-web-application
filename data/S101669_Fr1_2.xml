@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The mind of the Frontispice.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101669_Fr1_2</idno>
+           <idno type="DLPS">A17129</idno>
+           <idno type="STC">4008.5</idno>
+           <idno type="ESTC">S101669</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The mind of the Frontispice.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A buckler against the fear of death; or, Pious and profitable observations, meditations, and consolations: by E.B</title>
+                 <author>Buckler, Edward</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Daniel, Roger.</publisher>
+                            <publisher>Sparke, Michael 2</publisher>
+                        </imprint>
+                 <extent>136 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <head>The mind of the Frontispice.</head>
+   <lg>
+      <l>THat <hi>Buckler</hi> which you see at top</l>
+      <l>No <hi>Cyclops</hi> fram'd: for if you look</l>
+      <l>Underneath't, you see the <hi>shop</hi>
+      </l>
+      <l>Where't was made, that open <hi>Book.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>The use of 't is those ghastly fears</l>
+      <l>And pale terrours to withstand</l>
+      <l>That assault when Death appear<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</l>
+      <l>Pictur'd here at your left hand.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Time,</hi> on the other side, doth pray you</l>
+      <l>To imbrace 't and use it well:</l>
+      <l>So <hi>Death</hi> shall not (though it slay you)</l>
+      <l>Hurt: each sand's your Passing-bell.</l>
+      <l>When the last is out (you know)</l>
+      <l>That's your picture quite below.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

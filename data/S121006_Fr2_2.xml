@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Salutem in ipso,
+qui fons Gratiae.</title>
+           <author>B., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121006_Fr2_2</idno>
+           <idno type="DLPS">A00599</idno>
+           <idno type="STC">10735</idno>
+           <idno type="ESTC">S121006</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Salutem in ipso,
+qui fons Gratiae.</title>
+                 <author>B., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A parallel: of nevv-old Pelagiarminian error</title>
+                 <author>Featley, Daniel</author>
+                 <imprint>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="17"/>
+   <pb facs="17"/>
+   <head>Salutem in ipso,
+qui fons Gratiae.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Mice noster, veritatis magis.
+Quem per Epistolam repetitò
+flagitabas, <hi>Parallelum,</hi> unà
+cum ejusdē conscribendi caus<g ref="char:EOLhyphen"/>sâ
+necessariâ, ad te per notum
+<hi>Hermetem,</hi> licèt aliquantò se<g ref="char:EOLhyphen"/>riùs,
+jam transmitto. Tu quaeso
+inter legendum amict sepone personam, indue judicis:
+&amp;, si quid titubatum sit, pro tuo candore, ac liber<g ref="char:EOLhyphen"/>tate,
+mone; eò redibit gratior, quò obeliscis tuis com<g ref="char:EOLhyphen"/>punctior.
+Absit ut <hi>Arminianis</hi> ideo stupescant
+dentes, quia labruscas comederat <hi>Pelagius,</hi> aut de<g ref="char:EOLhyphen"/>licatiores
+<hi>Pelagii</hi> nepotes, nisi constiterit <hi>Arminia<g ref="char:EOLhyphen"/>nos</hi>
+itidem acidum inde expressum plenâ hausisse
+amphorâ, &amp; aliis avidè etiamnum propinare. In hac
+<gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> ad geometricam normam compositâ, sanctè
+profiteor, imprimis cautum, ne quid distortum, in<g ref="char:EOLhyphen"/>versum,
+aut depravatum affingeretur, quò faciliùs,
+aut speciosiùs antiquis erroribus novi quadrare vide<g ref="char:EOLhyphen"/>rentur.
+Verùm ut in picturis nimis exiguis, aut
+speculis minutioribus vultus integros vix datur di<g ref="char:EOLhyphen"/>stinctè
+<pb facs="18"/>
+intueri; in tabella isthac adeo contracta sin<g ref="char:EOLhyphen"/>gulos
+gemini istius Monstri artus &amp; articulos con<g ref="char:EOLhyphen"/>spici
+posse hand quidem sperandum. Haec tantum<g ref="char:EOLhyphen"/>modo
+ad synopsin, &amp; specimen properata potiùs,
+quàm maturata.</p>
+   <p>Opportunum forte, hîc tertiam adstrui columnam,
+quae sententiam orthodoxam singulis erroribus recto
+ordine oppositam representaret. Quorsum verò tibi,
+vir doctissime, hanc praeire facem; utpote in <hi>Augu<g ref="char:EOLhyphen"/>stini,</hi>
+Patrúmque reliquorum eandem doctrinam lu<g ref="char:EOLhyphen"/>culenter
+asserentium, solidè ex Scripturis confirman<g ref="char:EOLhyphen"/>tium
+scriptis versatissimo? Neque certè mihi hîc
+quicquam de navo aggredi visum; sed hoc tantùm,
+quod in usum unius privatum olim postulatum est, ac
+conscriptum, denuo recognoscere, tibíque in peculium
+transcribere. Quod tui juris esto, prout etiam ipse, à
+quopriùs hoc promissum, jam missum.</p>
+   <closer>
+      <dateline>Londino. <date>Ian. 20, 1624.</date>
+      </dateline>
+Vale. <signed>
+         <hi>Tuus</hi> A. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

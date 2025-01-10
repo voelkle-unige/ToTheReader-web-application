@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1621</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114327_Ba1_1</idno>
+           <idno type="DLPS">A01186</idno>
+           <idno type="STC">11300</idno>
+           <idno type="ESTC">S114327</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A declaration made by the Reformed Churches of France and the Principalitie of Bearn : Concerning their vniust persecution by the enemies of the estate and of their religion. Together with their lawfull and necessarie defence. Acording to the French copie printed in Rochell</title>
+                 <author>Eglises réformées de France</author>
+                 <imprint>
+                    <publisher>Newbery, Nathaniel</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1621</date>
+                 </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>
+      <hi>COurteous Reader, I pray thee amend these few faults of moment, pag. 3. lin.</hi> 17. we, <hi>reade</hi> do. <hi>lin.</hi> 28. action, <hi>r.</hi> af<g ref="char:EOLhyphen"/>fection. <hi>pag. 4. lin.</hi> 35. for, <hi>r.</hi> euen. <hi>pag. 7. li.</hi> 3. for, <hi>r.</hi> on. <hi>l.</hi> 32. thereof by, <hi>r.</hi> of the.</p>
+   <pb facs="21"/>
+</div>
+        </body>
+  </text>
+</TEI>

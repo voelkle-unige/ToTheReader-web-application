@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113693_Ba1_1</idno>
+           <idno type="DLPS">A10081</idno>
+           <idno type="STC">20335</idno>
+           <idno type="ESTC">S113693</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ianitor animæ: the soules porter : to cast out sinne, and to keepe out sinne. A treatise of the feare of God. Written by William Price, Batchelour of Divinitie, and vicar of Brigstocke in Northamptonshire</title>
+                 <author>Price, William</author>
+                 <imprint>
+                    <publisher>Dawson, John 2</publisher>
+                    <distributor>Cowper (Cooper), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>12, 274, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="144"/>
+   <head>Errata.</head>
+   <p>GEntle Reader, in reading this Treatise, take notice of some faults escaped at the presse, as page 2 line 15. read <hi>made</hi> be<g ref="char:EOLhyphen"/>fore briefe Essayes. p. 4. l 14. for instruction, read intrusion. p.
+49 l. 14. for his read this. p. 112. l. 12. for doth so, read doth not so. p. 119. l. 7. for and, read may. p. 158. l. 19. for coveant, read covenant p.
+176. l. 19. for cannot seradicate, read cannot but cradicate. p. 246 l. 1. for <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</p>
+</div>
+        </body>
+  </text>
+</TEI>

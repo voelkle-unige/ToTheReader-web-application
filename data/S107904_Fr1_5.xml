@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ioannis Ludi. Archidiaconi Nottingha∣miensis,  in laudem, &amp; vsum thermarum nostrarum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107904_Fr1_5</idno>
+           <idno type="DLPS">A72470</idno>
+           <idno type="STC">14724a.3</idno>
+           <idno type="ESTC">S107904</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ioannis Ludi. Archidiaconi Nottingha∣miensis,  in laudem, &amp; vsum thermarum nostrarum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The bathes of Bathes ayde : wonderfull and most excellent, agaynst very many sicknesses, approued by authoritie, confirmed by reason, and dayly tryed by experience: vvith the antiquitie, commoditie, propertie, knovvledge, vse, aphorismes, diet, medicine, and other thinges therto be considered and obserued. Compendiously compiled by Iohn Iones phisition. Anno salutis. 1572. At Asple Hall besydes Notting [h] am</title>
+                 <author>Jones, John, physician</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <distributor>Jones, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 </imprint>
+                 <extent>8, 35, that is 34, 4 leaves, 2 folded tables, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>Ioannis Ludi. Archidiaconi Nottingha<g ref="char:EOLhyphen"/>miensis, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in laudem, &amp; vsum thermarum nostrarum.</head>
+   <l>BAlnea sunt varijs calefacta salubria morbis,</l>
+   <l>Ad multos{que} vsus, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> valent.</l>
+   <l>Non externa valent curare pathemata tantum,</l>
+   <l>Ast interna etiam tollere posle scio.</l>
+   <l>
+      <pb facs="5"/>Si bene quis nouit thermis cautissimus vti</l>
+   <l>Proderit ille sibi: sin male: damna ferent.</l>
+   <l>Ni prius euacues, pletorica corpora laedunt,</l>
+   <l>Nec minus &amp; succis corpora farta malis.</l>
+   <l>Gens sua quaeque solet plenis extollere buccis,</l>
+   <l>Anglica sed cunctis sunt meliora duo</l>
+   <l>Altera rex Bladud nobis, comes altra Salopae</l>
+   <l>Exornata dedit, sumptibus ipse suis.</l>
+   <l>Tot bona (Lector) habes magno tibi parta labore,</l>
+   <l>Praeter sudorem nil tuus Author habet.</l>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

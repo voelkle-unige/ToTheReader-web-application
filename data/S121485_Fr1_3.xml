@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD GVLIELMVM MORAVIVM VERBI DIVINI APVD CARA∣LIENSES PRAECONEM, APPRIME ILLVSTREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121485_Fr1_3</idno>
+           <idno type="DLPS">A07790</idno>
+           <idno type="STC">18167</idno>
+           <idno type="ESTC">S121485</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD GVLIELMVM MORAVIVM VERBI DIVINI APVD CARA∣LIENSES PRAECONEM, APPRIME ILLVSTREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A short treatise of death in sixe chapters : Together with the ænigmatick description of old age and death written Ecclesiastes 12 chap. exponed and paraphrased in English meetre. Written by Mr. William Morray minister of Gods word</title>
+                 <author>Morray, William</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>8, 41, 7 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="4"/>
+   <head>
+      <hi>AD</hi> GVLIELMVM MORAVIVM <hi>VERBI DIVINI APVD CARA<g ref="char:EOLhyphen"/>LIENSES</hi> PRAECONEM, APPRIME ILLVSTREM.</head>
+   <l>BIS denos cum laude gregem, &amp; sex insuper annos</l>
+   <l>Pavisti, illustris praeco, liquore sacro.</l>
+   <l>Optima trivisti celebris sic tempora vitae</l>
+   <l>Iucieio ambiguum major an ingenio.</l>
+   <l>Nescio quis maeror pullum statione gravis{que}</l>
+   <l>Invasit morbus, detinuit{que} diu.</l>
+   <l>Hinc excita tibi prodit meditatio mortis</l>
+   <l>Seria, post cineres non peritura tuos.</l>
+   <l>Si languor, morbi{que} graves producere fructus</l>
+   <l>Hos valeant; quales ederet ergo saluit</l>
+   <closer>
+      <signed>
+         <hi>ROB. CRAFORDUS, alias</hi> Lunnaeus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

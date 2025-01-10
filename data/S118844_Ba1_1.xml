@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title> Thomae Webster in laudem operis.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1562</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118844_Ba1_1</idno>
+           <idno type="DLPS">A17157</idno>
+           <idno type="STC">4035</idno>
+           <idno type="ESTC">S118844</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title> Thomae Webster in laudem operis.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A comfortable regiment, and a very wholsome order against the moste perilous pleurisi : whereof many doe daily die within this citee of London, and other places: and what the cause is of the same, doen by William Bulleyn, December. 8. Anno salutis 1562</title>
+                 <author>Bullein, William</author>
+                 <imprint>
+                    <publisher>Kingston, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1562</date>
+                 </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>
+      <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> Thomae Webster in laudem operis.</head>
+   <l>Cadide lector habes, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+   </l>
+   <l>Cum sint, ecce tibi, quicquid amicus habet.</l>
+   <l>Perlege, &amp; <gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap>uenes fide<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> pia dogmat<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap> sacrae,</l>
+   <l>Ingenij mira▪ dexteritate sui.</l>
+   <l>Disces quo pacto corpus quo{que} reddere sanū</l>
+   <l>Quo{que} modo digne: vita degenda foret.</l>
+   <l>
+      <gap reason="illegible" resp="#apex" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> Bulleno tali pro munere grates</l>
+   <l>Eternum digno: <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>iuere, lector age.</l>
+   <closer>Vale.</closer>
+   <pb facs="38"/>
+</div>
+        </body>
+  </text>
+</TEI>

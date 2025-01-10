@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The same in English.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107359_Fr1_4_1</idno>
+           <idno type="DLPS">A19952</idno>
+           <idno type="STC">6385</idno>
+           <idno type="ESTC">S107359</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The same in English.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The reply of the most illustrious Cardinall of Perron, to the ansvveare of the most excellent King of Great Britaine the first tome. Translated into English</title>
+                 <author>Du Perron, Jacques Davy</author>
+                 <imprint>
+                    <publisher>Bogard, Martin</publisher>
+                    <pubPlace>France--Douai</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>16, 262, 261-295, 294-464 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>The same in English.</head>
+   <lg>
+      <l>ONE woman, in one Month, solarge a booke,</l>
+      <l>In such a full emphatik stile to turne:</l>
+      <l>Ist not all one, as when a spacious brooke,</l>
+      <l>Flowes in a moment from a little Burne?</l>
+      <l>Or is't not rather to exceede the <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+      </l>
+      <l>In swift performance of so long a race,</l>
+      <l>To end so great and hard a worke as soone,</l>
+      <l>As Cynthia doth her various galliard trace?</l>
+      <l>Or is she not that miracle of Arts</l>
+      <l>The true Elixir, that by onely touch</l>
+      <l>To any mettals, worth of gold imparts?</l>
+      <l>For me, I think she valewes thrice as much.</l>
+      <l>A wondrous Quintessence of woman kind,</l>
+      <l>In whome alone, what els in'all, we find.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

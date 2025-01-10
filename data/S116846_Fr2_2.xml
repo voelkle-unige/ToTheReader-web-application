@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>All' Illmo et Eccmo Sigre e Pro'ne mio Colndmo Il Sigre D CARLO HERBERT Primogenito, et Herede dell' Eccmo Sigre, Conte di Pembroch e Montgomeri, Maestro di camera di sua Maestà.</title>
+           <author>Cevoli, Francesco</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116846_Fr2_2</idno>
+           <idno type="DLPS">A18345</idno>
+           <idno type="STC">4922</idno>
+           <idno type="ESTC">S116846</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>All' Illmo et Eccmo Sigre e Pro'ne mio Colndmo Il Sigre D CARLO HERBERT Primogenito, et Herede dell' Eccmo Sigre, Conte di Pembroch e Montgomeri, Maestro di camera di sua Maestà.</title>
+                 <author>Cevoli, Francesco</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An occasionall discourse, upon an accident which befell his Maiesty in hunting. Composed in Italian, by Francis Cevolus, and thence translated into English</title>
+                 <author>Cevoli, Francesco</author>
+                 <imprint>
+                    <publisher>Norton, John 2</publisher>
+                    <distributor>Bird, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>4, 8, 4, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="8"/>
+   <pb facs="8"/>
+   <head>All' Ill<seg rend="sup">mo</seg> et Ecc<seg rend="sup">mo</seg> Sig<seg rend="sup">re</seg> e Pro'ne mio Col<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>nd<seg rend="sup">mo</seg> Il Sig<seg rend="sup">re</seg> D CARLO HERBERT Primogenito, et Herede dell' Ecc<seg rend="sup">mo</seg> Sig<seg rend="sup">re</seg>, Conte di <hi>Pembroch</hi> e <hi>Montgomeri, Maestro di camera di sua Maestà.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">N</seg>On si maraviglierà V. S. Ill<seg rend="sup">ma</seg> della presente dedicatione, essendogli già prima noto il mio desiderio; hor <gap reason="illegible" resp="#apex" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>ttendo la promessa, e se ben' ella intende la lingua Italiana, ad<g ref="char:EOLhyphen"/>ogni modo ho procurato sia trasfe<g ref="char:EOLhyphen"/>rito il mio originale per l'ambitione tengo di palesar à piu d'uno l'osser<g ref="char:EOLhyphen"/>uanza e debito mio verso V. S. Ill<seg rend="sup">ma</seg> come sempre mi riputerò à grande honore hav<gap reason="illegible" resp="#apex" extent="2 letters">
+         <desc>••</desc>
+      </gap>la servita.</p>
+   <p>S'alcuna cosa ui sara che meriti d'esser riguard<gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>ta si dourà attribuir al sogetto e non all' autore, forsi potrebbe' ottener tanta felicita di comparir auanti gl'occhi e presenza del Rè il che sperar non posso se non con il di lei favore, ò di suo Padre. I Peregrini bramosi veder e parlar à Christo ricorre<g ref="char:EOLhyphen"/>vano à <hi>Filippo,</hi> et io non saprei trouar piu breue strada d'esser introdotto alla Real Maestà che per mezzo di chi ha il nome di quest' Apostolo, o per V. S. Ill<seg rend="sup">ma</seg> al quale la Sacra Maestà del Rè ha dato nel Batesimo il suo proprio nome, et insieme forsi donato molte di quelle virtù la cui tavola imperfettamente ho qui' abozzato.</p>
+   <p>Cofesso non esserui altro di buono che la mia intentione, e quel che con rozzo pennello ho adombrato, spero che
+<pb facs="9"/>
+con la penna del sottil ingegno e maestra mano del Dotto Traslatore sarà ritoccato.</p>
+   <p>Placcia' in tanto à V. S. Ill<seg rend="sup">ma</seg> riceuere questo propempti<g ref="char:EOLhyphen"/>con ericordo nel suo buon viaggio che con tutt'il cuore gli prego da Dio prospero, uada' accompagna to <hi>Virtute duce Fortuna comite</hi> con il felicissimo ritorno.</p>
+   <closer>
+      <signed> V. S. Ill<seg rend="sup">ma</seg> et Ecc<seg rend="sup">ma</seg>. Humil<seg rend="sup">mo</seg> e Divotiss<seg rend="sup">mo</seg> Ser.
+F. Cevoli.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

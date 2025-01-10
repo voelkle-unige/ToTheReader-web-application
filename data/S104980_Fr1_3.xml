@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the friendly Reader.</title>
+           <author>Peckham, George, Sir</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104980_Fr1_3</idno>
+           <idno type="DLPS">A08175</idno>
+           <idno type="STC">18510</idno>
+           <idno type="ESTC">S104980</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the friendly Reader.</title>
+                 <author>Peckham, George, Sir</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Approoved medicines and cordiall receiptes : with the natures, qualities, and operations of sundry samples. Very commodious and expedient for all that are studious of such knowledge</title>
+                 <author>Newton, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 <publisher>Marsh (Marshe, Marche), Thomas.</publisher>
+                            <publisher>Orwin, Thomas</publisher>
+                        </imprint>
+                 <extent>7, 95 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the friendly <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">H</seg>Eere haste thou Gentle Reader a briefe and com<g ref="char:EOLhyphen"/>pendious collec<g ref="char:EOLhyphen"/>tiō of many good &amp; approued me<g ref="char:EOLhyphen"/>dicines with the operation, &amp; ver<g ref="char:EOLunhyphen"/>tue of many sim<g ref="char:EOLhyphen"/>ples. It was not meant at the first to haue the same published, whych is the cause that the Booke now is not wholly with<g ref="char:EOLhyphen"/>out his blemishes, and some imperfecti<g ref="char:EOLhyphen"/>ons. But thy curteous and friendly accep<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>aunce at this tyme may cause the same to bee heereafter better skowred ouer &amp; polished for thy fur<g ref="char:EOLhyphen"/>ther commodity.</p>
+   <closer>Farevvell.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

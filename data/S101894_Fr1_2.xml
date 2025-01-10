@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD Potentissimum, &amp; Serenis SIMVM PRINCIPEM CAROLVM DEI GRATIA, MAGNAE BRITANNIAE, FRANCIAE, ET Hiberniae Regem illustrissimum. De vi, &amp; praestantia orationis, Carmen.</title>
+           <author>Narne, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101894_Fr1_2</idno>
+           <idno type="DLPS">A07996</idno>
+           <idno type="STC">18360</idno>
+           <idno type="ESTC">S101894</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD Potentissimum, &amp; Serenis SIMVM PRINCIPEM CAROLVM DEI GRATIA, MAGNAE BRITANNIAE, FRANCIAE, ET Hiberniae Regem illustrissimum. De vi, &amp; praestantia orationis, Carmen.</title>
+                 <author>Narne, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The pearle of prayer most pretious and powerfull, or, A Christian treatise : most necessarie for all these that desire to eshew that wrath to come, the Lords curse, and everlasting damnation, and who doe long for Gods favour, his blessing, and to attaine to endlesse salvation. By Mr. William Narne</title>
+                 <author>Narne, William</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>16, 453, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="3"/>
+   <head>AD <hi>Potentissimum, &amp; Serenis SIMVM PRINCIPEM CAROLVM</hi> DEI GRATIA, MAGNAE <hi>BRITANNIAE, FRANCIAE, ET</hi> Hiberniae Regem illustrissimum. <hi>De vi, &amp; praestantia orationis, Carmen.</hi>
+   </head>
+   <l>ENthea stelliferum penetrans oratio Coelum, Iudicis aetherei pergit ad ora tui.</l>
+   <l>Te columem, clarum, cumulatum laude perenni, Felicem Regem reddit &amp; eximium. gemma rutilante modo ditabere miro, Durabit firmum nobile stemma domus.</l>
+   <l>Hoc ense assuesces, tu debellare profanos Armipotens, magni muneris instar erit.</l>
+   <l>Hac clavi claudes Orcum reserabis Olympum, Charus eris populo, charior at{que} Deo.</l>
+   <l>Hoe libro doctus mysteria magna Tonantis Addisces, factis magnus, &amp; eloquio.</l>
+   <l>Hoc curru vectus, trans ignea maenia mundi, Ingrediere locos palmifer aethereos.</l>
+   <closer>
+      <signed>Sereniss. tuae Majest. humilli<g ref="char:EOLhyphen"/>mus, &amp; addictissimus servus, <hi>GUIL. NARNE.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

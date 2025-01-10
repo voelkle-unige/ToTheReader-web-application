@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3806_Ba1_2</idno>
+           <idno type="DLPS">A22228</idno>
+           <idno type="STC">8635</idno>
+           <idno type="ESTC">S3806</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Iames by the grace of God king of England, Scotland, France and Ireland ... to all people to whome these our letters patents shall come, greeting : whereas wee are credibly giuen to vnderstand aswell by ... the maior and iurats of our towne and port of Hastings, within our county of Sussex</title>
+                 <author>England and Wales, Sovereign (1603-1625 : James I)</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>1 sheet (1 page)</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <p>
+      <hi>Note.</hi> It is his Maiesties pleasure, for the better furtherance of this necessary worke, (in regard it is a Towne Defence, and hath been often assualted by the Enemy) that the Church<g ref="char:EOLhyphen"/>wardens of euery Parish, shall haue a speciall care in performing of the Collection, according to the intent and true meaning of the Letter Patents, whereof this is a true Briefe.</p>
+</div>
+        </body>
+  </text>
+</TEI>

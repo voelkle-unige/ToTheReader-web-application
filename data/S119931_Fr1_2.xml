@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Movrt, G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119931_Fr1_2</idno>
+           <idno type="DLPS">A08123</idno>
+           <idno type="STC">18484</idno>
+           <idno type="ESTC">S119931</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Movrt, G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An historicall discoverie and relation of the English plantations, in Nevv England : Containing their aventurous passages, their happie arivall and comfortable planting, manifesting the goodnesse of God in their preservations from many apparent dangers. With a relation of such religious and ciuill lawes, and customs as are in practise amongst the indians, with their natures and habits. As also a naration of the ayre, earth, water, fish, and fowles of that countrie. continued from the first beginning, in the yeare of our Lord 1607. and so handling all passages of moment successiuely from time to time</title>
+                 <author>Council for New England</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <distributor>Bellamy, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 </imprint>
+                 <extent>42 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, be intreated to make a fauorable construction of my forwardnes, in publishing these inseuing discourses, the desire of carrying the Gospell of Christ, into those forraigne parts, amongst those people that as yet haue had no knowledge, nor tast of God, as also to procure vnto themselues and others a quiet and comfortable habytation: <gap reason="illegible" resp="#oxf" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> amongst other things the inducements (vnto these vndertakers of the then hopefull, and now experimentally knowne good enterprice for plantation, in <hi>New England,</hi> to set afoote and prosecute the same &amp; though it fared with them, as it is common to the most actions of this nature, that the first at<g ref="char:EOLhyphen"/>temps proue diffecult, as the sequell more at large expresseth, yet it hath pleased God, cue beyond our expectation in so short a time, to giue hope of let<g ref="char:EOLhyphen"/>ting some of them see (though some he hath taken out of this vale of teares) some grounds of hope, of the accomplishment of both those endes by them, at first propounded.</p>
+   <p>And as my selfe then much desired, and short<g ref="char:EOLhyphen"/>ly
+<pb facs="3"/>
+hope to effect, if the Lord will, the putting to of my shoulder in this hopefull business, and in the meane time, these relations comming to my hand from my both known &amp; faithful friends, on whose writings I do much rely, I thought it not a misse to make them more generall, hoping of a cheerfull proceeding, both of Aduenturers and planters, in<g ref="char:EOLhyphen"/>treating that the example of the hon: <hi>Virginia</hi> and <hi>Bermudas</hi> Companies, incountering with so many distasters, and that for diuers yeares toge<g ref="char:EOLhyphen"/>ther, with an vnwearied resolution, the good ef<g ref="char:EOLhyphen"/>fects whereof are now eminent, may preuaile as a spurre of preparation also touching this no lesse hopefull Country though yet an infant, the extent &amp; cōmodities whereof are as yet not fully known, after time wil vnfould more: such as desire to take knowledge of things, may in forme themselues by this insuing treatise, and if they please also by such as haue bin there a first and second time, my bar<g ref="char:EOLhyphen"/>ty prayer to God is that the euent of this and all other honorable and honest vndertakings, may be for the furtherance of the kingdome of Christ, the inlarging of the bounds of our Soueraigne Lord King <hi>Iames,</hi> &amp; the good and profit of those, who either by purse, or person, or both, are agents in the same, so I take leaue and rest</p>
+   <closer>
+      <signed>Thy friend, G. MOVRT.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

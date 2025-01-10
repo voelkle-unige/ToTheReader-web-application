@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>EPITAPH. I.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122214_Fr1_4</idno>
+           <idno type="DLPS">A00759</idno>
+           <idno type="STC">10885</idno>
+           <idno type="ESTC">S122214</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>EPITAPH. I.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A defence of the liturgie of the Church of England, or, Booke of common prayer : In a dialogue betweene Nouatus and Irenæus. By Ambrose Fisher, sometimes of Trinitie Colledge in Cambridge</title>
+                 <author>Fisher, Ambrose</author>
+                 <imprint>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Milbourne (Milburne, Mylbourne), Robert.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>24, 309, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="1" type="epitaph">
+   <pb facs="6"/>
+   <head>EPITAPH. I.</head>
+   <lg>
+      <l>
+         <hi>AMbrosius</hi> iacet hic <hi>Piscator,</hi> coeperat hamo</l>
+      <l>Ambrosio pisces queis Deus esca fuit:</l>
+      <l>Hoc &amp; agens, vitam non lucem liquit, ab istâ</l>
+      <l>Annos vix natus quinque relictus erat:</l>
+      <l>Octo tamen vixit, non vidit, lustra, nec vlli</l>
+      <l>Mens oculata magis, vitaue sancta magis:</l>
+      <l>Historiae, Sophiae, Vatum sacra abdita norat,</l>
+      <l>Norat <hi>Adae,</hi> at{que} <hi>Remi,</hi> &amp; <hi>Cecropis</hi> ore loqui:</l>
+      <l>Et nunc est positus mutam propè Bibliothecam,</l>
+      <l>Ipse loquens quoniam Bibliotheca fuit.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

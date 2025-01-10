@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶William Baldwin to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1560</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104470_Fr1_2</idno>
+           <idno type="DLPS">A02298</idno>
+           <idno type="STC">1243</idno>
+           <idno type="ESTC">S104470</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶William Baldwin to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The funeralles of King Edward the sixt : VVherin are declared the causers and causes of his death</title>
+                 <author>Baldwin, William</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1560</date>
+                 </imprint>
+                 <extent>24 pages, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>¶William Baldwin to the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Reat hath been the doubt among many, ever since the death of our late vertuous soverayne Lorde King Ed<g ref="char:EOLhyphen"/>ward the syxt, by what meane he dyed, and what were the causes of his death. This doubte is fully resolved in this booke, penned before his corse was buryed, &amp; endeuou<g ref="char:EOLhyphen"/>red since by many meanes to have had been printed: but such was the time, that it could not be brought to passe. Wherfore now at length (good Reader) it is set furth, both to take away all doubt in this matter, and to exhort thee to leave thy sinnes, and noughty living: Least, that as they wer in part the vndoubted cause of that moost godly prynces death, so they becum the destruction of our vertuous Queen his sister, and the vtter ruyne of this whole realme. For as thou shalt perceyue by this true Treatie, our innumerable sinnes were the cheife, yea the only cause why God so soone tooke good Kyng Edward from vs: which surely if we do not spedely re<g ref="char:EOLhyphen"/>pent and amend, I dare not declare with how grevous and heavy plages God him selfe will purge and punish them. Wherfore I earnestly beseche thee, as thou lovest the Queen, the Realme, yea thine owne body and soule, amend thy life. God graunt this may perswade thee.</p>
+   <closer>Amen.</closer>
+   <epigraph>
+      <q>Love and live.</q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

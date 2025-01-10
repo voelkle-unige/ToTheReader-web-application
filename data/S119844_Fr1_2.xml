@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119844_Fr1_2</idno>
+           <idno type="DLPS">A04963</idno>
+           <idno type="STC">15105</idno>
+           <idno type="ESTC">S119844</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Gratiæ ludentes : Iests, from the vniuersitie. By H.L. Oxon</title>
+                 <author>H. L., oxon</author>
+                 <imprint>
+                    <publisher>Cotes, Thomas</publisher>
+                    <distributor>Moseley, Humphrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>20, 214 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, J have after so many pamphlets in this kinde adventured this also into your hands; hoping that it will finde as courteous acceptance from you as the rest. Jf J love not my young Ape too well, J thinke the value of it as great as any of the same species that went be<g ref="char:EOLhyphen"/>fore
+<pb facs="3"/>it: which if you like as J doe, embrace it. If not laugh at it, and so too I shall not misse my end I have restrained my selfe from all Iests in ear<g ref="char:EOLhyphen"/>nest on any mans person which if any (unwitting to me) shall apply to him selfe, let him conceale him<g ref="char:EOLhyphen"/>selfe as I doe, and he shal be the lesse laught at. A also from all scurrilous and obscene Jests which would oppose good man<g ref="char:EOLunhyphen"/>ners or civill urbanity
+<pb facs="3"/>Which if any expect let him desist from reading this, where J hope is no<g ref="char:EOLhyphen"/>thing without the bounds of lawfull mirth. Reade on, judge, and say you the rest.</p>
+   <closer>
+      <salute>Farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

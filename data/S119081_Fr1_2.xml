@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Widdrington, Roger</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119081_Fr1_2</idno>
+           <idno type="DLPS">A15317</idno>
+           <idno type="STC">25606</idno>
+           <idno type="ESTC">S119081</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Widdrington, Roger</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A copy of the decree : wherein two bookes of Roger Widdrington an English Cathotholick [sic] are condemned, and the author commanded to purge himselfe: and a copy of the purgation which the same Roger Widdrington sent to his Holinesse Pope Paul the fift. Translated out of Latine into English by the author, whereunto he hath also adioined an admonition to the reader concerning the Reply of T.F. &amp;c. and the condemnation of Fa: Suarez booke by a decree of the Parliament of Paris</title>
+                 <author>Preston, Thomas</author>
+                 <imprint>
+                    <publisher>Barnes, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>67, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Here came forth some few monethes since <hi>(Christian Reader)</hi> out of the supreme tribunall of the holy Inquisiti<g ref="char:EOLhyphen"/>on, a Decree printed at Rome by the Printer of the Apostolicall Chamber, &amp; to be published throughout the whol Chri<g ref="char:EOLhyphen"/>stian world, wherein two Bookes which I wrote with a simple, and sincere intention, are condemned, and the Author commanded to purge himselfe forthwith. I haue obeyed their command, and made forthwith my purgati<g ref="char:EOLhyphen"/>tion, and haue done as much as lyeth in me, to send it forthwith to <hi>his Holinesse.</hi> But because that Decree is printed, and published in euery place, and the purgation which <hi>I</hi> haue sent is only in written hand, lest Catho<g ref="char:EOLhyphen"/>likes should perchance imagine, that <hi>I</hi> haue not been carefull to fulfill <hi>his Holinesse</hi> command for purging my selfe, <hi>I</hi> thought it necessarie to Print also, and publish that ma<g ref="char:EOLhyphen"/>nuscript purgation which <hi>I</hi> haue sent, which otherwise without doubt would come into few mens hands, that so the whole world may sin<g ref="char:EOLhyphen"/>cerely
+<pb facs="3"/>
+iudge as well of my purgation, as of that condemnation of my bookes, and whe<g ref="char:EOLhyphen"/>ther <hi>I</hi> am to be accounted a Catholike and a child of the Church, or an Heretike, and an enemie thereof, as some men very irreligi<g ref="char:EOLhyphen"/>ously, yet vnder pretext forsooth of religion, are not afraid. (<hi>I</hi> pray God forgiue them) to giue forth speeches of me.</p>
+   <closer>
+      <signed>Thy brother and seruant in Iesus Christ, ROGER WIDDRINGTON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

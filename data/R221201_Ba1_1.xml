@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epilogue.</title>
+           <author>W., J.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">R221201_Ba1_1</idno>
+           <idno type="DLPS">A66951</idno>
+           <idno type="STC">7487</idno>
+           <idno type="ESTC">R221201</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epilogue.</title>
+                 <author>W., J.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nostōdia : In serenissimi, potentissimi, et inuictissimi monarchae, Iacobi Magnæ Britanniæ, Franciæ &amp; Hiberniæ Regis, fidei defensoris, &amp;c. felicem in Scotiam reditum, Academiæ Edinburgensis congratulatio</title>
+                 <author>University of Edinburgh</author>
+                 <imprint>
+                    <publisher>Hart, Andro</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>50, 6 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Afterwords</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epilogue">
+   <pb n="275" facs="147"/>
+   <head>The Epilogue.</head>
+   <opener>
+      <salute>Gentle Reader,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Had intended much more in my love to young men, to have written by way of in<g ref="char:EOLhyphen"/>struction, namely, a Dispensatory touching the precedent particulars, with somewhat also concerning the Cure of the French Disease, with symptomes thereof, namely, the <hi>Gonorea,</hi> the <hi>Bubo venerea,</hi> the <hi>Hernia Humoralis,</hi> &amp;c. But time hath overtaken me, so that now I am forced to conclude, having run through the cares of sixty nine years; old age being an enemy to study, for my sight being weak<g ref="char:EOLhyphen"/>ned, my memory much impaired, and my capacity utter<g ref="char:EOLhyphen"/>ly unable to perform so hard a task, which will ask both large time, and much study to fulfil, and other occasions best known to my self, and some speciall reasons else<g ref="char:EOLhyphen"/>where expressed in my precedent and subsequent work, to which I refer you, for the further satisfaction; I rest rea<g ref="char:EOLhyphen"/>dy to do good so long as the Almighty pleaseth willing to be,</p>
+   <closer>
+      <signed>Thine in the Lord, J. W.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

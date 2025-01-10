@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authorem.</title>
+           <author>C., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104005_Fr1_9</idno>
+           <idno type="DLPS">A03116</idno>
+           <idno type="STC">13247</idno>
+           <idno type="ESTC">S104005</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authorem.</title>
+                 <author>C., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Mischeefes mysterie: or, Treasons master-peece, the Powder-plot : Inuented by hellish malice, preuented by heauenly mercy: truely related. And from the Latine of the learned and reuerend Doctour Herring translated, and very much dilated. By Iohn Vicars</title>
+                 <author>Herring, Francis</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Weaver (Wever), Edmund</publisher>
+                        </imprint>
+                 <extent>16, 109, that is 104, 115-121, 1 page, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Authorem.</head>
+   <lg>
+      <l>LEt <hi>Rome</hi> with <hi>Bell, Booke, Candle,</hi> curse thy <hi>name,</hi>
+      </l>
+      <l>Thy <hi>hand,</hi> thy <hi>pen,</hi> the <hi>broacher</hi> of her shame,</l>
+      <l>Passe not, if <hi>good</hi> accept, though <hi>Bad</hi> refuse:</l>
+      <l>
+         <hi>Religious</hi> hearts bid welcome to thy <hi>Muse.</hi>
+      </l>
+      <l>It may be some condemne thee, what's the Reason?</l>
+      <l>They <hi>hate</hi> thy worke because they <hi>loue</hi> the <hi>Treason.</hi>
+      </l>
+   </lg>
+   <closer>
+      <signed>W. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

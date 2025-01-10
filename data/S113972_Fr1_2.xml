@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113972_Fr1_2</idno>
+           <idno type="DLPS">A15689</idno>
+           <idno type="STC">25961</idno>
+           <idno type="ESTC">S113972</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cure of the plague by an antidote called aurum vitæ : Being well approved to be an easie safe, and perfect cure thereof; as also of contagious agues, or feavers beginning either hot or cold. The description, order and use whereof, together with the said antidote, and are to be sold at the shop of Nicholas Bourne, stationer, at the south entrance of the royal exchange. Invented and produced by John Woodall, master in surgery. Published by authority</title>
+                 <author>Woodall, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Bourne, Nicholas.</publisher>
+                            <publisher>Purslowe, Elizabeth</publisher>
+                        </imprint>
+                 <extent>14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>The Author sendeth greeting in the Lord.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">S</seg>Hewing, that he having of late pub<g ref="char:EOLhyphen"/>lished some workes in Surgery, amd amongst the rest, a Treatise concer<g ref="char:EOLhyphen"/>ning the cure of the <hi>Plague,</hi> which workes, although they are allowed and well ap<g ref="char:EOLhyphen"/>proved of by many right worthy personages, for the matter in them contained, yet neverthelesse the Author findeth, he hath by improvidence fai<g ref="char:EOLhyphen"/>led of his desires in one of the main points he aimed at, in the production of those workes, which was in the putting forth of the Treatise of the <hi>Plague</hi> in one and the same Volumne, with the rest of his Workes, for whereas his intent was, that treatise above the rest should have beene common, and o<g ref="char:EOLhyphen"/>pen to every person, and also to have bin at an easie rate for the poorer sort, in which case his best course had beene to have printed it by it selfe, so had it borne its owne burthen of price, but by reason that the other treatises are bound up toge<g ref="char:EOLhyphen"/>ther with it, the book will cost ten shillings, which the poorer sort cannot buy, and they commonly
+<pb facs="3"/>
+have the greatest need thereof, especially in that dreadfull Disease of the <hi>Plague;</hi> wherefore, partly through solicitation of some Friends, and partly, for that the present time of Infection requireth helpe, he hath thought fit to draw out of the said Treatise, that one principall Medicine called <hi>Aurum Vitae,</hi> and to publish it by it selfe, with an expression of the Vertues and uses thereof, for the present occasion, and service of any person which shall thinke good to make use thereof, or that shall for the future be disposed to be provided before hand, against a time of need, of such a Medicine, as will not decay in seven yeeres and more.</p>
+   <closer>VALE.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

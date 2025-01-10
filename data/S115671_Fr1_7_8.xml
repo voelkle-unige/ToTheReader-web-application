@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Camdeno suo Britannia.</title>
+           <author>Bolton, Edmundus</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1637</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115671_Fr1_7_8</idno>
+           <idno type="DLPS">A17832</idno>
+           <idno type="STC">4510.8</idno>
+           <idno type="ESTC">S115671</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Camdeno suo Britannia.</title>
+                 <author>Bolton, Edmundus</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Britain, or A chorographicall description of the most flourishing kingdomes, England, Scotland, and Ireland, and the islands adjoyning, out of the depth of antiquitie : beautified vvith mappes of the severall shires of England: vvritten first in Latine by William Camden Clarenceux K. of A. Translated newly into English by Philémon Holland Doctour in Physick: finally, revised, amended, and enlarged with sundry additions by the said author</title>
+                 <author>Camden, William</author>
+                 <imprint>
+                    <distributor>Latham (Lathum, Lautham), George</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1637</date>
+                 <publisher>Bishop, Elizabeth.</publisher>
+                            <publisher>Kingston, Felix.</publisher>
+                            <publisher>Legat, John 2.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>16, 822, 233, 59 pages, 50 plates, mostly folded, illustrations, maps, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>Camdeno <hi>suo</hi> Britannia.</head>
+   <l>CLarus ut Eoas sol quando adverberat arces</l>
+   <l>Et procul invisis ferit astra liventia flammis</l>
+   <l>Nox petit Oceanum, vultus{que} enascitur orbi;</l>
+   <l>Sic <hi>Camdêne</hi> tuum jubar ut fulgere per <hi>Anglos</hi>
+   </l>
+   <l>Seu Phoebi coepit, nox fûgit, &amp; hispida dudum,</l>
+   <l>Multum{que} heu squallens radiare <hi>Britannia</hi> coepi,</l>
+   <l>Non mea nunc Thetis cùm deserit alba profundum</l>
+   <l>Gratior exurgit, pallentes murice vivo</l>
+   <l>Instaurata genas, pigro nec sydus ab Orco,</l>
+   <l>Nec dux astrorum de vertice vesper Olympi,</l>
+   <l>Illa ego quàm limâ repolita <hi>Britannia</hi> mirâ</l>
+   <l>
+      <note place="margin">Fromispicii explicatio.</note>Mî <hi>Camdêne</hi> tuâ, nova nunc magno <hi>Insula</hi> ponto:</l>
+   <l>" Illa ego rupe super scuto horrida, &amp; horrida gaeso,</l>
+   <l>" Hinc pelagi numen, dea spicea visitur illinc,</l>
+   <l>" Piscosus vallo <hi>Nereus,</hi> &amp; classibus armat,</l>
+   <l>" At{que} <hi>Ceres</hi> flavos spargit sua sertaper agros,</l>
+   <l>" Saxea deinde strues, &amp; quae depicta videmus</l>
+   <l>" Fronte libri, veluti fervens a fontibus unda,</l>
+   <l>" Et surgens pyramis, nostrae miracula monstrant</l>
+   <l>" Telluris, liber nequit (fas) omnia vester:</l>
+   <l>Exero nunc vultus exhaustos antè ruinis,</l>
+   <l>Et nunc flore meo marcores pello vietos,</l>
+   <l>Verùm erit illa dies cùm quae micat <hi>Anglia</hi> forsa<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Nebula quaeretur, cinere occultata, situque,</l>
+   <l>Atque alios lychnos dabit: Id <hi>Camdêne</hi> negat<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>Historicum vincendo Chaos, qui noris abundè:</l>
+   <l>Haec tibi prisca, redux, tua{que} us{que} <hi>Britannia</hi> canto.</l>
+   <closer>
+      <signed>Edmundus Bolton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Marmion, Shackerley</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112203_Fr1_2</idno>
+           <idno type="DLPS">A07025</idno>
+           <idno type="STC">17443.5</idno>
+           <idno type="ESTC">S112203</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Marmion, Shackerley</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Hollands leaguer : An excellent comedy as it hath bin lately and often acted with great applause, by the high and mighty Prince Charles his Servants; at the private house in Salisbury Court. Written by Shackerley Marmyon, Master of Arts</title>
+                 <author>Marmion, Shackerley</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 <publisher>Beale, John.</publisher>
+                            <publisher>Grove, John</publisher>
+                        </imprint>
+                 <extent>88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Vrteous Reader (for so I presume thou art) if otherwise, thou losest the title of being stiled ingenious; for there are none but favour lear<g ref="char:EOLhyphen"/>ning, if they so much as pretend to it: but I hope I neede make no apologie, either to gaine thy fauour, or to credit the Worke, it has so often pass'd with approbation, that I have hopes it will continue it. If there be any so su<g ref="char:EOLhyphen"/>percilious to condemne it, before they read it, let them rest content with the title, and not enter in<g ref="char:EOLhyphen"/>to the Theater, unlesse they intend to behold the Florales. However, my Muse has descended to this subiect; let men esteeme of her, onely as a reprover, not an interpreter of wickednesse: <hi>Oc<g ref="char:EOLhyphen"/>cultare peccantis, promulgare ludentis est.</hi>
+   </p>
+   <p>
+      <hi>Aristippus</hi> being compelled to dance in purple
+<pb facs="3"/>against the dignity of a Phylosopher, made an excuse, that the baits of sinne had no power on a good nature: and <hi>Plato</hi> having compos'd wan<g ref="char:EOLhyphen"/>ton Verses, affirmed, that the more plaine they were, the more honest: and your former Wri<g ref="char:EOLhyphen"/>ters, in their accurate discovery of vice, have mingled the precepts of wisdome. If thou shalt accept this as it was simply meant, the applause it has obtain'd, shall not so much crowne it as thy acceptation.</p>
+   <closer>
+      <signed>SHACKERLEY MARMYON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

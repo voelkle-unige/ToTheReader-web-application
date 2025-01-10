@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Granthan, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122047_Fr1_2</idno>
+           <idno type="DLPS">A05325</idno>
+           <idno type="STC">15469</idno>
+           <idno type="ESTC">S122047</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Granthan, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An Italian grammer; vvritten in Latin by Scipio Lentulo a Neapolitane: and turned in Englishe: by H.G</title>
+                 <author>Lentulo, Scipione</author>
+                 <imprint>
+                    <publisher>Vautrollier, Thomas 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>4, 155, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>
+      <hi>therin all the rules that may serue for the better vn<g ref="char:EOLhyphen"/>derstanding of that tonge, are so well set forth, and in so good ordre disposed, with so apt examples, and with that breuitie and facilitie, as none other written before of that matter in any tonge that I haue seene, as I haue seene diuerse, is (in my iudgment) comparable vnto it. Now suche as it is, rudely attired with this englishe habit, I betake vnto your fauorable acceptance as a token of the dutifull good will I beare you. And as a pledge of the seruice and dutie I owe to your parentes. And so humble I take my leaue. the 4, of December</hi> 1574.</p>
+   <closer>
+      <signed>Yours vvholy at commaundement
+HENRY GRANTHAN.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

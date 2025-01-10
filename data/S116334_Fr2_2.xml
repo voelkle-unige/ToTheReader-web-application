@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Reuerendissimis, Magistro ac Socijs Immanuel. Colleg. in celeberrima Cantabrigiae Academia, He∣noch Claphamus Salutem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116334_Fr2_2</idno>
+           <idno type="DLPS">A15991</idno>
+           <idno type="STC">2772</idno>
+           <idno type="ESTC">S116334</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Reuerendissimis, Magistro ac Socijs Immanuel. Colleg. in celeberrima Cantabrigiae Academia, He∣noch Claphamus Salutem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Three partes of Salomon his Song of Songs, expounded : The first part printed before: but now re-printed and enlarged. The second and third partes neuer printed before. All which parts are here expounded and applied for the readers good. By Henoch Clapham</title>
+                 <author>Clapham, Henoch</author>
+                 <imprint>
+                    <distributor>Mutton, Edmund</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Simmes (Sims, Symmes), Valentine.</publisher>
+                            <publisher>White, William</publisher>
+                        </imprint>
+                 <extent>14, 89, 8, 92-138, 11, 142-298, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="55"/>
+   <pb facs="55"/>
+   <head>Reuerendissimis, Magistro ac Socijs Immanuel. Colleg. in celeberrima Cantabrigiae Academia, He<g ref="char:EOLhyphen"/>noch Claphamus Salutem.</head>
+   <p>
+      <seg rend="decorInit">D</seg>Octissimi Viri, nimis forsan audaculus, ista nobis qualiacunque offerre, videar. Mouet autem officium, quo Collegio no<g ref="char:EOLhyphen"/>stro (ego nam olim illius Arboris sur<g ref="char:EOLhyphen"/>culus, imo <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>) ac in-primis Tuto<g ref="char:EOLhyphen"/>ri mihi charissimo, Doctori <hi>Guliel. Io<g ref="char:EOLhyphen"/>nesio,</hi> lubens obstringor.</p>
+   <p>Pro particulari, primam istius Ope<g ref="char:EOLhyphen"/>ris, Ministri nostrae Ecclesiae, secundum autem &amp; vos habitote partem. Non est quidem quod volo (velle enim mihi largum, penè infinitum) sed quod quidem possum. Hoc siteneatis, habeo quod opto: &amp; vos mihi calcar reliqua percurrendi dabitis:</p>
+   <closer>Valete.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

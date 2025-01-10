@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Front Matter]</title>
+           <author>T., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125561_Fr1_3</idno>
+           <idno type="DLPS">A73323</idno>
+           <idno type="STC">24308</idno>
+           <idno type="ESTC">S125561</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Front Matter]</title>
+                 <author>T., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A fit guest for the Lords table. Or, A treatise declaring the true vse of the Lords Supper : Profitable for all communicants, as a preseruatiue against all profanesse and sundry nouell opinions</title>
+                 <author>Tuke, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Rocket, Henry</publisher>
+                        </imprint>
+                 <extent>8, 186 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="front_matter">
+   <pb facs="5"/>
+   <lg>
+      <head>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </head>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <l>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </l>
+      <closer>
+         <signed>N. T.</signed>
+      </closer>
+   </lg>
+   <lg>
+      <head>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> H. Graij ad Authorem.</head>
+      <l>Edatur; Momi cur nam{que} Verebere dentes?</l>
+      <l>Hic liber, a cambus, nil quod edatur, habet.</l>
+   </lg>
+   <lg>
+      <head>Eiusdem <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> ad Lectores.</head>
+      <l>Quaeritis a Domino qualis conuiua prob<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>tur?</l>
+      <l>En vobis qualem finxerit iste liber.</l>
+      <l>Lotus cas, etlaetus edas, g<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>atus{que} recedas;</l>
+      <l>Scilicet hos mores caelica mensa petit.</l>
+   </lg>
+   <lg>
+      <head>Ad Lectorem.</head>
+      <l>Christi Christi-colis conuluià lauta parantur,</l>
+      <l>Hic recte vt comedant pagina quaeque docet.</l>
+   </lg>
+   <closer>
+      <signed>Georgius Taylerus.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

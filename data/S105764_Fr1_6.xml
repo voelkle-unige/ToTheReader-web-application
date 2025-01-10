@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>Gordone, A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105764_Fr1_6</idno>
+           <idno type="DLPS">A01929</idno>
+           <idno type="STC">12066</idno>
+           <idno type="ESTC">S105764</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>Gordone, A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The famous historie of the renouned and valiant Prince Robert surnamed the Bruce King of Scotland e&amp; [sic] : &amp; of sundrie other valiant knights both Scots and English. Enlarged with an addition of the Scottishe kinges lineallie discended from him to Charles now Prince, together with a note of the beginninges of the most parte of the antie [n] t and famous nobilitie of Scotland. A historye both pleasant and profitable set forthe and done in heroik verse by Patrick Gordon Gentleman</title>
+                 <author>Gordon, Patrick</author>
+                 <imprint>
+                    <publisher>Waters (Walters), Joris (George)</publisher>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>192 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>To the Author.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">T</seg>Hy sugred wearses, and thy sacred songe</l>
+      <l>Shall make thy neame <hi>(O Gordon)</hi> glorius</l>
+      <l>Thou maks <gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>orgottin <hi>Bruce</hi> obs<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>urd so longe</l>
+      <l>Reuieud to ryise againe victorious</l>
+      <l>Thou crownis him with a laurell in thy storie</l>
+      <l>Thou greaces him, and he augments thy Glorie.</l>
+   </lg>
+   <lg>
+      <l>Thy greaue heroik Muse disdanis to treat</l>
+      <l>Of bass<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>and seruill loue, or fond afectione</l>
+      <l>But of a Kingdome, and a Contries staet</l>
+      <l>Of naturs cheifest worth, and hir perfectione</l>
+      <l>Of <hi>Fortuns Champione,</hi> whom the world renounis</l>
+      <l>For conquering Kingdoms, cities, touris, and tounis.</l>
+   </lg>
+   <lg>
+      <l>Those are the first fruets of thy rair ingine</l>
+      <l>The braue beginning of a virtous mind</l>
+      <l>Presaging plainlie what thou'l prooue in fine</l>
+      <l>Whose lamp skarsse fird doth many lights outshine</l>
+      <l>Long may thou lieue whose lins braue <hi>Bruce</hi> adorne</l>
+      <l>And let <hi>Bruce</hi> Ghost be glaid that thow was borne.</l>
+   </lg>
+   <closer>
+      <signed>A. Gordone.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

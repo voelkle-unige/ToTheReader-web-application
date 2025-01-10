@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the vertuous and nobly-des∣cended Sir Thomas Lucy the younger, Knight.</title>
+           <author>Winter, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110634_Ba1_4</idno>
+           <idno type="DLPS">A11404</idno>
+           <idno type="STC">21660</idno>
+           <idno type="ESTC">S110634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the vertuous and nobly-des∣cended Sir Thomas Lucy the younger, Knight.</title>
+                 <author>Winter, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third dayes creation. By that most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done verse for verse out of the originall French by Thomas VVinter, Master of Arts</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Clarke, Thomas.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>12, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="24"/>
+   <head>To the vertuous and nobly-des<g ref="char:EOLhyphen"/>cended Sir Thomas Lucy the <hi>younger, Knight.</hi>
+   </head>
+   <lg>
+      <l>I Know <gap reason="illegible" resp="#apex" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap> well, it hath bene held of yore,</l>
+      <l>That Fo<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ne in her largesse still is blind:</l>
+      <l>That there she giues her gifts in greatest store,</l>
+      <l>Where iudgement cannot any merit find.</l>
+   </lg>
+   <lg>
+      <l>But seeing Art and Nature haue conspir'd,</l>
+      <l>To make thee louely, learned, wittie, wise,</l>
+      <l>Let Fortune in her iudgement be admir'd,</l>
+      <l>As hauing cleare and true-discerning eyes.</l>
+   </lg>
+   <lg>
+      <l>Therefore proceede thou happie, hopefull Knight,</l>
+      <l>Keepe on thy course in one ecclipticke line,</l>
+      <l>Be constant in thy vertuous delight,</l>
+      <l>And if thou wilt in perfect glorie shine,</l>
+      <l>Shun all extreames, doate not on worldly pelfe,</l>
+      <l>But in a word, be still most like thy selfe.</l>
+   </lg>
+   <closer>
+      <signed>T. Winter.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

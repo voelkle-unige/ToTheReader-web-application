@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Preface]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1544</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121367_Fr1_2</idno>
+           <idno type="DLPS">A22828</idno>
+           <idno type="STC">9334</idno>
+           <idno type="ESTC">S121367</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Preface]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Statutes and ordynances for the warre</title>
+                 <author>England and Wales, Sovereign (1509-1547 : Henry Viii)</author>
+                 <imprint>
+                    <publisher>Berthelet (Barthelet), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1544</date>
+                 </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">F</seg>
+      <gap reason="illegible: blotted" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap>
+      <g ref="char:EOLunhyphen"/>tion of <gap reason="illegible: blotted" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> moste necessarie <gap reason="illegible: blotted" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> as of peace, being the kinges <gap reason="illegible: blotted" extent="1 span">
+         <desc>〈…〉</desc>
+      </gap> most dreade soueraine lorde <hi>HENRY</hi>
+      <gap reason="illegible: blotted" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> eight by the grace of god king of Englande, Fraunce, and Irelande, defender of the faithe, and of the chur<g ref="char:EOLhyphen"/>che of England and also of Irelāde in erthe the supreme heade, prouoked by the manyfolde iniuries commyt<g ref="char:EOLhyphen"/>ted by the frenche king, bothe in his confederation with the Turke, and by his priuate displesures and wronges done to his highnes, against the cōmon weale of Chri<g ref="char:EOLhyphen"/>stendome, to inuade the realme of Fraunce this sommer in his moste royall persone, his maiestie myndinge due ordre to be obserued and kepte emonges all sortes of men of his highnes moste royall and puissaunt army, as well capitaines, souldiours, as others, in suche wise as apperteyneth both towardes god and the worlde: hath deuised and commaunded to be sette furthe certayne ordynaunces and statutes for the warre, as hereafter ensueth, not doub<g ref="char:EOLhyphen"/>tynge but all his maiesties moste louynge and obedient subie<g ref="char:EOLhyphen"/>ctes, for the discharge of theyr moste bounden dueties towardes his highnes, woll im<g ref="char:EOLhyphen"/>brace and obey the same accordyngly.</p>
+</div>
+        </body>
+  </text>
+</TEI>

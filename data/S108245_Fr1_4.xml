@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>L., G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108245_Fr1_4</idno>
+           <idno type="DLPS">A05053</idno>
+           <idno type="STC">15194</idno>
+           <idno type="ESTC">S108245</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>L., G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Search the Scriptures. Or, An enquirie after veritie : Discoursing of, and discussing the Scriptures sufficiencie. Perspicuitie. Necessitie. By George Langford, Bachelour of Diuinitie, and minister of Gods Word, at Mortlake, neere London</title>
+                 <author>Langford, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 <publisher>Clarke, John 1.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>12, 44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>MOst <hi>Courteous Reader,</hi> some little literall faults (at least) will passe at the Presse, maugre the strictest Inquisition of the most <hi>curious Reuisor.</hi> Those I pray thee suppresse with patience, or supply with diligence: So shalt thou singularly obliege me, to thy singular humanity.</p>
+   <closer>
+      <signed>G. L.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

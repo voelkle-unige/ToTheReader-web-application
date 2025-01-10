@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶Lectori.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110054_Fr1_4</idno>
+           <idno type="DLPS">A07792</idno>
+           <idno type="STC">18169</idno>
+           <idno type="ESTC">S110054</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶Lectori.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>New-England. Or A briefe enarration of the ayre, earth, water, fish and fowles of that country : With a description of the natures, orders, habits, and religion of the natiues; in Latine and English verse</title>
+                 <author>Morrell, William</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>6, 24, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="4"/>
+   <head>¶Lectori.</head>
+   <l>Candide si placidum dederis Philomuse Camoenae</l>
+   <l>Intuitum: trifti dulce levamen erit.</l>
+   <l>Optima mellifluis modulari carmina nervis</l>
+   <l>Illud Apollineis cantibus euge melos.</l>
+   <l>Mellea coeleste est effundere carmina munus,</l>
+   <l>Frustrà de sicco pumice quaeris aquam,</l>
+   <l>Dicito musa probè, brevitèr, simul, ordine, perge:</l>
+   <l>Gloria summa <gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ibi dicere vera: Vale.</l>
+   <closer>
+      <signed>
+         <hi>Gul: M.</hi>
+Perlege: pars vltima, prima.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

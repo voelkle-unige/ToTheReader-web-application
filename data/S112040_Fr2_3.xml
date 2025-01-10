@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           <author>R., A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112040_Fr2_3</idno>
+           <idno type="DLPS">A10800</idno>
+           <idno type="STC">21073</idno>
+           <idno type="ESTC">S112040</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 <author>R., A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An exposition vpon the hundred and thirtie Psalme : Gathered out of some of the ancient fathers and later writers. By Alexander Roberts Bachelour in Diuinity, and preacher of the word of God at Kings Linne in Norfolke</title>
+                 <author>Roberts, Alexander</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 <publisher>Bankworth, Richard.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>16, 92, 4 pages, folded table, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="7"/>
+   <head>To the Christian Reader.</head>
+   <p>
+      <seg rend="decorInit">A</seg>Lthough I might truly protest, my deepe recusancy, for pub<g ref="char:EOLhyphen"/>lishing any thing to the view of the world, and that vpon good ground, priuie to my owne de<g ref="char:EOLhyphen"/>fects, as one alwaies resolued, that the safest life is <note n="a" place="margin">
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</note> the obscu<g ref="char:EOLhyphen"/>rest: yet will I make no Apologie for my selfe at this present, lest happely some quicke-witted censurer might conceiue that humour to be in me, wherewith <hi>Cato</hi> charged
+<note n="b" place="margin">Nae tu Aule Albine nimium nugator et, qui maluisti culpam deprecari, quàm carere. Cato a<g ref="char:EOLhyphen"/>pud A—Gellium lib. 11. cap. 8.</note>
+      <hi>Albinus,</hi> as rather taking occasion to excuse fault committed, then carefull to preuent it. VVherefore (Christian Reader) this exposition such as it is, I offer vnto the treasury of God: others can of their aboundance enrich it with many talents, I only cast thereinto of my pouerty, but two
+<note n="c" place="margin">Gazephylacium Dei, sunt qui ta<g ref="char:EOLhyphen"/>lentis
+<gap reason="illegible" resp="#oxf" extent="2 letters">
+            <desc>••</desc>
+         </gap>rant: mihi nihil suppe<g ref="char:EOLhyphen"/>tit amplius duo<g ref="char:EOLhyphen"/>bus his minutis, &amp; ipses ab alio commodatis. Iunilius in Epi<g ref="char:EOLhyphen"/>stola ad Prima<g ref="char:EOLhyphen"/>sium praefixa duo<g ref="char:EOLhyphen"/>bus suis libris, de partibus diuine Legis.</note> mites; and both of them borrowed the testimonies of auncient and moderne writers. And for this I referre my selfe to thy iudgement, and in secret shall listen after the same, willing and ready to correct, what thou thinkest fit to be amended, to supply what is wanting, to de<g ref="char:EOLhyphen"/>tract what is superfluous, and change what is to be al<g ref="char:EOLhyphen"/>tered. Thou canst desire no more, and I aske nothing of thee, but to stand indifferent. Farewell in Christ Iesus.</p>
+   <closer>
+      <signed>Thine euer in the Lord, A. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

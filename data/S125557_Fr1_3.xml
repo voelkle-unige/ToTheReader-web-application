@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO MY NOBLE MAISTER Mr. GEORGE CARIE.</title>
+           <author>Knevet, Ralph</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125557_Fr1_3</idno>
+           <idno type="DLPS">A73317</idno>
+           <idno type="STC">24148.3</idno>
+           <idno type="ESTC">S125557</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO MY NOBLE MAISTER Mr. GEORGE CARIE.</title>
+                 <author>Knevet, Ralph</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A griefe on the death of Prince Henrie : Expressed in a broken elegie, according to the nature of such a sorrow. By Cyril Tourneur</title>
+                 <author>Tourneur, Cyril</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Welby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="9"/>
+   <pb facs="9"/>
+   <head>TO MY NOBLE MAISTER M<seg rend="sup">r</seg>. GEORGE CARIE.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">S</seg>IR;</salute>
+   </opener>
+   <p>It was a season for Elegies of this kind, when I wrote this; before HIS Funeralls. I had no purpose (then) to haue it published. Importuni<g ref="char:EOLhyphen"/>ty hath (since) drawne it from me. But my first intent of Dedication is not altered. It cannot; vnlesse I could change my selfe. And (besides the subscription of my duety to you) you deserue to bee acknowledged in this Argument; among HIS true Mourners: for you honoured HIM, much and faithful<g ref="char:EOLhyphen"/>ly. For which, no lesse then for any other part of your generous disposition, I am and will bee</p>
+   <closer>
+      <signed>Your Seruant <hi>CYRIL TOVRNEVR.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

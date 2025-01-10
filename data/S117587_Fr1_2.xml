@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117587_Fr1_2</idno>
+           <idno type="DLPS">A21070</idno>
+           <idno type="STC">7435</idno>
+           <idno type="ESTC">S117587</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The application of the lavves of England for Catholike priesthood : and the Sacrifice of the Masse. Directed to the lords of his Maiesties most honourable priuie counsell, iudges, iustices, and other studients of the law</title>
+                 <author>Pendryck, William</author>
+                 <imprint>
+                    <publisher>Jaye (Jaey), Henry</publisher>
+                    <pubPlace>Belgium--Mechelen ; Germany--Cologne</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>10, 45, that is 95, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <head>The Printer to the Reader.</head>
+   <p>GEntle Reader, this litle Treatise falling by chaunce into my hands, I of my selfe (the Author thereof being vnknowne vnto me) thought it worthy of thy view; but by reason of an vncorrected originall written Copie, and especially my selfe being vnskilfull of the English tongue, many errours and omissions haue happened, not onely in the Orthographie but also in the setting downe the alle<g ref="char:EOLhyphen"/>gations somewhat indistinctly, and in false pointing. Therefore I hope (these cir<g ref="char:EOLhyphen"/>cumstances duly considered) thou wilt be pleased in reading ouer this Treatise, to correct them with thy pen: whereof the greater faults are (after the Printing here<g ref="char:EOLhyphen"/>of) gathered by a friend, and set downe in manner as followeth.</p>
+</div>
+        </body>
+  </text>
+</TEI>

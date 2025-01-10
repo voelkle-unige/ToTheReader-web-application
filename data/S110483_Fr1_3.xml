@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1585</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110483_Fr1_3</idno>
+           <idno type="DLPS">A09766</idno>
+           <idno type="STC">20032</idno>
+           <idno type="ESTC">S110483</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The secrets and wonders of the world : A booke right rare and straunge, containing many excellent properties, giuen to man, beastes, foules, fishes and serpents, trees, plants &amp;c. Abstracted out of that excellent naturall historiographer Plinie. Translated out of French into English</title>
+                 <author>Pliny, the Elder</author>
+                 <imprint>
+                    <publisher>Denham, Henry</publisher>
+                    <distributor>Hacket, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1585</date>
+                 </imprint>
+                 <extent>64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Ere hast thou gentle Reader, set forth vnto thee this Booke, named <hi>The Secrets and wonders of the Worlde,</hi> abstracted out of the sixteene first Bookes of that excellent naturall Historio<g ref="char:EOLhyphen"/>grapher <hi>Plinie,</hi> for the straungenesse and wor<g ref="char:EOLhyphen"/>thinesse thereof, I referre thee to thine owne iudgement, requesting thee to take this in good part, &amp; shortly shalbe by Gods grace, set forth vnto thee three worthy and learned bookes, the first is of the Cituation of the world, writte by <hi>Pomponius Mela,</hi> The second is a perfite Pere<g ref="char:EOLhyphen"/>grination and true discouerie of <hi>Graecie, Turkey, Arabia,</hi> and <hi>Siria,</hi> with the maner of their Cities, and their Antiquities: The third is, <hi>Iulius Sol<g ref="char:EOLhyphen"/>linus Pollihistorie,</hi> the which bookes thou shalt finde both to be pleasant and profitable, And thus I bid thee farewel in Christ, who keep vs. Amē.</p>
+</div>
+        </body>
+  </text>
+</TEI>

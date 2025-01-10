@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>H., L.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120924_Fr1_3</idno>
+           <idno type="DLPS">A03799</idno>
+           <idno type="STC">13918</idno>
+           <idno type="ESTC">S120924</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>H., L.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The covenant of grace, and seales thereof : plainely opened by way of question and answer. Whereunto is annexed, godly instructions, shewing how to put every petition of the Lords Prayer into practice, and how to make some spirituall use of the things that wee shall see o heare. Set forth for the benefit of the inhabitants of the Summer Ilands. By Lewis Hughes, sometimes minister of Gods word in the said ilands</title>
+                 <author>Hughes, Lewes</author>
+                 <imprint>
+                    <publisher>Paine (Payne), Thomas</publisher>
+                    <distributor>Bourne, Nicholas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>234 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, if thou wouldst be strengthned in thy faith, and be able (by the grace of God) to re<g ref="char:EOLhyphen"/>sist Satan when hee shall put into thy heart any fearefull thought ten<g ref="char:EOLhyphen"/>ding to despaire, have this little Booke al<g ref="char:EOLhyphen"/>waies in thy pocket, to read at leasure-times, and marke wel what thou rea<g ref="char:EOLunhyphen"/>dest, concerning the Co<g ref="char:EOLhyphen"/>venant
+<pb facs="4"/>of grace and seales thereof, which you shall find plainely opened, and pray to God for an un<g ref="char:EOLhyphen"/>derstanding heart.</p>
+   <closer>
+      <signed>
+         <hi>Thine in the Lord JESVS,</hi> L. H.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

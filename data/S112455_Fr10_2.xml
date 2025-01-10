@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE GREAT EXAMPLE OF HO∣NOR, AND VERTVE, THE MOST NOBLE William, EARLE OF PEMBROKE, LORD CHAMBERLAINE, &amp;c.</title>
+           <author>Jonson, Ben</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112455_Fr10_2</idno>
+           <idno type="DLPS">A04632</idno>
+           <idno type="STC">14752</idno>
+           <idno type="ESTC">S112455</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE GREAT EXAMPLE OF HO∣NOR, AND VERTVE, THE MOST NOBLE William, EARLE OF PEMBROKE, LORD CHAMBERLAINE, &amp;c.</title>
+                 <author>Jonson, Ben</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The workes of Beniamin Ionson</title>
+                 <author>Jonson, Ben</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Meighen, Richard.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>12, 1015, 1 page, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="364"/>
+   <pb n="681" facs="364"/>
+   <head>TO THE GREAT EXAMPLE OF HO<g ref="char:EOLhyphen"/>NOR, AND VERTVE, THE MOST NOBLE William, EARLE OF PEMBROKE, LORD CHAMBERLAINE, &amp;c.</head>
+   <opener>
+      <salute>
+         <hi>MY LORD,</hi>
+      </salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>N so thick, and darke an ig<g ref="char:EOLhyphen"/>norance, as now almost couers the age, I craue leaue to stand neare your light: and, by that, to bee read. Posteritie may pay your benefit the honor, &amp; thanks: when it shall know, that you dare, in these <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ig-giuen times, to countenance a legitimate Poeme. I must call it so, against all noise of opinion: from whose crude, and ayrie reports, I appeale, to that great and singular faculty of iudgement in your Lord<g ref="char:EOLhyphen"/>ship, able to vindicate truth from error. It is the first (of this race) that euer I dedicated to any person, and had I not thought it the best, it should haue beene taught a lesse ambition. Now, it approcheth your censure cheerefully, and with the same assurance, that innocency would appeare before a magistrate.</p>
+   <closer>
+      <signed>
+         <hi>Your Lo. most faithfull honorer, BEN. IONSON.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

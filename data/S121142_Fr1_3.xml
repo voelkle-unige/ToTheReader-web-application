@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ILLVSTRISSIMI PRINCIPIS MEMORIAE S.</title>
+           <author>Langton, Gul.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121142_Fr1_3</idno>
+           <idno type="DLPS">A08761</idno>
+           <idno type="STC">19047</idno>
+           <idno type="ESTC">S121142</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ILLVSTRISSIMI PRINCIPIS MEMORIAE S.</title>
+                 <author>Langton, Gul.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Luvtvs posthvmvs sive Erga defvnctvm illvstrissimvm Henricm Walliæ Principem, Collegij Beatæ Mariæ Magdalenæ apud Oxonienses Mecænatvem longè indulgentissimum, Magdalenensium officiosa pietas</title>
+                 <author>Magdalen College (University of Oxford)</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>2, 62, 8 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>ILLVSTRISSIMI PRINCIPIS <hi>MEMORIAE S.</hi>
+   </head>
+   <l>IPse, Tuis manibus qui quondam (HENRICE) sacravi</l>
+   <l>Catmina, nunc sacro Manibus ista Tuis.</l>
+   <l>Per Te quae toties risit Domus hospita nostra</l>
+   <l>(Nempe patrocinio facta beata Tuo)</l>
+   <l>Praesidio viduata suo, nunc maesta madens{que}</l>
+   <l>Has pro Te Lachrymas fundit amar a novas.</l>
+   <l>Sit tristes reliquis fas expressisse dolores:</l>
+   <l>Sit mihi, sit Musae fas stupuisse meae.</l>
+   <l>Nempe modos alij calamo leviore ministrent,</l>
+   <l>Perplacet vt noster sit sine voce Dolor.</l>
+   <closer>
+      <signed>GVL. LANGTON, <hi>S. Theol. Doct. Coll. Magd. Praeses marens ponebat.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

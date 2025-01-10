@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Epistle to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121989_Fr1_3</idno>
+           <idno type="DLPS">A19366</idno>
+           <idno type="STC">5790</idno>
+           <idno type="ESTC">S121989</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Epistle to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Spanish grammer : vvith certeine rules teaching both the Spanish and French tongues. By which they that haue some knowledge in the French tongue, may the easier attaine to the Spanish, and likewise they that haue the Spanish, with more facilitie learne the French: and they that are acquainted with neither of them, learne either or both. Made in Spanish, by M. Anthonie de Corro. With a dictionarie adioyned vnto it, of all the Spanish wordes cited in this booke: and other more wordes most necessarie for all such as desire the knowledge of the same tongue. By Iohn Thorius, graduate in Oxenford</title>
+                 <author>Corro, Antonio del</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>8, 119, 17 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>The Epistle to the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, many suppo<g ref="char:EOLhyphen"/>sing their Bookes to bee no bookes, vnlesse they bee en<g ref="char:EOLhyphen"/>larged with tedious prefa<g ref="char:EOLhyphen"/>ces; they abuse the Readers curtesie with superfluous relations: filling the first sheete with vaine prayses of the matter and subiect of their Pamphlets. I therfore vnwilling to staie you with need<g ref="char:EOLhyphen"/>lesse prayses; meane not heare to write an <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in commendation of the Spanish or French tongue: leauing the consideration thereof vnto euery one his liking, to thinke of these tongues according to their owne opinion or pleasure. But thus muche I thought necessary to aduertise the Reader of; that this Grammar was first written the greater part of it in Spanish, and a litle of the ende in French; in such manner that none could reape any benefit by reading of it, but such as were acquainted with both the foresayd languages. In so much that I beeing requested by diuers, but especially
+<pb facs="3"/> mooued with loue and affection toward my country men (beeing most ready at all times to vndertake any labour to procure their ease, and imploy my dearest time to do them pleasure) haue in such sort trans<g ref="char:EOLhyphen"/>lated &amp; altered this booke, that any Eng<g ref="char:EOLhyphen"/>lish man may vse it to his profite. And to the ende that the one language may easily be knowne from the other, I haue caused it▪ to be printed in three sundry kindes of let<g ref="char:EOLhyphen"/>ters. Besides this, for better order and to a<g ref="char:EOLhyphen"/>uoyde all confusion, I haue deuided it into sundry parts and sexions: and at the ende added a Dictionarie of all the Spanish words set down for example in this Gram<g ref="char:EOLhyphen"/>mar, and also many other wordes most v<g ref="char:EOLhyphen"/>sed. Which paynes (gentle Reader) I shall thinke well imployde if it may doo you good and redowne to your profit: reque<g ref="char:EOLhyphen"/>sting no other meede for my labour, then to haue it accepted as a token of my good will and meaning. And thus I commit you to your accustomed exercises, and the further reading of our Grammar.</p>
+</div>
+        </body>
+  </text>
+</TEI>

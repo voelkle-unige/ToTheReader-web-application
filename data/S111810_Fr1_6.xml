@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Booke to the Author.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111810_Fr1_6</idno>
+           <idno type="DLPS">A15817</idno>
+           <idno type="STC">26079</idno>
+           <idno type="ESTC">S111810</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Booke to the Author.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The castell of courtesie : whereunto is adioyned the holde of humilitie: with the chariot of chastitie thereunto annexed. Also a dialogue betwéene age and youth, and other matters herein conteined. By Iames Yates seruingman. 1582</title>
+                 <author>Yates, James, servingman</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 <publisher>Carre, Henry.</publisher>
+                            <publisher>Wolfe (Woolfe), John</publisher>
+                        </imprint>
+                 <extent>4, 8, 74 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_author">
+   <pb facs="5"/>
+   <head>The Booke to the Author.</head>
+   <lg>
+      <l>WHat doe you meane (I pray)</l>
+      <l>Such kinde of speech to say?</l>
+      <l>Doubtfully to display</l>
+      <l>What shall of me insu<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Theres none will goe about,</l>
+      <l>To mock or for to floute:</l>
+      <l>Except it be some loute,</l>
+      <l>Of trothe I tell you true.</l>
+   </lg>
+   <lg>
+      <l>And as for such as those,</l>
+      <l>The trueth for to disclose,</l>
+      <l>I cannot fayne ne glose,</l>
+      <l>I passe them not a pinne:</l>
+      <l>I am not in their dette,</l>
+      <l>Wherefore they cannot let,</l>
+      <l>That which I downe haue set,</l>
+      <l>Sith nought by them I win.</l>
+   </lg>
+   <lg>
+      <l>And though their cunning be</l>
+      <l>Superior ouer me,</l>
+      <l>Yet (Sir) for ought I see,</l>
+      <l>They faile though they be fine:</l>
+      <l>I would I had the skil</l>
+      <l>According to my will,</l>
+      <l>Their curious cup to fill,</l>
+      <l>I would my selfe incline.</l>
+   </lg>
+   <lg>
+      <l>To speake in your defence,</l>
+      <l>With you they may dispence,</l>
+      <l>Esteeming your pretence,</l>
+      <l>Is for to gratulate:</l>
+      <l>Those to whom you are bound,</l>
+      <l>For fauor you haue found,</l>
+      <l>Whose friendship to resound</l>
+      <l>Hath holpen your estate.</l>
+   </lg>
+   <lg>
+      <l>I loue not much to tell,</l>
+      <l>For why, it were not well</l>
+      <l>To seeme to chat or mell</l>
+      <l>Least that I purchase blame:</l>
+      <l>But I will beake and bende</l>
+      <l>And none I hope offende,</l>
+      <l>If iustly they intende,</l>
+      <l>Their sentence for to frame.</l>
+   </lg>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

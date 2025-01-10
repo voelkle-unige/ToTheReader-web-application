@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectori S.</title>
+           <author>Mayr., George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101600_Bo1_1</idno>
+           <idno type="DLPS">A08064</idno>
+           <idno type="STC">1843</idno>
+           <idno type="ESTC">S101600</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectori S.</title>
+                 <author>Mayr., George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A shorte catechisme of Cardall Bellarmine : illustrated with the images</title>
+                 <author>Bellarmino, Roberto Francesco Romolo, saint</author>
+                 <imprint>
+                    <publisher>Mang, Christoph</publisher>
+                    <pubPlace>Germany--Augsburg</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>2, 116, 2 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="to_the_reader">
+   <pb facs="2"/>
+   <pb n="1" facs="2"/>
+   <head>Lectori S.</head>
+   <p>
+      <seg rend="decorInit">M</seg>AGNORVM &amp; Illustrium viro<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>um Augustanorum consilio at{que} subsidio, nouae quaedam sacrarum maginum formae, non ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>guis sumptibus comparatae sunt, qui<g ref="char:EOLhyphen"/>bus Catechismus Catholicus, siue Doctrina Christiana, non vnâ duntaxat, sed pluribus linguis, procedente tempore, Augustae in lu<g ref="char:EOLhyphen"/>cem edi posset. Atque huic pio consilio, non infeliciter rei euentus hactenus respōdit. Nam intra vnius anni spatium, quinque linguarum editiones Catechisticae (Germanicae nimirùm, Latinae, Graecae, Gallicae, Italicae) maximo ex<g ref="char:EOLhyphen"/>emplarium numero absolutae sunt, quibus ta<g ref="char:EOLhyphen"/>men necdum omnium desiderio satisfieri po<g ref="char:EOLhyphen"/>tuit. Cùm autem eodem tempore à pluribus magni nominis viris, pro pluribus aliis linguis ac nationibus eadem opera expeteretur, non defuerunt in hac quoque vibe viri primarii, qui Catholici Catechismi editionem A<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>glica<g ref="char:EOLhyphen"/>nam cum ijsdem imaginibus suscipie<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>dam iudicarent. Ex illa enim natione plutimi quo<g ref="char:EOLhyphen"/>que
+<pb n="2" facs="3"/> reperiuntur, qui Catholicam fidem, Rom<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> naeque Ecclesiae authoritatē cum fuis tot secu<g ref="char:EOLhyphen"/>lorum laudatissimis Maioribus, cum tot alijs Regnis ac Prouincijs, &amp;, quod verè dici potest, cum maiore Orbis Christiani parte, etiam nū integrè profitentur. Nulla igitur idonea causa suppetit, cur ab huius (licet exigui) beneficii tot aliis linguis ac nationibus praestandi cōmu<g ref="char:EOLhyphen"/>nione solos Anglos excludamus. Bona autem fide exemplar Anglicanum ex Italico ver<g ref="char:EOLhyphen"/>sum sequi conati sumus. Quòd sicubi erratum fuerit, facile ignoscet is, quilibellum hunc non in Anglia, sed in Germania à Germanis, Christianae charitatis causa, excusum memine<g ref="char:EOLhyphen"/>rit, Augustae, 20. Septembris. Anno 1614.</p>
+   <closer>
+      <signed>Georg. Mayr.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

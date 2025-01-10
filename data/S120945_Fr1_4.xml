@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A BRIEF DESCRIPTION OF THE VVHOLE VVORLD.</title>
+           <author>V., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120945_Fr1_4</idno>
+           <idno type="DLPS">A08538</idno>
+           <idno type="STC">18857</idno>
+           <idno type="ESTC">S120945</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A BRIEF DESCRIPTION OF THE VVHOLE VVORLD.</title>
+                 <author>V., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An epitome of Ortelivs his Theatre of the vvorld : vvherein the principal regions of the earth are described in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then the lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions</title>
+                 <author>Ortelius, Abraham</author>
+                 <imprint>
+                    <publisher>Swingen (Swingenius), Hendrik</publisher>
+                    <distributor>Norton, John 1</distributor>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>4, 110, 3, 13, 1 leave, maps (metal cuts), oblong 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="5"/>
+   <head>A BRIEF DESCRIPTION OF THE VVHOLE VVORLD.</head>
+   <head type="sub">As a preface to the reader.</head>
+   <p>IT is agreed on by all Cosmographers that the whole world is round, &amp; it is cōpact in that perfect figure, by the Almighty maker &amp; author of all perfectiō.</p>
+   <p>It is surely a mirrour of moste great admyration, wherein the vnsearchable scyence of the all-surpasling Artizan is to bee seene, as also the greatnesse of himself in so great omnipotencie. And rather might it seeme a point of faith and belief to hold that the earth depending on nothing should bee so immoueable, &amp; beeing round, the oposite inhabitāts vnder different horisons; to bee antipodes the one vnto the other, but that experience and proof (and not belief and faith) hath taught it vnto vs.</p>
+   <p>How at the begining the earth was deuided from the sea; is altogether vnknowne, but by the deluge the limits of sea &amp; land haue doubtlesse bene much altered, &amp; sundry regions through the extraordinary violence of the moste forceible elements haue since that tyme bene also greatly changed. As they are at this present, the heer-presented mappe in general, &amp; those that ensue in particular wil demonstrate, to the which I refer the courteous reader, &amp; thus leauing the<g ref="char:EOLhyphen"/>same to his best comoditie, with desyre to be excused for such breuitie as in the descriptions I haue bene constrayned to vse, I humbly take my leaue.</p>
+   <closer>
+      <signed>R. V.</signed>
+   </closer>
+   <epigraph>
+      <bibl>M. Tullius Cicero.</bibl>
+      <q>
+         <p>The horse is created to beare &amp; to dravv: the ox to til &amp; to labor the earth: the dog to hunt and to gard the hovvs. But man to consider &amp; contemplate vvith the eyes of his vnder<g ref="char:EOLhyphen"/>standing the disposition of the vvhole vvorld▪</p>
+      </q>
+   </epigraph>
+   <trailer type="illustration">
+      <figure>
+         <pb n="1" facs="5"/>
+         <head>THE DESCRIPTION OF THE EARTH.</head>
+         <head>TYPVS ORBIS TERRARVM</head>
+         <figDesc>projection map of the earth</figDesc>
+      </figure>
+   </trailer>
+</div>
+        </body>
+  </text>
+</TEI>

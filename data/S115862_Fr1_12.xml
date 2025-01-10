@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115862_Fr1_12</idno>
+           <idno type="DLPS">A20469</idno>
+           <idno type="STC">688</idno>
+           <idno type="ESTC">S115862</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe introduction to syntax : Compendiously shewing the true vse, grounds, and reason of Latin construction. Collected for the most part out of Nabrissa his Spanish copie. With the concordance supplyed, by I.H. med. doct. Together with the more difficult assertions, proued by the vse of the learned languages</title>
+                 <author>Nebrija, Antonio de</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <distributor>Emerson (Emondson, Edmonds), Godfrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>40, 110 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="17"/>
+   <opener>
+      <salute>Clarissime Domine:</salute>
+   </opener>
+   <p>QVantum respublica literaria solerti in<g ref="char:EOLhyphen"/>dustriae tuae debeat, non tyrones modo, qui in literarum elementis haesitabundi ad fa<g ref="char:EOLhyphen"/>stidum usque desudant, sine re, sine spe: Sed &amp; veterani etiam, qui cum compendium &amp; per<g ref="char:EOLhyphen"/>spicuitatem methodi tuae cum prioris aevi dis<g ref="char:EOLhyphen"/>pendio &amp; obscuritate aequa libraverint lance, benedicent Deo &amp; vigilijs tuis, qui è tene<g ref="char:EOLhyphen"/>brosa antiquitatis caligme lucem eruisti merė<g ref="char:EOLhyphen"/>diana clariorem, adeoque conspicuam, quòd lippus per eam deviare non poterit. Macte Domine, &amp; progredere bonis avibus, ita quòd non coëtanei tui tantum, sed &amp; nati natorum &amp; qui nascentur ab illis, ubertatem calami tui poterint redolere: In tractatu ho<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> quem ad me misisti intētus haesi, &amp; plurima reperi quae bonū commune meo iudicio multum possunt promo<g ref="char:EOLhyphen"/>vere; In cuius rei gratiam &amp; tuam, licet poesi nuntium misi, soluta tamen oratione, inter amantissimorum tui iudicia &amp; congratulatio<g ref="char:EOLhyphen"/>nes quin &amp; calculos meos subijcere non su<g ref="char:EOLhyphen"/>stinui.</p>
+   <closer>
+      <signed>
+         <hi>Amoris &amp; reverentiae ergo, Mich. Huggansonus.</hi> A cancellis Regijs.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

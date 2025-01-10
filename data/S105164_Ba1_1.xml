@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Boke to the Reader,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105164_Ba1_1</idno>
+           <idno type="DLPS">A19671</idno>
+           <idno type="STC">6094</idno>
+           <idno type="ESTC">S105164</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Boke to the Reader,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The voyce of the laste trumpet blowen bi the seue [n] th angel (as is me [n] tioned in the eleuenth of the Apocalips) : callynge al the estates of menne to the right path of their vocation, wherin are contayned xii. lessons to twelue seueral estates of menne, whych if they learne and folowe, al shal be well and nothynge amise</title>
+                 <author>Crowley, Robert</author>
+                 <imprint>
+                    <publisher>Grafton, Richard</publisher>
+                    <distributor>Crowley, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1549</date>
+                 </imprint>
+                 <extent>64 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>The Boke to the Reader,</head>
+   <l>☞ It pleased mine Autor to geue me to name</l>
+   <l>The voice of the laste trumpe (as Sainct Ihon doth write)</l>
+   <l>Thinking therby to auoide al the blame</l>
+   <l>That cōmunely chaunseth to suche m<gap reason="illegible" resp="#pdcc" extent="2 letters">
+         <desc>••</desc>
+      </gap> write</l>
+   <l>Plainly to such mē as walk not vpright</l>
+   <l>For truth getteth hatered of such as be il</l>
+   <l>And wyl suffer nothing that bridleth theyr wyll</l>
+   <pb facs="31"/>
+   <l>I sought do displease you, let me beare the wyre</l>
+   <l>For I am the doer of that which is done</l>
+   <l>I barcke at your faultes, but loth I am to byte</l>
+   <l>If by this barking ought might be won</l>
+   <l>And for this entent I was firste begon</l>
+   <l>That hearing your faultes ye might thē emende</l>
+   <l>And reigne with your maister Christe at the ende.</l>
+</div>
+        </body>
+  </text>
+</TEI>

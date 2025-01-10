@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117534_Fr4_2</idno>
+           <idno type="DLPS">A68747</idno>
+           <idno type="STC">22683</idno>
+           <idno type="ESTC">S117534</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The poore mans teares : opened in a sermon, pre-ched [sic] by Henrie Smith. Treating of almes deeds, and releeuing the poore</title>
+                 <author>Smith, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 <publisher>Wolfe (Woolfe), John.</publisher>
+                            <publisher>Wright, William 1</publisher>
+                        </imprint>
+                 <extent>2, 38, 2, 39-71, 71-75, 72-123 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb n="93" facs="52"/>
+   <head>To the Reader.</head>
+   <p>To controll those false copyes of this ser<g ref="char:EOLhyphen"/>mon,
+which were printed without my
+knowledge, (patched) as it seemeth out of
+some borrowed notes,<note place="margin">Gen. 43. 11.</note> and to stop the prin<g ref="char:EOLhyphen"/>ting
+of it again without my corrections, as
+it was intēded, because they had got it licē<g ref="char:EOLhyphen"/>ced
+before, although vt <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>erly vnwilling for
+some respectes to haue it published, whiche
+made me withstand their importunitie so
+long, yet seeing more inconuenience then I
+thought of, I suffered that which I could
+not hinder. And nowe hoping that it is
+Gods will to profite some by it, as <hi>Iacob</hi>
+parted from <hi>Beniamin,</hi> so that which
+must be, let be, and the Lord giue thee a
+blessing with it.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ The Preface.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102193_Fr1_3</idno>
+           <idno type="DLPS">A15585</idno>
+           <idno type="STC">25850</idno>
+           <idno type="ESTC">S102193</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ The Preface.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The construction, and vse of the line of proportion : By helpe whereof the hardest questions of arithmetique &amp; geometry, as well in broken as whole numbers, are resolved by addition and subtraction. By Edm: Wingate, gent</title>
+                 <author>Wingate, Edmund</author>
+                 <imprint>
+                    <publisher>Dawson, John 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 </imprint>
+                 <extent>4, 20 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="4"/>
+   <pb facs="4"/>
+   <head>¶ The Preface.</head>
+   <p>
+      <seg rend="decorInit">H</seg>AVING not many moneths agoe publi<g ref="char:EOLhyphen"/>shed a discourse, decla<g ref="char:EOLhyphen"/>ring the nature and vse of the Logarithmeticall Tables, and observing the Table of Numbers there to be too small for or<g ref="char:EOLhyphen"/>dinary vse, not giving indeed without much difficultie the Logarithme of a<g ref="char:EOLhyphen"/>ny number that exceeds 1000; I haue invented this tabular Scale, or <hi>Line of Proportion,</hi> by meanes whereof (as I take it) you shall find that defect fully supplyed: this Instrument yeelding you the resolution of the hardest que<g ref="char:EOLhyphen"/>stions of Arithmetique or Geometry, both in broken, and whole Numbers, onely by Addition and Substraction, when the terme required happens not to exceed 10000. although the termes propounded consist of never so many places, as shall further appeare by the Treatise following.</p>
+</div>
+        </body>
+  </text>
+</TEI>

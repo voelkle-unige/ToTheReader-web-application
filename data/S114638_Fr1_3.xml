@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>William Hitchockes Gent.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114638_Fr1_3</idno>
+           <idno type="DLPS">A09553</idno>
+           <idno type="STC">19832</idno>
+           <idno type="ESTC">S114638</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>William Hitchockes Gent.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The philosopher of the court, written by Philbert of Vienne in Champaigne, and Englished by George North, gentlema [n]</title>
+                 <author>Philibert, de Vienne</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 <publisher>Bishop, George.</publisher>
+                            <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Harrison, Luke (Lucas).</publisher>
+                            <publisher>Woodcock, Thomas</publisher>
+                        </imprint>
+                 <extent>20, 114, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Book industry, catalogues and inventories</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>William Hitchockes Gent.</head>
+   <lg>
+      <l>THE pricking spurre doth keepe the trampling steed in awa,</l>
+      <l>The haling horse is driuen, with lashing whi<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> to drawe,</l>
+      <l>The <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>earing Asse is forst, by brusing bat to toyle,</l>
+      <l>The pearcing goade doth make the painefull Oxe to moyle:</l>
+      <l>The goade, the whip, the bat, and spur, which only driue</l>
+      <l>To tende the painefull path where vertue wonts to liue,</l>
+      <l>Is praise: why then giue praise (which is the good and spur,</l>
+      <l>The whip and bat whereby each doth in vertue stur)</l>
+      <l>To him that did translate: thy selfe shalt thereby gaine</l>
+      <l>To force him for thy sake, to take much greater paine.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

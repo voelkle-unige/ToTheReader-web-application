@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Advert For Mathematical Instruments]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113513_Ba1_2</idno>
+           <idno type="DLPS">A08588</idno>
+           <idno type="STC">18901</idno>
+           <idno type="ESTC">S113513</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Advert For Mathematical Instruments]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The nevv artificial gauging line or rod : together with rules concerning the use thereof: invented and written by William Oughtred. who in all due and respective observance præsenteth the same to the Right Honourable LL. Sir Nicolas Rainton Lord Major of London for this præsent yeare, and Ralfe Freeman Alderman Lord Major elect for the yeare now ensuing. and to the Worshipfull George Ethrege the late Master, and Captaine Iohn Miller the præsent Master of the Company of Vinteners. And to the whole body of that right worshipfull societie</title>
+                 <author>Oughtred, William</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>2, 40, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="advert_for_mathematical_instruments">
+   <pb facs="23"/>
+   <p>THese Instruments are made in brasse by <hi>Elias Allen</hi> over against St. <hi>Clements</hi> Church with<g ref="char:EOLhyphen"/>out Temple-barre: where also those who are desirous may bee instructed in the practicall use thereof: and such as shall have occasion may have vessels gauged.</p>
+   <pb facs="23"/>
+</div>
+        </body>
+  </text>
+</TEI>

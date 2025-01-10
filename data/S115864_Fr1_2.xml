@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Encomium]</title>
+           <author>Anyan, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115864_Fr1_2</idno>
+           <idno type="DLPS">A20573</idno>
+           <idno type="STC">698</idno>
+           <idno type="ESTC">S115864</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Encomium]</title>
+                 <author>Anyan, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A sermon preached at Saint Marie Spittle April. 10. 1615. By Thomas Anyan Doctour of Divinity, and president of Corpus Christi College in Oxon</title>
+                 <author>Anyan, Thomas</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>4, 42 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <p>
+      <pb facs="2"/>
+HONORATISSIMO, ET ILLVSTRIS<g ref="char:EOLhyphen"/>SIMO VIRO, THOMae EGERTONO, MILI<g ref="char:EOLhyphen"/>TI AVRATO, BARONI DE ELLESMERE, TOTIVS ANGLIAE, ET ACADEMIAE OXONIENSIS CANCELLARIO SVM<g ref="char:EOLhyphen"/>MO ET INTEGERRIMO, MVSARVM GRATIARVMQVE PATRONO SIN<g ref="char:EOLhyphen"/>GVLARI, SACRATAE REGIAE MA<g ref="char:EOLhyphen"/>IESTATI A SECRETIS CONSILIIS INTER PRIMOS SPECTATISSIMO, DOMINOQVE SVO OMNI OBSER<g ref="char:EOLhyphen"/>VANTIA COLENDISSIMO, LEVI<g ref="char:EOLhyphen"/>DENSE HOC DEVOTISSIMI OBSE<g ref="char:EOLhyphen"/>QVII TESTIMONIVM <hi>D. D. D.</hi>
+   </p>
+   <closer>
+      <signed>Capellanus Honori Tuo Devinctissimus
+T. A.</signed>
+   </closer>
+   <pb facs="3"/>
+</div>
+        </body>
+  </text>
+</TEI>

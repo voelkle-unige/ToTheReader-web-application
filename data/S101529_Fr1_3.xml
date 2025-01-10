@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1567</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101529_Fr1_3</idno>
+           <idno type="DLPS">B15339</idno>
+           <idno type="STC">20072</idno>
+           <idno type="ESTC">S101529</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The amorous and tragicall tales of Plutarch : wherevnto is annexed the hystorie of Cariclea &amp; Theagenes, and the sayings of the Greeke philosophers. Translated by Ia. Sanford</title>
+                 <author>Plutarch</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1567</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Maylard (Maylerd), Leonard</publisher>
+                        </imprint>
+                 <extent>5, 40, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="6"/>
+   <lg>
+      <l>THe learned Poet for his badge</l>
+      <l>doth giue the whitish Swanne,</l>
+      <l>The spreading Eagle for his badge</l>
+      <l>doth claime the valiaunt man,</l>
+      <l>But auncient <hi>PAWLETS</hi> prowesse hath</l>
+      <l>in <hi>Mars</hi> his bloudie fight,</l>
+      <l>A warlike wight bereft of life</l>
+      <l>and yet put not to flight.</l>
+      <l>The Harnest arme, the Arming sword,</l>
+      <l>in hand yclapsed fast,</l>
+      <l>Declare the same, and is a signe</l>
+      <l>of worthie feates ypast.</l>
+      <l>A valiant, warlike noble man</l>
+      <l>in Chiualrie is he,</l>
+      <l>Therfore the Eagle fierce and bolde</l>
+      <l>in badge may giuen be.</l>
+   </lg>
+   <closer>
+      <signed>A.v.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

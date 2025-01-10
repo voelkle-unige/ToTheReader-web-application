@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Author.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1550</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103827_Bo1_2</idno>
+           <idno type="DLPS">A05039</idno>
+           <idno type="STC">15181</idno>
+           <idno type="ESTC">S103827</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Author.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of predestination [and] election made by Joh [a] n Lamberd minister of the church of Elham. Anno M.D.L</title>
+                 <author>Lambert, John, minister of Elham</author>
+                 <imprint>
+                    <publisher>Mychell (Michell), John</publisher>
+                    <pubPlace>Great Britain--England--Canterbury</pubPlace>
+                    <date>1550</date>
+                 </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_reader">
+   <pb facs="11"/>
+   
+   <head>The Author.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Haue declared my iudge<g ref="char:EOLunhyphen"/>ment which is but small, concernynge predestina<g ref="char:EOLhyphen"/>cion and the foreknoweledge of God. Therfore gentle reader ac<g ref="char:EOLhyphen"/>cepte my good wyll, and where as you se a faute in my buyldynge that frames not to youre mynde, accepte my meanyng I pray you, and cauyll not, for I am not ob<g ref="char:EOLhyphen"/>stynat, but wyllynge to knowe the truthe: And as nyghe as I canne Goddes lyuely worde shall be the foundacion wheron I entende to buylde at any tyme. Euery good gyfte, and euery perfyte gyfte, is from aboue, and commeth downe from the father of lyghte. Ther<g ref="char:EOLhyphen"/>fore let vs alwayes thynke that the goodnes that we haue or shall haue commeth of God and not of
+<pb facs="11"/>
+      
+our selues to whome be all honor, and glory.</p>
+   <closer>AMEN<lb/>
+Geue the prayse to God.<lb/>
+Domine saluum fac regem.</closer>
+   <epigraph>
+      <q>
+         <l>Non mortui laudabunt te domine: neque</l>
+         <l>omnes qui descendunt in infernum.</l>
+         <l>Sed nos qui viuimus benedicimus domi<g ref="char:EOLhyphen"/>no:</l>
+         <l>ex hoc nunc et vsque in seculum.</l>
+      </q>
+   </epigraph>
+</div>
+        </body>
+  </text>
+</TEI>

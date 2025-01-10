@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶Guilielmi Attersollj, in Ru¦thae Explicationes carmen Encomiasticon.</title>
+           <author>Attersoll, G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105980_Fr1_4</idno>
+           <idno type="DLPS">A13823</idno>
+           <idno type="STC">24127</idno>
+           <idno type="ESTC">S105980</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶Guilielmi Attersollj, in Ru¦thae Explicationes carmen Encomiasticon.</title>
+                 <author>Attersoll, G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The revvard of religion : Deliuered in sundrie lectures vpon the booke of Ruth, wherein the godly may see their daily and outwarde tryals, with the presence of God to assist them, and his mercies to recompence them: verie profitable for this present time of dearth, wherei manye are most pittifully tormented with want; and also worthie to bee considered in this golden age of the preaching of the word, when some vomit vp the loathsomnes therof, and others fall away to damnable securitie</title>
+                 <author>Topsell, Edward</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>48, 311, 1 page, 1 leaf of plates, table, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="19"/>
+   <head>¶Guilielmi Attersollj, in Ru<g ref="char:EOLunhyphen"/>thae Explicationes carmen Encomiasticon.</head>
+   <l>
+      <seg rend="decorInit">E</seg>N Pietatis Honos: en sic in regna reponit,</l>
+   <l>Quos{que} tulit casus, abstulit ipse Deus.</l>
+   <l>En Rutha, en Naomi, per tot discriminare<g ref="char:EOLhyphen"/>rum</l>
+   <l>In sanctum tendunt, regna{que} sancta, solum.</l>
+   <l>Nec te (<hi>Rutha</hi>) Moab distendit amore tuorum,</l>
+   <l>Nec colere ignotos barbara terra deos:</l>
+   <l>Gens inimica Deo, Legem{que} deum{que} sequuta,</l>
+   <l>Praemia quaesitis diuitiora tenes.</l>
+   <l>Quis te magne Bohaz tacitum sine laude relinquat?</l>
+   <l>Quid prohibet castis nomen inesse tuum?</l>
+   <l>Coniugio foelix, Rutham miseratus egentem:</l>
+   <l>Nomen ab insigni posteritate feres.</l>
+   <l>Vade liber, liber titulum{que} expande decorum,</l>
+   <l>Materiâ titulo conuenie<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>te suo.</l>
+   <l>Hîc quo{que} zelus inest: quis enim celauerit ignem?</l>
+   <l>Eminet ê proprio prodita flamma loco.</l>
+   <l>
+      <pb facs="20"/>His simul exemplis, matres, viduae{que} nepotes</l>
+   <l>Instruite, &amp; natos (pignora chara) rudes.</l>
+   <l>Vtilitas duplex partes se sistit in omnes,</l>
+   <l>Vtilis iste liber: vtilis iste labor.</l>
+   <signed>G. ATTERSOLL.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

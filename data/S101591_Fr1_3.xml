@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Robinson, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101591_Fr1_3</idno>
+           <idno type="DLPS">A10857</idno>
+           <idno type="STC">21128</idno>
+           <idno type="ESTC">S101591</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Robinson, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The schoole of musicke : wherein is taught, the perfect method, of true fingering of the lute, pandora, orpharion, and viol de gamba; with most infallible generall rules, both easie and delightfull. Also, a method, how you may be your owne instructer for prick-song, by th help of your lute, without any other teacher: with lessons of all sorts, for your further and better instruction. Newly composed by Thomas Robinson, lutenist</title>
+                 <author>Robinson, Thomas</author>
+                 <imprint>
+                    <publisher>East (Est, Este), Thomas</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>56 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ight courteous Gentlemen, and gentle Readers, your fauourable acceptance of my first fruits from idlenesse, hath eccited mee further to congratulate your Musicall endeauours. And in my conceit, I can no way better fit your good and willing mindes, then in shewing you how you may very soone, and very perfectly instruct your selues to play (vpon your best beloued instrument) the <hi>Lute,</hi> also the <hi>Orpharion, Pandora,</hi> and <hi>Viol de Gamba,</hi> any lesson (if it bee not too too trickified) at the first sight. But bee it as it bee may, you shall haue rules of reason, to ouer-rule vnreasonable odd Cratchets, giue<g ref="char:EOLhyphen"/>ing you to vnderstand, that what is beyond the true course of Nature, must needes bee without all compasse of Art; and withall, nothing out-runneth Nature but Follie: so much for that.</p>
+   <p>Also (for example sake) I haue set some lessons of all sorts: whereof some being old, I was requested to set them new after my fashion, some new out of the fat, some neither very new, nor very old, but yet all mine owne setting, and the most of them, mine owne inuention.</p>
+   <p>But Gentlemen, once more I will make you promise, that if these Ma<g ref="char:EOLhyphen"/>sterlike rules, and Scholerlike lessons, doe but any whit content you. I will come forth, <hi>With Cracke mee this Nut,</hi> (I meane) onely lessons for one, two, and three Lutes, and some with ditties, wherein I will striue either (for euer) to winne your fauours, or starue in the dole of your disgrace. <hi>Vale.</hi>
+   </p>
+   <closer>
+      <signed>More for you, than for him-selfe, Thomas Robinson.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

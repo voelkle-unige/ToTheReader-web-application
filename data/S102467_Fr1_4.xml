@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1534</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102467_Fr1_4</idno>
+           <idno type="DLPS">A68940</idno>
+           <idno type="STC">2826</idno>
+           <idno type="ESTC">S102467</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The newe Testament : dylygently corrected and compared with the Greke by Willyam Tindale: and fyneshed in the yere of oure Lorde God. A. M.D.&amp;.xxxiiii. in the moneth of Nouember</title>
+                 <imprint>
+                    <publisher>Keyser (Caesar, Lempereur), Merten de</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1534</date>
+                 </imprint>
+                 <extent>16, ccxlviii, ccli-ccccii, 8 leaves, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <p>¶ A warninge to y<seg rend="sup">e</seg> reader if ought be scaped thorow necligence of the prynter / as this text is y<seg rend="sup">t</seg> foloweth / which if thou fynde anye more soche: cōpare y<seg rend="sup">e</seg> englyshe to y<seg rend="sup">e</seg> other bookes that are all readye prynted / &amp; so shalt thou perceaue the truthe of the ynglish.</p>
+   <p>In the xxiii. chapter of Mathew &amp; in the xxxiii leffe on the seconde syde and last lyne / reade the sentence thus. Thou blynde phari<g ref="char:EOLunhyphen"/>saye / clense fyrst the ynnesyde of the cup and platter / that the outsyde of them maye be cle<g ref="char:EOLunhyphen"/>ne also.</p>
+</div>
+        </body>
+  </text>
+</TEI>

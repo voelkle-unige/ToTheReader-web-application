@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Preface]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1543</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120429_Fr1_2</idno>
+           <idno type="DLPS">A04430</idno>
+           <idno type="STC">14556</idno>
+           <idno type="ESTC">S120429</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Preface]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Our sauiour Iesus Christ hath not ouercharged his chirche with many ceremonies</title>
+                 <imprint>
+                    <publisher>Ruremund (Endoviensis), Catherine van</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1543</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prefaces &amp; Introductions</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="preface">
+   <pb facs="2"/>
+   <p>
+      <seg rend="decorInit">I</seg>T behoueth / and it is necessary also: That euerye Christen mā know &amp; beleue / owr lord Iesus Christe not to haue ouerchar<g ref="char:EOLhyphen"/>ged his chirche with ouer ma<g ref="char:EOLhyphen"/>ny ceremonies / rites / lawes and preceptes. And also to knowe which be the principall lessons / doctrines / and preceptes all redy in nowmbre / concerning the verye trwe wor<g ref="char:EOLhyphen"/>ship of god / and owr christen religion: whereby the cōgregaciō of christe is so perfytely and sufficiēt<g ref="char:EOLhyphen"/>ly enstruct / that we can / ne oughte not to seke for / or desyer anye more.</p>
+</div>
+        </body>
+  </text>
+</TEI>

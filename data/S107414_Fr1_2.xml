@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107414_Fr1_2</idno>
+           <idno type="DLPS">A17872</idno>
+           <idno type="STC">4539</idno>
+           <idno type="ESTC">S107414</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The description of a maske: presented in the Banqueting roome at Whitehall, on Saint Stephens night last : at the mariage of the Right Honourable the Earle of Somerset: and the right noble the Lady Frances Howard. Written by Thomas Campion. Whereunto are annexed diuers choyse ayres composed for this maske that may be sung with a single voyce to the lute or base-viall</title>
+                 <author>Campion, Thomas</author>
+                 <imprint>
+                    <distributor>Lisle (L’isle, Lyle), Laurence</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>28 pages, letterpress music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                    <term>Games and recreations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="quotations">
+   <lg>
+      <pb facs="2"/>
+      <l>Pulchro pulchra datur, sociali faedere amanti</l>
+      <l>Tandem nubit amans; ecquid amabilius?</l>
+   </lg>
+   <lg>
+      <l>Verae vt super sint nuptiae</l>
+      <l>Praeite duplici face:</l>
+      <l>Praetendat alteram necesse</l>
+      <l>Hymen, alteram par est Amor.</l>
+   </lg>
+   <lg>
+      <l>Vniego mallemplacuisse docto,</l>
+      <l>Candido, et fastu sine iudicanti,</l>
+      <l>Millium quam millibus imperitorum</l>
+      <l>In{que} iudentûm.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

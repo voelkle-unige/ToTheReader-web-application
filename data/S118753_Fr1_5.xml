@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In delicatum Lectorem, è MART.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118753_Fr1_5</idno>
+           <idno type="DLPS">A14083</idno>
+           <idno type="STC">24393</idno>
+           <idno type="ESTC">S118753</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In delicatum Lectorem, è MART.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Asylum veneris, or A sanctuary for ladies : Iustly protecting them, their virtues, and sufficiencies from the foule aspersions and forged imputations of traducing spirits</title>
+                 <author>D. T. (Daniel Tuvill)</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Lisle (L’isle, Lyle), Laurence</publisher>
+                        </imprint>
+                 <extent>14, 64, 75-162 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>In delicatum Lectorem, è MART.</head>
+   <lg>
+      <l>COnsumpta est vno si lēmate pagina transis,</l>
+      <l>Et breuiora tibi, non meliora, placent.</l>
+      <l>Diues, &amp; ex omni posita est instructa macello</l>
+      <l>Coena tibi; sed te mattya sola juuant:</l>
+      <l>Non opus est nobis nimium lectore guloso;</l>
+      <l>Hunc volo, qui fiat, non sine pane, satur.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1531</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109050_Fr1_3</idno>
+           <idno type="DLPS">A22061</idno>
+           <idno type="STC">845</idno>
+           <idno type="ESTC">S109050</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The letters which Iohan Ashwel priour of Newnham Abbey besids Bedforde, sente secretely to the Bishope of Lyncolne : in the yeare of our lord M.D.xxvii. Where in the sayde priour accuseth George Ioye that tyme beinge felawe of Peter college in Cambridge, of fower opinio [n] s: with the answer of the sayed George vn to the same opinions</title>
+                 <author>Joye, George</author>
+                 <imprint>
+                    <publisher>Keyser (Caesar, Lempereur), Merten de</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1531</date>
+                 </imprint>
+                 <extent>48+ pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <q>
+      <p>¶Tandem vincat veritas.
+At laste y<seg rend="sup">e</seg> truthe will haue y<seg rend="sup">e</seg> victorye.</p>
+   </q>
+   <q>
+      <p>¶Qui operit odiū suū fraudulenter: re<g ref="char:EOLunhyphen"/>uelabitur
+malicia ei{us} in cetu. <bibl>Prouer. 26</bibl>
+He y<seg rend="sup">t</seg> kouereth his hatered to hurte a no<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>ther:
+his malice shalbe openly declared.</p>
+   </q>
+   <q>
+      <p>¶Qui voluit lapidē: reuertetur<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+         <gap reason="illegible" resp="#tech" extent="1 word">
+            <desc>〈◊〉</desc>
+         </gap>
+         <bibl>Prouerb .xxvj.</bibl> He that rolleth a stone
+shall haue it rolled him agene.</p>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

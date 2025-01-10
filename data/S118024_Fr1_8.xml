@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Jo: Guilliams Gent. vpon the ancient nine Worthies.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118024_Fr1_8</idno>
+           <idno type="DLPS">A00982</idno>
+           <idno type="STC">11087</idno>
+           <idno type="ESTC">S118024</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Jo: Guilliams Gent. vpon the ancient nine Worthies.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The nine English worthies: or, Famous and worthy princes of England : being all of one name; beginning with King Henrie the first, and concluding with Prince Henry, eldest sonne to our Soueraigne Lord the King</title>
+                 <author>Fletcher, Robert, purveyor of carriages to Queen Elizabeth</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Harrison, John 2.</publisher>
+                            <publisher>Lownes, Humphrey 1</publisher>
+                        </imprint>
+                 <extent>20, 52 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="8"/>
+   <head>Jo: Guilliams <hi>Gent. vpon the</hi> ancient nine Worthies.</head>
+   <lg>
+      <l>THe drift and scope of princely Subiect this</l>
+      <l>Is bent to very perfect honest end.</l>
+      <l>The Writer thought, he could not write amisse,</l>
+      <l>In writing that which formerly was pend.</l>
+      <l>Nine former Worthies Stories theirs extend</l>
+      <l>Some of them vp to heauen, with endlesse praise:</l>
+      <l>All of them liv'd most worthy in their dayes.</l>
+      <l>But all were not of one, nor oneselfe sort:</l>
+      <l>Three excellents, of God ordaind before:</l>
+      <l>Three other valiant, famous by report.</l>
+      <l>The first three Kings, one Prophet, valour store:</l>
+      <l>All three commended heauenly vertues lore.</l>
+      <l>Three other were profane, but valiant men:</l>
+      <l>Three Christian Kings, that vsed pike for pen.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

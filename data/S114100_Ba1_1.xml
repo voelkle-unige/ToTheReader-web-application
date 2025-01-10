@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114100_Ba1_1</idno>
+           <idno type="DLPS">A11461</idno>
+           <idno type="STC">21711</idno>
+           <idno type="ESTC">S114100</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Of romanizing recusants, and dissembling Catholicks. A counter-maund of a counterfeit embassage. Or, An answer to the posthume pamphlet of Ralfe Buckland sometime a popish priest : secretly printed and published after his death about a yeere a goe</title>
+                 <author>Sanderson, Thomas</author>
+                 <imprint>
+                    <publisher>Purfoot, Thomas 2</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>16, 99, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="59"/>
+   <q>
+      <p>
+         <note place="margin">Jgnatius epist. 6. ad Philadel.</note>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</p>
+   </q>
+   <p>Brethren, be not deceiued: if any man fol<g ref="char:EOLhyphen"/>low him that deuideth him-selfe from the truth he shall not inherit the Kingdome of God. And yf any man withdraw not him<g ref="char:EOLhyphen"/>selfe from a false teaching or a lying Prea<g ref="char:EOLhyphen"/>cher, he shall be condemned into Hell. For neither ought we to depart from the godly; neither to haue conuersation with the vn<g ref="char:EOLhyphen"/>godly.</p>
+</div>
+        </body>
+  </text>
+</TEI>

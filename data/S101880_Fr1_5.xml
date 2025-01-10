@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>M., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101880_Fr1_5</idno>
+           <idno type="DLPS">B13511</idno>
+           <idno type="STC">10693</idno>
+           <idno type="ESTC">S101880</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>M., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Kalendarium humanæ vitæ. = The kalender of mans life. Authore Roberto Farlæo. Scoto Britanio</title>
+                 <author>Farley, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Hope, William</publisher>
+                        </imprint>
+                 <extent>152 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Calendars, almanacs and prognostications</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>To the Author.</head>
+   <lg>
+      <l>SOme use to flatter worth by too much Praise;</l>
+      <l>Who rather doe detract than give him Bayes,</l>
+      <l>Who merits it: And some againe betray</l>
+      <l>Like some course Prologue to a courser Play)</l>
+      <l>The Authors Subject; both are bad: but I</l>
+      <l>Will none of both: rather I will belye</l>
+      <l>
+         <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>esert, and say this Poeme speakes thee vaine:</l>
+      <l>For to speake truth, I'm angry with thy Straine;</l>
+      <l>For that it is so short: (though sweete) expect,</l>
+      <l>
+         <gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>le taxe thee alwayes with that small defect.</l>
+      <l>Yet (out of Policie) perhaps thy Lyre</l>
+      <l>Thou layd'st aside so soone, least we Expire;</l>
+      <l>And the chiefe cause proceede from thence: For 'tis</l>
+      <l>Certaine, as too much griefe is mortall, so of blisse.</l>
+      <l>All I will say, is, my beleefe is such</l>
+      <l>That after-times will thanke thee for this touch:</l>
+      <l>And such my Charity, I wish it may</l>
+      <l>Out live the last, and longest Summers day,</l>
+      <l>And that this present Age, may please to give</l>
+      <l>It pleasant smiles; and helpe its Hope to live.</l>
+   </lg>
+   <closer>
+      <signed>H. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Zoilum Authoris Epigramma.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106084_Fr1_4</idno>
+           <idno type="DLPS">A09192</idno>
+           <idno type="STC">19500</idno>
+           <idno type="ESTC">S106084</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Zoilum Authoris Epigramma.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The art of dravving vvith the pen, and limming in water colovrs : more exactlie then heretofore tavght and enlarged: with the true manner of painting vpon glasse, the order of making your furnace, annealing, &amp;c. Published, for the behoofe of all young gentlemen, or any els that are desirous for to become practicioners in this excellent, and most ingenious art, by H. Pecham, gent</title>
+                 <author>Peacham, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>Jones, William 2</publisher>
+                        </imprint>
+                 <extent>8, 70, that is 71, 1 page, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigram">
+   <head>Ad Zoilum Authoris Epigramma.</head>
+   <lg>
+      <l>Zoile vicatim dum Criticus omnia lustras,</l>
+      <l>blattaque liuenti dente alien<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap> vor as:</l>
+      <l>Usque licet nostrum ieiunus rode libellum</l>
+      <l>qui tibi (ni fallor) mille venena dabit.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

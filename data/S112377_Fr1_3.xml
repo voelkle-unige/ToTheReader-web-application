@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HONOVRABLE, Sir THOMAS IERMYN, Vice-cham∣berlaine, and one of his Majesties most Honourable Privie Councell.</title>
+           <author>Jones, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112377_Fr1_3</idno>
+           <idno type="DLPS">A04619</idno>
+           <idno type="STC">14739.5</idno>
+           <idno type="ESTC">S112377</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HONOVRABLE, Sir THOMAS IERMYN, Vice-cham∣berlaine, and one of his Majesties most Honourable Privie Councell.</title>
+                 <author>Jones, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A commentary vpon the Epistles of Saint Paul to Philemon, and to the Hebrewes : together with a compendious explication of the second and third Epistles of Saint Iohn. By VVilliam Iones of East Bergholt in Suffolke, Dr. in Divinity, and sometimes one of the fellowes of th foundation of Emmanuel Colledge in Cambridge</title>
+                 <author>Jones, William</author>
+                 <imprint>
+                    <distributor>Allott, Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Allott, Mary.</publisher>
+                            <publisher>Badger, Richard 1</publisher>
+                        </imprint>
+                 <extent>8, 61, 1, 61-157, 178-340, 343-653, 3, 661-710, 22 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>TO THE RIGHT HONOVRABLE, Sir THOMAS IERMYN, <hi>Vice-cham<g ref="char:EOLhyphen"/>berlaine,</hi> and one of his Majesties most Honourable Privie Councell.</head>
+   <opener>
+      <salute>RIGHT HONOVRABLE,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">Y</seg>Our wits, endowments, toge<g ref="char:EOLhyphen"/>ther with other naturall parts sutable unto them I have al<g ref="char:EOLhyphen"/>wayes admired: but especially since your comming to the Vniversitie being then most conspicuous. To testifie my dutifull respect to you, and your vertuous Lady, having interpreted the two short Epistles of S<seg rend="sup">t</seg>. <hi>Iohn,</hi> and that of Saint <hi>Paul</hi> to <hi>Philemon</hi>: I thought good to dedicate them to you and her, for you resemble the man, and she the woman, to whom Saint <hi>Iohn</hi> writeth: And that to <hi>Philemon</hi> being <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, as the word importeth, doth most fitly a<g ref="char:EOLhyphen"/>gree to you. <hi>Zeno</hi> asked of the Oracle, how he
+<pb facs="4"/>
+might live best, Answer was made him, <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>: if he were of the same color with the dead: Vpon that he fell a reading of the Anci<g ref="char:EOLhyphen"/>ents: And in the interpretation of these Epistles, I have followed (as you shall see) the judge<g ref="char:EOLhyphen"/>ment of the Ancients. Thus I humbly take my leave, commending your honour to the Almighty.</p>
+   <closer>
+      <dateline>
+         <hi>From East</hi> Bergholt <hi>in</hi> Suffolke.</dateline>
+      <signed>Your Honours in all humble service, WILLIAM IONES.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

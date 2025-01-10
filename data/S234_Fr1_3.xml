@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To him that will read this Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S234_Fr1_3</idno>
+           <idno type="DLPS">A73862</idno>
+           <idno type="STC">7209</idno>
+           <idno type="ESTC">S234</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To him that will read this Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Moyses in a map of his miracles. By Michael Drayton Esquire</title>
+                 <author>Drayton, Michael</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Man, Thomas 1.</publisher>
+                            <publisher>Man, Thomas 2</publisher>
+                        </imprint>
+                 <extent>8, 89, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                    <term>Book industry, catalogues and inventories</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>To him that will read this Booke.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Eader, to thee that wilt not seeme too wise, nor art too singular, I thinke it not amisse in the behalfe of my Poem (to humble my selfe thus farre) the better to prepare thy opinion in the same: and to tell thee briefely, that whatsoeuer we haue from Historie, as from <hi>Iosephus, Lyra,</hi> or others of lesse authoritie: we vse rather as Iems and exteriour ornaments to beautifie our Subiect, than any way to mixe the same, with the solide bodie of that which is Canonicall and sacred. Though chusing rather to suite and pollish it with the colours and rarities of those ancient Writers that haue attended so long the worthines and anti<g ref="char:EOLhyphen"/>quitie thereof, than with any other habiliments of inuenti<g ref="char:EOLhyphen"/>on or Poesie, should they seeme neuer so delightfull, &amp; not disagreeing from the state &amp; dignitie of so sacred a Subiect as this is of ours. Those that haue accompanied vs in this kinde, is that Reuerende <hi>Hierony: Vida</hi> his <hi>Christeis,</hi> conteyning the life and miracles of <hi>Christ,</hi> that hath beene, and is, generally receiued through Christendome (and verie worthily.) <hi>Buchanan</hi> his Tragedie of <hi>Iephtha</hi> in ano<g ref="char:EOLhyphen"/>ther kinde, and <hi>Bartas</hi> his <hi>Iudeth.</hi> I could deriue thee a Ca<g ref="char:EOLhyphen"/>talogue of their like, though I cite these onely for the va<g ref="char:EOLhyphen"/>rieties. Thus requesting thee in reading to correct some fewe faultes that haue chanced to escape in the Presse, I bid thee farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

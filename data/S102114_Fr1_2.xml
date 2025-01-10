@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102114_Fr1_2</idno>
+           <idno type="DLPS">A00794</idno>
+           <idno type="STC">10912</idno>
+           <idno type="ESTC">S102114</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A catalogue of diuers visible professors of the Catholike faith : Which sheweth, that the Roman Church hath byn (as the true Church must be) continually visible, in all ages since Christ. Taken out of the appendix to the Reply of A.D. vnto M. Ant. Wotton, and M. Ioh. Whit ministers</title>
+                 <author>Fisher, John</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>15, 1 leave, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="2"/>
+   <gap reason="duplicate" extent="1 page">
+      <desc>〈1 page duplicate〉</desc>
+   </gap>
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>TO THE READER.</head>
+   <p>
+      <hi>GENTLE</hi> Reader, This ensuing Ca<g ref="char:EOLhyphen"/>talogue, hath byn greatly desyred by diuers friends to be printed alone, to the end, that when any Aduersarie of the Roman Church shall demaund (as the vse of many is to do now adayes) a visible succession of Pro<g ref="char:EOLhyphen"/>fessours of the Catholike Faith, throughout euery Age, all agreeing in one, &amp; the self same vnity of Faith and Beliefe, from Christ his time vnto ours; thou maist easily, &amp; without further seeking of other Authours, shew the same vnto him for his satisfactiō in this be<g ref="char:EOLhyphen"/>halfe. And if he cannot shew vnto thee a like succession of Professors of his Church &amp; Faith (as infallibly he will neuer be able to do) all a<g ref="char:EOLhyphen"/>greeing in the profession of one and the same Faith and beliefe from the beginning; then hast thou good reason not only not to credit, or harken vnto him, or his Church, but vnto the Catholike, one of whose speciall Markes, is this of visible Succession, which of how great importance the same is, and euer hath byn in the cōtrouersy of Catholik and Protestant be<g ref="char:EOLhyphen"/>liefe, I leaue to thy prudent Consideration.</p>
+</div>
+        </body>
+  </text>
+</TEI>

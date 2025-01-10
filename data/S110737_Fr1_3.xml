@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Reader.</title>
+           <author>Rowlands, Samuel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1608</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110737_Fr1_3</idno>
+           <idno type="DLPS">A11119</idno>
+           <idno type="STC">21386</idno>
+           <idno type="ESTC">S110737</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Reader.</title>
+                 <author>Rowlands, Samuel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Hvmors looking glasse</title>
+                 <author>Rowlands, Samuel</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1608</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Archer, Thomas.</publisher>
+                            <publisher>Ferbrand (Firebrand, Forbrand), William.</publisher>
+                            <publisher>Ferbrand (Firebrand, Forbrand), William</publisher>
+                        </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>Reader.</head>
+   <l>AS many antique faces passe,</l>
+   <l>From Barbers chaire vnto his glasse,</l>
+   <l>There to behold their kinde of trim,</l>
+   <l>And how they are reform'd by him,</l>
+   <l>Or at <hi>Exchang</hi> where Marchants greete,</l>
+   <l>Confusion of the tongues do meete,</l>
+   <l>As <hi>English, French, Italian, Dutch,</hi>
+   </l>
+   <l>
+      <hi>Spanish,</hi> and <hi>Scot'sh,</hi> with diuers such.</l>
+   <l>So from the Presse these papers come</l>
+   <l>To show the humorous shapes of some.</l>
+   <l>Heere are such faces good and bad,</l>
+   <l>As in a Barbers shop are had,</l>
+   <l>And heere are tongues of diuers kindes,</l>
+   <l>According to the speakers mindes.</l>
+   <l>Beholde their fashions, heare their voice,</l>
+   <l>And let discretion make thy choice.</l>
+   <closer>
+      <signed>SAMVELL ROWLANDS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

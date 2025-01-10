@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2289_Fr6_3</idno>
+           <idno type="DLPS">A10252</idno>
+           <idno type="STC">20534</idno>
+           <idno type="ESTC">S2289</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Divine poems : containing the history of Ionah. Ester. Iob. Sampson. Sions sonets. Elegies. Written and newly augmented, by Fra: Quarles</title>
+                 <author>Quarles, Francis</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Marriot, John.</publisher>
+                            <publisher>Marriot, John</publisher>
+                        </imprint>
+                 <extent>18, 266, 6, 267-502, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="144"/>
+   <l>
+      <hi>I</hi> Sing th' illustrious, and renowned Story</l>
+   <l>Of mighty <hi>Samson;</hi> The eternall glory</l>
+   <l>Of his Heroicke acts: His life, His death:</l>
+   <l>Quicken my Muse with thy diviner breath,</l>
+   <l>Great God of Muses, that my prosp'rous Ri<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>es</l>
+   <l>May live and last to everlasting times;</l>
+   <l>That they unborne may, in this sacred Story,</l>
+   <l>Admire thy goodnes, and advance thy glory.</l>
+</div>
+        </body>
+  </text>
+</TEI>

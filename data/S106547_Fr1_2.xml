@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106547_Fr1_2</idno>
+           <idno type="DLPS">A16830</idno>
+           <idno type="STC">3732</idno>
+           <idno type="ESTC">S106547</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The true souldiers convoy : A sermon preached upon the xvjth. day of May 1640, vpon a prayer day, for the Princes good successe in going forth to warre. By William Bridge</title>
+                 <author>Bridge, William</author>
+                 <imprint>
+                    <publisher>Dawlman (Dolman), Robert</publisher>
+                    <distributor>Lappadge, Thomas</distributor>
+                    <pubPlace>Netherlands--Rotterdam</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>110, that is 100, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb n="2" facs="2"/>
+   <head>To the Reader.</head>
+   <p>REader; out of desire to the good of Gods people, and in respect of these trouble-some times, it was thought not alto<g ref="char:EOLhyphen"/>gether unfit by some friends, to print these few notes, in reading of which thou art desired not to expect much compleatnes of de<g ref="char:EOLhyphen"/>pendency or stile, as not being or<g ref="char:EOLhyphen"/>dered to the presse by the author himselfe, but by a very weake hand: whatsoeuer therfore thou shalt find herein profitable, that improue: if any thing o<g ref="char:EOLhyphen"/>therwise, that couer by Christian loue and the God of loue be with thee Amen.</p>
+</div>
+        </body>
+  </text>
+</TEI>

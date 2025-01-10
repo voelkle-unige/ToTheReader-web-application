@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶To the ryght worshipfull syr Thomas Kemp Knyght.</title>
+           <author>Delapeend, T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1565</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105644_Fr1_2</idno>
+           <idno type="DLPS">A07434</idno>
+           <idno type="STC">17820</idno>
+           <idno type="ESTC">S105644</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶To the ryght worshipfull syr Thomas Kemp Knyght.</title>
+                 <author>Delapeend, T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The moste notable Historie of John Lorde Mandosse Translated from the Spanish by T. de la Peend</title>
+                 <imprint>
+                    <publisher>Colwell, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1565</date>
+                 </imprint>
+                 <extent>136+ pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>¶To the ryght worshipfull syr Thomas Kemp Knyght.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">R</seg>yght worshypfull syr,</salute>
+   </opener>
+   <p>whē thankful<g ref="char:EOLhyphen"/>nes had presented vnto mine eies the bookes: whearein the names of my frends are im<g ref="char:EOLunhyphen"/>prynted. I founde you for sun<g ref="char:EOLhyphen"/>drye causes possessyng an high place thearein. Whearfore, though it fall not to my fortune presently, to acquit &amp; discharge my duty: yet these, as certaine signe of my good will, to the vt<g ref="char:EOLunhyphen"/>termost of my small powre may grately you in the meane time. Which as they are (y<seg rend="sup">e</seg> simple fru<g ref="char:EOLunhyphen"/>tes of my small Orcheyard: the trauayle of my rude Muse) I
+<pb facs="4"/>
+to the iudgment of the learned and dyscreate Readers. Wish<g ref="char:EOLhyphen"/>ynge to your worshyppe per<g ref="char:EOLhyphen"/>feete felicytye.</p>
+   <closer>
+      <dateline>From the mydle Temple.</dateline>
+      <signed>Your kydesman: to commaund. <hi>T. Delapeend.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

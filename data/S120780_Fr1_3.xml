@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad studiosos Discipulos Hexasticon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120780_Fr1_3</idno>
+           <idno type="DLPS">A18242</idno>
+           <idno type="STC">4862</idno>
+           <idno type="ESTC">S120780</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad studiosos Discipulos Hexasticon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Cato in English verse : With a three-fold table directing to varietie. 1. Of lessons for all sorts of persons. 2. Of copies for writing-schollers. 3. Of poesies for the house and schoole. The second edition. With addition of proper titles or heads (answering the first table to euery distich for the more profitable vse of this worke, especially in the English schooles. By Iohn Penkethman louer of learning)</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 <publisher>Hawkins, Richard.</publisher>
+                            <publisher>Purslowe, George</publisher>
+                        </imprint>
+                 <extent>48 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Ad studiosos Discipulos Hexasticon.</head>
+   <lg>
+      <l>SJ dictata probis praeceptis vestra, vel aptis</l>
+      <l>Themmata dogmatibus non decorare piget:</l>
+      <l>Si cordi est vobis, comptos perdiscere mores,</l>
+      <l>Et bene viuendi noscere ritè viam:</l>
+      <l>Ʋt <hi>Cato</hi> praecepit Romanis, carmina, verbis,</l>
+      <l>Judice, maternis quaerite nostra, duce.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

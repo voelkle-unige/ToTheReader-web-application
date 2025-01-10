@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109201_Fr2_2</idno>
+           <idno type="DLPS">A19765</idno>
+           <idno type="STC">6192</idno>
+           <idno type="ESTC">S109201</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Christian hospitalitie : handled common-place-wise in the chappel of Trinity Colledge in Cambridge: whereunto is added, a short but honourable narration of the life and death of Mr Harrison, the late hospital vice-master of that royal and magnificent societie. By Caleb Dalechamp</title>
+                 <author>Dalechamp, Caleb</author>
+                 <imprint>
+                    <publisher>Buck, Thomas</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>14, 127, 5, 11, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Courtesy, civil conversation, etiquette, sumptuary</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="73"/>
+   <pb facs="73"/>
+   <p>PRAESTANTISSIMO VIRO, ET PEREGRINIS STUDIOSIS FAVENTISSIMO, DOM. JOAN. BOISIO, Ecclesiae Cathedralis Eliensis Cano<g ref="char:EOLhyphen"/>nico primo, &amp; solidâ Graecae linguae peritiâ nulli secundo,</p>
+   <p>Hanc suam de charissimi ipsius comparis vita &amp; morte scriptiunculam, in debitae gratitu<g ref="char:EOLhyphen"/>dinis &amp; observantiae <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, inscri<g ref="char:EOLhyphen"/>bit &amp; dedicat <hi>Calebus Dalecham<g ref="char:EOLhyphen"/>pius;</hi> addito hoc, non suo uni<g ref="char:EOLhyphen"/>us sed multorum, voto:</p>
+   <p>Alvaeus <hi>non est, &amp;</hi> Harrisonus <hi>non est; O pretiosa sit</hi> Boisii <hi>vita in conspectu Dei:</hi>
+      <q>
+         <l>Serus in Coelum redeat, diúque</l>
+         <l>Laetus intersit populo Britanno,</l>
+         <l>Illum agat pennâ metuente solvi</l>
+         <l>Fama superstes.</l>
+      </q>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

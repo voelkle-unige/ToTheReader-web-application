@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his Booke.</title>
+           <author>Sandys, Miles, Sir</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102581_Fr1_2</idno>
+           <idno type="DLPS">A10851</idno>
+           <idno type="STC">21122</idno>
+           <idno type="ESTC">S102581</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his Booke.</title>
+                 <author>Sandys, Miles, Sir</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The art of pronuntiation : digested into two parts. Vox audienda, &amp; vox videnda. In the first of which are set foorth the elements and seuerall parts of the voice: in the second are described diuers characters, by which euery part of the voice may be aptly known and seuerall distinguished. Very necessary as well thereby to know the naturall structure of the voice, as speedily to learne the exact touch of pronuntiation of any forraine language whatsoeuer. Newly inuented by Robert Robinson Londoner</title>
+                 <author>Robinson, Robert, londoner</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 <publisher>Okes, (Derwen, de Quercubus), Nicholas.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>60 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Linguistics and philology</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <head>To his Booke.</head>
+   <lg>
+      <l>If that thou chance to come to <hi>Zoilus</hi> view,</l>
+      <l>Feare not my booke, though thy in<g ref="char:EOLhyphen"/>uention's new:</l>
+      <l>Tell them, whose want of skill shall thee deride,</l>
+      <l>To iudge things they not know, 'tis foolish pride:</l>
+      <l>But if men skild in thee a fault espie,</l>
+      <l>Craue their best helpe, beare not thy selfe too high.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

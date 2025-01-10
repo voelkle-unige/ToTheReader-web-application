@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           <author>Nixon, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117856_Ba1_1</idno>
+           <idno type="DLPS">A13001</idno>
+           <idno type="STC">23294</idno>
+           <idno type="ESTC">S117856</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 <author>Nixon, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The life and death of Thomas Wolsey Cardinall : Diuided into three parts: his aspiring, triumph, and death. By Thomas Storer student of Christ-church in Oxford</title>
+                 <author>Storer, Thomas</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <distributor>Dawson, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="40"/>
+   <p>
+      <seg rend="decorInit">R</seg>Eader: the <hi>Decôrum</hi> is kept euen in these <hi>Er<g ref="char:EOLhyphen"/>rata:</hi> there is no reason that a Booke should be without faultes, when the person of whom the booke intreateth had so many in his life. But the Author could haue wisht, that <hi>Wolsey</hi> had corrected his errors while he liued, on that condition, that himselfe had committed none in the description of his life. If the reader find any more then are here set downe, let him remember that it is a matter ineuitable, vnlesse Nature had either placed our eyes behind vs, or the wallet of faults be<g ref="char:EOLhyphen"/>fore vs.</p>
+   <p>A 4 side 2 line 14 <hi>dele</hi> now. C 2 line 6 for When reade Where. <hi>Ibid,</hi> line 7 for Where reade Nor. E 3 side 1 line 6 The man that. <hi>Ibid.</hi> line 9 for rupulse reade repulse. F the last page line 21 reade immortall dayes. K 2 side 2 line 6 triall.</p>
+   <closer>
+      <signed>I. S.</signed>
+   </closer>
+   <pb facs="40"/>
+   <pb facs="41"/>
+   <pb facs="41"/>
+   <pb facs="42"/>
+   <pb facs="42"/>
+   <pb facs="43"/>
+   <pb facs="43"/>
+   <pb facs="44"/>
+   <pb facs="44"/>
+   <pb facs="45"/>
+   <pb facs="45"/>
+   <pb facs="46"/>
+   <pb facs="46"/>
+   <pb facs="47"/>
+   <pb facs="47"/>
+</div>
+        </body>
+  </text>
+</TEI>

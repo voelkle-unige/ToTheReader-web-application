@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD LECTOREM.</title>
+           <author>R., R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102562_Fr1_4</idno>
+           <idno type="DLPS">A06810</idno>
+           <idno type="STC">17245</idno>
+           <idno type="ESTC">S102562</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD LECTOREM.</title>
+                 <author>R., R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Timothies taske: or A Christian sea-card : guiding through the coastes of a peaceable conscience to a peace constant, and a crowne immortall. Wherein I. Pastors are put in minde of their double dutie, and how to discharge it. 1. Personall, as watchfull men. 2. Pastorall, as faithfull watchmen. II. True doctrine is advanced. III. Traditions discountenanced, &amp; their rancour discovered. In two synodall assemblies at Carliell, out of two seuerall, but sutable scriptures. This of 1 Timoth. 4.16. and that of Actes 20.28. Since concorporate, and couched with augmentation vnder their prime head: by Robert Mandevill, sometimes of Queenes Colledge in Oxford, and preacher of Gods word at Abbey-holme in Cumberland</title>
+                 <author>Mandevill, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1619</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Short, James</publisher>
+                        </imprint>
+                 <extent>8, 64 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="5"/>
+   <head>AD LECTOREM.</head>
+   <l>CArmina praefantur tali rarissima libro:</l>
+   <l>Haec praeter morem carminae, Lector, habes.</l>
+   <l>Defuncto, praeter morem, praestemus amorem,</l>
+   <l>Non est vulgaris, credito, talis amor.</l>
+   <l>Officium signare opus est, laudarier ipsum</l>
+   <l>Authorem, aut opus hoc, non opus esse scio.</l>
+   <closer>
+      <signed>C. R. R.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

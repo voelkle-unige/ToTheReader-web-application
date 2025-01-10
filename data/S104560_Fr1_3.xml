@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST EXCELLENT MAIESTY.</title>
+           <author>Rouenzon, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104560_Fr1_3</idno>
+           <idno type="DLPS">B15592</idno>
+           <idno type="STC">21355</idno>
+           <idno type="ESTC">S104560</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST EXCELLENT MAIESTY.</title>
+                 <author>Rouenzon, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A treatise of metallica : But not that which was published by Mr. Simon Sturteuant vpon his patent, which is now by order cancelled and made voyd, by reason of his standing out-lawed at the time of the grant, and so still continuing, and his neglect, and not performance o the workes. Whereupon priuiledge, by patent, is granted by the Kings most excellent Maiesty, to Iohn Rouenzon, Esquire, for the making of iron, and other mettals and materials with sea-cole, pit-cole, &amp;c. for one and thirty yeares. According to which patent and direction therein, this treatise, composed by the same Iohn Rouenzon, is published in print before the end of Easter tearme, viz. the 15 of May. 1613. And containeth a briefe explanation, demonstration, or discouery of the inuentions priuiledged, and the meanes, instruments, engins, furnaces, &amp;c. with the materials, things, and workes to be made by the said fewels</title>
+                 <author>Rovenzon, John</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Thorpe (Thorp), Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>28 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE KINGS MOST EXCELLENT MAIESTY.</head>
+   <opener>
+      <salute>Most dread Soueraigne,</salute>
+   </opener>
+   <p>
+      <hi>
+         <seg rend="decorInit">Y</seg>Our Maiesty hauing</hi> been pleased to grant vn<g ref="char:EOLhyphen"/>to me sole priuiledge for one and thirty yeares by your gracious Letters Patents, to make and worke Iron, other Mettals, and diuers other materials with Sea-cole, and such other fewels: wherein it hath pleased God to blesse my poore inuentions and endeuours, by ef<g ref="char:EOLhyphen"/>fecting those workes which haue beene heretofore worthily attempted by others, though with fruitlesse successe, I held it my duty vpon publication of these inuen<g ref="char:EOLhyphen"/>tions,
+<pb facs="3"/> to present the same to your Roy<g ref="char:EOLhyphen"/>all view, humbly beseeching your Maiesty to accept them as a neuer-dy<g ref="char:EOLhyphen"/>ing Memoriall of the late most excellent Prince <hi>Henry</hi> your sonne; whose desire of the publique good (besides many par<g ref="char:EOLhyphen"/>ticular fauours which he was pleased to vouchsafe vnto me) was the first motiue and Author to encourage me to make tri<g ref="char:EOLhyphen"/>all, and to accomplish these works, which I hope will proue so profitable to your Maiesty, and so enriching to your King<g ref="char:EOLhyphen"/>domes, as you will neuer haue cause to repent your gracious fauour and priui<g ref="char:EOLhyphen"/>ledge herein bestowed vpon me. The Lord of Heauen and Earth blesse and preserue your Maiesty, your most excel<g ref="char:EOLhyphen"/>lent Queene, and hopefull Royall Issue.</p>
+   <closer>
+      <signed>Your Maiesties most humble and obedient Subiect, IOHN ROVENZON.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD CL.V.I. IACOBVM ARETIVM; DE Idyllijs hisce Carmen.</title>
+           <author>Beyaert, F. Gul.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121141_Fr1_7</idno>
+           <idno type="DLPS">A08732</idno>
+           <idno type="STC">19020</idno>
+           <idno type="ESTC">S121141</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD CL.V.I. IACOBVM ARETIVM; DE Idyllijs hisce Carmen.</title>
+                 <author>Beyaert, F. Gul.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Eidyllia in obitum fulgentissimi Henrici Walliæ Principis duodecimi, Romæq [ue] ruentis terroris maximi : quo nihil maius meliúsve terris fata donavere, boniq́ [ue] divi nec dabunt, quamvis redeant in aurum tempora priscum</title>
+                 <author>University of Oxford</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1612</date>
+                 </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>
+      <hi>AD CL.V.I.</hi> IACOBVM ARETIVM; <hi>DE</hi> Idyllijs hisce Carmen.</head>
+   <l>QValiter in cyathum cecidit cum vespa liquentem</l>
+   <l>Melle, bibit liquidos succos, moritur{que} bibendo;</l>
+   <l>Sic mihi dum teneras animâ fugiente medullas</l>
+   <l>Ossibus exugis cantando, spiritus artus</l>
+   <l>Defugit, &amp; tenues mihi vita liquescit in auras.</l>
+   <l>Aut velut in vacuâ maerens Pelicanus eremo</l>
+   <l>Implumes rostro pullos necat in{que} jacentes</l>
+   <l>Sanguinis effundens hausti de pectore rivos,</l>
+   <l>Instaurat soboli vitam moribundus amatae;</l>
+   <l>Sic mihi tu vitam cantu rapis, &amp; mihi blando</l>
+   <l>Carmine restituis: sic ô juvat ire sub vmbras</l>
+   <l>Saepiùs, &amp; simili medicamine saepè redire!</l>
+   <closer>
+      <signed>
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> F. GVL. BEYAERT <hi>Anglo-Belgicus.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

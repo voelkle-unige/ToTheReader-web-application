@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Davidis Personi Lochlandij opera  seu
+de multifaria rerum varietate.</title>
+           <author>Adamsonus, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114573_Fr1_6</idno>
+           <idno type="DLPS">A09500</idno>
+           <idno type="STC">19781</idno>
+           <idno type="ESTC">S114573</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Davidis Personi Lochlandij opera  seu
+de multifaria rerum varietate.</title>
+                 <author>Adamsonus, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Varieties: or, A svrveigh of rare and excellent matters : necessary and delectable for all sorts of persons. Wherein the principall heads of diverse sciences are illustrated, rare secrets of naturall things unfoulded, &amp;c. Digested into five bookes, whose severall chapters with their contents are to be seene in the table after the epistle dedicatory. By David Person, of Loughlands in Scotland, Gentleman</title>
+                 <author>Person, David</author>
+                 <imprint>
+                    <distributor>Alchorn, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Badger, Richard 1.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>52, 47, 5, 49-93, 7, 97-123, 1, pages 126, 126-178, 4, 181-190, 4, 177-208, 217-256, 4, 105, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Military handbooks</term>
+                    <term>Philosophy and morality</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>In Davidis Personi Lochlandij opera <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> seu
+de multifaria rerum varietate.</head>
+   <l>QVàm variae rerum facies, quàm gramine campi</l>
+   <l>Depicti vario, varij quàm floribus horti,</l>
+   <l>Quàm varium stellis Coelum, quàm piscibus aequor,</l>
+   <l>Et picturatis volucrum sunt agmina pennis:</l>
+   <l>Tam varia &amp; libri sunt argumenta perennis,</l>
+   <l>Quae Persone tibi famam peperêre perennem.</l>
+   <closer>
+      <signed>Io. Adamsonus <hi>Academiae</hi> Edinburgensis
+<hi>Rector Primarius.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

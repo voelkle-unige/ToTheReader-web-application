@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In opus M. Minsheui edendum, Iohannis Keperi generosi .</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115752_Fr1_4</idno>
+           <idno type="DLPS">A09312</idno>
+           <idno type="STC">19622</idno>
+           <idno type="ESTC">S115752</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In opus M. Minsheui edendum, Iohannis Keperi generosi .</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A Spanish grammar, first collected and published by Richard Perciuale Gent : Now augmented and increased with the declining of all the irregular and hard verbes in that toong, with diuers other especiall rules and necessarie notes for all such as shall be desirous to attaine the perfection of the Spanish tongue. Done by Iohn Minsheu professor of languages in London. Hereunto for the yoong beginners learning and ease, are annexed speeches, phrases, and prouerbes, expounded out of diuers authors, setting downe the line and the leafe where in the same bookes they shall finde them, whereby they may not onely vnderstand them, but by them vnderstand others, and the rest as they shall meete with them</title>
+                 <author>Perceval, Richard</author>
+                 <imprint>
+                    <publisher>Bollifant, alias Carpenter, Edmund</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 </imprint>
+                 <extent>8, 84, 4, 68 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>In opus M. Minsheui edendum, Iohannis Keperi generosi <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</head>
+   <l>Qui cupis auriferi contingere flumen Jberi</l>
+   <l>Vocibus &amp; veris noscere gentis opes,</l>
+   <l>Ʋel mores, vel quas exercet Iberia merces,</l>
+   <l>Hesperiam &amp; totam noscere quisquis aues:</l>
+   <l>
+      <hi>Minshaeum</hi> legito, lectum (mihi crede) probabis,</l>
+   <l>Ingenium, genium, munera, verba, fidem:</l>
+   <l>Qui totidem subijt noctésque diésque labores,</l>
+   <l>Et flores veluti sedula carpsit apes;</l>
+   <l>Qui tibi qui patriae, sese sumptumq́ue dicauit,</l>
+   <l>Edidit, &amp; tantae sedulitatis opus,</l>
+   <l>Aut lauda, aut saltem noli mordere, latrando</l>
+   <l>Zoile, tabificus, ne videare, canis.</l>
+</div>
+        </body>
+  </text>
+</TEI>

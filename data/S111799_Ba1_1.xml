@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Woodhouse, Peter</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111799_Ba1_1</idno>
+           <idno type="DLPS">A15692</idno>
+           <idno type="STC">25967</idno>
+           <idno type="ESTC">S111799</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Woodhouse, Peter</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The flea : sic parua componere magnis</title>
+                 <author>Woodhouse, Peter</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Smethwick (Smithick, Smythicke), John</publisher>
+                        </imprint>
+                 <extent>36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="19"/>
+   <l>Many, many things haue written,</l>
+   <l>When th'ad better still haue sitten.</l>
+   <l>Peraduenture so had I:</l>
+   <l>Yet I knowe no reason why.</l>
+   <l>It's a foolish toy I write<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>And in folly most delight:</l>
+   <l>Then (I hope) it will please many,</l>
+   <l>And not be dislikte of any,</l>
+   <l>Euen from tales of <hi>Robin Hood,</hi>
+   </l>
+   <l>Wise men alway picke some good.</l>
+   <l>None (I trust) offend I shall,</l>
+   <l>So I take my leaue of all.</l>
+   <signed>Peter Woodhouse.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

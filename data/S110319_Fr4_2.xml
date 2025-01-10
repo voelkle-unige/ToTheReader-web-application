@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD LECTOREM.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110319_Fr4_2</idno>
+           <idno type="DLPS">A09144</idno>
+           <idno type="STC">19459</idno>
+           <idno type="ESTC">S110319</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD LECTOREM.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A garden of flovvers : vvherein very liuely is contained a true and perfect discription of al the flovvers contained in these foure followinge bookes. As also the perfect true manner of colouringe the same vvith theire naturall coloures ... All vvhich to the great charges and almost incredible laboure and paine, the diligent authore by foure yeares experience, hath very laboriously compiled, and most excellently performed, both in theire perfect lineaments in representing them in theire coper plates: as also after a most exquisite manner and methode in teachinge th practisioner te [sic] painte them even to the liffe. Faithfully and truely translated out of the Netherlandish originall into English for the comon benifite of those that vnderstand no other languages, and also for the benifite of others nevvly printed both in the Latine and French tongues all at the charges of the author</title>
+                 <author>Passe, Crispijn van de</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Utrecht</pubPlace>
+                    <date>1615</date>
+                 <publisher>Passe, Crispin 2 van de.</publisher>
+                            <publisher>Roy, Salomon de</publisher>
+                        </imprint>
+                 <extent>28, 4 pages, plates, oblong 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Art and architecture</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="136"/>
+   <head>AD LECTOREM.</head>
+   <p>
+      <seg rend="decorInit">E</seg>Gressus, benigne lector, hortum priorem, tot florum varietate conspicuum, tot co<g ref="char:EOLhyphen"/>lorum mixturâ varium, tantáque diversitate formarum commendatum, ingredere hunc alterum, qui non minore voluptate te afficere poterit, abundantē non tantum flo<g ref="char:EOLhyphen"/>rum delitijs, sed &amp; frugum, fructuum, herbarum, fruticumq́ copiâ; adeò vt nihil desideres, praeter vnum odorem, quem tamen diuturnitate sua largè compensat. Ha<g ref="char:EOLhyphen"/>bes n<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>totius anni flores herbas, fruges &amp; fructus, in vnum eum{que} exiguum locum veluti compendio coactos, nullis frigoribus, nulla hyemis aut ventorum intemperie obnoxios; tutos{que} ab omnibus ver<g ref="char:EOLhyphen"/>miculorum ac animantium reliquorum insidijs, a vetustatis corruptione liberos; at semper in eodem decore constanter permanentes. Non hic avium rapacitas, quadrupedum gulositas, neq: reptilium depastio metuenda. Spontè omnia proveniunt &amp; perennant, nihil fossione opus habet, nullâ rigatio<g ref="char:EOLhyphen"/>ne, nullâ insitione, nullâ stercoratione aut purgatione indiget; nulla{que} insuper huius horti timenda sterilitas est; qui semel Passaei labore consitus, aeternitatem secum adducit. Hoc igitur perfruere per<g ref="char:EOLhyphen"/>petuò florente, &amp; paruo aere constante; &amp; authori similia aut meliora vobis paranti, faue.</p>
+</div>
+        </body>
+  </text>
+</TEI>

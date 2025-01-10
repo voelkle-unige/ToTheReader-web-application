@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectori S.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100864_Fr1_4</idno>
+           <idno type="DLPS">A04334</idno>
+           <idno type="STC">1445</idno>
+           <idno type="ESTC">S100864</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectori S.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The nauigators supply : Conteining many things of principall importance belonging to nauigation, with the description and vse of diuerse instruments framed chiefly for that purpose; but seruing also for sundry other of cosmography in generall: the particular instruments are specified on the next page</title>
+                 <author>Barlow, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 <publisher>Barker, Robert.</publisher>
+                            <publisher>Bishop, George.</publisher>
+                            <publisher>Newbery (Nuberie), Ralph</publisher>
+                        </imprint>
+                 <extent>100 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="8"/>
+   <head>Lectori S.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">P</seg>Raesulis eximij gnatus, multis{que} verendis</l>
+      <l>Patribus affinis, pastor &amp; ipse pius,</l>
+      <l>Hunc foetum peperit: quem si tu (candide lector)</l>
+      <l>Excipias gremio suauis, amans{que} tuo;</l>
+      <l>Dentibus haud metuet Criticorum rodier atris:</l>
+      <l>Quos tamen, vt tener est, non metuisse nequit.</l>
+      <l>Perlege, pertenta, bis ter{que} quater{que} licebit:</l>
+      <l>Quô mage creber eris, crescet &amp; ille magis.</l>
+      <l>At simul hoc vsu matura adoleuerit aetas,</l>
+      <l>Iam benè tutus erit viribus ipse suis.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

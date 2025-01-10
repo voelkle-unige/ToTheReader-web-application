@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTORI INGENVO.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122576_Fr1_3</idno>
+           <idno type="DLPS">A03054</idno>
+           <idno type="STC">13180</idno>
+           <idno type="ESTC">S122576</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTORI INGENVO.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso. Hoc opus condidit Edoardus Baro Herbert de Chirbury [sic] in Anglia, et castri insulæ de Kerry in Hibernia, et par utriusque regni. Et lectori cuivis, integri &amp; illibati iudicii dicavit</title>
+                 <author>Herbert of Cherbury, Edward Herbert, Baron</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>8, 244 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>LECTORI INGENVO.</head>
+   <p>
+      <seg rend="decorInit">O</seg>VIA de <hi>VERITATE</hi> satis ambitiosus pro<g ref="char:EOLhyphen"/>stare videatur Titulus, praemittere placuit; veritates Intellectus, non Fidei, hoc in ope<g ref="char:EOLhyphen"/>re proponi. Quae igitur ad Fidem atti<g ref="char:EOLhyphen"/>nent, propriâ luce conspicienda relinquimus; Adeo no<g ref="char:EOLhyphen"/>vum omne intere à istiusmodi declinamus dogma, ut so<g ref="char:EOLhyphen"/>la veritatum universalium <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> sustineat Jnstitu<g ref="char:EOLhyphen"/>tum nostrum. Quae ideò circa Fidei Mysteria, hinc inde disseminata comperies, tanquam è re nata emer<g ref="char:EOLhyphen"/>gentia habe; neque enim aliter quae heic attulimus di<g ref="char:EOLhyphen"/>stinguere, &amp; seorsim explicare licuit. Quod adaequa<g ref="char:EOLhyphen"/>tum inde libri subjectum, est communis illa in omni ho<g ref="char:EOLhyphen"/>mine sano &amp; integro, veritatem investigandi ratio; quae quàm ardua sit, vel ex eo conijcias, quòd nullo in publicum prodierit saeculo, qui Argumentum istud ex professo tractaverit; Quid quod inter rei literariae can<g ref="char:EOLhyphen"/>didatos, neminem adhuc cōvenire potuerim, qui aptam veritatis definitionem tradere in se reciperet? Deter<g ref="char:EOLhyphen"/>ruit fortasse texturae difficultas, eoque magis, quod non tam èrebus ipsis, quàm aliorum opinionibus, doctrinae conflare aggressi sint syntagma: Nihilosecius, cùm errores, devitantes, tum in veritates solennes, crebrò impingentes Authores celeberrimos observamus: sed foelici dicam an fortuito incursu: Certè utcunque ve<g ref="char:EOLhyphen"/>ra perhiberi possint, quae abistis praedicantur, nam ipsi
+<pb facs="3"/>
+veri, haud abs re ambigatur. Qui enim verum impru<g ref="char:EOLhyphen"/>dens dixerit, anne ille statim verus fuerit? sed detur fuisse: At qualis illa veritas? Nonne veluti abnor<g ref="char:EOLhyphen"/>mem sermonem à rudioribus illis (qui artem legendi vel scribendi ignorant) prolatum, ita indigestum om<g ref="char:EOLhyphen"/>ne, vel ex tenui conjectur â ortum Mathema, preca<g ref="char:EOLhyphen"/>riam quandam &amp; obnoxiam disciplinam existimave<g ref="char:EOLhyphen"/>ris Lector? Vtcunque se res habeat, nos quidem non solummodo plurimùm illis tribuimus, sed eorum senten<g ref="char:EOLhyphen"/>tias, ubi verae fuerint, summo honore amplectimur. Dum tamen leges &amp; sanctiones veritatis heic tradi<g ref="char:EOLhyphen"/>tas nescivisse visi sunt, &amp; sibi ipsis &amp; alijs imposuisse saepenumerò animadvertimus; Ante vestibulum igitur (ne dicam in Apodyterio) scruta scilicet opiniones exuant, Adyta veritatis ingressuri. Omnia enim ad sensum, (ubi ipsi nihil anteverterint) patere saltem vel recludi comperient; Miserè enim nobiscum actum esset, siad objecta externa percipienda, certa daretur Norma, nulla autem ad internas, aeternas, veritates, (ubi suo ordine retexuntur) sine errore superesset via; Neque te moveat, quod ista à veteri non satis expli<g ref="char:EOLhyphen"/>centur Scholâ; Dum enim aliorum placita convelle<g ref="char:EOLhyphen"/>re potiùs quàm quod res fuit docere, satius habuerunt, vel foedè destituebant, vel in medio saltem relinque<g ref="char:EOLhyphen"/>bant veritatem. Sed neque auspicatiores (ubique) posterioris istius saeculi Scriptores dicendi sunt. Quan<g ref="char:EOLhyphen"/>tumvis
+<pb facs="3"/>
+enim vibrantia attollant supercilia, dum ta<g ref="char:EOLhyphen"/>men ratione excussâ, sese aliorum mancipant opinio<g ref="char:EOLhyphen"/>nibus, unà cum libertate animum abjecisse videntur; Fit ita, ut pro Regionum &amp; Fidei diversitate, in id potissimùm incumbant, ne illos domi malè multet ino<g ref="char:EOLhyphen"/>pia, adeoque non tam quid in se verum, quàm quid si<g ref="char:EOLhyphen"/>bi ipsis utile exquirant. Ideo in Doctorum suorum sen<g ref="char:EOLhyphen"/>tentiam non <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> solùm, sed pedibus etiam ire videntur, à quâ neque transversum digitum recedunt, nisiut acuminis specimina aliqua ostentent: Non est igitur à larvato aliquo vel stipendioso Scriptore, ut ve<g ref="char:EOLhyphen"/>rum cōsummatū opperiaris. Illorū apprimè interest, ne personam deponant, vel aliter quidem sentiant: Jn<g ref="char:EOLhyphen"/>genuus &amp; sui arbitrij ista solummodò praestabit Au<g ref="char:EOLhyphen"/>thor; Quo nomine tamen, ne laudem occupasse videa<g ref="char:EOLhyphen"/>mur, sciat Lector; Vt liberè quidem philosophemur, nullasque subinde transeamus in partes, ut veritatem sine dote, (quemadmodum olim dictum) quaeramus, nobis tamen ad alia omnia fere, quàm literarū studia (uti oportuit) exequenda, otiū fuisse; Partim Armis in diversis regionibus, partim quinquennali Legationi in Gallia, partim negotijs tū publicis, tum privatis va<g ref="char:EOLhyphen"/>cavimus; Ne{que} erit igitur, ut ita accuratū hoc in Ar<g ref="char:EOLhyphen"/>gumento expectes scrutinium, cum istā ob caussam, tum quod lib. nostro <hi>De errorum caussis,</hi> quae heic obscura tam rationibus quā exemplis illustrare, (praesertim ubi
+<pb facs="4"/>
+istagrata fuisse intelligam) juvante Deo, propositum habeamus. Satis fuerit interea ista veritatis funda<g ref="char:EOLhyphen"/>menta (ad Euthygrammae cujusdā Ichnographiae mo<g ref="char:EOLhyphen"/>dum) posutsse. Ad methodum quod spectat, nova om<g ref="char:EOLhyphen"/>nino cùm sit, vel <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> necessum fuit, vel usicata saltem (ubicun{que} fieri potuit) in nostrū pertrahere sen<g ref="char:EOLhyphen"/>sum vocabula: Posterius illud placuit, tum eam potissi<g ref="char:EOLhyphen"/>mùm ob caussam, quod quaedam saniori intelligentiae, alia vel ipsis Natalibus restituantur; Jta Natura quae aliquibus <hi>Fatum,</hi> alijs <hi>depravatum</hi> quiddam si<g ref="char:EOLhyphen"/>gnificat, nobis providentiā Divinam universalē deno<g ref="char:EOLhyphen"/>tat; Jta libertas arbitrij quae nonnullis vel illiberale quiddam sonat, nobis est sensus ille internus, ex quo se flectere undequa{que} potest homo; Jta facultas (verbum Scholis alioquin satisinsolens) pro visive potentiâ illa internâ, quae objecto cognato suo sub conditionibus de<g ref="char:EOLhyphen"/>bitis respondet, à nobis passim accipitur: Quapropter non tam verba, quàm definitiones nostrae consulendae sunt; Neque enim in doctrina ardua nomenclaturae vulgari stari volumus; Hoc fi impetravero, non erit (uti spero) unde haec nostra, vel Orthodoxis, vel quidem Heterodoxis displicuisse mereantur, cùm non ad controversias excitandas, sed solvendas, vel saltem eliminandas editus sit liber hic, quod te scire volui, Lector.</p>
+   <p>
+      <hi>Dab. Castr. Nost. de</hi> Montgomery, <hi>pridie Idus Oct. M D CI XXXII.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

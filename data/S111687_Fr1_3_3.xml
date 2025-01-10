@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In CAMERIOLae PLANTATIONIM ab Authore inchoatam.</title>
+           <author>Mason, Johannes</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111687_Fr1_3_3</idno>
+           <idno type="DLPS">A14289</idno>
+           <idno type="STC">24605</idno>
+           <idno type="ESTC">S111687</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In CAMERIOLae PLANTATIONIM ab Authore inchoatam.</title>
+                 <author>Mason, Johannes</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Cambrensium Caroleia : Quibus pr [a] ecepta necessaria ad rempublicam nostram foeliciter administrandum interxuntur [sic] : opera &amp; studio Gulielmi Vaughanni militis</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 <publisher>Constable, Francis.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>112 pages, folded plates, map, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>
+      <hi>In CAMERIOLae PLANTATIONIM ab</hi> Authore <hi>inchoatam.</hi>
+   </head>
+   <l>QVae deserta <hi>Nouae</hi> quondam suit <hi>Insula Terrae,</hi>
+   </l>
+   <l>Curis <hi>&amp; Musis</hi> nunc viget alma tuis.</l>
+   <l>Sitot in <hi>Austrina</hi> vixissem <hi>Parte,</hi> quot annos</l>
+   <l>In <hi>Boreale,</hi> magis <hi>Pars</hi> foret aucta tua.</l>
+   <l>Sic probo <hi>Cambriolam:</hi> quam <hi>Colchida,</hi> vt <hi>Orpheus alter,</hi>
+   </l>
+   <l>Jure vocas, <hi>
+         <gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>urum</hi> Terra Salumque dabunt.</l>
+   <signed>Iohannes Mason.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

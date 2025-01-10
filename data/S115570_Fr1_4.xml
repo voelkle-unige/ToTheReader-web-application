@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A NOTE FOR THE READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115570_Fr1_4</idno>
+           <idno type="DLPS">A10353</idno>
+           <idno type="STC">20633</idno>
+           <idno type="ESTC">S115570</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A NOTE FOR THE READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise conteyning the true catholike and apostolike faith of the holy sacrifice and sacrament ordeyned by Christ at his last Supper : vvith a declaration of the Berengarian heresie renewed in our age: and an answere to certain sermons made by M. Robert Bruce minister of Edinburgh concerning this matter. By VVilliam Reynolde priest</title>
+                 <author>Rainolds, William</author>
+                 <imprint>
+                    <publisher>Trognesius, Joachim</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>12, 447, 16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_on_pagination">
+   <pb facs="7"/>
+   <head>A NOTE FOR THE READER.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">W</seg>HEREAS M. Bruces Sermōs are printed without any figures dis<g ref="char:EOLhyphen"/>tinguishing ether page or leafe, which no booke lightly omitteth: I haue (good reader) for plain dealing, &amp; the more easy notifying to others that which I cite out of him, added figures to ech page, beginning the first, next after the Epistle dedicatorie, &amp; so cōtinuing on by pages, 2. 3. 4. 5. 6. 7. vntil the end of his booke, which is page 296. Thus much I thought good to warne thee of, that if thow please to see his words in his owne booke, thow maist with so much the more facilitie find them.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

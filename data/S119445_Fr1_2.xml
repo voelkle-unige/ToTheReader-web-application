@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the right Honorable ROBERT LEE, Lord Maior of the Honorable Citie of London, and to the right Worshipfull the Knights and Aldermen of the same: health and happinesse long to continue.</title>
+           <author>Johnson, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119445_Fr1_2</idno>
+           <idno type="DLPS">A04550</idno>
+           <idno type="STC">14671</idno>
+           <idno type="ESTC">S119445</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the right Honorable ROBERT LEE, Lord Maior of the Honorable Citie of London, and to the right Worshipfull the Knights and Aldermen of the same: health and happinesse long to continue.</title>
+                 <author>Johnson, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Anglorum lacrimæ : in a sad passion complayning the death of our late soueraigne Lady Queene Elizabeth: yet comforted againe by the vertuous hopes of our most royall and renowned King Iames: whose Maiestie God long continue</title>
+                 <author>Rogers, Thomas</author>
+                 <imprint>
+                    <publisher>White, William</publisher>
+                    <distributor>Pavier, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the right Honorable <hi>ROBERT LEE,</hi> Lord Maior of the Honorable Citie of London, and to the right <hi>Worshipfull the Knights and Aldermen</hi> of the same: health and happinesse long to continue.</head>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Honorable, and Worshipfull of this Cittie, being ouerpressed with the heauie burthen of Sorrow, and almost ouer<g ref="char:EOLhyphen"/>come with griefe, for the losse of our late deceassed <hi>Queene</hi>; whom both you, and all others, sustaines a part: I am in dutie bound (in the behalfe of many thou<g ref="char:EOLhyphen"/>sandes) to giue a sad farewell to her Ex<g ref="char:EOLhyphen"/>cellencie; the onely and last seruice that a Subiectes true hart can bestow. Vouchsafe therefore (Right Honorable and Wor<g ref="char:EOLhyphen"/>shipfull) as a memoriall of your late loue to her <hi>Maiestie,</hi> to Patronize these tearefull Lines: and then no doubt, but <hi>Anglorum Lacrimae</hi> will be comforted with <hi>Anglorum Gaudia,</hi> being guyded by the vertues of our gracious <hi>King</hi>: vnder whose Royall gouernment, all England is made happie, and a golden time is brought vnto our Countrey.</p>
+   <closer>
+      <signed>Yours in all duetie to be commaunded, a poore Freeman of this Cittie, <hi>Richard Iohnson.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

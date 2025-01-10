@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my courteous Reader.</title>
+           <author>Read, Alexander</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115690_Fr1_3</idno>
+           <idno type="DLPS">A10508</idno>
+           <idno type="STC">20781</idno>
+           <idno type="ESTC">S115690</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my courteous Reader.</title>
+                 <author>Read, Alexander</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The chirurgicall lectures of tumors and vlcers : Delivered on Tusedayes appointed for these exercises, and keeping of their courts in the Chirurgeans Hall these three yeeres last past, viz. 1632, 1633, and 1634. By Alexander Read Doctor of Physick, and one of the fellowes of the Physitians College of London</title>
+                 <author>Read, Alexander</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 <publisher>Bush, Edwin.</publisher>
+                            <publisher>Constable, Francis.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>16, 334, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To my courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Ere J present to thy view my Chi<g ref="char:EOLhyphen"/>rurgicall Lectures of the two first points of the first part of Chirurge<g ref="char:EOLhyphen"/>rie, which J call <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, to wit, of Tumors and Vlcers, delivered these three yeares last past in the Chirurgeons Hall upon the dayes appointed for this exercise. J have labou<g ref="char:EOLhyphen"/>red to instruct thy minde, and to direct thy hand in the knowledge and curation of the diseases mentioned in these two Treatises. If thou shalt thinke that I have attained to my purpose, and have not frustrated thy expectation, I have my desire. If thou thinke that they are only clouds without raine, and that I have deluded my Readers, let me intreat thee to lay them downe out of thy hands, and to have recourse unto such Authors as thou shalt best like of, they serving thy taste. I dare be bold to affirme that I have more methodically set downe the nature of every
+<pb facs="5"/>disease, and prescribed more effectuall meanes for the c<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ring of them than thou shalt find in most, who have written of these subjects. I have not concealed from thee my owne observations, which I would not have thee to sleight: I have (I thanke God) so much literature, as is suffici<g ref="char:EOLhyphen"/>ent to guide me in these studies: And J have practised physicke and Chirurgerie now <hi>42</hi> yeares. But with what successe I will refer it to the testimonies and relations of such as have beene my patients in sundrie parts of this Realme. If thou doubt of the veritie of any thing delivered by me in these lectures, I will labour to cleere it, if thou acquaintest me with it. If thou prove evidently that I have declined from the truth, I will acknowledge my errour, and render unto thee thanks for thy friendly ad<g ref="char:EOLhyphen"/>monition. Untill thou effect this, let me entreat thee to accept of my labours which I have under<g ref="char:EOLhyphen"/>gone to further the publike good. One thing I would not have thee to be ignorant of, and that is this, that hereafter I meane not to adde, de<g ref="char:EOLhyphen"/>tract or change any thing in these Treatises, but to goe through the rest of the points of Chirur<g ref="char:EOLhyphen"/>gerie, of God grant me life, which are to be
+<pb facs="5"/>added to these now published to perfect the art of Chirurgerie. Wishing unto thee increase of knowledge, and experience in this studie, I will commit thee to the protection of the Almighty God, and rest,</p>
+   <closer>
+      <signed>
+         <hi>Thy well wishing friend</hi> Alexander Read.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

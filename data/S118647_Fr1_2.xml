@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the reader,</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118647_Fr1_2</idno>
+           <idno type="DLPS">A02339</idno>
+           <idno type="STC">12466</idno>
+           <idno type="ESTC">S118647</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the reader,</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Two guides to a good life : The genealogy of vertue and the nathomy of sinne. Liuely displaying the worth of one, and the vanity of the other</title>
+                 <imprint>
+                    <publisher>Jaggard, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 </imprint>
+                 <extent>252 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the reader,</head>
+   <p>THer is no mettal so pure but hath som drosse, and therfore (Gentle Reader) I will not excuse this Booke of faults: such as it is, I lay it o<g ref="char:EOLhyphen"/>pen to thy view, wishing thee rather with the Bee to gather honnye, then with the Spider poison; not that the Flowers of this poore garden include any such danger, but that the mind of rhe beholder (if not rightly tempered) may like the Spider turne that to poi<g ref="char:EOLhyphen"/>son, which a better disposition digests for honny: I will hope the best, and so farewell.</p>
+   <q>Nihil tam probe, quod non vellicare malignitas:</q>
+</div>
+        </body>
+  </text>
+</TEI>

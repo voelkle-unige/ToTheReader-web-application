@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To Englands chiefest Herbarist, Master John Parkinson.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121875_Fr1_5_4</idno>
+           <idno type="DLPS">A09011</idno>
+           <idno type="STC">19302</idno>
+           <idno type="ESTC">S121875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To Englands chiefest Herbarist, Master John Parkinson.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Theatrum botanicum: The theater of plants. Or, An herball of a large extent : containing therein a more ample and exact history and declaration of the physicall herbs and plants that are in other authours, encreased by the accesse of many hundreds of new, rare, and strange plants from all the parts of the world, with sundry gummes, and other physicall materials, than hath beene hitherto published by any before; and a most large demonstration of their natures and vertues. Shevving vvithall the many errors, differences, and oversights of sundry authors that have formerly written of them; and a certaine confidence, or most probable conjecture of the true and genuine herbes and plants. Distributed into sundry classes or tribes, for the more easie knowledge of the many herbes of one nature and property, with the chiefe notes of Dr. Lobel, Dr. Bonham, and others inserted therein. Collected by the many yeares travaile, industry, and experience in this subject, by Iohn Parkinson apothecary of London, and the Kings herbarist. And published by the Kings Majestyes especiall priviledge</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 1652, 1663-1755, 3 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="6"/>
+   <head>To Englands chiefest Herbarist, Master <hi>John Parkinson.</hi>
+   </head>
+   <opener>
+      <salute>Worthy Sir,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Have given (as was due) many thankes to my learned good friend D<seg rend="sup">r</seg>. <hi>Bainbridge,</hi> for communicating to me the sight and perusall of your chargeable, industrious, ju<g ref="char:EOLhyphen"/>dicious, usefull, <hi>Herculean Botanicall</hi> labours. The Commonwealth of learning, particularly the Tribe of Physitians, Apothecaries, Chirurgians, the Court of No<g ref="char:EOLhyphen"/>bles, and Gentles, of all who love knowledge, delight, and the honour and good of their Country, owe thankes to you, a Benefactour to the publique, to your Nati<g ref="char:EOLhyphen"/>on, to many millions of particular persons, to the present and succeeding ages. A Triumphall evergreene Lawrell crowne is due to you, for mastering such difficulties, for conque<g ref="char:EOLhyphen"/>ring the great enemyes of a civill World, Ignorance and Barbarisme, for saving so many Citizens of your owne Country, from danger, diseases, destruction, by your carefull understanding directions, for proper fit remedies, in such a rationall pleasing way. <hi>Oxford</hi> and <hi>England</hi> are happy in the foun<g ref="char:EOLhyphen"/>dation of a specious illustrious physicke Garden, compleately beautifully walled, and gated, now in levelling, and planting, with the charges and expences of thousands by the many wayes Honourable Earle of <hi>Danby,</hi> the furnishing and enriching whereof, and of many a glorious <hi>Tempe,</hi> withall usefull delightfull plants, will be the better expedited by your painefull happy satisfying Worke.</p>
+   <closer>
+      <signed>THO. CLAYTON, <hi>His Majesties professor of Physicke,</hi> Oxon.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

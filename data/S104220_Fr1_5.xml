@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>T: Littleton gener: ad A: Hopton, ami∣cum suum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1611</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104220_Fr1_5</idno>
+           <idno type="DLPS">A03653</idno>
+           <idno type="STC">13783</idno>
+           <idno type="ESTC">S104220</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>T: Littleton gener: ad A: Hopton, ami∣cum suum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Speculum topographicum: or The topographicall glasse : Containing the vse of the topographicall glasse. Theodelitus. Plaine table, and circumferentor. With many rules of geometry, astronomy, topography perspectiue, and hydrography. Newly set forth by Arthur Hopton Gentleman</title>
+                 <author>Hopton, Arthur</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1611</date>
+                 </imprint>
+                 <extent>16, 203, 9 pages, 2 folded leaves of plates, illustrations, maps, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <head>T: Littleton gener: ad A: Hopton, ami<g ref="char:EOLhyphen"/>cum suum.</head>
+   <l>Illustris Lector, librum nunc cerne docentem,</l>
+   <l>Eximias artes, quas tibi scire licet:</l>
+   <l>Arthurus iuuenis docet in iuuenilibus annis,</l>
+   <l>Quae priscis annis non reuelata latent.</l>
+   <l>Flores venturis seclis dat semper Amenos,</l>
+   <l>Lectori grato suauis odor{que} manet.</l>
+   <l>Author communem dignus velit vtilitatem,</l>
+   <l>Authori digno gloria dignadetur.</l>
+</div>
+        </body>
+  </text>
+</TEI>

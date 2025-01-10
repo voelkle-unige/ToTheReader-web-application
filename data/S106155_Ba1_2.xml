@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106155_Ba1_2</idno>
+           <idno type="DLPS">A16651</idno>
+           <idno type="STC">3556</idno>
+           <idno type="ESTC">S106155</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Barnabees journall : under the names of Mirtilus &amp; Faustulus shadowed: for the travellers solace lately published, to most apt numbers reduced, and to the old tune of Barnabe commonly chanted. By Corymboeus</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 </imprint>
+                 <extent>450 pages, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="225"/>
+   <head>Errata.</head>
+   <q>
+      <l>INter <hi>Barnabae</hi> errores,</l>
+      <l>Hi mutârunt preli mores.</l>
+      <l>" Delirans iste Sapiens <hi>Gottam</hi>
+      </l>
+      <l>" Reddit <hi>Coetum</hi> propter <hi>Cotem.</hi>
+      </l>
+      <bibl>Tertia parte, <hi>vide</hi> Grantham.</bibl>
+   </q>
+   <q>
+      <l>Amongst other faults in print,</l>
+      <l>You shall find this Error in't.</l>
+      <l>" Did not that Sage of <hi>Gottam</hi> strangely faile,</l>
+      <l>" Who for a <hi>Whetstone</hi>
+         <gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>ender'd him a <hi>Whale?</hi>
+      </l>
+      <bibl>In the Third part, see <hi>Grantham.</hi>
+      </bibl>
+   </q>
+   <trailer>FINIS.</trailer>
+   <pb facs="225"/>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Franciscus Frellonius Chri∣stiano Lectori, S.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1549</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S123133_Fr1_3</idno>
+           <idno type="DLPS">A73514</idno>
+           <idno type="STC">3045</idno>
+           <idno type="ESTC">S123133</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Franciscus Frellonius Chri∣stiano Lectori, S.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The images of the Old Testament : lately expressed, set forthe in Ynglishe and Frenche vuith a playn and brief exposition</title>
+                 <author>Holbein, Hans</author>
+                 <imprint>
+                    <publisher>Frellon, Jean</publisher>
+                    <pubPlace>France--Lyon</pubPlace>
+                    <date>1549</date>
+                 </imprint>
+                 <extent>104 pages, illustrations (woodcuts), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="printer_to_the_reader">
+   <pb facs="3"/>
+   <head>Franciscus Frellonius Chri<g ref="char:EOLhyphen"/>stiano Lectori, S.</head>
+   <p>En tibi, Christiane lector, sacrorum cano<g ref="char:EOLhyphen"/>num tabulas, cum earundem &amp; Latina &amp; Gal lica interpretatione officiose exhibemus: Illud in primis admonentes, vt reiectis Veneris, &amp; Dianae, caeterarúmque dearū libidinosis ima<g ref="char:EOLhyphen"/>ginibus, quae animum vel errore impediunt, vel turpitudine labefactāt, ad has sacrosanctas Iconas, quae Hagiographorum penetralia di<g ref="char:EOLhyphen"/>gito commonstrant, omnes tui conatus refe<g ref="char:EOLhyphen"/>rantur. Quid enim pulchrius, aut Christiano homìne dignius, quàm ad has resanimū adiice re, quae solae fidei mysteria sapiunt, &amp; Deum creatorem nostrum vnicè amare, ac veram religionem profiteri praecipiūt? Tuum igitur erit hunc nostrum laborem aequo animo susci pere, ac caeteros commonefacere, vt eiusmo<g ref="char:EOLhyphen"/>di omnia ad Dei largitoris beneficentissimi gloriam, &amp; honorem dirigere meminerint. V<gap reason="illegible" resp="#uom" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> Lector, &amp; fruere.</p>
+</div>
+        </body>
+  </text>
+</TEI>

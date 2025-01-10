@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>H., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103592_Fr1_2</idno>
+           <idno type="DLPS">A02447</idno>
+           <idno type="STC">12581</idno>
+           <idno type="ESTC">S103592</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>H., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The true picture and relation of Prince Henry his noble and vertuous disposition : containing certaine observations and proofes of his towardly and notable inclination to vertue, of the pregnancie of his wit, farre above his age, comprehended in sundry of his witty and pleasant speaches. By W.H. With the true relation of the sicknesse and death of the same most illustrious prince, vvith the opening of his body. Written by a famous doctor of physick in French, and newly translated into English</title>
+                 <author>W. H.</author>
+                 <imprint>
+                    <publisher>Christiaens van der Boxe, Willem</publisher>
+                    <pubPlace>Netherlands--Leiden</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>2, 46 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <p>
+      <hi>Consecrated and Dedicated</hi> TO THE MOST HIGH AND PEERELES PRINCESSE <hi>ELIZABETH,</hi> PRINCESSE OF GREAT BRITAINE, QVEENE OF BOHEMIA, PRIN<g ref="char:EOLhyphen"/>CESSE PALATINE, DV<g ref="char:EOLhyphen"/>CHESSE OF BAVA<g ref="char:EOLhyphen"/>RIA, &amp;c.</p>
+   <closer>
+      <signed>
+         <hi>BY</hi> HER MAIESTIES MOST AFFECTIO<g ref="char:EOLhyphen"/>NED AND BOVND IN ALL HVMBLE DVTY <hi>VV. H.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

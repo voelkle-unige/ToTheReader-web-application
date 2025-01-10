@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad suos Mertonenses Epistola posterior.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113557_Bo2_5</idno>
+           <idno type="DLPS">A16626</idno>
+           <idno type="STC">3534</idno>
+           <idno type="ESTC">S113557</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad suos Mertonenses Epistola posterior.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Thomæ Bradvvardini Archiepiscopi olim Cantuariensis, De causa Dei, contra Pelagium, et De virtute causarum, ad suos Mertonenses, libri tres : iussu reverendiss. Georgii Abbot Cantuariensis Archiepiscopi; opera et studio Di. Henrici Sauilii, Collegij Mertonensis in Academia Oxoniensi custodis, ex scriptis codicibus nunc primum editi</title>
+                 <author>Bradwardine, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 <publisher>Bill, John 1.</publisher>
+                            <publisher>Nortoniana, Officina</publisher>
+                        </imprint>
+                 <extent>34, 876 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_colleagues">
+   <head>Ad suos Mertonenses Epistola posterior.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">D</seg>Ilectis Fratribus &amp; Amicis, Custodi &amp; Socijs Aulae de Merton. in Oxon. Thomas de B. salutem &amp; grat<gap reason="illegible: missing" extent="1 letter">
+            <desc>•</desc>
+         </gap>am in omnibus faeliciter prosperandi.</salute>
+   </opener>
+   <p>Petitioni verstrae mox obtemperare volui sed inter<g ref="char:EOLhyphen"/>currentibus <milestone type="tcpmilestone" unit="unspecified" n="D"/> impedimentis, hactenus non valui; quod volui, Deus nouit. Longis siquidem ac diu<g ref="char:EOLhyphen"/>turnis occupationibus detentus, vix tandem aliquando modicum furatus otium, stilum arripui, &amp; qua interim pro tempore occurrere potuerunt, in eam quaestionem, quam De causa Dei con<g ref="char:EOLhyphen"/>tra Pelagium pestiferum propossictis, tractandam, in his scriptis transmisi. Primum quidem existimaui aut per culosum esse, aut temerarium quod conabar; Tandem vero ad charitatem vestram respiciens, &amp; humilitatem attendens, tam religioso desiderio vestro, nequaquam obniti oportere indicani. Accipite itaque, &amp; benigne suscipite munusculum hoc, paruum quidem, sed non parua deuotione oblatum, in doctrina discipuli, in cha<g ref="char:EOLhyphen"/>ritate amici, in Christo conserui. Obsecro autem ineptas &amp; importunas quaestiones inspicientium in verbo Dei fa<g ref="char:EOLhyphen"/>miliares habere nolite, qui praua ac peruersa quadam consuetudine ac curiositate, non tam amore veritatis, quam cupidine nouitatis circumcurrentes, magis volunt noua audire, quam vera dicere: Hi vero non suam possibilitatem metientes, nec diuinis mysterys reuirentiam exhibentes de omnibus praesumunt, paratitam semper prauis doctrinis fidem adhibere. quam bonis liuorem. Ad vos igitur Collegiatos in agro scholastico cotidiè laborantes pertinet hu<g ref="char:EOLhyphen"/>iusmodi hominum temeritatem castigare, ac adformam studij &amp; viam reducere disciplinae, vt quilibet vestrum non solum sit scriba doctus in regno caelorium, qui profert de the sauro suo noua &amp; vetera, sed &amp; seruus fidelis, quem con<g ref="char:EOLhyphen"/>stituet <milestone type="tcpmilestone" unit="unspecified" n="E"/> Dominus super familiam suam: vt det illi iriticimensuram in tempore suo.</p>
+   <closer>Valete in Domino.</closer>
+   <trailer>FINIS.</trailer>
+   <pb facs="458"/>
+</div>
+        </body>
+  </text>
+</TEI>

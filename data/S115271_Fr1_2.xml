@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectori S.</title>
+           <author>Rawley, G.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1626</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115271_Fr1_2</idno>
+           <idno type="DLPS">A01639</idno>
+           <idno type="STC">1177</idno>
+           <idno type="ESTC">S115271</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectori S.</title>
+                 <author>Rawley, G.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Memoriæ honoratissimi domini Francisci, Baronis de Verulamio, Vice-Comitis Sancti Albani sacrum</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1626</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>4, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>Lectori S.</head>
+   <p>QVod praecipuum sibi
+duxit <hi>Honoratissimus
+Dominus</hi> meus, <hi>Vice-Comes,
+Sancti Albani,
+Academiis,</hi> &amp; viris literatioribus
+ut Cordi esset, id (credo) obti<g ref="char:EOLhyphen"/>nuit;
+quandoquidem insignia haec
+Amoris &amp; Moestitiae Monumen<g ref="char:EOLhyphen"/>ta
+indicant, quantū Amissio ejus
+eorundem Cordi doleat. Ne{que}
+verò parcâ manu Symbolum hoc
+conjecerunt in eum <hi>Musae;</hi> (plu<g ref="char:EOLhyphen"/>rimos
+enim, eós{que} optimos Versus
+apud me contineo;) sed quia ipse
+mole non delectabatur, Molem
+haud magnam extruxi. Satis eti<g ref="char:EOLhyphen"/>am
+<pb facs="3"/>
+sit, ista veluti Fundamenta,
+praesentis Saeculi nomine, jecisse;
+Fabricam (puto) hanc exornabit
+&amp; amplificabit unumquod{que} Sae<g ref="char:EOLhyphen"/>culū;
+Cuinam autem saeculo ulti<g ref="char:EOLhyphen"/>mam
+Manum imponere datum
+sit, id <hi>Deo</hi> tantùm &amp; Fatis mani<g ref="char:EOLhyphen"/>festum.</p>
+   <signed>G. Rawley. S.T.D.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

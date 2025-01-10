@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ILLVSTRISSIMO ET NOBILISSIMO Domino Dno. ROBERTO KARO, Comiti a Summerset, &amp;c.</title>
+           <author>Farley, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101880_Fr1_3</idno>
+           <idno type="DLPS">B13511</idno>
+           <idno type="STC">10693</idno>
+           <idno type="ESTC">S101880</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ILLVSTRISSIMO ET NOBILISSIMO Domino Dno. ROBERTO KARO, Comiti a Summerset, &amp;c.</title>
+                 <author>Farley, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Kalendarium humanæ vitæ. = The kalender of mans life. Authore Roberto Farlæo. Scoto Britanio</title>
+                 <author>Farley, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1638</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas.</publisher>
+                            <publisher>Hope, William</publisher>
+                        </imprint>
+                 <extent>152 pages, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Calendars, almanacs and prognostications</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>ILLVSTRISSIMO ET NOBILISSIMO Domino <hi>Dno. ROBERTO KARO,</hi> Comiti a Summerset, &amp;c.</head>
+   <p>
+      <seg rend="decorInit">A</seg>EGyptii inter primos Sapientiae pa<g ref="char:EOLhyphen"/>tres, sic sibi consuluerunt, ut laetissimis ipsorum conviviis sceleton interesset; Cum imperio delati sunt mores; &amp; Philippus qui Graecam monarchiam fundavit, voluit adolescentem se mortalitatis suae admonere; ipse <hi>Augustus Caesar</hi> noluit, sine hoc more, orbi<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <pb facs="4"/> imperium amplecti, qui &amp; micam, &amp; grabatum suum habuit.</p>
+   <p>Tibi (Nobilis<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ime Heros) hoc mortalitatis symbolum offero; atque eò magis, quòd sciam Te verâ Nobilitate praeditum, cui ipsius mortis memoria semper erit gratissima, cujus nomine ipsa philosophia dignata est. Accipe quaeso, (Nobilissime Heros) hoc qualecunque est, hu<g ref="char:EOLhyphen"/>manitatis <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, neque enim ab hujusmodi stu<g ref="char:EOLhyphen"/>diis ipse abhorres, quùm mortis meditationi, &amp; futurae vitae contemplationi, lucernae tuae ole<g ref="char:EOLhyphen"/>um soleas impendere: accipe inquam (verè He<g ref="char:EOLhyphen"/>ros) hanc, quâ solitus es clementiâ, animi potius integritatem, quam solertem exquisiti ingenii velitationem. Meum putabam hoc opus<g ref="char:EOLhyphen"/>culum, quod mortale esset; Tu Domine, si Tuum duxeris, immortale proculdubiò erit; &amp; quod a meo ingenio sperare minimè potuit; hoc Tuo Genio (nobilis ingeniorum &amp; musarum Pater) libenter debebit. Vive, &amp; Vale, a cujus ore, &amp; favore, ipsarum charitum &amp; musarum vitaque &amp; valetudo dependet; Illae jam dedis<g ref="char:EOLhyphen"/>cent Apollinem, Iovemque suum, &amp; Graecorum numerosos deos implorare; Deum unum, ve<g ref="char:EOLhyphen"/>rum, bonum, supplicibus votis adorabunt, ut Te
+<pb facs="4"/> Patronum, ipso Mecaenate benignior<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>m &amp; ca<g ref="char:EOLhyphen"/>mem magis, hîcin terris, omni honore, postea in Coelis, omni felicitate &amp; beatitudine accumu<g ref="char:EOLhyphen"/>let. Effata pronunciat</p>
+   <closer>
+      <signed>Celsitudini Tuae ad<g ref="char:EOLhyphen"/>dictissimus ROBERTVS FARLAEVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

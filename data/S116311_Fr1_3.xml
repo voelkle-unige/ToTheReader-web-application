@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Readers,</title>
+           <author>S., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116311_Fr1_3</idno>
+           <idno type="DLPS">A11241</idno>
+           <idno type="STC">21501</idno>
+           <idno type="ESTC">S116311</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Readers,</title>
+                 <author>S., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Clidamas, or The Sicilian tale. VVritten by I.S</title>
+                 <author>I. S.</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Cowper (Cooper), John.</publisher>
+                            <publisher>Paine (Payne), Thomas</publisher>
+                        </imprint>
+                 <extent>10, 152 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Readers,</head>
+   <p>
+      <seg rend="decorInit">H</seg>Ere I present you with this little Novel (curteous <hi>Readers</hi>) which though in it selfe it be nothing, yet helpt by a favourable con<g ref="char:EOLhyphen"/>struction, and applied to the right use of such toies, may prove something, though of small moment, whether it be worth the
+<pb facs="4"/>
+reading or no, I must leave to your censures after the perusall: yet thus much let mee hearten you for<g ref="char:EOLhyphen"/>ward to view it over, as a travailer, having but a little way to goe, though it bee none of the best, com<g ref="char:EOLhyphen"/>forts himself with the soon coming to the end, so, if when you begin to reade, you find not those flowers of art, and excellencies of discourse, that you may find in others of the same
+<pb facs="4"/>
+nature, yet consider it is but short, and with these thoughts you shal find an end, before you thinke of wearinesse. Take it there<g ref="char:EOLhyphen"/>fore as the first Fruites of his brains, that if this please, will bee more industrious to content you.</p>
+   <closer>
+      <signed>Yours, as you like him, <hi>I. S.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE SACRED MAIESTIE OF MY Soueraigne Lord and Ma∣ster, King CHARLES.</title>
+           <author>King, Henry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1627</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121245_Fr1_2</idno>
+           <idno type="DLPS">B14338</idno>
+           <idno type="STC">14971</idno>
+           <idno type="ESTC">S121245</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE SACRED MAIESTIE OF MY Soueraigne Lord and Ma∣ster, King CHARLES.</title>
+                 <author>King, Henry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Tvvo sermons preached at VVhite-hall in Lent, March 3. 1625· and Februarie 20. 1626. By Henry King, D.D. one of his Maiesties chaplaines in ordinarie</title>
+                 <author>King, Henry</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1627</date>
+                 <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>4, 45, 3, 34, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE SACRED MAIESTIE OF MY Soueraigne Lord and Ma<g ref="char:EOLhyphen"/>ster, King CHARLES.</head>
+   <opener>
+      <salute>Most Gratious Sir:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>O inuite you to this cold seruice, is to bid you to losse, and to pra<g ref="char:EOLhyphen"/>ctise part of that trouble vpon your Eye, which hath already exercised your Eare. Jf it appeare an importu<g ref="char:EOLhyphen"/>nitie, J dare not excuse my selfe, but humbly sue for Pardon. Which my owne cleare purpose, and your Boun<g ref="char:EOLhyphen"/>teous
+<pb facs="3"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="3"/>
+      <gap reason="duplicate" extent="1 page">
+         <desc>〈1 page duplicate〉</desc>
+      </gap>
+      <pb facs="4"/>Inclination assures me, you will not denie; When your Maiestie pleases to consider, J doe but restore what in the intention and Course of my seruice was Yours before. Nor might J presume to communicate it, vnlesse J obtained Leaue from you, and it had first passed your Princely Hand. Then, as you haue euer beene my Gratious Master, vouchsafe to dignifie by your acceptance the meane endeuours of him, who, though he erre in point of discretion, will ne<g ref="char:EOLhyphen"/>uer erre in the Zeale and Dutie which becomes</p>
+   <closer>
+      <signed>Your Maiesties most loyall and humbly deuoted Seruant, HEN. KING.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

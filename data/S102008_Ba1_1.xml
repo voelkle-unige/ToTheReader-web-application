@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Faultes escaped.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102008_Ba1_1</idno>
+           <idno type="DLPS">A00742</idno>
+           <idno type="STC">10872.5</idno>
+           <idno type="ESTC">S102008</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Faultes escaped.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The sacred doctrine of diuinitie : gathered out of the worde of God. Togither with an explication of the Lordes prayer</title>
+                 <author>Finch, Henry, Sir</author>
+                 <imprint>
+                    <pubPlace>Belgium--Middelburg</pubPlace>
+                    <date>1589</date>
+                 <publisher>Schilders (Grapheus, Painter), Richard.</publisher>
+                            <publisher>Schilders (Grapheus, Painter), Richard</publisher>
+                        </imprint>
+                 <extent>18, 2, 19-56, 24 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="40"/>
+   <head>Faultes escaped.</head>
+   <list>
+      <item>Pag. 6 Lin. 13. after <hi>by,</hi> adde <hi>the.</hi>
+      </item>
+      <item>Pag 8. Lin 12. gentlemen, make <hi>gentleman.</hi>
+      </item>
+      <item>Pag 12. Lin. 16. set in the margent, <gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap> Sam <gap reason="illegible" extent="2 letters">
+            <desc>••</desc>
+         </gap>.</item>
+      <item>Lin. 20 after ashamed, adde <hi>verely.</hi>
+      </item>
+      <item>Lin 24. these, make those.</item>
+   </list>
+   <list>
+      <head>Faultes in the quotations of the Scripture and
+other matters in the margent only.</head>
+      <item>Pag. 14. Lin. 13. 2. Chron 28. 9 read 1. Chro.</item>
+      <item>Pag. 29 Lin. 11. summe, make sinne.</item>
+      <item>Pag. 49 Lin 15. Iohn 3. 35. make Iohn 5. 35.</item>
+      <item>Lin 31. as before letter, b. make, as before lets f.</item>
+   </list>
+   <pb facs="40"/>
+</div>
+        </body>
+  </text>
+</TEI>

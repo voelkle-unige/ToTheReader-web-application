@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶To the reder.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1528</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110511_Fr1_2</idno>
+           <idno type="DLPS">A09791</idno>
+           <idno type="STC">20058.5</idno>
+           <idno type="ESTC">S110511</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶To the reder.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Tho. wyatis translatyon of Plutarckes boke, of the quyete of mynde</title>
+                 <author>Plutarch</author>
+                 <imprint>
+                    <publisher>Pynson (Pinson), Richard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1528</date>
+                 </imprint>
+                 <extent>56 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>¶To the reder.</head>
+   <p>It shall seme harde vnto the parauen<g ref="char:EOLhyphen"/>ture gentyll reder / this trāslation / what for shorte maner of speche / and what for dyuers straunge names in the storyes. As for the shortnesse aduyse it wele and it shalbe the plesaunter / whan thou vn<g ref="char:EOLhyphen"/>derstandest it. As for the straūge names stycke nat ī them / for who that can take no frute in it / without he knowe clerely euery tale that is here touched / I wolde he shulde nat rede this boke.</p>
+   <closer>Farewell.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

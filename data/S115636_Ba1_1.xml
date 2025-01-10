@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115636_Ba1_1</idno>
+           <idno type="DLPS">A16629</idno>
+           <idno type="STC">3537</idno>
+           <idno type="ESTC">S115636</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A vvatch-man for the pest : Teaching the true rules of preservation from the pestilent contagion, at this time fearefully over-flowing this famous cittie of London. Collected out of the best authors, mixed with auncient experience, and moulded into a new and most plaine method; by Steven Bradvvell of London, Physition. 1625</title>
+                 <author>Bradwell, Stephen</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Dawson, John 1.</publisher>
+                            <publisher>Thrale, Richard.</publisher>
+                            <publisher>Vincent, Anne.</publisher>
+                            <publisher>Vincent, George 2</publisher>
+                        </imprint>
+                 <extent>4, 57, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <pb facs="33"/>
+   <p>THere is a Fellow in Distaffe Lane, that disperseth Bills abroad, bragging of a Medicine that was my Grand<g ref="char:EOLhyphen"/>father <hi>Banisters</hi>; thinking vpon the fame of his name to get both glory and gaine to himselfe. But let me warne all men to take heed of such impudent lyers. My Grand-father was very scrupulous of gi<g ref="char:EOLhyphen"/>ving any speciall Receipts to others. But if any man can say he hath any Receipt of his: I am sure, (if it were of any value) I haue the Coppie of it.</p>
+   <p>But I professe vpon the word and credit of an honest man, that among all his Re<g ref="char:EOLhyphen"/>ceipts, he hath not prescribed one Preser<g ref="char:EOLhyphen"/>vatiue Drinke for the <hi>Plague</hi>: And besides, his judgement ever was, that the best forme of an <hi>Antidote</hi> was either Powder, Pill, or Electuarie. Therefore this Drinke that he talkes of; was either none of my Grand<g ref="char:EOLhyphen"/>fathers; or els some very slight thing, by him little esteemed.</p>
+   <p>I cannot beare it, that any should abuse the Kings people with sophisticate Medi<g ref="char:EOLhyphen"/>cines; and lay the imputation vpon so fa<g ref="char:EOLhyphen"/>mous, and so all beloved a Man as Master <hi>Iohn Banister</hi> was.</p>
+   <pb facs="33"/>
+</div>
+        </body>
+  </text>
+</TEI>

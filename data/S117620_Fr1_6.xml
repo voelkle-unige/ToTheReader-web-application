@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Regal, Phin. Fletcher</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117620_Fr1_6</idno>
+           <idno type="DLPS">A00948</idno>
+           <idno type="STC">11058</idno>
+           <idno type="ESTC">S117620</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Regal, Phin. Fletcher</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Christs victorie, and triumph in Heauen, and earth, ouer, and after death</title>
+                 <author>Fletcher, Giles</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1610</date>
+                 </imprint>
+                 <extent>16, 45, 3, 47-78, 81-83, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="7"/>
+   <lg>
+      <l>QVid ô, quid Veneres, Cupidines{que},</l>
+      <l>Turtures{que}, iocos{que}, passeres{que}</l>
+      <l>Lascivi canitis greges, poëtae?</l>
+      <l>Ettam languidulos amantum ocellos,</l>
+      <l>Et mox turgidulas sinu papillas,</l>
+      <l>Iam risus teneros, lachrymulas{que},</l>
+      <l>Mox suspiria, morsiunculas{que},</l>
+      <l>Mille basia; mille, mille nugas?</l>
+      <l>Et vultus pueri, puellululaeve</l>
+      <l>(Heu fusci pueri, puellulae{que})</l>
+      <l>Pingitis nivibus, rosunculis{que},</l>
+      <l>(Mentitis nivibus, rosunculis{que})</l>
+      <l>Quae vel primo hyemis rigore torpent,</l>
+      <l>Vel Phaebi intuitu statim relanguent.</l>
+      <l>Heu stulti nimiùm greges poëtae!</l>
+      <l>Vt, quas sic nimis, ah nimis stupetis,</l>
+      <l>(Nives candidulae, &amp; rosae pudentes)</l>
+      <l>Sic vobis pereunt statim labores:</l>
+      <l>Et solem fugiunt severiorem,</l>
+      <l>Vel solem gelidà rigent senectâ:</l>
+   </lg>
+   <lg>
+      <l>At tu qui clypeo, haud inane nomen</l>
+      <l>(Minervae clypeo Iovis{que}) sumens</l>
+      <l>Victrices resonas dei Triumphos,</l>
+      <l>Triumphos lachrymis, metu{que} plenos,</l>
+      <l>Plenos laetitiae, &amp; spei triumphos,</l>
+      <l>Dum rem carmine, Piero{que} dignam</l>
+      <l>Aggrederis, tibi res decora rebus</l>
+      <l>Praebet carmina, Piero{que} digna.</l>
+      <l>Quin ille ipse tuos legens triumphos,</l>
+      <l>Pleno<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap> militia, labore plenos,</l>
+      <l>Tuo propitius parat labori</l>
+      <l>Plenos laetitiae, &amp; spec triumphos.</l>
+   </lg>
+   <closer>
+      <signed>Phin. Fletcher Regal.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

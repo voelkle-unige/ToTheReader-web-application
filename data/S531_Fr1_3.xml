@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Printer.</title>
+           <author>Taylor, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S531_Fr1_3</idno>
+           <idno type="DLPS">A13448</idno>
+           <idno type="STC">23754</idno>
+           <idno type="ESTC">S531</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Printer.</title>
+                 <author>Taylor, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The fearefull summer, or, Londons calamity, the countries courtesy, and both their misery / by Iohn Taylor</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1625</date>
+                 <publisher>Lichfield, John.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>30 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_printer">
+   <pb facs="3"/>
+   <head>To the Printer.</head>
+   <p>MY conceite is, that these are very la<g ref="char:EOLhyphen"/>mētable verses, &amp; will greiue many the reading, they so expresse death to life &amp; make mortality immortal; I wish that as many as can make vse of such pittifull lines had copies, the rest may want them: Here and there a verse may occa<g ref="char:EOLhyphen"/>sion a teare, then the Author is a true water-Poet indeed, but else where, there wants not an hand-kercheife to dry that teare: So is the whole worke a <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> and deserues an approbation at least from</p>
+   <closer>
+      <signed>Io. TAYLOR.</signed>
+      <dateline>OR. COLL.</dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

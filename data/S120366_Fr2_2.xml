@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Letter]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120366_Fr2_2</idno>
+           <idno type="DLPS">A68914</idno>
+           <idno type="STC">25911</idno>
+           <idno type="ESTC">S120366</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Letter]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Iuuenilia. A collection of those poemes which were heretofore imprinted, and written by George wither</title>
+                 <author>Wither, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 <publisher>Budge, John.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>34, 308, 313-387, 209 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter">
+   <pb facs="21"/>
+   <pb facs="21"/>
+   <p>TO THE ALL-VER<g ref="char:EOLhyphen"/>TVOVS AND THRICE EXCELLENT PRINCESSE <hi>Elizabeth,</hi> sole daughter to our dread Soueraigne, <hi>Iames</hi> by the grace of God, King of <hi>Great Britaine, France</hi> and <hi>Ireland,</hi> &amp;c. AND WIFE TO THE HIGH AND MIGHTY PRINCE, <hi>FREDERICK</hi> the fifth, Count Palatine of the <hi>Rheine,</hi> Duke of Bauier, &amp;c. Elector, and Arch-s<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>w er to the sacred Roman Empire, during the vacancy Vicar of the same, and Knight of the most hono<g ref="char:EOLhyphen"/>rable Order of the <hi>Garter.</hi>
+   </p>
+   <p>
+      <hi>George Wither</hi> wisheth all the Health; Ioyes, Honours, and Felicities of this World, in this life, and the perfections of eternity in the World to come.</p>
+</div>
+        </body>
+  </text>
+</TEI>

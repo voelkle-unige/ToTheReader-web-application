@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Thomas Newtonus Cestreshyrius.</title>
+           <author>Newton, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115988_Fr1_4</idno>
+           <idno type="DLPS">A10786</idno>
+           <idno type="STC">21057</idno>
+           <idno type="ESTC">S115988</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Thomas Newtonus Cestreshyrius.</title>
+                 <author>Newton, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The compound of alchymy. Or The ancient hidden art of archemie : conteining the right &amp; perfectest meanes to make the philosophers stone, aurum potabile, with other excellent experiments. Diuided into twelue gates. First written by the learned and rare philosopher of our nation George Ripley, sometime Chanon of Bridlington in Yorkeshyre: &amp; dedicated to K. Edvvard the 4. Whereunto is adioyned his epistle to the King, his vision, his wheele, &amp; other his workes, neuer before published: with certaine briefe additions of other notable writers concerning the same. Set foorth by Raph Rabbards Gentleman, studious and expert in archemicall artes</title>
+                 <author>Ripley, George</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 </imprint>
+                 <extent>104 pages, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="6"/>
+   <head>Thomas Newtonus Cestreshyrius.</head>
+   <l>ALchymicae indagaus arcana <hi>Georgius</hi> artis</l>
+   <l>Chremata <hi>Riplaeus,</hi> rari miranda reliquit</l>
+   <l>Ingenij monumenta sui, quae nulla vetustas</l>
+   <l>Exedet, aut putri poterit sepelire veterno.</l>
+   <l>Illotis nemo manibus mysteria tanta</l>
+   <l>Tractet, at <hi>Hermeticam</hi> veneretur <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>.</l>
+   <l>Hanc Plato diuinus <hi>foedus</hi> vocat, aurea Naso</l>
+   <l>Vellera, &amp; a vigili mala aurea septa dracone.</l>
+   <l>Laudibus hanc multis celebrant Mirandula, Lullus,</l>
+   <l>Geber, Auicenna, Hippocrates, Morienus, Aquinas,</l>
+   <l>Duns Scotus, Arnaldus, Vincentius, Oldradus, Hermes,</l>
+   <l>Plinius, Albertus, Ficinus, Cuba, Valescus,</l>
+   <l>Eustathius, Suidas, Maro, Zosimus, Haly, Baconus,</l>
+   <l>Rhasis, Aristoteles, Rosinus, Petrus ipse Aponensis,</l>
+   <l>Complurés{que} alij: cuncti almae huic grata Sophiae</l>
+   <l>Munera persoluant, linguis{que} animis{que} benigni.</l>
+   <closer>
+      <signed>Thomas Newton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

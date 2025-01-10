@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A few words of direction to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111384_Fr1_2</idno>
+           <idno type="DLPS">A13484</idno>
+           <idno type="STC">23783</idno>
+           <idno type="ESTC">S111384</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A few words of direction to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Part of this summers travels, or News from hell, Hull, and Hallifax, from York, Linne, Leicester, Chester, Coventry, Lichfield, Nottingham, and the Divells Ars a peake : With many pleasant passages, worthy your observation and reading. By Iohn Taylor</title>
+                 <author>Taylor, John</author>
+                 <imprint>
+                    <publisher>Okes (Oakes), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>4, 48, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>A few words of direction to the Reader.</head>
+   <p>I Have not written every place in that order, as is set downe in the Title of this Pamphlet, but of such places as I travelled unto, I have truly related the passages, and the time, both when, where, why, and how I went, came and per<g ref="char:EOLhyphen"/>form'd it. If any man aske wherefore this Book is good, or how it may be any way usefull, I answer that it is foure ways com<g ref="char:EOLhyphen"/>modious: First, it is profitable, for it will direct a man the high-wayes of crossing di<g ref="char:EOLhyphen"/>vers Countries from place to place, which no other Book shews, as from <hi>Leicester</hi> to <hi>Linne</hi> in <hi>Norfolke,</hi> from <hi>Linne</hi> to <hi>Kingstone,</hi>
+      <pb facs="3"/>
+upon <hi>Hull</hi> in <hi>Yorkeshire,</hi> from <hi>Hull</hi> to <hi>Yorke,</hi> thence to <hi>Hallifax,</hi> to <hi>Chester, Darby, Nottingham, Coventry, Lichfield,</hi> and <hi>the Devils Ars a Peake:</hi> all these ways are here<g ref="char:EOLhyphen"/>in described; secondly, there are some Mo<g ref="char:EOLhyphen"/>numents of Antiquitie are mentioned, which greater Authours have omitted; thirdly, there are some passages of delight<g ref="char:EOLhyphen"/>full Mirth and Recreation. And lastly, all is true, or else you have the Authours leave to travell as hee hath done, and doe your best and worst to prove him a liar.</p>
+</div>
+        </body>
+  </text>
+</TEI>

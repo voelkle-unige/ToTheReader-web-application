@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105941_Ba1_2</idno>
+           <idno type="DLPS">A17055</idno>
+           <idno type="STC">3929</idno>
+           <idno type="ESTC">S105941</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Praxis medicinæ, or, the physicians practice : vvherein are contained inward diseases from the head to the foote: explayning the nature of each disease, with the part affected; and also the signes, causes, and prognostiques, and likewise what temperature of the ayre is most requisite for the patients abode, with direction for the diet he ought to obserue, together with experimentall cures for euery disease. ... Written by that famous and worthy physician, VValter Bruel</title>
+                 <author>Bruele, Gualtherus</author>
+                 <imprint>
+                    <publisher>Norton, John 2</publisher>
+                    <distributor>Sheares, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>4, 152, 151-182, 181-407, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="211"/>
+   <p>T<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>at euery one may know how to compound these medicines, without the helpe of any other man, therefore the notes of all the weights which are vsed among the Apothecaries, are placed vn<g ref="char:EOLhyphen"/>derneath.</p>
+   <list>
+      <item>Grain<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> hath this marke <hi>gr.</hi>
+      </item>
+      <item>Scruple hath this marke ℈.</item>
+      <item>Drach<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>e hath this marke ʒ.</item>
+      <item>Ounce hath this marke ℥.</item>
+      <item>Pound hath this marke <abbr>lb.</abbr>
+      </item>
+      <item>Quart hath this marke <hi>qr.</hi>
+      </item>
+      <item>A smal handfull hath this marke p.</item>
+      <item>A great handfull hath this marke M.</item>
+      <item>Hal<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>e hath this marke ss.</item>
+      <item>Of each hath this marke ana.</item>
+      <item>Receiue hath this marke ℞.</item>
+   </list>
+   <p>As much as i<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> sufficient q. s.</p>
+   <pb facs="212"/>
+   <pb facs="212"/>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad eundem M. B. Oxoniensis aliud Hexasticon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1589</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112501_Fr1_5</idno>
+           <idno type="DLPS">A07400</idno>
+           <idno type="STC">17784</idno>
+           <idno type="ESTC">S112501</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad eundem M. B. Oxoniensis aliud Hexasticon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine briefe, and speciall instructions for gentlemen, merchants, students, souldiers, marriners, &amp;c. employed in seruices abrode, or anie way occasioned to conuerse in the kingdomes, and gouernementes of forren princes</title>
+                 <author>Meyer, Albrecht</author>
+                 <imprint>
+                    <publisher>Wolfe (Woolfe), John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1589</date>
+                 </imprint>
+                 <extent>8, 21, 3 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>Ad eundem <hi>M. B.</hi> Oxoniensis aliud Hexasticon.</head>
+   <l>VIx satis ex multis nostrorum millibus vnus,</l>
+   <l>Quaerenti quae sint trans mare Regna facit.</l>
+   <l>Non populi ingenium, mores, Respublica, lingua,</l>
+   <l>Religio in Cerebrum nec cadit ipsa suum.</l>
+   <l>Qui cupit huic tandem communi occurrere morbo,</l>
+   <l>Consilii capiat pharmaca recta tui.</l>
+</div>
+        </body>
+  </text>
+</TEI>

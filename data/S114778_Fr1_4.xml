@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the READER.</title>
+           <author>Sharpe, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114778_Fr1_4</idno>
+           <idno type="DLPS">A12064</idno>
+           <idno type="STC">22372</idno>
+           <idno type="ESTC">S114778</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the READER.</title>
+                 <author>Sharpe, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A looking-glasse for the Pope : Wherein he may see his owne face, the expresse image of Antichrist. Together with the Popes new creede, containing 12. articles of superstition and treason, set out by Pius the 4. and Paul the 5. masked with the name of Catholike faith: refuted in two dialogues. Set forth by Leonel Sharpe Doctor in Diuinitie, and translated by Edward Sharpe Bachelour in Diuinitie</title>
+                 <author>Sharpe, Leonel</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>48, 390, that is 376, 18 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="24"/>
+   <head>The Translator to the READER.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, I doubt not, but a translation of such a nature, will incur much reprehension, euen of good men, not onely in respect of the matter, which it somewhat obscure for the vulgar, but also for the manner, which must needes come short of the originall. For the first, if the worke be so good, that it was thought fit to be made knowne to some, I see no reason, but it may be made knowne to more; and so may be, <hi>Bonum quo communius, eo melius.</hi> And for the other, I confesse, it comes farre short of that sufficiencie, wherein it was set out in Latin, and so would haue been, though it had fal<g ref="char:EOLhyphen"/>len on a skilfull workeman in respect of our English, which is farre more barbarous, and is many times the worse, when it is set out with bombasted words and incke-horne termes, such as the world is too well ac<g ref="char:EOLhyphen"/>quainted with at this day. What the Rom-Catholikes thinke of the worke, I care not, they are like to loose by it, and loosers will haue their words. The Latine hath been censured by them already, as I am informed to be well written for the style, but exceeding bad for the matter. Whose censure I will regard, contrary to Ciceroes censuring of a Gentlewomans dancing, wher<g ref="char:EOLhyphen"/>of he said, <hi>the better the worse:</hi> but I of their cen<g ref="char:EOLhyphen"/>sures, <hi>the worse the better.</hi> For if nought that was good was heretofore look'd for from Galilie, what good can be looked for at this day from Rome, the forge of
+<pb facs="25"/> all slanders and villanies. And if Christian Kings cannot be exempted from their obloquies and iniuries, why should we poore men, both the Author and Tran<g ref="char:EOLhyphen"/>slator hope no escape the opprobries of such blacke-mouth'd Orators. Howsoeuer it be, and whatsoeuer befall, the worke was first set out, and now translated not only to reueale Antichrist, who by his gadding Priests is ready to seduce thee: but also to set forth Christ vnto thee, who by his grace is most ready to saue thee. If ought therein be amisse, impute it to the weak<g ref="char:EOLhyphen"/>nesse of men; if there be any good, for thy good yeeld glory to God, to whom I commend thee; and rest</p>
+   <closer>
+      <signed>Thy Christian well-willer, EDWARD SHARPE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The second Part is divided into
+two Bookes.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108009_Fr1_7</idno>
+           <idno type="DLPS">A18928</idno>
+           <idno type="STC">5348</idno>
+           <idno type="ESTC">S108009</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The second Part is divided into
+two Bookes.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of Great Britannie : declaring the successe of times and affaires in that iland, from the Romans first entrance, vntill the raigne of Egbert, the West-Saxon prince; who reduced the severall principalities of the Saxons and English, into a monarchie, and change the name of Britannie into England</title>
+                 <author>Clapham, John</author>
+                 <imprint>
+                    <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>12, 302, 2 pages, portraits, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Arguments &amp; Summaries</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div n="2" type="abstract_of_part">
+   <pb facs="6"/>
+   <head>The second Part is divided into
+two Bookes.</head>
+   <div n="1" type="abstract_of_book">
+      <head>The first Booke.</head>
+      <p>Declaring the state of affaires in <hi>Britannie</hi> after the
+<hi>Romans</hi> had given over the government there, vntill
+such time as the <hi>Saxons</hi> and <hi>English</hi> obteined it.</p>
+   </div>
+   <div n="2" type="abstract_of_book">
+      <head>The second Booke.</head>
+      <p>Containing an Epitome, or a short (imperfect) rela<g ref="char:EOLhyphen"/>tion
+of the chiefe occurrents in everie one of the se<g ref="char:EOLhyphen"/>ven
+Principalities of the <hi>Saxons,</hi> and <hi>English,</hi> vntill <hi>Eg<g ref="char:EOLhyphen"/>bert</hi>
+the <hi>West-Saxon</hi> Prince reduced them into a Mo<g ref="char:EOLhyphen"/>narchie.</p>
+      <p>The beginning of the Raigne of <hi>Egbert</hi> the first
+<hi>English</hi> Monarch.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

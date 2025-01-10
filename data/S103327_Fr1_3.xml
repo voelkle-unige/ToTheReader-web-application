@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103327_Fr1_3</idno>
+           <idno type="DLPS">A01958</idno>
+           <idno type="STC">12100</idno>
+           <idno type="ESTC">S103327</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The anatomie of Ananias: or, Gods censure against sacriledge : With a breife scholie vpon Psalm. 83. concerning the same subiect. By Roger Gostvvyke Batchelour of Diuinitie, and minister of Sampford Courtnie in the countie of Deuonsh</title>
+                 <author>Gostwick, Roger</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>8, 183, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>Ad Lectorem.</head>
+   <l>MIra legis quicun{que} legis portenta nefandi</l>
+   <l>Criminis, vt poenas sacrilega acta luant.</l>
+   <l>Vera legis quicunque legis tormenta nocentum:</l>
+   <l>Vt delinquentes ira superna premat.</l>
+   <l>Saepe fit vt sacrum cumuletur sanguine furtum</l>
+   <l>Saepe fit vt poenas culpa det illa nouas.</l>
+   <l>Quis non à domino proprium qui curat honorem</l>
+   <l>Cogitet haec fieri, nec repetendo tremat?</l>
+   <l>Discite mortales quid sit temerare sacrata</l>
+   <l>Discite raptrices hinc cohibere manus.</l>
+</div>
+        </body>
+  </text>
+</TEI>

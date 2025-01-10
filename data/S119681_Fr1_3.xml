@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>W., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119681_Fr1_3</idno>
+           <idno type="DLPS">A14976</idno>
+           <idno type="STC">25284</idno>
+           <idno type="ESTC">S119681</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>W., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The flaming bush. Or, An embleme of the true Church. Written by Thomas Westerne, minister of Gods Word at Alderleigh in Cheshire</title>
+                 <author>Westerne, Thomas</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>8, 108, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Ecause the Prouerb sayth, <hi>One Bird in the hand, is better then two in the Bush;</hi> I haue presented thee here both a Bird and a Bush, and hauing two Birds in a Bush, to catch for thee hereafter, one Bird in the hand I offer thee here: thou wilt say an Ousel; be it so: yet if her feathers be blacke, her flesh is restoratiue: Onely her war<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>ling tunes expect thy censure, if they please, shee is pleas'd, for to this end shee sings that thou might dance: If otherwise, had shee a tongue to speake, shee would
+<pb facs="5"/> craue pardon: I that should teach her, am no good whistler; there<g ref="char:EOLhyphen"/>fore as the labour mine, so the fault mine: let gentlenesse bee thine, as I will be thine, I hope well, (for I meane well) that thou wilt accept well, what it not done well.</p>
+   <closer>
+      <salute>Farewell.</salute>
+      <signed>T. W.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

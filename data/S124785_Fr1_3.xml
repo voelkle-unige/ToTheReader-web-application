@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ GVLIELMVS FLETE∣wodus Vrbis Londinen∣sis Recordator, ad candi∣dum Lectorem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S124785_Fr1_3</idno>
+           <idno type="DLPS">A72509</idno>
+           <idno type="STC">15175.5</idno>
+           <idno type="ESTC">S124785</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ GVLIELMVS FLETE∣wodus Vrbis Londinen∣sis Recordator, ad candi∣dum Lectorem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A perambulation of Kent : conteining the description, hystorie, and customes of that shyre. Collected and written (for the most part) in the yeare. 1570. by William Lambard of Lincolnes Inne Gent. and nowe increased by the addition of some things which the authour him selfe hath obserued since that time</title>
+                 <author>Lambarde, William</author>
+                 <imprint>
+                    <publisher>Middleton, Henry</publisher>
+                    <distributor>Newbery (Nuberie), Ralph</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 </imprint>
+                 <extent>16, 58, 58-59, 59-435, 1 page, plates, map, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="7"/>
+   <head>¶ GVLIELMVS FLETE<g ref="char:EOLhyphen"/>wodus Vrbis Londinen<g ref="char:EOLhyphen"/>sis Recordator, ad candi<g ref="char:EOLhyphen"/>dum Lectorem.</head>
+   <l>EN tibi Lector, adest series dignissima rerū,</l>
+   <l>Canticolûm si nôsse cupis pia stemmata, siue</l>
+   <l>Si tibi sacra placent horum cōmixta prophanis,</l>
+   <l>Siue meare libet per compita, flumina, pontes,</l>
+   <l>Seu reserare velis septem diademata regum:</l>
+   <l>Cuncta Topographia hac Lābardus pingit apertè,</l>
+   <l>Jngenio rarus, grauis arte, labore notandus.</l>
+   <l>Cuius mellifluo debet nunc Cantia libro</l>
+   <l>Plurima, myriades rerum dum ventilat aptè:</l>
+   <l>Quas benè si capias, habet hic cū foenore sortē.</l>
+</div>
+        </body>
+  </text>
+</TEI>

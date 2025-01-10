@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100306_Fr1_2</idno>
+           <idno type="DLPS">A07535</idno>
+           <idno type="STC">17917</idno>
+           <idno type="ESTC">S100306</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Concerning imposition of hands : A sermon at the Lord Archbishop his visitation metropolitical, held, at Saint Marie Cray in Kent, by the Bishop of Rochester his Graces commissioner, the 7 of September last, preached by Richard Milborne Doctor of Diuinitie, and parson of Seuenoke in Kent</title>
+                 <author>Milbourne, Richard</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Law (Lawe), Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>52 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">T</seg>He Preacher of this ser<g ref="char:EOLhyphen"/>mon vnwilling to any and vtterly vnwitting of this edition, could not pre<g ref="char:EOLhyphen"/>mise either preface praepa<g ref="char:EOLhyphen"/>ritoy to the Reader, or Epistle dedicato<g ref="char:EOLhyphen"/>rie to any Personage: yet without his leaue it was thought fit for the presse, both in respect of the subiect which it principally handleth, and also that the worlde may take knowledge, that (making no compa<g ref="char:EOLhyphen"/>rison) there is to be found euen in rurall parishes both sufficiency for imployment, and soundnes for iudgement, and abilitie for gouernment, <hi>Nam et hic quoque Dij sunt,</hi> saith Heraclitus. It is their
+<pb facs="3"/>
+greefe indeed, who through neglect lay so obscured, and their plea none other, but theirs in the gospell, <hi>Nemo nos con<g ref="char:EOLhyphen"/>duxit,</hi> but withall their comfort that it is not the passage of this age alone, for both <hi>Salomon</hi> in his time complained of it, that while meaner qualities were aduan<g ref="char:EOLhyphen"/>ced, better deserts went a foote, and their riding experience teacheth them, that brasen stirrops must helpe men to horseback, and support them in the saddle.</p>
+</div>
+        </body>
+  </text>
+</TEI>

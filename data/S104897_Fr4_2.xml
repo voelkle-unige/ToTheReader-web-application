@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Illustriac venerabili viro
+ro:
+M Thomae Fermor Armigero
+Norfolciensi.</title>
+           <author>Langhorne, Lancelot</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104897_Fr4_2</idno>
+           <idno type="DLPS">A17990</idno>
+           <idno type="STC">4649</idno>
+           <idno type="ESTC">S104897</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Illustriac venerabili viro
+ro:
+M Thomae Fermor Armigero
+Norfolciensi.</title>
+                 <author>Langhorne, Lancelot</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Madrigals to fiue voyces: newly published by Richard Carlton preist: batchelor in musique</title>
+                 <author>Carlton, Richard</author>
+                 <imprint>
+                    <publisher>Ballard, Henry</publisher>
+                    <distributor>Morley, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 </imprint>
+                 <extent>180 pages, music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="53"/>
+   <pb facs="53"/>
+   <head>Illustriac venerabili viro
+ro:
+M Thomae Fermor Armigero
+Norfolciensi.</head>
+   <p>
+      <seg rend="decorInit">M</seg>Vsica vt est musarum prima (generosis<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>me vir) ita eis
+speciali gratia indulget summus naturae parens, quibuscum
+tam coeleste donum communicat, et quos capit, vera tantae
+bonitatis dulcedine: Mens enim humana, qua nihil nobili<g ref="char:EOLhyphen"/>us,
+coelum, quo nihil splendidius, elementa, quibus nihil v<g ref="char:EOLhyphen"/>tilius,
+arctam cum ea vendicant affinitatem cuius vim
+vt olim mortuos ab inferis reuocasse, et res non preditas
+tantum, sed et priuatas sensu miris modis affecisse legimus,
+ita nunc vndiquaque cernimus omnes, e<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>m saepissime tristiores ad gaudia petulantes ad
+modestiam, impios ad pietatem excitasse. Tentamenta tamen h<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>c, et prima libami<g ref="char:EOLhyphen"/>na
+facultatis meae quaecunque fuerint tibi volui, tum optime de me merito dedica<g ref="char:EOLhyphen"/>re,
+tum Mus<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>ces studio sumo censenda committere, vt er animi in te mei monu<g ref="char:EOLhyphen"/>mentum
+referre posuerint, et tam s<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>ncero, perito et candido commendata indicio, ali<g ref="char:EOLhyphen"/>orum
+secura censuras minime vereri. Det deus vt omnia tibi ex votis faliciter suc<g ref="char:EOLhyphen"/>cedant.</p>
+   <closer>
+      <signed>Tui obseruantissimus
+Richardus Carlton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

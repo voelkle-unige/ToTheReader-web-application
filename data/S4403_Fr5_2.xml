@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To my Honoured friend, Sir John Scot, Knight.</title>
+           <author>P., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4403_Fr5_2</idno>
+           <idno type="DLPS">A08802</idno>
+           <idno type="STC">19088.3</idno>
+           <idno type="ESTC">S4403</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To my Honoured friend, Sir John Scot, Knight.</title>
+                 <author>P., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Nine sermons vpon sun [drie] texts of scripture : first, The allegeance of the cleargie. The supper of the Lord. Secondly, The Cape of Good Hope: deliuered in fiue sermons, for the vse and b [ene] fite of marchants and marriners. Thirdly, The remedie of drought. A thankes-giuing for raine. By Samvel Page, Doctor in Diui [nitie]</title>
+                 <author>Page, Samuel</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <distributor>Waterson, Simon</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>6, 26, 25-144, 149-167, 170 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="67"/>
+   <pb facs="67"/>
+   <head>¶ To my Honoured friend, <hi>Sir John Scot,</hi> Knight.</head>
+   <opener>
+      <salute>VVorthy Sir,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>O keepe fresh the memorie of the mercie heerein expressed, I haue put these two Sermons into this way of suruiuing with posteritie, here is our Semination in prayers: and our Haruest in preuailings. Heere is Gods Semination in his benefite of
+<pb facs="68"/>
+raine: and his Haruest our deuout Thankesgiuing. These I haue made bolde to communicate to the Church of God vnder your wel knowne and wel<g ref="char:EOLhyphen"/>beloued name, as an acknowledgement of my debt to your loue of mee, who in short time haue learned to be euer bound vnto you. <hi>Deptford.</hi>
+   </p>
+   <closer>
+      <signed>S. P.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

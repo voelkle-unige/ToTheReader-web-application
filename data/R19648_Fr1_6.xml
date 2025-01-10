@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Catalogue of other printed Books of Sr. Henry Spelmans, which are to be sold by Philemon Stephens at the gilded Lion in Pauls Church-yard.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">R19648_Fr1_6</idno>
+           <idno type="DLPS">A61095</idno>
+           <idno type="STC">7545</idno>
+           <idno type="ESTC">R19648</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Catalogue of other printed Books of Sr. Henry Spelmans, which are to be sold by Philemon Stephens at the gilded Lion in Pauls Church-yard.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A heavenly hymne to the king of heaven. Presented in a sermon, by Iames Eglesfield, Mr. of Arts in Queenes Colledge in Oxon late Vicar of Chewton in Sommerset</title>
+                 <author>Eglesfield, James</author>
+                 <imprint>
+                    <publisher>Dawson, John 2</publisher>
+                    <distributor>Eglesfield, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>6, 31, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publishers_note">
+   <pb facs="8"/>
+   <head>A Catalogue of other printed Books of S<seg rend="sup">r</seg>. <hi>Henry Spelmans,</hi> which are to be sold by <hi>Philemon Stephens</hi> at the gilded Lion in <hi>Pauls</hi> Church-yard.</head>
+   <list>
+      <item>
+         <hi>1.</hi> COncilia, Decreta, Leges, Constitutiones de Re Ecclesiarum Orbis Britannici, ab initio Christianae ibidem Religio<g ref="char:EOLhyphen"/>nis; cum Annotationibus non minus piis quam doctis: Opus Antiquitatis studiosis apprime gratum &amp; utile.</item>
+      <item>
+         <hi>2.</hi> Glossarium eruditissimum: in que prisci Ritus quamplurimi, Magistratus, Dignitates, Munera, Officia, Mores, Leges, &amp; Consuetudines enarrantur.</item>
+      <item>
+         <hi>3.</hi> Psalterium Davidis Latino-Saxonicum, à Jo. Spelmanno, Henrici F. è Patus Bibliotheca in lucem editum: ubi ad finem uniuscujusque Psalmi preces optimae in animum Psalmi repe<g ref="char:EOLhyphen"/>riuntur.</item>
+      <item>
+         <hi>4.</hi> De non temerandis Ecclesiis, <hi>or, Of the right and respect due unto Churches, which are not to be violated.</hi>
+      </item>
+      <item>
+         <hi>5.</hi> De Sepultura.</item>
+   </list>
+   <pb facs="9"/>
+</div>
+        </body>
+  </text>
+</TEI>

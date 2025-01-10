@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1587</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116387_Fr1_2</idno>
+           <idno type="DLPS">A10957</idno>
+           <idno type="STC">21227</idno>
+           <idno type="ESTC">S116387</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The English creede : consenting vvith the true, auncient, catholique, and apostolique Church in al points, and articles of religion, which euerie Christian is to know and beleeue that would be saued. The second part, in most loyal manner to the glorie of God, credit of ou Church, and displaieng of al hæresies, and errors, both olde and newe, contrarie to the faith, subscribed vnto by Thomas Rogers. Allowed by auctoritie</title>
+                 <author>Rogers, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1587</date>
+                 <publisher>Day, John 1.</publisher>
+                            <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Maunsell (Mansell), Andrew 1.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>4, 74, 76-77, 79-91, 3 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TAM GENERE, QVAM VIRTVTE PRAECELLEN<g ref="char:EOLhyphen"/>TI, D. CHRISTOPHERO HAT<g ref="char:EOLhyphen"/>TONO EQVITI AVRATO, RE<g ref="char:EOLhyphen"/>GNI ANGLIAE SVMMO CAN<g ref="char:EOLhyphen"/>CELLARIO, ALIIS QVE MVL<g ref="char:EOLhyphen"/>TIS NOMINIBVS HONO<g ref="char:EOLhyphen"/>RATISSIMO VIRO, SVO OPTIMO MAECE<g ref="char:EOLhyphen"/>NATI AC PA<g ref="char:EOLhyphen"/>TRONO: <hi>THOM AS ROGERIVS,</hi> POSTERIOREM HANC SYMBOLO ANGLICANO SVBSCRIPTIO<g ref="char:EOLhyphen"/>NIS SVAE PARTEM, HONO<g ref="char:EOLhyphen"/>RIS GRATIQVE ANIMI TESTIFICATIONIS ERGO, DEVOTE CONSECRA<g ref="char:EOLhyphen"/>VIT.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Al molto Nobile é Mag.co Sig.re il Signor Roberto Dudleio.</title>
+           <author>Eliota, Gio.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121992_Fr1_2</idno>
+           <idno type="DLPS">A21218</idno>
+           <idno type="STC">7574</idno>
+           <idno type="ESTC">S121992</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Al molto Nobile é Mag.co Sig.re il Signor Roberto Dudleio.</title>
+                 <author>Eliota, Gio.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Ortho-epia Gallica : Eliots fruits for the French: enterlaced vvith a double nevv inuention, vvhich teacheth to speake truely, speedily and volubly the French-tongue. Pend for the practise, pleasure, and profit of all English gentlemen, who will endeuour by their owne paine studie, and dilligence, to attaine the naturall accent, the true pronounciation, the swift and glib grace of this noble, famous, and courtly language</title>
+                 <author>Eliot, John</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Wolfe (Woolfe), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>20, 60, 17-173, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="it">Italian</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>Al molto Nobile é Mag.<seg rend="sup">co</seg> Sig.<seg rend="sup">re</seg> il Sig<seg rend="sup">nor</seg> Roberto Dudleio.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Vogliono gli Antichi e moderni scrittori No<g ref="char:EOLhyphen"/>biliss.<seg rend="sup">mo</seg> signore, di consecrare l'Opere loro alli nomi di personaggi di qualità, i quali col va<g ref="char:EOLhyphen"/>lor e auttorità loro potranno nascondere non solamente gli errori commessi nello stile, ma anchora l'ingegno meno intendente di colui, chi la medesima opera componeua. Et io nato e nodrito nel contado di Varvik, doue l'Illustrissima casa vostra é sempre stata honorata non potrei far manco, che tener' questo obligo à S.S. ad offe<g ref="char:EOLhyphen"/>rirui vn picciolo tributo e talento mio per segno di piu agra<g ref="char:EOLhyphen"/>deuol' seruitio, supplicandovi humilmente di riceuerlo non risguardando tanto al dono, quanto alla sincera affettione di colui chi lo presenta:
+<q>
+         <l>Obtulit vt sacras sua munera pauper ad aras:</l>
+         <l>Et placuit pietas officiosa Deo.</l>
+      </q>
+Il che ho fatto, non per rispetto che istimassi S.S. priua di tanti doni e tesori eccellenti delle lingue: le cui altre qualità virtu<g ref="char:EOLhyphen"/>ose, e attioni caualaresche meritano somma laude fra i corte<g ref="char:EOLhyphen"/>giani Inglesi. Supplico adunque V.S. di pardonarmi questa prosontione, poi che altro non desidero che la sua candida pro<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>ettione: la qual mi sará vn riparo e ricapito di grande effica<g ref="char:EOLhyphen"/>cia contra i maligni, e vna piu degna auttorità per i gentil<g ref="char:EOLhyphen"/>huomini di questa terra affettionati alla lingua Francesca, i quali accettaranno l'opera mia in migliorparte, vedendola fauorita da S.S. e approuata col honoreuole nome vostro in
+<pb facs="3"/>
+fronte. Offerendomele tra tanto, diuotis.<seg rend="sup">mo</seg> seruitore, e pregā<g ref="char:EOLhyphen"/>dole dal cielo ogni compita felicità, ogni virtu, valore, sapien<g ref="char:EOLhyphen"/>za, intendimento delle lingue, e tutte quelle virtù heroiche che risplendeuano nelli predecessori suoi illustri, accioche ne siate, come eglino sono stati, fedel suddito alla Maestà Reale, amico del Paese suo, e vn ornamento della Rep. Chri<g ref="char:EOLhyphen"/>stiana.</p>
+   <closer>
+      <signed>
+         <hi>B. l. m. d. v. s. S. d. v. s.</hi> Gio. Eliota.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1636</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105188_Bo1_2_14</idno>
+           <idno type="DLPS">A10603</idno>
+           <idno type="STC">20875</idno>
+           <idno type="ESTC">S105188</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lord haue mercy vpon vs : A speciall remedy for the plague</title>
+                 <imprint>
+                    <distributor>Sparke, Michael 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1636</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Sparke (Sparkes, Wreichionen), Michael 1.</publisher>
+                            <publisher>Young (Junius), Robert</publisher>
+                        </imprint>
+                 <extent>1 sheet (1 page), 1°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <p>Reader, I referre thee for thy better preser<g ref="char:EOLhyphen"/>vation,
+to the 4<gap reason="illegible: faint" extent="1 letter">
+         <desc>•</desc>
+      </gap>. Prayer in the <hi>Crums of com<g ref="char:EOLhyphen"/>fort,</hi>
+being most effectuall, with Remembrance
+of Deliberance, at the latter end of the books:
+and to sing in times of heavinesse Psalmes <gap reason="illegible: blotted" extent="1 letter">
+         <desc>•</desc>
+      </gap>8.
+&amp; 91 &amp;c.</p>
+   <p>
+      <figure>
+         <figDesc>decorative border</figDesc>
+      </figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

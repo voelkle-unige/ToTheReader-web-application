@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errors, some in al copies, some in certain only, are thus to be corrected.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1593</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115570_Ba1_3</idno>
+           <idno type="DLPS">A10353</idno>
+           <idno type="STC">20633</idno>
+           <idno type="ESTC">S115570</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errors, some in al copies, some in certain only, are thus to be corrected.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A treatise conteyning the true catholike and apostolike faith of the holy sacrifice and sacrament ordeyned by Christ at his last Supper : vvith a declaration of the Berengarian heresie renewed in our age: and an answere to certain sermons made by M. Robert Bruce minister of Edinburgh concerning this matter. By VVilliam Reynolde priest</title>
+                 <author>Rainolds, William</author>
+                 <imprint>
+                    <publisher>Trognesius, Joachim</publisher>
+                    <pubPlace>Belgium--Antwerp</pubPlace>
+                    <date>1593</date>
+                 </imprint>
+                 <extent>12, 447, 16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="237"/>
+   <head>Errors, some in al copies, some in certain only, are thus to be corrected.</head>
+   <p>
+      <table>
+         <row>
+            <cell>Pag. 17.</cell>
+            <cell>Lin. 9.</cell>
+            <cell>Deest in margine</cell>
+            <cell>5</cell>
+         </row>
+         <row>
+            <cell>Pag. 42.</cell>
+            <cell>Lin. 1.</cell>
+            <cell>in margin. <hi>obseus</hi>
+            </cell>
+            <cell>obsessus</cell>
+         </row>
+         <row>
+            <cell>Pag. 31.</cell>
+            <cell>Lin. 11.</cell>
+            <cell>138r.</cell>
+            <cell>1381.</cell>
+         </row>
+         <row>
+            <cell>Pag. 57.</cell>
+            <cell> </cell>
+            <cell>in marg. <hi>remo-</hi>
+            </cell>
+            <cell>remoued</cell>
+         </row>
+         <row>
+            <cell>Pag. <gap reason="illegible" resp="#apex" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.</cell>
+            <cell> </cell>
+            <cell>in marg. 710.</cell>
+            <cell>71.</cell>
+         </row>
+         <row>
+            <cell>Pag. 150.</cell>
+            <cell>Lin. 4.</cell>
+            <cell>21.</cell>
+            <cell>12.</cell>
+         </row>
+         <row>
+            <cell>Pag. 236.</cell>
+            <cell>Lin. 19.</cell>
+            <cell>in marg. deest</cell>
+            <cell>The fift. Before. p. 167</cell>
+         </row>
+         <row>
+            <cell>Pag. 237.</cell>
+            <cell>Lin. 4.</cell>
+            <cell>in marg. deest</cell>
+            <cell>The sixt.</cell>
+         </row>
+         <row>
+            <cell>Pag. 265.</cell>
+            <cell>Lin. 4.</cell>
+            <cell>in marg. deest</cell>
+            <cell>The third &amp; first end</cell>
+         </row>
+         <row>
+            <cell>Pag. 327.</cell>
+            <cell>Lin. 31.</cell>
+            <cell>in marg. <hi>Marc.</hi> 5. 5. 6.</cell>
+            <cell>6. 5. 6.</cell>
+         </row>
+      </table>
+   </p>
+   <closer>Laus Deo.</closer>
+   <pb facs="238"/>
+   <pb facs="238"/>
+</div>
+        </body>
+  </text>
+</TEI>

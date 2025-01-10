@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To his very friende P. L.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S589_Fr2_2</idno>
+           <idno type="DLPS">A17516</idno>
+           <idno type="STC">433.7</idno>
+           <idno type="ESTC">S589</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To his very friende P. L.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A triple almanacke for the yeere of our Lorde God 1591, being the thirde from the leape yeare : wherein is conteyned, not onely the common accompt, which in this our realme is vsed, with the Romane kalender according to the late correction of Gregorie, but also, the true computation and reduction of the monethes ... referred principally to the meridian of London and for most respectes will serue for all Englande, and many other countries also</title>
+                 <author>J. D.</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1591</date>
+                 <publisher>Roberts (Robarts), James.</publisher>
+                            <publisher>Watkins, Richard</publisher>
+                        </imprint>
+                 <extent>40 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Calendars, almanacs and prognostications</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="16"/>
+   <pb facs="16"/>
+   <head>To his very friende P. L.</head>
+   <p>ALL the Learned (friende P. L.) agree with one voyce, that <hi>CHRIST</hi> our sa<g ref="char:EOLhyphen"/>uiour was conceyued at the Sunnes en<g ref="char:EOLhyphen"/>traunce into <hi>Aries,</hi> and borne vpon the shortest day, when the Sunne entred into <hi>Capricorne:</hi> wherefore to set Christmas vpon the shortest day, and draw the Ka<g ref="char:EOLhyphen"/>lender backe in proportion thereunto, me thought, was very expedient: and the rather, because of all in generall, a reformation long tyme hath been desired and a fruition of the Feastes, vpon their ancient times. For consideryng that the immoueable Feastes ought to keepe the same dayes they vsed to do in euery Moneth before, it of necessitie followeth, that they must be kept at other tymes (in respect of the motions of the Sunne) then for many yeeres they haue done. As for Easter, and the moueable Feastes which folowe the course of the Moone, they were by <hi>Constant. magnus</hi> once corrected: but ig<g ref="char:EOLhyphen"/>norance of obseruation in continuance of tyme hath bred great er<g ref="char:EOLhyphen"/>rour sithens, in so much as many yeeres they misse their due tymes a moneth at least, and therefore of late haue had a seconde Refor<g ref="char:EOLhyphen"/>mation: which although it be very truely performed for Easter, and it append<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>nces, yet the Monethes not reuocated to the true degrees of the Sunne, deserued a new annimaduersion. And there<g ref="char:EOLhyphen"/>fore friende P. L. I haue not attempted this, as a newe fangle, and louer of <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ouelties (the which I haue alwayes hated) but as a fur<g ref="char:EOLhyphen"/>therer of the trueth, which I alway haue loued,</p>
+   <closer>
+      <salute>Vale, et mecum fru<g ref="char:EOLhyphen"/>ere</salute>
+      <date>4. <hi>Kalendus Aprilis.</hi> 1590.</date>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

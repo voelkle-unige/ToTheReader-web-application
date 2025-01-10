@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113797_Fr1_5</idno>
+           <idno type="DLPS">A68462</idno>
+           <idno type="STC">1782</idno>
+           <idno type="ESTC">S113797</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The right, and prerogatiue of kings : against Cardinall Bellarmine and other Iesuites. Written in French by Iohn Bede, aduocate in the court of Parliament of Paris, and published by authority. Translated by Robert Sherwood</title>
+                 <author>Bédé de la Gormandière, Jean</author>
+                 <imprint>
+                    <distributor>Bladen, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1612</date>
+                 <publisher>Clarke (Clerke), Martin.</publisher>
+                            <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                        </imprint>
+                 <extent>16, 196 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="9"/>
+   <head>Errata.</head>
+   <p>Page 1. in marg. read <hi>Hieron.</hi> p. 2. l. 15. read <hi>Micrarchie.</hi> p. 16. l. 16. for they, read the: p. 21. l. 11. read <hi>Papinian.</hi> p. 36. l. 4. read, depose him: p. 38. l. 10. for of, read ouer: p. 49. l. 17. read <hi>Re<g ref="char:EOLhyphen"/>my:</hi> p. 89. l. 14. for these, read their: p. 90. l. 7. read in the Church: p. 102 l. 18. for man, read name: p. 117. l. 19. read <hi>Luxemburg.</hi> p. 121. l. 21. read by a Councell: p. 141. l. 2. for out of, read not in: p. 149. l. 18. read, these flattrers: p. 163. l. 2. for haue, read hauing.</p>
+   <p>What other litterall faults occurre, I en<g ref="char:EOLhyphen"/>treat the Reader, either himselfe to amend, or of curtesie to passe ouer.</p>
+</div>
+        </body>
+  </text>
+</TEI>

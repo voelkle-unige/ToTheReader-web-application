@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Let the courteous Reader be pleased to correct the faults escaped in printing as followeth:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116202_Fr1_2</idno>
+           <idno type="DLPS">A17867</idno>
+           <idno type="STC">4535</idno>
+           <idno type="ESTC">S116202</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Let the courteous Reader be pleased to correct the faults escaped in printing as followeth:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Campian Englished. Or A translation of the Ten reasons : in which Edmund Campian (of the Societie of Iesus) priest, insisted in his challenge, to the Vniuersities of Oxford and Cambridge Made by a priest of the Catholike and Roman Church</title>
+                 <author>Campion, Edmund, saint</author>
+                 <imprint>
+                    <pubPlace>France--Rouen</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>192, 2 pages, 16°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="2"/>
+   <head>Let the courteous Reader be pleased to correct the faults escaped in printing as followeth:</head>
+   <p>Pag 24. lin. 17. Shill, <hi>reade,</hi> skill. 30 6. fo, <hi>reade,</hi> so. 37.10. ob, <hi>read<gap reason="illegible" extent="1 letter">
+            <desc>•</desc>
+         </gap>,</hi> of. 16 payers, <hi>reade,</hi> prayers. 42.5. Tohy, <hi>reade,</hi> Tobie. 49.16. achowledgeth, <hi>reade,</hi> acknowledgeth 71.11. suth, <hi>reade,</hi> such 91.6. vnworthiby, <hi>reade,</hi> vnworthily. 98. penult. exhihited, <hi>reade,</hi> exhi<g ref="char:EOLhyphen"/>bited 97.19. moning, <hi>reade,</hi> mouing 20. fast, <hi>reade,</hi> fasts. 1<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>9.2. vohappie, <hi>reade,</hi> vnhappie.</p>
+   <p>20. manntrs, <hi>reade,</hi> manners. 147.18. it, <hi>reade,</hi> in. 178.15. testore, <hi>reade,</hi> restore. 183.12 in, <hi>reade,</hi> is. 189.1. bryas, <hi>reade,</hi> bryars.</p>
+</div>
+        </body>
+  </text>
+</TEI>

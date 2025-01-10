@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To my well-deserving Friend, Thomas de Gray, upon his exact piece of Horsemanship and Ferriery.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106703_Fr1_9</idno>
+           <idno type="DLPS">A02060</idno>
+           <idno type="STC">12205</idno>
+           <idno type="ESTC">S106703</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To my well-deserving Friend, Thomas de Gray, upon his exact piece of Horsemanship and Ferriery.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The compleat horseman and expert ferrier : In two bookes. The first, shewing the best manner of breeding good horses, with their choyce, nature, riding and dyeting ... The second, directing the most exact and approved manner how to know and cure all maladies and diseases in horses ... dedicated to his most Excellent Majestie, by Thomas de Gray Esquire</title>
+                 <author>De Grey, Thomas</author>
+                 <imprint>
+                    <publisher>Chapman, Laurence</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>32, 356, 8 pages, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="13"/>
+   <head>To my well-deserving Friend, <hi>Thomas de Gray,</hi> upon his exact piece of <hi>Horsemanship</hi> and <hi>Ferriery.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">I</seg>F I who love a Horse next to my life,</l>
+   <l>Should now be mute in the commending strife</l>
+   <l>Of this thy Horsemanship, my <hi>de la Gray,</hi>
+   </l>
+   <l>I might henceforth be banisht all the play</l>
+   <l>At <hi>Bansteed, Winchester,</hi> and <hi>Salsbury,</hi>
+   </l>
+   <l>And sit me downe under this Horse and dye.</l>
+   <l>Nay, I will write before thy Booke, and fill</l>
+   <l>The vacant roome of some deserving quill.</l>
+   <l>And wish in all my sport to be as sore,</l>
+   <l>As when thou work'st upon a desperate Cure.</l>
+   <closer>
+      <signed>Wolferstone.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

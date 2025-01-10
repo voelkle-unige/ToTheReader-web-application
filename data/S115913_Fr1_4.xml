@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE READER.</title>
+           <author>Alport, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115913_Fr1_4</idno>
+           <idno type="DLPS">A18954</idno>
+           <idno type="STC">537</idno>
+           <idno type="ESTC">S115913</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE READER.</title>
+                 <author>Alport, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Dauid's catechisme. By E.A</title>
+                 <author>Alport, Edward</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>8, 31, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>TO THE READER.</head>
+   <opener>
+      <salute>Christian READER,</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg> Conceive how difficult an adventure it is, to put my poore Talent unto publike view, see<g ref="char:EOLhyphen"/>ing greater graces kept in silence: But, I know how hard it is to hide, and therefore deeme it better to ha<g ref="char:EOLhyphen"/>zard it then my selfe.</p>
+   <p>View then the matter which may pleasure thee, and favour the Au<g ref="char:EOLhyphen"/>thor with the furtherance of thy prayers; and the Author of every good gift, give thee faith and feare
+<pb facs="5"/>here, and the end of both hereaf<g ref="char:EOLhyphen"/>ter: In suite for which, I re<g ref="char:EOLhyphen"/>maine pressed ever ready unto any Christian Office.</p>
+   <closer>
+      <signed>Thine in all Chri<g ref="char:EOLhyphen"/>stian duty, E. A.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

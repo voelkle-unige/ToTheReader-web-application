@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120884_Fr1_3</idno>
+           <idno type="DLPS">A16770</idno>
+           <idno type="STC">3677.5</idno>
+           <idno type="ESTC">S120884</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Pasquils fooles-cap : sent to such (to keepe their weake braines warme) as are not able to conceiue aright of his mad-cap. With Pasquils passion for the worlds waywardnesse. Begun by himselfe, and finished by his friend Morphorius</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>Jones, Thomas 1</publisher>
+                        </imprint>
+                 <extent>40 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>❧ To the Reader.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>OV that Read, to tearme you <hi>Gentle</hi> and
+he not, you would thinke I did mocke you: &amp;
+therefore giue me leaue to thinke of you, as
+I finde you. But to the <hi>matter: Mad-cap</hi>
+hath past one fit, and new is fallen into a<g ref="char:EOLhyphen"/>nother:
+what it is, you may partly guesse by
+the <hi>Title.</hi> For, in a <hi>Foole,</hi> is hidde a great deale of vaine
+matter: which you shall heere finde runne ouer, in a fewe Ver<g ref="char:EOLhyphen"/>ses;
+not the best that euer you redde, nor perhaps the worst
+that you may meete with. But to be short, what <hi>Pasquill</hi> be<g ref="char:EOLhyphen"/>gun,
+<hi>Morphorius</hi> hath ended: how well I say not: but the
+better, if you like it: to whose kindnesse, in hope of patience, I
+commit it; and so abruptly I leaue it.</p>
+   <closer>
+      <signed>Your friend:</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

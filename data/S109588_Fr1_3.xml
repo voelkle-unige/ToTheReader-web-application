@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader.</title>
+           <author>D., St.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109588_Fr1_3</idno>
+           <idno type="DLPS">A20168</idno>
+           <idno type="STC">6603</idno>
+           <idno type="ESTC">S109588</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader.</title>
+                 <author>D., St.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An exposition vpon the first chapter of the second Epistle of Peter : with, the principall doctrines naturally arising from euery verse of the same chapter. By Stephen Denison minister of Kree-Church London</title>
+                 <author>Denison, Stephen</author>
+                 <imprint>
+                    <publisher>Field (del Campo), Richard</publisher>
+                    <distributor>Milbourne (Milburne, Mylbourne), Robert</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>14, 200 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Christian Reader.</head>
+   <p>
+      <seg rend="decorInit">B</seg>Eloued Christian, I present this Booke vnto thy view; I desire thee to reade it with an holie affection; interpret things in the best sence, and according to my true meaning, and thou shalt finde no<g ref="char:EOLhyphen"/>thing contrary to the analogy of faith. Some few things are escaped in the Printing, and in the pointing, but thou wilt easily conceiue them, by diligent obseruation. A<g ref="char:EOLhyphen"/>mongst the rest, these are escaped;</p>
+   <q>
+      <floatingText xml:lang="eng">
+         <body>
+            <div type="errata">
+               <p>
+                  <hi>Page</hi> 27. <hi>line</hi> 5. <hi>sinnes and godlinesse can neuer stand to<g ref="char:EOLhyphen"/>gether,</hi> it should be, <hi>reigning sinnes and godlinesse can ne<g ref="char:EOLhyphen"/>uer stand together,</hi> it is onely mis-pointed. <hi>Page</hi> 105. <hi>line</hi> 19. <hi>their</hi> is set in stead of <hi>euer,</hi> by mis-printing. <hi>Page</hi> 121 <hi>line</hi> 29. <hi>a depriued Minister</hi> is put in stead of <hi>a restrained Minister.</hi>
+               </p>
+            </div>
+         </body>
+      </floatingText>
+   </q>
+   <p>If you reape anie fruit by these my weake labours, giue all the glorie to God, and I beseech your prayers to God for me.</p>
+   <closer>
+      <signed>Thine in the Lord, St. D.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

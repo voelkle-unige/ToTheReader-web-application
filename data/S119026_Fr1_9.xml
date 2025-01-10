@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119026_Fr1_9</idno>
+           <idno type="DLPS">A14277</idno>
+           <idno type="STC">24593</idno>
+           <idno type="ESTC">S119026</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The blazon of iealousie· : A subiect not written of by any heretofore· First written in Italian, by that learned gentleman Benedetto Varchi, sometimes Lord Chauncelor vnto the Signorie of Venice: and translated into English, with speciall notes vpon the same; by R.T. Gentleman</title>
+                 <author>Varchi, Benedetto</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1615</date>
+                 <publisher>Busby, John 2.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>16, 87, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="9"/>
+   <p>
+      <seg rend="decorInit">G</seg>Entle Reader, <hi>Linxes</hi> sight was not so sharpe, but that now and then it ouer-saw; and <hi>Argus,</hi> for all his hun<g ref="char:EOLhyphen"/>dred eyes, was ouer-taken in the end: Be one neuer so curious or carefull, yet may a man mistake. <gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>ome few faults haue escaped in the Printing of this Booke, as in <hi>fol. 34.</hi> for <hi>lusty</hi> reade <hi>lazy</hi>: the rest I hope thine owne discretion will guide thee to correct. And so fare thou well.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116358_Fr1_5</idno>
+           <idno type="DLPS">A19693</idno>
+           <idno type="STC">6112</idno>
+           <idno type="ESTC">S116358</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Time vvell spent in sacred meditations. Divine observations. Heavenly exhortations : Serving to confirme the penitent. Informe the ignorant. Reforme the obstinate. Convince the hypocrite; encourage the fearefull. Resolve the doubtfull. Comfort the afflicted. Uphold the tempted. And, cherish the true-hearted Christian: by that late able, painfull, and worthy man of God, Mr. Ezechiel Culvervvel minister of the Word</title>
+                 <author>Culverwell, Ezekiel</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Skelton, Henry</publisher>
+                        </imprint>
+                 <extent>28, 350 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <q>
+      <pb facs="10"/>
+      <note place="margin">Time vvel spent.</note>THe lips of the righteous feed many. <bibl>Prov. 10. 21.</bibl>
+   </q>
+   <q>Hee that winneth soules is wise. <bibl>Prov. 11. 30.</bibl>
+   </q>
+   <q>The Preacher was wise, hee still taught the people knowledg, yea hee gave good heed, and sought out and set in order many proverbs. <bibl>Eccles. 12. 9.</bibl>
+   </q>
+   <q>
+      <note place="margin">Meditati<g ref="char:EOLhyphen"/>on.</note>I will meditate also of all thy workes and talke of all thy doings. <bibl>Psal. 77. 12.</bibl>
+   </q>
+   <q>O how love I thy Law! it is my meditation all the day. <bibl>Psal. 119 97.</bibl>
+   </q>
+   <q>
+      <note place="margin">Observati<g ref="char:EOLhyphen"/>on.</note>Who so is wise and will ob<g ref="char:EOLhyphen"/>serve those th<gap reason="illegible" extent="1 letter">
+         <desc>•</desc>
+      </gap>ngs, even they shal understand the loving kind<g ref="char:EOLhyphen"/>nesse of the Lord. <bibl>Psal. 107. 43.</bibl>
+   </q>
+   <q>
+      <note place="margin">Exhorta<g ref="char:EOLhyphen"/>tion.</note>Preach the word, bee instant in season, and out of season, re<g ref="char:EOLhyphen"/>prove, rebuke, exhort, <bibl>2 Tim. 4. 2.</bibl>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

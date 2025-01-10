@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103629_Fr1_2</idno>
+           <idno type="DLPS">A02520</idno>
+           <idno type="STC">12648b</idno>
+           <idno type="ESTC">S103629</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Christian moderation : In two books. By Jos: Exon</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Butter, Nathaniel.</publisher>
+                            <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Oulton, Richard</publisher>
+                        </imprint>
+                 <extent>14, 191, 1, 175, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>
+      <pb facs="2"/>TO ALL CHRISTIAN PEOPLE WHERESOEVER: But especially to those of this WESTERNE DIOCESE: AND THEREIN To the Honorable NOBILITY, the Reverend and Learned CLERGY, the Worshipfull GENTRY, the honest and Faithfull COMMONALTY OF The Counties of <hi>Devon</hi> and <hi>Cornwall.</hi> J. Exon Wisheth the continuance, and increase of (that whereof hee treates) <hi>All</hi> CHRISTIAN MODERATION Both in Opinion, and Practice.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Authour of the Expert Ferrier.</title>
+           <author>M., D.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106703_Fr1_11</idno>
+           <idno type="DLPS">A02060</idno>
+           <idno type="STC">12205</idno>
+           <idno type="ESTC">S106703</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Authour of the Expert Ferrier.</title>
+                 <author>M., D.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The compleat horseman and expert ferrier : In two bookes. The first, shewing the best manner of breeding good horses, with their choyce, nature, riding and dyeting ... The second, directing the most exact and approved manner how to know and cure all maladies and diseases in horses ... dedicated to his most Excellent Majestie, by Thomas de Gray Esquire</title>
+                 <author>De Grey, Thomas</author>
+                 <imprint>
+                    <publisher>Chapman, Laurence</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>32, 356, 8 pages, portraits, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="14"/>
+   <head>To the Authour of the Expert <hi>Ferrier.</hi>
+   </head>
+   <l>
+      <seg rend="decorInit">H</seg>Eer's Mirrour, eak Modell of true Honour.</l>
+   <l>Fame wait's on Thy name. Thou wait'st upon Her.</l>
+   <l>By Cavall'ry the Golden Fleece th'ast wonne;</l>
+   <l>Therein, Thou art a Non p<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>reill, That One.</l>
+   <l>Whose Fame shall dye? Thine? It shall remaine</l>
+   <l>The age, presag'd by <hi>Ovid's</hi> sublime straine.</l>
+   <closer>
+      <signed>I. H. D. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

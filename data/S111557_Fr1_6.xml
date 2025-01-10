@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO HIS WORTHY FRIEND Mr IOHN VICARS.</title>
+           <author>Ca, A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1632</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111557_Fr1_6</idno>
+           <idno type="DLPS">A14487</idno>
+           <idno type="STC">24809</idno>
+           <idno type="ESTC">S111557</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO HIS WORTHY FRIEND Mr IOHN VICARS.</title>
+                 <author>Ca, A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The XII Aeneids of Virgil, the most renowned laureat-prince of Latine-poets; translated into English deca-syllables, by Iohn Vicars. 1632</title>
+                 <author>Virgil</author>
+                 <imprint>
+                    <publisher>Alsop, Nicholas</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1632</date>
+                 </imprint>
+                 <extent>16, 418, 6 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="8"/>
+   <head>TO HIS WORTHY FRIEND M<seg rend="sup">r</seg>
+      <hi>IOHN VICARS.</hi>
+   </head>
+   <lg>
+      <l>
+         <seg rend="decorInit">W</seg>Hy dost thou <hi>(Maro)</hi> doom unto the fire</l>
+      <l>Those loftie raptures, which all times admire,</l>
+      <l>Hugging thy <hi>genius</hi>? Ah, unhappie verse!</l>
+      <l>Must thou needs burn? No; <hi>Caesar</hi> doth re<g ref="char:EOLhyphen"/>verse</l>
+      <l>That fatall verdict; fitter farre to be</l>
+      <l>In this, thy sire, than who gave life to thee.</l>
+      <l>Let reverend sway and awfull majestie</l>
+      <l>Of laws, before those high-flown poems die,</l>
+      <l>Cries great <hi>Augustus</hi>: So, who ever reads</l>
+      <l>Thy lines (thou best interpreter) must needs</l>
+      <l>Cry, Live for ever such smooth strains as make</l>
+      <l>The world to doubt, whether fam'd <hi>Maro</hi> spake</l>
+      <l>The <hi>Brittish</hi> or the <hi>Romane</hi> language, best:</l>
+      <l>How-ere, in one, then; now in both he's blest.</l>
+      <l>Who scans, shall freely tell, <hi>Rome</hi> owes not more</l>
+      <l>To his, then fairest <hi>Albion</hi> to thy store.</l>
+   </lg>
+   <lg>
+      <l>Idem ad eundem.</l>
+      <l>The soule (<hi>Pythagoras</hi> did teach) doth go</l>
+      <l>From body unto body; and if so,</l>
+      <l>The paradox may passe. Who reads will sweare</l>
+      <l>The <hi>Romane Maro's</hi> soule inspired were</l>
+      <l>Into thy breast; so smooth and sweet thy strains,</l>
+      <l>So high thy language, full of sweat thy pains.</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>Thomas Drant,</hi> M. A. <hi>Ca<gap reason="illegible" resp="#pdcc" extent="2 letters">
+               <desc>••</desc>
+            </gap>.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

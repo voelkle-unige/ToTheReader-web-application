@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To My Learned, judicious, and most experienced friend, T. C. Doctor of Physicke: All successe to his conscionable endevours.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106117_Fr1_3</idno>
+           <idno type="DLPS">A16679</idno>
+           <idno type="STC">3585</idno>
+           <idno type="ESTC">S106117</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To My Learned, judicious, and most experienced friend, T. C. Doctor of Physicke: All successe to his conscionable endevours.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A solemne ioviall disputation, theoreticke and practicke; briefely shadowing the lavv of drinking : together, with the solemnities and controversies occurring: fully and freely discussed according to the civill lavv. Which, by the permission, priviledge and authority, of that most noble and famous order in the Vniversity of Goddesse Potina; Dionisius Bacchus being then president, chiefe gossipper, and most excellent governour, Blasius Multibibus, aliàs Drinkmuch ... hath publikely expounded to his most approved and improved fellow-pot-shots; touching the houres before noone and after, usuall and lawfull. ... Faithfully rendred according to the originall Latine copie</title>
+                 <author>Multibibus, Blasius</author>
+                 <imprint>
+                    <publisher>Eliot’s Court Press</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>8, 80, 6, 87-194, 6 pages, 2 leaves of plates, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Economics</term>
+                    <term>Philosophy and morality</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>To My Learned, judicious, and most experienced friend, <hi>T. C.</hi> Doctor of Physicke: All successe to his conscionable endevours.</head>
+   <head type="sub">Sonnet.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">T</seg>O you, in whom <hi>knowledge</hi> &amp; <hi>goodnesse</hi> meet,</l>
+      <l>Whose ends are honest, and whose sole con<g ref="char:EOLhyphen"/>tent</l>
+      <l>Is to revive your heart-sicke patient,</l>
+      <l>In humblest sort, as Clients use to greet</l>
+      <l>Their pious Patrons, doe I make retrait:</l>
+      <l>To whom I owe my selfe, my life, my love,</l>
+      <l>My praise, my prayers, next to the Powers above.</l>
+   </lg>
+   <lg>
+      <l>The high Physitian, in whose glorious hand</l>
+      <l>The globes of Heaven and Earth contained are,</l>
+      <l>Give blessing to your cure, cure to your care,</l>
+      <l>Prosper your practice both by sea and land,</l>
+      <l>And give successe to what you understand:</l>
+      <l>For in you I have found, what's rare to finde,</l>
+      <l>A curious knowledge in a vertuous minde.</l>
+   </lg>
+   <lg>
+      <pb facs="3"/>
+      <l>For th'artlesse <hi>Mounteb anke,</hi> whose cure's to care</l>
+      <l>How to deceive a Gull, so much I hate it,</l>
+      <l>I wish but execution of the Statute,</l>
+      <l>To such penurious venters of base ware,</l>
+      <l>Who, as <hi>Hippocrates</hi> relateth, dare</l>
+      <l>Purchase, by Patients death, a little art,</l>
+      <l>Which they by peece-meale sell at ev'rie Mart.</l>
+   </lg>
+   <lg>
+      <l>For <hi>you,</hi> so long as life runs th'row these veines,</l>
+      <l>I will retaine a gratefull memorie,</l>
+      <l>And blaze the fame of your integritie</l>
+      <l>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>n such a<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> these, or in some choycer straines,</l>
+      <l>To gratifie your care, your cure, your paines:</l>
+      <l>For if we honour him that gives us wealth,</l>
+      <l>What owe we him that gives us life and health?</l>
+      <l>"For had I treasure offer'd, I'de refuse it,</l>
+      <l>"Wanting the sov'raigne meanes of health to use it.</l>
+   </lg>
+   <closer>
+      <signed>EUCAPNUS NEPENTHIACUS, NEAPOLITANUS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

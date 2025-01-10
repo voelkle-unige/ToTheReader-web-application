@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aduertissement au Lecteur.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1574</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120882_Fr1_6</idno>
+           <idno type="DLPS">A04513</idno>
+           <idno type="STC">1464.2</idno>
+           <idno type="ESTC">S120882</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aduertissement au Lecteur.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Le reveille-matin des Francois, et de leurs voisins. Composé par Eusebe Philadelphe cosmopolite, en forme de dialogues</title>
+                 <author>Barnaud, Nicholas</author>
+                 <imprint>
+                    <publisher>James, Jacob (Jacques), pseud</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1574</date>
+                 </imprint>
+                 <extent>40, 159, 1, 192 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Aduertissement au Lecteur.</head>
+   <p>Pag. 1. lig. 28. lisez n'esloigner pag. 43. lig. 10. les lisez ses, pag. 44.
+lig. penult. ferdinand. lisez Charles pag. 63. lig. 20. Cegier. lisez
+Legier.</p>
+</div>
+        </body>
+  </text>
+</TEI>

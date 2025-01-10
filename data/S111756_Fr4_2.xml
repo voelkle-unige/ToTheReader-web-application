@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE MOST NOBLE and Vertuous Lady, the Lady Arbella Stuart.</title>
+           <author>Wilbye, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111756_Fr4_2</idno>
+           <idno type="DLPS">A15333</idno>
+           <idno type="STC">25619a</idno>
+           <idno type="ESTC">S111756</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE MOST NOBLE and Vertuous Lady, the Lady Arbella Stuart.</title>
+                 <author>Wilbye, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second set of madrigales to 3. 4. 5. and 6. parts : apt both for voyals [sic] and voyces. Newly composed by Iohn Wilbye</title>
+                 <author>Wilbye, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 <publisher>Browne, John 1.</publisher>
+                            <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Snodham, alias East, Thomas</publisher>
+                        </imprint>
+                 <extent>6 parts books (212 pages), music, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="60"/>
+   <pb facs="60"/>
+   <head>TO THE MOST NOBLE and Vertuous Lady, the Lady <hi>Arbella Stuart.</hi>
+   </head>
+   <opener>
+      <salute>Madame.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">T</seg>HE deepe vnderstanding you haue in all the <hi>Arts,</hi> and perticular excellency in this of <hi>Musicke,</hi> doth by a cer<g ref="char:EOLhyphen"/>taine kinde of right, challenge the Dedication of the bet<g ref="char:EOLhyphen"/>ter sort of Labours in that Facultie; especially in these times when <hi>Musicke</hi> sits solitary among her sister Sci<g ref="char:EOLhyphen"/>ences, and (but for your Honour) often wants the fortune to be esteemed (for so shee is worthy) euen among the worthyest. But besides that generall right, my true and zealous deuotion long since de<g ref="char:EOLhyphen"/>sirous to expresse it selfe in any humble dutie to your Honour, and borne vp by the daily experience of your most Noble and singular disposition, hath neuer thought vpon other Patron for this work, then your Honour, whose neuer-failing Iudgement in the depth of <hi>Musicke,</hi> I do wish might be pleased with some of these; which happinesse if they attaine, I know not what iudgement can avow to mislike them. Howsoeuer they behaue themselues, I humbly beseech your Honour, to beleeue this truth; that they are the sincere oblations of a heart euer prepared for your seruice. And so with all humble and due reuerence done to your Honour, I be<g ref="char:EOLhyphen"/>seech the Almighty to make you in all the passages of your life truely hap<g ref="char:EOLhyphen"/>py, as you are in the worlds true opinion vertuous.</p>
+   <closer>
+      <signed>Your Honours most humbly deuoted and obliged: IOHN WILBYE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

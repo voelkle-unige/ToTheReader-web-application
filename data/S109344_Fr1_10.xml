@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Charissimo Iohanni Davisio Salutem.</title>
+           <author>Burhill, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109344_Fr1_10</idno>
+           <idno type="DLPS">A19903</idno>
+           <idno type="STC">6333</idno>
+           <idno type="ESTC">S109344</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Charissimo Iohanni Davisio Salutem.</title>
+                 <author>Burhill, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Microcosmos : The discovery of the little world, with the government thereof. By Iohn Davies</title>
+                 <author>Davies, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1603</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Barnes, Joseph</publisher>
+                        </imprint>
+                 <extent>16, 254, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <head>Charissimo Iohanni Davisio Salutem.</head>
+   <l>OXoniae vates cum sis, Herefordia quare</l>
+   <l>Davisi, in titulo pristina scripta tuo?</l>
+   <l>Crede mihi, doctam non vrbem tale pigebit</l>
+   <l>Ingenium in numero nomen habere suo.</l>
+   <l>Charus &amp; <hi>illius</hi> mihi nomine, charus &amp; <hi>huius</hi>
+   </l>
+   <l>Vrbis es: hinc artes ducimus, indegenus,</l>
+   <l>Charior at <hi>proprio</hi> mihi nomine: fas mihi suave</l>
+   <l>Ingenium, mores fas sit amare probos.</l>
+   <l>Ingenium mores{que} tuos redamem: illud &amp; istos,</l>
+   <l>Plura mihi, cunctis hic lib<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>r ipse probat.</l>
+   <signed>Robertus Burhillus Coll. C.C. Soc.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

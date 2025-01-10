@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>T. S. Ogdoas in R. H. Prognosticon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1583</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S92875_Fr1_3</idno>
+           <idno type="DLPS">B00136</idno>
+           <idno type="STC">12909.7</idno>
+           <idno type="ESTC">S92875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>T. S. Ogdoas in R. H. Prognosticon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An astrological discourse : vpon the great and notable coniunction of the tvvo superiour planets, Saturne &amp; Iupiter, which shall happen the 28. day of April, 1583. With a briefe declaration of the effectes, which the late eclipse of the Sunne 1582. is yet heerafter to woorke. Written newly by Richard Haruey: partely, to supplie that is wanting in co [m] mon prognostications: and partely by prædiction of mischiefes ensuing, either to breed some endeuour of preuention by foresight, so farre as lyeth in vs: or at leastwise, to arme vs with pacience beforehande. Seen and allowed</title>
+                 <author>Harvey, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1583</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Watkins, Richard, Assignees (with assent, etc.) of</publisher>
+                        </imprint>
+                 <extent>17, 4-84 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prognosticon">
+   <pb facs="9"/>
+   <head>T. S. Ogdoas in R. H. Prognosticon.</head>
+   <l>
+      <seg rend="decorInit">C</seg>Edite Francitali, florenti cedite vati,</l>
+   <l>Harueius meruit nomen habere Sophi.</l>
+   <l>Spirat in ore Furor, Baccho{que} &amp; Apol<g ref="char:EOLhyphen"/>line dignus,</l>
+   <l>Palladis vt noscas Mercurij{que} genus.</l>
+   <l>Ergò agite Anglorum proceres, legitote Prophetā,</l>
+   <l>Memphiticis similem, nobilibus{que} Magis.</l>
+   <l>Vade Liber, liberi ingenij, genij{que} beati</l>
+   <l>Insigne, &amp; Patriae pulpita scande tuae.</l>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>A., T. R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1619</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119836_Fr1_8</idno>
+           <idno type="DLPS">A07653</idno>
+           <idno type="STC">18046</idno>
+           <idno type="ESTC">S119836</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>A., T. R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A booke of armes, or remembrance : wherein ar one hundered godly emblemata, in péeces if brasse very fine graven, and adorned pleasant to bé séen; first by the noble, and industrious minde Georgetta de Montenay, invented and only in the Frenchtongve [sic] elabourated; bot [sic] now, in severall langvages, as; Latin, Spanish, Italian, Highdutch, English, and Lovedutch, meetre or verse wys, of the same manner declared, and augmented</title>
+                 <author>Montenay, Georgette de</author>
+                 <imprint>
+                    <publisher>Unckel (Ounkel), Johann Karl</publisher>
+                    <pubPlace>Germany--Frankfurt am Main</pubPlace>
+                    <date>1619</date>
+                 </imprint>
+                 <extent>447, 1 page, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>Quod meliora facìt nemo <hi>MONTANA,</hi> rotundo</l>
+      <l>Sermone ex patrio carmina, vel paria</l>
+      <l>De vestro seclo, quàm tu (cui tota videtur,</l>
+      <l>Quaecunque huic seclo, Suada habitare animum)</l>
+      <l>Desipiat si quis miretur: nam Deus ipse</l>
+      <l>Quo canitur certus carminis autor adest.</l>
+      <closer>
+         <signed>T. R. A.</signed>
+      </closer>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

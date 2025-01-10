@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Some, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1583</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S95257_Fr1_3</idno>
+           <idno type="DLPS">B08102</idno>
+           <idno type="STC">22910</idno>
+           <idno type="ESTC">S95257</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Some, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A godlie treatise of the church : Written by Robert Some. You shall finde in the ende of this booke, a treatise against oppression</title>
+                 <author>Some, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1583</date>
+                 <publisher>Bishop, George.</publisher>
+                            <publisher>Bishop, George.</publisher>
+                            <publisher>Dawson, Thomas.</publisher>
+                            <publisher>Dawson, Thomas</publisher>
+                        </imprint>
+                 <extent>120 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>IF my Treatise of the Sacramentes founde grace with you (as I heare it hath) I presume these of the Church, and against Oppression, shall: for they haue more variety in them, by rea<g ref="char:EOLhyphen"/>ding this booke, you shall finde it so. I haue not as yet written any thing of the Scrip<g ref="char:EOLhyphen"/>ture and Confession, but hereafter I will according to my promise by the grace of God, to whose merciful protection I com<g ref="char:EOLhyphen"/>mend both you and my selfe.</p>
+   <closer>
+      <signed>Robert Some.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

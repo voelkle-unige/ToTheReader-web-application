@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad D. Ioann. Audoenum.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113757_Fr1_2</idno>
+           <idno type="DLPS">A68538</idno>
+           <idno type="STC">18986</idno>
+           <idno type="ESTC">S113757</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad D. Ioann. Audoenum.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Epigrammatum Ioannis Owen Cambro-Britanni libri tres : Ad illustrissinam [sic] D. Mariam Neuille, Comitis Dorcestriæ filiam, patronam suam</title>
+                 <author>Owen, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Legat, John 2.</publisher>
+                            <publisher>Lownes, Humphrey 1.</publisher>
+                            <publisher>Waterson, Simon</publisher>
+                        </imprint>
+                 <extent>220 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <lg>
+      <pb facs="2"/>
+      <head>Ad D. Ioann. Audoenum.</head>
+      <l>FAstidita meae fuerant Epigrammata Musae;</l>
+      <l>Iamque satur Carmen penè perosus eram:</l>
+      <l>At tuaiucundum referunt mihiscripta saporem;</l>
+      <l>Prouenit ex versu nausea nulla tuo.</l>
+      <closer>
+         <signed>IOANN, HARINGTON,</signed>
+Eques.</closer>
+   </lg>
+   <lg>
+      <head>Ad D. Ioann. Audoenum.</head>
+      <l>MVlti scripserunt Epigrammata, nuper &amp; olim,</l>
+      <l>Quorum vix equidem nomina nota reor:</l>
+      <l>At tua (ne dubites) viuent Epigrammata; viuent,</l>
+      <l>Dumsacer in pretio sermo Latinus erit.</l>
+      <l>Laus tua cum terrâ stabit, coelóque manebit;</l>
+      <l>Nec, nisi cùm mundus concidet ipse, cadet.</l>
+      <closer>
+         <signed>D. Du Tr. Med.</signed>
+      </closer>
+   </lg>
+   <lg>
+      <head>Idem, De Eodem.</head>
+      <l>SIue iocos lepidus, seu seria tractat Oēnus;</l>
+      <l>Autorem hunc aliud nil agitasse putes.</l>
+      <l>Siue paludatus Lector fit, siue togatus.</l>
+      <l>Applicat hic geniū Scriptor vtrique suum.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

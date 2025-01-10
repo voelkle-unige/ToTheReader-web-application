@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106271_Fr1_3</idno>
+           <idno type="DLPS">A16306</idno>
+           <idno type="STC">3219</idno>
+           <idno type="ESTC">S106271</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cities aduocate : in this case or question of honor and armes; whether apprentiship extinguisheth gentry? Containing a cleare refutation of the pernicious common errour affirming it, swallowed by Erasmus of Roterdam, Sir Thomas Smith in his common-weale, Sir Iohn Fern in his blazon, Raphe Broke Yorke Herald, and others. With the copies of transcripts of three letters which gaue occasion of this worke</title>
+                 <author>Bolton, Edmund</author>
+                 <imprint>
+                    <publisher>Flesher (Fletcher), Miles</publisher>
+                    <distributor>Lee, William 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>18, 61, 1 page, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Economics</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <p>
+      <hi>HONORATISSIMO</hi>
+SENATVI
+POPVLO
+QVE,
+AVGVSTAE VRBIS
+LONDINEN<g ref="char:EOLhyphen"/>SIS.</p>
+   <p>
+      <pb facs="3"/>
+      <figure>
+</figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In DIEM tertiam BARTASSII a Tho. VVINTERO Anglicè redditam.</title>
+           <author>Tomkins, Nathanael</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1604</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110634_Fr1_3_4</idno>
+           <idno type="DLPS">A11404</idno>
+           <idno type="STC">21660</idno>
+           <idno type="ESTC">S110634</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In DIEM tertiam BARTASSII a Tho. VVINTERO Anglicè redditam.</title>
+                 <author>Tomkins, Nathanael</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third dayes creation. By that most excellent, learned, and diuine poet, VVilliam, Lord Bartas. Done verse for verse out of the originall French by Thomas VVinter, Master of Arts</title>
+                 <author>Du Bartas, Guillaume de Salluste, seigneur</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1604</date>
+                 <publisher>Clarke, Thomas.</publisher>
+                            <publisher>Field (del Campo), Richard</publisher>
+                        </imprint>
+                 <extent>12, 36 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <head>In DIEM tertiam BARTASSII a Tho. VVINTERO Anglicè redditam.</head>
+   <lg>
+      <l>
+         <hi>BARTASSII</hi> secunda, tibi fuit <hi>DIES</hi>
+      </l>
+      <l>
+         <hi>WINTERE</hi> prima: primus idcircò liber</l>
+      <l>Rores canebat, fulmina &amp; coeli faces:</l>
+      <l>At nunc secundo (qui tuus labor) libro</l>
+      <l>
+         <pb facs="5"/>Flores canuntur, flumina, &amp; facies soli.</l>
+      <l>Haec tibi secunda, tertia est illi <hi>DIES.</hi>
+      </l>
+   </lg>
+   <lg>
+      <l>In primâ haberis omnibus vates prior.</l>
+      <l>
+         <hi>BARTASSIO</hi> excepto vnico vatum patre:</l>
+      <l>Satis est Homeri si istius fueris Maro.</l>
+   </lg>
+   <lg>
+      <l>Prodis secundus in secund<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> Nemini</l>
+      <l>Dum tersiore tertiam versu canis,</l>
+      <l>Adusque vatis sidus interpres boni.</l>
+   </lg>
+   <lg>
+      <l>Sic cautus ipse, dum <hi>DIES</hi> trudit <hi>DIEM</hi>
+      </l>
+      <l>(<hi>WINTERE</hi> Musis <hi>VERIS</hi> assulgens vice)</l>
+      <l>Prehendis ansam Temporis, captas <hi>DIEM,</hi>
+      </l>
+      <l>Tam{que} Bona sequitur prima quàm fuit Bona.</l>
+   </lg>
+   <closer>
+      <signed>Nathanael Tomkins.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

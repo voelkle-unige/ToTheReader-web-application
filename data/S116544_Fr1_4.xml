@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To his louyng frende W. F.</title>
+           <author>Painter, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1560</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116544_Fr1_4</idno>
+           <idno type="DLPS">A01297</idno>
+           <idno type="STC">11420</idno>
+           <idno type="ESTC">S116544</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To his louyng frende W. F.</title>
+                 <author>Painter, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Antiprognosticon that is to saye, an inuectiue agaynst the vayne and vnprofitable predictions of the astrologians as Nostrodame, [et] c. Translated out of Latine into Englishe. Whervnto is added by the author a shorte treatise in Englyshe, as well for the vtter subuersion of that fained arte, as also for the better vnderstandynge of the common people, vnto whom the fyrst labour seemeth not sufficient</title>
+                 <author>Fulke, William</author>
+                 <imprint>
+                    <publisher>Sutton, Henry</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1560</date>
+                 </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Astrology and cosmography</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>¶ To his louyng frende W. F.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">O</seg>VR</hi> familiaritie is suche, that neyther we haue neede of preoc<g ref="char:EOLhyphen"/>cupation, nor yet of many wor<g ref="char:EOLhyphen"/>des in vtteryng our requeste. These circumstances therfore being cutte of, I shall euen at one woorde, desyre you, that this translation of your <hi>Antiprogno<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>
+      </hi> may be publisshed and made cōmon for all men, that either haue nede therof to vnderstande their errour, orels shall haue pleasure therin to see the vanitie wherwith they haue ben blynded. The rather thus trā slated, bicause a great numbre of the busiest and most curious Astrologians in Englād vnderstand no latin at all, orels so symply, that they can not perceiue the mynde of a Latin writ<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>r, and also that the cōmon sorte of wel disposed men, may hereby take, some profite. But if you thynk good to adde som what in this edition for the vnderstandyng of the common people you shall doo well in my opinion. Thus fare you well.</p>
+   <closer>
+      <dateline>From Seuenoke <date>xxii. of Octobre.</date>
+      </dateline>
+      <signed>Your familiar frende
+Wil<g ref="char:EOLhyphen"/>lyam Paynter.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Capel, R.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2842_Fr1_3</idno>
+           <idno type="DLPS">A09266</idno>
+           <idno type="STC">19580.5</idno>
+           <idno type="ESTC">S2842</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Capel, R.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An introduction to the vvorthy receiving the sacrament : of the Lords Supper. By that late learned minister of Gods holy word, William Pemble, of Magdalen Hall in Oxford. Published since his death by his friend</title>
+                 <author>Pemble, William</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Boler (Bowler), James 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>8, 88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, if any other print this book according to any notes, I thought good to give thee notice, that this is according to the Originall, under the Authors owne hand; left unto me, when he departed this world: and therefore take this as the onely, true, and genuine Copy. And so farewell.</p>
+   <closer>
+      <signed>R. CAPEL▪</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

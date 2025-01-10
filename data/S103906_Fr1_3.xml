@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To R. DOLEMAN.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103906_Fr1_3</idno>
+           <idno type="DLPS">A02848</idno>
+           <idno type="STC">12988</idno>
+           <idno type="ESTC">S103906</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To R. DOLEMAN.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An ansvver to the first part of a certaine conference, concerning succession, published not long since vnder the name of R. Dolman</title>
+                 <author>Hayward, John, Sir</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 <publisher>Bradock, Richard.</publisher>
+                            <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Harrison, John 3.</publisher>
+                            <publisher>Read, Richard.</publisher>
+                            <publisher>Short, Peter</publisher>
+                            <distributor>Burby, Cuthbert</distributor>
+                            <distributor>Waterson, Simon</distributor>
+                        </imprint>
+                 <extent>168 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>To R. DOLEMAN.</head>
+   <p>
+      <seg rend="decorInit">Y</seg>Ou will thinke it strange Maister <hi>Dole<g ref="char:EOLhyphen"/>man,</hi> that hauing lien these many yeares in quiet harbour frō the tempest of mens tongues, you should now feele a storme to breake vpon you; peraduenture you were perswaded (as euery one suffereth himselfe to be beguiled with desire) that this si<g ref="char:EOLhyphen"/>lence did growe, eyther vpon acceptance of your opinion, or from insufficiencie to oppose against it. I assure you neither; but partly from contempt, and partly from feare. Th<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> contempt proceeded from the manner of your writing, wherein you regarde not <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> but <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>: not how eyther truly or pertinent<g ref="char:EOLhyphen"/>ly, but how largelye you do wright: endeauouring nothing else, but eyther to abuse weake iudgements, or to feede the humors of such discontented persons, as wante o<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> disgrace hath kept lower then they had set their swelling thoughts. The feare was occasioned by the nimble eare which lately was borne to the touche of this string: for which cause our English fugitiues did stand in some aduantage, in that they had free scope to publish whatsoeuer was agreeable to their pleasure; knowing right well, that their bookes could not be suppressed, and might not be answered.</p>
+   <p>
+      <pb facs="4"/>It may be you will question, wherefore I haue not answered your second part: it is ready for you, but I haue not now thought fit to divulge the same; partly because it hath beene dealt in by some others; but principallie because I know not how conuenient it may seeme, to discusse such particulars, as with generall both liking and applause are now determined. I forbeare to expresse your true name; I haue reserued that to my answere to some cast Pamphlet which I expect you will cast forth against mee: and I make little doubt but to driue you in the end to such desperate extremi<g ref="char:EOLhyphen"/>tie, as (with <hi>Achitophell</hi>) to sacrifice your selfe to your owne shame, because your mis<g ref="char:EOLhyphen"/>chieuous counsaile hath not bin embraced.</p>
+</div>
+        </body>
+  </text>
+</TEI>

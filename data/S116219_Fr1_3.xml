@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ A friendly prouocation to the Author of this worke, that hee would publish it.</title>
+           <author>Man, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116219_Fr1_3</idno>
+           <idno type="DLPS">A03758</idno>
+           <idno type="STC">13877</idno>
+           <idno type="ESTC">S116219</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ A friendly prouocation to the Author of this worke, that hee would publish it.</title>
+                 <author>Man, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A Christian enchiridion : wherein are briefly handled these three points following; 1. That aboue all things in the world, man should bee most carefull of his saluation. 2. That in this life a man bee assured of his saluation. 3. The way how, or meanes whereby a man may come to bee assured of his saluation. By Thomas Hovves, preacher of the word at Kings-Linne in Norfolke</title>
+                 <author>Howes, Thomas, preacher at King's Lynn</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1615</date>
+                 <publisher>Legge (Legg), Cantrell.</publisher>
+                            <publisher>Welby, William</publisher>
+                        </imprint>
+                 <extent>20, 176, 175-206, 205-222 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Letters</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="letter_to_author">
+   <pb facs="4"/>
+   <head>¶ A friendly prouocation to the Author of this worke, that hee would publish it.</head>
+   <p>
+      <seg rend="decorInit">S</seg>IR, as my leasure would permit, I haue perused your Enchiridi<g ref="char:EOLhyphen"/>on: The subiect is diuine, and considering our Sauiours precept, Matth. 6.33. the work is seasonable; why should you then suppresse it? Say not, the me<g ref="char:EOLhyphen"/>thode is preposterous, the best affected looke more to the truth deliuered, then manner of deliuery: Or that it is too plaine, where men onely desire, that that which is shut, may be opened; what good doth the golden key, if it will not open? or what hurt doth the wooden key, if it do open? Or that it euer stood with your nature to be more obscure: the lawes of God and nature say, we are not our owne, but what we are, we are it to God and to his Church. Should I then in way of approbation speake of the author? I must say as <hi>Seneca, non quis, sed quid:</hi> or of the worke, because priuy to my selfe how insufficient all my sufficiencie is, no more but this; <hi>vino vendibili suspensa hae<g ref="char:EOLhyphen"/>dera,
+<pb facs="4"/> nihil est opus.</hi> And for your selfe, let <hi>Momus</hi> mutter; and such as neuer learned to speak wel, speake what themselues are wont; I wil conclude with that of <hi>Persius,</hi>
+      <q>
+         <l>Non si quid turbida Roma,<note place="margin">Persius l. 1. Satyr. 1.</note>
+         </l>
+         <l>Eleuet accedas, examenue improbum in illa,</l>
+         <l>Castiget trutina, nec te quaesineris extra.</l>
+      </q>
+   </p>
+   <closer>
+      <signed>Your louing Friend,<lb/> IOHN MAN.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S2549_Fr1_4</idno>
+           <idno type="DLPS">A17810</idno>
+           <idno type="STC">4499</idno>
+           <idno type="ESTC">S2549</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of the life and reigne of that famous princesse Elizabeth : containing a briefe memoriall of the chiefest affaires of state that haue passed in these kingdomes of England, Scotland, France or Ireland since the yeare of the fatall Spanish invasion to that of he sad and ever to be deplored dissolution : wherevnto also is annexed an appendix of animadversions vpon severall passages, corrections of sundry errours, and additions of some remarkable matters of this history never before imprinted</title>
+                 <author>Camden, William</author>
+                 <imprint>
+                    <distributor>Webb, William 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>34, 384, that is 376, 103 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <epigraph>
+      <q>
+         <l>—Corrige, sodes,</l>
+         <l>Hoc, bone Lector, <hi>et Hoc.</hi>—</l>
+      </q>
+   </epigraph>
+   <p>PAge 35. Line 18. Read<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <hi>Martigue.</hi> p. 36. l. 1. Prince <gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap>. p. 141. l. 5. <hi>Duke
+of</hi> Alua. p. 178. l. 24. <hi>which was to</hi> Feroll. p. 192. l. 3. <hi>dealt with them of</hi> Dant<g ref="char:EOLhyphen"/>zicke.
+p. 221. l. 25. William Peter. p. 241. l. 24. <hi>the same</hi> Hagan. p. 244. l. 34. <hi>who
+notwithstanding had not yet.</hi> p. 255. l. 10. Monast<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>ry <hi>of</hi> Typarary. p. 311. l. 21. Saint-Iohn
+<gap reason="illegible" resp="#tech" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> Bletnesho. p. 360. l. 14. Roger <hi>and</hi> Gawyn <hi>the two</hi> Harui<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>s.</p>
+</div>
+        </body>
+  </text>
+</TEI>

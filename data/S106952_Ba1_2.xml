@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epigraphs]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1581</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106952_Ba1_2</idno>
+           <idno type="DLPS">A17281</idno>
+           <idno type="STC">4124</idno>
+           <idno type="ESTC">S106952</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epigraphs]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The disputation concerning the controuersit headdis of religion : haldin in the realme of Scotland, the zeir of God ane thousand, fyue hundreth fourscoir zeiris. Betuix. the prætendit ministeris of the deformed Kirk in Scotland. and, Nicol Burne professor of philosophie i S. Leonardis college, in the citie of Sanctandrois, brocht vp from his tender eage in the peruersit sect of the Caluinistis, and nou be ane special grace of God, ane membre of the halie and Catholik kirk. Dedicat to his souerane the kingis M. of Scotland, King Iames the Saxt</title>
+                 <author>Burne, Nicol</author>
+                 <imprint>
+                    <publisher>Brumen (Brumeau), Thomas</publisher>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1581</date>
+                 </imprint>
+                 <extent>8, 66, 77-190, 4 leaves, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epigraphs">
+   <pb facs="191"/>
+   <q>
+      <p>SIquis videtur inter vos sapiens esse in hoc
+saeculo, stultus fiat vt sit sapiens: sapienti<gap reason="illegible" resp="#tech" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+enim huius mundi, stultitia est apud Deum.</p>
+      <p>Gif ony man amang zou appeir to be vyse in
+this varld, let him be anefule, that he may be
+maid vyse in verie deid: for the visdome of this
+varld is folie in the sicht of God. </p>
+      <bibl>S. Paul. 1.
+Cor. 3.</bibl>
+   </q>
+   <q>
+      <p>Elegi abiectus esse in domo Dei mei magis,
+quàm habitare in tabernaculis peccatorum.</p>
+      <p>I haue chosin to be repute abiect and contem<g ref="char:EOLhyphen"/>ptible
+in the hous of God, rather nor to duel in
+the tabernaclis of the vicked. </p>
+      <bibl>Psal. 83.</bibl>
+   </q>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

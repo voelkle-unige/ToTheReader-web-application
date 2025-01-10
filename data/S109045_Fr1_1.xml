@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Book]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1540</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109045_Fr1_1</idno>
+           <idno type="DLPS">A21469</idno>
+           <idno type="STC">777</idno>
+           <idno type="ESTC">S109045</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Book]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Here is a newe boke, called the defence of age, and recouery of youth, translated out of the famous clarke and ryght experte medycyne Arnold de Noua Uilla, very profytable for all men to knowe</title>
+                 <author>Arnaldus, de Villanova</author>
+                 <imprint>
+                    <publisher>Wyer (Wyre), Robert</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1540</date>
+                 </imprint>
+                 <extent>16 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book">
+   <pb facs="1"/>
+   <pb facs="1"/>
+   <p>¶ Here is a newe Boke, called the defence of age / and recouery of youth / transla<g ref="char:EOLunhyphen"/>ted out of the famous Clarke and ryght experte medy<g ref="char:EOLhyphen"/>cyne Arnold de Noua Villa / very profyta<g ref="char:EOLhyphen"/>ble for all men to knowe.</p>
+   <p>
+      <figure>
+</figure>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

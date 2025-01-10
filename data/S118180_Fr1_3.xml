@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Authors Apologie.</title>
+           <author>Taylor, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118180_Fr1_3</idno>
+           <idno type="DLPS">A13544</idno>
+           <idno type="STC">23838</idno>
+           <idno type="ESTC">S118180</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Authors Apologie.</title>
+                 <author>Taylor, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A mappe of Rome : lively exhibiting her mercilesse meeknesse, and cruell mercies to the Church of God: preached in fiue sermons, on occasion of the Gunpowder Treason, by T.T. and now published by W.I. minister. 1. The Romish furnace. 2. The Romish Edom. 3. The Romish fowler. 4. The Romish conception. To which is added, 5. The English gratulation</title>
+                 <author>Taylor, Thomas</author>
+                 <imprint>
+                    <distributor>Bartlet, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 <publisher>Kingston, Felix.</publisher>
+                            <publisher>Man, Thomas 1</publisher>
+                        </imprint>
+                 <extent>8, 100 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="apology">
+   <pb facs="5"/>
+   <head>The Authors Apologie.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, as I esteemed not the Sermons following sit for so publique a <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>iew, so neither meant I to purc<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ase to my selfe so much enuie &amp; wrath from the <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>atholiques, as these Sermons may (per<g ref="char:EOLhyphen"/>haps) bring vpon me. But the opportunity of the Pub<g ref="char:EOLhyphen"/>lisher, who hath taken paines in them, and of some o<g ref="char:EOLhyphen"/>thers desirous of them, drew out at last my consent to their request. If any phrases may seeme more warme and earnest, the subiect may pleade for pardon, which is a fierie and furious Powder-treason: and fire vseth to warme and kindle. If any straines or phrases be met with oftner than once, consider these Sermons were preached many yeares asunder; and euery yeare the same matter in substance was to be renewed among my Auditory. If I might heereby winne of some Catho<g ref="char:EOLhyphen"/>liques, but to consider of the grounds of their Religion, which (as they say of Nilus) breedeth almost yearely such monsters, I should be glad to gather that f<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ui<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap> of my paines: whose hearts desire for my seduced Country<g ref="char:EOLhyphen"/>men, is (as <hi>Pauls</hi> for his) that they might be saued in the day of the Lord: to whose grace I heartily com<g ref="char:EOLhyphen"/>mend thee, and desire to be commended by thee.</p>
+   <closer>
+      <signed>THO. TAYLOR.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>C., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110152_Fr1_5</idno>
+           <idno type="DLPS">B14999</idno>
+           <idno type="STC">18532</idno>
+           <idno type="ESTC">S110152</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>C., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An houre glasse of Indian newes. Or A true and tragicall discourse, shewing the most lamentable miseries, and distressed calamities indured by 67 Englishmen, which were sent for a supply to the planting in Guiana in the yeare. 1605 : VVho not finding the saide place, were for want of victuall, left a shore in Saint Lucia, an island of caniballs, or men-eaters in the West-Indyes, vnder the conduct of Captain Sen-Iohns, of all which said number, onely a 11. are supposed to be still liuing, whereof 4. are lately returnd into England. Written by Iohn Nicholl, one of th aforesaid company</title>
+                 <author>Nicholl, John, emigrant to Guiana</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 </imprint>
+                 <extent>44 pages, illustrations (woodcut), 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="5"/>
+   <l>VIS nondum natus, vis viuere mortuus olim?</l>
+   <l>Tempora temporibus iunge aliena tuis.</l>
+   <l>Vis paruus magnus fieri, vinctusque solutus?</l>
+   <l>Tu loca vicinis iunge remota locis.</l>
+   <l>Non vita est, vitas qua vitat vita alienas:</l>
+   <l>Libera mens non est sequitur quae corpus vt vmbra</l>
+   <l>Pars vitae, Indorum vita remota, mea est,</l>
+   <l>Quò mens it libro rapta <hi>(Nichole)</hi> tu<gap reason="illegible" resp="#murp" extent="1 letter">
+         <desc>•</desc>
+      </gap>.</l>
+   <closer>
+      <signed>I. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

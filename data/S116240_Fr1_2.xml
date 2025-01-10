@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the courteous Reader.</title>
+           <author>R., S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116240_Fr1_2</idno>
+           <idno type="DLPS">B15540</idno>
+           <idno type="STC">21028.5</idno>
+           <idno type="ESTC">S116240</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the courteous Reader.</title>
+                 <author>R., S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Martin Mark-all, beadle of Bridevvell; his defence and answere to the Belman of London : Discouering the long-concealed originall and regiment of rogues, when they first began to take head, and how they haue succeeded one the other successiuely vnto the sixe and twentieth yeare of King Henry the eight, gathered out of the chronicle of crackeropes, and (as they terme it) the legend of lossels. By S.R</title>
+                 <author>Rid, Samuel</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 <distributor>Bonian (Bunnian), Richard</distributor>
+                            <distributor>Budge, John</distributor>
+                        </imprint>
+                 <extent>62 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the courteous Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, a Preface to a Pamphlet is as foolish as fancied, and verses <hi>(in lau<g ref="char:EOLhyphen"/>dem authoris)</hi> are farre worse then a Horse-coursers commendation of a Smythfield-Iade, the one too too com<g ref="char:EOLhyphen"/>mon, the other friuolous: for mine owne part, if the inside of my labour cannot winne your content, let the outside of the subiect shew his authours intent: I know I shall be contemned of some for being too forward, controlled of others who perhaps are rub<g ref="char:EOLhyphen"/>bed on the sore, and condemned of a third sort for a loose stile and lame phrase: Indeed Gentlemen this I doe confesse, I shall bring vpon this great Stage of fooles (for <hi>omne sub Sole vanitas</hi>) a peece of folly; if such as count themselues wise dare venter the rea<g ref="char:EOLhyphen"/>ding of it ouer, I cannot let them, but when they haue perused it, and finde therein nothing but folly, let them reprehend neither the worke nor workema<g ref="char:EOLhyphen"/>ster, but rather themselues, in that they would spend their time so foolishly, being be<g ref="char:EOLhyphen"/>fore warned of so foolish and idle a subiect.</p>
+   <closer>
+      <signed>Yours in loue, <hi>S. R.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

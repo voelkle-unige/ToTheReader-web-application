@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>De eodem partu, lusus eiusdem.</title>
+           <author>B., B.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1598</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102357_Fr1_8</idno>
+           <idno type="DLPS">A00991</idno>
+           <idno type="STC">11098</idno>
+           <idno type="ESTC">S102357</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>De eodem partu, lusus eiusdem.</title>
+                 <author>B., B.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A vvorlde of wordes, or Most copious, and exact dictionarie in Italian and English : collected by Iohn Florio</title>
+                 <author>Florio, John</author>
+                 <imprint>
+                    <publisher>Hatfield, Arnold</publisher>
+                    <distributor>Blount (Blunt), Edward</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1598</date>
+                 </imprint>
+                 <extent>20, 462, 2 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>De eodem partu, lusus eiusdem.</head>
+   <lg>
+      <l>Dic quibus in terris inscripti nomina Regum</l>
+      <l>Nascantur flores: Phyllida solus habe.</l>
+      <l>Disce quibus terris inscripti nomina rerum</l>
+      <l>Nascuntur flores: Pallada solus habe.</l>
+      <l>Illi Mar<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> tui lymphae vulgaris alumni;</l>
+      <l>At tantum nostros aureus imber alit.</l>
+   </lg>
+   <closer>
+      <signed>B. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122294_Fr1_2</idno>
+           <idno type="DLPS">A20769</idno>
+           <idno type="STC">7152</idno>
+           <idno type="ESTC">S122294</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Certaine treatises of the late reverend and learned divine, Mr Iohn Downe, rector of the church of Instow in Devonshire, Bachelour of Divinity, and sometimes fellow of Emanuell Colledge in Cambridge. Published at the instance of his friends</title>
+                 <author>Downe, John</author>
+                 <imprint>
+                    <publisher>Lichfield, John</publisher>
+                    <distributor>Forrest, Edward</distributor>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>6, 57, 1, 185, 3, 34, 2, 26, 2, 34, 2, 24, 2, 27, that is 26, 2, 51, 3, 125, 3, 68 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE RIGHT REVEREND FATHER IN GOD, the Lord Bishop of <hi>Exeter</hi> his worthy Diocesan; AS ALSO TO HIS FELLOVV BRETHREN, THE REVEREND DIVINES of that Diocesse, THE PVBLISHER OF THESE ENSUING WORKES makes bold to dedicate them in the name of his deceased Friend.</p>
+</div>
+        </body>
+  </text>
+</TEI>

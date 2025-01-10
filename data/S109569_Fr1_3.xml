@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>Greene, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1592</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109569_Fr1_3</idno>
+           <idno type="DLPS">A06165</idno>
+           <idno type="STC">16656</idno>
+           <idno type="ESTC">S109569</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>Greene, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Euphues shadow, the battaile of the sences : Wherein youthfull folly is set downe in his right figure, and vaine fancies are prooued to produce many offences. Hereunto is annexed the deafe mans dialogue, contayning Philamis Athanatos: fit for all sortes to peruse, and the better sorte to practise. By T.L. Gent</title>
+                 <author>Lodge, Thomas</author>
+                 <imprint>
+                    <distributor>Busby, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1592</date>
+                 <publisher>Jeffes, Abel.</publisher>
+                            <publisher>Ling (Lyng), Nicholas</publisher>
+                        </imprint>
+                 <extent>104 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <opener>
+      <salute>To the Gentlemen Readers, <hi>Health.</hi>
+      </salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">G</seg>Entlemen, after many of mine owne labours that you haue courteouslie accepted, I pre<g ref="char:EOLhyphen"/>sent you with <hi>Euphues shadowe,</hi> in the behalfe of my absent friend M. <hi>Thomas Lodge,</hi> who at his departure to sea vpon a long voyage, was willing, as a generall farewell to all cour<g ref="char:EOLhyphen"/>teous Gentlemen, to leaue this his worke to the view, which if you grace with your fauours eyther as his affected meaning, or the worthe of the worke requires, not onely I for him shall rest yours, but what laboures his sea studies affords, shall be I dare promise, offered to your sight, to gratifie your courte<g ref="char:EOLhyphen"/>sies, and his pen as himselfe, euery waye yours for euer Farewell.</p>
+   <closer>
+      <signed>Yours to commaund,
+Rob. Greene.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

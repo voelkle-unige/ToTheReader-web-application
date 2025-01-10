@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>carmen ENCOMIASTICON.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1572</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119246_Fr1_5</idno>
+           <idno type="DLPS">A03825</idno>
+           <idno type="STC">13941</idno>
+           <idno type="ESTC">S119246</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>carmen ENCOMIASTICON.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Huloets dictionarie : newelye corrected, amended, set in order and enlarged, vvith many names of men, tovvnes, beastes, foules, fishes, trees, shrubbes, herbes, fruites, places, instrumentes &amp;c. And in eche place fit phrases, gathered out of the best Latin authors. Also the Frenche therevnto annexed, by vvhich you may finde the Latin or Frenche, of anye English woorde you will. By Iohn Higgins late student in Oxeforde</title>
+                 <author>Huloet, Richard</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1572</date>
+                 <publisher>Marsh (Marshe, Marche), Thomas.</publisher>
+                            <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                        </imprint>
+                 <extent>572 pages, coat of arms, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <byline>Domini Buggans</byline>
+   <head>carmen ENCOMIASTICON.</head>
+   <l>SI quis Romanas studeat cognosoere voces,</l>
+   <l>Gallia quos{que} sonos, Anglia quos{que} ferat:</l>
+   <l>Higgini ingenium fuluo protiosius auro,</l>
+   <l>Cunctas en vno codice praebet opes.</l>
+   <l>Prodit &amp; hinc triplici titulo liber iste vocatus</l>
+   <l>Triglottos, linguis sedulitate tribus.</l>
+   <l>Hunc decet amplecti studiosos semper alumnos,</l>
+   <l>Cuius in amplexu docta Minerua cubat.</l>
+   <l>Hunc decet amplecti pueros, iuuenes{que} senes{que},</l>
+   <l>Cortice sub cuius munera tanta latent.</l>
+   <l>Hunc decet amplecti cupidis iunctis{que} lacerti<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+   <l>frigida Parnassi quos tulit aura viros.</l>
+   <l>Discite qui sapitis, ter doctas discite voces</l>
+   <l>Galli, Britanides, Romulides{que} simul.</l>
+   <l>Higgino et tanti precium praebete laboris,</l>
+   <l>Aeternas laudes, perpetuum{que} decus.</l>
+   <l>Hoc quo{que} continua pariter prorumpite voce,</l>
+   <l>Proueniat meritis gloria vera suis.</l>
+</div>
+        </body>
+  </text>
+</TEI>

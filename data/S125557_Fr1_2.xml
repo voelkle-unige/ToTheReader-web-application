@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>T., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125557_Fr1_2</idno>
+           <idno type="DLPS">A73317</idno>
+           <idno type="STC">24148.3</idno>
+           <idno type="ESTC">S125557</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>T., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A griefe on the death of Prince Henrie : Expressed in a broken elegie, according to the nature of such a sorrow. By Cyril Tourneur</title>
+                 <author>Tourneur, Cyril</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Welby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>22 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="8"/>
+   <pb facs="8"/>
+   <head>To the Reader.</head>
+   <l>I Cannot blame thee, if thou read'st not right,</l>
+   <l>Or vnderstand'st not; for I know thy sight,</l>
+   <l>ƲƲith weeping is imperfect, if not blind,</l>
+   <l>And sorrow does (almost) distract thy mind.</l>
+   <closer>
+      <signed>C. T.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

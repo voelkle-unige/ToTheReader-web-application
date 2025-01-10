@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HONOVRABLE ROBERT EARLE OF SALISBVRIE, VICOVNT Cranbourne, Baron of Essendon, Principall Secreta∣rie to the Kings most excellent Maiestie, Ma∣ster of the Court of Wardes and Liue∣ries, and one of his Highnesse most Honourable Pri∣uie Counsell.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107380_Fr1_2</idno>
+           <idno type="DLPS">A17650</idno>
+           <idno type="STC">4405</idno>
+           <idno type="ESTC">S107380</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HONOVRABLE ROBERT EARLE OF SALISBVRIE, VICOVNT Cranbourne, Baron of Essendon, Principall Secreta∣rie to the Kings most excellent Maiestie, Ma∣ster of the Court of Wardes and Liue∣ries, and one of his Highnesse most Honourable Pri∣uie Counsell.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A commentarie on the vvhole Epistle to the Hebrevves. By M. Iohn Caluin. Translated out of French</title>
+                 <author>Calvin, Jean</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Johnson (Jonson), Arthur</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 </imprint>
+                 <extent>8, 335, 13 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE RIGHT HONOVRABLE ROBERT EARLE OF SALISBVRIE, VICOVNT Cranbourne, Baron of Essendon, Principall Secreta<g ref="char:EOLhyphen"/>rie to the Kings most excellent Maiestie, Ma<g ref="char:EOLhyphen"/>ster of the Court of Wardes and Liue<g ref="char:EOLhyphen"/>ries, and one of his Highnesse most Honourable Pri<g ref="char:EOLhyphen"/>uie Counsell.</head>
+   <opener>
+      <salute>Grace and peace be multiplied.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">R</seg>Ight Honourable, such hath beene the singular care and fatherly proui<g ref="char:EOLhyphen"/>dence of God ouer his church in these last times: that according to his own most gratious promise (through the meanes of preaching and writing) know<g ref="char:EOLhyphen"/>ledge hath ouerflowed in all places,
+<note place="margin">Esai, 11.9.</note> as the waters that couer the sea. Hence it is come to passe, that euen this nation also, albeit vtterly vnworthy to receiue so much as <gap reason="missing" extent="1+ pages">
+         <desc>〈1+ pages missing〉</desc>
+      </gap>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

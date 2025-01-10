@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Uotum Authoris.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1597</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100864_Fr1_6</idno>
+           <idno type="DLPS">A04334</idno>
+           <idno type="STC">1445</idno>
+           <idno type="ESTC">S100864</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Uotum Authoris.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The nauigators supply : Conteining many things of principall importance belonging to nauigation, with the description and vse of diuerse instruments framed chiefly for that purpose; but seruing also for sundry other of cosmography in generall: the particular instruments are specified on the next page</title>
+                 <author>Barlow, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1597</date>
+                 <publisher>Barker, Robert.</publisher>
+                            <publisher>Bishop, George.</publisher>
+                            <publisher>Newbery (Nuberie), Ralph</publisher>
+                        </imprint>
+                 <extent>100 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Travel, topography, maps and navigational manuals</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="8"/>
+   <head>Uotum Authoris.</head>
+   <lg>
+      <l>
+         <seg rend="decorInit">S</seg>Vmme Deus, Coeli terrae{que} maris{que} tremende</l>
+      <l>Conditor, at{que} idem rector tersancte, patenti</l>
+      <l>Aure fauens, facilis mea percipe vota precantis.</l>
+      <l>Ex vno veluti gens est humana Noacho</l>
+      <l>Orta, vná{que} habitans linguâ celebrauit eâdem</l>
+      <l>Te solum verum{que} Deum, Babylonica turris</l>
+      <l>Quum nondum aethereas caput attollebat in auras;</l>
+      <l>Sic iterum, ô vtinam, miseros miseratus in vnum</l>
+      <l>Mortales redigas, laceros vt corporis artus,</l>
+      <l>Quosfuror ille tuus dispersit ad vltima mundi,</l>
+      <l>Coniuncti{que} ineant sancta vt commercia rursus,</l>
+      <l>Veliuolis iungas ratibus ceu pontibus ipsos</l>
+      <l>Mobilibus quamuis disiunctos aequore vasto:</l>
+      <l>Foelici celeres vento impellente carinas:</l>
+      <l>Miranda{que} agiles moderanti Pyxide clauos:</l>
+      <l>Inprimis tuus ille tuus, qui cuncta gubernat,</l>
+      <l>Spiritus, aspiret placidus: Sic, lampade diâ,</l>
+      <l>Verbo Euangelij, toto noscaris in orbe.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

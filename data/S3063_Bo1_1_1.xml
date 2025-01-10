@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Maxwell, James</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S3063_Bo1_1_1</idno>
+           <idno type="DLPS">A07311</idno>
+           <idno type="STC">17700.5</idno>
+           <idno type="ESTC">S3063</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Maxwell, James</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The imperiall and princely pedegree of the two most noble and vertuous princes lately married : Friderick the first of this name, Prince Palatinate, Duke of Bauiere ... sprung from glorious Charlemaigne [brace] and [brace] Elizabeth, Infanta of Albion ... onely daughter of our most gracious soveraigne Charles-James [by] Iames Maxwell</title>
+                 <author>Maxwell, James</author>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <distributor>Gosson, Henry</distributor>
+                    <pubPlace/>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>1 sheet (1 page), portraits</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Heraldic works and genealogies</term>
+                    <term>History and chronicles</term>
+                    <term>Wedding pamphlets</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <p>This Imperiall Princely Pedegree is Dedicated by the Author to the valorous res<g ref="char:EOLhyphen"/>cuer
+of our King, the right honorable <hi>Iohn</hi> Lord Ramsey, Vicount <hi>Hadington,</hi>
+whose Eagle, heauen make to soare as high, as euer did the Eagle of his noble ancesters,
+<hi>Iohn</hi> Lord Ramsey Earle <hi>Bothwell,</hi> and <hi>William</hi> Lord Ramsey Earle of Fife.</p>
+   <closer>
+      <signed>Iames Maxwell.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108868_Fr1_2</idno>
+           <idno type="DLPS">A06415</idno>
+           <idno type="STC">16888</idno>
+           <idno type="ESTC">S108868</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lucans Pharsalia: or The ciuill warres of Rome, betweene Pompey the great, and Iulius Cæsar : The whole tenne bookes, Englished by Thomas May, Esquire</title>
+                 <author>Lucan</author>
+                 <imprint>
+                    <publisher>Mathewes (Mathusius), Augustine</publisher>
+                    <distributor>Jones, Thomas 2</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>310 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <l>THis dying Figure that rare <hi>Lucan</hi> showes,</l>
+   <l>Whose lofty <hi>genius</hi> great <hi>Apollo</hi> chose</l>
+   <l>When Roman liberty oppr<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>st should dy,</l>
+   <l>To sing her sad, and solemne obsequy</l>
+   <l>In stately numbers, high, as <hi>Rome</hi> was great;</l>
+   <l>And not so much to yeares indebted yet,</l>
+   <l>As thou, fam'd <hi>Maro,</hi> when thy infant verse</l>
+   <l>The Gnats low funerall did first reherse.</l>
+   <l>Thy favour<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>d <hi>Muse</hi> did finde a different fate:</l>
+   <l>Thou gott'st <hi>Augustus</hi> loue, he <hi>Nero's</hi> hate;</l>
+   <l>But twas an act more great, and high to moue</l>
+   <l>A Princes envy, then a Princes loue.</l>
+</div>
+        </body>
+  </text>
+</TEI>

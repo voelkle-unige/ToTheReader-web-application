@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Printer.</title>
+           <author>Harris, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105942_Fr1_2</idno>
+           <idno type="DLPS">A02722</idno>
+           <idno type="STC">12854</idno>
+           <idno type="ESTC">S105942</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Printer.</title>
+                 <author>Harris, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Tvvo sermons : vvherein vve are tavght, 1. Hovv to get, 2. How to keepe, 3. How to vse a good conscience. Preached in Alldermanbury Church, London. Not heretofore published. By Robert Harris</title>
+                 <author>Harris, Robert</author>
+                 <imprint>
+                    <publisher>Brudenell, Thomas</publisher>
+                    <distributor>Bartlet, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>4, 43, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>X to the Y</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="author_to_the_printer">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Printer.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Hereas you request mee to enlarge my selfe in some passages of my former Ser<g ref="char:EOLhyphen"/>mons touching Conscience, against this new Impressi<g ref="char:EOLhyphen"/>on: I haue resolued rather to adde two new Sermons of the same subiect, than to alter any thing in the old, and this I haue beene led vnto vpon these reasons. First, because I would haue you deale firmely with all men in the venting of Copies. Secondly, be<g ref="char:EOLhyphen"/>cause that labour would haue beene as tedious to me as this. Thirdly, because I haue now ad<g ref="char:EOLhyphen"/>ded something touching the vse of Conscience, which my former text would not so fitly beare; My request vnto you is double; first, that you would be carefull in obseruing stops, inter<g ref="char:EOLhyphen"/>rogations
+<pb facs="3"/>and distinctions, which neglected, the sence becomes sometimes darke, sometimes imperfect and none vt all, as is tobee seene in some passages of the Sermons on <hi>Prouerbs</hi> and <hi>Samuel.</hi> Secondly, that you will seuer these so from the former, as that who so pleases may haue them alone. Thus resting in your care for the due publishing of all, I commend you and the worke to the Lords blessing.</p>
+   <closer>
+      <dateline>
+         <hi>Hanwell,</hi>
+         <date>
+            <hi>Oct. 8.</hi>
+         </date>
+      </dateline>
+      <signed>Yours, ROBERT HARRIS,</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

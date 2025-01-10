@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>A Prayer to be sayd at the beginning of this Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1617</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S91576_Fr1_3</idno>
+           <idno type="DLPS">B07544</idno>
+           <idno type="STC">6099.7</idno>
+           <idno type="ESTC">S91576</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>A Prayer to be sayd at the beginning of this Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The cristall of Christianitie, or Looking glasse of Gods love. Containing the principles of our Christian profession, by the way of disputation betweene master and scholler, in schooles and families, fit for the profitable practise of all (especially of youth) to be vsed. Initiated formerly by others, and amplified by R. P. minister and preacher of Gods word</title>
+                 <imprint>
+                    <publisher>Dawson, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1617</date>
+                 </imprint>
+                 <extent>72 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="5"/>
+   <head>A Prayer to be sayd at the <hi>beginning of this Booke.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">O</seg> Lord our God (and in Iesus Christ our mercifull and heauenly Father) we thy poore seruants assembled before thy maïestie in this Congregation, by the sight of our sinnes doe acknowledge our selues to be vnworthie of the least drop of thy fa<g ref="char:EOLhyphen"/>uour, or dram of thy mercies: Therefore we beseech thee, in the name of thy deare Son Iesus Christ, and for his sake to pardon all our sinnes passed, and by thy gratious spirit, to grant vs such grace at this present, that we may religiously proceede in the true vn<g ref="char:EOLhyphen"/>derstanding of thy holy word: And by the same thy spirit bee made more obedient to frame our liues by direction of thy Lawes, that thereby we may be more apt and able to set forth thy glory, by practising the pre<g ref="char:EOLhyphen"/>cepts
+<pb facs="6"/>
+taught vs in thy holy word at this pre<g ref="char:EOLhyphen"/>sent, and daily bee more readie by hearing the same thy holy word, to receiue such in<g ref="char:EOLhyphen"/>crease of faith as may sustaine vs to the at<g ref="char:EOLhyphen"/>tayning of all godly instructions, and full fruition of true and eternall felicitie, world without ende, through Iesus Christ thy deare Sonne our onely Sauiour,</p>
+   <closer>A<g ref="char:EOLhyphen"/>men.</closer>
+</div>
+        </body>
+  </text>
+</TEI>

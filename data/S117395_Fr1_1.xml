@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Hand-Written Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S117395_Fr1_1</idno>
+           <idno type="DLPS">A01857</idno>
+           <idno type="STC">11999</idno>
+           <idno type="ESTC">S117395</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Hand-Written Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A full, ample and punctuall discouery of the barbarous, bloudy, and inhumane practises of the Spanish Inquisition, against Protestants : with the originall thereof. Manifested in their proceedings against sundry particular persons, aswell English as others, upon whom they have executed their diabolicall tyrannie. A worke fit for these times, serving to withdraw the affections of all good Christians from that religion, which cannot be maintayned without those props of Hell. First written in Latin by Reginaldus Gonsaluius Montanus, and after translated into English</title>
+                 <author>González de Montes, R. (Raimundo)</author>
+                 <imprint>
+                    <distributor>Bellamy, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 </imprint>
+                 <extent>32, 198 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="hand-written_dedication">
+   <p>
+      <pb facs="1"/>
+      <pb facs="1"/>
+      <pb facs="2"/>
+      <pb facs="2"/>
+      <pb facs="3"/>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

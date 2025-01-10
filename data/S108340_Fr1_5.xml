@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Acrostic Encomium]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108340_Fr1_5</idno>
+           <idno type="DLPS">A05137</idno>
+           <idno type="STC">15267</idno>
+           <idno type="ESTC">S108340</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Acrostic Encomium]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Lathams falconry or The faulcons lure, and cure : in two bookes. The first, concerning the ordering and training vp of all hawkes in generall; especially the haggard faulcon gentle. The second, teaching approued medicines for the cure of all diseases in them. Gathered by long practice and experience, and published for the delight of noble mindes, and instruction of young faulconers in things pertaining to this princely art. By Symon Latham. Gent</title>
+                 <author>Latham, Simon</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Jackson, Roger</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>24, 147, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="acrostic_encomium">
+   <p>
+      <figure>
+         <figDesc>depiction of falcon on stump</figDesc>
+      </figure>
+   </p>
+   <lg>
+      <l>
+         <hi>S</hi> See how <hi>my</hi> Haggard huffers in the aire,</l>
+      <l>
+         <hi>I</hi> It is a Faulcon farre beyond compare.</l>
+      <l>
+         <hi>M</hi> Mount vp thy feather, with the flight of any</l>
+      <l>
+         <hi>O</hi> O're-sore the fairest bee they nere so many:</l>
+      <l>
+         <hi>N</hi> No Faulcon to <hi>my</hi> Haggard I may see;</l>
+      <l>Nor may compaire, though many Faulcons be.</l>
+      <l>
+         <hi>L</hi> Let me extoll a Faulcon more report;</l>
+      <l>
+         <hi>A</hi> A Faulcon is a Princes pleasant sport:</l>
+      <l>
+         <hi>T</hi> T'is sport and pleasure delightfull to the eye,</l>
+      <l>
+         <hi>H</hi> Haggard Hawke with mounting larke to flie:</l>
+      <l>
+         <hi>A</hi> Amid'st your pleasures then, take this delight:</l>
+      <l>
+         <hi>M</hi> Maintaine the Faulconer, and his Faulcons flight.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

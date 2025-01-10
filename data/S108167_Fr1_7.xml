@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Librum.</title>
+           <author>S., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108167_Fr1_7</idno>
+           <idno type="DLPS">A04896</idno>
+           <idno type="STC">15036</idno>
+           <idno type="ESTC">S108167</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Librum.</title>
+                 <author>S., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Rhodon and Iris· : A pastorall, as it vvas presented at the florists feast in Norwich, May 3. 1631</title>
+                 <author>Knevet, Ralph</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Sparke (Sparkes, Wreichionen), Michael 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>76 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>In Librum.</head>
+   <lg>
+      <l>EN Metamorphosis dispar descendit in orbem</l>
+      <l>Illi, quam prisco descripsit tempore <hi>Naso:</hi>
+      </l>
+      <l>Humanas vertit formas in florea <hi>Naso</hi>
+      </l>
+      <l>Corpora: sed noster contrà floralia vestit</l>
+      <l>Corpora forma hominum, cantandus laude Poeta.</l>
+      <l>Pingis <hi>(Naso)</hi> tuam Met amorphôsin Latiali</l>
+      <l>Ample stilo: Nostrum hunc pellexit at Anglica penna.</l>
+   </lg>
+   <lg>
+      <l>Anglica penna vehat submilis ad aethera pennis</l>
+      <l>Angelicis Anglum, qui tanta et talia finxit</l>
+      <l>Hanc Metamorphôsin noster beet Author, et omnes</l>
+      <l>Applaudant docti: veterem quae <hi>Naso</hi> beavit</l>
+      <l>Voce suam, canat et redimitus tempora lauro.</l>
+      <l>Iamque opus exegi, quod nec <hi>Iovis</hi> ira, nec ignis,</l>
+      <l>Nec poterit ferrum, nec edax abolere vetustas.</l>
+   </lg>
+   <closer>
+      <signed>M.S.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1628</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105608_Fr1_3</idno>
+           <idno type="DLPS">A00972</idno>
+           <idno type="STC">11078</idno>
+           <idno type="ESTC">S105608</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The historie of the perfect-cursed-blessed man : setting forth mans excellency by his generation, miserie [by his] degeneration, felicitie [by his] regeneration. By I.F. Master of Arts, preacher of Gods word, and rector of Wilbie in Suff</title>
+                 <author>Fletcher, Joseph</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1628</date>
+                 <publisher>Flesher (Fletcher), Miles.</publisher>
+                            <publisher>Milbourne (Milburne, Mylbourne), Robert</publisher>
+                        </imprint>
+                 <extent>28, 72, 4 pages, illustrations, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="3"/>
+   <head>ERRATA</head>
+   <p>ARe not many, and yet fewer in some Copies then in other: for as they were spyed in the Presse, they were amended in the remai<g ref="char:EOLhyphen"/>ning Copies. Let those that are found, be thus amended.</p>
+   <p>In the Epistle Dedic. read <hi>(like flesh-flyes.</hi>
+   </p>
+   <p>In the Epist. to the Reader
+<list>
+         <item>p. <hi>5.</hi> l. antepenult. <hi>excellency and goodnes.</hi>
+         </item>
+         <item>p. <hi>13.</hi> l. <hi>2. cals for more wrath.</hi>
+         </item>
+      </list>
+   </p>
+   <p>In the Booke.<list>
+         <item>p. <hi>28.</hi> l. the last. <hi>were all destroy'd.</hi>
+         </item>
+         <item>p. <hi>41.</hi> l. <hi>25. threw them headlong instantly.</hi>
+         </item>
+      </list>
+   </p>
+   <p>There are some other, but they are so sleighty, as the Read<gap reason="illegible" resp="#oxf" extent="1 letter">
+         <desc>•</desc>
+      </gap>r can<g ref="char:EOLhyphen"/>not but amend them in the reading.</p>
+</div>
+        </body>
+  </text>
+</TEI>

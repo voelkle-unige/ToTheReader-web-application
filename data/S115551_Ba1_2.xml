@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The faultes correct thus.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1583</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115551_Ba1_2</idno>
+           <idno type="DLPS">A10352</idno>
+           <idno type="STC">20632</idno>
+           <idno type="ESTC">S115551</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The faultes correct thus.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A refutation of sundry reprehensions, cauils, and false sleightes, by which M. Whitaker laboureth to deface the late English translation, and Catholike annotations of the new Testament, and the booke of Discouery of heretical corruptions. By William Rainolds, student of diuinitie in the English Colledge at Rhemes</title>
+                 <author>Rainolds, William</author>
+                 <imprint>
+                    <distributor>Verstegan (Rowlands), Richard</distributor>
+                    <pubPlace>France--Paris</pubPlace>
+                    <date>1583</date>
+                 </imprint>
+                 <extent>92, 4, 561, 27 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                    <term>Bibles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="344"/>
+   <head>The faultes correct thus.</head>
+   <p>Pa. 4, linea 13. for charged, reade char<g ref="char:EOLhyphen"/>ging. Ibidem in many copies wanteth a marginal note. <hi>Contra Campian. pag.</hi> 11.</p>
+   <p>Pa. 41, li. 26. Estaticus, reade Ecstaticus.</p>
+   <p>Pa. 85. lin. 6. Christ, reade Christes.</p>
+   <p>Pa. 145. lin. 18. forth, reade forth.</p>
+   <p>Pa. 195. l. 17. argumenr, reade argument.</p>
+   <p>Pa. 328. li. 8. for the two hebrew letters <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+and <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, reade <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>
+and <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, where also in some few examples, the later hebrue word is diuided, which should be ioy<g ref="char:EOLhyphen"/>ned.</p>
+   <p>Some other faultes there are of like qualitie, especially of one letter for an other, as <hi>s</hi> for <hi>f,</hi> and r for t, and in one place of some copies, <hi>is vvhich</hi> for <hi>vvhich is,</hi> al which, considering the or<g ref="char:EOLhyphen"/>dinarie difficulties of printing, where straungers are the workers, cōpositors, &amp; correctors, (besides other extraor<g ref="char:EOLhyphen"/>dinarie mishaps) I trust the Reader of his curtesie wil easely pardon. Whom I request, if by reading hereof, he fynde ought for the encrease of his faith to<g ref="char:EOLhyphen"/>wardes Christ and his Church Catho<g ref="char:EOLhyphen"/>like, euen for loue of the same Christ and Church, to help me with his prayer.</p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

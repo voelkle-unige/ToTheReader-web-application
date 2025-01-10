@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Andriam a M. Kyffino Angl. donatam.</title>
+           <author>Lloid, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111416_Fr1_2_2</idno>
+           <idno type="DLPS">A13611</idno>
+           <idno type="STC">23895</idno>
+           <idno type="ESTC">S111416</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Andriam a M. Kyffino Angl. donatam.</title>
+                 <author>Lloid, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Andria : the first comoedie of Terence, in English. A furtherance for the attainment vnto the right knowledge, &amp; true proprietie, of the Latin tong. And also a commodious meane of help, to such as haue forgotten Latin, for their speedy recouering of habilitie, to vnderstand, write, and speake the same. Carefully translated out of Latin, by Maurice Kyffin</title>
+                 <author>Terence</author>
+                 <imprint>
+                    <distributor>Woodcock, Thomas</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <publisher>East (Est, Este), Thomas.</publisher>
+                            <publisher>Flasket, John.</publisher>
+                            <publisher>Linley, Paul.</publisher>
+                            <publisher>Woodcock, Thomas</publisher>
+                        </imprint>
+                 <extent>88 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>In Andriam a M. Kyffino Angl. donatam.</head>
+   <l>ARte laborata prodit vetus <hi>Andria,</hi> veste</l>
+   <l>Cultior: &amp; nostris nunc magis apta scholis.</l>
+   <l>Restat, vt <hi>Eunuchum,</hi> reliquosque annectere
+libros</l>
+   <l>Pergas: nam facilis iam labor omnis erit.</l>
+   <closer>
+      <signed>Th. Lloid.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

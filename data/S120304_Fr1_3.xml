@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Wotton, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120304_Fr1_3</idno>
+           <idno type="DLPS">A15733</idno>
+           <idno type="STC">26002</idno>
+           <idno type="ESTC">S120304</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Wotton, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>An ansvvere to a popish pamphlet, of late newly forbished, and the second time printed, entituled: Certaine articles, or forcible reasons discouering the palpable absurdities, and most notorious errors of the Protestants religion. By Anthony Wotton</title>
+                 <author>Wotton, Anthony</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Eld (Elide), George.</publisher>
+                            <publisher>Tymme (Timme), William</publisher>
+                        </imprint>
+                 <extent>4, 159, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg>
+      <hi>Had dispatcht my answer to these Popish Articles, with purpose to haue publisht it, Ianuary 9. 1600. But it pleased God to disapoynt me of that pur<g ref="char:EOLhyphen"/>pose, by the vnlooked for ouerthrow of my Honou<g ref="char:EOLhyphen"/>rable Lord the Earle of Essex, since that time I haue kept it by me, the rather because the Pamphlet hath bene since that time sufficiently answered, by two learned men: Now at the last the importunity of some friends hath drawne from me a certain Consent, for the Printing of it, in these 2. respects. First because it seemes to them that it may serue, as part of an answere, to diuers points lately set out against Maister Perkins reformed Catholick: til<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap> a more particular refutation thereof be ready; se<g ref="char:EOLhyphen"/>condly, because the Papists haue of late new for bished and reprin<g ref="char:EOLhyphen"/>ted these Articles, with some answers and arguments, which were not in the former treatise, &amp; therfore remaine as yet vnanswered. The booke it selfe, with the Author, and reasons of the publishing thereof; I committ to thy Christian censure, beseeching God to giue a blessing to it, for the maintayning of his owne holy truth, the instructing and establishing of his children, &amp; the conuincing and confounding of his enemies, to his diuine Maiesties glory, in Iesus Christ our Lord and onely Sa<g ref="char:EOLhyphen"/>uiour. Tower-hill. May</hi> 23. 1605.</p>
+   <closer>
+      <signed>Thine assured in Christ. Anthony Wotton.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

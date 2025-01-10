@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121334_Fr1_10</idno>
+           <idno type="DLPS">A01093</idno>
+           <idno type="STC">11205</idno>
+           <idno type="ESTC">S121334</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Atheomastix : clearing foure truthes, against atheists and infidels: 1. That, there is a God. 2. That, there is but one God. 3. That, Iehouah, our God, is that one God. 4. That, the Holy Scripture is the Word of that God. All of them proued, by naturall reasons, and secular authorities; for the reducing of infidels: and, by Scriptures, and Fathers, for the confirming of Christians. By the R. Reuerend Father in God, Martin Fotherby, late Bishop of Salisbury. The contents followes, next after the preface</title>
+                 <author>Fotherby, Martin</author>
+                 <imprint>
+                    <publisher>Okes, (Derwen, de Quercubus), Nicholas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>36, 68, 99-362 pages, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="poem">
+   <pb facs="18"/>
+   <lg>
+      <l>Quem Charis asseruit sibi, quem sibi Musa, suum{que}</l>
+      <l>Dixit &amp; Haec, pariter dixit &amp; Illa, suum:</l>
+      <l>Abstulit ambabus Deus Arbiter &amp; Tuus, inquit,</l>
+      <l>Hic erat, at{que} Tuus▪ Nunc erit ille Meus.</l>
+      <l>Contra Atheos Athleta fuit Mihi, voce, stylo{que}</l>
+      <l>Nunc est Athletae danda corona Meo.</l>
+   </lg>
+   <lg>
+      <l>Sum cinis, hic qua sum, sed &amp; hic cinis emptio Christi est.</l>
+      <l>Caetera, quae mea pars, Pars mea Christus habet.</l>
+      <l>Vnisti, Deus, ambo semel: Deus, ambo revni:</l>
+      <l>Sic tecum totus, qui mea Pars es, ero.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

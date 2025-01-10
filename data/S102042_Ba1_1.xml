@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102042_Ba1_1</idno>
+           <idno type="DLPS">A06013</idno>
+           <idno type="STC">1640</idno>
+           <idno type="ESTC">S102042</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The diocesans tryall : Wherein all the sinnews of D. Dovvnams Defence are brought unto three heads, and orderly dissolved. By M. Paul Baynes</title>
+                 <author>Baynes, Paul</author>
+                 <imprint>
+                    <publisher>Thorp, Giles</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>12, 89, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="52"/>
+   <head>ERRATA.</head>
+   <p>PAg. 1. lin. 15. <hi>read</hi> constitute <hi>for</hi> continued. pag. 3. lin. 1. five of these were Metropol. l. 2. two Diocesan at least, Philadelphia and Thyatira, l. 25. citie <hi>for</hi> citie Church. pag. 5. l. 30. <hi>read</hi> Bi<g ref="char:EOLhyphen"/>shop <hi>for</hi> Pastor. pag. 7. l. 2. Cypr. lib. 4. epist. l. 34. In the nationall. pag. 11. l. 2. Synagogues in villages as well as in cities. l. 16. were at the first constitute. pag. 17. l. 31. nay any constant government at all. Pag. 18. l. 16. Philadelphia and Thyatira. pag. 22. l. 36. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> pag. 24. l. 28. not to the Presbyters of Ephesus. pag. 28. l. 10. Iohn the baptist. pag. 35. l. 25. <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> pag. 37. l. 33. and in like sence others a primate. pag. 51. grat is.</p>
+   <p>The rest of the literall faults and wants may be easily supplied by the understanding Reader.</p>
+   <pb facs="52"/>
+</div>
+        </body>
+  </text>
+</TEI>

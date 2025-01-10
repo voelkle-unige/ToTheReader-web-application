@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115195_Fr1_2</idno>
+           <idno type="DLPS">A10059</idno>
+           <idno type="STC">20304</idno>
+           <idno type="ESTC">S115195</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Spiritvall odovrs to the memory of Prince Henry : in fovre of the last sermons preached in St James after his Highnesse death, the last being the sermon before the body, the day before the funerall. By Daniel Price then chaplaine in attendance</title>
+                 <author>Price, Daniel</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1613</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Barnes, Joseph</publisher>
+                        </imprint>
+                 <extent>4, 52, 4, 29, 5, 26 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <p>TO THE HIGH AND MIGH<g ref="char:EOLhyphen"/>TY, VERTVOVS AND GRATIOVS PRINCE, PRINCE <hi>CHARLES,</hi> THE BEAVTY OF THE COVRT, AND THE BLESSING OF THIS COVNTREY, DANIEL PRICE, <hi>VVITH HIS MOST DEVOTED OB<g ref="char:EOLhyphen"/>SERVANCE, OFFERETH THESE HIS LAST SERVICES TO BLESSED PRINCE HENRY.</hi>
+   </p>
+</div>
+        </body>
+  </text>
+</TEI>

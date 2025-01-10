@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Bookseller to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118828_Fr1_2</idno>
+           <idno type="DLPS">A13228</idno>
+           <idno type="STC">23525.5</idno>
+           <idno type="ESTC">S118828</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Bookseller to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The history of the present warres of Germany : A sixt part. Gathered out of the best intelligences, and reduced into times, places, and actions. Briefly brought down from October last past, to our Lady day 1634</title>
+                 <author>N. C.</author>
+                 <imprint>
+                    <publisher>Harper, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1634</date>
+                 <distributor>Bourne, Nicholas</distributor>
+                            <distributor>Butter, Nathaniel</distributor>
+                        </imprint>
+                 <extent>8, 160, 159-171, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Bookseller to the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, the con<g ref="char:EOLhyphen"/>tinuation of this our Ger<g ref="char:EOLhyphen"/>man Story had come forth immediatly upon our Lady day, but that wee expected (for the more perfecting of the same) certain pa<g ref="char:EOLhyphen"/>pers from beyond the Seas. For the more delight of the Reader we have in this Part observed this me<g ref="char:EOLhyphen"/>thod, wee have drawn each Com<g ref="char:EOLhyphen"/>manders severall actions to its own proper head; therein observing both time and place, and paralelling their actions together, as neere as wee could collect, giving to each side what to them belongeth. If wee
+<pb facs="3"/>have fayled in any thing, impute it to our want of better information. If either side can, and will hereafter supply us with better intelligence, wee shall willingly embrace it, and give due satisfaction. If what wee now publish you shall well accept of, we shall then bee incouraged to continue this History, and give you ere long something more.</p>
+</div>
+        </body>
+  </text>
+</TEI>

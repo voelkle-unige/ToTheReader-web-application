@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Advert For Oils]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1575</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S94591_Ba1_1</idno>
+           <idno type="DLPS">B00481</idno>
+           <idno type="STC">19181.3</idno>
+           <idno type="ESTC">S94591</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Advert For Oils]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The true and perfect order to distill oyles out of al maner of spices seedes, rootes, and gummes with their perfect taste, smel, and sauour : where vnto is added some of their vertues gathered out of sundry aucthors. As Gualterius, Riffius, Guinthery Andernaty, Phillipus, Hermanus, Leonardo, Phirauante, Phollopius, Cardanus</title>
+                 <imprint>
+                    <publisher>Charlewood, John</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1575</date>
+                 </imprint>
+                 <extent>32 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div rend="blackletterType" type="advert_for_oils">
+   <p>These oyles with a number of others are to be solde at the signe of the furneseies adioyning to Powles wharfe at the dwelling house of Iohn Hester, practissioner in the arte of distillacions.</p>
+   <closer>
+      <dateline>
+         <date>1575.</date>
+      </dateline>
+   </closer>
+   <pb facs="17"/>
+</div>
+        </body>
+  </text>
+</TEI>

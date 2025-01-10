@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1599</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108895_Ba1_1</idno>
+           <idno type="DLPS">A06433</idno>
+           <idno type="STC">16904</idno>
+           <idno type="ESTC">S108895</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A memoriall of a Christian life : Wherin are treated al such things, as appertaine vnto a Christian to do from the beginning of his couersion [sic], vntil the end of his perfection. Deuided into seauen treatises: the particulars whereof are noted in the page following. Written first in the Spanish tongue, by the famous religious father, F. Lewis de Granada, Prouinciall of the holy order of preachers, in the prouince of Portugall</title>
+                 <author>Luis, de Granada</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1599</date>
+                 <publisher>Loyselet (L’Oiselet), George.</publisher>
+                            <publisher>Simmes (Sims, Symmes), Valentine</publisher>
+                        </imprint>
+                 <extent>2, 30, 33-201, 203-336, 347-762, 9 pages, illustrations (woodcut), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <p>
+      <hi>The second volume of the Memoriall of a Chri<g ref="char:EOLhyphen"/>stian life I haue already translated, and am pre<g ref="char:EOLhyphen"/>paring it towards the Print: which conteineth the three last treatises promi<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>ed in the Authors Prologue, to wit:</hi>
+      <list>
+         <item>Of Vocall Prayer.</item>
+         <item>Of Mentall Prayer: wherein is treated of the life of our Sauiour Christ.</item>
+         <item>Of the Loue of God wherein consisteth the perfecti<g ref="char:EOLhyphen"/>on of the Christian life: And therein is also trea<g ref="char:EOLhyphen"/>ted of such things as doe eyther help or hinder the same.</item>
+      </list>
+   </p>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

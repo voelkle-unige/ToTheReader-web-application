@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Chapman, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104954_Fr1_3</idno>
+           <idno type="DLPS">A18428</idno>
+           <idno type="STC">4997</idno>
+           <idno type="ESTC">S104954</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Chapman, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A most true report of the myraculous mouing and sinking of a plot of ground, about nine acres, at VVestram in Kent, which began the 18. of December, and so continued till the 29. of the same moneth. 1596</title>
+                 <author>Chapman, John</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>News books</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <opener>
+      <salute>To the right Honourable my singular good Lady and Mistresse, the La<g ref="char:EOLhyphen"/>dy <hi>Margaret,</hi> Barronesse <hi>Dacre</hi> of the South, <hi>Iohn Chapman</hi> your poore seruaunt, wi<g ref="char:EOLhyphen"/>sheth much increase of honor in this world, and eternall ioy and felici<g ref="char:EOLhyphen"/>tie in the world to come.</salute>
+   </opener>
+   <opener>
+      <salute>
+         <seg rend="decorInit">R</seg>Ight Honorable, my singular good Ladie and Mistresse,</salute>
+   </opener>
+   <p>whereas I find that ingratitude and forgetfulnesse of due reuerence to be performed of seruants toward Maisters &amp; Mi<g ref="char:EOLhyphen"/>stresses, is among all sorts most odi<g ref="char:EOLhyphen"/>ous; as contrariwise, diligence to please, and reuerent dutifulnesse toward their sayd Maisters, &amp;c. is in them a thing most laudable: as among many other, we reade of one <hi>Mucronius,</hi> ser<g ref="char:EOLhyphen"/>uant afore time to a poore Artisan named <hi>Hargabus,</hi> who being afterward called to be a Senator, did still for euer yeeld such reuerēce vnto his said old poore Maister, as thereby he did not onely giue cause of great ioy, to <hi>Hargabus,</hi> but it was esteemed in him a great praise and increase of honour, to be so dutiful to him that had brought him vp. In regard whereof, I your Ladiships seruant, being desirous to make knowne to the world the obedient dutie &amp; seruice<g ref="char:EOLhyphen"/>able minde that I beare to your honor, haue thoght good (for want of better opportunitie, to present
+<pb facs="3"/>
+your Ladiship with the education of the plotting and publishing of this miraculous worke of God, touching the straunge mouing of certaine ground, at <hi>VVestram</hi> in <hi>Kent,</hi> whereof, I with diuers others, haue bin witnesses. Humbly beseeching your good Ladiship, to accept this as a poore new yeares gift, at the handes of him, who prayeth vnto God that your honourable Ladiship may enioy many happy new yeares: and is, and alway will be ready and di<g ref="char:EOLhyphen"/>ligent to please your Ladiship to the vttermost of his power.</p>
+   <closer>
+      <signed>Your Ladiships faithfull and obedient seruant. <hi>Iohn Chapman.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

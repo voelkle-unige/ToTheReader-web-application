@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The minde of the Frontispeece.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115515_Fr2_1</idno>
+           <idno type="DLPS">A68624</idno>
+           <idno type="STC">20542</idno>
+           <idno type="ESTC">S115515</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The minde of the Frontispeece.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Emblemes : by Fra: Quarles</title>
+                 <author>Quarles, Francis</author>
+                 <imprint>
+                    <distributor>Eglesfield, Francis</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Dawson, John 2.</publisher>
+                            <publisher>Williams, John</publisher>
+                        </imprint>
+                 <extent>8, 381, 3 pages, illustrations (metal cuts), 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="title_page_emblem_explained">
+   <pb facs="161"/>
+   <pb facs="161"/>
+   <pb facs="162"/>
+   <head>The minde of the Frontispeece.</head>
+   <p>This Bubble's Man: Hope, Feare, False Ioy and Trouble, Are those Foure Winds which daily tosse this Bubble.</p>
+</div>
+        </body>
+  </text>
+</TEI>

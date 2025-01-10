@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE WORTHIE and vertuuos Knight, SIR RICHARD WESTON.</title>
+           <author>Forde, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1607</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121028_Fr2_2</idno>
+           <idno type="DLPS">A01058</idno>
+           <idno type="STC">11166</idno>
+           <idno type="ESTC">S121028</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE WORTHIE and vertuuos Knight, SIR RICHARD WESTON.</title>
+                 <author>Forde, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Musicke of sundrie kindes : set forth in two bookes. The first whereof are, aries [sic] for 4. voices to the lute, orphorion, or basse-viol, with a dialogue for two voices, and two basse viols in parts, tunde the lute way. The second are pauens, galiards, almaines, toies, igges, thumpes and such like, for two basse-viols, the lieraway, so made as the greatest number may serue to play alone, very easie to be performde. Composed by Thomas Ford</title>
+                 <author>Ford, Thomas</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1607</date>
+                 <publisher>Barley, William, Assignee(s etc.) of.</publisher>
+                            <publisher>Browne, John 1.</publisher>
+                            <publisher>Windet, John</publisher>
+                        </imprint>
+                 <extent>48 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <head>TO THE WORTHIE and vertuuos Knight, <hi>SIR</hi> RICHARD WESTON.</head>
+   <p>
+      <seg rend="decorInit">S</seg>IR albeit musicke may instly chalenge an interest in the best parte of my education, I could be content for manie reasons to conceale my defects from the censure of sharper iudgementes, but the per<g ref="char:EOLhyphen"/>swasion of some priuate friendes, together with the general good of such as take delight therein, hath encouragde me to vndergoe this hazard, which stands vpon the tickle point of liking, being in nothing more variable then in musicke: I shall not neede to make an Apologie in defence of these musickes, since none are so much in request nor more gene<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap> receiued then of these kindes, which with all hartie affection I offer to your <gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>rable iudgement not as a worke whose merit or worth deserues so iudicious a patron, but a manifestation of my worthlesse affection bound vnto you by ma<g ref="char:EOLhyphen"/>ny particular fauours: nor dare I vpon mine owne iudgement make expecta<g ref="char:EOLhyphen"/>tion great with fair promises, yet thus much I dare presume, you shal find variety, and sith some of them hath beene gracd with your speciall fauour and liking, I doubt not they may also giue contentment to those that seekes delight, more then fautes, to whose kind acceptance vnder your worthie protection, I com mend these first fruites of my studies.</p>
+   <closer>
+      <signed>Your Worships humbly deuoted
+THOMAS FORDE.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

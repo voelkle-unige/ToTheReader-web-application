@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Errata.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1610</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103653_Ba1_2</idno>
+           <idno type="DLPS">A02522</idno>
+           <idno type="STC">12649</idno>
+           <idno type="ESTC">S103653</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Errata.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A common apologie of the Church of England : against the vniust challenges of the ouer-iust sect, commonly called Brownists. Wherein the grounds and defences, of the separation are largely discussed: occasioned, by a late pamphlet published vnder the name, of an answer to a censorious epistle, which the reader shall finde in the margent. By I.H</title>
+                 <author>Hall, Joseph</author>
+                 <imprint>
+                    <distributor>Macham, Samuel 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1610</date>
+                 <publisher>Edgar, Eleazar.</publisher>
+                            <publisher>Stansby, William</publisher>
+                        </imprint>
+                 <extent>6, 145, 5 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="80"/>
+   <head>Errata.</head>
+   <p>Read welbeloueds for welbelouedst. Epist pa. vlt. Con<gap reason="illegible" resp="#tech" extent="1 letter">
+         <desc>•</desc>
+      </gap>iction for coniuncti<g ref="char:EOLhyphen"/>on.
+pag. 32. line 19. Vncharitablenesse for vnchariblenesse. pag. 47. line 18.
+Optat. lib. 3. for Opt. lib. 30. marg. pag. 49. Rules of Christ, for rules Christ.
+pag. 50. line 1. Places; onwards. for places onwards. pag. 66. line. 18. Our Mi<g ref="char:EOLhyphen"/>nisterie
+for your Ministerie. pag. 67. line 8. That houses for what houses pag.
+80. line 16. waryof, for weary of, pag. 88. line 16. shrifte for strife. pa. 99. l. 12
+Enuie for annoy, pag. 103. line 13. Ingenuously, for ingeniously, pag. 104. line. 19
+which are; in, for which are in, pag. 107. line 13.</p>
+   <p>Besides, many quotations in the margent, are misplaced;
+the matter will leade the Reader to the right place:</p>
+   <p>The words of the aduersarie are onely those, which haue
+this Note of <hi>Sep.</hi> set before them.</p>
+   <pb facs="80"/>
+</div>
+        </body>
+  </text>
+</TEI>

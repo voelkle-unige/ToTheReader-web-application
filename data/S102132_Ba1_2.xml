@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           <author>M., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S102132_Ba1_2</idno>
+           <idno type="DLPS">A10530</idno>
+           <idno type="STC">20802</idno>
+           <idno type="ESTC">S102132</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 <author>M., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The grounde of artes : teaching the perfecte vvorke and practise of arithmetike, both in whole nu [m] bers and fractions, after a more easie and exact sort, than hitherto hath bene set forth. Made by M. Robert Recorde, D. in Physick, and afterwards augmented by M. Iohn Dee. And now lately diligently corrected, [and] beautified with some newe rules and necessarie additions: and further endowed with a thirde part, of rules of practize, abridged into a briefer methode than hitherto hath bene published: with diverse such necessary rules, as are incident to the trade of merchandize. Whervnto are also added diuers tables [and] instructions ... By Iohn Mellis of Southwark, scholemaster</title>
+                 <author>Recorde, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 <publisher>Bynneman (Benneyman, Binneman), Henry.</publisher>
+                            <publisher>Harrison (Harison), John 1</publisher>
+                        </imprint>
+                 <extent>718 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="359"/>
+   <p>THus gentle Reader I end this my trea<g ref="char:EOLhyphen"/>tise, with earnest request to accept it in good parte. And let my good wil counter<g ref="char:EOLhyphen"/>uaile the basenesse of the stile: praying thee also to thy better furtherance of perfection, to amende in the Margente of the booke, these faultes that haue escaped in the Prin<g ref="char:EOLhyphen"/>ting, which I haue here in this table of erra<g ref="char:EOLhyphen"/>ta following collected.</p>
+   <closer>
+      <salute>Vale</salute>
+      <signed>I.M. <hi>Norwicensis.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

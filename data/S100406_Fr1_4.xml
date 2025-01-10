@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Translator to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1638</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100406_Fr1_4</idno>
+           <idno type="DLPS">A22622</idno>
+           <idno type="STC">91</idno>
+           <idno type="ESTC">S100406</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Translator to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The loves of Clitophon and Leucippe : A most elegant history, written in Greeke by Achilles Tatius: and now Englished</title>
+                 <author>Achilles Tatius</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1638</date>
+                 <publisher>Allam, John.</publisher>
+                            <publisher>Turner, William</publisher>
+                        </imprint>
+                 <extent>24, 255, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="translator_to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>The Translator to the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Ourteous Reader, how this recreation of my idle houres (whose hard for<g ref="char:EOLhyphen"/>tune it is now to come under thy cen<g ref="char:EOLhyphen"/>sure) shall please thee, it matters not much; since I begge not thy approbation, or feare thy dislike; either because thy phancy may be mother to the one, thy prejudice to the other; or because I my selfe cannot
+<q>—digito monstrari &amp; dicier hic est:</q>
+wherefore thou maist condemn the Translator, not me. If thou cry me downe for a d<gap reason="illegible" resp="#oxf" extent="2 letters">
+         <desc>••</desc>
+      </gap>inquent, I may perhaps be sory for taking so much pains to offend, yet never feare comming to executi<g ref="char:EOLhyphen"/>on. But lest I should so farre betray my owne cause, anticipate thee in thy censure, or passe too hard a censure upon so petty a crime (as abusing a Readers patience is now adaies accounted) heare what I can say in my owne defence. First, how difficult a thing it is to maintaine the ele<g ref="char:EOLhyphen"/>gancy of a Greeke author in our language, I ap<g ref="char:EOLhyphen"/>peale to thee, if thou hast read either <hi>Aristaene<g ref="char:EOLhyphen"/>tus, Eustathius, Longus</hi> the Sophist, or <hi>Parthenius</hi>; from whose pens, as sometime from the tongue of <hi>Vlysses,</hi>
+      <q>
+         <l>—<gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>:</l>
+         <l>A voice more sweet than hony did distill;</l>
+      </q>
+      <pb facs="4"/>
+yet were they Englisht, they would bee as little esteemed of, as the Latine translation of <hi>Plato,</hi> or that of my Author done by <hi>Hanniball Crucei<g ref="char:EOLhyphen"/>us</hi>; which I may in <hi>Photius</hi> language truly call <gap reason="foreign">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>: The second thing which may excuse me, is, that by the exection of the two testicles of an unchaste dispute, and one immo<g ref="char:EOLhyphen"/>dest expression, I have so refined the author, that the modestest matron may looke in his face and not blush. Besides, I present him not here clad in the ra<gap reason="illegible" resp="#oxf" extent="2 letters">
+         <desc>••</desc>
+      </gap>es of mine owne phancie, nor yet in language rackt and disjoynted out of its proper idiom; but I have observed a medium betwixt both: I could with some unnecessary paines have given it a flourish, but I preferred the fide<g ref="char:EOLhyphen"/>lity of the Translation before the Ornament. That little which I have spared to English, pro<g ref="char:EOLhyphen"/>stituted my author not onely to the censure of the Patriarch of <hi>Constantinople,</hi> but also of some of these times, and would have appeared as a mole in his face; whose worth, were it not so great, I might have good colour to piece out my unseasonable advertisements with; but sparing thee, and not willing to injure him, I bid thee farewell.</p>
+</div>
+        </body>
+  </text>
+</TEI>

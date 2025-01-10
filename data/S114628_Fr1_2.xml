@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Booke to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114628_Fr1_2</idno>
+           <idno type="DLPS">A00551</idno>
+           <idno type="STC">10688</idno>
+           <idno type="ESTC">S114628</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Booke to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The complaint of Paules, to all Christian soules: or an humble supplication, to our good King and nation, for her newe reparation. Written by Henrie Farley. Amore, veritate, &amp; reuerentia</title>
+                 <author>Farley, Henry</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_the_reader">
+   <pb facs="2"/>
+   <head>
+      <hi>The Booke to the</hi> Reader.</head>
+   <lg>
+      <l>If you will iudge me, (my good friend)</l>
+      <l>First reade me thorough to the ende,</l>
+      <l>If all be well, you may commend me,</l>
+      <l>If ought amisse, I pray amend me.</l>
+   </lg>
+   <lg>
+      <l>For euery one should gladly doe,</l>
+      <l>The same he would be done vnto.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ Io. Sw. In Authorem ogdoastichon.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109252_Fr1_4_1</idno>
+           <idno type="DLPS">A68296</idno>
+           <idno type="STC">14926</idno>
+           <idno type="ESTC">S109252</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ Io. Sw. In Authorem ogdoastichon.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The education of children in learning : declared by the dignitie, vtilitie, and method thereof. Meete to be knowne, and practised aswell of parents as schoolemaisters</title>
+                 <author>Kempe, William</author>
+                 <imprint>
+                    <publisher>Orwin, Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <distributor>Gubbin (Gubbins), Thomas</distributor>
+                            <distributor>Porter, John</distributor>
+                        </imprint>
+                 <extent>60 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="4"/>
+   <head>
+      <hi>¶ Io. Sw. In Authorem</hi>
+      <gap reason="illegible: missing" extent="1 letter">
+         <desc>•</desc>
+      </gap>ogdoastichon.</head>
+   <l>STurmius, &amp; Ramus, Freigius, Manutius, Ascham,</l>
+   <l>Quicquid ad hoc spectans explicuere genus:</l>
+   <l>Kempus id omne tenet, bene collocat, edocet Anglos,</l>
+   <l>Sedulitate simul, cum pietate pari.</l>
+   <l>Lectio, sedulitas, labor, hac placuere peritis,</l>
+   <l>Nec dabit inuidia tam pia cura locum.</l>
+   <l>Sin tamen immerito Theonino dente petare,</l>
+   <l>Perfer, ab hijs melius te meruisse memor.</l>
+</div>
+        </body>
+  </text>
+</TEI>

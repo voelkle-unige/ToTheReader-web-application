@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem.</title>
+           <author>P., H.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119196_Fr1_3</idno>
+           <idno type="DLPS">A09525</idno>
+           <idno type="STC">19806</idno>
+           <idno type="ESTC">S119196</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem.</title>
+                 <author>P., H.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Englands Cæsar : His Maiesties most royall coronation. Together with the manner of the solemne shewes prepared for the honour of his entry into the cittie of London. Eliza. her coronation in heauen. And Londons sorrow for her visitation. By Henry Petowe</title>
+                 <author>Petowe, Henry</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Law (Lawe), Matthew</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1603</date>
+                 </imprint>
+                 <extent>32 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="6"/>
+   <head>Ad Lectorem.</head>
+   <l>GO princely writ apparelled in loue,</l>
+   <l>The poyson of all sorrowes to remooue:</l>
+   <l>Inrich thy selfe and me by thy selfe riches,</l>
+   <l>And striue to mount beyond our Poets pitches.</l>
+   <l>And thou kind <hi>Reader,</hi> reading this my writ,</l>
+   <l>Applaud the inuention of an infant wit.</l>
+   <l>Though yoong it be, it hath as good a hart,</l>
+   <l>To merite well, as those of high desart.</l>
+   <l>Then blame it not although for Fame it striue,</l>
+   <l>For after death Fame still remaines aliue.</l>
+   <closer>
+      <signed>Thine in all loue, <hi>H. P.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

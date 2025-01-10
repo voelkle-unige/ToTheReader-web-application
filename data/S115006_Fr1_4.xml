@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The books frind to the booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1556</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S115006_Fr1_4</idno>
+           <idno type="DLPS">A09913</idno>
+           <idno type="STC">20175a</idno>
+           <idno type="ESTC">S115006</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The books frind to the booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An apologie fully aunsvveringe by Scriptures and aunceant doctors, a blasphemose book gatherid by D. Steph. Gardiner, of late Lord Chauncelar, D. Smyth of Oxford, Pighius, and other papists, as by ther books appeareth and of late set furth vnder the name of Thomas Martin Doctor of the Ciuile lawes (as of himself he saieth) against the godly mariadge of priests : Wherin dyuers other matters which the papists defend be so confutid, that in Martyns ouerthrow they may see there own impudency and confusion. By Iohn Ponet Doctor of diuinitie and Busshhop of Winchester</title>
+                 <author>Ponet, John</author>
+                 <imprint>
+                    <publisher>Kopfel, Wolfgang, Heirs of</publisher>
+                    <pubPlace>France--Strasbourg</pubPlace>
+                    <date>1556</date>
+                 </imprint>
+                 <extent>181, 3 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                    <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <head>The books frind to the booke.</head>
+   <l>Speack on and spare not, and feare not the fyer.</l>
+   <l>yf fyer say we shall not make answer with pen,</l>
+   <l>Thow shalt see the papists want that there desyer.</l>
+   <l>The printer doth promis, for two copies tenn.</l>
+   <l>wherfore let their fury, <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>royle, burn, and spare not</l>
+   <l>They shall not lak answer, thoughe they bragge we dare no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+   </l>
+</div>
+        </body>
+  </text>
+</TEI>

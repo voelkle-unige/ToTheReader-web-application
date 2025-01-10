@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The French Printer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103360_Fr1_2</idno>
+           <idno type="DLPS">A68106</idno>
+           <idno type="STC">12108</idno>
+           <idno type="ESTC">S103360</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The French Printer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A declaration of Henry Marc de Gouffier Marquise of Boniuet, Lord of Creuecoeur, &amp;c : Made in the consistorie of Rochell, in the presence of the pastors and elders of the said towne; as also of Monsieur de la Violette and Theuenot, pastors of the churches of Marans and Benet, on Wednesday being the third of August, 1616. The which very same protestation likewise hath beene made by the said Lord Marquise in the presence of the whole church of Rochel, on Sunday being the seuenth of the said moneth, after the morning sermon in the great church. At Rochell, printed for H. Haultin, by Cornelis Hertman. 1616</title>
+                 <author>Bonnivet, Henri Marc de Gouffier, Marquis de</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printer_to_the_reader">
+   <pb facs="2"/>
+   <head>The French Printer to the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">B</seg>Ecause that otherwise this page had beene left emptie, I haue thought good to set in it the Epitaph of the late Lord of BONIVET, Admitall of</hi> France, <hi>as I haue found it in</hi> Du-Bellay.</p>
+   <lg>
+      <l>LA France &amp; le Piemont, &amp; les Cieux, &amp; les arts,</l>
+      <l>Les Solduts, &amp; le Monde ont faict comme six parts</l>
+      <l>De ce grand Boniuet: Car vne si grand chose</l>
+      <l>Dedans vn seul tombeau ne po<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>uoit estre enclose.</l>
+   </lg>
+   <lg>
+      <l>La France en a le corps qu'elle auoit es<gap reason="illegible" resp="#apex" extent="1 letter">
+            <desc>•</desc>
+         </gap>ene,</l>
+      <l>Le Piemont a le coeur qu'il auoit espro<gap reason="illegible" resp="#apex" extent="2 letters">
+            <desc>••</desc>
+         </gap>e,</l>
+      <l>Les Cieux en out l'esprit, &amp; les Arts la memoire,</l>
+      <l>Les Soldats le regret, &amp; le Monde la Gloire.</l>
+   </lg>
+   <p>
+      <hi>The English whereof is the very same which wee finde to be the Epitaph made vpon the death of our Country-man the noble and thrice-worthy Knight Sir</hi> Philip Sidney: <hi>and therefore I haue thought good to leaue it as it was</hi> (mutatis mutandis) <hi>the names onely altered.</hi>
+   </p>
+   <lg>
+      <l>
+         <hi>FRANCE</hi> and <hi>PIEMONT,</hi> the Heauens, and the Arts,</l>
+      <l>The Souldiers, and the World, haue made sixe parts</l>
+      <l>Of noble <hi>BONIVET,</hi> for none will suppose</l>
+      <l>That a small heape of stones can <hi>BONIVET</hi> inclose.</l>
+   </lg>
+   <lg>
+      <l>His body <hi>FRANCE</hi> hath had, for she it fed;</l>
+      <l>And <hi>PIEMONT</hi> his bloud in her defence shed:</l>
+      <l>The Heauens haue his soule, the Arts haue his fame,</l>
+      <l>All Souldiers the griefe, the World his good name.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

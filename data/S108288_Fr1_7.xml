@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Aliud eiusdem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1591</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108288_Fr1_7</idno>
+           <idno type="DLPS">A04260</idno>
+           <idno type="STC">14379</idno>
+           <idno type="ESTC">S108288</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Aliud eiusdem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>His Maiesties poeticall exercises at vacant houres</title>
+                 <author>James, I., King of England</author>
+                 <imprint>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1591</date>
+                 <publisher>Field (del Campo), Richard.</publisher>
+                            <publisher>Waldegrave (Walgrave), Robert</publisher>
+                        </imprint>
+                 <extent>124 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div xml:lang="lat" type="encomium">
+   <pb facs="6"/>
+   <head>Aliud eiusdem.</head>
+   <l>PAllados armiferae digitis in fortibus vrbem,</l>
+   <l>Temporibus priscis imposuêre patres:</l>
+   <l>Scilicet auspicijs animi, &amp; foelicibus armis,</l>
+   <l>Vrbibus immensae conciliantur opes.</l>
+   <l>Sed meliùs numquā mentem Dea iunxit &amp; arma</l>
+   <l>Scotigenûm Regi quàm sociata dedit:</l>
+   <l>Et quis in optandis regnum florescere rebus,</l>
+   <l>Et nitidos Scotis non videt ire dies?</l>
+</div>
+        </body>
+  </text>
+</TEI>

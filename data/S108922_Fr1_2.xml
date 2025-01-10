@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶ To the Reader.</title>
+           <author>Luther, Martin</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1548</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108922_Fr1_2</idno>
+           <idno type="DLPS">A06491</idno>
+           <idno type="STC">16964</idno>
+           <idno type="ESTC">S108922</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶ To the Reader.</title>
+                 <author>Luther, Martin</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The chiefe and pryncypall articles of the Christen faythe : to holde againste the Pope, and al papistes, and the gates of hell, with other thre very profitable and necessary bokes the names or tyttels, whereof are conteyneth in the leafe next followynge. Made by Doctor Marten Luther. To the reader. In thys boke shal you fynde Christian reader the ryght probation of the righte olde catholyke Churche, and of the newe false Churche, whereby eyther of them is to be knowen. Reade and iudge</title>
+                 <author>Luther, Martin</author>
+                 <imprint>
+                    <publisher>Mierdman (Mierdmans, Nuyts), Steven</publisher>
+                    <distributor>Lynne (Lin), Walter (Gualter, Wouter van)</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1548</date>
+                 </imprint>
+                 <extent>248 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>¶ To the Reader.</head>
+   <p>¶ In thys boke shal you fynde Chri<g ref="char:EOLhyphen"/>stian Reader the ryght probation of the righte Olde Catholyke Churche, and of the newe false Churche, whereby eyther of them is to be knowen.</p>
+   <p>Reade and iudge.</p>
+   <list>
+      <pb facs="2"/>
+      <item>i. The chiefe Articles of the chri<g ref="char:EOLhyphen"/>sten fayth, to holde agaynst the Pope, and all Papistes, and the gates of hell.</item>
+      <item>ij. The Confessyon of the Faythe of Doctor Marten Luther.</item>
+      <item>iij. Of the ryght Olde Catholyke Churche, and the newe false Churche, whereby eyther of them is to be knowen.</item>
+      <item>iiij. The thre Symboles or Confes<g ref="char:EOLhyphen"/>syons of the Christen faythe, in the Churche vnfourmely vsed.</item>
+   </list>
+   <closer>
+      <signed>❧ Doctor Marten Luther.</signed>
+      <dateline>
+         <date>❧ Vvittemberg.</date>
+      </dateline>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

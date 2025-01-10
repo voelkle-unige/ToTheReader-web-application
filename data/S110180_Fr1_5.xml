@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Amico suo I. N.</title>
+           <author>B., N.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110180_Fr1_5</idno>
+           <idno type="DLPS">A08278</idno>
+           <idno type="STC">18611</idno>
+           <idno type="ESTC">S110180</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Amico suo I. N.</title>
+                 <author>B., N.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The labyrinth of mans life. Or Vertues delight and enuies opposite. By Io: Norden</title>
+                 <author>Norden, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Budge, John.</publisher>
+                            <publisher>Eld (Elide), George</publisher>
+                        </imprint>
+                 <extent>96 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="5"/>
+   <head>
+      <hi>Amico suo</hi> I. N.</head>
+   <lg>
+      <l>THe labour of this <hi>Labyrinth</hi> I finde,</l>
+      <l>A perfect mirror of an honest minde:</l>
+      <l>Who hauing truely trod this worldly maze,</l>
+      <l>Hath left the wonder for the world to gaze,</l>
+      <l>Where Iudgements care, doth by description proue,</l>
+      <l>Which is the chiefest, <hi>Earths</hi> or <hi>Heauens</hi> Loue:</l>
+      <l>A worke of worth, and worthy good Regard,</l>
+      <l>The paines well way'd, well worthy like Reward.</l>
+   </lg>
+   <closer>
+      <signed>N. B.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

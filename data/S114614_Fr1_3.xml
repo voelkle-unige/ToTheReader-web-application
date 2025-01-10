@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT HONOVRABLE THE LADY Katherine Abergaueny.</title>
+           <author>F., I.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1633</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114614_Fr1_3</idno>
+           <idno type="DLPS">A00536</idno>
+           <idno type="STC">10676</idno>
+           <idno type="ESTC">S114614</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT HONOVRABLE THE LADY Katherine Abergaueny.</title>
+                 <author>F., I.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Fasciculus myrrhæ. Or a briefe treatise of our Lord and Sauiours passion. Written by the R. Fa. I. F. of the Society of Iesus</title>
+                 <author>Falconer, John</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1633</date>
+                 </imprint>
+                 <extent>120, 2 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb n="3" facs="2"/>
+   <head>TO THE RIGHT HONOVRABLE THE LADY Katherine Abergaueny.</head>
+   <opener>
+      <salute>
+         <seg rend="decorInit">M</seg>ADAME,</salute>
+   </opener>
+   <p>HAVING ma<g ref="char:EOLhyphen"/>ny yeares since, more by prayer then study, gathered this Posy of Hea<g ref="char:EOLhyphen"/>uenly flowers, from the Mir<g ref="char:EOLhyphen"/>rhy high Mountayne of our
+<pb n="4" facs="3"/> Sauiours Passion, to sweeten chiefly, and delight my owne Soule, with deuout reuiew<g ref="char:EOLhyphen"/>ings, and memories thereof; I haue at length, by the ad<g ref="char:EOLhyphen"/>uise of worthy Friends, ad<g ref="char:EOLhyphen"/>uentured, for the good also of others, to publish the same; with an especiall desire to in<g ref="char:EOLhyphen"/>crease deuotion, by its often perusing, in You, &amp; Yours: To whome therfore, I haue presumed to direct it, as a friend, obliged, and desirous to serue your Honour, and Them, in all he may.</p>
+   <closer>
+      <signed>I. F.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

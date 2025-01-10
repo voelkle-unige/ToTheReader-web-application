@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1560</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S1430_Fr1_2</idno>
+           <idno type="DLPS">A15531</idno>
+           <idno type="STC">258.5</idno>
+           <idno type="ESTC">S1430</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The boke of secretes of Albertus Magnus : of the vertues of herbes, stones, and certayne beasts : also, a boke of the same author, of the maruaylous thinges of the world, and of certaine effectes caused of certaine beastes</title>
+                 <imprint>
+                    <publisher>King (Kyng), John</publisher>
+                    <pubPlace/>
+                    <date>1560</date>
+                 </imprint>
+                 <extent>150 pages</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <head>❧ To the reader.</head>
+   <p>SYth it is manifestlye kno<g ref="char:EOLhyphen"/>wen, that thys boke of Al<g ref="char:EOLhyphen"/>bertus Magnus, is in the Italyon, Spanysh, Frenche, and Duche tounges, it was thought if it were trāslated into English tounge, it woulde be receyued w<seg rend="sup">t</seg> lyke good wyll and frendshyp, as it is in those partes. Wherefore vse thou thys boke, to mitigate, and alacreate, thy heauy &amp; trou<g ref="char:EOLhyphen"/>blesome mynde, as thou hast ben wont to do, with the boke com<g ref="char:EOLhyphen"/>monly called the boke of For<g ref="char:EOLhyphen"/>tune: for beleue me, what<g ref="char:EOLhyphen"/>soeuer is promysed in <gap reason="illegible" resp="#apex" extent="1 letter">
+         <desc>•</desc>
+      </gap>ther of thē both, thys, or that, is alonely to y<seg rend="sup">e</seg> ende.</p>
+</div>
+        </body>
+  </text>
+</TEI>

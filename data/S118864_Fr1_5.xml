@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Faults escaped.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1622</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118864_Fr1_5</idno>
+           <idno type="DLPS">A17269</idno>
+           <idno type="STC">4110</idno>
+           <idno type="ESTC">S118864</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Faults escaped.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A chaine of graces : drawne out at length for reformation of manners. Or, A briefe treatise of virtue, knowledge, temperance, patience, godlinesse, brotherly-kindnesse, charitie. So farre forth as they are vrged by the Apostle in 2 Pet. 1. verse 5,6,7. By C. Burges P. of Watford</title>
+                 <author>Burges, Cornelius</author>
+                 <imprint>
+                    <publisher>Haviland, John</publisher>
+                    <distributor>Man, Samuel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1622</date>
+                 </imprint>
+                 <extent>24, 260, 4 pages, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <head>Faults escaped.</head>
+   <p>PAg. 14. for <hi>this</hi> read <hi>these.</hi> p. 17. in the margin, for <hi>Phil.</hi> 1.12. read <hi>Phil.</hi> 2.12. p. 43. in the margin, for <hi>Psa.</hi> 48.7. read <hi>Psal</hi> 84.7. p. 67. for <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>, read <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap>. p. 94. for <hi>businesse</hi> read <hi>busy<g ref="char:EOLhyphen"/>nesse.</hi> p. 118. for <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> read <gap reason="foreign" resp="#oxf">
+         <desc>〈 in non-Latin alphabet 〉</desc>
+      </gap> in p. 180. for <hi>vnspeakable,</hi> read <hi>vnspeak<g ref="char:EOLhyphen"/>ably.</hi> in p. 205. for <hi>imbrace</hi> read <hi>imbrac't.</hi> p. 249. for <hi>possible</hi> read <hi>possibly.</hi>
+   </p>
+   <p>Besides these words mistaken, there is sometimes a <hi>comma,</hi> for a <hi>period,</hi> and <hi>colons</hi> misplaced. I hope the able friend<g ref="char:EOLhyphen"/>ly Readers will amend, or pardon such small, and easie errors.</p>
+</div>
+        </body>
+  </text>
+</TEI>

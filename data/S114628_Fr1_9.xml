@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>C., T.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114628_Fr1_9</idno>
+           <idno type="DLPS">A00551</idno>
+           <idno type="STC">10688</idno>
+           <idno type="ESTC">S114628</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>C., T.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The complaint of Paules, to all Christian soules: or an humble supplication, to our good King and nation, for her newe reparation. Written by Henrie Farley. Amore, veritate, &amp; reuerentia</title>
+                 <author>Farley, Henry</author>
+                 <imprint>
+                    <publisher>Legge (Legg), Cantrell</publisher>
+                    <pubPlace>Great Britain--England--Cambridge</pubPlace>
+                    <date>1616</date>
+                 </imprint>
+                 <extent>4, 72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <lg>
+      <l>THe great <hi>Kings</hi> House, &amp; Courts on earth decay'<gap reason="illegible" resp="#keyers" extent="1 letter">
+            <desc>•</desc>
+         </gap>
+      </l>
+      <l>Let <hi>King,</hi> and <hi>Court</hi> to heauen raise vp againe,</l>
+      <l>And of the <hi>Church-men</hi> let it ner'e be said,</l>
+      <l>That they did grudge the <hi>Temple</hi> to maintaine:</l>
+      <l>Let <hi>London Londons</hi> beauty beautifie,</l>
+      <l>And <hi>Countrie-men</hi> their <hi>Countries-</hi>dignity:</l>
+      <l>And with the Churches wished exaltation,</l>
+      <l>Mount vp this Authors rightfull commendation.</l>
+   </lg>
+   <closer>
+      <signed>I. W. T. C.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

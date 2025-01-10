@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In eundem.</title>
+           <author>Powel, Gabriel</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S111527_Fr1_12</idno>
+           <idno type="DLPS">A14293</idno>
+           <idno type="STC">24610</idno>
+           <idno type="ESTC">S111527</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In eundem.</title>
+                 <author>Powel, Gabriel</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The golden-groue : moralized in three bookes: a worke very necessary for all such, as would know how to gouerne themselues, their houses, or their countrey. Made by W. Vaughan, Master of Artes, and student in the ciuill law</title>
+                 <author>Vaughan, William</author>
+                 <imprint>
+                    <publisher>Stafford, Simon</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 </imprint>
+                 <extent>416 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In eundem.</head>
+   <l>CVm tria, forma, modus, situs, omnia sidera librent:</l>
+   <l>Ius{que} triplex, triplex Gratia, parca triplex:</l>
+   <l>Cum sophiae triplex sit pars; partus{que} trifor<g ref="char:EOLhyphen"/>mis</l>
+   <l>Matris Opis; Sty gi itela trisulca Dei:</l>
+   <l>Quis vetet hunc Lucum triplicē te dicere? li<g ref="char:EOLhyphen"/>bras</l>
+   <l>Sidera, ius tribuis, fata Charin{que} refers.</l>
+   <l>Auro deducis Sophiam (Vaughanne:) Iehouae</l>
+   <l>Regna, maris fines, Daemonis arma canis.</l>
+   <closer>
+      <signed>Gabriel Powel.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

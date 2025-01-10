@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the curteous and friendly Reader.</title>
+           <author>M., C.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1596</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119676_Fr1_2</idno>
+           <idno type="DLPS">A06673</idno>
+           <idno type="STC">17127</idno>
+           <idno type="ESTC">S119676</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the curteous and friendly Reader.</title>
+                 <author>M., C.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The second part of the historie, called The nature of a woman : contayning the end of the strife betwixt Perseus and Theseus. Compiled by C.M</title>
+                 <author>C. M.</author>
+                 <imprint>
+                    <publisher>Orwin, Joan</publisher>
+                    <distributor>Knight, Clement</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1596</date>
+                 </imprint>
+                 <extent>44 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Marriage, the debate on women</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the curteous and friendly <hi>Reader.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">A</seg>S it fares in the estate of al things that are so chan<g ref="char:EOLhyphen"/>ged from their first, as if the Fathers of the first world liued to reuise this last, they should hardlie learne to know that wherein then they li<g ref="char:EOLhyphen"/>ued. So fares it in this vse of these triuiall toyes, which men were wont to cal by the names of some personages, whose liues or deaths were deciphered therein: but now framing their fancies to a new fa<g ref="char:EOLhyphen"/>shion, they will needes haue them named according to their natures, <hi>Sicut trahit sua quemque voluntas.</hi> And for my selfe was loath to breake square, I haue intitu<g ref="char:EOLhyphen"/>led this Historie, <hi>The nature of a VVoman:</hi>
+      <pb facs="3"/>
+which though therein it answer not eue<g ref="char:EOLhyphen"/>rie mans priuat expectation in what they meane, yet could not I fit it better to the matter, containing indeede nothing but the enuious practises of two wicked wo<g ref="char:EOLhyphen"/>men: wherein if any take offence, let him for this time winke at my fault, as rather affecting to frame my selfe to the new fa<g ref="char:EOLhyphen"/>shion, that it should be accounted new stuffe, then following the old be esteemed as too stale.</p>
+   <closer>
+      <signed>Yours. C. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

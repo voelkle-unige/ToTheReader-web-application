@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Sonnet.</title>
+           <author>Castel, Pierre</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1601</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108305_Fr1_4</idno>
+           <idno type="DLPS">A05102</idno>
+           <idno type="STC">15240</idno>
+           <idno type="ESTC">S108305</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Sonnet.</title>
+                 <author>Castel, Pierre</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The third volume of the French academie : contayning a notable description of the whole world, and of all the principall parts and contents thereof: as namely, of angels both good and euill: of the celestiall spheres, their order and number: of the fixed stars and planets their light, motion, and influence: of the fower elements, and all things in them, or of them consisting: and first of firie, airie, and watrie meteors or impressions of comets, thunders, lightnings, raines, snow, haile, rainebowes, windes, dewes, frosts, earthquakes, &amp;c. ingendred aboue, in, and vnder the middle or cloudie region of the aire. And likewise of fowles, fishes, beasts, serpents, trees with their fruits and gum; shrubs, herbes, spices, drugs, minerals, precious stones, and other particulars most worthie of all men to be knowen and considered. Written in French by that famous and learned gentleman Peter de la Primaudaye Esquier, Lord of the same place, and of Barree: and Englished by R. Dolman</title>
+                 <author>La Primaudaye, Pierre de</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1601</date>
+                 <publisher>Bishop, George.</publisher>
+                            <publisher>Bishop, George.</publisher>
+                            <publisher>Eliot’s Court Press</publisher>
+                        </imprint>
+                 <extent>16, 439, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="fr">French</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="sonnet">
+   <pb facs="4"/>
+   <head>Sonnet.</head>
+   <lg>
+      <l>CE que Dieu fit, et fait d'admirable en son monde,</l>
+      <l>Ce qu'on en peut auoir de plaisirs et de biens,</l>
+      <l>Et d'enseignemens beaux, diuins, et terriens,</l>
+      <l>BARREE icy l'instruit par celeste faconde.</l>
+   </lg>
+   <lg>
+      <l>Mais quel saint trucheman, ô Nimphe-Angloise blonde:</l>
+      <l>T'apprent ces hauts discours, qui rauissent les tiens?</l>
+      <l>C'est mon gentil DOLMAN, ieune laurier des miens:</l>
+      <l>Le qui de des neuf seurs, qui en langues abonde.</l>
+   </lg>
+   <lg>
+      <l>O toy heureuse donc d'auoir ce traducteur!</l>
+      <l>Comme ta soeur Françoise heureuse est de l' Autheur.</l>
+      <l>Mais plus heureuse encor quand par estudes saintes</l>
+      <l>Des grands oeuures de Dieu en ce liure depeintes,</l>
+      <l>Si bien cognoistres Dieu, qu'au mieux d'ame et de coeur,</l>
+      <l>En crainte, amour, et foy, le seruires sans feintes.</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>I' attens le temps,</hi> PIERRE CASTEL.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

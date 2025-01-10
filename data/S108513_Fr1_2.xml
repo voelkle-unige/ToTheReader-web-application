@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>LECTORI S.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1613</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108513_Fr1_2</idno>
+           <idno type="DLPS">A19161</idno>
+           <idno type="STC">5571</idno>
+           <idno type="ESTC">S108513</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>LECTORI S.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Oratio funebris in obitum clarissimi viri et munificentissimi Collegii Corporis Christi Oxon. benefactoris Georgii Sanctpaul Equitis aurati : habita in medijs epulis Decembris 9. 1613. A Matthæo Colmore somatochristiano</title>
+                 <author>Colmore, Matthew</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1613</date>
+                 </imprint>
+                 <extent>12 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Funeral orations</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>LECTORI S.</head>
+   <p>
+      <seg rend="decorInit">N</seg>Eque Amicorum importunitas, nec Bibliopolae flagitatio (triviales istae ambitiosè scripturientium Apologiae) hoc mihi exemplar in<g ref="char:EOLhyphen"/>vito extorserunt. Is solus author est vt ederem, cui habebam. Illius memoriae Xenium dedico, &amp; inter reliquos Heroas famam non invi<g ref="char:EOLhyphen"/>dendam chartacei Monumenti <hi>(si quid mea munera possint)</hi> tutelae mando. Absit enim vt meritissimus Mecaenas oblivione sepultus iaceat, ac non potiùs vel per me qualemcunque Curatorem publicè aliquatenùs inno<g ref="char:EOLhyphen"/>tescat.</p>
+   <q>
+      <l>Te quoque Pieriae memorabunt ritè Puellae;</l>
+      <l>At{que} eris in nostro plurimus ore—</l>
+   </q>
+</div>
+        </body>
+  </text>
+</TEI>

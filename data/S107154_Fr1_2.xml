@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Printers to the Reders.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1561</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107154_Fr1_2</idno>
+           <idno type="DLPS">A17662</idno>
+           <idno type="STC">4415</idno>
+           <idno type="ESTC">S107154</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Printers to the Reders.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The institution of Christian religion, vvrytten in Latine by maister Ihon Caluin, and translated into Englysh according to the authors last edition. Seen and allowed according to the order appointed in the Quenes maiesties iniunctions</title>
+                 <author>Calvin, Jean</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1561</date>
+                 <publisher>Harrison, Richard.</publisher>
+                            <publisher>Wolfe, Reyner (Reginald)</publisher>
+                        </imprint>
+                 <extent>8, 70, 269, 1, 171, 3 leaves, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="printers_to_readers">
+   <pb facs="2"/>
+   <head>The Printers to the Reders.</head>
+   <p>
+      <seg rend="decorInit">W</seg>Heras some men haue thought and reported it to be a fault and neg<g ref="char:EOLhyphen"/>ligence in vs for that we haue so long kept backe from you this boke being so profitable a woorke for you, namely sithe maister Iohn Dawes had translated it and deliuered it into our handes more than a tweluemoneth past: you shall vnderstande for our excuse in that behalfe, that we could not wel emprinte it soner. For we haue ben by diuerse necessarie cau<g ref="char:EOLhyphen"/>ses constrayned with our earnest entreatance to procure an other frende of oures to translate it whole agayn. This translation, we trust, you shal well al<g ref="char:EOLhyphen"/>low. For it hath not only ben faythfully done by the translater himself, but al<g ref="char:EOLhyphen"/>so hath ben wholly perused by such men, whoes iugement and credit al the god<g ref="char:EOLhyphen"/>ly learned in Englande well knowe &amp; esteme. But sithe it is now come foorth, we pray you accept it, and vse it. If any faultes haue passed vs by ouersight, we beseche you let vs haue your patience, as you haue had our diligence.</p>
+</div>
+        </body>
+  </text>
+</TEI>

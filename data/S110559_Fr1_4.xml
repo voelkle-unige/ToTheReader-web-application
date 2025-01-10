@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Carolum Principem infantem.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1635</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110559_Fr1_4</idno>
+           <idno type="DLPS">A10243</idno>
+           <idno type="STC">20522</idno>
+           <idno type="ESTC">S110559</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Carolum Principem infantem.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Musarum deliciae : Contayning more then a select century of royall Latine anagrams, besides diverse written in English, upon the sacred name and titles of our dread soveraigne and of his dearest consort, and their most princely progeny. Together with apposite anagrams upon all the English monarchs that have lived and died since the union of the royall roses and houses of Yorke and Lancaster. Some few of those extracted from his Maiesties imperiall name, have been heretofore presented to his royall hands with gracious acceptance. The Latine anagrammes are expressed i English verses in the opposite columne. Perused anew, and now published altogether, (with the authors assent) by Arthur Pyne Esquire, to whom the anagrams made in honour of the Prince his Highnesse were in speciall manner directed</title>
+                 <author>Pyne, John</author>
+                 <imprint>
+                    <publisher>Griffin, Anne</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1635</date>
+                 </imprint>
+                 <extent>20 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>Ad Carolum Principem infantem.</head>
+   <lg>
+      <l>Haeredum flos summe, haeres dignissime<note n="*" place="margin">
+            <gap reason="illegible" resp="#uom" extent="2 letters">
+               <desc>••</desc>
+            </gap>sorum &amp; liliorum.</note> florum,</l>
+      <l>Gallica quos tellus, quos{que} Britanna tulit;</l>
+      <l>Ecce tibi, Princeps, Musarum flosculus horti</l>
+      <l>Ad Tamisim à Tamarae margine missus adest.</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>You</hi>
+         <note n="a" place="margin">He alludeth to the flowring moneth of May in which the Prince was borne.</note>
+         <hi>flow'r of Princes whom French lillyes shield,</hi>
+      </l>
+      <l>
+         <hi>And the faire roses of these British Realmes;</hi>
+      </l>
+      <l>
+         <hi>Accept some flow'rs of the Pierian field,</hi>
+      </l>
+      <l>
+         <hi>From</hi>
+         <note n="b" place="margin">The author li<g ref="char:EOLhyphen"/>veth neere the bankes of Ta<g ref="char:EOLhyphen"/>mar.</note>
+         <hi>Tamar brought to Thames the Prince of Streames.</hi>
+      </l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

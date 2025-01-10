@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Fage, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114685_Fr1_3</idno>
+           <idno type="DLPS">A00527</idno>
+           <idno type="STC">10665</idno>
+           <idno type="ESTC">S114685</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Fage, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Speculum ægrotorum. The sicke-mens glasse : or, A plaine introduction wherby one may giue a true, and infallible iudgement, of the life or death of a sicke bodie, the originall cause of the griefe, how he is tormented and afflicted, what thinges are medicinable to the diseased person: and the day and houre in which he shall recouer, or surrender his vitall breath. Whereunto is annexed a treatise of the foure humors, and how they are ingendered and distributed in our humane bodies: with certaine and manifest signes to discerne of what complexion any man is: and the operation that eating, drinking rest and exercise, worketh in euery person: with certaine speciall preseruatiues for the eye-sight. Composed by Iohn Fage, student in phisicke, and practitioner in astrologie</title>
+                 <author>Fage, John, student in phisicke</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 <publisher>Allde, Edward.</publisher>
+                            <publisher>Lugger (Luggard), William</publisher>
+                        </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Astrology and cosmography</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <hi>
+         <seg rend="decorInit">L</seg>Eauing thee diuers and sundrie opinions of many Authors (with their mistaken axiomes and vna<g ref="char:EOLhyphen"/>prooued sayings) as well as the rash boldenesse and presumptuous iudgements of those ignorant per<g ref="char:EOLhyphen"/>sons which eyther by the day of the month, the age of the Moone, or Plannet, then raygning, onely doe giue iudgement on the life or death of a sicke person, or of the manner of his disease: which by their erronious opinions haue brought this famous arte in<g ref="char:EOLhyphen"/>to such and so greate contempt, that of the moste part of men, it is supposed to be rather a recreatiue inuention, then any true and vn<g ref="char:EOLhyphen"/>fained asscertion. I haue (Gentle Reader) by the helpe of those two excellent Astonomers,</hi> Ptholomeus <hi>and</hi> Hermes, <hi>nourished and brought vp this prole or issue, which although it be yet young, na<g ref="char:EOLhyphen"/>ked, weake, and tender, yet I hope in consequence of time (when it is come to ripenesse of age, well cloathed and to his full strength) that it will be able to stop the mouth of this hi<g ref="char:EOLhyphen"/>dious monster ignorance, which with his violent sting and vene<g ref="char:EOLhyphen"/>mous biting, seeketh vtterly to destroy science and learning, accor<g ref="char:EOLhyphen"/>ding to the old prouerbe</hi> scientia non habet inimicum nisi ignoranciam: <hi>So committing this little one into thy fa<g ref="char:EOLhyphen"/>uorable protection, I hope thou wilt rather charita<g ref="char:EOLhyphen"/>bly, foster it in the lappe of pittie: then tyra<g ref="char:EOLhyphen"/>nically and cruelly to destroy it in his infancie.</hi>
+   </p>
+   <closer>
+      <signed>Yours to the vttermost of his power.
+Iohn Fage</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

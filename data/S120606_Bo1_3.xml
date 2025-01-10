@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1600</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120606_Bo1_3</idno>
+           <idno type="DLPS">A08667</idno>
+           <idno type="STC">18974</idno>
+           <idno type="ESTC">S120606</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Ouidius Naso his Remedie of love. Translated and intituled to the youth of England</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1600</date>
+                 <publisher>Browne, John 1.</publisher>
+                            <publisher>Creede, Thomas.</publisher>
+                            <publisher>Jaggard (Jagger), John</publisher>
+                        </imprint>
+                 <extent>62 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="20"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">I</seg> Thought it not amisse (courteous Reader)
+to adioyne vnto this small labour of mine,
+these two following Epistles, of which one is
+translated out of <hi>Ouid,</hi> the other is an an<g ref="char:EOLhyphen"/>sweare
+therevnto. Which chiefly I did, least
+the sweete exercises of that honorable and
+thrise renowned <hi>Sapho</hi> of our times, should
+euen the least of them, be lost in the obscure
+night of sad silence, and Obliuion: and then, especially the subiect,
+and the matter so fitly agreeing and participating with the for<g ref="char:EOLhyphen"/>mer,
+I could not but couple them together in all points else, a
+most vnequall match. Wherein I hope the greatest fault that I
+haue committed, is, but that it hath not the first place. Yet take this
+old Prouerbe with a right application for my iust excuse.</p>
+   <closer>All is well that endeth well. <hi>And so end I.</hi>
+      <salute>Reader farewell.</salute>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

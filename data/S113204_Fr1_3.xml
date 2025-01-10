@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE RIGHT WORSHIPFVLL FAVOV∣RERS OF ARTES AND FOLLOWERS OF ARMES, the Captaines of the late Musters and to the rest of the Societie of Lon∣dons hopefull Infantrie.</title>
+           <author>Niccolls, Richard</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1616</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113204_Fr1_3</idno>
+           <idno type="DLPS">B14996</idno>
+           <idno type="STC">18522</idno>
+           <idno type="ESTC">S113204</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE RIGHT WORSHIPFVLL FAVOV∣RERS OF ARTES AND FOLLOWERS OF ARMES, the Captaines of the late Musters and to the rest of the Societie of Lon∣dons hopefull Infantrie.</title>
+                 <author>Niccolls, Richard</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Londons Artillery : briefly containing the noble practise of that wothie [sic] societie: with the moderne and ancient martiall exercises, natures of armes, vertue of magistrates, antiquitie, glorie and chronography of this honourable cittie. By R.N. Oxon</title>
+                 <author>Niccols, Richard</author>
+                 <imprint>
+                    <distributor>Welby, William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1616</date>
+                 <publisher>Alsop, Bernard.</publisher>
+                            <publisher>Creede, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 104 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <head>
+      <hi>TO THE RIGHT WORSHIPFVLL FAVOV<g ref="char:EOLhyphen"/>RERS OF ARTES AND</hi> FOLLOWERS OF ARMES, the Captaines of the late Musters and to the rest of the Societie of Lon<g ref="char:EOLhyphen"/>dons hopefull <hi>Infantrie.</hi>
+   </head>
+   <lg>
+      <l>WHen on that plot of ground I you beheld,</l>
+      <l>(Braue brood of Mars) where Mars of yore did lead</l>
+      <l>The <hi>
+            <seg rend="sup">a</seg>
+         </hi> Romane troopes, me thought,<note n="b" place="margin">For this see the <hi>10.</hi> &amp; <hi>13.</hi> pag.</note> ye stood in field</l>
+      <l>As souldiers from their ashes newly bred,</l>
+   </lg>
+   <lg>
+      <l>That thought to sing your prayse inspir'd my Muse</l>
+      <l>And first gaue life to this heroique song,</l>
+      <l>Which ye that vnderstand can not abuse;</l>
+      <l>Braue minded Mars the Muses will not wrong:</l>
+   </lg>
+   <lg>
+      <l>
+         <hi>Phillips</hi>
+         <note n="b" place="margin">Alexander the great.</note> great sonne, great souldier of his time,</l>
+      <l>Who wepte, because poore <hi>Homer</hi> did not liue</l>
+      <l>To sing his life, to<note n="c" place="margin">Cherillus.</note> one, that could but rime</l>
+      <l>Yet good regard for each good verse did giue:</l>
+   </lg>
+   <lg>
+      <l>Thinke what he did and what that Monarch was,</l>
+      <l>So shall my verse not vnregarded passe.</l>
+   </lg>
+   <closer>
+      <signed>
+         <hi>Euer well-wishing to you and your noble exercise,</hi> Richard Nicolls.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

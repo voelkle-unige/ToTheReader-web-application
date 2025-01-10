@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>AD ILLVSTRISSIMVM IV∣VENEM GVLIELMVM BROWNE Generosum, in Operis sui Tomum secun∣dum Carmen gratulatorium.</title>
+           <author>Croke, Carolv</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1625</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105932_Fr2_8</idno>
+           <idno type="DLPS">A17042</idno>
+           <idno type="STC">3916</idno>
+           <idno type="ESTC">S105932</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>AD ILLVSTRISSIMVM IV∣VENEM GVLIELMVM BROWNE Generosum, in Operis sui Tomum secun∣dum Carmen gratulatorium.</title>
+                 <author>Croke, Carolv</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Britannia's pastorals. The first booke</title>
+                 <author>Browne, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1625</date>
+                 <publisher>Cole, George.</publisher>
+                            <publisher>Griffin, Anne.</publisher>
+                            <publisher>Haviland, John</publisher>
+                        </imprint>
+                 <extent>16, 140, that is 142, 14, 179, 1 page, illustrations, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>AD ILLVSTRISSIMVM IV<g ref="char:EOLhyphen"/>VENEM GVLIELMVM BROWNE Generosum, in Operis sui Tomum secun<g ref="char:EOLhyphen"/>dum Carmen gratulatorium.</head>
+   <l>SCri<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>ta priùs vidi, legi, digito{que} notaui</l>
+   <l>Carminis istius singula verba meo.</l>
+   <l>Ex scriptis sparsim quaerebam carpere dicta,</l>
+   <l>Omnia sed par est, aut ego nulla notem.</l>
+   <l>Filia si fuerit facies haec nactae sororis,</l>
+   <l>Laudator prolis solus &amp; Author eris:</l>
+   <l>Haec nondum visi qui flagrat amore libelli</l>
+   <l>Prae<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>arrat scriptis omnia c<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>rta tuis.</l>
+   <closer>
+      <signed>
+         <hi>CAROLV<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> CROKE.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

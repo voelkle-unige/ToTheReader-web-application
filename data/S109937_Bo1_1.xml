@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           <author>Mason, Robert</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1605</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109937_Bo1_1</idno>
+           <idno type="DLPS">A07219</idno>
+           <idno type="STC">17619</idno>
+           <idno type="ESTC">S109937</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 <author>Mason, Robert</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Reasons academie. Set foorth by Robert Mason of Lincolnes Inne, Gent</title>
+                 <author>Mason, Robert</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1605</date>
+                 <publisher>Browne, John 1.</publisher>
+                            <publisher>Creede, Thomas</publisher>
+                        </imprint>
+                 <extent>8, 104, 8 pages, folded table, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <opener>
+      <salute>To the right Honourable, sir Iohn <hi>Popham, knight, Lord chiefe Iustice of</hi> England, one of this Maiesties most <hi>honorable priute Counsell: and to</hi> the rest of the Iustices of Ass<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>se.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">R</seg>Ight honourable, seeing it pleased you to patro<g ref="char:EOLhyphen"/>nise my fo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>mer paines, entituled <hi>Reasons Mo<g ref="char:EOLhyphen"/>narchie</hi>: wherin is decla<g ref="char:EOLhyphen"/>red that reason is an es<g ref="char:EOLhyphen"/>sensial quality of the im<g ref="char:EOLhyphen"/>mortall soule, with a descriptiō of certain faculties &amp; qualities belonging to so no<g ref="char:EOLhyphen"/>ble a Creature, and other circumstances in that small tract handled, to vpholde ttue &amp; sincere reason: &amp; discouering the mischiefes &amp; inconueniencies that haue followed by corrupt abuse of reasō, with the designes of some office, as wel for par<g ref="char:EOLhyphen"/>ticular, as general gouernmēr, aduancing right reasons, aboue all affectiōs, passions, and perturbatiōs, as the great Queene to raigne &amp; gouern ouer them al. I am bold againe to become an humble Suter vnto your Lordships, that you wil protect and
+<pb facs="3"/>
+further reasons true title, or rather true Rea<g ref="char:EOLhyphen"/>sons title for the dispearsing of her Rudi<g ref="char:EOLhyphen"/>ments, precepts and directions, amongst her Schollers, for their better gouernmēt and order. To the kings great maiesty as the founder of her vniuersitie in the time of his admirable vniō &amp; peace, she appea<g ref="char:EOLhyphen"/>leth. To his maiesties great coūsel of state, she appointeth the office of visitors. And your LL. she chuseth to be Presedēts, Pro<g ref="char:EOLunhyphen"/>uosts, Wardens, &amp; heads of her Colled<g ref="char:EOLhyphen"/>ges: acknowledging your intollerable paines taken continually in her behalfe. And me, the vnworthiest of al her poore schollers, she hath enioyned to present this her sute, to your Lordships: knowing that you wil not account the lesse of her high worthines; by the meannesse or in<g ref="char:EOLhyphen"/>sufficiencie of the messenger. Who in all humblenes, beseecheth your Lordships to take his dutie in good part. And so with his praier, for your happy estates, he leaueth further to trouble you.</p>
+   <closer>
+      <signed>
+         <hi>Your Lordships, humbly to cōmand,</hi> Robert Mason.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

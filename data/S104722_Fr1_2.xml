@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Breton, Nicholas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104722_Fr1_2</idno>
+           <idno type="DLPS">A16779</idno>
+           <idno type="STC">3684</idno>
+           <idno type="ESTC">S104722</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Breton, Nicholas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A poste vvith a madde packet of letters</title>
+                 <author>Breton, Nicholas</author>
+                 <imprint>
+                    <publisher>Creede, Thomas</publisher>
+                    <distributor>Smethwick (Smithick, Smythicke), John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>46 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Entle if you be, be you so gentle Reader, you shal vnderstand, that I know not whē, there came a Post I know not whence, was going I know not whither, and carryed I knowe not what: But in his way I knowe not how, it was his happe with lacke of heed, to let fall a Packet of Idle Papers; the superscription whereof, beeing onely to him that findes it, beeing my fortune to light on it, seeing no greater stile in the direction, fell to opening of the enclosure, in which I founde diuers Letters written, to whom, or from whom, I could not learne. Now for the Contents of the Cir<g ref="char:EOLhyphen"/>cumstances, when you haue red them, iudge of them: and as you like them, regard them. And for my selfe, if I heare you like well of them, when I meet next with the Poste, it may be I will cast about with him for more of them: till then, fea<g ref="char:EOLhyphen"/>ring to be too tedious in this Letter, lest you like the worse of that which followeth: I rest as I haue reason.</p>
+   <closer>
+      <signed>Your louing friend, <hi>Nicho. Breton.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

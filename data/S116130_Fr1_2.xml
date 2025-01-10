@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Errata]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S116130_Fr1_2</idno>
+           <idno type="DLPS">B11736</idno>
+           <idno type="STC">3533</idno>
+           <idno type="ESTC">S116130</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Errata]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The unreasonablnes of the separation : made apparent, in an examination of, and answere to, certaine reasons of Maister Francis Johnson: whereby he laboureth to justifie his schisme from the church assemblies of England; By Maister VVilliam Bradshaw deceased. Together wit a rejoinder, in defence of the said answere against the late reply of Maister Iohn Canne (a leader to a company of Brownists in Amsterdam) thereunto, by a freind [sic] of the deceased</title>
+                 <author>Bradshaw, William</author>
+                 <imprint>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>8, 149, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="2"/>
+   <p>THe intelligent Reader is to be desired in his owne observation of the scope of passages throughout this treatise to correct what Errata may be found in the prin<g ref="char:EOLhyphen"/>ting, because there was noc Englishman to attend the Correction of them.</p>
+</div>
+        </body>
+  </text>
+</TEI>

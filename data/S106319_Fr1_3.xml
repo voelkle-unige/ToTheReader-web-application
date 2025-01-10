@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the King.</title>
+           <author>Marais, And</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1595</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106319_Fr1_3</idno>
+           <idno type="DLPS">A03890</idno>
+           <idno type="STC">14000</idno>
+           <idno type="ESTC">S106319</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the King.</title>
+                 <author>Marais, And</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Politicke, moral, and martial discourses. Written in French by M. Iaques Hurault, lord of Vieul and of Marais, and one of the French kings priuie Councell. Dedicated by the author to the French-kings Maiestie: and translated into English by Arthur Golding</title>
+                 <author>Hurault, Jacques</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1595</date>
+                 </imprint>
+                 <extent>16, 495, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Discourses on government and political theory</term>
+                    <term>Philosophy and morality</term>
+                    <term>Military handbooks</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="7"/>
+   <head>To the King.</head>
+   <p>
+      <seg rend="decorInit">S</seg>Ir, forasmuch as it hath pleased your maiestie, to command the states of your realme, and to inioine all men without exception, to shew vnto you whatsoeuer they thinke to be for the benefit and preseruation of your state, and the comfort of your subiects: And I see that euery man straineth himselfe, to giue you the best aduice he can: surely I alone ought not to be idle and negligent, nor to forslow the duetie wherby I am naturally bound vnto you. The which thing hath caused me to gather these matters of remembrance, which should haue ben better polished ere they had ben presented to your maiestie, if the state of your affairs and the time would haue permitted it. You haue voutchsafed me the honour to be neer about your person, and to do you seruice in such cases as it hath pleased your maiestie to imploy me, and specially in following the warres, where I haue the good hap, to be a witnesse of the vic<g ref="char:EOLhyphen"/>tories that you haue fortunatly obtained, to the great reioycing of all christendome. And surely sir, this maketh me to hope, that you will accept this mine at<g ref="char:EOLhyphen"/>tempt
+<pb facs="7"/>
+in good part, as a testimonie of the good will and great desire which I haue alway had and will haue, to spend my goods and life in the seruice of your most christen maiestie, beseeching God to keepe mee euer in this commendable deuotion and duti<g ref="char:EOLhyphen"/>full good will, and to giue vnto your highnesse a most happie long life. </p>
+   <closer>
+      <dateline>From Paris <date>the <hi>28.</hi> of October, <hi>1588.</hi>
+         </date>
+      </dateline>
+      <signed>
+         <hi>Your most humble seruant and subiect,</hi> Iames Hurault, <hi>lord of Vieul and Marais.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

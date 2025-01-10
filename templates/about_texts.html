@@ -1,0 +1,175 @@
+<html>
+
+<head>
+    <meta charset="utf-8"/>
+    <title data-template="config:app-title"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
+    <link rel="shortcut icon" type="image/x-icon" href="resources/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-16.png" sizes="16x16"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-24.png" sizes="24x24"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/png" href="resources/images/TTRfavicon-64.png" sizes="64x64"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
+    
+    
+        <link rel="preconnect" href="https://fonts.googleapis.com"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com"/>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap" rel="stylesheet"/> 
+    
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet"/>
+    
+    <link rel="stylesheet" href="resources/css/theme.css"/>
+    <link rel="stylesheet" href="resources/css/TTRtheme.css"/>
+    <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"/>
+    <custom-style>
+        <style>
+            main {
+                margin: 0 200px 0 20px;
+            }
+
+            #content {
+                margin-bottom: 0px;
+                flex: 1 0 auto;
+                max-width: 960px;
+                width: 100%;
+                padding-right: 15px;
+                padding-left: 15px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            
+            .container {
+                max-width: 960px;
+            }
+            
+            .paragraph {
+                margin: 0 auto;
+                max-width: 650px;
+                word-wrap: break-word;
+                overflow-wrap: break-word;
+                hyphens: auto;
+                text-align: justify;
+                font-family: Georgia;
+                line-height: 1.6;
+            }
+            
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                font-family: "Montserrat", "Oswald", Verdana, "Helvetica", sans-serif;
+                font-weight: bold;
+                line-height: 1.6;
+            }
+            
+            h3 {
+                font-size: 14px;
+            
+            }
+            
+            h5 {
+                font-size: 16px;
+                margin: 0;
+            }
+
+        </style>
+    </custom-style>
+</head>
+
+<body>
+
+    <pb-page data-template="pages:pb-page" unresolved="unresolved">
+        <app-drawer-layout force-narrow="force-narrow">
+            <app-drawer slot="drawer" align="right">
+                <div class="drawer-content">
+                    <pb-media-query query="(max-width: 1023px)">
+                            <!-- language selector -->
+                            <pb-lang name="lang" data-template="pages:languages"/>
+                        </pb-media-query>
+                    </div>
+                </app-drawer>
+                </app-drawer-layout>
+                
+                <app-header-layout>
+                <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall">
+                <app-toolbar data-template="templates:include" data-template-path="templates/menu.html" class="menubar"/>
+
+
+                    
+                    
+                    <pb-media-query query="(max-width: 1023px)">
+                        <app-toolbar class="toolbar" sticky="sticky">
+                            <!-- Search input -->
+                            <pb-search action="${app}/search.html" data-template="pages:parse-params" value="${query}" redirect="redirect"/>
+                            <paper-icon-button icon="icons:menu" drawer-toggle="drawer-toggle"/>
+                        </app-toolbar>
+                    </pb-media-query>
+                </app-header>
+                </app-header-layout>
+                
+<main>
+
+<div id="content">
+<div class="row">
+<div class="paragraph col-md-12">
+    <h1 class="h1">About the Texts</h1>
+    <h3 class="h3"/>
+    
+    <p>The texts in <i>To The Reader</i> have been extracted from the <a href="https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/" target="_blank">EEBO-TCP dataset</a>. We used a combination of the paratext’s position within its book, and the XML attributes assigned to each section, to determine selection. These texts have been transcribed by hand from the images of the <i>Early English Books Online</i> database, and so while they are generally very accurate, omissions have been made where text was illegible in the source image. Such omissions are marked by the placeholder characters • and ▪. </p>
+    
+    <p>We have added the following metadata to these texts according to the aims of the project:
+        <ul>
+            <li>Normalized author name (cleaned up from EEBO-TCP’s metadata)</li>
+            <li>Language (identified using the fast.ai library)</li>
+            <li>USTC Subject </li>
+            <li>Normalized printer name (derived from the STC index of printers)</li>
+            <li>Normalized publisher name (also derived from the STC index of printers)</li>
+        </ul>
+    </p>
+    <p>Texts are placed into one of eleven categories – a system that reflects the main groups of paratexts we found in EEBO-TCP. These are buckets into which we have sorted the thousands of ‘div types’, used by EEBO-TCP to label sections of books. You can read more about this method in greater detail in James Misson and Devani Singh, <a href="https://archive-ouverte.unige.ch/unige:165508" target="_blank">‘Computing Book Parts with EEBO-TCP’</a>, <i>Book History</i>, 25, pp. 503-529
+        <figure>
+            <img src="resources/images/divisionsTexts_TTR.png" width="600px"/>
+        </figure>
+    </p>
+    <p>Many of the errata in EEBO-TCP consist only of tables or lists. As <i>To The Reader</i> focuses on prose paratexts, we have omitted such errata, including only those accompanied by a prose text.</p>
+</div>
+</div>
+</div>
+</main>
+
+
+<footer>
+                    
+        <div class="container">
+                <div class="row text-center">
+                <div class="col">
+                        <a href="http://p3.snf.ch/project-179809" class="navlink" target="_blank">
+                            <img src="resources/images/logo-fns.png" alt="SFNS" height="40px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="https://www.unige.ch/" class="navlink" target="_blank">
+                            <img src="resources/images/logo-UNIGE_noir70_fondTransparent.gif" alt="Unige" height="40px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="https://github.com/ToTheReader" class="navlink" target="_blank">
+                            <img src="resources/images/GitHub_Logo.png" alt="GitH" height="40px"/>
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a href="http://exist-db.org">
+                            <img src="resources/images/existdb.svg" alt="Powered by eXist-db" height="40px"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+</footer>
+
+ </pb-page>
+
+</body>
+
+</html>

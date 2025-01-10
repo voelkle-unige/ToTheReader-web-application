@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>In Authoris nomen, Mak. hoc est filius. Lure, id est esca.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1630</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104449_Fr1_6</idno>
+           <idno type="DLPS">A06768</idno>
+           <idno type="STC">17207</idno>
+           <idno type="ESTC">S104449</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>In Authoris nomen, Mak. hoc est filius. Lure, id est esca.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Buckler of bodilie health : whereby health may bee defended, and sickesse repelled: consecrate by the au [thor] the vse of his cou [...] [...] shing from his heart (though it were to his hurt) to see the fruites of his labour on the constant wellfare of all his countrie-men. By Mr. Iohn Makluire, Doctor in Medicine</title>
+                 <author>Makluire, John</author>
+                 <imprint>
+                    <publisher>Wreittoun (Scribonius), John</publisher>
+                    <pubPlace>Great Britain--Scotland--Edinburgh</pubPlace>
+                    <date>1630</date>
+                 </imprint>
+                 <extent>14, 133, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>In Authoris nomen, <hi>Mak.</hi> hoc est <hi>filius.</hi> Lure, <hi>id est esca.</hi>
+   </head>
+   <lg>
+      <l>PErge salutiferam sic impertirier escam,</l>
+      <l>Iure salutiferae diceris filius escae.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

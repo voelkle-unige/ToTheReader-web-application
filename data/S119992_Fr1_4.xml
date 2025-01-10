@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>M., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119992_Fr1_4</idno>
+           <idno type="DLPS">A06704</idno>
+           <idno type="STC">17155</idno>
+           <idno type="ESTC">S119992</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>M., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The man in the moone, telling strange fortunes, or, The English fortune-teller</title>
+                 <author>W. M.</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>54 pages, coat of arms, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Witchcraft, demonology, occult writings</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">G</seg>Ood Fortune to you, for the Fortune-tel<g ref="char:EOLhyphen"/>ler meaneth so, whatsoeuer you thinke: if his attendant Opinion decipher you plainely, his fashion is not to make faire figures of deformed bodies: if his Page <hi>Mockso</hi> gibe at your ill manners, it is to make you mend them, and if hee himselfe the principall cutteth you to the quicke, know that hee is no cogging Chirurgion: what false Orthographie escapeth in the print, im<g ref="char:EOLhyphen"/>pute to the hast of the suprauisor of the proofes (for I haue read the spelling booke), what blame you put in the penning, lay vpon mee, it will make mee wiser.</p>
+   <closer>
+      <signed>W. M.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

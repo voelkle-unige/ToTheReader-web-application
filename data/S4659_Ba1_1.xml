@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Notice]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1552</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4659_Ba1_1</idno>
+           <idno type="DLPS">A23561</idno>
+           <idno type="STC">9968</idno>
+           <idno type="ESTC">S4659</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Notice]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A breuiat cronicle contaynynge all the kinges from Brute to this daye : and manye notable actes gathered oute of diuers cronicles fro [m] Willyam Conquerour vnto the yere of Christ a. M.d.c.lii</title>
+                 <imprint>
+                    <publisher>Mychell (Michell), John</publisher>
+                    <pubPlace>Great Britain--England--Canterbury</pubPlace>
+                    <date>1552</date>
+                 </imprint>
+                 <extent>215 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="notice">
+   <p>Here I shoulde haue put in the notable waies from certaine cities to Londō, but some of them be not marked truely wherefore I left them out till such tyme as I haue more knowlege in these waies</p>
+</div>
+        </body>
+  </text>
+</TEI>

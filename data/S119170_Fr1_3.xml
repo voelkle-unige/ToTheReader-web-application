@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Criticall READER.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S119170_Fr1_3</idno>
+           <idno type="DLPS">A03752</idno>
+           <idno type="STC">13872</idno>
+           <idno type="ESTC">S119170</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Criticall READER.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Dendrologia : Dodona's grove, or, the vocall forrest. By I.H. Esqr</title>
+                 <author>Howell, James</author>
+                 <imprint>
+                    <publisher>Badger, Thomas</publisher>
+                    <distributor>Moseley, Humphrey</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 </imprint>
+                 <extent>12, 32, 39-135, 166-219, 1 page, 2 leaves of plates, illustrations (metal cut), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the <hi>Criticall</hi> READER.</head>
+   <l>
+      <seg rend="decorInit">I</seg>F <hi>Satyres</hi> here you find, thinke it not strange,</l>
+   <l>'Tis proper <hi>Satyres</hi> in the <hi>Woods</hi> should range;</l>
+   <l>And for free speech, why may not <hi>Verse</hi> or <hi>Prose</hi>
+   </l>
+   <l>Sit under <hi>Trees</hi> as safely, as the <hi>Rose?</hi>
+   </l>
+   <l>Yet here is nothing, though a <hi>Grand Inquest</hi>
+   </l>
+   <l>You should empannell, but may bide the <hi>Test:</hi>
+   </l>
+   <l>For <hi>pettie Iuries,</hi> let the <hi>Reader</hi> know,</l>
+   <l>Composures of this kind stoupe not so low.</l>
+</div>
+        </body>
+  </text>
+</TEI>

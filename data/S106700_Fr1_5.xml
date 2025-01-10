@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Musicall Vser of this Booke.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1629</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S106700_Fr1_5</idno>
+           <idno type="DLPS">A00738</idno>
+           <idno type="STC">10869</idno>
+           <idno type="ESTC">S106700</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Musicall Vser of this Booke.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>French court-aires, vvith their ditties Englished, of foure and fiue parts : Together with that of the lute. Collected, translated, published by Ed: Filmer, Gent: dedicated to the Queene</title>
+                 <author>Guédron, Pierre</author>
+                 <imprint>
+                    <publisher>Stansby, William</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1629</date>
+                 </imprint>
+                 <extent>52 pages, music, 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Music</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the Musicall Vser of this Booke.</head>
+   <p>
+      <seg rend="decorInit">N</seg>Ote that the vsuall <hi>English</hi> measure of Songs (which is commonly by <hi>Sem<g ref="char:EOLhyphen"/>briefs</hi> or <hi>Minoms</hi>) cannot be applyed to diuerse of the <hi>French</hi> Aires. Where therefore you shall find an odde <hi>Crotchet</hi> in the Aire, measure the whole Aire by <hi>Crotchets;</hi> and, where an odde <hi>Minom,</hi> by <hi>Minoms.</hi> Note also that the <hi>Tablature</hi> to each Aire hath not bee'n set by the Author of the Aire, but some of them by <hi>Gabriel Bataille,</hi> a <hi>French-man</hi> likewise. I haue therefore put his name to those Lute-parts that were not Composed by the Authors themsealues of the Aires, to the intent that each man may bee duely reputed-of according to his Deseruing. The single Letter before the beginning of the Lute-part giues the Tune that the singing Part, which is ouer it, begins-in. In those Aires, whose straines are to be sung twice ouer, you shall find the ending Note to bee twice set downe. Obserue therefore that if, in this case, the first straine be to be repeated, you sing, the first time, the first of these Notes onely; and, the second, the second onely; but, in the repetition of the last straine, you must, contrarily, sing the last Note (that stands without the barre) first, and that, which stands within the barre with the marke of Conclusion ouer the head, last. Other things (as namely the change of Time shew'n by Arith<g ref="char:EOLhyphen"/>meticall figures, or whatsoeuer else may seeme new) I suppose that such, as haue attained but to a mediocritie of Skill in Musicke, will, of themsealues, quickly conceiue.</p>
+</div>
+        </body>
+  </text>
+</TEI>

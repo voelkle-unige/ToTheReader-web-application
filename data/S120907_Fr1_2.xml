@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Quotations]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1624</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120907_Fr1_2</idno>
+           <idno type="DLPS">B15052</idno>
+           <idno type="STC">18837</idno>
+           <idno type="ESTC">S120907</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Quotations]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>An oration or speech appropriated vnto the most mightie and illustrious princes of Christendom : Wherein the right and lavvfulnesse of the Netherlandish warre, against Philip King of Spain is approved and demonstrated. Composed by a Netherlandish gentleman, and faithfully translated out of divers languages into Dutch, and now Englished by Thomas Wood. According to the printed copie at Amsterdam, by Michael Collyne stationer, dwelling upon the water at the corner of the old Bridge street, anno 1608</title>
+                 <author>Verheiden, Jacob</author>
+                 <imprint>
+                    <publisher>Thorp, Giles, Successors of</publisher>
+                    <pubPlace>Netherlands--Amsterdam</pubPlace>
+                    <date>1624</date>
+                 </imprint>
+                 <extent>2, 70, 2, 14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="quotations">
+   <pb facs="2"/>
+   <bibl>PROVERB. 16. 12.</bibl>
+   <q>It is an abhomination to Kings to commit wickednesse: for the throne is established by righteousnesse.</q>
+   <bibl>Ibid. CHAP. 20. 28.</bibl>
+   <q>Mercy and Truth preserue the King, and his throne is upholden by mercy.</q>
+</div>
+        </body>
+  </text>
+</TEI>

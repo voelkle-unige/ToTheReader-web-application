@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ORATIO SODALITATE a singulis in admissione recitanda.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S118010_Fr1_5</idno>
+           <idno type="DLPS">A13238</idno>
+           <idno type="STC">23531</idno>
+           <idno type="ESTC">S118010</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ORATIO SODALITATE a singulis in admissione recitanda.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The paradise of delights. Or The B. Virgins garden of Loreto : With briefe discourses vpon her diuine letanies, by way of meditation. For the comfort of all such, as be deuout vnto her; and desyre her holy patronage &amp; protection. By I.S. of the Society of Iesus</title>
+                 <author>Sweetnam, John</author>
+                 <imprint>
+                    <publisher>English College Press</publisher>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>32, 217, 7 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Prayers</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="prayer">
+   <pb facs="16"/>
+   <head>ORATIO SODALITATE a singulis in admissione recitanda.</head>
+   <p>SANCTA Maria, Mate Dei &amp; Virgo, Ego N. N<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>te hodie in Dominam, Patronam &amp; Aduocatam eligo; firmiter<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> statuo ac propono, me numqua<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> te derelicturu, ne{que} contra te al<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> quid vmquam dicturum, aut fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> turum; ne{que} permissurum vt <gap reason="illegible" resp="#keyers" extent="1 word">
+         <desc>〈◊〉</desc>
+      </gap> meis subditis aliquid contra t<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>
+      <g ref="char:EOLhyphen"/>um honorem vmquam agatur Obsecro te igitur, suscipe me i<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> seruum perpetuum: adsis mihi i<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> actionibus omnibus meis, nec m<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> deser as in hora mortis. Amen</p>
+</div>
+        </body>
+  </text>
+</TEI>

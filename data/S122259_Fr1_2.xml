@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[To The Reader]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1612</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122259_Fr1_2</idno>
+           <idno type="DLPS">A19950</idno>
+           <idno type="STC">6383</idno>
+           <idno type="ESTC">S122259</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[To The Reader]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A letter vvritten from Paris, by the Lord Cardinall of Peron, to Monsr. Casaubon in England. Translated out of the French corrected copie, into English</title>
+                 <author>Du Perron, Jacques Davy</author>
+                 <imprint>
+                    <pubPlace>France--Saint-Omer</pubPlace>
+                    <date>1612</date>
+                 <publisher>Budge, John.</publisher>
+                            <publisher>English College Press</publisher>
+                        </imprint>
+                 <extent>4, 51, 1 page, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <opener>
+      <salute>
+         <seg rend="decorInit">G</seg>ENTLE Reader,</salute>
+   </opener>
+   <p>This Epistle was cōposed by the Lord <hi>Cardinall</hi> of <hi>Peron,</hi> without any purpose to haue it seene in publike, but rather with delibe<g ref="char:EOLhyphen"/>ration not to impart it so much as to his very familiar friends. But a Copie ther<g ref="char:EOLhyphen"/>of being by chance gotten, it was pre<g ref="char:EOLhyphen"/>sently printed in <hi>Paris,</hi> with many faults, yea and with some heresies. And although the foresaid Cardinall vsed all diligence to haue it suppressed, causing the Copies to be seyzed on by the Offi<g ref="char:EOLhyphen"/>cers of Iustice, and the Printer to be pu<g ref="char:EOLhyphen"/>nished for publishing them without his knowledge: yet was there soone after another impressiō made therof in <hi>Roan,</hi>
+      <pb facs="3"/>
+conformable to that faulty Copie of <hi>Paris,</hi> and the like may also be done else-where. For remedy therfore of the disaduantage which may arise hereof, both to the doctrine of Catholikes, and the reputation of the Author, it hath seemed necessary to permit, that it be printed entire and perfect, according to the Copie which was written &amp; sent. And this we do at this present, disclay<g ref="char:EOLhyphen"/>ming from all the former copies, and whatsoeuer else not cōformable to this.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE PRINCE HIS MOST excellent Highnesse.</title>
+           <author>Meriton, George</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112663_Fr1_2</idno>
+           <idno type="DLPS">A07450</idno>
+           <idno type="STC">17837</idno>
+           <idno type="ESTC">S112663</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE PRINCE HIS MOST excellent Highnesse.</title>
+                 <author>Meriton, George</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The Christian mans assuring house. And a sinners conuersion : Two sermons; the former, preached, before the Prince his Highnesse at St. Iames: the other to his Maiesties houshold at White-hall, on Sunday the 6. of February by George Meriton Doctor of Diuinitie, and Deane of Peterborough</title>
+                 <author>Meriton, George</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 <publisher>Griffin, Edward 1.</publisher>
+                            <publisher>Mab (Mabbe), Ralph</publisher>
+                        </imprint>
+                 <extent>4, 53, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO THE PRINCE HIS MOST excellent Highnesse.</head>
+   <opener>
+      <salute>Most noble Prince.</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">I</seg>T pleased your High<g ref="char:EOLhyphen"/>nesse, to heare this Sermon with patience, and afterwards to command it at my hands: which I offer vnto you (as Dauids seruants did their gifts for the Temple)<note place="margin">1. Chron.
+19.9.</note> with a good heart wil<g ref="char:EOLhyphen"/>lingly. It is an incomparable comfort
+<pb facs="3"/>to all true professors (in the number of whom J desire to be accounted) that your Grace at these yeares is so religi<g ref="char:EOLhyphen"/>ously disposed. The God of mercy fill you more and more with his blessings, that it may bee said of Prince <hi>CHARLES,</hi> as was spoken of our greatest Master Christ, (<hi>And the child increased in wisdome and stature and in fauour with God and man.</hi>)<note place="margin">Luk.
+2.52.</note>
+   </p>
+   <closer>
+      <signed>By him that serueth your Highnesse with his earnest praier to God for your happinesse, <hi>George Meriton.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

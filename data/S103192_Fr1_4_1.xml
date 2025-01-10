@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>Hvmfredvs, Lav.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S103192_Fr1_4_1</idno>
+           <idno type="DLPS">A01818</idno>
+           <idno type="STC">11956</idno>
+           <idno type="ESTC">S103192</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>Hvmfredvs, Lav.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Romanæ historiæ anthologia : An English exposition of the Romane antiqvities, wherein many Romane and English offices are paralleld and divers obscure phrases explained. By Thomas Godwyn Master of Arts: for the vse of Abingdon Schoole</title>
+                 <author>Goodwin, Thomas</author>
+                 <imprint>
+                    <publisher>Barnes, Joseph</publisher>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>8, 193, 19 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="4"/>
+   <l>
+      <hi>GODWINE</hi> noli, pergis? inscitè facis</l>
+   <l>Vulgò Camoenas edere.</l>
+   <l>Romana spernit lingua conarisonos</l>
+   <l>Idiomate extrusos novo.</l>
+   <l>
+      <hi>Godwine</hi> pergas, fallor; eximiè facis</l>
+   <l>Doctas Camoenas edere:</l>
+   <l>Antiqua Romae verba conari doces</l>
+   <l>Labore iuvenes improbo.</l>
+   <closer>
+      <signed>LAV. HVMFREDVS.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

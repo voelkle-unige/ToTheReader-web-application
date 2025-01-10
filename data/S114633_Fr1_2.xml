@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO HIS LOVING Cousin Mr. Thomas Smith, all health, grace, and happinesse.</title>
+           <author>Everinden, Humphry</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1623</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114633_Fr1_2</idno>
+           <idno type="DLPS">A00467</idno>
+           <idno type="STC">10601</idno>
+           <idno type="ESTC">S114633</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO HIS LOVING Cousin Mr. Thomas Smith, all health, grace, and happinesse.</title>
+                 <author>Everinden, Humphry</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A brothers gift : containing an hundred precepts, instructing all sorts of people to a godly, honest, and morall life</title>
+                 <author>Everinden, Humphrey</author>
+                 <imprint>
+                    <publisher>Eld (Elide), George</publisher>
+                    <distributor>Wright, John 1</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1623</date>
+                 </imprint>
+                 <extent>40 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>TO HIS LOVING Cousin M<seg rend="sup">r</seg>. <hi>Thomas Smith,</hi> all health, grace, and <hi>happinesse.</hi>
+   </head>
+   <p>
+      <seg rend="decorInit">A</seg>Ccept good Cousin, a small token of my loue: value not the heart according to the greatnes of the gift; onely taste and trye, and you shall finde it, though small, yet not altogether fruitlesse, especially if after tryall you trust and make vse thereof. Your kinde accep<g ref="char:EOLhyphen"/>tance of this shall be a meanes to be<g ref="char:EOLhyphen"/>get
+<pb facs="3"/> a better: So wishing Gods grace and blessing to you and all your righteous endeuours I rest,</p>
+   <closer>
+      <signed>Your euer louing Cousin <hi>HVMPHRY EVERINDEN.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

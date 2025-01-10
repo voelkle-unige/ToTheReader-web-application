@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>❧ To the Authour.</title>
+           <author>Herbret, Edward</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105199_Fr1_3_1</idno>
+           <idno type="DLPS">A19902</idno>
+           <idno type="STC">6330</idno>
+           <idno type="ESTC">S105199</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>❧ To the Authour.</title>
+                 <author>Herbret, Edward</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The holy roode, or Christs crosse : containing Christ crucified, described in speaking-picture. By Iohn Dauies</title>
+                 <author>Davies, John</author>
+                 <imprint>
+                    <publisher>Windet, John</publisher>
+                    <distributor>Butter, Nathaniel</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>80 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>❧ To the Authour.</head>
+   <lg>
+      <l>THine Art and Subiect both such Worth containe,</l>
+      <l>That thou art best requited in thy paine.</l>
+   </lg>
+   <closer>
+      <signed>EDVV. HERBRET <hi>Knight.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

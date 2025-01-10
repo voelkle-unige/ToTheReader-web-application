@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Ad Lectorem de libro.</title>
+           <author>Freeman, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1603</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109344_Fr1_19</idno>
+           <idno type="DLPS">A19903</idno>
+           <idno type="STC">6333</idno>
+           <idno type="ESTC">S109344</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Ad Lectorem de libro.</title>
+                 <author>Freeman, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Microcosmos : The discovery of the little world, with the government thereof. By Iohn Davies</title>
+                 <author>Davies, John</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--Oxford</pubPlace>
+                    <date>1603</date>
+                 <publisher>Barnes, John.</publisher>
+                            <publisher>Barnes, Joseph</publisher>
+                        </imprint>
+                 <extent>16, 254, 30 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>Ad Lectorem de libro.</head>
+   <l>BEnigne lector, <hi>parvuli orbis</hi> incola,</l>
+   <l>Qui coeca falsi transfretans mundi vada,</l>
+   <l>Dirigere recto tramite exoptas ratem,</l>
+   <l>Istum libellum vt <hi>Nauticum Indicem</hi> sequens;</l>
+   <l>Fugies <hi>Ceraunia saxa, Syrenas</hi> leves,</l>
+   <l>Fugies trucem <hi>Carybdin, &amp; Syrtes</hi> vagas.</l>
+   <l>
+      <hi>Vide Teipsum,</hi> &amp; in spice omnes angulos;</l>
+   <l>
+      <pb facs="9"/>Quisquis seipsum non videt, cernit Nihil.</l>
+   <l>
+      <hi>Noscito Teipsum,</hi> cordis explorans sinus;</l>
+   <l>Quisquis seipsum nescit, hic novit Nihil.</l>
+   <l>
+      <hi>Cura teipsum,</hi> vt proprij medicus mali;</l>
+   <l>Quisquis seipsum negligit, curat Nihil.</l>
+   <l>Vides teipsum modò Animam inspicias tuam.</l>
+   <l>Curas teipsum modò Animam sanes tuam.</l>
+   <signed>Nathanael Tomkins.</signed>
+</div>
+        </body>
+  </text>
+</TEI>

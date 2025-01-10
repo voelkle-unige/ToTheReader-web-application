@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Stationer to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S120256_Fr1_3</idno>
+           <idno type="DLPS">A15606</idno>
+           <idno type="STC">25870</idno>
+           <idno type="ESTC">S120256</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Stationer to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Wits recreations : Selected from the finest fancies of moderne muses</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Blunden, Humphrey.</publisher>
+                            <publisher>Hodgkinson, Richard.</publisher>
+                            <publisher>Paine (Payne), Thomas</publisher>
+                        </imprint>
+                 <extent>300 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Adages, aphorisms, emblem books, jests, proverbs</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>The Stationer to the Reader.</head>
+   <l>IF new or old wit please the reader best,</l>
+   <l>I've hope each man of wit will be our guest,</l>
+   <l>The new was fram'd to humor some mens taste;</l>
+   <l>Which if they like not, they may carve the last:</l>
+   <l>Each dish hath sauce belongs to't, and you will</l>
+   <l>By your dislike, censure the Authors skill;</l>
+   <l>Yet if you cannot speake well of it, spare</l>
+   <l>To utter your dislike, that the like snare</l>
+   <l>May entrap others; so the booke may bee</l>
+   <l>Sold, though not lik'd, by a neate fallacy:</l>
+   <l>That's all I aske yet'twill your goodnes raise,</l>
+   <l>If as I gaine your coyn, he may your praise.</l>
+</div>
+        </body>
+  </text>
+</TEI>

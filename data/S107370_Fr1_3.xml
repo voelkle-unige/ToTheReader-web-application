@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>An admonition to the Reader.</title>
+           <author>C, A.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1618</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107370_Fr1_3</idno>
+           <idno type="DLPS">A17514</idno>
+           <idno type="STC">4328</idno>
+           <idno type="ESTC">S107370</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>An admonition to the Reader.</title>
+                 <author>C, A.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Saint Paules agonie : A sermon preached at Leicester, at the ordinary monthly lecture: specially touching the motions of sinne, remaining in the regenerate. By A. Cade, Bacheler in Diuinity, and of Bilsdon in Leycester-shire</title>
+                 <author>Cade, Anthony</author>
+                 <imprint>
+                    <publisher>Alsop, Bernard</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1618</date>
+                 </imprint>
+                 <extent>6, 39, 1 page, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>An admonition to the Reader.</head>
+   <p>
+      <seg rend="decorInit">C</seg>Hristian Reader, the Concourse of many learned Ministers at our Ordi<g ref="char:EOLhyphen"/>nary Monthly Lecture (lately before intermitted) whereunto now also resorted (by occasion) many learned Iuditious Gentlemen; required mat<g ref="char:EOLhyphen"/>ter of more then ordinary worth and learning. To satisfie whom, If I haue layd the grounds of my Sermon more Schoole-like then thou thinkest fitte for the Country, beare with mee, now thou knowest the occasion.</p>
+   <p>Know also, that I haue more enlarged those pointes to ground men more strongly against Innouators: for that I hope this little Booke may come, and be read, where grea<g ref="char:EOLhyphen"/>ter will not. The other points thence deducted are plaine enough for the simplest Hearers, and applyed to theyr pro<g ref="char:EOLhyphen"/>fite. <hi>Paul</hi> may plant, <hi>Apollo</hi> water. The Lord giue a blessed encrease.</p>
+   <closer>
+      <signed>A. C</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

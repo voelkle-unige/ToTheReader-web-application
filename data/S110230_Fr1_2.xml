@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The occasion of this Booke.</title>
+           <author>S. S.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1580</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110230_Fr1_2</idno>
+           <idno type="DLPS">A08673</idno>
+           <idno type="STC">18978</idno>
+           <idno type="ESTC">S110230</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The occasion of this Booke.</title>
+                 <author>S. S.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The three first bookes of Ouid de Tristibus translated into English</title>
+                 <author>Ovid</author>
+                 <imprint>
+                    <publisher>Marsh (Marshe, Marche), Thomas</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1580</date>
+                 </imprint>
+                 <extent>2, 28 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Classical authors</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="note_on_origin_of_work">
+   <pb facs="2"/>
+   <head>The occasion of this Booke.</head>
+   <p>
+      <seg rend="decorInit">O</seg>F Ouidius Naso his banishment, diuers occasions be supposed: but the commō opinion and the most likely is, that Augustus Caesar thē Em perour, rea<g ref="char:EOLhyphen"/>ding his Bookes of the Arte of Loue, misliked thē so much, that he condemned Ouid to exile. After which time the sayd Ouid aswel in his passage on the Sea, as after arriued in the Barbarous countries, the rather to recouer the Empe<g ref="char:EOLhyphen"/>rours grace, wrote these Elegies, or Lamentable verses, direc<g ref="char:EOLhyphen"/>ting some to the Gods, some to Caesar, some to his wife, some to his Daughter, some to his Frendes, some to his foes, &amp;c. And called this booke, the booke of Sorowes: In latin de Tri<g ref="char:EOLhyphen"/>stibus.</p>
+</div>
+        </body>
+  </text>
+</TEI>

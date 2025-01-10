@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>¶Fides:</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1529</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121275_Fr1_6</idno>
+           <idno type="DLPS">A19129</idno>
+           <idno type="STC">5542.3</idno>
+           <idno type="ESTC">S121275</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>¶Fides:</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Rudimenta grammatices et docendi methodus : non tam scholæ Gypsuichianæ per reuerendissimum. D. Thoma [m] cardinale [m] Ebo⁻r. feliciter institutæ q [uam] o [mn] ibus aliis totius Anglie scholis prescripta</title>
+                 <author>Colet, John</author>
+                 <imprint>
+                    <publisher>Treveris, Peter</publisher>
+                    <pubPlace>Great Britain--England--London--Southwark</pubPlace>
+                    <date>1529</date>
+                 </imprint>
+                 <extent>72 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Educational books</term>
+                    <term>Dictionaries, vocabularies, phrase books, instruction in foreign languages</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="standards_of_the_faith">
+   <pb facs="6"/>
+   <epigraph>
+      <bibl>¶Gala. quinto.</bibl>
+      <q>Valete In CHRISTO IESV fides quae per dilectionem operatur.</q>
+   </epigraph>
+   <div n="faith" type="virtue">
+      <head>¶Fides:</head>
+      <div type="creed">
+         <head>¶The artycles of the fayth▪</head>
+         <list>
+            <item>
+               <label>j.</label> I Byleue in god y<seg rend="sup">e</seg> father almyghty creatour of he<g ref="char:EOLhyphen"/>uen and of erth.</item>
+            <item>
+               <label>ij.</label> And in his sone Ihesu Cryst our lorde.</item>
+            <item>
+               <label>iij.</label> Whiche was conceyued by the holy ghoost / &amp; borne of the clene vyrgyn Mary.</item>
+            <item>
+               <label>iiij.</label> Which suffred vnder Poncio Pylato / &amp; was crucifyed and dyed / &amp; was buryed / &amp; descended te hell.</item>
+            <item>
+               <label>v.</label> Whiche rose agayne the thyrde day frō deth to lyfe.</item>
+            <item>
+               <label>vi.</label> Whiche ascended in to heuen and sytteth at the ryght hande of the fader almyghty.</item>
+            <item>
+               <label>vij.</label> Whiche shall come agayne &amp; iudge both quyck &amp; deed.</item>
+            <item>
+               <label>viij.</label> And I byleue in the holy ghoost y<seg rend="sup">e</seg> holy spritite of god.</item>
+            <item>
+               <label>ix.</label> I byleue the holy chyrch of Cryst / which is y<seg rend="sup">e</seg> clene cō<g ref="char:EOLhyphen"/>gregacyon of faythfull people in grace / and cōmunyō of sayntys onely in Cryst Ihesu.</item>
+            <item>
+               <label>x.</label> I byleue that in the chyrch of Crystis remyssyō of syn<g ref="char:EOLhyphen"/>nes both by baptym and by penaunce.</item>
+            <item>
+               <label>xi.</label> I byleue after this lyfe / resurrecciō of our deed bodyes.</item>
+            <item>
+               <label>xij.</label> I byleue at the last / euerlastyng lyfe of bode &amp; soule.</item>
+         </list>
+         <trailer>¶<hi>AMEN.</hi>
+         </trailer>
+      </div>
+      <div type="sacraments">
+         <head>¶The seuen sacramentys.</head>
+         <p>I Byleue also that by the seuen sacramentys of the chyrch cometh grete grace to all that taketh thē accordyngly.</p>
+         <list>
+            <item>
+               <label>j.</label> By gracyous order is gyuē power to mynyster in god.</item>
+            <item>
+               <label>ij</label> By grocyo{us} matrymony we be borne into this worlde to god.</item>
+            <pb facs="6"/>
+            <item>
+               <label>iij.</label> By gracyo{us} baptym we be borne agayn y<seg rend="sup">e</seg> sones of god </item>
+            <item>
+               <label>iiij.</label> By gracyous confyrmacyon we be stablysshed in the grace of god.</item>
+            <item>
+               <label>v.</label> By gracyous Eucharystye where is the very presence of the person of Cryst vnder forme of bred / we be nou<g ref="char:EOLhyphen"/>rysshed spy<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ytually in god.</item>
+            <item>
+               <label>vi.</label> By gracyous penaunce we ryse agayn frome synne to grace in god.</item>
+            <item>
+               <label>vij.</label> By gracyous enealynge and the last anoyntynge / we be in our deth commended so god.</item>
+         </list>
+      </div>
+   </div>
+   <div n="love" type="virtue">
+      <head>Charyte.</head>
+      <div type="part">
+         <head>¶The loue of god.</head>
+         <p>¶In this true byleue I shal fyrst loue god y<seg rend="sup">e</seg> fader al<g ref="char:EOLhyphen"/>myghty y<seg rend="sup">t</seg> made me / &amp; our lord Ihesu Cryst y<seg rend="sup">t</seg> redemed me / &amp; y<seg rend="sup">e</seg> holy ghoost y<seg rend="sup">t</seg> alway inspyreth me. this blessyd holy trynyte I shal alway loue &amp; honour &amp; serue w<seg rend="sup">t</seg> all my herte / mynd / and strength. and fere god alonely / &amp; put my trust in hym alonely.</p>
+      </div>
+      <div type="part">
+         <head>¶The loue of thyn ownself.</head>
+         <p>Seconde I shall loue my selfe to godward and shall abstayne from all synne as moche as I may / specyally from the synnes deedly.</p>
+         <p>I shall not be prowde / nor enuyous / nor wrothfull.</p>
+         <p>I shal not be glottenous / nor lecherous / nor sloughful</p>
+         <p>I shall not be couetous desyryng su{per}fluyte of worldly thyngys. And euyll company I shall eschewe &amp; fl<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap> as moche as I may.</p>
+         <p>I shall gyue me to grace &amp; verttue &amp; cunnynge in god</p>
+         <p>I shall pray often / specyally on the holy dayes.</p>
+         <p>I shall lyue alway temperatly &amp; sober of my mouthe.</p>
+         <p>I shall fast the dayes cōmaunded <gap reason="illegible" resp="#pdcc" extent="1 word">
+               <desc>〈◊〉</desc>
+            </gap> Crystys chyre<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>e.</p>
+         <p>I shall kepe my mynde from euyll &amp; <gap reason="illegible" resp="#pdcc" extent="1 word">
+               <desc>〈◊〉</desc>
+            </gap> though<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>es.</p>
+         <p>I shal kepe my mouth frō swetīg / lyeng &amp; foule spe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>i<gap reason="illegible" resp="#pdcc" extent="1 letter">
+               <desc>•</desc>
+            </gap>
+         </p>
+         <p>
+            <pb facs="7"/>I shall kepe my handes from stelyng and pykynge</p>
+         <p>Thynges taken away I shall restore agayne.</p>
+         <p>Thynges founde I shall rendre agayne.</p>
+      </div>
+      <div type="part">
+         <head>¶ To loue of thy neyghbour.</head>
+         <p>Thyrde / I shyll loue my neyghbour that is euery mā to godwarde / as myn owne selfe. And shall helpe hym in all his necessytees spyrytually &amp; bodely / as I wolde be helped myn owne self: specyally my fader &amp; my mo<g ref="char:EOLhyphen"/>der that brought me in to this worlde.</p>
+         <p>The mayster that techeth me I shall honour and obey</p>
+         <p>My felowes that lerne with me I shall loue.</p>
+      </div>
+      <div type="part">
+         <head>¶ Penaunce.</head>
+         <p>Yf I fall to synne I shall anone ryse agayne by penaū<g ref="char:EOLunhyphen"/>ce and pure confessyon.</p>
+      </div>
+      <div type="part">
+         <head>¶ Howselynge.</head>
+         <p>¶ As often as I shall receyue my lorde in sacramēt / I shall w<seg rend="sup">t</seg> all study dyspose me to pure clennes &amp; deuociō.</p>
+      </div>
+      <div type="part">
+         <head>¶ In sekenesse.</head>
+         <p>¶Whan I shall dye I shall call for the sacramētes &amp; ryghtes of Crystes chyrche by tymes / &amp; be cōfessed and receyue my lorde and redemer Iesu Cryst.</p>
+      </div>
+      <div type="part">
+         <head>¶ In deth.</head>
+         <p>And in peryll of deth I shall gladly call to be enealed and so armed in god / I shall departe to hym / in truste of his mercy / in our lorde Cryst Iesu.</p>
+         <q>Hoc fac &amp; viues.</q>
+      </div>
+   </div>
+   <div type="precepts">
+      <head>¶ Preceptes of lyuynge.</head>
+      <list>
+         <item>¶Fere god.</item>
+         <item>Loue god.</item>
+         <item>Desyre to be w<seg rend="sup">t</seg> hym</item>
+         <item>Serue hym dayly w<seg rend="sup">t</seg> some prayer.</item>
+         <item>Byleue &amp; trust in Cryst Iesu.</item>
+         <item>Worshyphine and his mother Mary.</item>
+         <item>Call often for grace of y<seg rend="sup">e</seg> ho<g ref="char:EOLhyphen"/>ly ghoost.</item>
+         <item>
+            <pb facs="7"/>Brydell of affeccyons of thy mynde.</item>
+         <item>Subdue thy sensual ape<g ref="char:EOLunhyphen"/>tytes.</item>
+         <item>Thrust downe pryde.</item>
+         <item>Refrayne thy wrath.</item>
+         <item>Forgete trespaces.</item>
+         <item>Forgyue gladly.</item>
+         <item>Chastyse thy body.</item>
+         <item>Be sobre of thy mouthe</item>
+         <item>Be sobre of meat &amp; drīk.</item>
+         <item>Be sobre in talkyny.</item>
+         <item>Fle swerynge.</item>
+         <item>Fle foule language.</item>
+         <item>Lole clēnes &amp; chastyte.</item>
+         <item>Vse honest company.</item>
+         <item>Beware ryot.</item>
+         <item>Dyspende mesurably.</item>
+         <item>Fle dyshoneste.</item>
+         <item>Be true in worde &amp; dede</item>
+         <item>Reuerence thyn elders.</item>
+         <item>Obey thyn superyours.</item>
+         <item>Be felow to thyn equal{is}</item>
+         <item>Be benygne &amp; louyng to thyn inferyours.</item>
+         <item>Loue all men in god.</item>
+         <item>Loue peace and equyte.</item>
+         <item>Thynke of deth.</item>
+         <item>Drede y<seg rend="sup">e</seg> iudgement of god.</item>
+         <item>Trust in goddys mercy.</item>
+         <item>Be alway well occupyed.</item>
+         <item>Lose no tyme.</item>
+         <item>Stande in grace.</item>
+         <item>Fallīg down / dyspayre not</item>
+         <item>Euer take a fresshe newe good purpose.</item>
+         <item>Perseuer constauntly▪</item>
+         <item>Vse of tyme confessyon.</item>
+         <item>Wasshe clene.</item>
+         <item>Sorow for thy synnys.</item>
+         <item>Aske of ten mercy.</item>
+         <item>Be no slogarde.</item>
+         <item>Awake quyckly.</item>
+         <item>Enryche the wyth vertue▪</item>
+         <item>Lerne dylygently.</item>
+         <item>Teche that thou hast lerned louyngly.</item>
+      </list>
+      <p>¶ By this waye thou shalte come to grace &amp; glory.</p>
+      <closer>AMEN.</closer>
+   </div>
+   <div type="creed">
+      <head>¶Simbolum apostolorum.</head>
+      <list>
+         <item>
+            <label>i.</label> Credo in deū patrē oīpotentē, creatorē coeli &amp; terrae.</item>
+         <item>
+            <label>ii.</label> Et in Iesum Christum, filiū eius vnicū, dominū nostrū.</item>
+         <item>
+            <label>iii.</label> Qui cōceptus est de spū sctō, natus ex Maria virgine.</item>
+         <item>
+            <label>iiii.</label> Passus sub Pontio Pilato, crucifixus, mortuus, &amp; sepul<g ref="char:EOLunhyphen"/>tus, descendit ad inferna.</item>
+         <item>
+            <label>v.</label> Tertia die resurrexit a mortuis.</item>
+         <pb facs="8"/>
+         <item>
+            <label>vi.</label> Ascēdit ad celos, sedet ad dextrā dei patria oīpotentia.</item>
+         <item>
+            <label>vii.</label> Inde venturus est iudicare viuos &amp; mortuos,</item>
+         <item>
+            <label>viii.</label> Credo inspiritum sanctum.</item>
+         <item>
+            <label>ix.</label> Sanctam ecclesiam catholicam, sanctorū cōmunionē.</item>
+         <item>
+            <label>x.</label> Remissionem peccatorum.</item>
+         <item>
+            <label>xi.</label> Carnis resurrectionem.</item>
+         <item>
+            <label>xii.</label> Et vitam eternam amen.</item>
+      </list>
+   </div>
+   <div type="Pater_Noster">
+      <head>¶ORATIO DOMINICA.</head>
+      <p>
+         <label>i.</label> Pater noster qui es in celis, sanctificetur nomen tuum.</p>
+      <p>
+         <label>ii.</label> Adueniat regnum tuum.</p>
+      <p>
+         <label>iii.</label> Fiat voluntastua sicut in celo. &amp; in terra.</p>
+      <p>
+         <label>iiii.</label> Panem nostrum quotidianum da nobis hodie.</p>
+      <p>
+         <label>v.</label> Et dimitte nobis debita nostra, sicut &amp; nos dimittimu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> debitoribus nostris.</p>
+      <p>
+         <label>vi.</label> Et ne nos inducas in temptationem.</p>
+      <p>
+         <label>vii.</label> Sed libera nos a malo Amen.</p>
+   </div>
+   <div type="Ave_maria">
+      <head>¶SALVTATIO ANGELICA:</head>
+      <q>
+         <p>Aue maria gratia plena, dominus tecum.</p>
+         <p>Benedicta tu in mulieribus, &amp; benedictus fructus ven<g ref="char:EOLhyphen"/>tris tui. IESVS.</p>
+      </q>
+      <p>¶Oremus.</p>
+      <p>SAncta Maria virgo, &amp; mater Iesu, age cum filio tuo, vt haec schola quotidie {pro}ficiat in ipso, vt{que} omn<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>s pueri in eadem, discant ipsum, &amp; erudiantur in ipso, tandem vt perfecti filii dei fiant per ipsum. Et tu quo{que} Iesu beniguissime age cū patre tuo, &amp; patre nr̄o, vt gratin sui spiritus, nos suos filiolo<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>faciat, sic te Iesu discere &amp; imitari in hoc saeculo, vt vna tecum foeliciter regnemuain futuro. AMEN.</p>
+   </div>
+   <div type="prayer">
+      <head>¶Oratuncula ad puerum IESVM. Scholae praesidem.</head>
+      <p>
+         <pb facs="8"/>MI domine Iesu suauissime, qui puer adhuc anmo aetatis tuae duodecimo, in Herosolomitano tem<g ref="char:EOLunhyphen"/>plo inter doctores illos sic disputasti, vt stupifacti vni<g ref="char:EOLhyphen"/>uersi, tuam super excellentem sapientiā admirarentur: te quaeso vt in hac tua schola cui praees &amp; patrocinari<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>, eā quotidie discā, &amp; literaturā, &amp; sapientiā, qua possim in primis te Iesu, qui es ipsa vera sapientia cognoscere, deinde cognitū eundem te colere &amp; imitari, at{que} in hac breui vita sic ambulare in via doctrinae tuae sequax ve<g ref="char:EOLhyphen"/>stigiorū tuorū, vt quo peruenisti ipse ad aliquam eiu<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap> gloriae partem decedens ex hac luce, possim ego quo{que} tua gratia foeliciter peruenire. Amen.</p>
+   </div>
+</div>
+        </body>
+  </text>
+</TEI>

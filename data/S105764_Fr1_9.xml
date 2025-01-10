@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Author.</title>
+           <author>Michell, Thomas</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1615</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S105764_Fr1_9</idno>
+           <idno type="DLPS">A01929</idno>
+           <idno type="STC">12066</idno>
+           <idno type="ESTC">S105764</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Author.</title>
+                 <author>Michell, Thomas</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The famous historie of the renouned and valiant Prince Robert surnamed the Bruce King of Scotland e&amp; [sic] : &amp; of sundrie other valiant knights both Scots and English. Enlarged with an addition of the Scottishe kinges lineallie discended from him to Charles now Prince, together with a note of the beginninges of the most parte of the antie [n] t and famous nobilitie of Scotland. A historye both pleasant and profitable set forthe and done in heroik verse by Patrick Gordon Gentleman</title>
+                 <author>Gordon, Patrick</author>
+                 <imprint>
+                    <publisher>Waters (Walters), Joris (George)</publisher>
+                    <pubPlace>Netherlands--Dordrecht</pubPlace>
+                    <date>1615</date>
+                 </imprint>
+                 <extent>192 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <head>To the Author.</head>
+   <l>
+      <seg rend="decorInit">I</seg>F <hi>Allexander</hi> wish'd, (yit sighd') to see,</l>
+   <l>That famous tombe, wher fierce <hi>Achilles</hi> lay</l>
+   <l>Thow worthie chiftain, euer blesd quod he,</l>
+   <l>Had <hi>Homers</hi> penn, thy praises to display,</l>
+   <l>And if <hi>Eneas</hi> danger, night and day</l>
+   <l>And long some labours, bothe by sea and land,</l>
+   <l>Are recompensd, and more: and he for ay,</l>
+   <l>Famos'd, be <hi>Maroes</hi> martial pen doe stand.</l>
+   <l>Mak <hi>Allexander</hi> judge, fame shall avow</l>
+   <l>
+      <hi>Bruce</hi> hath his guerdone of a <hi>Gordon</hi> now.</l>
+   <closer>
+      <signed>M. Th. Michell.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

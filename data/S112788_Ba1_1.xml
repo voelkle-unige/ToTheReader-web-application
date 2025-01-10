@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Gentlemen Readers.</title>
+           <author>Munday, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1590</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S112788_Ba1_1</idno>
+           <idno type="DLPS">A18993</idno>
+           <idno type="STC">541</idno>
+           <idno type="ESTC">S112788</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Gentlemen Readers.</title>
+                 <author>Munday, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The first book of Amadis of Gaule</title>
+                 <imprint>
+                    <publisher>Allde, Edward</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1590</date>
+                 </imprint>
+                 <extent>1+ 201, 3 leaves, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Linguistics and philology</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <head>To the Gentlemen Readers.</head>
+   <p>
+      <seg rend="decorInit">T</seg>Hus Gentlemen is the first Book of <hi>Amadis</hi> finished, how rudely and vnlearnedlye you may per<g ref="char:EOLhyphen"/>ceiue, yet truely set down accor<g ref="char:EOLhyphen"/>ding to the French historye: but if it be not so eloquently handled as you expected, you must beare with the bad conceit, which ne<g ref="char:EOLhyphen"/>
+      <gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>er was capable of any such cunning. Good will is the line wherby I leuell my woorkes, and freendlye acceptation the greatest grace in gentle minds, which is able to shaddowe all imperfections what-soeuer, and to let that passe for currant, which else were counterfeit. In this hope I present you with my la<g ref="char:EOLhyphen"/>bour of <hi>Amadis,</hi> and my poore good will, being re<g ref="char:EOLhyphen"/>quited with your kinde accepting: shall encourage me to aduenture on the second Book of this history, which (by the fauour of the firste) wil come the soo<g ref="char:EOLhyphen"/>ner. Long may I not stand pleading for so slender a reward, the good will think the best, their courtesie I require, the bad (not borne to say well) I care not for their freendship.</p>
+   <closer>
+      <signed>An. Monday. Honos alit Artes.</signed>
+   </closer>
+   <trailer>FINIS.</trailer>
+</div>
+        </body>
+  </text>
+</TEI>

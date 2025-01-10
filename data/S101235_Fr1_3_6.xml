@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           <author>G., M.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1602</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S101235_Fr1_3_6</idno>
+           <idno type="DLPS">B11386</idno>
+           <idno type="STC">1695</idno>
+           <idno type="ESTC">S101235</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 <author>G., M.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>The metamorphosis of tabacco</title>
+                 <author>Beaumont, John</author>
+                 <imprint>
+                    <publisher>Kingston, Felix</publisher>
+                    <distributor>Flasket, John</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1602</date>
+                 </imprint>
+                 <extent>44 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Political tracts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <l>SOmetimes all man, that hath vs'd soule and breath,</l>
+   <l>Must print his heele on the black way of Death:</l>
+   <l>But this small poeme, though the least of manie,</l>
+   <l>Shall liue like Soules, though natures worst gifts die:</l>
+   <l>Till all the compounds weare their fierie sheete,</l>
+   <l>Not till all Death shall this slight storie fleete.</l>
+   <closer>
+      <signed>M. G.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

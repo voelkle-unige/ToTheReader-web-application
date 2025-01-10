@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1594</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S122523_Fr1_2</idno>
+           <idno type="DLPS">A19447</idno>
+           <idno type="STC">5871.5</idno>
+           <idno type="ESTC">S122523</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Present remedies against the plague : Shewing sundry preseruatiues for the same, by holsome fumes, drinkes, vomits, and other inward receits: as also the perfect cure (by implaisture) of any that are therewith infected. Now necessary to bee obserued of euery housholder, to auoid the infection, lately begun in some places of this cittie. Written by a learned phisition, for the health of his country: and now newly inlarged by the same author, with remedies for the newe pestilent feuer</title>
+                 <author>Learned phisition</author>
+                 <imprint>
+                    <publisher>Danter, John</publisher>
+                    <distributor>Barley (Barlow), William</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1594</date>
+                 </imprint>
+                 <extent>14 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>To the Reader.</head>
+   <p>
+      <seg rend="decorInit">F</seg>OR as much as the force and infection of the ordinary diseas called the Plague or Pestilence, hath hertofore beene too well knowne, and felt, in sundry places of this Realme: and considering that it hath of late begun to increase in many chiefe Cities and populous places; I thought it good to publish to you in time, sundry pro<gap reason="illegible" extent="1 chunk">
+         <desc>…</desc>
+      </gap>ues against the saide disease, the better to defend t<gap reason="illegible" extent="4 letters">
+         <desc>••••</desc>
+      </gap> that are in health, from the infection of the diseased: And also to cure those that are any way infected, grieued, or troubled with the same. And to this I was imboldened, the ra<g ref="char:EOLhyphen"/>ther for that it was written by a very learned and ap<g ref="char:EOLhyphen"/>prooued Phisition of our time, who desireth more the health of his Country, than by discouering his name seeme vaine glorious to the world. Accept the same I pray you in good part, and thanke God for the Phisitions paines, who hath his desire if it may do but that which he wisheth: namely to expell sickenes, and increase health to this Land, which God for his mercie sake, prosper and preserue from all plagues and dangers for euermore, Amen.</p>
+</div>
+        </body>
+  </text>
+</TEI>

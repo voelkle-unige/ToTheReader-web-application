@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader in praise of the Author.</title>
+           <author>Greys, Anthony</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1609</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S109342_Fr1_11</idno>
+           <idno type="DLPS">A69177</idno>
+           <idno type="STC">6332</idno>
+           <idno type="ESTC">S109342</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader in praise of the Author.</title>
+                 <author>Greys, Anthony</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Humours heau'n on earth : with the ciuile warres of death and fortune. As also the triumph of death: or, the picture of the plague, according to the life; as it was in anno Domini. 1603. By Iohn Dauies of Hereford</title>
+                 <author>Davies, John</author>
+                 <imprint>
+                    <publisher>Islip, Adam</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1609</date>
+                 </imprint>
+                 <extent>8, 41, 142-248, 4 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Poetry</term>
+                    <term>Medical texts</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="encomium">
+   <pb facs="7"/>
+   <head>To the Reader in praise of the Author.</head>
+   <lg>
+      <l>IN every Tale which scarffed Truth containes,</l>
+      <l>We must that Truth vnmaske to see her face:</l>
+      <l>Else see we but the halfe the Tale retaines;</l>
+      <l>Then such (how e're well told) lose halfe their grace.</l>
+   </lg>
+   <lg>
+      <l>But these are Tales, which (though their truth be maskt)</l>
+      <l>Tickle the itching'st Eares with wit<gap reason="illegible" resp="#pdcc" extent="1 letter">
+            <desc>•</desc>
+         </gap>hing Touches;</l>
+      <l>And so such Eares to listen still are taskt,</l>
+      <l>By subtill clawing, that such Eares bewitches.</l>
+   </lg>
+   <lg>
+      <l>Canst thou but Riddles reade, and not areede?</l>
+      <l>These Riddles high (well read) stoope to thy reason:</l>
+      <l>That though they fat not Wit, yet Will they feede</l>
+      <l>With Wittes pure Salt, that Wits fresh-Sweetes doth season:</l>
+      <l>The Fiction is for gladdest Will as fit,</l>
+      <l>As is the Morall for the saddest Wit.</l>
+   </lg>
+   <closer>
+      <signed>Anth: Greys.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

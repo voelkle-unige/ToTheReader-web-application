@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE HONORABLE and worthie Knight, Sir THOMAS MVNSON Baronet, Master of his Maiesties Armory, and Master of the Hawkes to his HIGHNES.</title>
+           <author>Latham, Simon</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1614</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108340_Fr1_2</idno>
+           <idno type="DLPS">A05137</idno>
+           <idno type="STC">15267</idno>
+           <idno type="ESTC">S108340</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE HONORABLE and worthie Knight, Sir THOMAS MVNSON Baronet, Master of his Maiesties Armory, and Master of the Hawkes to his HIGHNES.</title>
+                 <author>Latham, Simon</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Lathams falconry or The faulcons lure, and cure : in two bookes. The first, concerning the ordering and training vp of all hawkes in generall; especially the haggard faulcon gentle. The second, teaching approued medicines for the cure of all diseases in them. Gathered by long practice and experience, and published for the delight of noble mindes, and instruction of young faulconers in things pertaining to this princely art. By Symon Latham. Gent</title>
+                 <author>Latham, Simon</author>
+                 <imprint>
+                    <publisher>Beale, John</publisher>
+                    <distributor>Jackson, Roger</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1614</date>
+                 </imprint>
+                 <extent>24, 147, 3 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Games and recreations</term>
+                    <term>Agriculture, viticulture, texts on hunting, veterinary science</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="2"/>
+   <pb facs="2"/>
+   <head>
+      <hi>TO THE HONORABLE and worthie Knight, Sir THOMAS MVNSON</hi> Baronet, Master of his Maiesties <hi>Armory, and Master of the Hawkes to his HIGHNES.</hi>
+   </head>
+   <opener>
+      <salute>Honorable Sir:</salute>
+   </opener>
+   <p>
+      <seg rend="decorInit">A</seg>Lthough I am not so well experienced in the art of book-making, I cannot but know that the Author of any worke, doth by no one thing commend his iudgement more to the world, then by the choise of his Patron: for, as there are many and differing respects, that concurre to that act of election; so hee that vseth the fewest and simplest, hath the least opposition to withstand his iudge<g ref="char:EOLhyphen"/>ment: I therefore knowe no person of qualitie in this kingdome, to whom I can offer these my labours for iudgement, before your selfe in fitnesse, as well for your dexteritie in discerning, as place of emploiment, to which, when my loue and obseruance towards you is ad<g ref="char:EOLhyphen"/>ded, you wil (I doubt not) with fauour and alacritie re<g ref="char:EOLhyphen"/>ceiue him to protection, that cals you not to the succour, or defence of his errors, but the iudging of his paine.</p>
+   <closer>
+      <signed>Your Worships true honorer, and to be commaunded, SYMON LATHAM.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

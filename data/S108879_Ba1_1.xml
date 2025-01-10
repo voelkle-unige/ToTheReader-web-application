@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Author'S Note]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1606</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S108879_Ba1_1</idno>
+           <idno type="DLPS">A19459</idno>
+           <idno type="STC">5880</idno>
+           <idno type="ESTC">S108879</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Author'S Note]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A briefe ansvver vnto certaine reasons by way of an apologie deliuered to the Right Reuerend Father in God, the L. Bishop of Lincolne, by Mr. Iohn Burges : wherin he laboureth to prooue, that hauing heretofore subscribed foure times, and now refusing (as a thing vnlawfull that he hath notwithstanding done lawfully in both. Written by VVilliam Couell, Doctor in Diuinitie)</title>
+                 <author>Covell, William</author>
+                 <imprint>
+                    <publisher>Snowdon (Snodham), George 1</publisher>
+                    <distributor>Knight, Clement</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1606</date>
+                 </imprint>
+                 <extent>14, 96, 99-160, 2 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="authors_note">
+   <pb facs="87"/>
+   <p>COurteous Reader I kindelie intreate thy patience and thy labour; the one to excuse, the other to correct the <hi>sencelesse</hi> faults com<gap reason="illegible" resp="#pdcc" extent="1 letter">
+         <desc>•</desc>
+      </gap>mitted in the printing of this booke; I call them <hi>sencelesse</hi> not one<g ref="char:EOLunhyphen"/>ly because those may seeme so that made them▪ but because the most being in the false pointing, they make the period often to bewith out sence▪ this we cannot now amende; some other faults it may please thee to correct thus.</p>
+</div>
+        </body>
+  </text>
+</TEI>

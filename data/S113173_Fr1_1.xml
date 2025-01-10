@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Epitaph]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1634</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S113173_Fr1_1</idno>
+           <idno type="DLPS">A07471</idno>
+           <idno type="STC">17857</idno>
+           <idno type="ESTC">S113173</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Epitaph]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Epitaphs vpon the vntymelie death of that hopefull, learned, and religious youth, Mr VVilliam Michel (sonne to a reverend pastor, Mr Thomas Michel, parson of Turreff, and minister of the Gospel there) [sic] who departed this lyfe the 6 of Ianuarie, 1634. in the 24 yeare of his age. Together with a consolatorie epistle, to the mother of the sayd young man; wherein his vertues and good carriage are mentioned</title>
+                 <imprint>
+                    <publisher>Raban, Edward</publisher>
+                    <pubPlace>Great Britain--Scotland--Aberdeen</pubPlace>
+                    <date>1634</date>
+                 </imprint>
+                 <extent>46 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Other</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Poetry</term>
+                    <term>Literature</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="epitaph">
+   <pb facs="1"/>
+   <p>EPITAPHS
+Vpon the vntymelie death of that hope<g ref="char:EOLhyphen"/>full,
+Learned, and Religious Youth,
+M<seg rend="sup">r</seg> VVILLIAM MICHEL,
+(Sonne to a Reverend Pastor, M<seg rend="sup">r</seg> THOMAS MICHEL,
+Parson of TURREFF, and Minister of the Gospel there)
+who departed this lyfe the 6 of Ianuarie, 1634.
+in the 24 yeare of his age. Together with a Consolatorie Epistle, to the Mother of
+the sayd young Man; wherein his Vertues and
+good carriage are mentioned.</p>
+   <p>
+      <hi>ABERDONIAE,</hi>
+Imprimebat Edwardus Rabanus, 1634.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>TO THE KINGS MOST EXCELLENT MAIESTIE.</title>
+           <author>Parkinson, John</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1640</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S121875_Fr1_3</idno>
+           <idno type="DLPS">A09011</idno>
+           <idno type="STC">19302</idno>
+           <idno type="ESTC">S121875</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>TO THE KINGS MOST EXCELLENT MAIESTIE.</title>
+                 <author>Parkinson, John</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Theatrum botanicum: The theater of plants. Or, An herball of a large extent : containing therein a more ample and exact history and declaration of the physicall herbs and plants that are in other authours, encreased by the accesse of many hundreds of new, rare, and strange plants from all the parts of the world, with sundry gummes, and other physicall materials, than hath beene hitherto published by any before; and a most large demonstration of their natures and vertues. Shevving vvithall the many errors, differences, and oversights of sundry authors that have formerly written of them; and a certaine confidence, or most probable conjecture of the true and genuine herbes and plants. Distributed into sundry classes or tribes, for the more easie knowledge of the many herbes of one nature and property, with the chiefe notes of Dr. Lobel, Dr. Bonham, and others inserted therein. Collected by the many yeares travaile, industry, and experience in this subject, by Iohn Parkinson apothecary of London, and the Kings herbarist. And published by the Kings Majestyes especiall priviledge</title>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1640</date>
+                 <publisher>Cotes, Richard.</publisher>
+                            <publisher>Cotes, Thomas</publisher>
+                        </imprint>
+                 <extent>24, 1652, 1663-1755, 3 pages, illustrations (woodcuts), 2°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>TO THE KINGS MOST EXCELLENT MAIESTIE.</head>
+   <p>
+      <seg rend="decorInit">H</seg>Aving by long paines and endeavours, composed this Manlike Worke of Herbes and Plants, Most graci<g ref="char:EOLhyphen"/>ous Soveraigne (as I formerly did a Feminine of Flow<g ref="char:EOLhyphen"/>ers, and presented it to the Queenes most excellent Majesty) I could doe no lesse then submissively lay it at your Majesties feet, to be approved or condemned, and if thought fit and worthy a publique passage, to offer it on the Altar of your Majestyes many favours to me, to be commanded as well as com<g ref="char:EOLhyphen"/>mended unto all for their owne good. For as your Majesty is <hi>Summus Pater patriae,</hi> the chiefe of your people under God, that not onely provi<g ref="char:EOLhyphen"/>deth for their soules health, that they may have the pure Word of God, whereby to live ever, wherein we justly claime the prerogative above a<g ref="char:EOLhyphen"/>ny Nation under Heaven, and most devoutly praise God for the same, and desire religiously to live thereunder: but many wayes also for their bodily estates, by good and wholesome Lawes, that every one may live obediently and peaceably under their owne Vine and Figtree, and by protection, &amp;c. And I doubt not of your Majesties further care of their bodies health, that such Workes as deliver approved remedyes may be divulged, whereby they may both cure and prevent their diseases. Most properly therefore doth this Worke belong to your Majesties Patro<g ref="char:EOLhyphen"/>nage both to further and defend, that malevolent spirits should not dare to cast forth their venome or aspertions, to the prejudice of any well deserving, but that therby under God and good direction, all may live in health, as well as wealth, peace, and godlines, which God grant, and that this boldnesse may be pardoned to</p>
+   <closer>
+      <signed>Your Majestyes Loyall Subject, Servant, and Herbarist, <hi>John Parkinson.</hi>
+      </signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

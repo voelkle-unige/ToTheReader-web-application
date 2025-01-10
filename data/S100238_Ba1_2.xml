@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>Lectori.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1576</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S100238_Ba1_2</idno>
+           <idno type="DLPS">A21928</idno>
+           <idno type="STC">826</idno>
+           <idno type="ESTC">S100238</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>Lectori.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Disertissimi viri Rogeri Aschami, Angli, Regiae maiestati non ita pridem a Latinis epistolis, familiarium epistolarum libri tres : magna orationis elegantia conscripti. Quorum primo præfigitur elegantissima epistola de imitatione oratoria. Huc accesserunt eiusdem pauca quædam poëmata. Omnia in studiosorum gratiam collecta, &amp; nunc primum ædita studio &amp; labore Eduardi Grantæ, Scholæ Westmon. moderatoris. Addita est in fine eiusdem Ed. Gr. oratio, de vita &amp; obitu Rogeri Aschami, ac eius dictionis elegantia, cum adhortatione ad adolescentulos</title>
+                 <author>Ascham, Roger</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1576</date>
+                 <publisher>Coldock (Coldoke), Francis.</publisher>
+                            <publisher>Middleton, Henry</publisher>
+                        </imprint>
+                 <extent>12, 160, 40 leaves, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Drama</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="publisher_to_the_reader">
+   <pb facs="209"/>
+   <head>Lectori.</head>
+   <p>
+      <seg rend="decorInit">O</seg>Randus es mihi, hu<g ref="char:EOLhyphen"/>manissime lector, vt haec errata inter im<g ref="char:EOLhyphen"/>primendū elapsa, tuo studio corrigas, an<g ref="char:EOLhyphen"/>tequam ad legendum accedas. Factum est e<g ref="char:EOLhyphen"/>nim imperitissimi typographi, qui R. A. epistolas &amp; poemata impresserit, non qui mea typis excuderit, incuria, vt hic erratorum cumulus irrepserit. Mea ne<g ref="char:EOLhyphen"/>gotia me non siuerunt, vt praelo interes<g ref="char:EOLhyphen"/>sem, &amp; praesentis typographi caecitas eū coegit, vt haec faedissima errata cōmitte<g ref="char:EOLhyphen"/>ret. Admonendus etiam es, vt epistolam illam, in tertio libro, ad Frobenium mis<g ref="char:EOLhyphen"/>sam, typographi etiam indiligentia, in a<g ref="char:EOLhyphen"/>lienum locum sese intrusisse cogites, &amp; illam ad Alanum epistolam, eius sedem propriam occupasse. Sunt hae duae sup<g ref="char:EOLhyphen"/>posititiae: &amp; altera occupat locū alteri<g ref="char:EOLhyphen"/>us. Caetera tu facilimè pro tuo candore nobis condonabis. Vale.</p>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Poem]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1588</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S4937_Fr1_2</idno>
+           <idno type="DLPS">A13565</idno>
+           <idno type="STC">23859.3</idno>
+           <idno type="ESTC">S4937</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Poem]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The recantations as they were seuerallie pronounced by VVylliam Tedder and Anthony Tyrrell (sometime two seminarie priests of the English Colledge in Rome and nowe by the great mercie of almightie God conuerted, vnto the profession of the Gospell of Iesus Christ) at Paules Crosse, the day and yeere as is mentioned in their seuerall tytles of theyr recantations : vvith an epistle dedicatorie vnto Her Maiestie and their seuerall præfaces vnto the reader, contayning the causes that mooued them to the same</title>
+                 <author>Tedder, William</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1588</date>
+                 <publisher>Broome (Brome, Browne), William.</publisher>
+                            <publisher>Charlewood, John</publisher>
+                        </imprint>
+                 <extent>2, 47 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="la">Latin</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Poems</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>History and chronicles</term>
+                    <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="poem">
+   <pb facs="2"/>
+   <p>
+      <figure>
+         <figDesc>portrait of Queen Elizabeth</figDesc>
+      </figure>
+   </p>
+   <l>DIûa potens cuius decantant Sydera laudes,</l>
+   <l>Quae tibi dante Deo regia s<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>eptra tenes.</l>
+   <l>Pro te pugnantem crûdelis sensit Hiberus,</l>
+   <l>Qui{que} domi volûit te spoliare, Deum.</l>
+   <l>Sceptra tibi se<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap> firma manēt, et firma manebūt,</l>
+   <l>Es quoniam f<gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>lix te protegente Deo.</l>
+</div>
+        </body>
+  </text>
+</TEI>

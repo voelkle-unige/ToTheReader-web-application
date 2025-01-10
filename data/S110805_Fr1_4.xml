@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>The Booke to the Reader.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1582</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S110805_Fr1_4</idno>
+           <idno type="DLPS">B12044</idno>
+           <idno type="STC">5116</idno>
+           <idno type="ESTC">S110805</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>The Booke to the Reader.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>A discouerie and batterie of the great fort of vnwritten traditions : otherwise, an examination of the Counsell of Trent, touching the decree of Traditions. Done by Martinus Chemnitius in Latine, and translated into Englishe by R.V</title>
+                 <author>Chemnitz, Martin</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1582</date>
+                 <publisher>Ponsonby, William.</publisher>
+                            <publisher>Purfoot, Thomas 1</publisher>
+                        </imprint>
+                 <extent>100, that is 101, 79 pages, 4°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>History and chronicles</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="book_to_the_reader">
+   <pb n="18" facs="11"/>
+   <head>The Booke to the Reader.</head>
+   <lg>
+      <l>IƲdge not before.</l>
+      <l>Thou know mine intent,</l>
+      <l>But reade me throughout,</l>
+      <l>And then say thy fill:</l>
+      <l>As thou in opinion</l>
+      <l>Art minded and bent,</l>
+      <l>Whether it be</l>
+      <l>Either good or ill.</l>
+   </lg>
+   <lg>
+      <l>I care for praise,</l>
+      <l>Nor slaunder vntrue,</l>
+      <l>Of man nor of childe,</l>
+      <l>What euer he be:</l>
+      <l>Truth neede not to feare</l>
+      <l>Who doth it pursue,</l>
+      <l>With praise or dispraise</l>
+      <l>In any degree.</l>
+   </lg>
+   <lg>
+      <l>For truth is not bettered</l>
+      <l>By prayses at all,</l>
+      <l>Nor harmed by dispraise</l>
+      <l>Of any wight:</l>
+      <l>But goodnesse or hurt</l>
+      <l>Most surely come shall,</l>
+      <l>To him that doth iudge</l>
+      <l>Either wrong or right.</l>
+   </lg>
+   <lg>
+      <l>Reade me, then iudge me,</l>
+      <l>Therefore, I thee pray,</l>
+      <l>Nothing for my cause,</l>
+      <l>But only thine own:</l>
+      <l>For I shall indure,</l>
+      <l>Whosoeuer say nay,</l>
+      <l>When vnwritten truths</l>
+      <l>Shall be ouerthrown.</l>
+   </lg>
+</div>
+        </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>[Dedication]</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1620</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S104664_Bo1_2_1</idno>
+           <idno type="DLPS">A16660</idno>
+           <idno type="STC">3566</idno>
+           <idno type="ESTC">S104664</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>[Dedication]</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>Essaies vpon the fiue senses : with a pithie one vpon detraction. Continued vvith sundry Christian resolues, full of passion and deuotion, purposely composed for the zealously-disposed. By Rich: Brathwayt Esquire</title>
+                 <author>Brathwait, Richard</author>
+                 <imprint>
+                    <publisher>Griffin, Edward 1</publisher>
+                    <distributor>Whitaker, Richard</distributor>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1620</date>
+                 </imprint>
+                 <extent>8, 142, 2 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Dedications</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                    <term>Philosophy and morality</term>
+                    <term>Science and mathematics</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="dedication">
+   <pb facs="38"/>
+   <p>ORNATISSIMO ET LECTISSIMO VIRO, <hi>I. B.</hi> de <hi>L:</hi> EQVITI AVRATO, PVBLICAE PACIS IVRIS<g ref="char:EOLhyphen"/>QVE STVDIOSISSIMO.</p>
+   <p>Pariter{que} <hi>H. B.</hi> FILIO INTER SV<g ref="char:EOLhyphen"/>PERSTITES ORTV MAXIMO, TALI PATRE NATO DIGNISSIMO, INDOLIS OPTIMAE, SPEI AM<g ref="char:EOLhyphen"/>PLISSIMAE, MENTIS TENACISSIMAE.</p>
+   <p>RICHARD BRATHWAYT HANC DETRACTIONIS NARRATIVN CVLAM, IN GRATAM ANIMI MEMORIAM (INVITA QUORUNDAM INVIDIA:) candide, condite, intime, integre D. D. D.</p>
+</div>
+        </body>
+  </text>
+</TEI>

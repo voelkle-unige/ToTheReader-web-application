@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>ERRATA.</title>
+           </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S125562_Ba1_1</idno>
+           <idno type="DLPS">A73324</idno>
+           <idno type="STC">24331.5</idno>
+           <idno type="ESTC">S125562</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>ERRATA.</title>
+                 </analytic>
+              
+              <monogr>
+                 <title>The Christian souldier : his combat, conquest, and crowne. Agaynst the three arch-enemies of mankind. The world, the flesh and the devill</title>
+                 <author>Turges, Edward</author>
+                 <imprint>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 <publisher>Hodgkinson, Richard.</publisher>
+                            <publisher>Langford, Bernard.</publisher>
+                            <publisher>Spencer, John</publisher>
+                        </imprint>
+                 <extent>14, 104, 115-168, 170-297, 5 pages, illustrations, 12°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>Errata</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>N</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="errata">
+   <pb facs="152"/>
+   <pb facs="152"/>
+   <epigraph>
+      <q>
+         <l>Mens workes had faults since Adam first offended.</l>
+         <l>And those in these are thus to bee amended.</l>
+      </q>
+   </epigraph>
+   <head>ERRATA.</head>
+   <p>Epist. Dedicat. line 12. read these. ibid. l. 34. r. your Counsell. Epist. Reader l. 10. read I put. ibid. l. 43. read from t<gap reason="illegible" resp="#keyers" extent="2 letters">
+         <desc>••</desc>
+      </gap>t.</p>
+   <p>Pag. 7. line ult. read. thus, pag. 16. lin. 21. r. estis. p. 18. l. 23. r. him. p. 30. l. 15. r. thy. wages. ibid. l. 18. r. <gap reason="illegible" resp="#keyers" extent="1 letter">
+         <desc>•</desc>
+      </gap>et. p. 31. l. ult. r. hard pag. 32. l. 23. r. Confession p. III. l. 4. r. wine. p. 121. l. 14. r. him. pag. 125. l. 7. r. inveneris p. 145. l. 3. r. keepe thy selfe. p. 162. l. 14 r. forth.</p>
+</div>
+        </body>
+  </text>
+</TEI>

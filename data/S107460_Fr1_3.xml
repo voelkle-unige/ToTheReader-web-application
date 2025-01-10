@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Christian Reader:</title>
+           <author>J., W.</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1631</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S107460_Fr1_3</idno>
+           <idno type="DLPS">A04623</idno>
+           <idno type="STC">14741</idno>
+           <idno type="ESTC">S107460</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Christian Reader:</title>
+                 <author>J., W.</author>
+              </analytic>
+              
+              <monogr>
+                 <title>A briefe exhortation to all men to set their houses in order. By William Iones B. of D. Preacher to the Isle of Wight</title>
+                 <author>Jones, William</author>
+                 <imprint>
+                    <publisher>Jones, William 3</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1631</date>
+                 </imprint>
+                 <extent>6, 28 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Religious</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="3"/>
+   <pb facs="3"/>
+   <head>To the Christian Reader:</head>
+   <p>
+      <seg rend="decorInit">W</seg>HEN thou readest this small Treatise, take thy pen and blot out what is superfluous, and amend what is amisse, and supply what wants: And if any thing be iudged profitable, forthwith begin to put it in practise thy selfe, and to perswade o<g ref="char:EOLhyphen"/>thers to doe the like. So shall wee all have bet<g ref="char:EOLhyphen"/>ter families, and the King better subiects, and God better servants.</p>
+   <closer>
+      <signed>Thine in the Lord Iesus, W. J.</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>

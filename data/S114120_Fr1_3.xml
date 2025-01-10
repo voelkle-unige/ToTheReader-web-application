@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <fileDesc>
+        
+        <titleStmt>
+           <title>To the Reader.</title>
+           <author>Gouge, William</author>
+        </titleStmt>
+        
+        <editionStmt>
+           <edition>
+              <date>1639</date>
+           </edition>
+        </editionStmt>
+        
+        <publicationStmt>
+           <publisher>To the Reader: The English Preface in Print, c. 1475-1640 / Early English Books Online Text Creation Partnership</publisher>
+           <pubPlace>Geneva, Switzerland</pubPlace>
+           <date when="2021">2021</date>
+           
+           <idno type="TTR">S114120_Fr1_3</idno>
+           <idno type="DLPS">A12087</idno>
+           <idno type="STC">22391.8</idno>
+           <idno type="ESTC">S114120</idno>
+
+           
+        </publicationStmt>
+        
+        <sourceDesc>
+           <biblStruct>
+              <analytic>
+                 <title>To the Reader.</title>
+                 <author>Gouge, William</author>
+              </analytic>
+              
+              <monogr>
+                 <title>Vindiciæ senectutis, or, A plea for old-age : which is senis cujusdam Cygnea cantio. And the severall points on parts of it, are laid downe at the end of the follovving introduction. By T.S. D.D</title>
+                 <author>Sheafe, Thomas</author>
+                 <imprint>
+                    <publisher>Miller, George</publisher>
+                    <pubPlace>Great Britain--England--London</pubPlace>
+                    <date>1639</date>
+                 </imprint>
+                 <extent>25, 210, 11 pages, 8°</extent>
+                 
+              </monogr>
+           </biblStruct>
+        </sourceDesc>
+        
+     </fileDesc>
+     
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        
+        <textClass>
+           <keywords scheme="TTR Div type Categories">
+              <term>To the reader</term>
+           </keywords>
+           
+           <keywords scheme="TTR">
+              <term>Y</term>
+           </keywords>
+           
+           <keywords scheme="USTC Subject Classification">
+           <term>Literature</term>
+                    <term>Philosophy and morality</term>
+                </keywords>
+           
+           <keywords scheme="Farmer and Lesser Genres">
+              <term/>
+              <term/>
+           </keywords>
+        </textClass>
+        
+     </profileDesc>
+  </teiHeader>
+   
+   
+  <text>
+     <body>
+     <div type="to_the_reader">
+   <pb facs="4"/>
+   <head>To the Reader.</head>
+   <opener>
+      <salute>Courteous Reader, Young or old,</salute>
+   </opener>
+   <p>HEre is presented to thee by an Old-Man past his <note n="*" place="margin">Three<g ref="char:EOLhyphen"/>score and three.</note> great <hi>climactericall</hi> yeare, a Treatise of OLD AGE, indited and penned by <note n="*" place="margin">D. Sheafe Prebin of Windsore and Rector of Well<g ref="char:EOLhyphen"/>forde.</note> one who hath attained to those yeares whereunto hee who attaineth is accounted <note n="*" place="margin">Foure<g ref="char:EOLhyphen"/>score.</note>
+      <hi>Wondrous old,</hi> and dedicated to him that hath almost attained to <note n="*" place="margin">An hun<g ref="char:EOLhyphen"/>dred</note> those yeares <note n="*" place="margin">Aetas. Secu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>um.</note> beyond which there is no ordinary reckoning. The Author in dedicating his Treatise of OLD AGE, to a more aged Friend, imitates the Oratour, who thus saith of himselfe, <note n="*" place="margin">Ad senem senex de senectute soripsi. Cic de A<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>icitia in proem.</note>
+      <hi>Being an Old-Man, I wrote to an Old-Man of Old-Age.</hi> As the Author by reason of his much rea<g ref="char:EOLhyphen"/>ding, strong memory, profound judge<g ref="char:EOLhyphen"/>ment
+<pb facs="5"/>
+and long experience was well qualified and enabled to undertake such a taske, so most wisely hath he made choice of a very fit Patron, who notwithstanding his exceeding great Old-Age, and the small characters in which this Treatise was written, read it without spectacles, and with no lesse prespicacie of judgement then of sight, gave his approbation thereof. If therefore DAIES may be heard, and a testimony given by multitude of yeares may gaine credit, there are <note n="*" place="margin">Two or three.</note> as many as the Divine Law exacteth for witnesse bearing that commendeth this Treatise to thee: and those old e<g ref="char:EOLhyphen"/>nough; especially the two Elder, who by their many yeares so well im<g ref="char:EOLhyphen"/>ployed, as they have imployed theirs, have attained to great experience, and gained much wisdome; so as in them this Adage, <hi>multitude of yeares teach wisdome,</hi> is verified. All the three intimated witnesses were <hi>Academicks</hi> together. All of one and the same<note place="margin">D. Cha<g ref="char:EOLhyphen"/>derton.</note>
+      <hi>University.</hi>
+      <note n="*" place="margin">Anno Dom. 1584</note> The <hi>Dedicatee</hi> was * Master of <hi>Emmanuell</hi> Colledge <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi>
+      <pb facs="5"/>
+within few yeares after the <hi>Author</hi> of this Treatise came to Kings College: yet had this <hi>Author</hi> beene <note n="*" place="margin">Sixteene yeare.</note> more then a Bachelour of Divinities time in the College, before he chose the <hi>Publisher</hi> hereof out of Eton schoole to the said <hi>Kings College.</hi> A favour very great in the kinde, and in the manner of conferring it, most free. <hi>Possumne ingraius &amp; immemor esse?</hi> In all humble and hearty gra<g ref="char:EOLhyphen"/>titude is this publicke acknowledge<g ref="char:EOLhyphen"/>ment made of a gratious <hi>Tutors</hi> good<g ref="char:EOLhyphen"/>nesse, by his much bounden <hi>Pupill.</hi> Gratitude therfore is one inducement, which hath brought me on to lend an helping hand to the publishing of this Treatise, (which is my onely taske.) But an other and greater inducement is the work it selfe: both in regard of the subject matter of it, which is OLD-AGE, and also in regard of the exqui<g ref="char:EOLhyphen"/>site manner of handling it, it being per<g ref="char:EOLhyphen"/>formed by an <hi>Old-Man,</hi> who hath written hereabout what experience hath verified in himselfe. For hee himselfe is a lively image and repre<g ref="char:EOLhyphen"/>sentation
+<pb facs="6"/>
+of that true <hi>Old-Man</hi> which<note place="margin">Senectus nos ab im<g ref="char:EOLhyphen"/>pudenti si misdomini<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> libera<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> vo<g ref="char:EOLhyphen"/>luptatib<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>▪ gul<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> im<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>it▪ mo<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>um: libi<g ref="char:EOLhyphen"/>dinis fran<g ref="char:EOLhyphen"/>git impe<g ref="char:EOLhyphen"/>tus: ange<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> sapientiā: dat matu riora con<g ref="char:EOLhyphen"/>fili<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>, &amp;c. Hier Pro<g ref="char:EOLhyphen"/>em 2. lib Comment in Amos. Gran<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>es natu, <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>yg neum nes<g ref="char:EOLhyphen"/>cio quid, &amp; solito dulcius ce<g ref="char:EOLhyphen"/>cinerunt Hier epist 2 ad N<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> pot de vita <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>er.</note> he describeth, and whom hee doth vindicate and defend from the undue calumnies of youth. If any imagine that OLD-AGE, as it bringeth feeble<g ref="char:EOLhyphen"/>nesse upon the body, and upon all the parts thereof, so it blunteth the under<g ref="char:EOLhyphen"/>standing, dulleth the wit, weakeneth the memory, and much impaireth all the powers of the soule, I referre him to S. <hi>Hierom,</hi> who in that very place where he granteth the forementioned bodily infirmities and other like to them, to be incident to OLD AGE, sets downe these good things to abide in it and with it: <hi>It keepes us from plea<g ref="char:EOLhyphen"/>sures, the most impudent masters: it puts a meane to appetite: it subdueth the vio<g ref="char:EOLhyphen"/>lence of lust: it increaseth wisdome: it gives more mature counsell▪</hi> &amp;c. And in another place he giveth us a cata<g ref="char:EOLhyphen"/>logue of many heathen men, who <hi>be<g ref="char:EOLhyphen"/>ing very old, and neere to death, sang their Swan-like songs more sweetly then they were wont in younger yeares.</hi> The Author of this Treatise hath given us a larger catalogue, not only of heathen
+<pb facs="6"/>
+men, but also of holy men, Gods wor<g ref="char:EOLhyphen"/>thies, who in their OLD-AGE have beene endowed with excellent and eminent abilities, especially of mind: withall he sheweth, that if it so fall out as is objected, it is in such an OLD-AGE as followeth upon distempered <hi>youth,</hi> and disordered manage: but where former yeares have beene tem<g ref="char:EOLhyphen"/>perately ordered, and well imployed, OLD AGE▪ though somewhat debi<g ref="char:EOLhyphen"/>litated in bodily strength, will prove vigorous in the indowments of the soule. Of such an Old-Man speaketh an ancient Poet to this purpose,</p>
+   <lg>
+      <l>His foot in pace is flow:<note place="margin">
+            <gap reason="foreign">
+               <desc>〈 in non-Latin alphabet 〉</desc>
+            </gap>. Eurip. <gap reason="illegible" resp="#apex" extent="1+ letters">
+               <desc>•…</desc>
+            </gap>n.</note>
+      </l>
+      <l>His wit doth swiftly flow.</l>
+   </lg>
+   <p>This our Author hath oft most truely and justly observed, that the defects which befall OLD-AGE, are occa<g ref="char:EOLhyphen"/>sioned for the most part, if not altoge<g ref="char:EOLhyphen"/>ther, by the disorder of younger yeares. Yea the distemper of youn<g ref="char:EOLhyphen"/>ger yeares is (to speake according to the course of nature) an especiall cause that so few, even of those who grow bearded, attaine an hoary head:
+<pb facs="7"/>
+which (as the Wise-man hath well observed) <hi>is a crowne of glory, if it be</hi>
+      <note place="margin">Prov. 16. 31.</note>
+      <hi>found in the way of righteousnesse.</hi> He therefore that wrote much in com<g ref="char:EOLhyphen"/>mendation<note place="margin">Cic▪ de Se<g ref="char:EOLhyphen"/>nect.</note> of OLD-AGE put in this proviso, <hi>Remember that I praise that</hi> OLD-AGE <hi>which is setled upon the</hi>
+      <note place="margin">Senectus e<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>rum qui a<g ref="char:EOLhyphen"/>dolescenti<g ref="char:EOLhyphen"/>am suam honest is artibus in<g ref="char:EOLhyphen"/>struxer<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>nt aetate fit d<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ctior, usu tritior, pro<g ref="char:EOLhyphen"/>cessu tem<g ref="char:EOLhyphen"/>poris sapi<g ref="char:EOLhyphen"/>entior, &amp; veterum studiorum dulcissimos fructu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> me<g ref="char:EOLhyphen"/>tit. Hier. ad Nepot</note>
+      <hi>foundations of youth:</hi> meaning that youth which hath beene well passed over. For, as an ancient Father long since said, and that upon his owne ex<g ref="char:EOLhyphen"/>perience, <hi>The</hi> OLD-AGE <hi>of them who have furnished their youth with sciences, is made by continuance the more learned, by use the more ready, by processe of time the more prudent, and reapeth the most sweet fruits of former studies.</hi> It much resteth in men by well ordering their tender and flexible age, yea and their more stable and setled yeares follow<g ref="char:EOLhyphen"/>ing thereupon, both to attaine unto OLD-AGE, and also to make that OLD-AGE whereunto they attaine more joyous, and glorious. It is said of a wicked man (<hi>Iob.</hi> 21. 21.) <hi>The number of his daies is</hi>
+      <note n="*" place="margin">
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> Divisit vulgat▪ di<g ref="char:EOLhyphen"/>midiavit.</note>
+      <hi>cut off in the midst.</hi> And to like purpose (<hi>Psal.</hi> 55.
+<pb facs="7"/>
+23.) <hi>Bloody and deceitfull men shall not</hi>
+      <note n="*" place="margin">Targum <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> N<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>n vide<g ref="char:EOLhyphen"/>bu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>t dimi<g ref="char:EOLhyphen"/>diu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> die<g ref="char:EOLhyphen"/>rum suorū.</note>
+      <hi>live out halfe their daies.</hi> For some by gluttony, drunkennesse, whoredome and such kinde of distempers bring mortall diseases upon themselves, and thereby hasten death: others doe the like by immoderate passions, as love, griefe, feare and such like: others by too much carking, watching, fasting, paines-taking, and other such excesses destroy nature: others by quarrells and duells cause themselves to be cut off before their time: others by cast<g ref="char:EOLhyphen"/>ing themselves upon desperate at<g ref="char:EOLhyphen"/>tempts shorten their daies: others by capitall crimes, bring themselves un<g ref="char:EOLhyphen"/>der the Magistrates sword which cuts them off: others by laying violent hands upon themselves, prevent the time which otherwise they might have lived: others by notorious sinnes provoke the Divine Justice to take them away by an extraordinary judge<g ref="char:EOLhyphen"/>ment. In these, and other like re<g ref="char:EOLhyphen"/>spects wicked men may be said <hi>dimi<g ref="char:EOLhyphen"/>diare dies suos,</hi> to cut off their time in the midst, or not to live halfe their
+<pb facs="8"/>
+daies▪ namely which they might other<g ref="char:EOLhyphen"/>wise have lived (according to the course of nature) if they had not fal<g ref="char:EOLhyphen"/>len into such exorbitant courses. Thus many keepe themselves from OLD-AGE. Yet it cannot be denied but that sundry wicked ones attaine there<g ref="char:EOLhyphen"/>to. Experience demonstrates as much. For howsoever OLD-AGE be pro<g ref="char:EOLhyphen"/>mised as a blessing onely to the Righ<g ref="char:EOLhyphen"/>teous, yet it is permitted to wicked ones: but as a curse through their a<g ref="char:EOLhyphen"/>buse thereof. A curse I say, both to others and to themselves. <hi>To others,</hi> in that the longer they live, the more mischiefe they doe. <hi>To themselves</hi> in this world, and in the world to come. <hi>In this world</hi> every day they multiply and aggravate sinne, and so make them<g ref="char:EOLhyphen"/>selves the more odious to God, Angells and good men; whence it commeth to passe that their <hi>name rots:</hi> it is<note place="margin">Pro. 10. 7.</note> like a rotten, pu<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>rified carrion, the lon<g ref="char:EOLhyphen"/>ger it lieth above ground, the more noisome and stinking <gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>avour it sendeth forth. <hi>In the world to come</hi> their tor<g ref="char:EOLhyphen"/>ment shall be increased according to
+<pb facs="8"/>
+the multitude and hainousnesse of their sinnes, Old wicked ones <hi>after their</hi>
+      <note place="margin">Rom 2. 5.</note>
+      <hi>heardnesse and impenitent heart, trea<g ref="char:EOLhyphen"/>sure up unto themselves wrath against the day of wrath.</hi> Such <hi>Old-Men</hi> are<note place="margin">Rev. 12 9.</note> like to the <hi>old Serpent.</hi> OLD-AGE, as spoken of in the ensuing Treatise is proper to the Righteous. It is the<note place="margin">Ante A<g ref="char:EOLhyphen"/>braham<g ref="char:EOLhyphen"/>nu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>us est appellatus senex. Hier comment. in Zac. 8. Sic Orig. in Isa. 1<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>. Hom. 15. <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap> Bona Se<g ref="char:EOLhyphen"/>nectus.</note> observation of sundry of the ancient Fathers, that <hi>Abraham</hi> the father of the faithfuil is the first that in sacred Scripture is called an <hi>Old-Man.</hi> To him it was promised as a blessing (<hi>Gen.</hi> 15. 15.) and in that respect his OLD-AGE is stiled <hi>a good Old-Age (Gen.</hi> 25. 8.) Thus to take OLD-AGE (seperated from the accidentall im<g ref="char:EOLhyphen"/>perfections thereof, such as arise not simply from OLD-AGE, but from the former and present wickednesse of evill old-men) OLD-AGE is one of the pillars wherewith politi<gap reason="illegible" resp="#apex" extent="1+ letters">
+         <desc>•…</desc>
+      </gap>s are supported. Who knowes not that a Senate or Counsell of State is a principall stay of a State. Now a Se<g ref="char:EOLhyphen"/>nat useth to consist for the most part of <hi>Old-Men:</hi> who by reason of their
+<pb facs="9"/>
+age and place are called <hi>Seniores, El<g ref="char:EOLhyphen"/>ders.</hi> In the Law we reade that <hi>Le<g ref="char:EOLhyphen"/>vites</hi>
+      <note place="margin">Numb. 8. 25.</note> having served in the house of God till they were fiftie yeares old (at which time OLD AGE beginneth) were to goe to their Cities, there to dwell as <hi>Iudges.</hi> The Jewes had<note place="margin">Deut. 17. 9. 2 Chron. 1<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>. 8.</note> their <note n="*" place="margin">
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>
+      </note> Senat or Counsell, whereunto Christ alludeth (<hi>Mat.</hi> 5. 22.) in this phrase, <hi>shall be in danger of the Counsell.</hi> This Counsell consisted of Old-Men, called <hi>Elders,</hi> of whome some were<note place="margin">Confilium, ratio, sen<g ref="char:EOLhyphen"/>tentia, ni<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>i essent in senibus non sum<g ref="char:EOLhyphen"/>mum con<g ref="char:EOLhyphen"/>silium Ma<g ref="char:EOLhyphen"/>jores nostri appellassēt Senatum▪ Cic. de Se<g ref="char:EOLhyphen"/>nect Nomen &amp; aetatis mi te senatus habe<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> O<g ref="char:EOLhyphen"/>vid lib. 5. Fast.</note> Priests, some Levits, some Nobles; most of them, if not all of them, <hi>Old-Men.</hi> So the Romans and others had their Senate of such. Hereupon the Oratour makes this inference, <hi>If coun<g ref="char:EOLhyphen"/>sell, reason, and judgement were not in Old-Men, our Ancestours would not have called the highest counsell a Senate.</hi> Yet further to prove that the Ancient are a staffe and stay to a State, the Pro<g ref="char:EOLhyphen"/>phet (<hi>Isa.</hi> 1. 2.) putteth them into the ranke of such staies as in judge<g ref="char:EOLhyphen"/>ment are taken away, and upon the taking away of whom, a state falls to ruine, as a Tent falls slat downe if the
+<pb facs="9"/>
+pole by which it is supported be ta<g ref="char:EOLhyphen"/>ken away. See the difference betwixt<note place="margin">1 King. 12 6, &amp;c.</note> the counsell of <hi>Old-Men</hi> and <hi>Young<g ref="char:EOLhyphen"/>men</hi> in <hi>Rehoboams</hi> case. Not without cause therefore is it said, <hi>that one hear<g ref="char:EOLhyphen"/>ty</hi>
+      <note place="margin">
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>. Eurip. in Andr<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>. <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>. Hom. Odys. B.</note>
+      <hi>Old-Man is of better use then many Young-men.</hi> For (as another Poet said of an Old-Man,) <hi>He knoweth many and those ancient things too.</hi> On this and other like grounds, OLD-AGE hath in all ages beene much honoured. So it was among the <note n="*" place="margin">Magna suit capiti<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap> qu<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>dam reverentia cani Ovid. 5: Fast.</note> Heathen: so much more ought it to be among Gods peo<g ref="char:EOLhyphen"/>ple. The Lord himselfe giveth this charge (<hi>Lev.</hi> 19. 32.) <hi>Thou shalt rise up before the hoary-head, and honour the face of the Old-Man, and feare thy God.</hi> This last clause (<hi>and feare thy God</hi>) sheweth that our feare of God, who is invisible, is testified by our re<g ref="char:EOLhyphen"/>verence to those that visibly beare his Image, as Old-Men doe. For God himselfe is stiled (<hi>Dan.</hi> 7. 9.) <hi>the An<g ref="char:EOLhyphen"/>cient of daies,</hi> and <hi>the haire of his head</hi> is said to be <hi>like pure wooll,</hi> that is white, not spotted, not stained, not soiled: such as the haire of Old-men useth to
+<pb facs="10"/>
+be. In allusion hereunto, S. <hi>Hierom</hi>
+      <note place="margin">Ve<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>usti di<g ref="char:EOLhyphen"/>erum caesa<g ref="char:EOLhyphen"/>ries descri<g ref="char:EOLhyphen"/>bitur can<g ref="char:EOLhyphen"/>dida, ut ae<g ref="char:EOLhyphen"/>tatis longi<g ref="char:EOLhyphen"/>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>udo mon<g ref="char:EOLhyphen"/>stretur.</note> saith, that <hi>the haire of the Ancient of daies is described to bee white, that length of daies may be declared thereby.</hi>
+   </p>
+   <p>So pithily and plentifully hath the Author of this Treatise here presen<g ref="char:EOLhyphen"/>ted to thee, handled this point, both <hi>Vindicatively,</hi> in freeing OLD-AGE<note place="margin">Hier. com<g ref="char:EOLhyphen"/>ment. lib. 8. in Isa. 24.</note> from all undue imputations against it, and also <hi>Encomiastically,</hi> by setting out the comelinesse and excellency thereof, as to speake any more there<g ref="char:EOLhyphen"/>about, would bee <hi>actum agere,</hi> to preach over the same Sermon againe, yea (as it is in the proverb) to<note place="margin">
+         <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>. Occidit mi<g ref="char:EOLhyphen"/>seros crā<g ref="char:EOLhyphen"/>be repetita magistros Iuvenal. Sat. 7.</note> set <hi>
+         <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>ole-worts twice so<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>
+      </hi> before you, which is counted as loathsome as death it selfe.</p>
+   <p>There is a Treatise of OLD-AGE of old time written by <note n="*" place="margin">MT. Cic.</note> the purest <hi>Latinist</hi> that ever spake, or wrote: for the elegancy of stile, for the solid matter of that Treatise, and for many other ornaments wherewith it is dec<g ref="char:EOLhyphen"/>ked, it hath ever beene highly accoun<g ref="char:EOLhyphen"/>ted of, and learned in most Grammar schooles: yet as farre as divine lear<g ref="char:EOLhyphen"/>ning
+<pb facs="10"/>
+excells humane, as farre as a judi<g ref="char:EOLhyphen"/>cious Divine may goe before a lear<g ref="char:EOLhyphen"/>ned <hi>Philosopher,</hi> so farre is this Trea<g ref="char:EOLhyphen"/>tise here tendred to thee, to be pre<g ref="char:EOLhyphen"/>ferred<note place="margin">Mihi qui<g ref="char:EOLhyphen"/>dem ita ju<g ref="char:EOLhyphen"/>cunda c<gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>n<g ref="char:EOLhyphen"/>sectio <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>
+         <g ref="char:EOLhyphen"/>jus libri <gap reason="illegible" resp="#apex" extent="1+ letters">
+            <desc>•…</desc>
+         </gap>u<g ref="char:EOLhyphen"/>it, ut non modo om<g ref="char:EOLhyphen"/>nes abster<g ref="char:EOLhyphen"/>serit sene<g ref="char:EOLhyphen"/>ctutis mo<g ref="char:EOLhyphen"/>lestias, sed effecerit mollem e<g ref="char:EOLhyphen"/>tiam, &amp; jucundam senectutem. <gap reason="foreign">
+            <desc>〈 in non-Latin alphabet 〉</desc>
+         </gap>.</note> before that. If the <hi>Oratour</hi> said truely of his Treatise, <hi>The ma<g ref="char:EOLhyphen"/>king of this Booke was so delight some to me, as it did not onely remove all the troubles of</hi> OLD-AGE, <hi>but also made it easy and pleasing▪</hi> much more truely and justly may the Author of this Treatise say the like of his. A Prea<g ref="char:EOLhyphen"/>chers frequent and serious meditating and ruminating on that which hee is to preach to others doth oft very much affect him before hee utter it, in uttering of it, and ever after. How much more when hee sets his after thoughts upon it, and more accuratly revieweth it for the view of all that<note place="margin">Eurip. in Hyppol. Secundae cogitati<g ref="char:EOLhyphen"/>ones sapi<g ref="char:EOLhyphen"/>entiores.</note> desire to have their meditations helped about this excellent subject, OLD-AGE. For my part I heartily thanke God that I came to such a thorow view thereof, as I have had; and with<g ref="char:EOLhyphen"/>all<note place="margin">1 Sam. 25 32, 33.</note> (as <hi>David</hi> blessed <hi>God</hi> and <hi>Abigaile</hi> in the same cause) I heartily thanke
+<pb facs="11"/>
+the <hi>Author</hi> (my Ancient good <hi>Tutor,</hi> to whom for all the good I received in Kings College Cambridge, under God, I owe all the praise) this <hi>Au<g ref="char:EOLhyphen"/>thor</hi> I heartily thanke for vouchsafing to communicate to his unworthy Pu<g ref="char:EOLhyphen"/>pill these his labours. So well I ap<g ref="char:EOLhyphen"/>prooved this Treatise in my judge<g ref="char:EOLhyphen"/>ment, such profit, sweetnesse and comfort I have found and felt in rea<g ref="char:EOLhyphen"/>ding it over againe and againe, as I could not but doe my best to bring it forth to that publick view which now it is brought to. Now I bow my knees to the <hi>Ancient of daies,</hi> that, as hitherto he hath done, he would yet longer and longer continue to pre<g ref="char:EOLhyphen"/>serve the two good <hi>Old-Men</hi> (the Author of this Treatise, and his Friend to whom he hath dedicated it) to be mirrours of such an OLD-AGE as in this Treatise is set out, that in and by their example and patterne▪ what is here written of OLD-AGE may be verified and ratified.<note place="margin">Black-Friers London. 26. Aug. 1638.</note>
+   </p>
+   <closer>
+      <signed>WILLIAM GOUGE</signed>
+   </closer>
+</div>
+        </body>
+  </text>
+</TEI>
