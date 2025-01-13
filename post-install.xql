@@ -101,4 +101,4 @@ local:generate-code($target),
 local:create-data-collection(),
 let $pmuConfig := pmc:generate-pm-config(($config:odd-available, $config:odd-internal), $config:default-odd, $config:odd-root)
 return
-    xmldb:store($config:app-root || "/modules", "pm-config.xql", $pmuConfig, "application/xquery")
+    fn:true() (: xmldb:store($config:app-root || "/modules", "pm-config.xql", $pmuConfig, "application/xquery") :)
