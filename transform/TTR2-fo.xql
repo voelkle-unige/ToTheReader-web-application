@@ -94,7 +94,6 @@ declare function model:apply($config as map(*), $input as node()*) {
                         (
                             fo:heading($config, ., ("tei-teiHeader2", css:map-rend-to-class(.)), fileDesc/titleStmt/title, 1),
                             fo:heading($config, ., ("tei-teiHeader3", css:map-rend-to-class(.)), 'Metadata', 2),
-                            fo:block($config, ., ("tei-teiHeader4", css:map-rend-to-class(.)), .//sourceDesc//vg:letDesc)
                         )
 
                     case element(figure) return
@@ -506,20 +505,6 @@ declare function model:apply($config as map(*), $input as node()*) {
                                 fo:inline($config, ., ("tei-c2", css:map-rend-to-class(.)), '.')
                             else
                                 fo:inline($config, ., ("tei-c3", css:map-rend-to-class(.)), .)
-                    case element(vg:letDesc) return
-                        (
-                            fo:heading($config, ., ("tei-vg_letDesc1", css:map-rend-to-class(.)), 'Source status:', 3),
-                            fo:block($config, ., ("tei-vg_letDesc2", css:map-rend-to-class(.)), note[@type='sourceStatus']/node()),
-                            fo:heading($config, ., ("tei-vg_letDesc3", css:map-rend-to-class(.)), 'Location:', 3),
-                            fo:block($config, ., ("tei-vg_letDesc4", css:map-rend-to-class(.)), note[@type='location']/node()),
-                            fo:heading($config, ., ("tei-vg_letDesc5", css:map-rend-to-class(.)), 'Date:', 3),
-                            fo:block($config, ., ("tei-vg_letDesc6", css:map-rend-to-class(.)), note[@type='date']/node()),
-                            fo:heading($config, ., ("tei-vg_letDesc7", css:map-rend-to-class(.)), 'Additional:', 3),
-                            fo:block($config, ., ("tei-vg_letDesc8", css:map-rend-to-class(.)), note[@type='additionalDetail']/node())
-                        )
-
-                    case element(vg:whiteline) return
-                        fo:break($config, ., ("tei-vg_whiteline", css:map-rend-to-class(.)), ., 'column', ())
                     case element() return
                         if (namespace-uri(.) = 'http://www.tei-c.org/ns/1.0') then
                             $config?apply($config, ./node())
