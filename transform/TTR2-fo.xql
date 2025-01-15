@@ -93,7 +93,7 @@ declare function model:apply($config as map(*), $input as node()*) {
                     case element(teiHeader) return
                         (
                             fo:heading($config, ., ("tei-teiHeader2", css:map-rend-to-class(.)), fileDesc/titleStmt/title, 1),
-                            fo:heading($config, ., ("tei-teiHeader3", css:map-rend-to-class(.)), 'Metadata', 2),
+                            fo:heading($config, ., ("tei-teiHeader3", css:map-rend-to-class(.)), 'Metadata', 2)
                         )
 
                     case element(figure) return
