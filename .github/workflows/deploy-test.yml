@@ -4,7 +4,7 @@ on:
     branches:
     - main
 jobs:
-  trigger:
+  trigger-pipeline:
     runs-on: ubuntu-latest
     steps:
     - run: >
@@ -12,5 +12,5 @@ jobs:
         --data 'token=${{secrets.DEPLOY_TOKEN}}'
         --data 'variables[EXISTDB_APP]=tothereader-test'
         --data 'variables[SRC_URL]=${{github.server_url}}/${{github.repository}}/archive/${{github.sha}}.zip'
-        --data 'variables[SRC_DIR]=ToTheReader-web-application-${{github.sha}}'
+        --data 'variables[SRC_DIR]=web-application-${{github.sha}}'
         --data 'variables[EXIST_VERSION]=6.2.0'
