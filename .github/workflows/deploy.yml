@@ -1,7 +1,7 @@
 name: build and deploy
 on: push
 env:
-  IMAGE_TAGS: ghcr.io/${{ github.repository }}:latest
+  IMAGE: ghcr.io/${{ github.repository }}
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,6 +9,7 @@ jobs:
     - uses: actions/checkout@v4
     - uses: redhat-actions/buildah-build@v2
       with:
-        tags: ${{ env.IMAGE_TAGS }}
+        image: ${{ env.IMAGE }}
+        containerfiles: https://gitlab.unige.ch/lettres/services/existdb/-/raw/main/Containerfile
     - if: github.ref == 'refs/heads/main'
       uses: redhat-actions/push-to-registry@v2
