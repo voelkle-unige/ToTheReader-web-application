@@ -1,10 +1,14 @@
 name: build and deploy
 on: push
+env:
+  IMAGE_TAGS: ghcr.io/${{ github.repository }}:latest
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - uses: redhat-actions/buildah-build@v2
+      with:
+        tags: ${{ env.IMAGE_TAGS }}
     - if: github.ref == 'refs/heads/main'
       uses: redhat-actions/push-to-registry@v2
