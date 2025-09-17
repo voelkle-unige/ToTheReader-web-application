@@ -6,10 +6,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
+    - uses: actions/checkout@v5
+      with:
+        repository: https://gitlab.unige.ch/lettres/services/existdb.git
+
     - uses: redhat-actions/buildah-build@v2
       with:
         image: ${{ env.IMAGE }}
-        containerfiles: https://gitlab.unige.ch/lettres/services/existdb/-/raw/main/Containerfile
+        containerfiles: ./Containerfile
     - if: github.ref == 'refs/heads/main'
       uses: redhat-actions/push-to-registry@v2
