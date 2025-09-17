@@ -2,4 +2,4 @@ name: build and deploy
 on: push
 jobs:
   build:
-    uses: https://gitlab.unige.ch/lettres/services/existdb/github-build.yaml@main
+    uses: https://gitlab.unige.ch/lettres/services/existdb/.github/workflows/github-build.yaml@main
