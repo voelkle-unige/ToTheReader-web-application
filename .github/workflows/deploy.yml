@@ -8,3 +8,5 @@ jobs:
     steps:
     - uses: actions/checkout@v5
     - uses: docker://registry.gitlab.unige.ch/lettres/services/existdb:latest
+      with:
+        args: env
