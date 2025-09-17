@@ -2,4 +2,9 @@ name: build and deploy
 on: push
 jobs:
   build:
-    uses: https://gitlab.unige.ch/lettres/services/existdb/.github/workflows/github-build.yaml@main
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: redhat-actions/buildah-build@v2
+    - if: github.ref == 'refs/heads/main'
+      uses: redhat-actions/push-to-registry@v2
