@@ -1,12 +1,7 @@
 name: build and deploy
 on: push
-env:
-  IMAGE: ghcr.io/${{ github.repository }}
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
     - uses: docker://registry.gitlab.unige.ch/lettres/services/existdb:latest
-      with:
-        args: env
