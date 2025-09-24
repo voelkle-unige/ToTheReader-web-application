@@ -1,7 +1,5 @@
-name: build and deploy
+name: deploy
 on: push
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: docker://registry.gitlab.unige.ch/lettres/services/existdb:latest
+  deploy:
+    uses: unige-lettres/existdb/.github/workflows/deploy.yaml@main
