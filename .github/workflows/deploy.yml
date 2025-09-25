@@ -1,5 +1,0 @@
-name: deploy
-on: push
-jobs:
-  deploy:
-    uses: unige-lettres/existdb/.github/workflows/deploy.yaml@main
